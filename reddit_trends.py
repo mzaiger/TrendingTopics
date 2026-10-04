@@ -5,8 +5,8 @@ Reddit popular posts (public RSS) -> reddit_trends.json
   * Topic = the post title. Description = the post's own text when it has any.
   * Posts with no text (images, links) are described by ONE Gemini call - skipped entirely if
     every post already has a description (this run or a previous one).
-  * Reddit's feed isn't a trend rank, so rank = how long a post has been around (longest = #1),
-    worked out from "started_trending" in the JSON.
+  * Reddit's feed isn't a trend rank, so rank = hours trending (longest = #1), worked out from
+    "started_trending" in the JSON. The volume line shows those hours.
   * Clicking a topic opens the post on Reddit.
   * One image per new topic from DuckDuckGo (the post's own thumbnail is the fallback).
 
@@ -114,9 +114,8 @@ def parse_feed(content: bytes) -> list[dict]:
             "url": f["link"],
             "feed_pos": pos,
             "source_start": tc.parse_time(f["published"] or f["updated"]),
-            "volume": None,
+            "volume_unit": "hours",        # volume line = hours trending
             "extra": {"subreddit": sub, "domain": domain},
-            "_image_query": f["title"][:90],
             "_image_hint": thumb if thumb.startswith("http") else None,
             "_material": f"Subreddit: {sub}\nLinked site: {domain or 'none'}\nPost title: {f['title']}",
             "_has_context": True,
@@ -150,8 +149,10 @@ def main() -> int:
         tc.gemini_fill(leftovers, TASK)
     tc.apply_templates(raw)
 
-    items = tc.finalize(raw, previous, rank_by_duration=True, now=now)
-    tc.apply_images(items, previous, tc.ImageFinder())
+    items = tc.finalize(raw, previous, rank_mode="duration", now=now)
+    finder = tc.ImageFinder()
+    tc.plan_image_queries(items, previous, finder)      # topic + description -> better search words
+    tc.apply_images(items, previous, finder)
     doc = tc.build_doc("reddit", "Reddit", items, rank_basis="time_trending",
                        region="United States", source_url=FEEDS[0])
     tc.save_json(OUT_FILE, doc)

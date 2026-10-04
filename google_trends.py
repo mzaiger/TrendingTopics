@@ -1,17 +1,20 @@
 #!/usr/bin/env python3
 """
-Google trending searches (public RSS) -> google_trends.json
+Google trending searches (public "Daily Search Trends" RSS) -> google_trends.json
 
+  * Google's feed only ever holds its 10 newest trends, so this script keeps a rolling window:
+    every topic the feed has shown in the last GOOGLE_KEEP_HOURS (default 24) stays in the file,
+    even after it drops out of the feed. Run it often and you get a full day's list.
   * Topic + short description come straight from the feed (Google's own news snippet, or the top
     news headline). Gemini is only used - in ONE call - for a topic with no description at all.
-  * Google doesn't rank the list, so rank = how long a topic has been trending (longest = #1),
-    worked out from the "started_trending" date stored in the JSON.
+  * Rank = search volume (Google's "approx traffic", highest = #1; ties -> longer trending first).
   * Clicking a topic opens a Google search for it.
   * One image per new topic from DuckDuckGo (Google's own picture is the fallback).
 
 Env vars:
   GOOGLE_TRENDS_GEO  optional, country code (default US)
-  GEMINI_KEY         optional (only used for topics with no description)
+  GOOGLE_KEEP_HOURS  optional, how long a topic stays after it leaves the feed (default 24)
+  GEMINI_KEY         optional (only used for topics with no description / image search words)
   OUT_FILE           optional, default google_trends.json
 """
 from __future__ import annotations
@@ -27,6 +30,7 @@ import trend_common as tc
 
 GEO = os.environ.get("GOOGLE_TRENDS_GEO", "US").upper()
 FEED_URL = f"https://trends.google.com/trending/rss?geo={GEO}"
+KEEP_HOURS = float(os.environ.get("GOOGLE_KEEP_HOURS", "24"))
 OUT_FILE = os.environ.get("OUT_FILE", "google_trends.json")
 
 TASK = ("explain in one or two sentences why people are searching for it on Google right now, "
@@ -78,6 +82,11 @@ def parse_feed(content: bytes) -> list[dict]:
             })
         news = [n for n in news if n["title"] or n["snippet"]]
         traffic = _text(item, "approx_traffic")
+        traffic_value = tc.parse_traffic(traffic)
+        if traffic_value is not None:
+            volume = f"{tc.fmt_count(traffic_value)}{'+' if traffic.strip().endswith('+') else ''} searches"
+        else:
+            volume = f"{traffic} searches" if traffic else None
         desc = describe(news)
         material = "\n".join(
             f"- {n['title']}" + (f" ({n['source']})" if n["source"] else "")
@@ -91,9 +100,10 @@ def parse_feed(content: bytes) -> list[dict]:
             "url": f"https://www.google.com/search?q={quote_plus(topic)}",
             "feed_pos": pos,
             "source_start": tc.parse_time(_text(item, "pubDate")),
-            "volume": f"{traffic} searches" if traffic else None,
+            "volume": volume,
+            "volume_value": traffic_value,
+            "volume_unit": "searches",
             "extra": {"news_source": news[0]["source"] if news else ""},
-            "_image_query": topic,
             "_image_hint": _text(item, "picture") or None,
             "_material": f"Search term: {topic}\nNews about it:\n{material}",
             "_has_context": bool(news),
@@ -101,6 +111,30 @@ def parse_feed(content: bytes) -> list[dict]:
         })
     tc.unique_ids(raw)
     return raw
+
+
+def carry_over(previous: dict, fresh_ids: set, now) -> list[dict]:
+    """Topics that left the feed but were seen within the last KEEP_HOURS stay in the list."""
+    out = []
+    for p in previous.get("items") or []:
+        if not isinstance(p, dict) or p.get("id") in fresh_ids or not p.get("topic"):
+            continue
+        seen = tc.parse_time(p.get("last_seen")) or tc.parse_time(p.get("first_seen"))
+        if not seen or (now - seen).total_seconds() > KEEP_HOURS * 3600:
+            continue
+        out.append({
+            "id": p["id"], "topic": p["topic"],
+            "description": p.get("description") or "",
+            "description_source": p.get("description_source") or "",
+            "url": p.get("url") or "",
+            "feed_pos": 1000 + len(out),
+            "source_start": tc.parse_time(p.get("started_trending")),
+            "volume": p.get("volume"), "volume_value": p.get("volume_value"),
+            "volume_unit": "searches",
+            "extra": p.get("extra") or {},
+            "last_seen": seen,
+        })
+    return out
 
 
 def main() -> int:
@@ -126,10 +160,24 @@ def main() -> int:
         tc.gemini_fill([x for x in leftovers if x["_has_context"]], TASK)
     tc.apply_templates(raw)
 
-    items = tc.finalize(raw, previous, rank_by_duration=True, now=now)
-    tc.apply_images(items, previous, tc.ImageFinder())
-    doc = tc.build_doc("google", "Google", items, rank_basis="time_trending",
+    # A topic that is still (or again) in the feed keeps the biggest search volume we've seen.
+    prev_by_id = {p.get("id"): p for p in (previous.get("items") or []) if isinstance(p, dict)}
+    for x in raw:
+        p = prev_by_id.get(x["id"])
+        if p and (p.get("volume_value") or 0) > (x.get("volume_value") or 0):
+            x["volume_value"], x["volume"] = p["volume_value"], p.get("volume")
+
+    kept = carry_over(previous, {x["id"] for x in raw}, now)
+    if kept:
+        tc.info(f"Keeping {len(kept)} topic(s) from the last {KEEP_HOURS:g}h that left the feed.")
+
+    items = tc.finalize(raw + kept, previous, rank_mode="volume", now=now)
+    finder = tc.ImageFinder()
+    tc.plan_image_queries(items, previous, finder)      # topic + description -> better search words
+    tc.apply_images(items, previous, finder)
+    doc = tc.build_doc("google", "Google", items, rank_basis="search_volume",
                        region=GEO, source_url=FEED_URL)
+    doc["keep_hours"] = KEEP_HOURS
     tc.save_json(OUT_FILE, doc)
     tc.info(f"Wrote {OUT_FILE}")
     return 0

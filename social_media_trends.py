@@ -6,8 +6,9 @@ Social media trends: US top 20 -> social_media_trends.json
   2. Context for each topic: recent posts (Sotwe) + last-24h news headlines (Google News RSS).
   3. ONE Gemini call writes a short description for every topic.
   4. Rank = the platform's own rank. Rank change vs the last run, and the date it first
-     started trending, are kept in the JSON.
-  5. One image per new topic from DuckDuckGo.
+     started trending, are kept in the JSON. The volume line is "hours trending".
+  5. One image per new topic from DuckDuckGo, searched with words Gemini writes from the topic
+     and its description, then the most relevant candidate is picked.
   Each topic links to a twstalker.com search.
 
 Env vars:
@@ -91,12 +92,10 @@ def get_trends() -> list[dict]:
         if not topic or key in seen:
             continue
         seen.add(key)
-        vol = it.get("tweetVolume")
         out.append({
             "topic": topic,
             "query": query,
             "is_hashtag": bool(it.get("isHashtag")) or topic.startswith("#"),
-            "volume": f"{tc.fmt_count(vol)} posts" if isinstance(vol, (int, float)) and vol else None,
             "url": f"{TWSTALKER}/search/{quote(query, safe='')}",
         })
         if len(out) == TOP_N:
@@ -217,9 +216,8 @@ def main() -> int:
             "url": t["url"],
             "feed_pos": pos,
             "source_start": None,          # the platform doesn't say; first_seen is used
-            "volume": t["volume"],
+            "volume_unit": "hours",        # volume line = hours trending
             "extra": {},
-            "_image_query": t["query"].lstrip("#"),
             "_has_context": len(posts) + len(news) > 40,
             "_material": f"Recent posts:\n{posts or '(none available)'}\n\n"
                          f"Recent news headlines:\n{news or '(none available)'}",
@@ -233,11 +231,13 @@ def main() -> int:
         tc.info(f"Kept {carried} description(s) from the previous run.")
 
     # 3) Rank, history, images, write
-    items = tc.finalize(raw, previous, rank_by_duration=False, now=now)
-    tc.apply_images(items, previous, tc.ImageFinder())
+    items = tc.finalize(raw, previous, rank_mode="feed", now=now)
+    finder = tc.ImageFinder()
+    tc.plan_image_queries(items, previous, finder)      # topic + description -> better search words
+    tc.apply_images(items, previous, finder)
     doc = tc.build_doc("social_media", "Social Media", items, rank_basis="platform_rank",
                        region="United States",
-                       source_url=f"Apify {APIFY_ACTOR.replace('~', '/')} ({APIFY_LOCATION})",
+                       source_url=f"Apify actor ({APIFY_LOCATION})",   # never put the actor id in the JSON
                        models=list(tc.GEMINI_MODELS))
     tc.save_json(OUT_FILE, doc)
     tc.info(f"Wrote {OUT_FILE}")

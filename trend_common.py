@@ -139,6 +139,18 @@ def fmt_count(n: float) -> str:
     return str(int(n))
 
 
+def parse_traffic(text: Any) -> Optional[float]:
+    """Google's "approx traffic" ("200+", "10000+", "2K+", "1M+") -> a number, or None."""
+    m = re.match(r"^\s*([\d.,]+)\s*([KMB]?)\s*\+?\s*$", str(text or ""), re.I)
+    if not m:
+        return None
+    try:
+        value = float(m.group(1).replace(",", ""))
+    except ValueError:
+        return None
+    return value * {"": 1, "K": 1e3, "M": 1e6, "B": 1e9}[m.group(2).upper()]
+
+
 def load_json(path: str | Path) -> dict:
     try:
         with open(path, encoding="utf-8") as f:
@@ -168,17 +180,23 @@ def unique_ids(raw_items: list[dict]) -> None:
 
 # --------------------------------------------------------- ranking + history bookkeeping
 
-def finalize(raw_items: list[dict], previous_doc: dict, *, rank_by_duration: bool,
+def finalize(raw_items: list[dict], previous_doc: dict, *, rank_mode: str,
              now: datetime) -> list[dict]:
     """Turn raw feed items into the final JSON items.
 
     raw item keys: id, topic, description, description_source, url, feed_pos (0-based order in
-    the feed), source_start (datetime or None), volume (str or None), extra (dict), and any
-    private keys starting with "_" (used by later steps, stripped before saving).
+    the feed), source_start (datetime or None), volume / volume_value / volume_unit, last_seen
+    (datetime, optional), extra (dict), and any private keys starting with "_" (used by later
+    steps, stripped before saving).
+
+    rank_mode:
+      "feed"      the feed's own order (social media)
+      "duration"  longest-trending first (Reddit)
+      "volume"    biggest volume_value first, ties -> longer trending (Google)
 
     started_trending = the earlier of (what the feed says, the first time we saw the topic).
-    rank = the feed's own order, or - when rank_by_duration - longest-trending first.
     rank_change = previous rank - new rank (positive = moved up).
+    For volume_unit "hours" the volume is the hours trending as of this run.
     """
     prev_items = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
     had_previous = bool(prev_items)
@@ -193,14 +211,22 @@ def finalize(raw_items: list[dict], previous_doc: dict, *, rank_by_duration: boo
             start = min(start, min(src_start, now))
         staged.append((it, p, first_seen, start))
 
-    if rank_by_duration:
+    if rank_mode == "duration":
         staged.sort(key=lambda s: (s[3], s[0].get("feed_pos", 0)))
+    elif rank_mode == "volume":
+        staged.sort(key=lambda s: (-(s[0].get("volume_value") or 0), s[3], s[0].get("feed_pos", 0)))
     else:
         staged.sort(key=lambda s: s[0].get("feed_pos", 0))
 
     out = []
     for rank, (it, p, first_seen, start) in enumerate(staged, start=1):
         prev_rank = p.get("rank") if p else None
+        hours = round(max(0.0, (now - start).total_seconds()) / 3600, 1)
+        unit = it.get("volume_unit") or ""
+        if unit == "hours":
+            volume_value, volume = hours, f"{hours:.1f} hrs trending"
+        else:
+            volume_value, volume = it.get("volume_value"), it.get("volume")
         final = {
             "id": it["id"],
             "rank": rank,
@@ -215,7 +241,11 @@ def finalize(raw_items: list[dict], previous_doc: dict, *, rank_by_duration: boo
             "image_source": "",
             "started_trending": iso(start),
             "first_seen": iso(first_seen),
-            "volume": it.get("volume"),
+            "last_seen": iso(it.get("last_seen") or now),
+            "hours_trending": hours,
+            "volume": volume,
+            "volume_value": volume_value,
+            "volume_unit": unit,
             "extra": it.get("extra") or {},
         }
         for k, v in it.items():          # keep private "_..." keys for the image step
@@ -295,13 +325,13 @@ class ModelUnavailable(Exception):
     pass
 
 
-def _parse_descriptions(raw: str) -> Optional[dict[int, str]]:
+def _parse_rows(raw: str, list_key: str, field: str) -> Optional[dict[int, str]]:
     try:
         data = json.loads(raw)
-        rows = data["descriptions"] if isinstance(data, dict) else data
+        rows = data[list_key] if isinstance(data, dict) else data
         out = {}
         for row in rows:
-            text = str(row["description"]).strip()
+            text = str(row[field]).strip()
             if text:
                 out[int(row["id"])] = text
         return out or None
@@ -309,7 +339,8 @@ def _parse_descriptions(raw: str) -> Optional[dict[int, str]]:
         return None
 
 
-def _call_model(model: str, prompt: str, api_key: str) -> Optional[dict[int, str]]:
+def _call_model(model: str, prompt: str, api_key: str, list_key: str, field: str
+                ) -> Optional[dict[int, str]]:
     """One model. Returns {id: text}, or None if the reply was unusable.
     Raises ModelUnavailable on any 4xx so the caller can fall through to the next model."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
@@ -335,11 +366,29 @@ def _call_model(model: str, prompt: str, api_key: str) -> Optional[dict[int, str
         except (KeyError, IndexError, ValueError, TypeError) as e:
             warn(f"  {model}: unreadable response ({e})")   # e.g. blocked by safety filters
             return None
-        out = _parse_descriptions(raw)
+        out = _parse_rows(raw, list_key, field)
         if out is None:
             warn(f"  {model}: reply wasn't the expected JSON")
         return out
     return None
+
+
+def _gemini_batch(prompt: str, list_key: str, field: str) -> tuple[dict[int, str], Optional[str]]:
+    """ONE call (with the model fallback chain). Returns ({id: text}, model_used)."""
+    api_key = os.environ.get("GEMINI_KEY")
+    if not api_key:
+        warn("GEMINI_KEY not set - skipping Gemini.")
+        return {}, None
+    for model in GEMINI_MODELS:
+        try:
+            result = _call_model(model, prompt, api_key, list_key, field)
+        except ModelUnavailable as e:
+            warn(f"  {model} unavailable, trying next: {e}")
+            continue
+        if result:
+            return result, model
+        warn(f"  {model} gave no usable answer, trying next.")
+    return {}, None
 
 
 def gemini_fill(targets: list[dict], task: str) -> Optional[str]:
@@ -347,32 +396,147 @@ def gemini_fill(targets: list[dict], task: str) -> Optional[str]:
     Sets description + description_source="gemini". Returns the model used, or None."""
     if not targets:
         return None
-    api_key = os.environ.get("GEMINI_KEY")
-    if not api_key:
-        warn("GEMINI_KEY not set - skipping Gemini.")
-        return None
     entries = [{"id": i, "topic": t["topic"], "material": t["_material"]}
                for i, t in enumerate(targets, start=1)]
-    prompt = _gemini_prompt(entries, task)
     info(f"Asking Gemini about {len(entries)} topic(s) in one call...")
-    for model in GEMINI_MODELS:
-        try:
-            result = _call_model(model, prompt, api_key)
-        except ModelUnavailable as e:
-            warn(f"  {model} unavailable, trying next: {e}")
+    result, model = _gemini_batch(_gemini_prompt(entries, task), "descriptions", "description")
+    for i, t in enumerate(targets, start=1):
+        if result.get(i):
+            t["description"] = shorten(result[i], 300)
+            t["description_source"] = "gemini"
+    if result:
+        info(f"Got {len(result)} description(s) from {model}")
+    return model
+
+
+# ------------------------------------------------------------------ image search queries
+
+_QUERY_STOP = {
+    "the", "this", "that", "these", "those", "here", "there", "after", "before", "with", "from",
+    "what", "when", "where", "why", "how", "who", "will", "would", "could", "should", "also",
+    "reportedly", "unconfirmed", "trending", "popular", "latest", "today", "week", "says",
+    "said", "amid", "over", "about", "into", "than", "their", "they", "your", "have", "been",
+}
+
+
+def heuristic_query(topic: str, description: str = "") -> str:
+    """Fallback image query when Gemini isn't available: the topic plus up to two distinctive
+    capitalised words from its description (usually a name)."""
+    t = re.sub(r"\s+", " ", (topic or "").lstrip("#")).strip()
+    known = {w.lower() for w in re.findall(r"[A-Za-z0-9']+", t)}
+    extras: list[str] = []
+    for w in re.findall(r"\b[A-Z][A-Za-z'\u2019-]{3,}\b", description or ""):
+        wl = w.lower()
+        if wl in known or wl in _QUERY_STOP or wl in (e.lower() for e in extras):
             continue
-        if result:
-            for i, t in enumerate(targets, start=1):
-                if result.get(i):
-                    t["description"] = shorten(result[i], 300)
-                    t["description_source"] = "gemini"
-            info(f"Got {len(result)} description(s) from {model}")
-            return model
-        warn(f"  {model} gave no usable descriptions, trying next.")
-    return None
+        extras.append(w)
+        if len(extras) == 2:
+            break
+    return " ".join([t] + extras)[:120].strip()
+
+
+def _query_prompt(entries: list[dict]) -> str:
+    blocks = [f"=== TOPIC id={e['id']} ===\nTopic: {e['topic']}\nDescription: {e['description'] or '(none)'}"
+              for e in entries]
+    return (
+        "You write image-search queries for a trending-topics page.\n\n"
+        f"For EACH of the {len(entries)} topics below, write ONE short query (2 to 7 words) that "
+        "will find a photo of the topic's main subject on an image search engine.\n\n"
+        "Rules:\n"
+        "- The main topic is the subject of the picture. Use the description only to pick the right "
+        "meaning (which person, team, event, product or place).\n"
+        "- Prefer proper names: full person names, team names, places, product or show titles.\n"
+        "- For a match-up like \"A vs B\", include both sides.\n"
+        "- Do not add words like photo, image, picture, news or today. No hashtags or quotes.\n"
+        "- If the topic is abstract, search for its most recognisable visual.\n\n"
+        "Return JSON only: {\"queries\": [{\"id\": 1, \"query\": \"...\"}]}\n\n"
+        + "\n\n".join(blocks)
+    )
+
+
+def plan_image_queries(items: list[dict], previous_doc: dict, finder: "ImageFinder") -> None:
+    """Set "_image_query" on each item that still needs a picture.
+
+    Starts from a keyword fallback, then (one Gemini call for all of them) asks Gemini to write a
+    better query from the topic + description. Items that already have a DuckDuckGo image from a
+    previous run are skipped, so a quiet run makes no call at all.
+    """
+    prev = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
+    need = []
+    for it in items:
+        old = prev.get(it["id"])
+        if old and old.get("image_url") and old.get("image_source") == "duckduckgo":
+            continue
+        it["_image_query"] = heuristic_query(it["topic"], it.get("description", ""))
+        need.append(it)
+    need = need[: finder.max_lookups]
+    if not need or not finder.enabled or os.environ.get("IMAGE_QUERY_GEMINI", "1") == "0":
+        return
+    entries = [{"id": i, "topic": it["topic"], "description": it.get("description", "")}
+               for i, it in enumerate(need, start=1)]
+    info(f"Asking Gemini for image search queries for {len(entries)} new topic(s)...")
+    result, model = _gemini_batch(_query_prompt(entries), "queries", "query")
+    for i, it in enumerate(need, start=1):
+        q = re.sub(r"\s+", " ", result.get(i, "")).replace('"', "").strip()
+        if q:
+            it["_image_query"] = q[:120]
+    if result:
+        info(f"Got {len(result)} image query(ies) from {model}")
 
 
 # ----------------------------------------------------------------- DuckDuckGo images
+
+_TITLE_STOP = {"the", "a", "an", "of", "and", "vs", "v", "in", "on", "at", "to", "for", "with",
+               "is", "are", "by", "from", "new", "news", "photo", "image", "pictures", "picture",
+               "official", "live"}
+_JUNK_WORDS = ("logo", "icon", "clipart", "clip art", "vector", "wallpaper", "template", "mockup")
+_WATERMARK_HOSTS = ("alamy.", "shutterstock.", "gettyimages.", "dreamstime.", "istockphoto.",
+                    "depositphotos.", "123rf.", "pinterest.")
+
+
+def _tokens(text: str) -> set[str]:
+    return {t for t in re.findall(r"[a-z0-9]+", (text or "").lower())
+            if len(t) > 1 and t not in _TITLE_STOP}
+
+
+def pick_best_image(results: list[dict], topic: str, query: str) -> Optional[str]:
+    """Choose the most relevant of DuckDuckGo's candidates.
+
+    The search engine only matches keywords, so we check each candidate's own title/source against
+    the topic (weighted most) and the query, prefer decent-sized, normal-shaped pictures, and avoid
+    logos / clip art / stock-photo watermarks. Returns None if nothing shares a word with the topic.
+    """
+    topic_t = _tokens(topic)
+    extra_t = _tokens(query) - topic_t
+    best_url, best_score, best_hit = None, -1e9, False
+    for idx, r in enumerate(results):
+        url = r.get("image") or ""
+        if not url.startswith("http"):
+            continue
+        title = f"{r.get('title') or ''} {r.get('source') or ''}"
+        title_t = _tokens(title)
+        topic_cov = len(topic_t & title_t) / max(1, len(topic_t))
+        extra_cov = len(extra_t & title_t) / max(1, len(extra_t)) if extra_t else 0.0
+        score = 4.0 * topic_cov + 2.0 * extra_cov
+        w, h = r.get("width"), r.get("height")
+        if isinstance(w, (int, float)) and isinstance(h, (int, float)) and w > 0 and h > 0:
+            if min(w, h) < 200:
+                score -= 3.0
+            elif w >= 500:
+                score += 0.5
+            score += 0.5 if 0.6 <= w / h <= 2.4 else -1.0
+        low = f"{title} {url}".lower()
+        if any(j in low for j in _JUNK_WORDS) and not any(j in topic.lower() for j in _JUNK_WORDS):
+            score -= 1.5
+        if url.lower().split("?")[0].endswith(".svg"):
+            score -= 3.0
+        if any(hst in url.lower() for hst in _WATERMARK_HOSTS):
+            score -= 0.5
+        score -= idx * 0.05            # DuckDuckGo's own order breaks ties
+        if score > best_score:
+            best_url, best_score, best_hit = url, score, (topic_cov > 0 or extra_cov > 0)
+    return best_url if best_hit else None
+
 
 def _retryable(msg: str) -> bool:
     m = msg.lower()
@@ -402,6 +566,7 @@ class ImageFinder:
         self.region = os.environ.get("IMAGE_REGION", "us-en")
         self.safesearch = os.environ.get("IMAGE_SAFESEARCH", "moderate")
         self.timeout = 20
+        self.candidates = int(os.environ.get("IMAGE_CANDIDATES", "12"))
         self.lookups = 0
         self.failures_in_a_row = 0
         self.blocked = False
@@ -416,18 +581,15 @@ class ImageFinder:
             self._client_obj = DDGS(proxy=self.proxy, timeout=self.timeout)
         return self._client_obj
 
-    def _search(self, query: str) -> tuple[Optional[str], str]:
+    def _search(self, query: str) -> tuple[list[dict], str]:
         backoff = 4.0
         reason = "retry_exhausted"
         for attempt in range(1, self.max_retries + 1):
             try:
-                results = self._client().images(
-                    query, region=self.region, safesearch=self.safesearch, max_results=5)
-                for r in results:
-                    url = r.get("image")
-                    if url and url.startswith("http"):
-                        return url, "ok"
-                return None, "no_results"
+                results = list(self._client().images(
+                    query, region=self.region, safesearch=self.safesearch,
+                    max_results=self.candidates))
+                return results, ("ok" if results else "no_results")
             except RatelimitException:
                 reason = "ratelimit"
             except TimeoutException:
@@ -435,27 +597,30 @@ class ImageFinder:
             except Exception as e:  # DDGSException and anything the HTTP layer raises
                 reason = f"error: {e}"
                 if not _retryable(str(e)):
-                    return None, reason
+                    return [], reason
             if attempt < self.max_retries:
                 wait = min(backoff + random.uniform(0, backoff * 0.5), 60.0)
                 warn(f"  image search {reason} on {query!r} (attempt {attempt}/{self.max_retries}) "
                      f"- retrying in {wait:.0f}s")
                 time.sleep(wait)
                 backoff = min(backoff * 2, 60.0)
-        return None, reason
+        return [], reason
 
-    def find(self, query: str) -> Optional[str]:
+    def find(self, query: str, topic: Optional[str] = None) -> Optional[str]:
         q = re.sub(r"\s+", " ", query or "").replace('"', "").strip()[:200]
         if not q or not self.enabled or self.blocked:
             return None
-        key = q.lower()
+        key = f"{q.lower()}|{(topic or '').lower()}"
         if key in self.cache:
             return self.cache[key]
         if self.lookups >= self.max_lookups:
             return None
         self.lookups += 1
-        url, reason = self._search(q)
-        if url or reason == "no_results":
+        results, reason = self._search(q)
+        url = pick_best_image(results, topic or q, q) if results else None
+        if results and not url:
+            reason = "no_match"
+        if results or reason == "no_results":
             self.failures_in_a_row = 0
             self.cache[key] = url
         else:
@@ -478,7 +643,7 @@ def apply_images(items: list[dict], previous_doc: dict, finder: ImageFinder) -> 
         if old and old.get("image_url") and old.get("image_source") == "duckduckgo":
             it["image_url"], it["image_source"] = old["image_url"], "duckduckgo"
             continue
-        url = finder.find(it.get("_image_query") or it["topic"])
+        url = finder.find(it.get("_image_query") or it["topic"], topic=it["topic"])
         if url:
             it["image_url"], it["image_source"] = url, "duckduckgo"
         elif it.get("_image_hint"):
