@@ -1,0 +1,228 @@
+{
+  "updated": "2026-10-04T10:45:35+00:00",
+  "region": "United States",
+  "source": "Apify automation-lab/twitter-trends-scraper (US)",
+  "models": [
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+    "gemini-2.5-flash-lite"
+  ],
+  "trends": [
+    {
+      "rank": 1,
+      "topic": "YEONJUN MIUMIU PRINCE",
+      "reason": null,
+      "model": null,
+      "volume": null,
+      "sources": [],
+      "search_url": "https://twstalker.com/search/%22YEONJUN%2BMIUMIU%2BPRINCE%22"
+    },
+    {
+      "rank": 2,
+      "topic": "Lewis",
+      "reason": "Lewis is trending due to various news items, including updates on Julian Lewis, a measles outbreak in Lewis County, and articles regarding Michael Lewis and Lewis Hamilton.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Lewis"
+    },
+    {
+      "rank": 3,
+      "topic": "#BahrainGP",
+      "reason": "The Bahrain Grand Prix is trending due to intense rain and thunderstorms causing start delays, formation lap chaos, and a halted start at Sepang.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/%23BahrainGP"
+    },
+    {
+      "rank": 4,
+      "topic": "Good Sunday",
+      "reason": "Users are discussing the phrase Good Sunday in connection with NFL Sunday Ticket, game prop betting, and weekend roast menus.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/%22Good%2BSunday%22"
+    },
+    {
+      "rank": 5,
+      "topic": "Ferrari",
+      "reason": "Ferrari is trending due to Formula 1 news, including Leclerc demanding upgrades, team updates, and headlines about celebrity car purchases like Zlatan Ibrahimovic's new F80.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Ferrari"
+    },
+    {
+      "rank": 6,
+      "topic": "Max Verstappen",
+      "reason": "Max Verstappen is trending after winning the chaotic, rain-delayed Bahrain Grand Prix held in Malaysia, marking his first victory of the 2026 season.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/%22Max%2BVerstappen%22"
+    },
+    {
+      "rank": 7,
+      "topic": "Kimi",
+      "reason": "Kimi Antonelli is trending following his performance and title lead extension at the Bahrain Grand Prix in Malaysia, along with his qualifying comments.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Kimi"
+    },
+    {
+      "rank": 8,
+      "topic": "Lucki",
+      "reason": "Lucki is trending because he was reportedly stabbed during an alleged fight with Playboi Carti's team at ComplexCon in Los Angeles.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Lucki"
+    },
+    {
+      "rank": 9,
+      "topic": "McLaren",
+      "reason": "McLaren is trending due to news about Lando Norris struggling with car pace and performance issues during the race weekend in Malaysia.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/McLaren"
+    },
+    {
+      "rank": 10,
+      "topic": "Antonelli",
+      "reason": "Kimi Antonelli is trending after finishing on the podium at the Formula 1 Bahrain Grand Prix in Malaysia, where Max Verstappen won the race and Antonelli extended his championship lead.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Antonelli"
+    },
+    {
+      "rank": 11,
+      "topic": "#YUJINxLacosteSS27",
+      "reason": null,
+      "model": null,
+      "volume": null,
+      "sources": [],
+      "search_url": "https://twstalker.com/search/%23YUJINxLacosteSS27"
+    },
+    {
+      "rank": 12,
+      "topic": "SpaceXSI",
+      "reason": "Elon Musk stated that SpaceXAI will be renamed SpaceXSI.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/SpaceXSI"
+    },
+    {
+      "rank": 13,
+      "topic": "Sepang",
+      "reason": "Sepang is trending because heavy thunderstorms and rain delayed the start of the Formula 1 Bahrain Grand Prix in Malaysia, which was ultimately won by Verstappen.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Sepang"
+    },
+    {
+      "rank": 14,
+      "topic": "Ty France",
+      "reason": "Ty France is trending because his potential ninth-inning go-ahead home run for the Padres hit a stadium cable or roof, resulting in a controversial out and a Brewers win.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/%22Ty%2BFrance%22"
+    },
+    {
+      "rank": 15,
+      "topic": "Carti",
+      "reason": "Playboi Carti is trending following reports that rapper Lucki was allegedly stabbed after a fight with Carti's team, alongside new fashion collaborations and festival lineup announcements.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Carti"
+    },
+    {
+      "rank": 16,
+      "topic": "Malaysia",
+      "reason": "Malaysia is trending because it is hosting a chaotic, rain-delayed Bahrain Grand Prix won by Max Verstappen.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Malaysia"
+    },
+    {
+      "rank": 17,
+      "topic": "Padres",
+      "reason": "The Padres are trending following a controversial Game 1 loss to the Brewers, which featured a wild ninth-inning fly ball review that denied Ty France a potential go-ahead home run.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Padres"
+    },
+    {
+      "rank": 18,
+      "topic": "Brewers",
+      "reason": "The Milwaukee Brewers are trending after defeating the San Diego Padres in Game 1 of the NLDS, featuring a clutch performance by Contreras and a historic postseason home run by Chourio.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Brewers"
+    },
+    {
+      "rank": 19,
+      "topic": "Statcast",
+      "reason": "Statcast is trending as users discuss recent Major League Baseball postseason games, including a controversial fly ball ruling in the Padres-Brewers matchup and a costly baserunning blunder in the Yankees-Rays game.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Statcast"
+    },
+    {
+      "rank": 20,
+      "topic": "Baylor",
+      "reason": "Baylor is trending following their dominant 55-19 college football victory over Arizona State, highlighted by DJ Lagway accounting for five touchdowns.",
+      "model": "gemini-3.5-flash-lite",
+      "volume": null,
+      "sources": [
+        "news"
+      ],
+      "search_url": "https://twstalker.com/search/Baylor"
+    }
+  ]
+}
