@@ -4,7 +4,7 @@ name: Update Reddit trends
 # repository_dispatch event (or when you click "Run workflow" in the Actions tab).
 on:
   repository_dispatch:
-    types: [trigger-trending-pull, trigger-expiration-pull]
+    types: [trigger-trending-pull, trigger-expiration-pull, trigger-feeds-pull]
   workflow_dispatch:
 
 permissions:
