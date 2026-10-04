@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Get the US top-20 X (Twitter) trends from an Apify actor, gather context for each
-(recent tweets from Sotwe + recent news headlines from Google News), ask Gemini why
-it's trending, and write trends.json for index.html.
+(recent tweets from Sotwe + recent news headlines from Google News), ask Gemini (one call
+for all topics) why they're trending, and write trends.json for index.html.
 
 Each trend's link goes to twstalker.com/search/<topic>.
 
@@ -33,10 +33,9 @@ SOTWE = "https://www.sotwe.com"
 NEWS_RSS = "https://news.google.com/rss/search"
 
 TOP_N = 20
-MAX_CHARS = 6000          # tweet text sent to Gemini per topic
-MAX_HEADLINES = 8
+MAX_CHARS = 1500          # tweet text sent to Gemini per topic (all topics share one prompt)
+MAX_HEADLINES = 5
 PAGE_DELAY = 2.0          # seconds between requests to the same sites (be polite)
-GEMINI_DELAY = 1.0        # seconds between Gemini calls
 
 # Same chain as SportsDashboard/scripts/gemini_predictions.py, tried top to bottom.
 # (gemini-2.0-flash-lite is left out: that script notes it was retired June 1, 2026.)
@@ -173,36 +172,57 @@ def get_headlines(t: dict) -> str:
 
 # ---------------------------------------------------------------------------- Gemini
 
-PROMPT = """You are summarizing why a topic is trending on X (Twitter) in the United States.
+PROMPT = """You are summarizing why topics are trending on X (Twitter) in the United States.
 
-Topic: {topic}
+Below are {count} topics. Each has recent tweets (newest first) and/or news headlines from the last 24 hours.
+For EACH topic, write ONE or TWO short sentences (max 40 words) explaining why it is trending right now.
 
-Recent tweets mentioning it (newest first, with relative times):
----
-{tweets}
----
-
-Recent news headlines about it (last 24 hours):
----
-{news}
----
-
-Write ONE or TWO short sentences (max 40 words total) explaining why this topic is trending right now.
 Rules:
-- Use only what the tweets and headlines say. Do not invent facts or add background you can't see in them.
+- Use only what is shown under that topic. Do not invent facts or add background you can't see there.
+- Do not mix up topics: each reason must come from its own topic's material.
 - If something is unconfirmed, say "reportedly" or "unconfirmed".
 - Ignore spam, ads, insults and unrelated arguments. Never repeat slurs or personal attacks.
 - If the reason isn't clear from the material, say so plainly.
 - Plain language, no hashtags, no emojis, no usernames.
-Return JSON: {{"reason": "..."}}"""
+
+Return JSON only, with exactly one entry per topic id:
+{{"reasons": [{{"id": 1, "reason": "..."}}, {{"id": 2, "reason": "..."}}]}}
+
+{blocks}"""
 
 
 class ModelUnavailable(Exception):
     pass
 
 
-def _call_model(model: str, prompt: str) -> str | None:
-    """Ask one model. Returns the reason, or None if the reply was unusable.
+def build_prompt(entries: list[dict]) -> str:
+    blocks = []
+    for e in entries:
+        blocks.append(
+            f"=== TOPIC id={e['id']}: {e['topic']} ===\n"
+            f"Tweets:\n{e['tweets'] or '(none available)'}\n"
+            f"Headlines:\n{e['news'] or '(none available)'}"
+        )
+    return PROMPT.format(count=len(entries), blocks="\n\n".join(blocks))
+
+
+def _parse_reasons(raw: str) -> dict[int, str] | None:
+    """{id: reason} from the model's JSON, or None if it isn't usable."""
+    try:
+        data = json.loads(raw)
+        rows = data["reasons"] if isinstance(data, dict) else data
+        out = {}
+        for row in rows:
+            reason = str(row["reason"]).strip()
+            if reason:
+                out[int(row["id"])] = reason
+        return out or None
+    except (KeyError, ValueError, TypeError):
+        return None
+
+
+def _call_model(model: str, prompt: str) -> dict[int, str] | None:
+    """Ask one model. Returns {id: reason}, or None if the reply was unusable.
     Raises ModelUnavailable on any 4xx (rate limit, quota, retired model)
     so the caller can fall through to the next model in the chain."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
@@ -214,7 +234,7 @@ def _call_model(model: str, prompt: str) -> str | None:
 
     for attempt in range(3):
         try:
-            r = requests.post(url, headers=headers, json=body, timeout=60)
+            r = requests.post(url, headers=headers, json=body, timeout=120)
         except requests.RequestException as e:
             print(f"  {model}: request error ({e})", file=sys.stderr)
             time.sleep(2 ** attempt * 3)
@@ -226,30 +246,44 @@ def _call_model(model: str, prompt: str) -> str | None:
             continue
         try:
             raw = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-            return json.loads(raw)["reason"].strip()
         except (KeyError, IndexError, ValueError, TypeError) as e:
             # e.g. blocked by safety filters, or no candidates returned
             print(f"  {model}: unreadable response ({e})", file=sys.stderr)
             return None
+        reasons = _parse_reasons(raw)
+        if reasons is None:
+            print(f"  {model}: reply wasn't the expected JSON", file=sys.stderr)
+        return reasons
     return None
 
 
-def ask_gemini(topic: str, tweets: str, news: str) -> tuple[str | None, str | None]:
-    """Returns (reason, model_used). Falls back down GEMINI_MODELS on 4xx."""
-    prompt = PROMPT.format(
-        topic=topic,
-        tweets=tweets or "(none available)",
-        news=news or "(none available)",
-    )
+def ask_gemini(entries: list[dict]) -> tuple[dict[int, str], str | None]:
+    """One call for all topics. Returns ({id: reason}, model_used).
+    Moves to the next model in GEMINI_MODELS on a 4xx or an unusable reply."""
+    prompt = build_prompt(entries)
     for model in GEMINI_MODELS:
         try:
-            return _call_model(model, prompt), model
+            reasons = _call_model(model, prompt)
         except ModelUnavailable as e:
             print(f"  {model} unavailable, trying next: {e}", file=sys.stderr)
-    return None, None
+            continue
+        if reasons:
+            return reasons, model
+        print(f"  {model} gave no usable reasons, trying next.", file=sys.stderr)
+    return {}, None
 
 
 # ------------------------------------------------------------------------------ main
+
+def load_previous_reasons() -> dict[str, str]:
+    """{topic (lowercase): reason} from the existing trends.json, if there is one."""
+    try:
+        with open(OUT_FILE, encoding="utf-8") as f:
+            old = json.load(f)
+        return {x["topic"].lower(): x["reason"] for x in old.get("trends", []) if x.get("reason")}
+    except (OSError, ValueError, KeyError, TypeError, AttributeError):
+        return {}
+
 
 def main() -> int:
     missing = [n for n, v in (("APIFY_TOKEN", APIFY_TOKEN), ("GEMINI_KEY", API_KEY)) if not v]
@@ -278,8 +312,9 @@ def main() -> int:
         return 1
     print(f"Got {len(trends)} trends: {', '.join(t['topic'] for t in trends)}")
 
+    # 1) Gather context for every topic
     sotwe_blocked = False
-    results = []
+    contexts = {}
     for rank, t in enumerate(trends, start=1):
         topic = t["topic"]
         print(f"[{rank}/{len(trends)}] {topic}")
@@ -302,19 +337,38 @@ def main() -> int:
             news = get_headlines(t)
         except (requests.RequestException, ET.ParseError) as e:
             print(f"  News fetch failed: {e}", file=sys.stderr)
+        contexts[rank] = (tweets, news)
 
-        reason, model_used = None, None
-        if len(tweets) + len(news) > 40:
-            reason, model_used = ask_gemini(topic, tweets, news)
-            time.sleep(GEMINI_DELAY)
-        else:
-            print("  Not enough context found; skipping Gemini.", file=sys.stderr)
+    # 2) One Gemini call for every topic that has something to summarize
+    entries = [
+        {"id": rank, "topic": trends[rank - 1]["topic"], "tweets": tw, "news": nw}
+        for rank, (tw, nw) in contexts.items()
+        if len(tw) + len(nw) > 40
+    ]
+    reasons, model_used = {}, None
+    if entries:
+        print(f"Asking Gemini about {len(entries)} topics in one call...")
+        reasons, model_used = ask_gemini(entries)
+        print(f"Got {len(reasons)} reasons" + (f" from {model_used}" if model_used else ""))
+    else:
+        print("No topic had enough context; skipping Gemini.", file=sys.stderr)
 
+    # 3) Write trends.json. If Gemini gave nothing for a topic that was also in the last
+    #    run, keep its previous reason so one failed call doesn't blank the whole page.
+    previous = load_previous_reasons()
+    results = []
+    for rank, t in enumerate(trends, start=1):
+        tweets, news = contexts[rank]
+        reason = reasons.get(rank)
+        carried = False
+        if not reason and t["topic"].lower() in previous:
+            reason, carried = previous[t["topic"].lower()], True
         results.append({
             "rank": rank,
-            "topic": topic,
+            "topic": t["topic"],
             "reason": reason,
-            "model": model_used,
+            "reason_carried_over": carried,
+            "model": model_used if (reason and not carried) else None,
             "volume": t["volume"],
             "sources": [n for n, v in (("tweets", tweets), ("news", news)) if v],
             "search_url": t["url"],
