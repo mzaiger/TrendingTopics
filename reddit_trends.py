@@ -3,10 +3,12 @@
 Reddit popular posts (public RSS) -> reddit_trends.json
 
   * Topic = the post title. Description = the post's own text when it has any.
-  * Posts with no text (images, links) are described by ONE Gemini call - skipped entirely if
-    every post already has a description (this run or a previous one).
-  * Reddit's feed isn't a trend rank, so rank = hours trending (longest = #1), worked out from
-    "started_trending" in the JSON. The volume line shows those hours.
+  * Posts with no text (images, links) are described by Gemini. That is the ONLY Gemini call of
+    the run: it also writes image search words for new posts, and it is skipped entirely when
+    nothing needs either.
+  * Reddit's feed isn't a trend rank, so rank = hours trending (longest = #1). Hours trending
+    count from the date the post was ADDED to the JSON ("started_trending"), not from when the
+    post was created; the post's creation time is kept as "published" for the "time ago" text.
   * Clicking a topic opens the post on Reddit.
   * One image per new topic from DuckDuckGo (the post's own thumbnail is the fallback).
 
@@ -142,16 +144,16 @@ def main() -> int:
         return 1
     tc.info(f"Got {len(raw)} Reddit posts")
 
-    # Description: post text -> last run -> Gemini (one call, only the leftovers) -> template
+    # Description: post text -> last run -> Gemini -> template.
+    # ONE Gemini call covers both the posts with no text and the image search words for new posts.
     tc.reuse_previous(raw, previous)
+    finder = tc.ImageFinder()
     leftovers = [x for x in raw if not x["description"]]
-    if leftovers:
-        tc.gemini_fill(leftovers, TASK)
+    image_targets = tc.items_needing_images(raw, previous, finder.max_lookups) if finder.enabled else []
+    tc.gemini_enrich(leftovers, image_targets, TASK)
     tc.apply_templates(raw)
 
     items = tc.finalize(raw, previous, rank_mode="duration", now=now)
-    finder = tc.ImageFinder()
-    tc.plan_image_queries(items, previous, finder)      # topic + description -> better search words
     tc.apply_images(items, previous, finder)
     doc = tc.build_doc("reddit", "Reddit", items, rank_basis="time_trending",
                        region="United States", source_url=FEEDS[0])

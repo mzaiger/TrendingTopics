@@ -3,17 +3,21 @@
 Google trending searches (public "Daily Search Trends" RSS) -> google_trends.json
 
   * Google's feed only ever holds its 10 newest trends, so this script keeps a rolling window:
-    every topic the feed has shown in the last GOOGLE_KEEP_HOURS (default 24) stays in the file,
-    even after it drops out of the feed. Run it often and you get a full day's list.
+    every topic stays in the file for GOOGLE_KEEP_HOURS (default 48) after it was added, even once
+    it drops out of the feed. Older topics are truncated. The page shows the top 20 by search volume.
   * Topic + short description come straight from the feed (Google's own news snippet, or the top
-    news headline). Gemini is only used - in ONE call - for a topic with no description at all.
-  * Rank = search volume (Google's "approx traffic", highest = #1; ties -> longer trending first).
+    news headline). Gemini is only used for a topic with no description - and it is the ONLY Gemini
+    call of the run (it also writes image search words for new topics).
+  * Rank = search volume (Google's "approx traffic", highest = #1; ties -> longer on the list first).
+  * Hours trending / time filters count from the date a topic was ADDED to the JSON; Google's own
+    start time is kept as "published" for the "time ago" text.
   * Clicking a topic opens a Google search for it.
   * One image per new topic from DuckDuckGo (Google's own picture is the fallback).
 
 Env vars:
   GOOGLE_TRENDS_GEO  optional, country code (default US)
-  GOOGLE_KEEP_HOURS  optional, how long a topic stays after it leaves the feed (default 24)
+  GOOGLE_KEEP_HOURS  optional, hours a topic is kept after it was added (default 48)
+  GOOGLE_TOP_N       optional, how many topics the page shows, by search volume (default 20)
   GEMINI_KEY         optional (only used for topics with no description / image search words)
   OUT_FILE           optional, default google_trends.json
 """
@@ -30,7 +34,8 @@ import trend_common as tc
 
 GEO = os.environ.get("GOOGLE_TRENDS_GEO", "US").upper()
 FEED_URL = f"https://trends.google.com/trending/rss?geo={GEO}"
-KEEP_HOURS = float(os.environ.get("GOOGLE_KEEP_HOURS", "24"))
+KEEP_HOURS = float(os.environ.get("GOOGLE_KEEP_HOURS", "48"))
+TOP_N = int(os.environ.get("GOOGLE_TOP_N", "20"))
 OUT_FILE = os.environ.get("OUT_FILE", "google_trends.json")
 
 TASK = ("explain in one or two sentences why people are searching for it on Google right now, "
@@ -114,21 +119,23 @@ def parse_feed(content: bytes) -> list[dict]:
 
 
 def carry_over(previous: dict, fresh_ids: set, now) -> list[dict]:
-    """Topics that left the feed but were seen within the last KEEP_HOURS stay in the list."""
+    """Topics that left the feed stay until they are KEEP_HOURS old (counted from when they were
+    added to the JSON); older ones are truncated."""
     out = []
     for p in previous.get("items") or []:
         if not isinstance(p, dict) or p.get("id") in fresh_ids or not p.get("topic"):
             continue
-        seen = tc.parse_time(p.get("last_seen")) or tc.parse_time(p.get("first_seen"))
-        if not seen or (now - seen).total_seconds() > KEEP_HOURS * 3600:
+        added = tc.parse_time(p.get("first_seen")) or tc.parse_time(p.get("started_trending"))
+        if not added or (now - added).total_seconds() > KEEP_HOURS * 3600:
             continue
+        seen = tc.parse_time(p.get("last_seen")) or added
         out.append({
             "id": p["id"], "topic": p["topic"],
             "description": p.get("description") or "",
             "description_source": p.get("description_source") or "",
             "url": p.get("url") or "",
             "feed_pos": 1000 + len(out),
-            "source_start": tc.parse_time(p.get("started_trending")),
+            "source_start": tc.parse_time(p.get("published")),
             "volume": p.get("volume"), "volume_value": p.get("volume_value"),
             "volume_unit": "searches",
             "extra": p.get("extra") or {},
@@ -153,11 +160,13 @@ def main() -> int:
         return 1
     tc.info(f"Got {len(raw)} Google trends: {', '.join(r['topic'] for r in raw)}")
 
-    # Description: feed -> last run -> Gemini (one call, only the leftovers) -> generic template
+    # Description: feed -> last run -> Gemini -> generic template.
+    # ONE Gemini call covers both the leftovers with no description and the image search words.
     tc.reuse_previous(raw, previous)
-    leftovers = [x for x in raw if not x["description"]]
-    if leftovers:
-        tc.gemini_fill([x for x in leftovers if x["_has_context"]], TASK)
+    finder = tc.ImageFinder()
+    leftovers = [x for x in raw if not x["description"] and x["_has_context"]]
+    image_targets = tc.items_needing_images(raw, previous, finder.max_lookups) if finder.enabled else []
+    tc.gemini_enrich(leftovers, image_targets, TASK)
     tc.apply_templates(raw)
 
     # A topic that is still (or again) in the feed keeps the biggest search volume we've seen.
@@ -169,15 +178,14 @@ def main() -> int:
 
     kept = carry_over(previous, {x["id"] for x in raw}, now)
     if kept:
-        tc.info(f"Keeping {len(kept)} topic(s) from the last {KEEP_HOURS:g}h that left the feed.")
+        tc.info(f"Keeping {len(kept)} earlier topic(s) (under {KEEP_HOURS:g}h old) that left the feed.")
 
     items = tc.finalize(raw + kept, previous, rank_mode="volume", now=now)
-    finder = tc.ImageFinder()
-    tc.plan_image_queries(items, previous, finder)      # topic + description -> better search words
     tc.apply_images(items, previous, finder)
     doc = tc.build_doc("google", "Google", items, rank_basis="search_volume",
                        region=GEO, source_url=FEED_URL)
     doc["keep_hours"] = KEEP_HOURS
+    doc["display_limit"] = TOP_N         # the page shows only the top N by search volume
     tc.save_json(OUT_FILE, doc)
     tc.info(f"Wrote {OUT_FILE}")
     return 0

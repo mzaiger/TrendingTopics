@@ -4,9 +4,10 @@ Social media trends: US top 20 -> social_media_trends.json
 
   1. Trend list from an Apify actor (one call, promoted/paid trends dropped).
   2. Context for each topic: recent posts (Sotwe) + last-24h news headlines (Google News RSS).
-  3. ONE Gemini call writes a short description for every topic.
+  3. ONE Gemini call (the only one per run) writes a short description for every topic and the
+     best image search words for new topics.
   4. Rank = the platform's own rank. Rank change vs the last run, and the date it first
-     started trending, are kept in the JSON. The volume line is "hours trending".
+     started trending, are kept in the JSON. The volume line is "hours trending", counted from when the script first saw (added) the topic.
   5. One image per new topic from DuckDuckGo, searched with words Gemini writes from the topic
      and its description, then the most relevant candidate is picked.
   Each topic links to a twstalker.com search.
@@ -224,16 +225,18 @@ def main() -> int:
         })
     tc.unique_ids(raw)
 
-    # 2) One Gemini call for every topic that has something to summarize
-    model = tc.gemini_fill([r for r in raw if r["_has_context"]], TASK)
+    # 2) ONE Gemini call: a description for every topic with context, plus the best image search
+    #    words (from topic + description) for every topic that still needs a picture
+    finder = tc.ImageFinder()
+    desc_targets = [r for r in raw if r["_has_context"]]
+    image_targets = tc.items_needing_images(raw, previous, finder.max_lookups) if finder.enabled else []
+    tc.gemini_enrich(desc_targets, image_targets, TASK)
     carried = tc.reuse_previous(raw, previous)       # a failed call shouldn't blank the page
     if carried:
         tc.info(f"Kept {carried} description(s) from the previous run.")
 
     # 3) Rank, history, images, write
     items = tc.finalize(raw, previous, rank_mode="feed", now=now)
-    finder = tc.ImageFinder()
-    tc.plan_image_queries(items, previous, finder)      # topic + description -> better search words
     tc.apply_images(items, previous, finder)
     doc = tc.build_doc("social_media", "Social Media", items, rank_basis="platform_rank",
                        region="United States",

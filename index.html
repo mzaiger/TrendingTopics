@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=.75">
+<meta name="viewport" content="width=device-width, initial-scale=0.8">
 <title>Trending Topics</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -155,6 +155,7 @@
     font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--text-dim);
   }
   .meta .go { color: var(--blue); }
+  .meta .when, .meta .vol { white-space: nowrap; }
   .srctag { text-transform: uppercase; letter-spacing: 0.06em; font-size: 10px; }
   .archived-tag { font-style: italic; }
 
@@ -233,6 +234,8 @@
   .row-src { font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: var(--blue); text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap; }
   .rows-fav-section { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 12px 12px; margin-bottom: 12px; grid-column: 1 / -1; }
 
+  .foot { margin-top: 28px; padding-top: 14px; border-top: 1px solid var(--line); font-size: 12px; line-height: 1.5; color: var(--text-dim); }
+
   @media (max-width: 700px) {
     header, main { padding-left: 14px; padding-right: 14px; }
     .grid, .fav-box-items { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
@@ -261,7 +264,7 @@
     <div class="tabs" id="tabs">
       <button class="tab-btn" data-hours="1">1 Hour</button>
       <button class="tab-btn" data-hours="2">2 Hours</button>
-      <button class="tab-btn" data-hours="5">5 Hours</button>
+      <button class="tab-btn" data-hours="6">6 Hours</button>
       <button class="tab-btn" data-hours="12">12 Hours</button>
       <button class="tab-btn" data-hours="24">24 Hours</button>
       <button class="tab-btn" data-hours="0">All</button>
@@ -280,13 +283,19 @@
 
   <p class="count" id="count"></p>
   <div class="grid" id="grid"></div>
+
+  <footer class="foot" id="foot">
+    Data sources: <strong>Social Media</strong> = Apify API &nbsp;·&nbsp; <strong>Google</strong> = Google Trends RSS feed
+    &nbsp;·&nbsp; <strong>Reddit</strong> = Reddit RSS feed. Descriptions for social media are written by an AI model
+    from recent posts and news headlines and can be wrong or incomplete.
+  </footer>
 </main>
 
 <script>
 const SOURCES = [
-  { key: 'social_media', label: 'Social Media', file: 'social_media_trends.json', openLabel: 'Search posts ↗' },
-  { key: 'google',       label: 'Google',       file: 'google_trends.json',       openLabel: 'Search Google ↗' },
-  { key: 'reddit',       label: 'Reddit',       file: 'reddit_trends.json',       openLabel: 'Open on Reddit ↗' },
+  { key: 'social_media', label: 'Social Media', file: 'social_media_trends.json', openLabel: 'Search posts ↗', sourceNote: 'Apify API' },
+  { key: 'google',       label: 'Google',       file: 'google_trends.json',       openLabel: 'Search Google ↗', sourceNote: 'Google Trends RSS feed' },
+  { key: 'reddit',       label: 'Reddit',       file: 'reddit_trends.json',       openLabel: 'Open on Reddit ↗', sourceNote: 'Reddit RSS feed' },
 ];
 const SOURCE_BY_KEY = Object.fromEntries(SOURCES.map(s => [s.key, s]));
 
@@ -300,7 +309,7 @@ function savePref(key, value) {
 const docs = {};            // source key -> parsed JSON (or null if it couldn't be loaded)
 let allItems = [];          // every item from every source, normalized
 let activeSource = SOURCE_BY_KEY[loadPref('trending_source', 'social_media')] ? loadPref('trending_source', 'social_media') : 'social_media';
-const HOUR_OPTIONS = [0, 1, 2, 5, 12, 24];
+const HOUR_OPTIONS = [0, 1, 2, 6, 12, 24];
 let activeHours = (() => { const h = parseInt(loadPref('trending_hours', '0'), 10); return HOUR_OPTIONS.includes(h) ? h : 0; })();
 let activeSort = loadPref('trending_sort', 'rank') === 'date' ? 'date' : 'rank';
 let activeLayout = loadPref('trending_layout', 'tile') === 'rows' ? 'rows' : 'tile';
@@ -430,17 +439,21 @@ function rankHint(it) {
   if (doc && doc.rank_basis === 'search_volume') return 'Ranked by search volume (most searches = #1)';
   return 'Rank on the live trending list';
 }
+// started_trending = the date the topic was ADDED to the JSON. Hours trending, the time filters and
+// the Newest sort use it. The article's own created date (published) is only used for "time ago".
 function hoursTrending(it) {
   const t = new Date(it.started_trending).getTime();
   if (!Number.isFinite(t)) return typeof it.hours_trending === 'number' ? it.hours_trending : null;
   return Math.max(0, (Date.now() - t) / 3600000);
 }
+function timeAgo(it) { return relativeTime(it.published || it.started_trending); }
 function descText(it) { return it.description ? esc(it.description) : 'No summary yet.'; }
 // Social media + Reddit: hours trending (kept live from the start time). Google: search volume.
 function volText(it) {
   if (it.volume_unit === 'hours') {
     const h = hoursTrending(it);
-    return h === null ? '' : `${h.toFixed(1)} hrs trending`;
+    if (h === null) return '';
+    return esc(h < 1 ? '<1hr trend' : `${Math.floor(h)}hr trend`);
   }
   return it.volume ? esc(it.volume) : '';
 }
@@ -461,8 +474,7 @@ function cardHtml(it, opts = {}) {
         <p class="title"><a class="stretch" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${esc(it.topic)}</a></p>
         <p class="desc${it.description ? '' : ' none'}">${descText(it)}</p>
         <div class="meta-block">
-          <div class="meta"><span class="when">${relativeTime(it.started_trending)}${opts.archived ? ' · <span class="archived-tag">saved</span>' : ''}</span></div>
-          <div class="meta"><span class="vol">${volText(it) || '—'}</span></div>
+          <div class="meta"><span class="when">${timeAgo(it)}${opts.archived ? ' · <span class="archived-tag">saved</span>' : ''}</span><span class="vol">${volText(it) || '—'}</span></div>
           <div class="meta"><span class="srctag">${esc(src.label)}</span><span class="go">${esc(src.openLabel)}</span></div>
         </div>
       </div>
@@ -479,7 +491,7 @@ function rowHtml(it, opts = {}) {
       <span>${opts.archived ? '' : changeHtml(it)}</span>
       <span class="row-title"><a class="stretch" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${esc(it.topic)}</a></span>
       <span class="row-desc">${it.description ? esc(it.description) : '—'}</span>
-      <span class="row-date">${relativeTime(it.started_trending)}${opts.archived ? ' · saved' : ''}</span>
+      <span class="row-date">${timeAgo(it)}${opts.archived ? ' · saved' : ''}</span>
       <span class="row-vol">${volText(it) || '—'}</span>
       <span class="row-src">${esc(src.label)}</span>
     </div>`;
@@ -515,12 +527,14 @@ function updateSub() {
   const doc = docs[activeSource];
   const bits = [];
   if (doc && doc.rank_basis === 'time_trending') {
-    bits.push('This feed has no ranking of its own, so topics are ranked by hours trending (longest = #1).');
+    bits.push('This feed has no ranking of its own, so topics are ranked by hours trending (time since added to this list, longest = #1).');
   } else if (doc && doc.rank_basis === 'search_volume') {
-    bits.push('Google doesn\u2019t rank this list, so topics are ranked by search volume (most searches = #1). Topics stay for up to ' + (doc.keep_hours || 24) + ' hours after Google drops them.');
+    bits.push('Google doesn\u2019t rank this list, so topics are ranked by search volume (most searches = #1). The page shows the top ' + (doc.display_limit || 20) + '; topics older than ' + (doc.keep_hours || 48) + ' hours are dropped.');
   } else if (doc) {
     bits.push('Ranked by the live trending list. Arrows show how far a topic moved since the last update.');
   }
+  const src = SOURCE_BY_KEY[activeSource];
+  if (src && src.sourceNote) bits.push('Source: ' + src.sourceNote + '.');
   bits.push('Click any card to open it. Star a topic to pin it to the top.');
   document.getElementById('sub').textContent = bits.join(' ');
 }
@@ -544,13 +558,20 @@ function render() {
   const cutoff = activeHours > 0 ? Date.now() - activeHours * 3600 * 1000 : -Infinity;
   const visible = items.filter(i => new Date(i.started_trending).getTime() >= cutoff);
 
+  // Some feeds cap how many topics the page shows (Google: top 20 by search volume = lowest ranks).
+  const limit = doc && Number.isFinite(doc.display_limit) ? doc.display_limit : 0;
+  if (limit > 0 && visible.length > limit) {
+    visible.sort((a, b) => a.rank - b.rank);
+    visible.length = limit;
+  }
   visible.sort((a, b) => activeSort === 'date'
-    ? new Date(b.started_trending) - new Date(a.started_trending)
+    ? new Date(b.started_trending) - new Date(a.started_trending) || (a.rank - b.rank)
     : (a.rank - b.rank));
 
-  const windowText = activeHours > 0 ? ` that started trending in the last ${activeHours}h` : '';
+  const windowText = activeHours > 0 ? ` added in the last ${activeHours}h` : '';
+  const capText = (limit > 0 && items.length > limit) ? ` (top ${limit} by ${doc.rank_basis === 'search_volume' ? 'search volume' : 'rank'})` : '';
   document.getElementById('count').textContent =
-    `${visible.length} topic${visible.length === 1 ? '' : 's'}${windowText}`;
+    `${visible.length} topic${visible.length === 1 ? '' : 's'}${windowText}${capText}`;
   updateSub();
   updateLastUpdatedLabel();
 

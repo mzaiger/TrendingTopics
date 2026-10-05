@@ -139,6 +139,11 @@ def fmt_count(n: float) -> str:
     return str(int(n))
 
 
+def fmt_hours_trend(hours: float) -> str:
+    """Whole hours, no decimals: "12hr trend" ("<1hr trend" under an hour)."""
+    return "<1hr trend" if hours < 1 else f"{int(hours)}hr trend"
+
+
 def parse_traffic(text: Any) -> Optional[float]:
     """Google's "approx traffic" ("200+", "10000+", "2K+", "1M+") -> a number, or None."""
     m = re.match(r"^\s*([\d.,]+)\s*([KMB]?)\s*\+?\s*$", str(text or ""), re.I)
@@ -185,18 +190,24 @@ def finalize(raw_items: list[dict], previous_doc: dict, *, rank_mode: str,
     """Turn raw feed items into the final JSON items.
 
     raw item keys: id, topic, description, description_source, url, feed_pos (0-based order in
-    the feed), source_start (datetime or None), volume / volume_value / volume_unit, last_seen
-    (datetime, optional), extra (dict), and any private keys starting with "_" (used by later
-    steps, stripped before saving).
+    the feed), source_start (the feed's own date for the item, or None), volume / volume_value /
+    volume_unit, last_seen (datetime, optional), extra (dict), and any private keys starting with
+    "_" (used by later steps, stripped before saving).
+
+    Two different dates are kept:
+      started_trending / first_seen  the moment the topic was ADDED to the JSON (first run that
+                                     saw it). Hours trending, the time filters and the "Newest"
+                                     sort all use this one.
+      published                      the feed's own date (Reddit post time, Google's start time).
+                                     The page shows it as the "time ago" text.
 
     rank_mode:
       "feed"      the feed's own order (social media)
-      "duration"  longest-trending first (Reddit)
-      "volume"    biggest volume_value first, ties -> longer trending (Google)
+      "duration"  longest on the list first, i.e. most hours trending (Reddit)
+      "volume"    biggest volume_value first, ties -> longer on the list (Google)
 
-    started_trending = the earlier of (what the feed says, the first time we saw the topic).
     rank_change = previous rank - new rank (positive = moved up).
-    For volume_unit "hours" the volume is the hours trending as of this run.
+    For volume_unit "hours" the volume is the whole hours trending as of this run.
     """
     prev_items = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
     had_previous = bool(prev_items)
@@ -204,29 +215,26 @@ def finalize(raw_items: list[dict], previous_doc: dict, *, rank_mode: str,
     staged = []
     for it in raw_items:
         p = prev_items.get(it["id"])
-        first_seen = (parse_time(p.get("first_seen")) if p else None) or now
-        start = first_seen
-        src_start = it.get("source_start")
-        if src_start:
-            start = min(start, min(src_start, now))
-        staged.append((it, p, first_seen, start))
+        added = (parse_time(p.get("first_seen")) if p else None) or now
+        staged.append((it, p, added))
 
     if rank_mode == "duration":
-        staged.sort(key=lambda s: (s[3], s[0].get("feed_pos", 0)))
+        staged.sort(key=lambda s: (s[2], s[0].get("feed_pos", 0)))
     elif rank_mode == "volume":
-        staged.sort(key=lambda s: (-(s[0].get("volume_value") or 0), s[3], s[0].get("feed_pos", 0)))
+        staged.sort(key=lambda s: (-(s[0].get("volume_value") or 0), s[2], s[0].get("feed_pos", 0)))
     else:
         staged.sort(key=lambda s: s[0].get("feed_pos", 0))
 
     out = []
-    for rank, (it, p, first_seen, start) in enumerate(staged, start=1):
+    for rank, (it, p, added) in enumerate(staged, start=1):
         prev_rank = p.get("rank") if p else None
-        hours = round(max(0.0, (now - start).total_seconds()) / 3600, 1)
+        hours = int(max(0.0, (now - added).total_seconds()) // 3600)
         unit = it.get("volume_unit") or ""
         if unit == "hours":
-            volume_value, volume = hours, f"{hours:.1f} hrs trending"
+            volume_value, volume = hours, fmt_hours_trend(hours)
         else:
             volume_value, volume = it.get("volume_value"), it.get("volume")
+        published = it.get("source_start")
         final = {
             "id": it["id"],
             "rank": rank,
@@ -239,8 +247,9 @@ def finalize(raw_items: list[dict], previous_doc: dict, *, rank_mode: str,
             "url": it.get("url") or "",
             "image_url": "",
             "image_source": "",
-            "started_trending": iso(start),
-            "first_seen": iso(first_seen),
+            "started_trending": iso(added),
+            "first_seen": iso(added),
+            "published": iso(min(published, now)) if published else None,
             "last_seen": iso(it.get("last_seen") or now),
             "hours_trending": hours,
             "volume": volume,
@@ -299,49 +308,33 @@ def apply_templates(raw_items: list[dict]) -> None:
             it["description_source"] = "template"
 
 
-def _gemini_prompt(entries: list[dict], task: str) -> str:
-    blocks = []
-    for e in entries:
-        blocks.append(f"=== TOPIC id={e['id']}: {e['topic']} ===\n{e['material']}")
-    return (
-        "You write short descriptions for a trending-topics page.\n\n"
-        f"There are {len(entries)} topics below. For EACH topic: {task}\n"
-        "Write ONE or TWO short sentences (max 40 words) per topic.\n\n"
-        "Rules:\n"
-        "- Use only the material shown under that topic. Do not invent facts or add background.\n"
-        "- Do not mix up topics: each description must come from its own topic's material.\n"
-        "- If something is unconfirmed, say \"reportedly\" or \"unconfirmed\".\n"
-        "- Ignore spam, ads, insults and unrelated arguments. Never repeat slurs or personal attacks.\n"
-        "- If the material doesn't make it clear, say so plainly.\n"
-        "- Plain language. No hashtags, emojis or usernames. Never name the social network a post "
-        "came from; just say \"social media\".\n\n"
-        "Return JSON only, with exactly one entry per topic id:\n"
-        "{\"descriptions\": [{\"id\": 1, \"description\": \"...\"}, {\"id\": 2, \"description\": \"...\"}]}\n\n"
-        + "\n\n".join(blocks)
-    )
-
-
 class ModelUnavailable(Exception):
     pass
 
 
-def _parse_rows(raw: str, list_key: str, field: str) -> Optional[dict[int, str]]:
+def _parse_topics(raw: str) -> Optional[dict[int, dict]]:
+    """{id: {"description": ..., "image_query": ...}} from the model's JSON, or None."""
     try:
         data = json.loads(raw)
-        rows = data[list_key] if isinstance(data, dict) else data
+        rows = data["topics"] if isinstance(data, dict) else data
         out = {}
         for row in rows:
-            text = str(row[field]).strip()
-            if text:
-                out[int(row["id"])] = text
+            entry = {}
+            d = str(row.get("description") or "").strip()
+            q = str(row.get("image_query") or "").strip()
+            if d:
+                entry["description"] = d
+            if q:
+                entry["image_query"] = q
+            if entry:
+                out[int(row["id"])] = entry
         return out or None
-    except (KeyError, ValueError, TypeError):
+    except (KeyError, ValueError, TypeError, AttributeError):
         return None
 
 
-def _call_model(model: str, prompt: str, api_key: str, list_key: str, field: str
-                ) -> Optional[dict[int, str]]:
-    """One model. Returns {id: text}, or None if the reply was unusable.
+def _call_model(model: str, prompt: str, api_key: str) -> Optional[dict[int, dict]]:
+    """One model. Returns {id: {...}}, or None if the reply was unusable.
     Raises ModelUnavailable on any 4xx so the caller can fall through to the next model."""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     body = {
@@ -366,22 +359,23 @@ def _call_model(model: str, prompt: str, api_key: str, list_key: str, field: str
         except (KeyError, IndexError, ValueError, TypeError) as e:
             warn(f"  {model}: unreadable response ({e})")   # e.g. blocked by safety filters
             return None
-        out = _parse_rows(raw, list_key, field)
+        out = _parse_topics(raw)
         if out is None:
             warn(f"  {model}: reply wasn't the expected JSON")
         return out
     return None
 
 
-def _gemini_batch(prompt: str, list_key: str, field: str) -> tuple[dict[int, str], Optional[str]]:
-    """ONE call (with the model fallback chain). Returns ({id: text}, model_used)."""
+def _gemini_batch(prompt: str) -> tuple[dict[int, dict], Optional[str]]:
+    """The one Gemini request of a run (with the model fallback chain on 4xx / unusable replies,
+    which only happens when a model fails). Returns ({id: {...}}, model_used)."""
     api_key = os.environ.get("GEMINI_KEY")
     if not api_key:
         warn("GEMINI_KEY not set - skipping Gemini.")
         return {}, None
     for model in GEMINI_MODELS:
         try:
-            result = _call_model(model, prompt, api_key, list_key, field)
+            result = _call_model(model, prompt, api_key)
         except ModelUnavailable as e:
             warn(f"  {model} unavailable, trying next: {e}")
             continue
@@ -390,26 +384,6 @@ def _gemini_batch(prompt: str, list_key: str, field: str) -> tuple[dict[int, str
         warn(f"  {model} gave no usable answer, trying next.")
     return {}, None
 
-
-def gemini_fill(targets: list[dict], task: str) -> Optional[str]:
-    """ONE Gemini call for every item in `targets` (items need a "_material" string).
-    Sets description + description_source="gemini". Returns the model used, or None."""
-    if not targets:
-        return None
-    entries = [{"id": i, "topic": t["topic"], "material": t["_material"]}
-               for i, t in enumerate(targets, start=1)]
-    info(f"Asking Gemini about {len(entries)} topic(s) in one call...")
-    result, model = _gemini_batch(_gemini_prompt(entries, task), "descriptions", "description")
-    for i, t in enumerate(targets, start=1):
-        if result.get(i):
-            t["description"] = shorten(result[i], 300)
-            t["description_source"] = "gemini"
-    if result:
-        info(f"Got {len(result)} description(s) from {model}")
-    return model
-
-
-# ------------------------------------------------------------------ image search queries
 
 _QUERY_STOP = {
     "the", "this", "that", "these", "those", "here", "there", "after", "before", "with", "from",
@@ -435,53 +409,95 @@ def heuristic_query(topic: str, description: str = "") -> str:
     return " ".join([t] + extras)[:120].strip()
 
 
-def _query_prompt(entries: list[dict]) -> str:
-    blocks = [f"=== TOPIC id={e['id']} ===\nTopic: {e['topic']}\nDescription: {e['description'] or '(none)'}"
-              for e in entries]
+def items_needing_images(raw_items: list[dict], previous_doc: dict, limit: int) -> list[dict]:
+    """Items that still need a picture (no DuckDuckGo image saved from an earlier run)."""
+    prev = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
+    out = []
+    for it in raw_items:
+        old = prev.get(it["id"])
+        if old and old.get("image_url") and old.get("image_source") == "duckduckgo":
+            continue
+        out.append(it)
+        if len(out) >= limit:
+            break
+    return out
+
+
+def _enrich_prompt(entries: list[dict], task: str) -> str:
+    blocks = []
+    for e in entries:
+        needed = [name for name, flag in (("description", e["need_desc"]), ("image_query", e["need_query"])) if flag]
+        lines = [f"=== TOPIC id={e['id']}: {e['topic']} ===", "Needed: " + ", ".join(needed)]
+        if e["description"]:
+            lines.append(f"Existing description (context only): {e['description']}")
+        if e["material"]:
+            lines.append("Material:\n" + e["material"])
+        blocks.append("\n".join(lines))
     return (
-        "You write image-search queries for a trending-topics page.\n\n"
-        f"For EACH of the {len(entries)} topics below, write ONE short query (2 to 7 words) that "
-        "will find a photo of the topic's main subject on an image search engine.\n\n"
+        "You write short text for a trending-topics page.\n\n"
+        f"There are {len(entries)} topics below. Each says what is Needed:\n"
+        f"- description: {task} Write ONE or TWO short sentences (max 40 words).\n"
+        "- image_query: ONE short query (2 to 7 words) that will find a photo of the topic's main "
+        "subject on an image search engine. The topic is the subject of the picture; use the "
+        "description/material only to pick the right meaning (which person, team, event, product or "
+        "place). Prefer proper names. For a match-up like \"A vs B\" include both sides. Do not add "
+        "words like photo, image, picture, news or today. No hashtags or quotes.\n\n"
         "Rules:\n"
-        "- The main topic is the subject of the picture. Use the description only to pick the right "
-        "meaning (which person, team, event, product or place).\n"
-        "- Prefer proper names: full person names, team names, places, product or show titles.\n"
-        "- For a match-up like \"A vs B\", include both sides.\n"
-        "- Do not add words like photo, image, picture, news or today. No hashtags or quotes.\n"
-        "- If the topic is abstract, search for its most recognisable visual.\n\n"
-        "Return JSON only: {\"queries\": [{\"id\": 1, \"query\": \"...\"}]}\n\n"
+        "- Use only the material shown under that topic. Do not invent facts or add background.\n"
+        "- Do not mix up topics: each answer must come from its own topic's material.\n"
+        "- If something is unconfirmed, say \"reportedly\" or \"unconfirmed\".\n"
+        "- Ignore spam, ads, insults and unrelated arguments. Never repeat slurs or personal attacks.\n"
+        "- If the material doesn't make a description clear, say so plainly.\n"
+        "- Plain language. No hashtags, emojis or usernames. Never name the social network a post "
+        "came from; just say \"social media\".\n\n"
+        "Return JSON only, one entry per topic id, including a field ONLY when it is Needed:\n"
+        "{\"topics\": [{\"id\": 1, \"description\": \"...\", \"image_query\": \"...\"}]}\n\n"
         + "\n\n".join(blocks)
     )
 
 
-def plan_image_queries(items: list[dict], previous_doc: dict, finder: "ImageFinder") -> None:
-    """Set "_image_query" on each item that still needs a picture.
+def gemini_enrich(desc_targets: list[dict], image_targets: list[dict], task: str) -> Optional[str]:
+    """The ONE Gemini call of a run.
 
-    Starts from a keyword fallback, then (one Gemini call for all of them) asks Gemini to write a
-    better query from the topic + description. Items that already have a DuckDuckGo image from a
-    previous run are skipped, so a quiet run makes no call at all.
+    desc_targets   items that need a description (they need a "_material" string)
+    image_targets  items that need a picture -> gets "_image_query" (topic + description in, best
+                   search words out). A keyword fallback is set first, in case Gemini can't help.
+    Items can be in both lists. Returns the model used, or None if no call was made / it failed.
     """
-    prev = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
-    need = []
-    for it in items:
-        old = prev.get(it["id"])
-        if old and old.get("image_url") and old.get("image_source") == "duckduckgo":
+    for t in image_targets:
+        t["_image_query"] = heuristic_query(t["topic"], t.get("description", ""))
+    desc_ids = {id(t) for t in desc_targets}
+    img_ids = set() if os.environ.get("IMAGE_QUERY_GEMINI", "1") == "0" else {id(t) for t in image_targets}
+
+    union, seen = [], set()
+    for t in list(desc_targets) + list(image_targets):
+        if id(t) in seen or (id(t) not in desc_ids and id(t) not in img_ids):
             continue
-        it["_image_query"] = heuristic_query(it["topic"], it.get("description", ""))
-        need.append(it)
-    need = need[: finder.max_lookups]
-    if not need or not finder.enabled or os.environ.get("IMAGE_QUERY_GEMINI", "1") == "0":
-        return
-    entries = [{"id": i, "topic": it["topic"], "description": it.get("description", "")}
-               for i, it in enumerate(need, start=1)]
-    info(f"Asking Gemini for image search queries for {len(entries)} new topic(s)...")
-    result, model = _gemini_batch(_query_prompt(entries), "queries", "query")
-    for i, it in enumerate(need, start=1):
-        q = re.sub(r"\s+", " ", result.get(i, "")).replace('"', "").strip()
-        if q:
-            it["_image_query"] = q[:120]
+        seen.add(id(t))
+        union.append(t)
+    if not union:
+        return None
+
+    entries = [{
+        "id": i, "topic": t["topic"], "material": t.get("_material", ""),
+        "description": t.get("description", ""),
+        "need_desc": id(t) in desc_ids, "need_query": id(t) in img_ids,
+    } for i, t in enumerate(union, start=1)]
+    info(f"Asking Gemini once: {len(desc_ids)} description(s) + {len(img_ids)} image query(ies) "
+         f"for {len(entries)} topic(s)...")
+    result, model = _gemini_batch(_enrich_prompt(entries, task))
+    for i, t in enumerate(union, start=1):
+        r = result.get(i) or {}
+        if id(t) in desc_ids and r.get("description"):
+            t["description"] = shorten(r["description"], 300)
+            t["description_source"] = "gemini"
+        if id(t) in img_ids and r.get("image_query"):
+            q = re.sub(r"\s+", " ", r["image_query"]).replace('"', "").strip()
+            if q:
+                t["_image_query"] = q[:120]
     if result:
-        info(f"Got {len(result)} image query(ies) from {model}")
+        info(f"Got {len(result)} answer(s) from {model}")
+    return model
 
 
 # ----------------------------------------------------------------- DuckDuckGo images
@@ -643,7 +659,8 @@ def apply_images(items: list[dict], previous_doc: dict, finder: ImageFinder) -> 
         if old and old.get("image_url") and old.get("image_source") == "duckduckgo":
             it["image_url"], it["image_source"] = old["image_url"], "duckduckgo"
             continue
-        url = finder.find(it.get("_image_query") or it["topic"], topic=it["topic"])
+        query = it.get("_image_query") or heuristic_query(it["topic"], it.get("description", ""))
+        url = finder.find(query, topic=it["topic"])
         if url:
             it["image_url"], it["image_source"] = url, "duckduckgo"
         elif it.get("_image_hint"):
