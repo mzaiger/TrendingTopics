@@ -234,6 +234,7 @@
   .row-src { font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: var(--blue); text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap; }
   .rows-fav-section { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 12px 12px; margin-bottom: 12px; grid-column: 1 / -1; }
 
+  .sentinel { text-align: center; color: var(--text-dim); font-size: 12px; padding: 18px 0 30px; }
   .foot { margin-top: 28px; padding-top: 14px; border-top: 1px solid var(--line); font-size: 12px; line-height: 1.5; color: var(--text-dim); }
 
   @media (max-width: 700px) {
@@ -255,7 +256,13 @@
     </div>
   </div>
   <h1>Trending Topics</h1>
-  <p class="sub" id="sub"></p>
+  <p class="sub" id="sub">
+    Social Media trends come from the Apify API; Google and Reddit come from their RSS feeds.
+    Every topic&rsquo;s rank is compared with its rank 4 hours ago, so you can see who is really moving.
+    Star a topic to pin it to the top, click a topic to open its Google search, Reddit thread or social media search,
+    filter by time period, and sort by rank or date. Descriptions are written by an AI model from recent posts and
+    news headlines and can be wrong or incomplete.
+  </p>
 </header>
 
 <main>
@@ -283,12 +290,8 @@
 
   <p class="count" id="count"></p>
   <div class="grid" id="grid"></div>
+  <div id="sentinel" class="sentinel"></div>
 
-  <footer class="foot" id="foot">
-    Data sources: <strong>Social Media</strong> = Apify API &nbsp;·&nbsp; <strong>Google</strong> = Google Trends RSS feed
-    &nbsp;·&nbsp; <strong>Reddit</strong> = Reddit RSS feed. Descriptions for social media are written by an AI model
-    from recent posts and news headlines and can be wrong or incomplete.
-  </footer>
 </main>
 
 <script>
@@ -407,12 +410,12 @@ async function loadAll() {
 
 /* ---------- pieces of markup ---------- */
 function changeHtml(it) {
-  if (it.is_new) return '<span class="chg new" title="New since the last update">NEW</span>';
+  if (it.is_new) return '<span class="chg new" title="New in the last 4 hours">NEW</span>';
   const c = it.rank_change;
   if (typeof c !== 'number') return '';
-  if (c > 0) return `<span class="chg up" title="Moved up ${c} since the last update">▲ ${c}</span>`;
-  if (c < 0) return `<span class="chg down" title="Moved down ${-c} since the last update">▼ ${-c}</span>`;
-  return '<span class="chg same" title="No change since the last update">–</span>';
+  if (c > 0) return `<span class="chg up" title="Moved up ${c} ranks vs 4 hours ago">▲ ${c}</span>`;
+  if (c < 0) return `<span class="chg down" title="Moved down ${-c} ranks vs 4 hours ago">▼ ${-c}</span>`;
+  return '<span class="chg same" title="No change vs 4 hours ago">–</span>';
 }
 function thumbHtml(it) {
   const url = safeUrl(it.image_url);
@@ -523,21 +526,7 @@ function renderSources() {
   }).join('');
 }
 
-function updateSub() {
-  const doc = docs[activeSource];
-  const bits = [];
-  if (doc && doc.rank_basis === 'time_trending') {
-    bits.push('This feed has no ranking of its own, so topics are ranked by hours trending (time since added to this list, longest = #1).');
-  } else if (doc && doc.rank_basis === 'search_volume') {
-    bits.push('Google doesn\u2019t rank this list, so topics are ranked by search volume (most searches = #1). The page shows the top ' + (doc.display_limit || 20) + '; topics older than ' + (doc.keep_hours || 48) + ' hours are dropped.');
-  } else if (doc) {
-    bits.push('Ranked by the live trending list. Arrows show how far a topic moved since the last update.');
-  }
-  const src = SOURCE_BY_KEY[activeSource];
-  if (src && src.sourceNote) bits.push('Source: ' + src.sourceNote + '.');
-  bits.push('Click any card to open it. Star a topic to pin it to the top.');
-  document.getElementById('sub').textContent = bits.join(' ');
-}
+function updateSub() { /* the description at the top of the page is static */ }
 
 function updateLastUpdatedLabel() {
   const doc = docs[activeSource];
@@ -558,20 +547,13 @@ function render() {
   const cutoff = activeHours > 0 ? Date.now() - activeHours * 3600 * 1000 : -Infinity;
   const visible = items.filter(i => new Date(i.started_trending).getTime() >= cutoff);
 
-  // Some feeds cap how many topics the page shows (Google: top 20 by search volume = lowest ranks).
-  const limit = doc && Number.isFinite(doc.display_limit) ? doc.display_limit : 0;
-  if (limit > 0 && visible.length > limit) {
-    visible.sort((a, b) => a.rank - b.rank);
-    visible.length = limit;
-  }
   visible.sort((a, b) => activeSort === 'date'
     ? new Date(b.started_trending) - new Date(a.started_trending) || (a.rank - b.rank)
     : (a.rank - b.rank));
 
   const windowText = activeHours > 0 ? ` added in the last ${activeHours}h` : '';
-  const capText = (limit > 0 && items.length > limit) ? ` (top ${limit} by ${doc.rank_basis === 'search_volume' ? 'search volume' : 'rank'})` : '';
   document.getElementById('count').textContent =
-    `${visible.length} topic${visible.length === 1 ? '' : 's'}${windowText}${capText}`;
+    `${visible.length} topic${visible.length === 1 ? '' : 's'}${windowText}`;
   updateSub();
   updateLastUpdatedLabel();
 
@@ -582,11 +564,41 @@ function render() {
 
   if (!visible.length) {
     grid.innerHTML = favHtml + `<div class="empty">${esc(emptyMessage(doc))}</div>`;
+    moreAvailable = false;
+    document.getElementById('sentinel').style.display = 'none';
     return;
   }
+  // Load as you scroll: show a batch, then add more when the bottom sentinel comes into view.
+  const viewKey = [activeSource, activeHours, activeSort, activeLayout].join('|');
+  if (viewKey !== lastViewKey) { lastViewKey = viewKey; shownCount = BATCH; }
+  const slice = visible.slice(0, shownCount);
   grid.innerHTML = favHtml + (activeLayout === 'rows'
-    ? rowsTableHtml(visible.map(i => rowHtml(i)))
-    : visible.map(i => cardHtml(i)).join(''));
+    ? rowsTableHtml(slice.map(i => rowHtml(i)))
+    : slice.map(i => cardHtml(i)).join(''));
+  moreAvailable = visible.length > slice.length;
+  const sentinel = document.getElementById('sentinel');
+  sentinel.textContent = moreAvailable ? `Showing ${slice.length} of ${visible.length} \u2014 loading more\u2026` : '';
+  sentinel.style.display = moreAvailable ? '' : 'none';
+}
+
+const BATCH = 30;
+let shownCount = BATCH, lastViewKey = '', moreAvailable = false;
+function setupInfiniteScroll() {
+  const sentinel = document.getElementById('sentinel');
+  const loadMore = () => { if (moreAvailable) { shownCount += BATCH; render(); } };
+  if ('IntersectionObserver' in window) {
+    // Re-observe after each render so a sentinel that is still on screen keeps loading.
+    const io = new IntersectionObserver(entries => {
+      if (entries.some(e => e.isIntersecting)) loadMore();
+    }, { rootMargin: '600px 0px' });
+    io.observe(sentinel);
+    new MutationObserver(() => { io.unobserve(sentinel); io.observe(sentinel); })
+      .observe(document.getElementById('grid'), { childList: true });
+  } else {
+    window.addEventListener('scroll', () => {
+      if (window.innerHeight + window.scrollY > document.body.offsetHeight - 800) loadMore();
+    });
+  }
 }
 
 /* ---------- controls ---------- */
@@ -595,10 +607,12 @@ function setActive(selector, predicate) {
 }
 
 function setupControls() {
+  setupInfiniteScroll();
   document.getElementById('sources').addEventListener('click', e => {
     const btn = e.target.closest('[data-source]');
     if (!btn) return;
     activeSource = btn.dataset.source;
+    window.scrollTo(0, 0);
     savePref('trending_source', activeSource);
     renderSources();
     render();

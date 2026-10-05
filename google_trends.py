@@ -4,7 +4,7 @@ Google trending searches (public "Daily Search Trends" RSS) -> google_trends.jso
 
   * Google's feed only ever holds its 10 newest trends, so this script keeps a rolling window:
     every topic stays in the file for GOOGLE_KEEP_HOURS (default 48) after it was added, even once
-    it drops out of the feed. Older topics are truncated. The page shows the top 20 by search volume.
+    it drops out of the feed. Older topics are truncated. The page shows the whole 48-hour list.
   * Topic + short description come straight from the feed (Google's own news snippet, or the top
     news headline). Gemini is only used for a topic with no description - and it is the ONLY Gemini
     call of the run (it also writes image search words for new topics).
@@ -17,7 +17,6 @@ Google trending searches (public "Daily Search Trends" RSS) -> google_trends.jso
 Env vars:
   GOOGLE_TRENDS_GEO  optional, country code (default US)
   GOOGLE_KEEP_HOURS  optional, hours a topic is kept after it was added (default 48)
-  GOOGLE_TOP_N       optional, how many topics the page shows, by search volume (default 20)
   GEMINI_KEY         optional (only used for topics with no description / image search words)
   OUT_FILE           optional, default google_trends.json
 """
@@ -35,7 +34,6 @@ import trend_common as tc
 GEO = os.environ.get("GOOGLE_TRENDS_GEO", "US").upper()
 FEED_URL = f"https://trends.google.com/trending/rss?geo={GEO}"
 KEEP_HOURS = float(os.environ.get("GOOGLE_KEEP_HOURS", "48"))
-TOP_N = int(os.environ.get("GOOGLE_TOP_N", "20"))
 OUT_FILE = os.environ.get("OUT_FILE", "google_trends.json")
 
 TASK = ("explain in one or two sentences why people are searching for it on Google right now, "
@@ -185,7 +183,6 @@ def main() -> int:
     doc = tc.build_doc("google", "Google", items, rank_basis="search_volume",
                        region=GEO, source_url=FEED_URL)
     doc["keep_hours"] = KEEP_HOURS
-    doc["display_limit"] = TOP_N         # the page shows only the top N by search volume
     tc.save_json(OUT_FILE, doc)
     tc.info(f"Wrote {OUT_FILE}")
     return 0

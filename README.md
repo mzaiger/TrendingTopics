@@ -68,7 +68,7 @@ Google retired its old "daily trends" feed. The only feed left is the RSS feed w
 within roughly the same 20 minutes). So `google_trends.py` keeps a rolling list: a topic stays in
 `google_trends.json` for **48 hours after it was added** (`GOOGLE_KEEP_HOURS`), even once it leaves the
 feed, keeping the biggest search volume it reached; older topics are **truncated**. The **page shows
-the top 20 by search volume** (`GOOGLE_TOP_N`, written to the JSON as `display_limit`). The more often
+the whole 48-hour list, ranked by search volume (oldest first on ties)**. The more often
 the script runs, the fuller the list.
 
 ---
@@ -84,7 +84,6 @@ the script runs, the fuller the list.
   "source_url": "https://trends.google.com/trending/rss?geo=US",
   "rank_basis": "search_volume",
   "keep_hours": 48,
-  "display_limit": 20,
   "count": 14,
   "items": [
     {
@@ -114,7 +113,7 @@ the script runs, the fuller the list.
 ```
 
 - `rank_basis` is `platform_rank` (social media), `search_volume` (Google) or `time_trending` (Reddit).
-- `rank_change` = previous rank minus new rank, so **positive = moved up**, negative = moved down,
+- `rank_4h_ago` comes from `rank_history` (one entry per run, last ~6 hours). `rank_change` = rank 4 hours ago minus new rank, so **positive = moved up**, negative = moved down,
   `0` = no change, `null` = it wasn't in the last list. `is_new` is true for a topic that wasn't in
   the previous list (on the very first run nothing is marked new).
 - **Two different dates** are stored:

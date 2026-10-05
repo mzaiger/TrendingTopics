@@ -185,6 +185,48 @@ def unique_ids(raw_items: list[dict]) -> None:
 
 # --------------------------------------------------------- ranking + history bookkeeping
 
+MOVE_HOURS = 4          # rank movement is measured against the rank this many hours ago
+HISTORY_KEEP_HOURS = 6  # how much per-topic rank history is stored in the JSON
+
+
+def _rank_baseline(history: list, now: datetime):
+    """Rank from about MOVE_HOURS ago: the newest history entry that is at least that old.
+    A topic with no entry that old yet is compared with its oldest entry instead, so movement
+    starts showing before it has been listed for a full 4 hours. Returns None if no history."""
+    cutoff = now.timestamp() - MOVE_HOURS * 3600
+    parsed = []
+    for h in history or []:
+        t = parse_time(h.get("t")) if isinstance(h, dict) else None
+        r = h.get("r") if isinstance(h, dict) else None
+        if t and isinstance(r, int):
+            parsed.append((t, r))
+    if not parsed:
+        return None
+    parsed.sort(key=lambda x: x[0])
+    old = [x for x in parsed if x[0].timestamp() <= cutoff]
+    return (old[-1] if old else parsed[0])[1]
+
+
+def _next_history(history: list, now: datetime, rank: int) -> list:
+    """Add this run's rank, drop entries older than HISTORY_KEEP_HOURS (but always keep the
+    newest entry that is at least MOVE_HOURS old, because it is the comparison point)."""
+    cutoff_keep = now.timestamp() - HISTORY_KEEP_HOURS * 3600
+    cutoff_move = now.timestamp() - MOVE_HOURS * 3600
+    parsed = []
+    for h in history or []:
+        t = parse_time(h.get("t")) if isinstance(h, dict) else None
+        r = h.get("r") if isinstance(h, dict) else None
+        if t and isinstance(r, int):
+            parsed.append((t, r))
+    parsed.sort(key=lambda x: x[0])
+    old = [x for x in parsed if x[0].timestamp() <= cutoff_move]
+    anchor = old[-1] if old else None
+    kept = [x for x in parsed if x[0].timestamp() >= cutoff_keep or x is anchor]
+    kept = [x for x in kept if (now - x[0]).total_seconds() > 300]   # re-runs within 5 min replace
+    kept.append((now, rank))
+    return [{"t": iso(t), "r": r} for t, r in kept]
+
+
 def finalize(raw_items: list[dict], previous_doc: dict, *, rank_mode: str,
              now: datetime) -> list[dict]:
     """Turn raw feed items into the final JSON items.
@@ -206,7 +248,8 @@ def finalize(raw_items: list[dict], previous_doc: dict, *, rank_mode: str,
       "duration"  longest on the list first, i.e. most hours trending (Reddit)
       "volume"    biggest volume_value first, ties -> longer on the list (Google)
 
-    rank_change = previous rank - new rank (positive = moved up).
+    rank_change = rank 4 hours ago - new rank (positive = moved up). The rank 4 hours ago comes from
+    "rank_history" (one entry per run, kept for a few hours) stored on every item.
     For volume_unit "hours" the volume is the whole hours trending as of this run.
     """
     prev_items = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
@@ -227,7 +270,10 @@ def finalize(raw_items: list[dict], previous_doc: dict, *, rank_mode: str,
 
     out = []
     for rank, (it, p, added) in enumerate(staged, start=1):
-        prev_rank = p.get("rank") if p else None
+        history = (p.get("rank_history") if p else None) or []
+        prev_rank = _rank_baseline(history, now) if p else None
+        if p and prev_rank is None:
+            prev_rank = p.get("rank") if isinstance(p.get("rank"), int) else None
         hours = int(max(0.0, (now - added).total_seconds()) // 3600)
         unit = it.get("volume_unit") or ""
         if unit == "hours":
@@ -239,6 +285,8 @@ def finalize(raw_items: list[dict], previous_doc: dict, *, rank_mode: str,
             "id": it["id"],
             "rank": rank,
             "previous_rank": prev_rank,
+            "rank_4h_ago": prev_rank,
+            "rank_history": _next_history(history, now, rank),
             "rank_change": (prev_rank - rank) if isinstance(prev_rank, int) else None,
             "is_new": bool(had_previous and p is None),
             "topic": it["topic"],

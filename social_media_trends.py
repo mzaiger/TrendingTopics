@@ -88,7 +88,7 @@ def get_trends() -> list[dict]:
         if it.get("isPromoted"):
             continue
         topic = (it.get("name") or "").strip()
-        query = (it.get("query") or topic).strip()
+        query = clean_query(it.get("query") or topic)
         key = topic.lower()
         if not topic or key in seen:
             continue
@@ -105,6 +105,13 @@ def get_trends() -> list[dict]:
 
 
 # ----------------------------------------------------------------- context: posts
+
+def clean_query(q: str) -> str:
+    """Search text for the twstalker/Sotwe links: no double quotes, and '+' (how X encodes a
+    space in its query strings) turned back into a space."""
+    q = (q or "").replace('"', "").replace("\u201c", "").replace("\u201d", "").replace("+", " ")
+    return re.sub(r"\s+", " ", q).strip()
+
 
 def sotwe_url(t: dict) -> str:
     q = t["query"].lstrip("#")
