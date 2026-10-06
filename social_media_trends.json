@@ -1,42 +1,50 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-06T12:25:54Z",
+  "updated": "2026-10-06T13:25:02Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "pbux",
+      "id": "san-diego",
       "rank": 1,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
+          "t": "2026-10-06T06:23:33Z",
+          "r": 2
+        },
+        {
           "t": "2026-10-06T11:23:34Z",
-          "r": 1
+          "r": 3
         },
         {
           "t": "2026-10-06T12:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
           "r": 1
         }
       ],
-      "rank_change": 0,
+      "rank_change": 1,
       "is_new": false,
-      "topic": "#PBUX",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23PBUX",
-      "image_url": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/143-83044.jpg",
+      "topic": "San Diego",
+      "description": "Donald Trump faced sharp backlash from California officials after suggesting at a campaign rally that he would let Iran 'take out' Los Angeles or San Diego.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/San%20Diego",
+      "image_url": "http://upload.wikimedia.org/wikipedia/commons/4/4e/San_Diego_Skyline_at_Dawn.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T11:23:34Z",
-      "first_seen": "2026-10-06T11:23:34Z",
+      "started_trending": "2026-10-06T03:23:36Z",
+      "first_seen": "2026-10-06T03:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -53,12 +61,16 @@
         {
           "t": "2026-10-06T12:23:36Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 2
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Good Tuesday",
-      "description": "Social media users are discussing regional weather patterns, with parts of the U.S. experiencing sunny and warmer conditions while others face chilly morning frosts.",
+      "description": "Social media users are discussing pleasant weather forecasts for Tuesday, alongside political commentary and sports discussions.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Tuesday",
       "image_url": "https://i.pinimg.com/originals/6b/49/1c/6b491ce2c5d67899b2fb42ef5a3a4342.jpg",
@@ -66,7 +78,77 @@
       "started_trending": "2026-10-06T11:23:34Z",
       "first_seen": "2026-10-06T11:23:34Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pbux",
+      "rank": 3,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-06T11:23:34Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-06T12:23:36Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 3
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "#PBUX",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23PBUX",
+      "image_url": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/143-83044.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T11:23:34Z",
+      "first_seen": "2026-10-06T11:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "taco-tuesday",
+      "rank": 4,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-06T12:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Taco Tuesday",
+      "description": "Social media users are celebrating National Taco Day and the original Taco Tuesday, sharing deals, freebies, and restaurant recommendations across the country.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Taco%20Tuesday",
+      "image_url": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/10/National-Taco-Day-FINAL-Creative.png?resize=352",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T12:23:36Z",
+      "first_seen": "2026-10-06T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T13:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -74,45 +156,8 @@
       "extra": {}
     },
     {
-      "id": "san-diego",
-      "rank": 3,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-06T06:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-06T11:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-06T12:23:36Z",
-          "r": 3
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "San Diego",
-      "description": "Donald Trump sparked major backlash on social media after suggesting at a campaign rally that he would let Iran take out Los Angeles and San Diego, prompting sharp criticism from California leaders.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/San%20Diego",
-      "image_url": "http://upload.wikimedia.org/wikipedia/commons/4/4e/San_Diego_Skyline_at_Dawn.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T03:23:36Z",
-      "first_seen": "2026-10-06T03:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "irysconcert2026",
-      "rank": 4,
+      "rank": 5,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -123,9 +168,13 @@
         {
           "t": "2026-10-06T12:23:36Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 5
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "#IRySConcert2026",
       "description": "",
@@ -136,39 +185,10 @@
       "started_trending": "2026-10-06T11:23:34Z",
       "first_seen": "2026-10-06T11:23:34Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "taco-tuesday",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T12:23:36Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Taco Tuesday",
-      "description": "Social media users are celebrating National Taco Day as it coincides with Taco Tuesday, sharing news about restaurant deals, freebies, and special discounts across the country.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Taco%20Tuesday",
-      "image_url": "https://www.winnipegfreepress.com/wp-content/uploads/sites/2/2026/10/National-Taco-Day-FINAL-Creative.png?resize=352",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T12:23:36Z",
-      "first_seen": "2026-10-06T12:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -189,12 +209,16 @@
         {
           "t": "2026-10-06T12:23:36Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 6
         }
       ],
       "rank_change": 9,
       "is_new": false,
       "topic": "Jim Bakker",
-      "description": "Televangelist Jim Bakker has died at the age of 86, drawing widespread attention online due to his history with the PTL Club empire and his imprisonment following financial and sex scandals.",
+      "description": "Disgraced televangelist Jim Bakker, known for founding the PTL Club and being ensnared in fraud and sex scandals, has died at the age of 86.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jim%20Bakker",
       "image_url": "https://cdn.britannica.com/86/231086-050-CB03BBBE/Evangelists-Jim-Bakker-Tammy-Faye-Bakker-The-PTL-Club-1986.jpg",
@@ -202,16 +226,173 @@
       "started_trending": "2026-10-06T05:24:08Z",
       "first_seen": "2026-10-06T05:24:08Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nationalcoachesday",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#NationalCoachesDay",
+      "description": "Social media users are celebrating National Coaches Day, highlighting messages about how great coaches prioritize the well-being of children over scores.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23NationalCoachesDay",
+      "image_url": "https://positivecoach.org/wp-content/uploads/PCA-National-Coaches-Day-2026-Image-1.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T13:23:37Z",
+      "first_seen": "2026-10-06T13:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "boomers",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Boomers",
+      "description": "Discussions are trending around reports that baby boomers are set to release millions of homes and massive wealth over the coming decade, sparking questions for first-time buyers and financial advisors.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Boomers",
+      "image_url": "https://babyboomers101.com/wp-content/uploads/2025/01/cropped-header2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T13:23:37Z",
+      "first_seen": "2026-10-06T13:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "francis-halzen",
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-06T12:23:36Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Francis Halzen",
+      "description": "Francis Halzen of the University of Wisconsin-Madison won the 2026 Nobel Prize in Physics for his pioneering work on high-energy neutrinos and Antarctic 'ghost particles'.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Francis%20Halzen",
+      "image_url": "https://www.freemalaysiatoday.com/cdn-cgi/image/width=3840,quality=80,format=auto,fit=scale-down,metadata=none,dpr=1,onerror=redirect/https://media.freemalaysiatoday.com/v3/2026/10/6bca8648-bc2d-4b68-b768-dfd223930251-Francis-Hazlen-Nobel-prize-EPA-06102026-.webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T12:23:36Z",
+      "first_seen": "2026-10-06T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "topic",
+      "rank": 10,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-06T12:23:36Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "#ตัวอย่างเขมจิราตลอดกาล",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A5",
+      "image_url": "https://i.mydramalist.com/JB0JZl_4f.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T12:23:36Z",
+      "first_seen": "2026-10-06T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tuesdayvibes",
+      "rank": 11,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-06T12:23:36Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "#TuesdayVibes",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23TuesdayVibes",
+      "image_url": "https://i.pinimg.com/474x/72/24/80/722480045fabaf0a6ac591700b2da2a2.jpg?nii=t",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T12:23:36Z",
+      "first_seen": "2026-10-06T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jupiter",
-      "rank": 7,
+      "rank": 12,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -222,12 +403,16 @@
         {
           "t": "2026-10-06T12:23:36Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 12
         }
       ],
-      "rank_change": -1,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Jupiter",
-      "description": "Stargazers on social media are buzzing as the moon occults Jupiter in a rare astronomical event that will not happen again for 11 years, alongside updates on ESA's Juice spacecraft.",
+      "description": "Stargazers across social media are sharing photos and reports of the Moon occulting and appearing next to Jupiter in the night sky.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jupiter",
       "image_url": "https://apod.nasa.gov/apod/image/1804/JupiterOpal_HubbleMasztalerz_1880.jpg",
@@ -235,57 +420,32 @@
       "started_trending": "2026-10-06T11:23:34Z",
       "first_seen": "2026-10-06T11:23:34Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "topic",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T12:23:36Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ตัวอย่างเขมจิราตลอดกาล",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A5",
-      "image_url": "https://i.mydramalist.com/JB0JZl_4f.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T12:23:36Z",
-      "first_seen": "2026-10-06T12:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "trailer-khemjira-forever",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 13,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-06T12:23:36Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "TRAILER KHEMJIRA FOREVER",
-      "description": "Fans online are sharing and discussing the official trailer release for KHEMJIRA FOREVER.",
+      "description": "The official trailer for Khemjira Forever has been released on YouTube, drawing attention and discussion online.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/TRAILER%20KHEMJIRA%20FOREVER",
       "image_url": "https://pbs.twimg.com/media/HLGQBygXUAApmIJ.jpg",
@@ -293,127 +453,7 @@
       "started_trending": "2026-10-06T12:23:36Z",
       "first_seen": "2026-10-06T12:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "francis-halzen",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T12:23:36Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Francis Halzen",
-      "description": "Francis Halzen won the 2026 Nobel Prize in Physics for his groundbreaking work discovering high-energy neutrinos and hunting Antarctic ghost particles, prompting widespread praise online.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Francis%20Halzen",
-      "image_url": "https://www.freemalaysiatoday.com/cdn-cgi/image/width=3840,quality=80,format=auto,fit=scale-down,metadata=none,dpr=1,onerror=redirect/https://media.freemalaysiatoday.com/v3/2026/10/6bca8648-bc2d-4b68-b768-dfd223930251-Francis-Hazlen-Nobel-prize-EPA-06102026-.webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T12:23:36Z",
-      "first_seen": "2026-10-06T12:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tuesdayvibes",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T12:23:36Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#TuesdayVibes",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23TuesdayVibes",
-      "image_url": "https://i.pinimg.com/474x/72/24/80/722480045fabaf0a6ac591700b2da2a2.jpg?nii=t",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T12:23:36Z",
-      "first_seen": "2026-10-06T12:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tuesdaymotivation",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T12:23:36Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#TuesdayMotivation",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23TuesdayMotivation",
-      "image_url": "https://i.pinimg.com/originals/aa/4a/74/aa4a747b650535f0f420edc3962c4c96.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T12:23:36Z",
-      "first_seen": "2026-10-06T12:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fort-hood",
-      "rank": 13,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-06T11:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-06T12:23:36Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Fort Hood",
-      "description": "Social media is reacting to the announcement that Trump approved a U.S. Army firing squad execution for former Army major Nidal Malik Hasan, the mass shooter who killed 13 people at Fort Hood.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fort%20Hood",
-      "image_url": "https://media.nbcdfw.com/2019/09/NidalHasan.jpg?quality=85&strip=all&resize=1200,675",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T11:23:34Z",
-      "first_seen": "2026-10-06T11:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
+      "last_seen": "2026-10-06T13:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -421,8 +461,37 @@
       "extra": {}
     },
     {
-      "id": "tammy-faye",
+      "id": "890-mw",
       "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "890 MW",
+      "description": "Google and Constellation Energy announced a landmark multi-billion dollar agreement to bring 890 megawatts of new nuclear power capacity to the PJM grid for AI development.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/890%20MW",
+      "image_url": "https://www.thoughtco.com/thmb/RdfdIjwNar1_3xZJoS4hOpLVdDk=/3778x2550/filters:fill(auto,1)/constellation_-59e673cb6f53ba001163ab23.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T13:23:37Z",
+      "first_seen": "2026-10-06T13:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tammy-faye",
+      "rank": 15,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -433,12 +502,16 @@
         {
           "t": "2026-10-06T12:23:36Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-06T13:23:37Z",
+          "r": 15
         }
       ],
-      "rank_change": -6,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Tammy Faye",
-      "description": "Tammy Faye is trending in discussions surrounding the death of her ex-husband, disgraced televangelist Jim Bakker, who passed away at 86 following a history of major scandals.",
+      "description": "Tammy Faye is trending following the death of her former husband and PTL Club co-founder, televangelist Jim Bakker, at age 86.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tammy%20Faye",
       "image_url": "https://i0.wp.com/s.abcnews.com/images/US/tammy-bakker-gty-jpo-190115_hpMain_2_16x9_1600.jpg?strip=all&is-pending-load=1",
@@ -446,36 +519,36 @@
       "started_trending": "2026-10-06T11:23:34Z",
       "first_seen": "2026-10-06T11:23:34Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "national-taco-day",
-      "rank": 15,
+      "id": "cogni",
+      "rank": 16,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T12:23:36Z",
-          "r": 15
+          "t": "2026-10-06T13:23:37Z",
+          "r": 16
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "National Taco Day",
-      "description": "Social media users are sharing deals, freebies, and promotions as restaurants nationwide celebrate National Taco Day alongside Taco Tuesday.",
+      "topic": "Cogni",
+      "description": "Discussions are trending around cognitive health, including research on cognitive scores and stroke risk, alongside AI-driven finance and technology developments.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/National%20Taco%20Day",
-      "image_url": "https://cdn.sanity.io/images/ul2yl74r/production/d63fee8c8f7328d38904ef62d5e3dbb3de3832cc-1024x1280.jpg?w=600&fm=webp&q=80",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T12:23:36Z",
-      "first_seen": "2026-10-06T12:23:36Z",
+      "url": "https://twstalker.com/search/Cogni",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-06T13:23:37Z",
+      "first_seen": "2026-10-06T13:23:37Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
+      "last_seen": "2026-10-06T13:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -483,65 +556,28 @@
       "extra": {}
     },
     {
-      "id": "boone",
-      "rank": 16,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-06T06:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-06T11:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-06T12:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Boone",
-      "description": "Yankees manager Aaron Boone is drawing heavy discussion online following a difficult postseason loss marked by errors and a tough upcoming pitching rotation decision.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Boone",
-      "image_url": "https://www.main-echo.de/storage/image/8/7/8/6/5986878_img-79521_artikeldetail-bild_1AH-Ux_j5dXNI.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
-      "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "prime-day",
+      "id": "ryet",
       "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T12:23:36Z",
+          "t": "2026-10-06T13:23:37Z",
           "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Prime Day",
-      "description": "Shoppers online are sharing top discounts and exclusive October deals as Amazon's Prime Day event returns with markdowns on tech, appliances, and beauty products.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Prime%20Day",
-      "image_url": "https://bloximages.newyork1.vip.townnews.com/kxly.com/content/tncms/assets/v3/editorial/0/66/066e051a-06b8-56ee-b3e1-711c7473ffa4/6ac061da626d2.image.jpg?crop=1280,672,0,23&resize=1200,630&order=crop,resize",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T12:23:36Z",
-      "first_seen": "2026-10-06T12:23:36Z",
+      "topic": "RYET",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/RYET",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-06T13:23:37Z",
+      "first_seen": "2026-10-06T13:23:37Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
+      "last_seen": "2026-10-06T13:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -549,61 +585,57 @@
       "extra": {}
     },
     {
-      "id": "cashman",
+      "id": "happy-taco",
       "rank": 18,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T11:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-06T12:23:36Z",
+          "t": "2026-10-06T13:23:37Z",
           "r": 18
         }
       ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Cashman",
-      "description": "Brian Cashman is trending in sports discussions as social media users compare his roster-building strategies to other MLB executives.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy Taco",
+      "description": "Food enthusiasts on social media are sharing top local taco spots and celebrating National Taco Day deals and specials.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cashman",
-      "image_url": "https://firstsportz.com/wp-content/uploads/2024/02/Brian-Cashman.jpg",
+      "url": "https://twstalker.com/search/Happy%20Taco",
+      "image_url": "https://www.samtell.com/hs-fs/hubfs/Blogs/Four-Scrumptous-Tacos-Lined-up-with-ingredients-around-them-1.jpg?width=1800&name=Four-Scrumptous-Tacos-Lined-up-with-ingredients-around-them-1.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T11:23:34Z",
-      "first_seen": "2026-10-06T11:23:34Z",
+      "started_trending": "2026-10-06T13:23:37Z",
+      "first_seen": "2026-10-06T13:23:37Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "encrypted-nfts",
+      "id": "richard-thomas",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T12:23:36Z",
+          "t": "2026-10-06T13:23:37Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Encrypted NFTs",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Encrypted%20NFTs",
-      "image_url": "https://buyreviewer.com/wp-content/uploads/images/understanding-nfts-digital-art-s9u.jpeg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T12:23:36Z",
-      "first_seen": "2026-10-06T12:23:36Z",
+      "topic": "Richard Thomas",
+      "description": "Local obituary notices and historical discussions involving individuals named Richard Thomas are circulating online.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Richard%20Thomas",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-06T13:23:37Z",
+      "first_seen": "2026-10-06T13:23:37Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
+      "last_seen": "2026-10-06T13:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -611,35 +643,31 @@
       "extra": {}
     },
     {
-      "id": "nidal-hasan",
+      "id": "de-minaur",
       "rank": 20,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T11:23:34Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-06T12:23:36Z",
+          "t": "2026-10-06T13:23:37Z",
           "r": 20
         }
       ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Nidal Hasan",
-      "description": "Social media is reacting to the Pentagon's announcement that Trump has approved a military firing squad execution for convicted Fort Hood mass shooter Nidal Hasan.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "De Minaur",
+      "description": "Alex de Minaur is trending after retiring due to an injury during the China Open final against Novak Djokovic, who secured his 102nd career title.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nidal%20Hasan",
-      "image_url": "https://images.inkl.com/s3/article/lead_image/23909402/nidal-hasan.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T11:23:34Z",
-      "first_seen": "2026-10-06T11:23:34Z",
+      "url": "https://twstalker.com/search/De%20Minaur",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-06T13:23:37Z",
+      "first_seen": "2026-10-06T13:23:37Z",
       "published": null,
-      "last_seen": "2026-10-06T12:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-06T13:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
