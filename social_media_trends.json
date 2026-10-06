@@ -1,114 +1,44 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-06T01:25:17Z",
+  "updated": "2026-10-06T02:30:01Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
-  "count": 19,
+  "count": 20,
   "items": [
     {
-      "id": "bijan",
+      "id": "yankees",
       "rank": 1,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T00:26:17Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-06T01:23:44Z",
+          "t": "2026-10-06T02:23:36Z",
           "r": 1
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Bijan",
-      "description": "Atlanta Falcons running back Bijan Robinson is trending as he draws major attention for player props, fantasy football picks, and his prime-time mentality ahead of the Monday Night Football matchup against the New Orleans Saints.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Yankees",
+      "description": "The New York Yankees are facing the Tampa Bay Rays in Game 2 of the ALDS. The team also faces a future decision regarding Jazz Chisholm Jr. after the season.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bijan",
-      "image_url": "https://e0.365dm.com/26/09/1600x900/skysports-bijan-robinson-atlanta-falcons_7360804.jpg?20260925062417",
+      "url": "https://twstalker.com/search/Yankees",
+      "image_url": "https://heavy.com/wp-content/uploads/2026/08/new-york-yankees-v-detroit-tigers-detroit-mi-june-23-carlos.jpg?quality=35&strip=all&w=1350",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T00:26:17Z",
-      "first_seen": "2026-10-06T00:26:17Z",
+      "started_trending": "2026-10-06T02:23:36Z",
+      "first_seen": "2026-10-06T02:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
+      "last_seen": "2026-10-06T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "wweraw",
-      "rank": 2,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-06T00:26:17Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#WWERaw",
-      "description": "Fans are buzzing about WWE Raw following news of Roman Reigns returning to the show and the final build-up before the Money in the Bank event.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23WWERaw",
-      "image_url": "https://www.themovieblog.com/wp-content/uploads/2025/01/Netflix-Monday-Night-Raw-5.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T00:26:17Z",
-      "first_seen": "2026-10-06T00:26:17Z",
-      "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "falcons",
-      "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-06T00:26:17Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Falcons",
-      "description": "The Atlanta Falcons are trending as they prepare to face the New Orleans Saints on Monday Night Football, led by quarterback Michael Penix Jr. and recent roster moves.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Falcons",
-      "image_url": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202501/Jan02/large_Atlanta-Falcons-helmet-2014146.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-05T23:23:33Z",
-      "first_seen": "2026-10-05T23:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "saints",
-      "rank": 4,
+      "rank": 2,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -119,12 +49,16 @@
         {
           "t": "2026-10-06T01:23:44Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 2
         }
       ],
-      "rank_change": 0,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Saints",
-      "description": "The New Orleans Saints are trending as they prepare to host the Atlanta Falcons on Monday Night Football, while also commemorating the anniversary of Hurricane Katrina and honoring Steve Gleason.",
+      "description": "The New Orleans Saints are preparing for a Monday Night Football matchup against the Atlanta Falcons while honoring the 20th anniversary of the team's return after Hurricane Katrina.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Saints",
       "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAxNTc0OTc2/new-orleans-saints-v-baltimore-ravens.jpg?profile=w2560&ar=16-9",
@@ -132,16 +66,189 @@
       "started_trending": "2026-10-05T21:23:36Z",
       "first_seen": "2026-10-05T21:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wweraw",
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-06T00:26:17Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-06T01:23:44Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 3
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "#WWERaw",
+      "description": "Roman Reigns returns to WWE Raw for the final show before the Money in the Bank event. The episode also features a match between Becky Lynch and Liv Morgan.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WWERaw",
+      "image_url": "https://www.themovieblog.com/wp-content/uploads/2025/01/Netflix-Monday-Night-Raw-5.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T00:26:17Z",
+      "first_seen": "2026-10-06T00:26:17Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bijan",
+      "rank": 4,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-06T00:26:17Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-06T01:23:44Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 4
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Bijan",
+      "description": "Atlanta Falcons running back Bijan Robinson is trending after scoring a 59-yard touchdown against the New Orleans Saints during Monday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bijan",
+      "image_url": "https://e0.365dm.com/26/09/1600x900/skysports-bijan-robinson-atlanta-falcons_7360804.jpg?20260925062417",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T00:26:17Z",
+      "first_seen": "2026-10-06T00:26:17Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "falcons",
+      "rank": 5,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-06T00:26:17Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-06T01:23:44Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Falcons",
+      "description": "The Atlanta Falcons are facing the New Orleans Saints in a Monday Night Football game. The team has elevated Jammie Robinson for the matchup.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Falcons",
+      "image_url": "https://www.imageservera.com/cdn-cgi/image/format=webp/uploadedimages/202501/Jan02/large_Atlanta-Falcons-helmet-2014146.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-05T23:23:33Z",
+      "first_seen": "2026-10-05T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kirk-franklin",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kirk Franklin",
+      "description": "Gospel artist Kirk Franklin is trending after fellow musician John P. Kee defended his recent collaboration with rapper GloRilla.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kirk%20Franklin",
+      "image_url": "https://facts.net/wp-content/uploads/2023/10/11-astounding-facts-about-kirk-franklin-1697336237.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T02:23:36Z",
+      "first_seen": "2026-10-06T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "boone",
+      "rank": 7,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-06T01:23:44Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Boone",
+      "description": "The term is trending due to various local news reports, including a fantasy football waiver wire column by Justin Boone and a high school soccer match involving Boone County.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Boone",
+      "image_url": "https://www.main-echo.de/storage/image/8/7/8/6/5986878_img-79521_artikeldetail-bild_1AH-Ux_j5dXNI.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T01:23:44Z",
+      "first_seen": "2026-10-06T01:23:44Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jazz",
-      "rank": 5,
+      "rank": 8,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -152,12 +259,16 @@
         {
           "t": "2026-10-06T01:23:44Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 8
         }
       ],
-      "rank_change": 8,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Jazz",
-      "description": "The Utah Jazz are trending in sports discussions following their 109-97 victory over the Denver Nuggets in a recent game recap.",
+      "description": "The Utah Jazz are in the spotlight following a 109-97 victory over the Denver Nuggets. The term also appears in unrelated news regarding music and fashion.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jazz",
       "image_url": "https://s.yimg.com/lo/mysterio/api/34a569e1106c5599335271480185dc04575e0984da0dcabc54d9d2d944129f28/lightyear_networkapi/resizefill_w1200_h630;quality_80;format_webp/https://media.zenfs.com/en/roundtable_sports_utah_jazz_309/36f632593163a24528fc46de75cfb356.jpg",
@@ -165,247 +276,36 @@
       "started_trending": "2026-10-06T00:26:17Z",
       "first_seen": "2026-10-06T00:26:17Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "kyle-pitts",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kyle Pitts",
-      "description": "Atlanta Falcons tight end Kyle Pitts is trending as analysts and fantasy football players debate whether he will finally break out during the Monday Night Football matchup against the New Orleans Saints.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kyle%20Pitts",
-      "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAxNTk0NDQy/nfl-denver-broncos-at-atlanta-falcons.jpg?profile=w2560&ar=16-9",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
-      "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "boone",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Boone",
-      "description": "The name Boone is trending across multiple local news and sports topics, including a high school volleyball match, a local obituary, and fantasy football waiver wire advice from Justin Boone.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Boone",
-      "image_url": "https://www.main-echo.de/storage/image/8/7/8/6/5986878_img-79521_artikeldetail-bild_1AH-Ux_j5dXNI.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
-      "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kendre-miller",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kendre Miller",
-      "description": "New Orleans Saints running back Kendre Miller is trending as fantasy football players weigh start-or-sit decisions and player props ahead of the team's game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kendre%20Miller",
-      "image_url": "https://cdn.fantasypros.com/wp-content/images/KENDRE_MILLER_SAINTS_7-1/1470x650.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
-      "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "la-knight",
+      "id": "rays",
       "rank": 9,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T00:26:17Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-06T01:23:44Z",
+          "t": "2026-10-06T02:23:36Z",
           "r": 9
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "LA Knight",
-      "description": "LA Knight is trending as wrestling fans discuss his world title push and upcoming match against Roman Reigns at WWE Money in the Bank.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/LA%20Knight",
-      "image_url": "https://www.usanetwork.com/sites/usablog/files/2023/11/wwe-la-knight2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T00:26:17Z",
-      "first_seen": "2026-10-06T00:26:17Z",
-      "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sean-burke",
-      "rank": 10,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-06T00:26:17Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Sean Burke",
-      "description": "Chicago White Sox pitcher Sean Burke is trending as he prepares to pitch in a bulk relief role during the team's playoff run.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sean%20Burke",
-      "image_url": "https://twsn.net/.image/NjU6MDAwMDAwMDAwMTI1MjE5/mlb-colorado-rockies-at-chicago-white-sox.jpg?profile=w2560&ar=16-9",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T00:26:17Z",
-      "first_seen": "2026-10-06T00:26:17Z",
-      "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chase-young",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 11
-        }
-      ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Chase Young",
-      "description": "Chase Young is trending as analysts highlight the defensive player as a key factor in the upcoming matchup between the Atlanta Falcons and New Orleans Saints.",
+      "topic": "Rays",
+      "description": "The Tampa Bay Rays are playing the New York Yankees in Game 2 of the ALDS. The team is also gaining attention for new postseason food offerings.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chase%20Young",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/1200/675/nfl-saints-chase-young-122825-2.jpg?ve=1&tl=1",
+      "url": "https://twstalker.com/search/Rays",
+      "image_url": "https://storage.googleapis.com/ticketx-prod-files-public/thumbnails/performers/tampa-bay-rays.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
+      "started_trending": "2026-10-06T02:23:36Z",
+      "first_seen": "2026-10-06T02:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "volpe",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Volpe",
-      "description": "New York Yankees player Anthony Volpe is trending after denying a report that he refused to play second base ahead of a game against the Rays.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Volpe",
-      "image_url": "https://static01.nyt.com/images/2023/03/28/multimedia/28-KEPNER-VOLPE1-vbqm/28-KEPNER-VOLPE1-vbqm-superJumbo-v2.jpg?quality=75&auto=webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
-      "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "atlvsno",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ATLvsNO",
-      "description": "The hashtag #ATLvsNO is trending as fans and bettors look at touchdown scorers, player props, and predictions for the Monday Night Football game between the Atlanta Falcons and New Orleans Saints.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23ATLvsNO",
-      "image_url": "https://c.ndtvimg.com/2026-10/rpj0unpc_falcons-vs-saints-mnf-2026-tv-channel-stream-and-start-time_625x300_05_October_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
-      "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
+      "last_seen": "2026-10-06T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -414,19 +314,23 @@
     },
     {
       "id": "olave",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 10,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-10-06T01:23:44Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 10
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 4,
+      "is_new": false,
       "topic": "Olave",
-      "description": "New Orleans Saints wide receiver Chris Olave is trending as a popular pick for fantasy football lineups and touchdown props ahead of Monday Night Football.",
+      "description": "New Orleans Saints wide receiver Chris Olave is a key focus for fantasy football players and analysts ahead of the team's Monday Night Football game against the Falcons.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Olave",
       "image_url": "https://d.newsweek.com/en/full/2658254/chris-olave.jpg",
@@ -434,7 +338,7 @@
       "started_trending": "2026-10-06T01:23:44Z",
       "first_seen": "2026-10-06T01:23:44Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
+      "last_seen": "2026-10-06T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -442,28 +346,28 @@
       "extra": {}
     },
     {
-      "id": "cj-henderson",
-      "rank": 15,
+      "id": "mcmahon",
+      "rank": 11,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T01:23:44Z",
-          "r": 15
+          "t": "2026-10-06T02:23:36Z",
+          "r": 11
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "CJ Henderson",
-      "description": "CJ Henderson and roster updates are trending as the Atlanta Falcons and New Orleans Saints finalize their inactives and starting lineups for their Monday night game.",
+      "topic": "McMahon",
+      "description": "John Cena is facing backlash for his continued public support of Vince McMahon. Additionally, Ryan McMahon is being discussed for his performance with the Yankees.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/CJ%20Henderson",
-      "image_url": "https://heavy.com/wp-content/uploads/2026/09/GettyImages-2255425624-e1790294803437.jpg?quality=65&strip=all",
+      "url": "https://twstalker.com/search/McMahon",
+      "image_url": "https://assets.khelnow.com/news/uploads/2025/04/32-John-Cena-and-Vince-copy.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
+      "started_trending": "2026-10-06T02:23:36Z",
+      "first_seen": "2026-10-06T02:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
+      "last_seen": "2026-10-06T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -471,28 +375,152 @@
       "extra": {}
     },
     {
-      "id": "tyler-shough",
+      "id": "kellen-moore",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kellen Moore",
+      "description": "Saints offensive coordinator Kellen Moore is receiving attention for his impact on quarterback Tyler Shough's development ahead of the game against the Falcons.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kellen%20Moore",
+      "image_url": "https://www.freep.com/gcdn/-mm-/13e91021ee7e2fe7c62a54fe4ec9f15d9f63fecc/c=0-0-2996-1693/local/-/media/2015/03/06/DetroitFreePress/DetroitFreePress/635612450770616131-DFP-0826-moore-six.j-1-1-F18BR2CB-L473910446.JPG",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T02:23:36Z",
+      "first_seen": "2026-10-06T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "penix",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Penix",
+      "description": "Atlanta Falcons quarterback Michael Penix Jr. is trending as he leads his team into a high-stakes Monday Night Football rivalry game against the New Orleans Saints.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Penix",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/fb950a28223d65b3aea3c2105657583df7eb54e6a5aeec45389eb4e695323617/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/stadium_rant_681/7d8c1f07fe8adb4534d5ee98def6aef3.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T02:23:36Z",
+      "first_seen": "2026-10-06T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kyle-pitts",
+      "rank": 14,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-06T01:23:44Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Kyle Pitts",
+      "description": "Atlanta Falcons tight end Kyle Pitts is a major topic of discussion for fantasy football managers and analysts ahead of the team's Monday Night Football game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kyle%20Pitts",
+      "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAxNTk0NDQy/nfl-denver-broncos-at-atlanta-falcons.jpg?profile=w2560&ar=16-9",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T01:23:44Z",
+      "first_seen": "2026-10-06T01:23:44Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "atlvsno",
+      "rank": 15,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-06T01:23:44Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "#ATLvsNO",
+      "description": "The hashtag is trending as fans and bettors discuss the Monday Night Football matchup between the Atlanta Falcons and the New Orleans Saints.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23ATLvsNO",
+      "image_url": "https://c.ndtvimg.com/2026-10/rpj0unpc_falcons-vs-saints-mnf-2026-tv-channel-stream-and-start-time_625x300_05_October_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T01:23:44Z",
+      "first_seen": "2026-10-06T01:23:44Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "new-orleans",
       "rank": 16,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T01:23:44Z",
+          "t": "2026-10-06T02:23:36Z",
           "r": 16
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Tyler Shough",
-      "description": "New Orleans Saints quarterback Tyler Shough is trending as analysts discuss his need to show growth against a dangerous Falcons defense and his inclusion in fantasy football discussions.",
+      "topic": "New Orleans",
+      "description": "New Orleans is hosting the Monday Night Football game between the Saints and Falcons, while also marking the 20th anniversary of the Superdome's reopening after Hurricane Katrina.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tyler%20Shough",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/a1ac9763674c3b263569dd9f8edbc0c1b87a011bc2db2e9b4f8bc434deaf3075/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/ap.org/7e76bdf0ad40079da48b9d7bd8fb92fb.jpg",
+      "url": "https://twstalker.com/search/New%20Orleans",
+      "image_url": "https://thevendry.com/cdn-cgi/image/height=1920,width=1920,fit=contain,metadata=none/https://s3.us-east-1.amazonaws.com/uploads.thevendry.co/24984/1672945369282_264811404_4670548296386113_2652049147082357646_n.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
+      "started_trending": "2026-10-06T02:23:36Z",
+      "first_seen": "2026-10-06T02:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
+      "last_seen": "2026-10-06T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -500,28 +528,28 @@
       "extra": {}
     },
     {
-      "id": "freddy-peralta",
+      "id": "shough",
       "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T01:23:44Z",
+          "t": "2026-10-06T02:23:36Z",
           "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Freddy Peralta",
-      "description": "Freddy Peralta is trending as baseball fans and analysts discuss his recent trade to the Rays from the Mets and his role as a playoff starter against the Yankees.",
+      "topic": "Shough",
+      "description": "New Orleans Saints quarterback Tyler Shough is trending as he prepares to lead the team against the Atlanta Falcons on Monday Night Football.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Freddy%20Peralta",
-      "image_url": "https://s7d2.scene7.com/is/image/TWCNews/Rays_Peralta_9-25",
+      "url": "https://twstalker.com/search/Shough",
+      "image_url": "https://atozsports.com/wp-content/uploads/2026/09/2026-09-20T182926Z_797700879_MT1USATODAY29872466_RTRMADP_3_NFL-NEW-ORLEANS-SAINTS-AT-BALTIMORE-RAVENS-2048x1366.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T01:23:44Z",
-      "first_seen": "2026-10-06T01:23:44Z",
+      "started_trending": "2026-10-06T02:23:36Z",
+      "first_seen": "2026-10-06T02:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
+      "last_seen": "2026-10-06T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -529,32 +557,28 @@
       "extra": {}
     },
     {
-      "id": "jaylen-brown",
+      "id": "schlittler",
       "rank": 18,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T00:26:17Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-06T01:23:44Z",
+          "t": "2026-10-06T02:23:36Z",
           "r": 18
         }
       ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Jaylen Brown",
-      "description": "Jaylen Brown is trending across social media as he prepares to make his Philadelphia 76ers debut following his departure from the Boston Celtics.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Schlittler",
+      "description": "Yankees pitcher Cam Schlittler is trending after a sloppy first inning against the Rays and for his pregame comments regarding the opposing crowd.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jaylen%20Brown",
-      "image_url": "https://cdn.britannica.com/95/264295-050-98DEE372/Jaylen-Brown-Boston-Celtics-dribbles-against-Toronto-Raptors-2024-NBA-OCtober-2024ricks.jpg",
+      "url": "https://twstalker.com/search/Schlittler",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/cef31db4da6750124e3ac70ba325dfd1adf90ef02e72ffd72c774e6841f89bc1/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/heavy_214/e2098f48dc55e3afe8d6d21561210455.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T00:26:17Z",
-      "first_seen": "2026-10-06T00:26:17Z",
+      "started_trending": "2026-10-06T02:23:36Z",
+      "first_seen": "2026-10-06T02:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
+      "last_seen": "2026-10-06T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -574,12 +598,16 @@
         {
           "t": "2026-10-06T01:23:44Z",
           "r": 19
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 19
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "#DirtyBirds",
-      "description": "The term Dirty Birds is trending as fans and commentators discuss the Atlanta Falcons nickname ahead of their Monday night matchup against the New Orleans Saints.",
+      "description": "The term is being used by Saints fans and figures like Drew Brees to refer to the Atlanta Falcons ahead of their Monday Night Football rivalry game.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23DirtyBirds",
       "image_url": "https://e0.365dm.com/26/09/1600x900/skysports-bijan-robinson-atlanta-falcons_7360804.jpg?20260925062417",
@@ -587,7 +615,40 @@
       "started_trending": "2026-10-06T00:26:17Z",
       "first_seen": "2026-10-06T00:26:17Z",
       "published": null,
-      "last_seen": "2026-10-06T01:23:44Z",
+      "last_seen": "2026-10-06T02:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kendre-miller",
+      "rank": 20,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-06T01:23:44Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-06T02:23:36Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -12,
+      "is_new": false,
+      "topic": "Kendre Miller",
+      "description": "New Orleans Saints running back Kendre Miller is a popular subject for fantasy football start-or-sit advice ahead of the team's Week 4 matchup.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kendre%20Miller",
+      "image_url": "https://cdn.fantasypros.com/wp-content/images/KENDRE_MILLER_SAINTS_7-1/1470x650.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T01:23:44Z",
+      "first_seen": "2026-10-06T01:23:44Z",
+      "published": null,
+      "last_seen": "2026-10-06T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
