@@ -410,12 +410,12 @@ async function loadAll() {
 
 /* ---------- pieces of markup ---------- */
 function changeHtml(it) {
-  if (it.is_new) return '<span class="chg new" title="New in the last 4 hours">NEW</span>';
+  if (it.is_new) return '<span class="chg new" title="First time on the list this update">NEW</span>';
   const c = it.rank_change;
   if (typeof c !== 'number') return '';
-  if (c > 0) return `<span class="chg up" title="Moved up ${c} ranks vs 4 hours ago">▲ ${c}</span>`;
-  if (c < 0) return `<span class="chg down" title="Moved down ${-c} ranks vs 4 hours ago">▼ ${-c}</span>`;
-  return '<span class="chg same" title="No change vs 4 hours ago">–</span>';
+  if (c > 0) return `<span class="chg up" title="Moved up ${c} ranks (vs up to 4 hours ago)">▲ ${c}</span>`;
+  if (c < 0) return `<span class="chg down" title="Moved down ${-c} ranks (vs up to 4 hours ago)">▼ ${-c}</span>`;
+  return '<span class="chg same" title="No change (vs up to 4 hours ago)">–</span>';
 }
 function thumbHtml(it) {
   const url = safeUrl(it.image_url);
