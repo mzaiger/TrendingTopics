@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-06T20:25:02Z",
+  "updated": "2026-10-06T21:25:07Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "lane-johnson",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-06T20:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Lane Johnson",
-      "description": "Philadelphia Eagles right tackle Lane Johnson has announced his immediate retirement during his 14th NFL season.",
+      "description": "Philadelphia Eagles right tackle and All-Pro player Lane Johnson has announced his retirement, ending his 14-season NFL career while citing mental health reasons.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Lane%20Johnson",
       "image_url": "https://static01.nyt.com/athletic/uploads/wp/2026/10/06160612/GettyImages-2295347252-1024x683.jpg?width=1248&quality=70&auto=webp",
@@ -29,16 +33,49 @@
       "started_trending": "2026-10-06T20:23:36Z",
       "first_seen": "2026-10-06T20:23:36Z",
       "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "better-call-saul",
+      "rank": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-06T20:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Better Call Saul",
+      "description": "Social media users are drawing comparisons between the trailer for the movie 'Jailer 2' and 'Breaking Bad', while a football joke playfully linked character Saul Goodman to Manchester City.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Better%20Call%20Saul",
+      "image_url": "https://www.pngall.com/wp-content/uploads/5/Breaking-Bad-Cast-PNG-Free-Image.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T20:23:36Z",
+      "first_seen": "2026-10-06T20:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "freddie-jackson",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -61,12 +98,16 @@
         {
           "t": "2026-10-06T20:23:36Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 3
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Freddie Jackson",
-      "description": "R&B icon and soul crooner Freddie Jackson has died at the age of 70.",
+      "description": "R&B icon and Harlem-born singer Freddie Jackson, known for hits like 'You Are My Lady' and 'Rock Me Tonight,' has died at the age of 70.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Freddie%20Jackson",
       "image_url": "https://news.theurbanmusicscene.com/wp-content/uploads/2019/11/cropped-Freddie-Jackson-Black-Mic.png",
@@ -74,36 +115,36 @@
       "started_trending": "2026-10-06T16:23:34Z",
       "first_seen": "2026-10-06T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "better-call-saul",
-      "rank": 3,
+      "id": "tropical-depression-nine",
+      "rank": 4,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 3
+          "t": "2026-10-06T21:23:42Z",
+          "r": 4
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Better Call Saul",
-      "description": "The newly released trailer for 'Jailer 2' has sparked viral comparisons to 'Breaking Bad' on social media.",
+      "topic": "Tropical Depression Nine",
+      "description": "Tropical Depression Nine has formed over the Gulf of Mexico, prompting forecasts that it could quickly strengthen and threaten Alabama as a potential hurricane.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Better%20Call%20Saul",
-      "image_url": "https://www.pngall.com/wp-content/uploads/5/Breaking-Bad-Cast-PNG-Free-Image.png",
+      "url": "https://twstalker.com/search/Tropical%20Depression%20Nine",
+      "image_url": "https://wallup.net/wp-content/uploads/2014/11/tropical-paradise-coast.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T20:23:36Z",
-      "first_seen": "2026-10-06T20:23:36Z",
+      "started_trending": "2026-10-06T21:23:42Z",
+      "first_seen": "2026-10-06T21:23:42Z",
       "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
+      "last_seen": "2026-10-06T21:23:42Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -111,15 +152,135 @@
       "extra": {}
     },
     {
-      "id": "boomers",
-      "rank": 4,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "id": "abstract",
+      "rank": 5,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
-          "t": "2026-10-06T15:23:34Z",
-          "r": 4
+          "t": "2026-10-06T20:23:36Z",
+          "r": 12
         },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "Abstract",
+      "description": "The Pudgy Penguins-backed Ethereum Layer-2 network Abstract is shutting down on December 15 after reportedly losing tens of millions of dollars.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Abstract",
+      "image_url": "https://images.pexels.com/photos/1109354/pexels-photo-1109354.jpeg?cs=srgb&dl=abstract-expressionism-abstract-painting-art-1109354.jpg&fm=jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T20:23:36Z",
+      "first_seen": "2026-10-06T20:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "merino",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Merino",
+      "description": "Mikel Merino is trending after scoring a clutch double to complete a comeback win for Spain over Croatia, securing their spot in the tournament's quarter-finals.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Merino",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-06T21:23:42Z",
+      "first_seen": "2026-10-06T21:23:42Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "baba",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Baba",
+      "description": "Financial markets and sports fans are discussing Alibaba (BABA) amid stock movement and cloud expansion news, alongside reports regarding LA Clippers player Baba Miller and the passing of Ramesh Baba.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Baba",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-06T21:23:42Z",
+      "first_seen": "2026-10-06T21:23:42Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "andrew-tate",
+      "rank": 8,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-06T20:23:36Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "Andrew Tate",
+      "description": "Andrew and Tristan Tate were arrested in Miami after British prosecutors unveiled disturbing new charges and extradition files detailing allegations involving an underage webcam operation and extreme abuse.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Andrew%20Tate",
+      "image_url": "https://static.independent.co.uk/2025/04/10/09/01-06dcc9a32e00478b8db833cde852b1fb.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T20:23:36Z",
+      "first_seen": "2026-10-06T20:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "boomers",
+      "rank": 9,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
         {
           "t": "2026-10-06T16:23:34Z",
           "r": 6
@@ -139,12 +300,16 @@
         {
           "t": "2026-10-06T20:23:36Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 9
         }
       ],
-      "rank_change": 2,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Boomers",
-      "description": "Baby boomers are facing financial pressure on retirement income as bond yields impact dividend stocks, alongside discussions about aging at home and generational wealth transfers.",
+      "description": "Social media is discussing baby boomers as higher bond yields impact dividend stocks, Bank of America data highlights wealth transfer concerns, and older adults reminisce about old-school candies.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Boomers",
       "image_url": "https://babyboomers101.com/wp-content/uploads/2025/01/cropped-header2.jpg",
@@ -152,23 +317,19 @@
       "started_trending": "2026-10-06T13:23:37Z",
       "first_seen": "2026-10-06T13:23:37Z",
       "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "nationalcoachesday",
-      "rank": 5,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "rank": 10,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-10-06T15:23:34Z",
-          "r": 2
-        },
         {
           "t": "2026-10-06T16:23:34Z",
           "r": 3
@@ -188,12 +349,16 @@
         {
           "t": "2026-10-06T20:23:36Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 10
         }
       ],
-      "rank_change": -2,
+      "rank_change": -6,
       "is_new": false,
       "topic": "#NationalCoachesDay",
-      "description": "Social media users are observing National Coaches Day, highlighted by MADD launching a new guide to help coaches prevent underage drinking among student-athletes.",
+      "description": "People across social media are celebrating National Coaches Day, highlighted by organizations like MADD launching a new guide to help student-athletes prevent underage drinking.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23NationalCoachesDay",
       "image_url": "https://positivecoach.org/wp-content/uploads/PCA-National-Coaches-Day-2026-Image-1.png",
@@ -201,16 +366,74 @@
       "started_trending": "2026-10-06T13:23:37Z",
       "first_seen": "2026-10-06T13:23:37Z",
       "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "messi",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Messi",
+      "description": "Lionel Messi is trending as Argentina bids him farewell in his final international national team match, prompting emotional tributes from teammates like Neymar and fans worldwide.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Messi",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-06T21:23:42Z",
+      "first_seen": "2026-10-06T21:23:42Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "eagle",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Eagle",
+      "description": "The term is trending due to various regional high school sports matchups involving teams like Eagle Ridge Academy and Eagle Valley, alongside news concerning NFL player Lane Johnson.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Eagle",
+      "image_url": "https://www.statesymbolsusa.org/sites/statesymbolsusa.org/files/primary-images/bigstock-Curious-Bald-Eagle-60608882.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T21:23:42Z",
+      "first_seen": "2026-10-06T21:23:42Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "social-security",
-      "rank": 6,
+      "rank": 13,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -225,12 +448,16 @@
         {
           "t": "2026-10-06T20:23:36Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 13
         }
       ],
-      "rank_change": 7,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Social Security",
-      "description": "Social media is buzzing over unexpected $90 payments sent to certain Social Security recipients, while discussions continue around average benefit amounts.",
+      "description": "Seniors are discussing unexpected $90 Social Security checks that were distributed to a portion of recipients while millions of others did not receive one.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Social%20Security",
       "image_url": "https://fastly.4sqi.net/img/general/600x600/TAKD2DDYPBF4NCI3BC0NPSO3V4EIHTPAYZHI5A5ICHFWEFCE.jpg",
@@ -238,7 +465,44 @@
       "started_trending": "2026-10-06T18:23:35Z",
       "first_seen": "2026-10-06T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ponzi",
+      "rank": 14,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-06T19:23:42Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-06T20:23:36Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Ponzi",
+      "description": "Financial fraud is in the spotlight as a North Dakota man pleads guilty in a cattle Ponzi scheme, and executives face consequences in another investment fraud case.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ponzi",
+      "image_url": "https://cdn.publish0x.com/prod/fs/cachedimages/3168410605-75e3283696039a2f0d8f93f23f49d5fb95e33911345ac45e48e87fb812b0f1de.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T19:23:42Z",
+      "first_seen": "2026-10-06T19:23:42Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -246,8 +510,107 @@
       "extra": {}
     },
     {
+      "id": "rod-stewart",
+      "rank": 15,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-06T20:23:36Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Rod Stewart",
+      "description": "Rock Hall of Famer Rod Stewart is facing criticism for cancelling a show due to health issues while subsequently appearing at the World Cup, alongside announcements of future tour dates.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rod%20Stewart",
+      "image_url": "https://img.turkiyetoday.com/images/2026/9/29/rod-stewart-announces-2027-tour-will-be-his-last-3229201_20260929103650.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T20:23:36Z",
+      "first_seen": "2026-10-06T20:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sally-yates",
+      "rank": 16,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-06T19:23:42Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-06T20:23:36Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Sally Yates",
+      "description": "Cornell University has retained former acting U.S. Attorney General Sally Yates of King & Spalding to lead an independent review of the school's handling of sexual assault claims.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sally%20Yates",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/sally-yates.jpg?ve=1&tl=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-06T19:23:42Z",
+      "first_seen": "2026-10-06T19:23:42Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sparrows-point",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sparrows Point",
+      "description": "President Trump visited Baltimore County to announce a major 3.7 billion dollar shipyard plan at Sparrows Point to manufacture submarines with taxpayer stake.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sparrows%20Point",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-06T21:23:42Z",
+      "first_seen": "2026-10-06T21:23:42Z",
+      "published": null,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "dear-canada",
-      "rank": 7,
+      "rank": 18,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -266,12 +629,16 @@
         {
           "t": "2026-10-06T20:23:36Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-06T21:23:42Z",
+          "r": 18
         }
       ],
-      "rank_change": 12,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Dear Canada",
-      "description": "Online discussions are referencing Canada following news that Ukraine thanked the country for helping return children abducted by Russia.",
+      "description": "The phrase is trending as Ukrainian officials thank Canada for its assistance in the return of Ukrainian children abducted by Russia, alongside local corporate and community updates.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dear%20Canada",
       "image_url": "https://static.vecteezy.com/system/resources/thumbnails/015/548/646/original/waving-flag-of-canada-on-blue-sky-background-video.jpg",
@@ -279,328 +646,7 @@
       "started_trending": "2026-10-06T17:23:34Z",
       "first_seen": "2026-10-06T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tinatuesday",
-      "rank": 8,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-06T17:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-06T18:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-06T19:23:42Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "#TinaTuesday",
-      "description": "Megan Thee Stallion is trending on social media for her new freestyle rap video titled 'Is You Cool? – Tina Tuesday Freestyle'.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23TinaTuesday",
-      "image_url": "https://ew.com/thmb/su3qICcaExZzJNcIzuP9RaIzsUs=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Queen-of-Rock-and-Roll-06-456950c07d2e487f964e24046f414cc2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T17:23:34Z",
-      "first_seen": "2026-10-06T17:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ponzi",
-      "rank": 9,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-06T19:23:42Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Ponzi",
-      "description": "A North Dakota cattle broker pleaded guilty in a massive $220 million Ponzi scheme, drawing widespread attention online.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ponzi",
-      "image_url": "https://cdn.publish0x.com/prod/fs/cachedimages/3168410605-75e3283696039a2f0d8f93f23f49d5fb95e33911345ac45e48e87fb812b0f1de.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T19:23:42Z",
-      "first_seen": "2026-10-06T19:23:42Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "memchip",
-      "rank": 10,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-06T17:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-06T18:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-06T19:23:42Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Memchip",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Memchip",
-      "image_url": "https://media.sciencephoto.com/f0/22/03/42/f0220342-800px-wm.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T17:23:34Z",
-      "first_seen": "2026-10-06T17:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sally-yates",
-      "rank": 11,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-06T19:23:42Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Sally Yates",
-      "description": "Cornell University has retained former U.S. Attorney General Sally Yates to lead an independent review into the school's handling of sexual assault claims.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sally%20Yates",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/sally-yates.jpg?ve=1&tl=1",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T19:23:42Z",
-      "first_seen": "2026-10-06T19:23:42Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "abstract",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Abstract",
-      "description": "Art enthusiasts and crypto users are discussing abstract topics, ranging from new fluid abstract paintings on sale to OKX abstracting blockchain mechanics.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Abstract",
-      "image_url": "https://images.pexels.com/photos/1109354/pexels-photo-1109354.jpeg?cs=srgb&dl=abstract-expressionism-abstract-painting-art-1109354.jpg&fm=jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T20:23:36Z",
-      "first_seen": "2026-10-06T20:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rod-stewart",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rod Stewart",
-      "description": "Rock Hall of Famer Rod Stewart is drawing mixed reactions online after cancelling a show due to health issues while appearing at the World Cup, alongside announcements of his final UK tour.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rod%20Stewart",
-      "image_url": "https://img.turkiyetoday.com/images/2026/9/29/rod-stewart-announces-2027-tour-will-be-his-last-3229201_20260929103650.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T20:23:36Z",
-      "first_seen": "2026-10-06T20:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oki-home",
-      "rank": 14,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-06T17:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-06T18:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-06T19:23:42Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Oki Home",
-      "description": "Social media is reacting to international news regarding the arrest of a former German spy chief for espionage and treason.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Oki%20Home",
-      "image_url": "https://static01.nyt.com/images/2018/03/20/world/europe/21iht-retrospective-spy/21iht-retrospective-spy-facebookJumbo.png?year=2018&h=175&w=334&s=addd42039dcd644e1a1f5dfada2dc939d1839d7c17a028ef15a1fd19a84f0a63&k=ZQJBKqZ0VN",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T17:23:34Z",
-      "first_seen": "2026-10-06T17:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "andrew-tate",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Andrew Tate",
-      "description": "Andrew Tate and his brother Tristan were arrested in Miami after British prosecutors filed new extradition files detailing disturbing allegations and an underage webcam operation.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Andrew%20Tate",
-      "image_url": "https://static.independent.co.uk/2025/04/10/09/01-06dcc9a32e00478b8db833cde852b1fb.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T20:23:36Z",
-      "first_seen": "2026-10-06T20:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "felix-pfw-louis-vuitton-ss27",
-      "rank": 16,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-06T16:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-06T17:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-06T18:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-06T19:23:42Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "FELIX PFW LOUIS VUITTON SS27",
-      "description": "Felix generated significant social media buzz by bringing pop star power to Louis Vuitton's Paris Fashion Week showcase.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/FELIX%20PFW%20LOUIS%20VUITTON%20SS27",
-      "image_url": "https://wwd.com/wp-content/uploads/2023/08/FELIX_LOUIS-VUITTON_2023-STRAY-KIDS-5-STAR-DOME-TOUR.jpg?w=2048",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T16:23:34Z",
-      "first_seen": "2026-10-06T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
+      "last_seen": "2026-10-06T21:23:42Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -608,106 +654,28 @@
       "extra": {}
     },
     {
-      "id": "the-athletic",
-      "rank": 17,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-06T15:23:34Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-06T16:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-06T17:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-06T18:23:35Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-06T19:23:42Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "The Athletic",
-      "description": "Recent articles from The Athletic are trending on social media, covering topics such as WNBA player evaluations, NFL power rankings, and European football management.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20Athletic",
-      "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2022/12/the_athletic_logo-freelogovectors.net_.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T15:23:34Z",
-      "first_seen": "2026-10-06T15:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "peng",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-06T20:23:36Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "$PENG",
-      "description": "Penguin Solutions is trending after posting a stronger-than-expected fourth-quarter earnings report, beating EPS estimates.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24PENG",
-      "image_url": "https://logos.stocktwits-cdn.com/PENG.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T20:23:36Z",
-      "first_seen": "2026-10-06T20:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gorr",
+      "id": "dion-jordan",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T20:23:36Z",
+          "t": "2026-10-06T21:23:42Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Gorr",
-      "description": "Players are discussing Marvel Rivals as developers tease new modes, Halloween content, and the addition of the iconic Avengers: Endgame battle.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gorr",
-      "image_url": "https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg",
+      "topic": "Dion Jordan",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Dion%20Jordan",
+      "image_url": "http://4.bp.blogspot.com/-rJqZL0yih3g/U4TmaHxXVTI/AAAAAAAACFo/8PxJiGQvDSE/s1600/Dion.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T20:23:36Z",
-      "first_seen": "2026-10-06T20:23:36Z",
+      "started_trending": "2026-10-06T21:23:42Z",
+      "first_seen": "2026-10-06T21:23:42Z",
       "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
+      "last_seen": "2026-10-06T21:23:42Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -715,39 +683,31 @@
       "extra": {}
     },
     {
-      "id": "republicanhealthcarecrisis",
+      "id": "hall-of-famer",
       "rank": 20,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-06T18:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-06T19:23:42Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-06T20:23:36Z",
+          "t": "2026-10-06T21:23:42Z",
           "r": 20
         }
       ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "#RepublicanHealthcareCrisis",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23RepublicanHealthcareCrisis",
-      "image_url": "https://img.freepik.com/premium-psd/medical-symbol-with-red-cross-representing-healthcare-medical-services_95264-7108.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-06T18:23:35Z",
-      "first_seen": "2026-10-06T18:23:35Z",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hall of Famer",
+      "description": "Sports discussions feature multiple hall of famers, including a defamation lawsuit filed against NFL Hall of Famer Terrell Owens by friends of Nolan Wells, and the passing of Cleveland baseball hall of famer Sam McDowell.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hall%20of%20Famer",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-06T21:23:42Z",
+      "first_seen": "2026-10-06T21:23:42Z",
       "published": null,
-      "last_seen": "2026-10-06T20:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-06T21:23:42Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
