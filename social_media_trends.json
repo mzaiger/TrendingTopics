@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-07T16:25:06Z",
+  "updated": "2026-10-07T17:25:20Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "hamas",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-07T16:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Hamas",
-      "description": "People are marking the third anniversary of the October 7 Hamas attacks on Israel, prompting reflections on the ongoing impacts, hostages, and leadership warnings.",
+      "description": "People are marking the third anniversary of the October 7 Hamas terror attacks on Israel, reflecting on the ongoing conflict, hostages, and the destruction in Gaza.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hamas",
       "image_url": "https://img.semafor.com/0e3fa89720778c24f4f4399abda24280a6c50238-5500x3667.jpg?rect=0,390,5500,2888&w=1200&h=630&q=75&auto=format",
@@ -29,7 +33,156 @@
       "started_trending": "2026-10-07T16:23:34Z",
       "first_seen": "2026-10-07T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "howie",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Howie",
+      "description": "Howie is trending as sports analysts discuss Eagles GM Howie Roseman's bold roster decisions and columnists critique local policies and media moves.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Howie",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/how-long-has-howie-mandel-been-on-agt-6835ed4ea9254.jpg?crop=1xw:0.8438563327032136xh;0.116xw,0.0220xh",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T17:23:35Z",
+      "first_seen": "2026-10-07T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cam-jurgens",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cam Jurgens",
+      "description": "Center Cam Jurgens is trending following a trade that sends him from the Philadelphia Eagles to the Baltimore Ravens in exchange for draft picks.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cam%20Jurgens",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2026/10/philadelphia-eagles-center-cam-jurgens-143866178.jpg?quality=75&strip=all&w=800",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T17:23:35Z",
+      "first_seen": "2026-10-07T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dana-altman",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dana Altman",
+      "description": "Longtime Oregon men’s basketball coach Dana Altman has announced a surprise retirement just weeks before the start of the 2026-27 season.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dana%20Altman",
+      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2024/03/Dana-Altman-is-doing-it-again.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T17:23:35Z",
+      "first_seen": "2026-10-07T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stephen-a",
+      "rank": 5,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Stephen A",
+      "description": "Stephen A. Smith is facing criticism on social media for insensitive comments about Lane Johnson's mental health during a broadcast segment, alongside remarks on sports teams.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Stephen%20A",
+      "image_url": "https://thespun.com/.image/w_3840,q_auto:good,c_limit/MjEzNzk0NjA1NTcxNzc3OTk5/usatsi_24569025.jpg?arena_f_auto",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hallander",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hallander",
+      "description": "Forward Filip Hallander is trending following a trade between the Pittsburgh Penguins and the Edmonton Oilers involving defenseman Spencer Stastney.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hallander",
+      "image_url": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8480842.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T17:23:35Z",
+      "first_seen": "2026-10-07T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -38,7 +191,7 @@
     },
     {
       "id": "piers",
-      "rank": 2,
+      "rank": 7,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -49,12 +202,16 @@
         {
           "t": "2026-10-07T16:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": 0,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Piers",
-      "description": "Piers Morgan is trending due to a heated clash with Simon Jordan over the Cristiano Ronaldo saga, alongside regional news regarding local piers.",
+      "description": "Piers Morgan is making headlines after weighing in on royal family tensions involving Prince Harry and clashing with Simon Jordan over Cristiano Ronaldo.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Piers",
       "image_url": "https://civiltutorials.com/wp-content/uploads/2025/05/images-2025-05-22T122420.476.jpeg",
@@ -62,7 +219,197 @@
       "started_trending": "2026-10-07T15:23:38Z",
       "first_seen": "2026-10-07T15:23:38Z",
       "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bold-prediction",
+      "rank": 8,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Bold Prediction",
+      "description": "Sports fans and analysts are sharing bold predictions and recaps for upcoming NFL matchups, team futures, and the 2026 season.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bold%20Prediction",
+      "image_url": "https://c8.alamy.com/comp/3FPFJ71/green-bay-packers-wide-receiver-skyy-moore-before-an-nfl-football-game-against-the-tampa-bay-buccaneers-in-tampa-fla-sunday-oct-4-2026-ap-photochris-omeara-3FPFJ71.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "maven",
+      "rank": 9,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Maven",
+      "description": "Maven is trending following financial reports, dividend updates, and marketing workshop leadership announcements from Marketing Maven CEO Lindsey Carnett.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Maven",
+      "image_url": "https://assets.stickpng.com/images/62a78cdae42d729d928b174f.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "best-record",
+      "rank": 10,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Best Record",
+      "description": "Discussions about records span multiple topics, including ESPN's September audience streak, a postseason road skid by the Brewers, and tech discounts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Best%20Record",
+      "image_url": "https://m.media-amazon.com/images/I/71SmlpGtifL._AC_SL1393_.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "willie-lampkin",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Willie Lampkin",
+      "description": "Willie Lampkin is being discussed as analysts take stock of the Philadelphia Eagles' offensive line following roster moves and Lane Johnson's retirement.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Willie%20Lampkin",
+      "image_url": "https://www.newsobserver.com/public/latest-news/trfdmc/picture290847479/alternates/FREE_1200/LAMPKIN-SP-072924-RTW.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T17:23:35Z",
+      "first_seen": "2026-10-07T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mighty-mouse",
+      "rank": 12,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Mighty Mouse",
+      "description": "UFC fans are reacting on social media to fierce criticism from a legend directed at Movsar Evloev over his status in the organization.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mighty%20Mouse",
+      "image_url": "https://cdn.onefc.com/wp-content/uploads/2019/01/Demetrious_Johnson-hero-1200x1165-2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "are-the-eagles",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Are the Eagles",
+      "description": "Fans are discussing the Philadelphia Eagles following Lane Johnson's legendary career and retirement, upcoming games, and offensive struggles.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Are%20the%20Eagles",
+      "image_url": "https://atozsports.com/wp-content/uploads/2026/10/2026-09-29T015129Z_1321013329_MT1USATODAY29946812_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-CHICAGO-BEARS-scaled.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T17:23:35Z",
+      "first_seen": "2026-10-07T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -71,14 +418,10 @@
     },
     {
       "id": "tropical-storm-isaias",
-      "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "rank": 14,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-10-07T11:23:32Z",
-          "r": 3
-        },
         {
           "t": "2026-10-07T12:23:42Z",
           "r": 2
@@ -98,12 +441,16 @@
         {
           "t": "2026-10-07T16:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 14
         }
       ],
-      "rank_change": 0,
+      "rank_change": -12,
       "is_new": false,
       "topic": "Tropical Storm Isaias",
-      "description": "Tropical Storm Isaias has formed and is forecast to become a hurricane, prompting Florida's governor to declare a state of emergency for 25 counties.",
+      "description": "Tropical Storm Isaias is trending as forecasters track its path, with expectations that it will become a hurricane and threaten the US Gulf Coast.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tropical%20Storm%20Isaias",
       "image_url": "https://www.syracuse.com/resizer/v2/OV5OG5YBGNCJNL7JNUCPJMJCNU.jpg?auth=d882366aa055619a20ddb0f1d27387fad739d393d53ad03633050e62736e2e89&width=1280&smart=true&quality=90",
@@ -111,36 +458,36 @@
       "started_trending": "2026-10-07T11:23:32Z",
       "first_seen": "2026-10-07T11:23:32Z",
       "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "best-record",
-      "rank": 4,
+      "id": "merk",
+      "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 4
+          "t": "2026-10-07T17:23:35Z",
+          "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Best Record",
-      "description": "Discussions span sports streaks like the Brewers' road skid matching a record, alongside consumer interest in record players, vinyl resale, and discounted gaming monitors.",
+      "topic": "Merk",
+      "description": "Amanda Merk is trending following her survivor story featured on local news, alongside other unrelated sports and entertainment headlines.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Best%20Record",
-      "image_url": "https://m.media-amazon.com/images/I/71SmlpGtifL._AC_SL1393_.jpg",
+      "url": "https://twstalker.com/search/Merk",
+      "image_url": "https://media.licdn.com/dms/image/v2/C4E03AQEhxU6GRScbWA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1581014480680?e=2147483647&v=beta&t=586MP4mVyCIhydido3_QFMzxZl0GPEObXIdRZe3KBtc",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T16:23:34Z",
-      "first_seen": "2026-10-07T16:23:34Z",
+      "started_trending": "2026-10-07T17:23:35Z",
+      "first_seen": "2026-10-07T17:23:35Z",
       "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
+      "last_seen": "2026-10-07T17:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -148,86 +495,45 @@
       "extra": {}
     },
     {
-      "id": "bold-prediction",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "got-em",
+      "rank": 16,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bold Prediction",
-      "description": "Sports fans are discussing bold predictions for NFL matchups, team strategies, and roster outcomes as Week 5 approaches.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bold%20Prediction",
-      "image_url": "https://c8.alamy.com/comp/3FPFJ71/green-bay-packers-wide-receiver-skyy-moore-before-an-nfl-football-game-against-the-tampa-bay-buccaneers-in-tampa-fla-sunday-oct-4-2026-ap-photochris-omeara-3FPFJ71.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T16:23:34Z",
-      "first_seen": "2026-10-07T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hump-day",
-      "rank": 6,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-07T11:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-07T12:23:42Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 2
-        },
         {
           "t": "2026-10-07T15:23:38Z",
-          "r": 4
+          "r": 6
         },
         {
           "t": "2026-10-07T16:23:34Z",
-          "r": 6
+          "r": 11
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 16
         }
       ],
-      "rank_change": -4,
+      "rank_change": -10,
       "is_new": false,
-      "topic": "Hump Day",
-      "description": "Social media users are sharing memes and weather updates to celebrate Hump Day alongside mid-week racing and winter heating predictions.",
+      "topic": "GOT EM",
+      "description": "Social media users are discussing recent entertainment eliminations, Amazon Prime movie discounts, and new music video releases.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hump%20Day",
-      "image_url": "https://live.staticflickr.com/1057/1450612472_5dce74f717_w.jpg",
+      "url": "https://twstalker.com/search/GOT%20EM",
+      "image_url": "https://i.pinimg.com/736x/74/11/08/741108071b4e78fab758de0f81889d0a.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T11:23:32Z",
-      "first_seen": "2026-10-07T11:23:32Z",
+      "started_trending": "2026-10-07T15:23:38Z",
+      "first_seen": "2026-10-07T15:23:38Z",
       "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hannibal-directive",
-      "rank": 7,
+      "rank": 17,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -238,12 +544,16 @@
         {
           "t": "2026-10-07T16:23:34Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 17
         }
       ],
-      "rank_change": 2,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Hannibal Directive",
-      "description": "Users are discussing the ongoing regional impacts, commemorations, and difficult questions surrounding the October 7, 2023 attacks by Hamas.",
+      "description": "Commentators are reflecting on the third anniversary of the October 7 attacks, discussing the regional fallout, military directives, and the ongoing conflict in Gaza.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hannibal%20Directive",
       "image_url": "https://filipinews.com/wp-content/uploads/2024/10/Commemoration-of-October-7th-attacks.jpg",
@@ -251,36 +561,85 @@
       "started_trending": "2026-10-07T15:23:38Z",
       "first_seen": "2026-10-07T15:23:38Z",
       "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "stephen-a",
-      "rank": 8,
+      "id": "hump-day",
+      "rank": 18,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-07T12:23:42Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-07T13:23:42Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-07T14:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-07T15:23:38Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -15,
+      "is_new": false,
+      "topic": "Hump Day",
+      "description": "Social media users are sharing weather updates, memes, and winter heating bill predictions as the middle of the week arrives.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hump%20Day",
+      "image_url": "https://live.staticflickr.com/1057/1450612472_5dce74f717_w.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T11:23:32Z",
+      "first_seen": "2026-10-07T11:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "european-parliament",
+      "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 8
+          "t": "2026-10-07T17:23:35Z",
+          "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Stephen A",
-      "description": "Stephen A. Smith is trending after criticizing the New York Yankees, discussing the Dodgers' championship status, and critiquing other sports figures.",
+      "topic": "European Parliament",
+      "description": "A gold naked statue of Donald Trump has been installed at the European Parliament, while lawmakers also harden their trade stance on China.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Stephen%20A",
-      "image_url": "https://thespun.com/.image/w_3840,q_auto:good,c_limit/MjEzNzk0NjA1NTcxNzc3OTk5/usatsi_24569025.jpg?arena_f_auto",
+      "url": "https://twstalker.com/search/European%20Parliament",
+      "image_url": "https://www.europarl.europa.eu/resources/library/images/20200210PHT72226/20200210PHT72226_original.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T16:23:34Z",
-      "first_seen": "2026-10-07T16:23:34Z",
+      "started_trending": "2026-10-07T17:23:35Z",
+      "first_seen": "2026-10-07T17:23:35Z",
       "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
+      "last_seen": "2026-10-07T17:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -289,7 +648,7 @@
     },
     {
       "id": "therapyattheclubtour",
-      "rank": 9,
+      "rank": 20,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -300,9 +659,13 @@
         {
           "t": "2026-10-07T16:23:34Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-07T17:23:35Z",
+          "r": 20
         }
       ],
-      "rank_change": 1,
+      "rank_change": -10,
       "is_new": false,
       "topic": "#TherapyAtTheClubTour",
       "description": "",
@@ -313,393 +676,10 @@
       "started_trending": "2026-10-07T15:23:38Z",
       "first_seen": "2026-10-07T15:23:38Z",
       "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "odell-beckham-jr",
-      "rank": 10,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Odell Beckham Jr.",
-      "description": "Odell Beckham Jr. is trending after signing with the Minnesota Vikings' practice squad following his release by the Giants.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Odell%20Beckham%20Jr.",
-      "image_url": "https://www.wbls.com/wp-content/uploads/sites/3/2024/07/GettyImages-2153104293.jpg?w=990",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T15:23:38Z",
-      "first_seen": "2026-10-07T15:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "got-em",
-      "rank": 11,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "GOT EM",
-      "description": "Users are discussing fantasy football start-and-sit options, community bicycle rollouts in Atlanta, and new music and footwear releases.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/GOT%20EM",
-      "image_url": "https://i.pinimg.com/736x/74/11/08/741108071b4e78fab758de0f81889d0a.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T15:23:38Z",
-      "first_seen": "2026-10-07T15:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lucia",
-      "rank": 12,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Lucia",
-      "description": "Grand Theft Auto 6 details regarding characters Jason and Lucia are circulating, alongside local business openings and diplomatic appointments.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Lucia",
-      "image_url": "https://res.cloudinary.com/the-infatuation/image/upload/c_fill,w_3840,ar_4:3,g_center,f_auto/images/NYC_LuciaPizzaSoho_SonalShah_iPhoneContent_EDIT_01_1_zl5xpl",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T15:23:38Z",
-      "first_seen": "2026-10-07T15:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bull",
-      "rank": 13,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "$BULL",
-      "description": "Investors are discussing Block & Leviton's investigation into Webull alongside Red Bull racing developments and tech stock insights.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24BULL",
-      "image_url": "https://cdn.shopify.com/s/files/1/1038/1798/files/shades-of-red-color-pinterest-tall.jpg?v=1681883760",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T13:23:42Z",
-      "first_seen": "2026-10-07T13:23:42Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "good-wednesday",
-      "rank": 14,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-07T11:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-07T12:23:42Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Good Wednesday",
-      "description": "Commentary focuses on mid-week weather updates, newsletters, political coalitions, and storm preparations ahead of the weekend.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Wednesday",
-      "image_url": "https://i2-prod.bristolpost.co.uk/news/bristol-news/article6879286.ece/ALTERNATES/s1200/0_BristolWeatherWed.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T11:23:32Z",
-      "first_seen": "2026-10-07T11:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "october7",
-      "rank": 15,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-07T11:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-07T12:23:42Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "#October7",
-      "description": "Social media posts are commemorating the third anniversary of the October 7 attacks, noting ongoing political reckonings and television coverage.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23October7",
-      "image_url": "https://novanews.co.za/wp-content/uploads/2026/10/AFP__20261007__D2FU3PK__v2__HighRes__TopshotIsraelPalestinianConflictAnniversary-scaled.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T11:23:32Z",
-      "first_seen": "2026-10-07T11:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bob-hope",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bob Hope",
-      "description": "Bob Hope is being discussed following reports about his 1993 sale of a California ranch to the National Park Service, coinciding with news of Hollywood icon Eva Marie Saint's death.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bob%20Hope",
-      "image_url": "https://facts.net/wp-content/uploads/2025/03/27-facts-about-bob-hope-1743339452.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T16:23:34Z",
-      "first_seen": "2026-10-07T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "webull",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Webull",
-      "description": "Webull stock dropped 18% after a congressional panel investigation found national security risks tied to the trading platform's connections to China.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Webull",
-      "image_url": "https://wbstatic.webullfintech.com/v1/webull-ca-g/assets/1e5085a2c3b0d9ce1b7504f60a0a98ff.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T16:23:34Z",
-      "first_seen": "2026-10-07T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mighty-mouse",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Mighty Mouse",
-      "description": "Mighty Mouse is trending in discussions surrounding superhero hypotheticals and UFC fighter debates and rivalries.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mighty%20Mouse",
-      "image_url": "https://cdn.onefc.com/wp-content/uploads/2019/01/Demetrious_Johnson-hero-1200x1165-2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T16:23:34Z",
-      "first_seen": "2026-10-07T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "maven",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Maven",
-      "description": "Financial reports and business updates are circulating for Maven, alongside news about marketing workshops and defense investments.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Maven",
-      "image_url": "https://assets.stickpng.com/images/62a78cdae42d729d928b174f.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T16:23:34Z",
-      "first_seen": "2026-10-07T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "solarreturnofyunjin",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-07T16:23:34Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#SolarReturnOfYunjin",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23SolarReturnOfYunjin",
-      "image_url": "https://static.asiachan.com/Huh.Yunjin.full.362820.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T16:23:34Z",
-      "first_seen": "2026-10-07T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-07T16:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-07T17:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
