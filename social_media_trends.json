@@ -1,72 +1,60 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-07T15:25:17Z",
+  "updated": "2026-10-07T16:25:06Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "good-wednesday",
+      "id": "hamas",
       "rank": 1,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-07T11:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-07T12:23:42Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
+          "t": "2026-10-07T16:23:34Z",
           "r": 1
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Good Wednesday",
-      "description": "Local weather reports and newsletters for Wednesday are circulating online alongside discussions about political coalitions and weather tracking.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hamas",
+      "description": "People are marking the third anniversary of the October 7 Hamas attacks on Israel, prompting reflections on the ongoing impacts, hostages, and leadership warnings.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Wednesday",
-      "image_url": "https://i2-prod.bristolpost.co.uk/news/bristol-news/article6879286.ece/ALTERNATES/s1200/0_BristolWeatherWed.jpg",
+      "url": "https://twstalker.com/search/Hamas",
+      "image_url": "https://img.semafor.com/0e3fa89720778c24f4f4399abda24280a6c50238-5500x3667.jpg?rect=0,390,5500,2888&w=1200&h=630&q=75&auto=format",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T11:23:32Z",
-      "first_seen": "2026-10-07T11:23:32Z",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "piers",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-07T15:23:38Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Piers",
-      "description": "Users are discussing local piers, including Goldston's Pier updates and a tragic incident near Crystal Pier, alongside pop culture news.",
+      "description": "Piers Morgan is trending due to a heated clash with Simon Jordan over the Cristiano Ronaldo saga, alongside regional news regarding local piers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Piers",
       "image_url": "https://civiltutorials.com/wp-content/uploads/2025/05/images-2025-05-22T122420.476.jpeg",
@@ -74,7 +62,7 @@
       "started_trending": "2026-10-07T15:23:38Z",
       "first_seen": "2026-10-07T15:23:38Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
+      "last_seen": "2026-10-07T16:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -106,12 +94,16 @@
         {
           "t": "2026-10-07T15:23:38Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 3
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Tropical Storm Isaias",
-      "description": "Tropical Storm Isaias has formed and prompted a state of emergency in Florida, with forecasters predicting it could strengthen into a hurricane.",
+      "description": "Tropical Storm Isaias has formed and is forecast to become a hurricane, prompting Florida's governor to declare a state of emergency for 25 counties.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tropical%20Storm%20Isaias",
       "image_url": "https://www.syracuse.com/resizer/v2/OV5OG5YBGNCJNL7JNUCPJMJCNU.jpg?auth=d882366aa055619a20ddb0f1d27387fad739d393d53ad03633050e62736e2e89&width=1280&smart=true&quality=90",
@@ -119,16 +111,74 @@
       "started_trending": "2026-10-07T11:23:32Z",
       "first_seen": "2026-10-07T11:23:32Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "best-record",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Best Record",
+      "description": "Discussions span sports streaks like the Brewers' road skid matching a record, alongside consumer interest in record players, vinyl resale, and discounted gaming monitors.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Best%20Record",
+      "image_url": "https://m.media-amazon.com/images/I/71SmlpGtifL._AC_SL1393_.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bold-prediction",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bold Prediction",
+      "description": "Sports fans are discussing bold predictions for NFL matchups, team strategies, and roster outcomes as Week 5 approaches.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bold%20Prediction",
+      "image_url": "https://c8.alamy.com/comp/3FPFJ71/green-bay-packers-wide-receiver-skyy-moore-before-an-nfl-football-game-against-the-tampa-bay-buccaneers-in-tampa-fla-sunday-oct-4-2026-ap-photochris-omeara-3FPFJ71.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hump-day",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -151,12 +201,16 @@
         {
           "t": "2026-10-07T15:23:38Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": -2,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Hump Day",
-      "description": "Social media users are sharing Wednesday memes, humor, and local event guides for hump day.",
+      "description": "Social media users are sharing memes and weather updates to celebrate Hump Day alongside mid-week racing and winter heating predictions.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hump%20Day",
       "image_url": "https://live.staticflickr.com/1057/1450612472_5dce74f717_w.jpg",
@@ -164,160 +218,32 @@
       "started_trending": "2026-10-07T11:23:32Z",
       "first_seen": "2026-10-07T11:23:32Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "odell-beckham-jr",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Odell Beckham Jr.",
-      "description": "Wide receiver Odell Beckham Jr. is trending after reportedly signing with the Minnesota Vikings practice squad following his release from the Giants.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Odell%20Beckham%20Jr.",
-      "image_url": "https://www.wbls.com/wp-content/uploads/sites/3/2024/07/GettyImages-2153104293.jpg?w=990",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T15:23:38Z",
-      "first_seen": "2026-10-07T15:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "got-em",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "GOT EM",
-      "description": "The material provided does not make the trending topic clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/GOT%20EM",
-      "image_url": "https://i.pinimg.com/736x/74/11/08/741108071b4e78fab758de0f81889d0a.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T15:23:38Z",
-      "first_seen": "2026-10-07T15:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "grok-for-ig",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Grok for IG",
-      "description": "X users are talking about platform updates including cleaner video composer layouts and Grok captions.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Grok%20for%20IG",
-      "image_url": "https://img.freepik.com/premium-vector/x-new-social-network-black-app-icon-twitter-rebranded-as-x-twitter-s-logo-was-changed_277909-568.jpg?semt=ais_hybrid",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T15:23:38Z",
-      "first_seen": "2026-10-07T15:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "happy-hump",
-      "rank": 8,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-07T11:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-07T12:23:42Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Happy Hump",
-      "description": "Users are sharing mid-week humor, memes, and weather updates as Wednesday arrives.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Happy%20Hump",
-      "image_url": "https://static.vecteezy.com/system/resources/thumbnails/069/268/794/small_2x/the-sun-shines-over-a-green-field-with-trees-photo.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T11:23:32Z",
-      "first_seen": "2026-10-07T11:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hannibal-directive",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 7,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-07T15:23:38Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 2,
+      "is_new": false,
       "topic": "Hannibal Directive",
-      "description": "Social media users are marking the anniversary of the October 7, 2023 Hamas attacks and discussing the ongoing conflict in Gaza.",
+      "description": "Users are discussing the ongoing regional impacts, commemorations, and difficult questions surrounding the October 7, 2023 attacks by Hamas.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hannibal%20Directive",
       "image_url": "https://filipinews.com/wp-content/uploads/2024/10/Commemoration-of-October-7th-attacks.jpg",
@@ -325,7 +251,36 @@
       "started_trending": "2026-10-07T15:23:38Z",
       "first_seen": "2026-10-07T15:23:38Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stephen-a",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Stephen A",
+      "description": "Stephen A. Smith is trending after criticizing the New York Yankees, discussing the Dodgers' championship status, and critiquing other sports figures.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Stephen%20A",
+      "image_url": "https://thespun.com/.image/w_3840,q_auto:good,c_limit/MjEzNzk0NjA1NTcxNzc3OTk5/usatsi_24569025.jpg?arena_f_auto",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-07T16:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -334,17 +289,21 @@
     },
     {
       "id": "therapyattheclubtour",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-07T15:23:38Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "#TherapyAtTheClubTour",
       "description": "",
       "description_source": "",
@@ -354,7 +313,106 @@
       "started_trending": "2026-10-07T15:23:38Z",
       "first_seen": "2026-10-07T15:23:38Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "odell-beckham-jr",
+      "rank": 10,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-07T15:23:38Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Odell Beckham Jr.",
+      "description": "Odell Beckham Jr. is trending after signing with the Minnesota Vikings' practice squad following his release by the Giants.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Odell%20Beckham%20Jr.",
+      "image_url": "https://www.wbls.com/wp-content/uploads/sites/3/2024/07/GettyImages-2153104293.jpg?w=990",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T15:23:38Z",
+      "first_seen": "2026-10-07T15:23:38Z",
+      "published": null,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "got-em",
+      "rank": 11,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-07T15:23:38Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "GOT EM",
+      "description": "Users are discussing fantasy football start-and-sit options, community bicycle rollouts in Atlanta, and new music and footwear releases.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/GOT%20EM",
+      "image_url": "https://i.pinimg.com/736x/74/11/08/741108071b4e78fab758de0f81889d0a.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T15:23:38Z",
+      "first_seen": "2026-10-07T15:23:38Z",
+      "published": null,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lucia",
+      "rank": 12,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-07T15:23:38Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "Lucia",
+      "description": "Grand Theft Auto 6 details regarding characters Jason and Lucia are circulating, alongside local business openings and diplomatic appointments.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Lucia",
+      "image_url": "https://res.cloudinary.com/the-infatuation/image/upload/c_fill,w_3840,ar_4:3,g_center,f_auto/images/NYC_LuciaPizzaSoho_SonalShah_iPhoneContent_EDIT_01_1_zl5xpl",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T15:23:38Z",
+      "first_seen": "2026-10-07T15:23:38Z",
+      "published": null,
+      "last_seen": "2026-10-07T16:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -363,7 +421,7 @@
     },
     {
       "id": "bull",
-      "rank": 11,
+      "rank": 13,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -378,12 +436,16 @@
         {
           "t": "2026-10-07T15:23:38Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 13
         }
       ],
-      "rank_change": -5,
+      "rank_change": -7,
       "is_new": false,
       "topic": "$BULL",
-      "description": "Users are tracking financial investigations involving Webull, tech stock predictions, and sports updates related to Red Bull and a local fire.",
+      "description": "Investors are discussing Block & Leviton's investigation into Webull alongside Red Bull racing developments and tech stock insights.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24BULL",
       "image_url": "https://cdn.shopify.com/s/files/1/1038/1798/files/shades-of-red-color-pinterest-tall.jpg?v=1681883760",
@@ -391,16 +453,65 @@
       "started_trending": "2026-10-07T13:23:42Z",
       "first_seen": "2026-10-07T13:23:42Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-wednesday",
+      "rank": 14,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-07T11:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-07T12:23:42Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-07T13:23:42Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-07T14:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-07T15:23:38Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -13,
+      "is_new": false,
+      "topic": "Good Wednesday",
+      "description": "Commentary focuses on mid-week weather updates, newsletters, political coalitions, and storm preparations ahead of the weekend.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Good%20Wednesday",
+      "image_url": "https://i2-prod.bristolpost.co.uk/news/bristol-news/article6879286.ece/ALTERNATES/s1200/0_BristolWeatherWed.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-07T11:23:32Z",
+      "first_seen": "2026-10-07T11:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "october7",
-      "rank": 12,
+      "rank": 15,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -423,12 +534,16 @@
         {
           "t": "2026-10-07T15:23:38Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-07T16:23:34Z",
+          "r": 15
         }
       ],
-      "rank_change": -6,
+      "rank_change": -9,
       "is_new": false,
       "topic": "#October7",
-      "description": "People on social media are marking the anniversary of the October 7 attacks, discussing its ongoing impact and commemorations in Israel.",
+      "description": "Social media posts are commemorating the third anniversary of the October 7 attacks, noting ongoing political reckonings and television coverage.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23October7",
       "image_url": "https://novanews.co.za/wp-content/uploads/2026/10/AFP__20261007__D2FU3PK__v2__HighRes__TopshotIsraelPalestinianConflictAnniversary-scaled.jpg",
@@ -436,36 +551,36 @@
       "started_trending": "2026-10-07T11:23:32Z",
       "first_seen": "2026-10-07T11:23:32Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "social-security",
-      "rank": 13,
+      "id": "bob-hope",
+      "rank": 16,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 13
+          "t": "2026-10-07T16:23:34Z",
+          "r": 16
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Social Security",
-      "description": "Social media users are discussing unexpected $90 Social Security payments received by millions of Americans and questions over who qualifies.",
+      "topic": "Bob Hope",
+      "description": "Bob Hope is being discussed following reports about his 1993 sale of a California ranch to the National Park Service, coinciding with news of Hollywood icon Eva Marie Saint's death.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Social%20Security",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/.Me9UGFru0XJWFOUpFHEbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/d91a15318e427ae8c191d1ff8f7afeab",
+      "url": "https://twstalker.com/search/Bob%20Hope",
+      "image_url": "https://facts.net/wp-content/uploads/2025/03/27-facts-about-bob-hope-1743339452.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T15:23:38Z",
-      "first_seen": "2026-10-07T15:23:38Z",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
+      "last_seen": "2026-10-07T16:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -473,225 +588,86 @@
       "extra": {}
     },
     {
-      "id": "our-lady-of-the-rosary",
-      "rank": 14,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-07T11:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-07T12:23:42Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Our Lady of the Rosary",
-      "description": "People are sharing religious observances and calls to pray the rosary for the Feast of Our Lady of the Rosary in October.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Our%20Lady%20of%20the%20Rosary",
-      "image_url": "https://www.virgosacrata.com/wp/wp-content/uploads/2014/08/our-lady-of-the-rosary.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T11:23:32Z",
-      "first_seen": "2026-10-07T11:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ship-40",
-      "rank": 15,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Ship 40",
-      "description": "Starship 40 is trending after returning to Texas following a multi-month ocean voyage.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ship%2040",
-      "image_url": "https://static.wikia.nocookie.net/starship-spacex/images/d/d3/40fwd.jpeg/revision/latest?cb=20260221162936",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T14:23:33Z",
-      "first_seen": "2026-10-07T14:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hannity",
-      "rank": 16,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-07T11:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-07T12:23:42Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Hannity",
-      "description": "Viewers are discussing Fox News broadcasts, including a retrospective celebrating Sean Hannity and Brit Hume marking 30 years at the network.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hannity",
-      "image_url": "https://hannity.com/wp-content/uploads/2026/10/maxresdefault-978x550.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T11:23:32Z",
-      "first_seen": "2026-10-07T11:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "wednesdaymotivation",
+      "id": "webull",
       "rank": 17,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
+          "t": "2026-10-07T16:23:34Z",
           "r": 17
         }
       ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "#WednesdayMotivation",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23WednesdayMotivation",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/.VxIkHqT0x2TfFndcL3esA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MA--/https://s.yimg.com/os/creatr-uploaded-images/2022-09/19c27fc0-3b46-11ed-ab7b-65e5e730375c",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Webull",
+      "description": "Webull stock dropped 18% after a congressional panel investigation found national security risks tied to the trading platform's connections to China.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Webull",
+      "image_url": "https://wbstatic.webullfintech.com/v1/webull-ca-g/assets/1e5085a2c3b0d9ce1b7504f60a0a98ff.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T13:23:42Z",
-      "first_seen": "2026-10-07T13:23:42Z",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "never-forget",
+      "id": "mighty-mouse",
       "rank": 18,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
+          "t": "2026-10-07T16:23:34Z",
           "r": 18
         }
       ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Never Forget",
-      "description": "European leaders and social media users are using the phrase to commemorate the anniversary of the October 7 attacks.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mighty Mouse",
+      "description": "Mighty Mouse is trending in discussions surrounding superhero hypotheticals and UFC fighter debates and rivalries.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Never%20Forget",
-      "image_url": "https://i.pinimg.com/originals/fc/3b/5e/fc3b5eeca8fced42b7add12869c3fad5.jpg",
+      "url": "https://twstalker.com/search/Mighty%20Mouse",
+      "image_url": "https://cdn.onefc.com/wp-content/uploads/2019/01/Demetrious_Johnson-hero-1200x1165-2.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T13:23:42Z",
-      "first_seen": "2026-10-07T13:23:42Z",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "lucia",
+      "id": "maven",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-07T15:23:38Z",
+          "t": "2026-10-07T16:23:34Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Lucia",
-      "description": "New York food and business openings, including Lucia Pizza, are generating local interest and social media chatter.",
+      "topic": "Maven",
+      "description": "Financial reports and business updates are circulating for Maven, alongside news about marketing workshops and defense investments.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Lucia",
-      "image_url": "https://res.cloudinary.com/the-infatuation/image/upload/c_fill,w_3840,ar_4:3,g_center,f_auto/images/NYC_LuciaPizzaSoho_SonalShah_iPhoneContent_EDIT_01_1_zl5xpl",
+      "url": "https://twstalker.com/search/Maven",
+      "image_url": "https://assets.stickpng.com/images/62a78cdae42d729d928b174f.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T15:23:38Z",
-      "first_seen": "2026-10-07T15:23:38Z",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
+      "last_seen": "2026-10-07T16:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -699,39 +675,31 @@
       "extra": {}
     },
     {
-      "id": "lepanto",
+      "id": "solarreturnofyunjin",
       "rank": 20,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-07T13:23:42Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-07T14:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-07T15:23:38Z",
+          "t": "2026-10-07T16:23:34Z",
           "r": 20
         }
       ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Lepanto",
-      "description": "History enthusiasts are discussing historical events that occurred on October 7, including the anniversary of the Battle of Lepanto.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Lepanto",
-      "image_url": "https://paintingvalley.com/images/battle-of-lepanto-painting-15.jpg",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#SolarReturnOfYunjin",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23SolarReturnOfYunjin",
+      "image_url": "https://static.asiachan.com/Huh.Yunjin.full.362820.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-07T13:23:42Z",
-      "first_seen": "2026-10-07T13:23:42Z",
+      "started_trending": "2026-10-07T16:23:34Z",
+      "first_seen": "2026-10-07T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-07T15:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-07T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
