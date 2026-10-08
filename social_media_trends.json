@@ -1,27 +1,31 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-08T03:24:57Z",
+  "updated": "2026-10-08T04:24:46Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "id": "yankees",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-08T03:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Yankees",
-      "description": "The New York Yankees are trending after fan interference denied them a home run during their ALDS Game 3 matchup against the Tampa Bay Rays.",
+      "description": "The New York Yankees were eliminated from the postseason after being swept by the Tampa Bay Rays in the ALDS.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Yankees",
       "image_url": "https://heavy.com/wp-content/uploads/2026/09/american-league-wild-card-series-boston-red-sox-v-new-york-yankees-23.jpg?quality=65&strip=all",
@@ -29,36 +33,7 @@
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "trent-grisham",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T03:23:33Z",
-          "r": 2
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Trent Grisham",
-      "description": "Trent Grisham is trending after the Yankees moved him to the leadoff spot for a must-win ALDS Game 3 against the Rays amidst his recent struggles.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Trent%20Grisham",
-      "image_url": "https://hermes.media.static.aol.com/media/2026/09/21/97850582-ba06-35db-8c10-edce2deb5f80/e65598c5-fa0d-4bf3-9770-6e63cd6b02e2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T03:23:33Z",
-      "first_seen": "2026-10-08T03:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -67,19 +42,23 @@
     },
     {
       "id": "boone",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-08T03:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Boone",
-      "description": "Boone is trending as Yankees manager Aaron Boone faces lineup scrutiny and questions from analysts about his job security during their playoff series against the Rays.",
+      "description": "Following the Yankees' ALDS sweep by the Rays, manager Aaron Boone faces mounting questions about his future with the team.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Boone",
       "image_url": "https://larrybrownsports.com/wp-content/uploads/2023/05/aaron-boone-800x450.jpg",
@@ -87,7 +66,7 @@
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -95,94 +74,32 @@
       "extra": {}
     },
     {
-      "id": "angel-reese",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "id": "trent-grisham",
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
-          "t": "2026-10-08T02:23:32Z",
-          "r": 1
+          "t": "2026-10-08T03:23:33Z",
+          "r": 2
         },
         {
-          "t": "2026-10-08T03:23:33Z",
-          "r": 4
+          "t": "2026-10-08T04:23:30Z",
+          "r": 3
         }
       ],
-      "rank_change": -3,
+      "rank_change": -1,
       "is_new": false,
-      "topic": "Angel Reese",
-      "description": "Angel Reese is trending after delivering a standout performance and helping lift the Atlanta Dream past the New York Liberty in overtime during the WNBA playoffs.",
+      "topic": "Trent Grisham",
+      "description": "Trent Grisham struggled to provide a leadoff spark as the Yankees' season ended with an ALDS sweep by the Rays.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Angel%20Reese",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/angel-reese-layups-fever.jpg?ve=1&tl=1",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T02:23:32Z",
-      "first_seen": "2026-10-08T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "volpe",
-      "rank": 5,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-08T02:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-08T03:23:33Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Volpe",
-      "description": "Anthony Volpe is trending after his potential game-tying home run for the Yankees was downgraded to a double due to a controversial fan interference call.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Volpe",
-      "image_url": "https://pinstripesnation.com/wp-content/uploads/2023/10/antony-volpe-yankees.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T02:23:32Z",
-      "first_seen": "2026-10-08T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "stanton",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T03:23:33Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Stanton",
-      "description": "Giancarlo Stanton is trending as social media discusses whether manager Aaron Boone should bench him for the Yankees' survival in the postseason.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Stanton",
-      "image_url": "https://media.bolavip.com/wp-content/uploads/sites/10/2026/09/06145759/giancarlo-stanton-1-1920x1080.webp",
+      "url": "https://twstalker.com/search/Trent%20Grisham",
+      "image_url": "https://hermes.media.static.aol.com/media/2026/09/21/97850582-ba06-35db-8c10-edce2deb5f80/e65598c5-fa0d-4bf3-9770-6e63cd6b02e2.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -191,19 +108,23 @@
     },
     {
       "id": "rays",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-08T03:23:33Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 3,
+      "is_new": false,
       "topic": "Rays",
-      "description": "The Tampa Bay Rays are trending due to their ongoing MLB postseason ALDS matchup and Game 3 action against the New York Yankees.",
+      "description": "The Tampa Bay Rays swept the New York Yankees in the ALDS following a wild Game 3 in the Bronx.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Rays",
       "image_url": "https://s.yimg.com/lo/mysterio/api/5eac7a6e5470c3b8091ca41626120e40069e379d3c56994911fb210874bdbf31/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/tampa_bay_rays_on_si_articles_216/55a9bdbbd9941912a946bc58c7027d9b",
@@ -211,7 +132,7 @@
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -220,7 +141,7 @@
     },
     {
       "id": "dodgers",
-      "rank": 8,
+      "rank": 5,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -235,12 +156,16 @@
         {
           "t": "2026-10-08T03:23:33Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 5
         }
       ],
-      "rank_change": -7,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Dodgers",
-      "description": "The Los Angeles Dodgers are trending after defeating the Atlanta Braves to advance to their third straight National League Championship Series.",
+      "description": "The Los Angeles Dodgers defeated the Atlanta Braves to advance to their third straight National League Championship Series.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dodgers",
       "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/07/USAT/92128460007-usp-mlb-nlds-los-angeles-dodgers-at-atlanta-brave.jpg?crop=2249,1265,x0,y0&width=2249&height=1265&format=pjpg&auto=webp",
@@ -248,7 +173,7 @@
       "started_trending": "2026-10-08T01:23:32Z",
       "first_seen": "2026-10-08T01:23:32Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -256,18 +181,129 @@
       "extra": {}
     },
     {
+      "id": "stanton",
+      "rank": 6,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-08T03:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Stanton",
+      "description": "Manager Aaron Boone faced tough choices regarding Giancarlo Stanton as the Yankees fought to survive the ALDS.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Stanton",
+      "image_url": "https://media.bolavip.com/wp-content/uploads/sites/10/2026/09/06145759/giancarlo-stanton-1-1920x1080.webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T03:23:33Z",
+      "first_seen": "2026-10-08T03:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-08T04:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "volpe",
+      "rank": 7,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-08T02:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-08T03:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Volpe",
+      "description": "Anthony Volpe had a potential game-tying home run downgraded to a double during Game 3 due to a controversial fan interference call.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Volpe",
+      "image_url": "https://pinstripesnation.com/wp-content/uploads/2023/10/antony-volpe-yankees.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T02:23:32Z",
+      "first_seen": "2026-10-08T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-08T04:23:30Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "angel-reese",
+      "rank": 8,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-08T02:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-08T03:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Angel Reese",
+      "description": "Angel Reese and the Atlanta Dream defeated the New York Liberty in overtime to take a 2-0 series lead in the WNBA semifinals.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Angel%20Reese",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/angel-reese-layups-fever.jpg?ve=1&tl=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T02:23:32Z",
+      "first_seen": "2026-10-08T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-08T04:23:30Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "repbx",
       "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-08T03:23:33Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "#RepBX",
       "description": "",
       "description_source": "",
@@ -277,7 +313,7 @@
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -285,41 +321,95 @@
       "extra": {}
     },
     {
-      "id": "sabrina",
+      "id": "funtoken",
       "rank": 10,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-08T02:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-08T03:23:33Z",
+          "t": "2026-10-08T04:23:30Z",
           "r": 10
         }
       ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Sabrina",
-      "description": "Sabrina is trending online following news regarding Ashland City Manager Sabrina Cotta leaving her position and comments from actress Sabrina Impacciatore.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sabrina",
-      "image_url": "https://1.bp.blogspot.com/-1MrOkSXzAIA/Xhbm7iFVQGI/AAAAAAAEcsY/AbvNLY33Qb4cfYWc5Sp0_mKCim98Z7LSgCLcBGAsYHQ/s1600/chilling_adventures_of_sabrina_ver5_xlg.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T02:23:32Z",
-      "first_seen": "2026-10-08T02:23:32Z",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FUNtoken",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23FUNtoken",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T04:23:30Z",
+      "first_seen": "2026-10-08T04:23:30Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-08T04:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "valkyries",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Valkyries",
+      "description": "The Golden State Valkyries defeated the Las Vegas Aces to move just one win away from the WNBA Finals.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Valkyries",
+      "image_url": "https://s.hdnux.com/photos/01/32/32/37/23701479/6/rawImage.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T04:23:30Z",
+      "first_seen": "2026-10-08T04:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-08T04:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "braves",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Braves",
+      "description": "The Atlanta Braves concluded their 2026 campaign with a postseason exit after being eliminated by the Los Angeles Dodgers in the NLDS.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Braves",
+      "image_url": "https://cdn.getyourguide.com/img/location/545b660b0923a.jpeg/88.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T04:23:30Z",
+      "first_seen": "2026-10-08T04:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-08T04:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "survivor51",
-      "rank": 11,
+      "rank": 13,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -338,12 +428,16 @@
         {
           "t": "2026-10-08T03:23:33Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 13
         }
       ],
-      "rank_change": -10,
+      "rank_change": -12,
       "is_new": false,
       "topic": "#Survivor51",
-      "description": "#Survivor51 is trending as viewers react to a contestant quitting the game over a small cut during the latest episode.",
+      "description": "Viewers are reacting to the latest 'Survivor 51' episode, which featured a surprise mutiny, an old-school twist, and a player quitting over a minor cut.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Survivor51",
       "image_url": "https://entertainmentnow.com/wp-content/uploads/2026/05/BA816C26-4374-48A2-92BB-91BF5EC4D7D2-e1779463673576.webp?w=1172",
@@ -351,7 +445,7 @@
       "started_trending": "2026-10-08T00:23:33Z",
       "first_seen": "2026-10-08T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -359,8 +453,45 @@
       "extra": {}
     },
     {
+      "id": "sabrina",
+      "rank": 14,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-08T02:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-08T03:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "Sabrina",
+      "description": "Sabrina Ionescu committed a costly late turnover that helped give the Atlanta Dream an overtime victory over the New York Liberty.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sabrina",
+      "image_url": "https://1.bp.blogspot.com/-1MrOkSXzAIA/Xhbm7iFVQGI/AAAAAAAEcsY/AbvNLY33Qb4cfYWc5Sp0_mKCim98Z7LSgCLcBGAsYHQ/s1600/chilling_adventures_of_sabrina_ver5_xlg.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T02:23:32Z",
+      "first_seen": "2026-10-08T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-08T04:23:30Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "stewie",
-      "rank": 12,
+      "rank": 15,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -375,12 +506,16 @@
         {
           "t": "2026-10-08T03:23:33Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 15
         }
       ],
-      "rank_change": -9,
+      "rank_change": -12,
       "is_new": false,
       "topic": "Stewie",
-      "description": "Stewie is trending as fans and analysts discuss the WNBA playoff series between the Atlanta Dream and the New York Liberty.",
+      "description": "The Atlanta Dream rallied past Breanna Stewart and the New York Liberty in overtime to secure a 2-0 series lead in the WNBA semifinals.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Stewie",
       "image_url": "https://s.yimg.com/lo/mysterio/api/83231dbcc5b539cd2079487befe814b29250f023939807e88aee2c5497b1be68/lightyear_networkapi/resizefill_w1024_h683;quality_80;format_webp/https://media.zenfs.com/en/the_athletic_articles_169/64eb07a69a59f7f9c5ba574f7a0ed11c.jpg",
@@ -388,7 +523,7 @@
       "started_trending": "2026-10-08T01:23:32Z",
       "first_seen": "2026-10-08T01:23:32Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -397,7 +532,7 @@
     },
     {
       "id": "jeffrey-maier",
-      "rank": 13,
+      "rank": 16,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -408,12 +543,16 @@
         {
           "t": "2026-10-08T03:23:33Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 16
         }
       ],
-      "rank_change": -4,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Jeffrey Maier",
-      "description": "Jeffrey Maier is trending on social media as fans compare Anthony Volpe's recent fan-interference-interrupted home run to the historic 1996 playoff incident.",
+      "description": "Anthony Volpe's overturned home run drew heavy comparisons to Jeffrey Maier's infamous 1996 postseason fan interference play.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jeffrey%20Maier",
       "image_url": "https://nypost.com/wp-content/uploads/sites/2/2021/09/maier2.jpg?resize=368",
@@ -421,7 +560,7 @@
       "started_trending": "2026-10-08T02:23:32Z",
       "first_seen": "2026-10-08T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -430,19 +569,23 @@
     },
     {
       "id": "ben-rice",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 17,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-10-08T03:23:33Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 17
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "Ben Rice",
-      "description": "Ben Rice is trending after contributing an RBI single as part of the Yankees' lineup changes in a crucial Game 3 against the Rays.",
+      "description": "Ben Rice and the New York Yankees fell short in the ALDS following a 4-3 Game 3 sweep by the Tampa Bay Rays.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ben%20Rice",
       "image_url": "https://s.yimg.com/lo/mysterio/api/5e7dc065cd8928d18eb7f7b125930a1e5166d59e08084ff209347fbac40f4277/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/heavy_214/6b791e57a69271adf4aa39de7be8312d.jpg",
@@ -450,7 +593,7 @@
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -458,172 +601,86 @@
       "extra": {}
     },
     {
-      "id": "spencer-jones",
-      "rank": 15,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-08T02:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-08T03:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Spencer Jones",
-      "description": "Spencer Jones is trending after hitting an RBI double that briefly re-tied the game for the Yankees in Game 3 of the ALDS.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Spencer%20Jones",
-      "image_url": "https://pinstripesnation.com/wp-content/uploads/2024/07/spencer-jones-new-york-yankees-1.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T02:23:32Z",
-      "first_seen": "2026-10-08T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nlcs",
-      "rank": 16,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-08T01:23:32Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-08T02:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-08T03:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "NLCS",
-      "description": "The NLCS is trending as the Los Angeles Dodgers secure their spot in the league championship series following their victory over the Braves.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/NLCS",
-      "image_url": "https://vectorseek.com/wp-content/uploads/2023/11/MLB-NLCS-2009-Logo-Vector.svg-.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T01:23:32Z",
-      "first_seen": "2026-10-08T01:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rhyne",
-      "rank": 17,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-08T01:23:32Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-08T02:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-08T03:23:33Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Rhyne",
-      "description": "Rhyne is trending following standout scoring performances by Rhyne Howard against the New York Liberty in the WNBA playoffs.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rhyne",
-      "image_url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2026/09/28/104149042_AP26271067237725_t1280.jpg?932149851e98302d51c84336ee6b66250b8a649a",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T01:23:32Z",
-      "first_seen": "2026-10-08T01:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "acuna",
+      "id": "austin-hays",
       "rank": 18,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-08T01:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-08T02:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-08T03:23:33Z",
+          "t": "2026-10-08T04:23:30Z",
           "r": 18
         }
       ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Acuna",
-      "description": "Ronald Acuña Jr. is trending after the Braves' postseason elimination by the Dodgers, his partnership with Kalshi, and receiving boos from fans.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Austin Hays",
+      "description": "Austin Hays made a quick impact after signing with the San Diego Padres during the NLDS playoffs.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Acuna",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/15bcd53d5dc5eb1a21e549fcca85d2b9283dfec5639cb8edda3531813543c353/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/heavy_214/9bb1448f78b2a37fc028b9a8629c6979.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T01:23:32Z",
-      "first_seen": "2026-10-08T01:23:32Z",
+      "url": "https://twstalker.com/search/Austin%20Hays",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T04:23:30Z",
+      "first_seen": "2026-10-08T04:23:30Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-08T04:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "aranda",
+      "id": "lagranjaasamblea",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-08T03:23:33Z",
+          "t": "2026-10-08T04:23:30Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Aranda",
-      "description": "Aranda is trending in connection with the Tampa Bay Rays' postseason matchup against the New York Yankees.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Aranda",
-      "image_url": "https://espnmedia-cdn.akamaized.net/espn/media/common/2026/1003/211ef15669f6424ba6efcf0dc7250bd71212/211ef15669f6424ba6efcf0dc7250bd71212.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T03:23:33Z",
-      "first_seen": "2026-10-08T03:23:33Z",
+      "topic": "#LaGranjaAsamblea",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23LaGranjaAsamblea",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T04:23:30Z",
+      "first_seen": "2026-10-08T04:23:30Z",
       "published": null,
-      "last_seen": "2026-10-08T03:23:33Z",
+      "last_seen": "2026-10-08T04:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "steve-bartman",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 20
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Steve Bartman",
+      "description": "A controversial fan interference call during the Yankees-Rays ALDS instantly drew comparisons to historic fan incidents like Steve Bartman.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Steve%20Bartman",
+      "image_url": "https://images.nintendolife.com/22f7651fd9f9b/steve-minecraft.large.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T04:23:30Z",
+      "first_seen": "2026-10-08T04:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-08T04:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
