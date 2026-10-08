@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-08T11:25:11Z",
+  "updated": "2026-10-08T12:25:24Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "good-thursday",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-08T11:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Good Thursday",
-      "description": "Social media users are discussing various Thursday events, ranging from winter golf getaways and financial CD rates to a highly anticipated Thursday Night Football matchup between the Buccaneers and Cowboys.",
+      "description": "Users are discussing various Thursday sports schedules, financial rates, and winter golf escape ideas.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Thursday",
       "image_url": "https://rollingout.com/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-9.15.35-pm-1024x665.png",
@@ -29,28 +33,32 @@
       "started_trending": "2026-10-08T11:23:35Z",
       "first_seen": "2026-10-08T11:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "anne-carson",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-08T11:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Anne Carson",
-      "description": "Canadian poet and essayist Anne Carson is trending on social media after winning the prestigious Nobel Prize in Literature.",
+      "description": "Canadian writer and poet Anne Carson is trending after winning the prestigious 2026 Nobel Prize in Literature.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Anne%20Carson",
       "image_url": "https://s26162.pcdn.co/wp-content/uploads/2019/09/annecarson.jpg",
@@ -58,36 +66,102 @@
       "started_trending": "2026-10-08T11:23:35Z",
       "first_seen": "2026-10-08T11:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "happy-friday-eve",
       "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-08T11:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Happy Friday Eve",
-      "description": "",
-      "description_source": "",
+      "description": "Social media users are noting the approach of the end of the week alongside local updates, such as a burn ban being lifted in Nueces County.",
+      "description_source": "gemini",
       "url": "https://twstalker.com/search/Happy%20Friday%20Eve",
       "image_url": "https://images.nightcafe.studio/galleries/NoE2kcJXQ3yS7psko98l/a_vibrant_energetic_scene_depicting--1--ynn1t.jpg?tr=w-1600,c-at_max",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-08T11:23:35Z",
       "first_seen": "2026-10-08T11:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hurricane-isaias",
+      "rank": 4,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-08T11:23:35Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Hurricane Isaias",
+      "description": "Hurricane Isaias is trending as it strengthens into the first hurricane of the Atlantic season, prompting evacuations and severe weather forecasts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hurricane%20Isaias",
+      "image_url": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/hurricane-isaias-live-tracker-map_2026101140161.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T11:23:35Z",
+      "first_seen": "2026-10-08T11:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "thursdaythoughts",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#ThursdayThoughts",
+      "description": "Social media users are sharing commentary and thoughts under the weekly hashtag, including sports analysis pieces like Prister's Thursday Thoughts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23ThursdayThoughts",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -95,74 +169,211 @@
       "extra": {}
     },
     {
-      "id": "yankees",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "id": "thursdayvibes",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-08T06:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 4
+          "t": "2026-10-08T12:23:36Z",
+          "r": 6
         }
       ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Yankees",
-      "description": "Yankees fans are reacting across social media after a playoff sweep by the Rays extended their championship drought to 17 seasons, prompting calls from Aaron Judge for the front office to go all-in.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Yankees",
-      "image_url": "https://heavy.com/wp-content/uploads/2026/09/american-league-wild-card-series-boston-red-sox-v-new-york-yankees-23.jpg?quality=65&strip=all",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#ThursdayVibes",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23ThursdayVibes",
+      "image_url": "https://www.wishmorning.com/wp-content/uploads/2025/01/Happy-Thursday-Bright-and-Positive-Morning-Image.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T03:23:33Z",
-      "first_seen": "2026-10-08T03:23:33Z",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
       "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "funtoken",
-      "rank": 5,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
+      "id": "destinyclinicxperthsanta",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-08T06:23:32Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 5
+          "t": "2026-10-08T12:23:36Z",
+          "r": 7
         }
       ],
-      "rank_change": 14,
-      "is_new": false,
-      "topic": "#FUNtoken",
-      "description": "Crypto users are buzzing on social media as the Predict.fun token pre-market goes live ahead of its anticipated listing.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23FUNtoken",
-      "image_url": "https://a1.lcb.org/system/modules/news_story/images/attachments/000/467/411/original/new-games,-record-wins,-and-exciting-developments-ahead-in-september.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T04:23:30Z",
-      "first_seen": "2026-10-08T04:23:30Z",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#destinyclinicxPerthSanta",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23destinyclinicxPerthSanta",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
       "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "perthsanta-beauty-bloom",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "PERTHSANTA BEAUTY BLOOM",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/PERTHSANTA%20BEAUTY%20BLOOM",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mamdani",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mamdani",
+      "description": "Mamdani is facing intense bipartisan backlash and protests after marking the October 7 anniversary by criticizing Israel's war in Gaza as genocide.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mamdani",
+      "image_url": "https://www.easterneye.biz/media-library/zohran-mamdani.jpg?id=62059400&width=980",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "putthatinyourpipe",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#PutThatInYourPipe",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23PutThatInYourPipe",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "thursdaymotivation",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#ThursdayMotivation",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23ThursdayMotivation",
+      "image_url": "https://i.pinimg.com/originals/f0/ab/a1/f0aba188a0aab04852f2e5b01f0fbd08.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "thankful-thursday",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Thankful Thursday",
+      "description": "Communities and businesses are celebrating gratitude themes alongside local events, such as recognizing National 4-H Week.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Thankful%20Thursday",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "brewers",
-      "rank": 6,
+      "rank": 13,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -173,12 +384,16 @@
         {
           "t": "2026-10-08T11:23:35Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 13
         }
       ],
-      "rank_change": -4,
+      "rank_change": -11,
       "is_new": false,
       "topic": "Brewers",
-      "description": "The Milwaukee Brewers are trending on social media after defeating the San Diego Padres to clinch the NLDS and advance to the NLCS.",
+      "description": "The Milwaukee Brewers are trending after eliminating the San Diego Padres with a dramatic home run robbery to advance to the NLCS.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Brewers",
       "image_url": "https://heavy.com/wp-content/uploads/2026/09/chicago-white-sox-v-milwaukee-brewers-milwaukee-wisconsin-march-26-manager-1-e1790429361562.jpg?quality=65&strip=all",
@@ -186,90 +401,32 @@
       "started_trending": "2026-10-08T05:23:33Z",
       "first_seen": "2026-10-08T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dodgers",
-      "rank": 7,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-08T06:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Dodgers",
-      "description": "The Los Angeles Dodgers are generating buzz on social media as they advance to face the Milwaukee Brewers in the NLCS following an NLDS victory over the Braves.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dodgers",
-      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/07/USAT/92128460007-usp-mlb-nlds-los-angeles-dodgers-at-atlanta-brave.jpg?crop=2249,1265,x0,y0&width=2249&height=1265&format=pjpg&auto=webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T01:23:32Z",
-      "first_seen": "2026-10-08T01:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hurricane-isaias",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Hurricane Isaias",
-      "description": "Hurricane Isaias is trending as social media users track the storm's path, forecasts, and warnings ahead of its expected landfall near the Florida Panhandle.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hurricane%20Isaias",
-      "image_url": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/hurricane-isaias-live-tracker-map_2026101140161.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T11:23:35Z",
-      "first_seen": "2026-10-08T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "cashman",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 14,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-08T11:23:35Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -5,
+      "is_new": false,
       "topic": "Cashman",
-      "description": "General Manager Brian Cashman is trending on social media alongside manager Aaron Boone as fans and analysts question their futures following the Yankees' playoff elimination.",
+      "description": "General Manager Brian Cashman is trending amid discussions regarding the Yankees' recent playoff elimination and future team leadership decisions.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cashman",
       "image_url": "https://c8.alamy.com/comp/2YY1RYE/new-york-yankees-general-manager-brian-cashman-speaks-during-a-baseball-news-conference-about-max-fried-wednesday-dec-18-2024-in-new-york-ap-photofrank-franklin-ii-2YY1RYE.jpg",
@@ -277,7 +434,36 @@
       "started_trending": "2026-10-08T11:23:35Z",
       "first_seen": "2026-10-08T11:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cyberleek",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cyberleek",
+      "description": "The leaker known as Cyberleek has returned to social media, releasing 25 minutes of new Grand Theft Auto VI gameplay and sparking spoiler concerns.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cyberleek",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -285,8 +471,99 @@
       "extra": {}
     },
     {
+      "id": "thirsty-thursday",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Thirsty Thursday",
+      "description": "Users are sharing celebratory and birthday weekend posts under the popular weekly phrase.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Thirsty%20Thursday",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-yankees",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "The Yankees",
+      "description": "The New York Yankees are trending following a playoff sweep by the Rays that extended their championship drought to 17 seasons.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20Yankees",
+      "image_url": "https://heavy.com/wp-content/uploads/2026/10/american-league-wild-card-boston-red-sox-v-new-york-yankees-7.jpg?quality=65&strip=all",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T12:23:36Z",
+      "first_seen": "2026-10-08T12:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "susan-dell",
+      "rank": 18,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-08T11:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Susan Dell",
+      "description": "Susan Dell went viral on social media following an Oval Office appearance with Donald Trump alongside her husband, Michael Dell.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Susan%20Dell",
+      "image_url": "https://d.ibtimes.co.uk/en/full/1835409/susan-dell-white-house-appearance.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T11:23:35Z",
+      "first_seen": "2026-10-08T11:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "padres",
-      "rank": 10,
+      "rank": 19,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -297,12 +574,16 @@
         {
           "t": "2026-10-08T11:23:35Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 19
         }
       ],
-      "rank_change": -6,
+      "rank_change": -15,
       "is_new": false,
       "topic": "Padres",
-      "description": "San Diego Padres fans are expressing shock and disappointment on social media after an offensive collapse led to a season-ending NLDS defeat against the Milwaukee Brewers.",
+      "description": "The San Diego Padres' season has ended in disappointment following an offensive collapse and an NLDS elimination by the Milwaukee Brewers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Padres",
       "image_url": "https://media.koobit.com/tim-hill-pitching-for-the-san-diego-padres-during-a-game-at-v3-31297.jpg",
@@ -310,255 +591,7 @@
       "started_trending": "2026-10-08T06:23:32Z",
       "first_seen": "2026-10-08T06:23:32Z",
       "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "susan-dell",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Susan Dell",
-      "description": "Susan Dell is trending across social media following her viral White House appearance and her and her husband Michael Dell's financial backing of Trump accounts.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Susan%20Dell",
-      "image_url": "https://d.ibtimes.co.uk/en/full/1835409/susan-dell-white-house-appearance.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T11:23:35Z",
-      "first_seen": "2026-10-08T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nlcs",
-      "rank": 12,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-08T06:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "NLCS",
-      "description": "Baseball fans are discussing the upcoming National League Championship Series on social media as the Milwaukee Brewers prepare to face the Los Angeles Dodgers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/NLCS",
-      "image_url": "https://heavy.com/wp-content/uploads/2026/10/national-league-division-series-atlanta-braves-v-los-angeles-dodgers-game-20.jpg?quality=35&strip=all&w=1350",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T05:23:33Z",
-      "first_seen": "2026-10-08T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "samsung-wallet",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Samsung Wallet",
-      "description": "Tech and crypto users on social media are discussing Samsung's integration of USDC into its wallet for US users, backed by Coinbase, Solana, and Sui.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Samsung%20Wallet",
-      "image_url": "https://www.androidauthority.com/wp-content/uploads/2022/10/Samsung-Wallet-1.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T11:23:35Z",
-      "first_seen": "2026-10-08T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rays",
-      "rank": 14,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-08T06:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Rays",
-      "description": "The Tampa Bay Rays are trending on social media after sweeping the New York Yankees to advance to the ALCS amidst controversial fan interference.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rays",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/5eac7a6e5470c3b8091ca41626120e40069e379d3c56994911fb210874bdbf31/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/tampa_bay_rays_on_si_articles_216/55a9bdbbd9941912a946bc58c7027d9b",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T03:23:33Z",
-      "first_seen": "2026-10-08T03:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "machado",
-      "rank": 15,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-08T06:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Machado",
-      "description": "Manny Machado and the Padres are trending after a dramatic game-saving home run robbery by Garrett Mitchell helped the Brewers clinch the NLDS.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Machado",
-      "image_url": "https://brobible.com/wp-content/uploads/2024/10/mannymachado3.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T05:23:33Z",
-      "first_seen": "2026-10-08T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "carrie",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Carrie",
-      "description": "Viewers are discussing the new television adaptation of Stephen King's Carrie on social media, praising it as a strong new take on the classic story.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Carrie",
-      "image_url": "https://spcdn.shortpixel.ai/spio/ret_img,q_cdnize,to_webp,s_webp/maxblizz.com/wp-content/uploads/2025/06/MixCollage-03-Jun-2025-04-06-PM-2662-1140x570.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T11:23:35Z",
-      "first_seen": "2026-10-08T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tommy-james",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tommy James",
-      "description": "The material does not make the description for this topic clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tommy%20James",
-      "image_url": "https://media.gettyimages.com/id/1499132385/photo/tommy-james-and-the-shondells-perform-at-fred-kavli-theatre.jpg?s=1024x1024&w=gi&k=20&c=c8uJsTape1wivWvJmJm_dgPhPP7nMIBjZUm0z8dmNr8=",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T11:23:35Z",
-      "first_seen": "2026-10-08T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "garrett-mitchell",
-      "rank": 18,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-08T06:23:32Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "GARRETT MITCHELL",
-      "description": "Garrett Mitchell is trending on social media after making an incredible, game-saving home run robbery against Manny Machado to help the Brewers secure their NLDS victory.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/GARRETT%20MITCHELL",
-      "image_url": "https://wisportsheroics.com/wp-content/uploads/2025/04/USATSI_25971241_168400517_lowres-scaled-e1750543914968.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T05:23:33Z",
-      "first_seen": "2026-10-08T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
+      "last_seen": "2026-10-08T12:23:36Z",
       "hours_trending": 6,
       "volume": "6hr trend",
       "volume_value": 6,
@@ -567,19 +600,23 @@
     },
     {
       "id": "jeffrey-maier",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-10-08T11:23:35Z",
           "r": 19
+        },
+        {
+          "t": "2026-10-08T12:23:36Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Jeffrey Maier",
-      "description": "Social media users are drawing comparisons to Jeffrey Maier after a controversial fan interference call denied the Yankees a home run during their playoff series against the Rays.",
+      "description": "Jeffrey Maier's infamous historical play is trending on social media after a modern fan interference incident controversially took away a Yankees home run.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jeffrey%20Maier",
       "image_url": "https://www.nydailynews.com/wp-content/uploads/migration/2017/09/30/U2GOUUZONJYSTZR5MKCY4COV24.jpg",
@@ -587,43 +624,10 @@
       "started_trending": "2026-10-08T11:23:35Z",
       "first_seen": "2026-10-08T11:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "grisham",
-      "rank": 20,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-08T06:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-08T11:23:35Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Grisham",
-      "description": "Trent Grisham is trending on social media as Yankees fans and manager Aaron Boone discuss his performance and lineup decisions following their postseason elimination.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Grisham",
-      "image_url": "https://media.centraljersey.com/uploads/2025/04/Trent-Grisham-Leads-Yankees-10-4-Win-Pittsburgh_FI.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T05:23:33Z",
-      "first_seen": "2026-10-08T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T11:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-08T12:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
