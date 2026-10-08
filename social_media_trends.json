@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-08T18:25:04Z",
+  "updated": "2026-10-08T19:25:02Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-10-08T18:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Willie",
-      "description": "Willie is trending as various news items highlight sports figures, endorsements, and music collaborations involving individuals named Willie.",
+      "description": "Willie Fritz and Willie Nelson are trending in news, alongside various sports and music figures named Willie.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Willie",
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-10/241022-willie-nelson-vl-234p-872cbf.jpg",
@@ -37,28 +41,32 @@
       "started_trending": "2026-10-08T16:23:34Z",
       "first_seen": "2026-10-08T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "artificial-intelligence",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-08T18:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Artificial Intelligence",
-      "description": "Artificial Intelligence is trending after Donald Trump declared that anyone using the term instead of 'super intelligence' is an enemy of the White House.",
+      "description": "Donald Trump declared that anyone using the term 'Artificial Intelligence' is 'the enemy,' sparking widespread discussion.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Artificial%20Intelligence",
       "image_url": "https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg",
@@ -66,10 +74,10 @@
       "started_trending": "2026-10-08T18:23:35Z",
       "first_seen": "2026-10-08T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -90,12 +98,16 @@
         {
           "t": "2026-10-08T18:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 3
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Microsoft",
-      "description": "Microsoft is trending because the Trump administration is reportedly suspending the company and other tech firms from a green-card program over alleged fraud.",
+      "description": "The Trump administration suspended Microsoft and other tech firms from a green-card labor program over alleged fraud.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Microsoft",
       "image_url": "https://logos-world.net/wp-content/uploads/2020/10/Microsoft-Logo-History.jpg",
@@ -103,10 +115,10 @@
       "started_trending": "2026-10-08T16:23:34Z",
       "first_seen": "2026-10-08T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -123,12 +135,16 @@
         {
           "t": "2026-10-08T18:23:35Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 4
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "H-1B",
-      "description": "H-1B is trending as the Trump administration reportedly bars tech giants like Microsoft and Adobe from sponsoring H-1B workers for permanent green cards.",
+      "description": "JD Vance announced that Microsoft and other tech companies are being suspended from applying for green cards for H-1B workers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/H-1B",
       "image_url": "https://static.toiimg.com/photo/imgsize-139868,msid-134792236/h-1b-visa-selection.jpg",
@@ -136,23 +152,134 @@
       "started_trending": "2026-10-08T17:23:36Z",
       "first_seen": "2026-10-08T17:23:36Z",
       "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "apologize",
+      "rank": 5,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-08T18:23:35Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Apologize",
+      "description": "Stephen A. Smith opened 'First Take' with a message to Lane Johnson, and other public figures faced calls to apologize.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Apologize",
+      "image_url": "https://steelersnow.com/wp-content/uploads/2023/12/12-23-2023-Steeler-v-Bengals-at-Acrisure-Stadium-1575-scaled.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T18:23:35Z",
+      "first_seen": "2026-10-08T18:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-enemy",
+      "rank": 6,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-08T17:23:36Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-08T18:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "THE ENEMY",
+      "description": "Donald Trump declared that anyone who uses the term 'Artificial Intelligence' instead of 'super intelligence' is 'the enemy.'",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/THE%20ENEMY",
+      "image_url": "https://www.totalprosports.com/wp-content/uploads/2026/07/donald-trump-nfl-1536x845.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T17:23:36Z",
+      "first_seen": "2026-10-08T17:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "perm",
+      "rank": 7,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-08T15:23:33Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-08T16:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-08T17:23:36Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-08T18:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "PERM",
+      "description": "The U.S. suspended Microsoft and other tech firms from the PERM green-card program amid an H-1B fraud crackdown.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/PERM",
+      "image_url": "https://eb3.work/wp-content/uploads/2024/09/USCIS-Extends-Green-Card-Validity-Extension-to-36-Months-for-Green-Card-Renewals-1024x650.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T15:23:33Z",
+      "first_seen": "2026-10-08T15:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "olandriaxpandora",
-      "rank": 5,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "rank": 8,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-10-08T13:23:36Z",
-          "r": 3
-        },
         {
           "t": "2026-10-08T14:23:33Z",
           "r": 4
@@ -172,9 +299,13 @@
         {
           "t": "2026-10-08T18:23:35Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 8
         }
       ],
-      "rank_change": -1,
+      "rank_change": -6,
       "is_new": false,
       "topic": "#OlandriaxPandora",
       "description": "",
@@ -185,56 +316,19 @@
       "started_trending": "2026-10-08T13:23:36Z",
       "first_seen": "2026-10-08T13:23:36Z",
       "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-enemy",
-      "rank": 6,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "THE ENEMY",
-      "description": "THE ENEMY is trending after Donald Trump stated that anyone who continues to use the term 'AI' instead of 'super intelligence' is considered the enemy.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/THE%20ENEMY",
-      "image_url": "https://www.totalprosports.com/wp-content/uploads/2026/07/donald-trump-nfl-1536x845.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T17:23:36Z",
-      "first_seen": "2026-10-08T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "olandriaxpatmcgrath",
-      "rank": 7,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "rank": 9,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-08T13:23:36Z",
-          "r": 4
-        },
         {
           "t": "2026-10-08T14:23:33Z",
           "r": 3
@@ -254,9 +348,13 @@
         {
           "t": "2026-10-08T18:23:35Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 9
         }
       ],
-      "rank_change": -4,
+      "rank_change": -8,
       "is_new": false,
       "topic": "#OlandriaxPatMcGrath",
       "description": "",
@@ -267,130 +365,19 @@
       "started_trending": "2026-10-08T13:23:36Z",
       "first_seen": "2026-10-08T13:23:36Z",
       "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "teamily",
-      "rank": 8,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Teamily",
-      "description": "The material provided does not make clear why Teamily is currently trending on social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Teamily",
-      "image_url": "https://and--team.carrd.co/assets/images/image01.jpg?v=005d48a2",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T17:23:36Z",
-      "first_seen": "2026-10-08T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "apologize",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Apologize",
-      "description": "Apologize is trending across various news stories, including Cam Heyward refusing to apologize for a sideline outburst and public figures addressing recent controversies.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Apologize",
-      "image_url": "https://steelersnow.com/wp-content/uploads/2023/12/12-23-2023-Steeler-v-Bengals-at-Acrisure-Stadium-1575-scaled.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T18:23:35Z",
-      "first_seen": "2026-10-08T18:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "perm",
-      "rank": 10,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-08T15:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-08T16:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "PERM",
-      "description": "PERM is trending as the Trump administration blocks major tech companies from the H-1B PERM program, halting permanent residency applications for foreign workers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/PERM",
-      "image_url": "https://eb3.work/wp-content/uploads/2024/09/USCIS-Extends-Green-Card-Validity-Extension-to-36-Months-for-Green-Card-Renewals-1024x650.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T15:23:33Z",
-      "first_seen": "2026-10-08T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hurricane-isaias",
-      "rank": 11,
+      "rank": 10,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
-        {
-          "t": "2026-10-08T12:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-08T13:23:36Z",
-          "r": 7
-        },
         {
           "t": "2026-10-08T14:23:33Z",
           "r": 7
@@ -410,12 +397,16 @@
         {
           "t": "2026-10-08T18:23:35Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 10
         }
       ],
-      "rank_change": -4,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Hurricane Isaias",
-      "description": "Hurricane Isaias is trending as it strengthens and barrels toward the U.S. Gulf Coast, threatening the region with heavy rain and flooding.",
+      "description": "Hurricane Isaias is strengthening as it targets the U.S. Gulf Coast with heavy rain, winds, and flooding.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hurricane%20Isaias",
       "image_url": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/hurricane-isaias-live-tracker-map_2026101140161.jpg",
@@ -423,16 +414,132 @@
       "started_trending": "2026-10-08T11:23:35Z",
       "first_seen": "2026-10-08T11:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cassidy-hutchinson",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cassidy Hutchinson",
+      "description": "The Justice Department is reportedly seeking a criminal indictment of former Trump aide Cassidy Hutchinson.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cassidy%20Hutchinson",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2deXkw.img?w=768&h=512&m=6&x=416&y=154&s=105&d=105",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "congratulations-elon",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Congratulations Elon",
+      "description": "Indian Air Force Day led to messages celebrating the nation's air warriors.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Congratulations%20Elon",
+      "image_url": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uatbtfld1c8q6s8lro/0/indian-air-force-parade-with-tricolor-flypast-png.jpeg?f=16:9&w=1200&q=0.75",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kourtney",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kourtney",
+      "description": "Kourtney Kardashian fired back after Jennifer Lawrence called her annoying during a public exchange.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kourtney",
+      "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20250421/d1ac343a-eee9-4166-aa4e-9ed3486f40a0_1745268453.jpg?fit=around|1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "olandria-pat-mcgrath-pandora",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "OLANDRIA PAT MCGRATH PANDORA",
+      "description": "Love Island USA star Olandria Carthen is trending after starring in Pandora's new Pat McGrath jewelry collection.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/OLANDRIA%20PAT%20MCGRATH%20PANDORA",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dPus2.img?w=1920&h=1079&m=4&q=100",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "costoftrumpscorruption",
-      "rank": 12,
+      "rank": 15,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -443,9 +550,13 @@
         {
           "t": "2026-10-08T18:23:35Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 15
         }
       ],
-      "rank_change": 4,
+      "rank_change": 1,
       "is_new": false,
       "topic": "#CostOfTrumpsCorruption",
       "description": "",
@@ -456,7 +567,36 @@
       "started_trending": "2026-10-08T17:23:36Z",
       "first_seen": "2026-10-08T17:23:36Z",
       "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "national-medal-of-science",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "National Medal of Science",
+      "description": "Trump awarded Elon Musk and other tech executives the National Medal of Science.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/National%20Medal%20of%20Science",
+      "image_url": "https://www.teslarati.com/wp-content/uploads/2025/03/Elon-Musk-Trump-Tesla-White-House-4.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -464,8 +604,103 @@
       "extra": {}
     },
     {
+      "id": "choosing",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Choosing",
+      "description": "Discussions on making choices span topics from navigating Friedreich's ataxia to NBA fantasy salary caps and bond strategies.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Choosing",
+      "image_url": "https://images.ctfassets.net/qzwnil1y1qss/2rM8hyjo5ykJAGSE2eIDEO/f1751110841c65de8d3d67e4d2cf822e/nba_fantasy.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "skid-row",
+      "rank": 18,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-08T18:23:35Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Skid Row",
+      "description": "A massive multi-agency drug crackdown in Los Angeles led to dozens of arrests in Skid Row.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Skid%20Row",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_41/2603736/181013-skid-row-los-angeles-ew-555p.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T18:23:35Z",
+      "first_seen": "2026-10-08T18:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "h1-b",
+      "rank": 19,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-08T18:23:35Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "H1-B",
+      "description": "The Trump administration suspended Microsoft and several other tech companies from sponsoring H-1B workers for green cards.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/H1-B",
+      "image_url": "https://www.m9.news/wp-content/uploads/2026/10/h1b-visa-revocation-us-airport-arrest.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T18:23:35Z",
+      "first_seen": "2026-10-08T18:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "kane",
-      "rank": 13,
+      "rank": 20,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -484,12 +719,16 @@
         {
           "t": "2026-10-08T18:23:35Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 20
         }
       ],
-      "rank_change": -8,
+      "rank_change": -15,
       "is_new": false,
       "topic": "Kane",
-      "description": "Kane is trending amid reports about Harry Kane's football future, MLS interest, and updates on hockey player Patrick Kane.",
+      "description": "Harry Kane's football future and Patrick Kane's impact on the Blackhawks are drawing attention.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Kane",
       "image_url": "https://www.merkur.de/assets/images/44/395/44395225-harry-kane-jubelt-nach-seinem-tor-Oa7d.jpg",
@@ -497,253 +736,10 @@
       "started_trending": "2026-10-08T15:23:33Z",
       "first_seen": "2026-10-08T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "anne-carson",
-      "rank": 14,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-08T12:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-08T13:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-08T14:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-08T15:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-08T16:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Anne Carson",
-      "description": "Anne Carson is trending after winning the prestigious 2026 Nobel Prize in Literature for her bold, genre-defying works.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Anne%20Carson",
-      "image_url": "https://s26162.pcdn.co/wp-content/uploads/2019/09/annecarson.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T11:23:35Z",
-      "first_seen": "2026-10-08T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "h1-b",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "H1-B",
-      "description": "H1-B is trending following announcements that the Trump administration is suspending Microsoft and other tech firms from sponsoring workers on H1-B visas for green cards.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/H1-B",
-      "image_url": "https://www.m9.news/wp-content/uploads/2026/10/h1b-visa-revocation-us-airport-arrest.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T18:23:35Z",
-      "first_seen": "2026-10-08T18:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jeff-cannonball",
-      "rank": 16,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-08T16:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Jeff Cannonball",
-      "description": "Jeff Cannonball is trending following the sad passing of the independent professional wrestler at age 39 after a battle with ALS.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jeff%20Cannonball",
-      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb4305e4-5487-49ac-a9c5-947cbe69f7fb/da7126b-aee40a1f-24af-4e51-97f9-e894c2036e91.jpg/v1/fill/w_894,h_894,q_70,strp/jeff_the_killer_anime_version_by_tetsuyakyoko_da7126b-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZiNDMwNWU0LTU0ODctNDlhYy1hOWM1LTk0N2NiZTY5ZjdmYlwvZGE3MTI2Yi1hZWU0MGExZi0yNGFmLTRlNTEtOTdmOS1lODk0YzIwMzZlOTEuanBnIiwiaGVpZ2h0IjoiPD0xMjgwIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvZmI0MzA1ZTQtNTQ4Ny00OWFjLWE5YzUtOTQ3Y2JlNjlmN2ZiXC90ZXRzdXlha3lva28tNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.XyAKDY5h8C4lnY3PHtM6QT9qS7HDc8Nrk-XAbHcOmTs",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T16:23:34Z",
-      "first_seen": "2026-10-08T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kay-adams",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kay Adams",
-      "description": "The material does not make clear why Kay Adams is currently trending on social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kay%20Adams",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/ZKJGHDrDAUfuh_zzsjVwqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNDQ4/https://media.zenfs.com/en/list_wire_usa_today_articles_325/07e4ac2fffa50fcbde5d5870abd15159",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T18:23:35Z",
-      "first_seen": "2026-10-08T18:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "davis-webb",
-      "rank": 18,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Davis Webb",
-      "description": "Davis Webb is trending as reports indicate Sean Payton is adjusting play-calling duties and collaborating more with Webb ahead of upcoming Broncos games.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Davis%20Webb",
-      "image_url": "https://gazette.com/wp-content/uploads/2026/10/AP26272861196920.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T17:23:36Z",
-      "first_seen": "2026-10-08T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cashinwithritas",
-      "rank": 19,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "#CashInWithRitas",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23CashInWithRitas",
-      "image_url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/e3/fe3a8656-15c4-4764-b7ec-e76332526b18/67dba58d8ed8a.image.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T17:23:36Z",
-      "first_seen": "2026-10-08T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "skid-row",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Skid Row",
-      "description": "Skid Row is trending following a massive multi-agency federal drug crackdown in Downtown Los Angeles that resulted in numerous arrests of alleged drug dealers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Skid%20Row",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_41/2603736/181013-skid-row-los-angeles-ew-555p.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T18:23:35Z",
-      "first_seen": "2026-10-08T18:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T18:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T19:23:37Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     }
