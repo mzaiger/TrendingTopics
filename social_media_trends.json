@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-08T19:25:02Z",
+  "updated": "2026-10-08T20:24:39Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
@@ -28,12 +28,16 @@
         {
           "t": "2026-10-08T19:23:37Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Willie",
-      "description": "Willie Fritz and Willie Nelson are trending in news, alongside various sports and music figures named Willie.",
+      "description": "Willie Lampkin is set to make his first career start for the Eagles, while other names like Willie Fritz and Willie Nelson also make news in sports and entertainment.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Willie",
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-10/241022-willie-nelson-vl-234p-872cbf.jpg",
@@ -41,7 +45,7 @@
       "started_trending": "2026-10-08T16:23:34Z",
       "first_seen": "2026-10-08T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -61,12 +65,16 @@
         {
           "t": "2026-10-08T19:23:37Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 2
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Artificial Intelligence",
-      "description": "Donald Trump declared that anyone using the term 'Artificial Intelligence' is 'the enemy,' sparking widespread discussion.",
+      "description": "President Trump declared that anyone using the term artificial intelligence is \"the enemy\" unless they adopt his preferred rebrand to \"super intelligence.\"",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Artificial%20Intelligence",
       "image_url": "https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg",
@@ -74,7 +82,7 @@
       "started_trending": "2026-10-08T18:23:35Z",
       "first_seen": "2026-10-08T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -102,12 +110,16 @@
         {
           "t": "2026-10-08T19:23:37Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 3
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Microsoft",
-      "description": "The Trump administration suspended Microsoft and other tech firms from a green-card labor program over alleged fraud.",
+      "description": "The Trump administration is suspending Microsoft and other IT firms from a green-card program amid allegations of fraud related to foreign worker applications.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Microsoft",
       "image_url": "https://logos-world.net/wp-content/uploads/2020/10/Microsoft-Logo-History.jpg",
@@ -115,7 +127,7 @@
       "started_trending": "2026-10-08T16:23:34Z",
       "first_seen": "2026-10-08T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -123,39 +135,31 @@
       "extra": {}
     },
     {
-      "id": "h-1b",
+      "id": "teamily-ai-2-0",
       "rank": 4,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-08T19:23:37Z",
+          "t": "2026-10-08T20:23:32Z",
           "r": 4
         }
       ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "H-1B",
-      "description": "JD Vance announced that Microsoft and other tech companies are being suspended from applying for green cards for H-1B workers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/H-1B",
-      "image_url": "https://static.toiimg.com/photo/imgsize-139868,msid-134792236/h-1b-visa-selection.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T17:23:36Z",
-      "first_seen": "2026-10-08T17:23:36Z",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Teamily AI 2.0",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Teamily%20AI%202.0",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T20:23:32Z",
+      "first_seen": "2026-10-08T20:23:32Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -172,12 +176,16 @@
         {
           "t": "2026-10-08T19:23:37Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 5
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "Apologize",
-      "description": "Stephen A. Smith opened 'First Take' with a message to Lane Johnson, and other public figures faced calls to apologize.",
+      "description": "Stephen A. Smith apologized on air for his comments regarding Eagles player Lane Johnson and mental health, stating that he was wrong.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Apologize",
       "image_url": "https://steelersnow.com/wp-content/uploads/2023/12/12-23-2023-Steeler-v-Bengals-at-Acrisure-Stadium-1575-scaled.jpg",
@@ -185,7 +193,7 @@
       "started_trending": "2026-10-08T18:23:35Z",
       "first_seen": "2026-10-08T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -193,8 +201,49 @@
       "extra": {}
     },
     {
-      "id": "the-enemy",
+      "id": "h-1b",
       "rank": 6,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-08T17:23:36Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-08T18:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "H-1B",
+      "description": "The Trump administration is barring tech companies from sponsoring workers for green cards, with Vice President Vance targeting specific H-1B visa practices.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/H-1B",
+      "image_url": "https://static.toiimg.com/photo/imgsize-139868,msid-134792236/h-1b-visa-selection.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T17:23:36Z",
+      "first_seen": "2026-10-08T17:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-enemy",
+      "rank": 7,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -209,12 +258,16 @@
         {
           "t": "2026-10-08T19:23:37Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 7
         }
       ],
-      "rank_change": 4,
+      "rank_change": 3,
       "is_new": false,
       "topic": "THE ENEMY",
-      "description": "Donald Trump declared that anyone who uses the term 'Artificial Intelligence' instead of 'super intelligence' is 'the enemy.'",
+      "description": "Social media is reacting to President Trump declaring that anyone who uses the term artificial intelligence instead of \"super intelligence\" is \"the enemy.\"",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/THE%20ENEMY",
       "image_url": "https://www.totalprosports.com/wp-content/uploads/2026/07/donald-trump-nfl-1536x845.jpg",
@@ -222,7 +275,7 @@
       "started_trending": "2026-10-08T17:23:36Z",
       "first_seen": "2026-10-08T17:23:36Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -231,7 +284,7 @@
     },
     {
       "id": "perm",
-      "rank": 7,
+      "rank": 8,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -254,12 +307,16 @@
         {
           "t": "2026-10-08T19:23:37Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": 7,
+      "rank_change": 6,
       "is_new": false,
       "topic": "PERM",
-      "description": "The U.S. suspended Microsoft and other tech firms from the PERM green-card program amid an H-1B fraud crackdown.",
+      "description": "The Trump administration has suspended Microsoft and other tech companies from the PERM green-card program over alleged fraud involving foreign workers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/PERM",
       "image_url": "https://eb3.work/wp-content/uploads/2024/09/USCIS-Extends-Green-Card-Validity-Extension-to-36-Months-for-Green-Card-Renewals-1024x650.jpg",
@@ -267,7 +324,7 @@
       "started_trending": "2026-10-08T15:23:33Z",
       "first_seen": "2026-10-08T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -275,8 +332,140 @@
       "extra": {}
     },
     {
+      "id": "kourtney",
+      "rank": 9,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Kourtney",
+      "description": "Kourtney Kardashian fired back on social media after Jennifer Lawrence publicly called her annoying during a recent interview.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kourtney",
+      "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20250421/d1ac343a-eee9-4166-aa4e-9ed3486f40a0_1745268453.jpg?fit=around|1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cassidy-hutchinson",
+      "rank": 10,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Cassidy Hutchinson",
+      "description": "The Justice Department is reportedly seeking a criminal indictment against former Trump aide and January 6 committee witness Cassidy Hutchinson.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cassidy%20Hutchinson",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2deXkw.img?w=768&h=512&m=6&x=416&y=154&s=105&d=105",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "congratulations-elon",
+      "rank": 11,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Congratulations Elon",
+      "description": "President Trump awarded Elon Musk the National Medal of Science, praising him as a modern-day Thomas Edison.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Congratulations%20Elon",
+      "image_url": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uatbtfld1c8q6s8lro/0/indian-air-force-parade-with-tricolor-flypast-png.jpeg?f=16:9&w=1200&q=0.75",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "national-medal-of-science",
+      "rank": 12,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-08T19:23:37Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "National Medal of Science",
+      "description": "President Trump awarded the National Medal of Science to Elon Musk and other prominent U.S. tech leaders during a live event.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/National%20Medal%20of%20Science",
+      "image_url": "https://www.teslarati.com/wp-content/uploads/2025/03/Elon-Musk-Trump-Tesla-White-House-4.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "olandriaxpandora",
-      "rank": 8,
+      "rank": 13,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -303,9 +492,13 @@
         {
           "t": "2026-10-08T19:23:37Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 13
         }
       ],
-      "rank_change": -6,
+      "rank_change": -11,
       "is_new": false,
       "topic": "#OlandriaxPandora",
       "description": "",
@@ -316,7 +509,7 @@
       "started_trending": "2026-10-08T13:23:36Z",
       "first_seen": "2026-10-08T13:23:36Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 6,
       "volume": "6hr trend",
       "volume_value": 6,
@@ -324,57 +517,45 @@
       "extra": {}
     },
     {
-      "id": "olandriaxpatmcgrath",
-      "rank": 9,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "id": "h1-b",
+      "rank": 14,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
-          "t": "2026-10-08T14:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-08T15:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-08T16:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 5
-        },
-        {
           "t": "2026-10-08T18:23:35Z",
-          "r": 7
+          "r": 15
         },
         {
           "t": "2026-10-08T19:23:37Z",
-          "r": 9
+          "r": 19
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": -8,
+      "rank_change": 1,
       "is_new": false,
-      "topic": "#OlandriaxPatMcGrath",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23OlandriaxPatMcGrath",
-      "image_url": "https://media.glamour.com/photos/69b812f43f0a0ca879ebfdea/master/w_2560,c_limit/2266843148",
+      "topic": "H1-B",
+      "description": "The Trump administration is cracking down on tech companies and suspending Microsoft from a green-card program while targeting H-1B visa practices.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/H1-B",
+      "image_url": "https://www.m9.news/wp-content/uploads/2026/10/h1b-visa-revocation-us-airport-arrest.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T13:23:36Z",
-      "first_seen": "2026-10-08T13:23:36Z",
+      "started_trending": "2026-10-08T18:23:35Z",
+      "first_seen": "2026-10-08T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hurricane-isaias",
-      "rank": 10,
+      "rank": 15,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -401,12 +582,16 @@
         {
           "t": "2026-10-08T19:23:37Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": -3,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Hurricane Isaias",
-      "description": "Hurricane Isaias is strengthening as it targets the U.S. Gulf Coast with heavy rain, winds, and flooding.",
+      "description": "Hurricane Isaias is strengthening as it barrels toward the U.S. Gulf Coast, threatening the northern region with heavy rain and potential flooding.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hurricane%20Isaias",
       "image_url": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/hurricane-isaias-live-tracker-map_2026101140161.jpg",
@@ -414,7 +599,7 @@
       "started_trending": "2026-10-08T11:23:35Z",
       "first_seen": "2026-10-08T11:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 8,
       "volume": "8hr trend",
       "volume_value": 8,
@@ -422,210 +607,110 @@
       "extra": {}
     },
     {
-      "id": "cassidy-hutchinson",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "olandriaxpatmcgrath",
+      "rank": 16,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
-          "t": "2026-10-08T19:23:37Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cassidy Hutchinson",
-      "description": "The Justice Department is reportedly seeking a criminal indictment of former Trump aide Cassidy Hutchinson.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cassidy%20Hutchinson",
-      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2deXkw.img?w=768&h=512&m=6&x=416&y=154&s=105&d=105",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T19:23:37Z",
-      "first_seen": "2026-10-08T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "congratulations-elon",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
+          "t": "2026-10-08T14:23:33Z",
+          "r": 3
+        },
         {
-          "t": "2026-10-08T19:23:37Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Congratulations Elon",
-      "description": "Indian Air Force Day led to messages celebrating the nation's air warriors.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Congratulations%20Elon",
-      "image_url": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1uatbtfld1c8q6s8lro/0/indian-air-force-parade-with-tricolor-flypast-png.jpeg?f=16:9&w=1200&q=0.75",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T19:23:37Z",
-      "first_seen": "2026-10-08T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kourtney",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
+          "t": "2026-10-08T15:23:33Z",
+          "r": 1
+        },
         {
-          "t": "2026-10-08T19:23:37Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kourtney",
-      "description": "Kourtney Kardashian fired back after Jennifer Lawrence called her annoying during a public exchange.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kourtney",
-      "image_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20250421/d1ac343a-eee9-4166-aa4e-9ed3486f40a0_1745268453.jpg?fit=around|1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T19:23:37Z",
-      "first_seen": "2026-10-08T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "olandria-pat-mcgrath-pandora",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T19:23:37Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "OLANDRIA PAT MCGRATH PANDORA",
-      "description": "Love Island USA star Olandria Carthen is trending after starring in Pandora's new Pat McGrath jewelry collection.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/OLANDRIA%20PAT%20MCGRATH%20PANDORA",
-      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dPus2.img?w=1920&h=1079&m=4&q=100",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T19:23:37Z",
-      "first_seen": "2026-10-08T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "costoftrumpscorruption",
-      "rank": 15,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
+          "t": "2026-10-08T16:23:34Z",
+          "r": 3
+        },
         {
           "t": "2026-10-08T17:23:36Z",
-          "r": 16
+          "r": 5
         },
         {
           "t": "2026-10-08T18:23:35Z",
-          "r": 12
+          "r": 7
         },
         {
           "t": "2026-10-08T19:23:37Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "#CostOfTrumpsCorruption",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23CostOfTrumpsCorruption",
-      "image_url": "https://www.totalprosports.com/wp-content/uploads/2026/07/donald-trump-nfl-1536x845.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T17:23:36Z",
-      "first_seen": "2026-10-08T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "national-medal-of-science",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
+          "r": 9
+        },
         {
-          "t": "2026-10-08T19:23:37Z",
+          "t": "2026-10-08T20:23:32Z",
           "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "National Medal of Science",
-      "description": "Trump awarded Elon Musk and other tech executives the National Medal of Science.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/National%20Medal%20of%20Science",
-      "image_url": "https://www.teslarati.com/wp-content/uploads/2025/03/Elon-Musk-Trump-Tesla-White-House-4.jpg",
+      "rank_change": -15,
+      "is_new": false,
+      "topic": "#OlandriaxPatMcGrath",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23OlandriaxPatMcGrath",
+      "image_url": "https://media.glamour.com/photos/69b812f43f0a0ca879ebfdea/master/w_2560,c_limit/2266843148",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T19:23:37Z",
-      "first_seen": "2026-10-08T19:23:37Z",
+      "started_trending": "2026-10-08T13:23:36Z",
+      "first_seen": "2026-10-08T13:23:36Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "choosing",
+      "id": "kaytron-allen",
       "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-08T19:23:37Z",
+          "t": "2026-10-08T20:23:32Z",
           "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Choosing",
-      "description": "Discussions on making choices span topics from navigating Friedreich's ataxia to NBA fantasy salary caps and bond strategies.",
+      "topic": "Kaytron Allen",
+      "description": "Running back Kaytron Allen was unexpectedly waived by the Washington Commanders, sparking discussion over the rookie's sudden departure.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Choosing",
-      "image_url": "https://images.ctfassets.net/qzwnil1y1qss/2rM8hyjo5ykJAGSE2eIDEO/f1751110841c65de8d3d67e4d2cf822e/nba_fantasy.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T19:23:37Z",
-      "first_seen": "2026-10-08T19:23:37Z",
+      "url": "https://twstalker.com/search/Kaytron%20Allen",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-08T20:23:32Z",
+      "first_seen": "2026-10-08T20:23:32Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "talarico",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Talarico",
+      "description": "James Talarico has been off the campaign trail with the flu while polling in a tight U.S. Senate race against Paxton, prompting calls for a debate.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Talarico",
+      "image_url": "https://cdn.britannica.com/82/212182-050-50D9F3CE/basketball-LeBron-James-Cleveland-Cavaliers-2018.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T20:23:32Z",
+      "first_seen": "2026-10-08T20:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -634,7 +719,7 @@
     },
     {
       "id": "skid-row",
-      "rank": 18,
+      "rank": 19,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -645,12 +730,16 @@
         {
           "t": "2026-10-08T19:23:37Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": 2,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Skid Row",
-      "description": "A massive multi-agency drug crackdown in Los Angeles led to dozens of arrests in Skid Row.",
+      "description": "A sweeping federal law enforcement operation in downtown Los Angeles targeted drug dealers operating in the notorious Skid Row area.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Skid%20Row",
       "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_41/2603736/181013-skid-row-los-angeles-ew-555p.jpg",
@@ -658,7 +747,7 @@
       "started_trending": "2026-10-08T18:23:35Z",
       "first_seen": "2026-10-08T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
+      "last_seen": "2026-10-08T20:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -666,80 +755,35 @@
       "extra": {}
     },
     {
-      "id": "h1-b",
-      "rank": 19,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-08T19:23:37Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "H1-B",
-      "description": "The Trump administration suspended Microsoft and several other tech companies from sponsoring H-1B workers for green cards.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/H1-B",
-      "image_url": "https://www.m9.news/wp-content/uploads/2026/10/h1b-visa-revocation-us-airport-arrest.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T18:23:35Z",
-      "first_seen": "2026-10-08T18:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kane",
+      "id": "olandria-pat-mcgrath-pandora",
       "rank": 20,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
-          "t": "2026-10-08T15:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-08T16:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-08T17:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-08T18:23:35Z",
-          "r": 13
-        },
-        {
           "t": "2026-10-08T19:23:37Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-08T20:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -15,
+      "rank_change": -6,
       "is_new": false,
-      "topic": "Kane",
-      "description": "Harry Kane's football future and Patrick Kane's impact on the Blackhawks are drawing attention.",
+      "topic": "OLANDRIA PAT MCGRATH PANDORA",
+      "description": "Olandria Carthen is starring as the face of Pandora's new jewelry collection in collaboration with makeup artist Pat McGrath.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kane",
-      "image_url": "https://www.merkur.de/assets/images/44/395/44395225-harry-kane-jubelt-nach-seinem-tor-Oa7d.jpg",
+      "url": "https://twstalker.com/search/OLANDRIA%20PAT%20MCGRATH%20PANDORA",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dPus2.img?w=1920&h=1079&m=4&q=100",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T15:23:33Z",
-      "first_seen": "2026-10-08T15:23:33Z",
+      "started_trending": "2026-10-08T19:23:37Z",
+      "first_seen": "2026-10-08T19:23:37Z",
       "published": null,
-      "last_seen": "2026-10-08T19:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-08T20:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
