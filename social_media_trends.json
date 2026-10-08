@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-08T05:28:01Z",
+  "updated": "2026-10-08T06:24:44Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Yankees",
-      "description": "The New York Yankees were eliminated from the MLB postseason after being swept by the Tampa Bay Rays in the ALDS.",
+      "description": "The New York Yankees' season ended in an agonizing postseason sweep after losing to the Tampa Bay Rays in the ALDS.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Yankees",
       "image_url": "https://heavy.com/wp-content/uploads/2026/09/american-league-wild-card-series-boston-red-sox-v-new-york-yankees-23.jpg?quality=65&strip=all",
@@ -37,7 +41,7 @@
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
+      "last_seen": "2026-10-08T06:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -47,18 +51,22 @@
     {
       "id": "brewers",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Brewers",
-      "description": "The Milwaukee Brewers are competing against the San Diego Padres in the NLDS, with the series continuing into a fourth game.",
+      "description": "The Milwaukee Brewers advanced to the NLCS after defeating the San Diego Padres in a hard-fought series, setting up a rematch with the Dodgers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Brewers",
       "image_url": "https://heavy.com/wp-content/uploads/2026/09/chicago-white-sox-v-milwaukee-brewers-milwaukee-wisconsin-march-26-manager-1-e1790429361562.jpg?quality=65&strip=all",
@@ -66,7 +74,7 @@
       "started_trending": "2026-10-08T05:23:33Z",
       "first_seen": "2026-10-08T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
+      "last_seen": "2026-10-08T06:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -76,8 +84,8 @@
     {
       "id": "dodgers",
       "rank": 3,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-08T01:23:32Z",
@@ -98,12 +106,16 @@
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": -2,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Dodgers",
-      "description": "The Los Angeles Dodgers have advanced to the National League Championship Series after defeating the Atlanta Braves in the playoffs.",
+      "description": "The Los Angeles Dodgers are heading to their third straight NLCS after securing a clutch postseason victory.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dodgers",
       "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/07/USAT/92128460007-usp-mlb-nlds-los-angeles-dodgers-at-atlanta-brave.jpg?crop=2249,1265,x0,y0&width=2249&height=1265&format=pjpg&auto=webp",
@@ -111,16 +123,78 @@
       "started_trending": "2026-10-08T01:23:32Z",
       "first_seen": "2026-10-08T01:23:32Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "padres",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Padres",
+      "description": "The San Diego Padres were eliminated from the MLB playoffs after a hard-fought NLDS defeat against the Milwaukee Brewers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Padres",
+      "image_url": "https://media.koobit.com/tim-hill-pitching-for-the-san-diego-padres-during-a-game-at-v3-31297.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T06:23:32Z",
+      "first_seen": "2026-10-08T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "machado",
+      "rank": 5,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-08T05:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Machado",
+      "description": "San Diego Padres star Manny Machado was left in disbelief after the Brewers' Garrett Mitchell robbed him of a potential game-tying home run.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Machado",
+      "image_url": "https://brobible.com/wp-content/uploads/2024/10/mannymachado3.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T05:23:33Z",
+      "first_seen": "2026-10-08T05:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "boone",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -135,12 +209,16 @@
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Boone",
-      "description": "Following the Yankees' postseason elimination, there is significant speculation on social media regarding the future of manager Aaron Boone.",
+      "description": "Following the Yankees' disappointing postseason sweep by the Rays, manager Aaron Boone is facing major questions about his future with the team.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Boone",
       "image_url": "https://larrybrownsports.com/wp-content/uploads/2023/05/aaron-boone-800x450.jpg",
@@ -148,7 +226,7 @@
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
+      "last_seen": "2026-10-08T06:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -156,28 +234,32 @@
       "extra": {}
     },
     {
-      "id": "machado",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "nlcs",
+      "rank": 7,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-08T05:23:33Z",
-          "r": 5
+          "r": 9
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Machado",
-      "description": "San Diego Padres player Manny Machado was denied a potential game-tying home run after a spectacular defensive catch by Garrett Mitchell.",
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "NLCS",
+      "description": "Excitement builds across social media as the Milwaukee Brewers and Los Angeles Dodgers prepare to face off in Game 1 of the NLCS.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Machado",
-      "image_url": "https://brobible.com/wp-content/uploads/2024/10/mannymachado3.png",
+      "url": "https://twstalker.com/search/NLCS",
+      "image_url": "https://heavy.com/wp-content/uploads/2026/10/national-league-division-series-atlanta-braves-v-los-angeles-dodgers-game-20.jpg?quality=35&strip=all&w=1350",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-08T05:23:33Z",
       "first_seen": "2026-10-08T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
+      "last_seen": "2026-10-08T06:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -186,19 +268,23 @@
     },
     {
       "id": "grisham",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Grisham",
-      "description": "Yankees player Trent Grisham is facing scrutiny on social media following his performance in the leadoff spot during the team's ALDS series.",
+      "description": "Trent Grisham faced heavy scrutiny and struggled to provide a leadoff spark as the Yankees were swept out of the postseason by the Rays.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Grisham",
       "image_url": "https://media.centraljersey.com/uploads/2025/04/Trent-Grisham-Leads-Yankees-10-4-Win-Pittsburgh_FI.jpg",
@@ -206,7 +292,7 @@
       "started_trending": "2026-10-08T05:23:33Z",
       "first_seen": "2026-10-08T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
+      "last_seen": "2026-10-08T06:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -215,19 +301,23 @@
     },
     {
       "id": "garrett-mitchell",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Garrett Mitchell",
-      "description": "Brewers outfielder Garrett Mitchell is trending for his game-saving defensive play, where he robbed Manny Machado of a home run.",
+      "description": "Garrett Mitchell went viral for making an incredible catch at the wall to rob Manny Machado of a game-tying home run, helping the Brewers clinch the NLDS.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Garrett%20Mitchell",
       "image_url": "https://wisportsheroics.com/wp-content/uploads/2025/04/USATSI_25971241_168400517_lowres-scaled-e1750543914968.jpg",
@@ -235,7 +325,7 @@
       "started_trending": "2026-10-08T05:23:33Z",
       "first_seen": "2026-10-08T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
+      "last_seen": "2026-10-08T06:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -244,7 +334,7 @@
     },
     {
       "id": "rays",
-      "rank": 8,
+      "rank": 10,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -259,12 +349,16 @@
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Rays",
-      "description": "The Tampa Bay Rays have advanced to the ALCS after sweeping the New York Yankees in the ALDS.",
+      "description": "The Tampa Bay Rays swept the New York Yankees in the Bronx to advance to the ALCS for just the third time in franchise history.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Rays",
       "image_url": "https://s.yimg.com/lo/mysterio/api/5eac7a6e5470c3b8091ca41626120e40069e379d3c56994911fb210874bdbf31/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/tampa_bay_rays_on_si_articles_216/55a9bdbbd9941912a946bc58c7027d9b",
@@ -272,7 +366,7 @@
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
+      "last_seen": "2026-10-08T06:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -280,49 +374,24 @@
       "extra": {}
     },
     {
-      "id": "nlcs",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T05:23:33Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "NLCS",
-      "description": "The Los Angeles Dodgers are preparing for the National League Championship Series following their victory over the Atlanta Braves.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/NLCS",
-      "image_url": "https://heavy.com/wp-content/uploads/2026/10/national-league-division-series-atlanta-braves-v-los-angeles-dodgers-game-20.jpg?quality=35&strip=all&w=1350",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T05:23:33Z",
-      "first_seen": "2026-10-08T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "thisismycrew",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 11,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "#ThisIsMyCrew",
-      "description": "The hashtag is trending as fans discuss the future of the Milwaukee Brewers, including potential roster changes involving William Contreras.",
+      "description": "Social media users are discussing William Contreras's uncertain future with the Brewers amid trade speculation connecting him to the Yankees.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23ThisIsMyCrew",
       "image_url": "https://arc.stimg.co/startribunemedia/TFJHT4KERNB5RHT5VRHWMSBJIA.JPG?&w=1200&ar=1.91:1&fit=crop",
@@ -330,7 +399,73 @@
       "started_trending": "2026-10-08T05:23:33Z",
       "first_seen": "2026-10-08T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "winourway",
+      "rank": 12,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-08T05:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "#WinOurWay",
+      "description": "Milwaukee Brewers fans and the team are celebrating on social media with the hashtag after securing a four-game series victory.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WinOurWay",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1657389349083579",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T05:23:33Z",
+      "first_seen": "2026-10-08T05:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aaron-ashby",
+      "rank": 13,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-08T05:23:33Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Aaron Ashby",
+      "description": "Aaron Ashby pitched three hitless innings and helped secure a crucial Game 4 victory over the Padres to send the Brewers to the NLCS.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Aaron%20Ashby",
+      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/e08d6e1/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/cb/af/08a430f54a92910b538935a19052/ashby-aaron-800-1080-ea8af392c00c24a4.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T05:23:33Z",
+      "first_seen": "2026-10-08T05:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-08T06:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -339,7 +474,7 @@
     },
     {
       "id": "stanton",
-      "rank": 11,
+      "rank": 14,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -354,12 +489,16 @@
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": -5,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Stanton",
-      "description": "Yankees player Giancarlo Stanton is a topic of discussion regarding his role and performance following the team's postseason exit.",
+      "description": "Social media users are reacting to a mix of local news, including a bizarre ice cream shop break-in in New Stanton and questions surrounding Giancarlo Stanton's role on the Yankees.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Stanton",
       "image_url": "https://media.bolavip.com/wp-content/uploads/sites/10/2026/09/06145759/giancarlo-stanton-1-1920x1080.webp",
@@ -367,7 +506,7 @@
       "started_trending": "2026-10-08T03:23:33Z",
       "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
+      "last_seen": "2026-10-08T06:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -375,8 +514,41 @@
       "extra": {}
     },
     {
+      "id": "cancun",
+      "rank": 15,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-08T05:23:33Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Cancun",
+      "description": "Cancun is trending as social media users discuss real estate presales, Noah Kahan's upcoming festival return, and regional travel plans.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cancun",
+      "image_url": "https://thumbs.dreamstime.com/b/stunning-aerial-panoramic-view-cancun-beach-azure-waters-kissing-pristine-white-sand-experience-breathtaking-beauty-s-355330059.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-08T05:23:33Z",
+      "first_seen": "2026-10-08T05:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "volpe",
-      "rank": 12,
+      "rank": 16,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -395,12 +567,16 @@
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": -6,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Volpe",
-      "description": "Yankees player Anthony Volpe had a potential game-tying home run overturned in the ALDS due to a fan interference ruling.",
+      "description": "Anthony Volpe's potential game-tying home run for the Yankees was overturned and downgraded to a double due to fan interference during Game 3.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Volpe",
       "image_url": "https://pinstripesnation.com/wp-content/uploads/2023/10/antony-volpe-yankees.jpg",
@@ -408,74 +584,16 @@
       "started_trending": "2026-10-08T02:23:32Z",
       "first_seen": "2026-10-08T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "winourway",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T05:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#WinOurWay",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23WinOurWay",
-      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1657389349083579",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T05:23:33Z",
-      "first_seen": "2026-10-08T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aaron-ashby",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-08T05:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Aaron Ashby",
-      "description": "Brewers pitcher Aaron Ashby is trending following his performance in the team's postseason series against the San Diego Padres.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Aaron%20Ashby",
-      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/e08d6e1/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/cb/af/08a430f54a92910b538935a19052/ashby-aaron-800-1080-ea8af392c00c24a4.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T05:23:33Z",
-      "first_seen": "2026-10-08T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "angel-reese",
-      "rank": 15,
+      "rank": 17,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -494,12 +612,16 @@
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": -14,
+      "rank_change": -16,
       "is_new": false,
       "topic": "Angel Reese",
-      "description": "Angel Reese and the Atlanta Dream are one win away from the WNBA Finals after taking a 2-0 series lead over the New York Liberty.",
+      "description": "Angel Reese scored 23 points to lead the Atlanta Dream to an overtime victory and a 2-0 series lead over the Liberty, putting her team on the brink of the WNBA Finals.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Angel%20Reese",
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/angel-reese-layups-fever.jpg?ve=1&tl=1",
@@ -507,53 +629,16 @@
       "started_trending": "2026-10-08T02:23:32Z",
       "first_seen": "2026-10-08T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "repbx",
-      "rank": 16,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-08T03:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-08T04:23:30Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-08T05:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "#RepBX",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23RepBX",
-      "image_url": "https://cdn.freebiesupply.com/images/large/2x/new-york-yankees-logo-transparent.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T03:23:33Z",
-      "first_seen": "2026-10-08T03:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lagranjaasamblea",
-      "rank": 17,
+      "rank": 18,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -564,9 +649,13 @@
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": 2,
+      "rank_change": 1,
       "is_new": false,
       "topic": "#LaGranjaAsamblea",
       "description": "",
@@ -577,43 +666,10 @@
       "started_trending": "2026-10-08T04:23:30Z",
       "first_seen": "2026-10-08T04:23:30Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "valkyries",
-      "rank": 18,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-08T04:23:30Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-08T05:23:33Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Valkyries",
-      "description": "The Golden State Valkyries are one win away from the WNBA Finals after defeating the Las Vegas Aces in the semifinals.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Valkyries",
-      "image_url": "https://s.hdnux.com/photos/01/32/32/37/23701479/6/rawImage.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T04:23:30Z",
-      "first_seen": "2026-10-08T04:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -630,6 +686,10 @@
         {
           "t": "2026-10-08T05:23:33Z",
           "r": 19
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
+          "r": 19
         }
       ],
       "rank_change": -9,
@@ -643,39 +703,51 @@
       "started_trending": "2026-10-08T04:23:30Z",
       "first_seen": "2026-10-08T04:23:30Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "cancun",
+      "id": "repbx",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
+          "t": "2026-10-08T03:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-08T04:23:30Z",
+          "r": 9
+        },
+        {
           "t": "2026-10-08T05:23:33Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-08T06:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cancun",
-      "description": "Cancun is trending due to the announcement of the return of the Out of the Blue Festival featuring Noah Kahan and other artists.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cancun",
-      "image_url": "https://thumbs.dreamstime.com/b/stunning-aerial-panoramic-view-cancun-beach-azure-waters-kissing-pristine-white-sand-experience-breathtaking-beauty-s-355330059.jpg",
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "#RepBX",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23RepBX",
+      "image_url": "https://cdn.freebiesupply.com/images/large/2x/new-york-yankees-logo-transparent.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T05:23:33Z",
-      "first_seen": "2026-10-08T05:23:33Z",
+      "started_trending": "2026-10-08T03:23:33Z",
+      "first_seen": "2026-10-08T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-08T05:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-08T06:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     }
