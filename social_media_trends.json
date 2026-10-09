@@ -1,52 +1,15 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-09T13:24:48Z",
+  "updated": "2026-10-09T14:25:16Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "good-friday",
-      "rank": 1,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-09T11:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-09T12:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 1
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Good Friday",
-      "description": "Social media users are discussing various Friday routines, weather updates, and feel-good community stories.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Friday",
-      "image_url": "https://normandyparkblog.com/wp-content/uploads/2026/09/SKM-FeelGoodFriday2026-1-2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T11:23:31Z",
-      "first_seen": "2026-10-09T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "new-yorker",
-      "rank": 2,
+      "rank": 1,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -65,12 +28,16 @@
         {
           "t": "2026-10-09T13:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 1
         }
       ],
-      "rank_change": 11,
+      "rank_change": 12,
       "is_new": false,
       "topic": "New Yorker",
-      "description": "Social media users are reacting to an Immigration and Customs Enforcement officer shooting a man in a car in New York City's Marble Hill neighborhood, which sparked protests.",
+      "description": "Social media users are discussing an ICE agent's shooting of a man in a car with a five-year-old in New York City's Marble Hill neighborhood, which sparked protests. Online discussions also highlight Alex Gibney's new documentary \"Musk,\" which examines Elon Musk's self-mythology.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/New%20Yorker",
       "image_url": "https://i.pinimg.com/originals/2e/33/b9/2e33b9f30a9e36f7e33e4afb86fa029d.jpg",
@@ -78,16 +45,16 @@
       "started_trending": "2026-10-09T05:23:32Z",
       "first_seen": "2026-10-09T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "navi-pillay",
-      "rank": 3,
+      "rank": 2,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -102,12 +69,16 @@
         {
           "t": "2026-10-09T13:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": 1,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Navi Pillay",
-      "description": "Social media is celebrating former International Criminal Court judge and UN human rights chief Navi Pillay for winning the 2026 Nobel Peace Prize.",
+      "description": "Social media users are congratulating South African jurist and former UN human rights chief Navi Pillay after she was awarded the 2026 Nobel Peace Prize.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Navi%20Pillay",
       "image_url": "https://images.indianexpress.com/2026/10/Navanethem-Navi-Pillay-.jpg?w=1024",
@@ -115,28 +86,73 @@
       "started_trending": "2026-10-09T11:23:31Z",
       "first_seen": "2026-10-09T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-friday",
+      "rank": 3,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-09T11:23:31Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-09T12:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-09T13:23:31Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Good Friday",
+      "description": "The material does not provide a clear description for why this topic is trending on social media.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Good%20Friday",
+      "image_url": "https://normandyparkblog.com/wp-content/uploads/2026/09/SKM-FeelGoodFriday2026-1-2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T11:23:31Z",
+      "first_seen": "2026-10-09T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "category-3",
       "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-10-09T13:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Category 3",
-      "description": "Hurricane Isaias has intensified into a major Category 3 storm, prompting storm warnings and preparations along the US Gulf Coast and Florida.",
+      "description": "Social media users are tracking Hurricane Isaias as it strengthens into a dangerous Category 3 storm and threatens the U.S. Gulf Coast ahead of landfall.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Category%203",
       "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/100826-HURRICANE-ISAIAS-8PM-ADVISORY.png",
@@ -144,10 +160,10 @@
       "started_trending": "2026-10-09T13:23:31Z",
       "first_seen": "2026-10-09T13:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -168,12 +184,16 @@
         {
           "t": "2026-10-09T13:23:31Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 5
         }
       ],
       "rank_change": 5,
       "is_new": false,
       "topic": "Nobel Peace Prize",
-      "description": "Social media is discussing the announcement that the 2026 Nobel Peace Prize has been awarded to former ICC judge Navanethem Navi Pillay.",
+      "description": "Social media users are discussing the 2026 Nobel Peace Prize being awarded to South African jurist and former ICC judge Navi Pillay for her work in international justice.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Nobel%20Peace%20Prize",
       "image_url": "https://www.orlandosentinel.com/wp-content/uploads/2026/10/Nobel_Prize_54445-1.jpg",
@@ -181,16 +201,45 @@
       "started_trending": "2026-10-09T11:23:31Z",
       "first_seen": "2026-10-09T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "charlie-kirk",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Charlie Kirk",
+      "description": "Social media users are discussing Charlie Kirk following memorials, a Turning Point USA tour, and reports of a lookalike contest for the anniversary of his death.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Charlie%20Kirk",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/10/USAT/86080964007-9729.jpg?crop=4499",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "red-friday",
-      "rank": 6,
+      "rank": 7,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -205,12 +254,16 @@
         {
           "t": "2026-10-09T13:23:31Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": 3,
+      "rank_change": 2,
       "is_new": false,
       "topic": "RED Friday",
-      "description": "Social media users are following local weather alerts, including red flag warnings issued for parts of the western United States ahead of weekend storms.",
+      "description": "The material does not provide a clear description for why this topic is trending on social media.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/RED%20Friday",
       "image_url": "https://gray-wibw-prod.gtv-cdn.com/resizer/v2/EVUSKTV5BRBN5E6UMORGHNCQHE.jpg?auth=69fb75ea6d725b741bc99fd4c959ed8adb9cc895d77eb4a58cfa40e69db287a5&width=1200&height=600&smart=true",
@@ -218,84 +271,39 @@
       "started_trending": "2026-10-09T11:23:31Z",
       "first_seen": "2026-10-09T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "eom-leads-the-grid",
-      "rank": 7,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-09T11:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-09T12:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "EOM LEADS THE GRID",
-      "description": "The material does not make the description clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/EOM%20LEADS%20THE%20GRID",
-      "image_url": "https://public-cdn-s3-us-west-2.oss-us-east-1.aliyuncs.com/talkie-user-img/356695750742174/391872713724260.jpeg?x-oss-process=image/resize,w_1024/format,webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T11:23:31Z",
-      "first_seen": "2026-10-09T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "seonghyeonontrack",
+      "id": "lastfourwatched",
       "rank": 8,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-09T11:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-09T12:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-09T13:23:31Z",
+          "t": "2026-10-09T14:23:35Z",
           "r": 8
         }
       ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "#SEONGHYEONonTRACK",
-      "description": "The material does not make the description clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23SEONGHYEONonTRACK",
-      "image_url": "https://kprofiles.com/wp-content/uploads/2025/06/SEONGHYEON-1-571x800.jpeg",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#LastFourWatched",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23LastFourWatched",
+      "image_url": "https://pbs.twimg.com/media/HHO7Fq5WgAAqS5D.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T11:23:31Z",
-      "first_seen": "2026-10-09T11:23:31Z",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -316,6 +324,10 @@
         {
           "t": "2026-10-09T13:23:31Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 9
         }
       ],
       "rank_change": 5,
@@ -329,7 +341,73 @@
       "started_trending": "2026-10-09T11:23:31Z",
       "first_seen": "2026-10-09T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "letterboxdfriday",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#LetterboxdFriday",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23LetterboxdFriday",
+      "image_url": "https://rollingstone.com.br/wp-content/uploads/2025/11/Letterboxd-anuncia-servico-de-aluguel-de-filmes-integrado-ao-app.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hurricane-isaias",
+      "rank": 11,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-09T12:23:33Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-09T13:23:31Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Hurricane Isaias",
+      "description": "Social media users are sharing updates and tracking maps as Hurricane Isaias strengthens into a major Category 3 storm moving toward the U.S. Gulf Coast.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hurricane%20Isaias",
+      "image_url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2026/10/09/104155527_Hurricane-Isaias-108_t842.jpg?e5ab187fd9b46f2971cc9cd0025dffa4a96399a8",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T12:23:33Z",
+      "first_seen": "2026-10-09T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-09T14:23:35Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -337,8 +415,70 @@
       "extra": {}
     },
     {
+      "id": "cat-3",
+      "rank": 12,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-09T13:23:31Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Cat 3",
+      "description": "Social media users are sharing weather updates as Hurricane Isaias upgrades to a Category 3 storm approaching its Gulf Coast landfall.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cat%203",
+      "image_url": "https://data.ibtimes.sg/en/full/98181/hurricane-isaias.jpg?w=736",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T13:23:31Z",
+      "first_seen": "2026-10-09T13:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ledger",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ledger",
+      "description": "Social media users are discussing reports that Ledger users were reportedly drained of over $86 million across several blockchains.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ledger",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iuWcZTPkL._AC_SL1500_.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "happy-friyay",
-      "rank": 10,
+      "rank": 14,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -353,12 +493,16 @@
         {
           "t": "2026-10-09T13:23:31Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 14
         }
       ],
-      "rank_change": 1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Happy Friyay",
-      "description": "Social media users are posting weekend greetings, financial news, and weather forecasts as the workweek wraps up.",
+      "description": "The material does not provide a clear description for why this topic is trending on social media.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Happy%20Friyay",
       "image_url": "https://www.lovethispic.com/uploaded_images/469436-Happy-Friday.-Have-A-Great-Day-And-A-Wonderful-Weekend.jpg",
@@ -366,168 +510,127 @@
       "started_trending": "2026-10-09T11:23:31Z",
       "first_seen": "2026-10-09T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "cat-3",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cat 3",
-      "description": "Hurricane Isaias has been upgraded to a Category 3 storm as it approaches the US Gulf Coast for an expected evening landfall.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cat%203",
-      "image_url": "https://data.ibtimes.sg/en/full/98181/hurricane-isaias.jpg?w=736",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T13:23:31Z",
-      "first_seen": "2026-10-09T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hurricane-isaias",
-      "rank": 12,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-09T12:23:33Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Hurricane Isaias",
-      "description": "Social media users are tracking Hurricane Isaias as it strengthens into a major Category 3 storm and nears the northern Gulf Coast.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hurricane%20Isaias",
-      "image_url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2026/10/09/104155527_Hurricane-Isaias-108_t842.jpg?e5ab187fd9b46f2971cc9cd0025dffa4a96399a8",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T12:23:33Z",
-      "first_seen": "2026-10-09T12:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fridaymotivation",
-      "rank": 13,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-09T12:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "#FridayMotivation",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23FridayMotivation",
-      "image_url": "https://i.pinimg.com/originals/ff/4e/0d/ff4e0df6db7a4ceffa738913329ae37f.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T12:23:33Z",
-      "first_seen": "2026-10-09T12:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "remember-everyone-deployed",
-      "rank": 14,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-09T11:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-09T12:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Remember Everyone Deployed",
-      "description": "Social media users are sharing photos and updates as the USS Abraham Lincoln returns to San Diego.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Remember%20Everyone%20Deployed",
-      "image_url": "https://americanbazaaronline.com/wp-content/uploads/2026/10/USS-Abraham-Lincoln.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T11:23:31Z",
-      "first_seen": "2026-10-09T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "klara3d",
+      "id": "lenamiu-pls-love-ep5",
       "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-09T13:23:31Z",
+          "t": "2026-10-09T14:23:35Z",
           "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#Klara3D",
+      "topic": "LENAMIU PLS LOVE EP5",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23Klara3D",
-      "image_url": "https://media.sketchfab.com/models/567c8bc5e1ac476e97e1b3ceefa157f8/thumbnails/90e98815481b42abb10e086b2fd04861/4532ce89e88d45d99eafd71fa816678c.jpeg",
+      "url": "https://twstalker.com/search/LENAMIU%20PLS%20LOVE%20EP5",
+      "image_url": "https://f.ptcdn.info/452/091/000/mq5gk5fbupisCMWZ7SF79-o.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "plslove-ep5",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#PlsLoveรักได้ไหมEP5",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23PlsLove%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%84%E0%B8%AB%E0%B8%A1EP5",
+      "image_url": "https://i.ytimg.com/vi/yP4aBjcDtRo/maxresdefault.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "leif-erikson",
+      "rank": 17,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-09T13:23:31Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Leif Erikson",
+      "description": "The material does not provide a clear description for why this topic is trending on social media.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Leif%20Erikson",
+      "image_url": "https://cdn2.penguin.com.au/covers/original/9780525636762.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-09T13:23:31Z",
       "first_seen": "2026-10-09T13:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
+      "last_seen": "2026-10-09T14:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fursuitfriday",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FursuitFriday",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23FursuitFriday",
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/867a80df-efb9-4672-9014-d2acadd49b42/dfkghwl-4a4fc988-e549-4107-ab2c-16e83235754d.jpg/v1/fill/w_1094,h_731,q_70,strp/fursuit_friday_by_dracosorcerer_dfkghwl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODI4IiwicGF0aCI6IlwvZlwvODY3YTgwZGYtZWZiOS00NjcyLTkwMTQtZDJhY2FkZDQ5YjQyXC9kZmtnaHdsLTRhNGZjOTg4LWU1NDktNDEwNy1hYjJjLTE2ZTgzMjM1NzU0ZC5qcGciLCJ3aWR0aCI6Ijw9MTIzOSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.IsYTnxNFpYicJ_n1udcuzc5fC0Eeq5mrwSxJU13lWes",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-09T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -536,7 +639,7 @@
     },
     {
       "id": "oscar-belgal",
-      "rank": 16,
+      "rank": 19,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -547,12 +650,16 @@
         {
           "t": "2026-10-09T13:23:31Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 19
         }
       ],
-      "rank_change": 0,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Oscar Belgal",
-      "description": "Social media is discussing Oscar Belgal following his identification as the man shot by ICE agents during an arrest attempt in Marble Hill, New York City.",
+      "description": "Social media users are discussing Oscar Belgal, the man shot by an ICE agent during an arrest attempt in New York City, amid resulting protests and local backlash.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Oscar%20Belgal",
       "image_url": "https://s.yimg.com/lo/mysterio/api/3a34fecd0e0413c4c685d230ec6617667d79c52d248d63167c4eb0a62f5fafd6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https://media.zenfs.com/en/newsweek_sports_200/4761a96e6b10c7c3a8173692a9162b07.png",
@@ -560,44 +667,7 @@
       "started_trending": "2026-10-09T12:23:33Z",
       "first_seen": "2026-10-09T12:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cortisatf1",
-      "rank": 17,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-09T11:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-09T12:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "#CORTISatF1",
-      "description": "The material does not make the description clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23CORTISatF1",
-      "image_url": "https://wimg.heraldcorp.com/news/cms/2026/06/25/news-p.v1.20260625.cfcda1eff0b2413994cd46fdfa81f8d7_P1.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T11:23:31Z",
-      "first_seen": "2026-10-09T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
+      "last_seen": "2026-10-09T14:23:35Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -605,94 +675,28 @@
       "extra": {}
     },
     {
-      "id": "leif-erikson",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Leif Erikson",
-      "description": "Social media users are celebrating Leif Erikson Day with historical memes and holiday greetings.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Leif%20Erikson",
-      "image_url": "https://cdn2.penguin.com.au/covers/original/9780525636762.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T13:23:31Z",
-      "first_seen": "2026-10-09T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "finally-friday",
-      "rank": 19,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-09T11:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-09T12:23:33Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Finally Friday",
-      "description": "Social media users are sharing end-of-the-week excitement alongside updates on sports matchups and local weather forecasts.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Finally%20Friday",
-      "image_url": "https://www.lovethispic.com/uploaded_images/360277-Finally-Friday.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T11:23:31Z",
-      "first_seen": "2026-10-09T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mavs",
+      "id": "nypd",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-09T13:23:31Z",
+          "t": "2026-10-09T14:23:35Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Mavs",
-      "description": "Social media users are discussing the NBA preseason matchup and game predictions between the Dallas Mavericks and the Houston Rockets.",
+      "topic": "NYPD",
+      "description": "Social media users are sharing updates from the NYPD regarding an incident where an ICE agent fired multiple rounds and shot a man in New York City's Marble Hill.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mavs",
-      "image_url": "https://cdn.nba.com/teams/legacy/www.nba.com/rockets/sites/rockets/files/getty-images-1237593478.jpg",
+      "url": "https://twstalker.com/search/NYPD",
+      "image_url": "https://media01.stockfood.com/largepreviews/MjIwNjgzMjA5Mg==/71188132-nypd-police-officer-leaning-against-the-door-of-his-police-car-in-the-financial-district-of-new-york.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T13:23:31Z",
-      "first_seen": "2026-10-09T13:23:31Z",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
       "published": null,
-      "last_seen": "2026-10-09T13:23:31Z",
+      "last_seen": "2026-10-09T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
