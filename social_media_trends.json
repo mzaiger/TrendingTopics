@@ -1,11 +1,11 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-09T16:25:03Z",
+  "updated": "2026-10-09T17:24:40Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
-  "count": 18,
+  "count": 19,
   "items": [
     {
       "id": "mike-ditka",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-09T16:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Mike Ditka",
-      "description": "Legendary NFL player, Hall of Fame tight end, and iconic Chicago Bears head coach Mike Ditka has died at the age of 86, sparking widespread tributes across social media.",
+      "description": "Legendary NFL player, Hall of Fame tight end, and Chicago Bears head coach Mike Ditka has died at the age of 86.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mike%20Ditka",
       "image_url": "https://image-cdn.essentiallysports.com/wp-content/uploads/imago0022779418h.jpg.jpeg",
@@ -33,28 +37,32 @@
       "started_trending": "2026-10-09T15:23:35Z",
       "first_seen": "2026-10-09T15:23:35Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "da-bears",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-09T16:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Da Bears",
-      "description": "Social media users are remembering Chicago Bears icon Mike Ditka following his death at age 86, which also revived memories of his famous role inspiring classic comedy sketches.",
+      "description": "Social media is reacting to the death of legendary coach Mike Ditka, famously known for leading 'Da Bears'.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Da%20Bears",
       "image_url": "https://www.mearsonlineauctions.com/ItemImages/000033/22eb2184-64ae-41d7-930b-542832df477d_lg.jpeg",
@@ -62,7 +70,7 @@
       "started_trending": "2026-10-09T16:23:31Z",
       "first_seen": "2026-10-09T16:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
+      "last_seen": "2026-10-09T17:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -70,10 +78,84 @@
       "extra": {}
     },
     {
-      "id": "new-yorker",
+      "id": "chicago-bears",
       "rank": 3,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-09T16:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Chicago Bears",
+      "description": "The Chicago Bears and the NFL world are mourning the death of Hall of Fame legend and former head coach Mike Ditka at age 86.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Chicago%20Bears",
+      "image_url": "https://static.wixstatic.com/media/34fbbd_35611664e2a649bfb0ba57080b11089c~mv2.jpg/v1/fill/w_1000,h_665,al_c,q_85,usm_0.66_1.00_0.01/34fbbd_35611664e2a649bfb0ba57080b11089c~mv2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T16:23:31Z",
+      "first_seen": "2026-10-09T16:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "charlie-kirk",
+      "rank": 4,
       "previous_rank": 6,
       "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-09T14:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-09T15:23:35Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-09T16:23:31Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Charlie Kirk",
+      "description": "Supporters and political figures are remembering founder Charlie Kirk and marking one year since his death during campus events.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Charlie%20Kirk",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/10/USAT/86080964007-9729.jpg?crop=4499",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "new-yorker",
+      "rank": 5,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-09T11:23:31Z",
@@ -98,12 +180,16 @@
         {
           "t": "2026-10-09T16:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 5
         }
       ],
-      "rank_change": 3,
+      "rank_change": -2,
       "is_new": false,
       "topic": "New Yorker",
-      "description": "Social media users are discussing recent reporting on a New York City neighborhood following an ICE officer shooting a man in a car during an arrest attempt, which has sparked local protests.",
+      "description": "An ICE officer shot a man during an arrest in New York City, sparking local news coverage and new city mental health services announcements.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/New%20Yorker",
       "image_url": "https://i.pinimg.com/originals/2e/33/b9/2e33b9f30a9e36f7e33e4afb86fa029d.jpg",
@@ -111,16 +197,16 @@
       "started_trending": "2026-10-09T05:23:32Z",
       "first_seen": "2026-10-09T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 11,
+      "volume": "11hr trend",
+      "volume_value": 11,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rip-legend",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -131,12 +217,16 @@
         {
           "t": "2026-10-09T16:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 6
         }
       ],
-      "rank_change": 5,
+      "rank_change": 3,
       "is_new": false,
       "topic": "RIP Legend",
-      "description": "Social media users are paying tribute following the death of legendary NFL player, Hall of Fame coach, and Chicago Bears icon Mike Ditka at age 86.",
+      "description": "Tributes are pouring in across social media following the death of legendary Chicago Bears coach and player Mike Ditka at 86.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/RIP%20Legend",
       "image_url": "https://wallpapers.com/images/hd/mike-tyson-2430-x-3057-background-1z83zqidxdhegdb8.jpg",
@@ -144,106 +234,7 @@
       "started_trending": "2026-10-09T15:23:35Z",
       "first_seen": "2026-10-09T15:23:35Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chicago-bears",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T16:23:31Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Chicago Bears",
-      "description": "Chicago Bears fans and the broader football community are mourning the death of legendary franchise icon and Hall of Fame coach Mike Ditka at age 86.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chicago%20Bears",
-      "image_url": "https://static.wixstatic.com/media/34fbbd_35611664e2a649bfb0ba57080b11089c~mv2.jpg/v1/fill/w_1000,h_665,al_c,q_85,usm_0.66_1.00_0.01/34fbbd_35611664e2a649bfb0ba57080b11089c~mv2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T16:23:31Z",
-      "first_seen": "2026-10-09T16:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kicking-and-screaming",
-      "rank": 6,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-09T15:23:35Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-09T16:23:31Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Kicking and Screaming",
-      "description": "Social media is reacting to the death of legendary Chicago Bears coach and NFL Hall of Famer Mike Ditka at the age of 86.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kicking%20and%20Screaming",
-      "image_url": "https://ontapsportsnet.com/wp-content/uploads/2025/05/mike-ditka-bears.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T15:23:35Z",
-      "first_seen": "2026-10-09T15:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "charlie-kirk",
-      "rank": 7,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-09T14:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-09T15:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-09T16:23:31Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Charlie Kirk",
-      "description": "Social media users are discussing Turning Point USA events, campus tours, and commemorations marking one year since the death of founder Charlie Kirk.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Charlie%20Kirk",
-      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/10/USAT/86080964007-9729.jpg?crop=4499",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T14:23:35Z",
-      "first_seen": "2026-10-09T14:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
+      "last_seen": "2026-10-09T17:23:30Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -251,59 +242,10 @@
       "extra": {}
     },
     {
-      "id": "navi-pillay",
-      "rank": 8,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-09T11:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-09T12:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-09T14:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-09T15:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-09T16:23:31Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Navi Pillay",
-      "description": "South African human rights lawyer and former UN human rights chief Navi Pillay is trending after winning the 2026 Nobel Peace Prize.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Navi%20Pillay",
-      "image_url": "https://images.indianexpress.com/2026/10/Navanethem-Navi-Pillay-.jpg?w=1024",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T11:23:31Z",
-      "first_seen": "2026-10-09T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "nobel-peace-prize",
-      "rank": 9,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "rank": 7,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-09T11:23:31Z",
@@ -328,12 +270,16 @@
         {
           "t": "2026-10-09T16:23:31Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 7
         }
       ],
-      "rank_change": 1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Nobel Peace Prize",
-      "description": "Social media is reacting to the announcement that South African human rights lawyer and former ICC judge Navi Pillay has been awarded the 2026 Nobel Peace Prize.",
+      "description": "South African jurist and former ICC judge Navi Pillay has been awarded the 2026 Nobel Peace Prize.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Nobel%20Peace%20Prize",
       "image_url": "https://www.orlandosentinel.com/wp-content/uploads/2026/10/Nobel_Prize_54445-1.jpg",
@@ -341,7 +287,7 @@
       "started_trending": "2026-10-09T11:23:31Z",
       "first_seen": "2026-10-09T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
+      "last_seen": "2026-10-09T17:23:30Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -350,19 +296,23 @@
     },
     {
       "id": "international-criminal-court",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 8,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-09T16:23:31Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 2,
+      "is_new": false,
       "topic": "International Criminal Court",
-      "description": "The U.S. State Department has announced sanctions against the International Criminal Court, drawing strong rejections from the institution just hours after a former ICC judge won the Nobel Peace Prize.",
+      "description": "The United States has imposed sweeping sanctions on the International Criminal Court hours after a former ICC judge won the Nobel Peace Prize.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/International%20Criminal%20Court",
       "image_url": "https://5minuteenglish.com/wp-content/uploads/2024/06/International-Relations-1.webp",
@@ -370,7 +320,7 @@
       "started_trending": "2026-10-09T16:23:31Z",
       "first_seen": "2026-10-09T16:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
+      "last_seen": "2026-10-09T17:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -378,36 +328,69 @@
       "extra": {}
     },
     {
-      "id": "ledger",
-      "rank": 11,
+      "id": "the-icc",
+      "rank": 9,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-09T16:23:31Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "The ICC",
+      "description": "The International Criminal Court has strongly rejected new US sanctions imposed against the institution.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20ICC",
+      "image_url": "https://5minuteenglish.com/wp-content/uploads/2024/06/International-Relations-1.webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T16:23:31Z",
+      "first_seen": "2026-10-09T16:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kicking-and-screaming",
+      "rank": 10,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
         {
-          "t": "2026-10-09T14:23:35Z",
+          "t": "2026-10-09T15:23:35Z",
           "r": 13
         },
         {
-          "t": "2026-10-09T15:23:35Z",
+          "t": "2026-10-09T16:23:31Z",
           "r": 6
         },
         {
-          "t": "2026-10-09T16:23:31Z",
-          "r": 11
+          "t": "2026-10-09T17:23:30Z",
+          "r": 10
         }
       ],
-      "rank_change": 2,
+      "rank_change": 3,
       "is_new": false,
-      "topic": "Ledger",
-      "description": "Crypto users on social media are reacting to reports that Ledger has paused reseller sales after an estimated 70 to 86 million dollars in cryptocurrency was reportedly stolen in potential hardware wallet tampering.",
+      "topic": "Kicking and Screaming",
+      "description": "Fans are remembering Mike Ditka's acting role in the movie 'Kicking and Screaming' alongside Will Ferrell following his death at age 86.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ledger",
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iuWcZTPkL._AC_SL1500_.jpg",
+      "url": "https://twstalker.com/search/Kicking%20and%20Screaming",
+      "image_url": "https://ontapsportsnet.com/wp-content/uploads/2025/05/mike-ditka-bears.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T14:23:35Z",
-      "first_seen": "2026-10-09T14:23:35Z",
+      "started_trending": "2026-10-09T15:23:35Z",
+      "first_seen": "2026-10-09T15:23:35Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
+      "last_seen": "2026-10-09T17:23:30Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -415,45 +398,61 @@
       "extra": {}
     },
     {
-      "id": "lastfourwatched",
-      "rank": 12,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "id": "navi-pillay",
+      "rank": 11,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
+          "t": "2026-10-09T11:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-09T12:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-09T13:23:31Z",
+          "r": 3
+        },
+        {
           "t": "2026-10-09T14:23:35Z",
-          "r": 8
+          "r": 2
         },
         {
           "t": "2026-10-09T15:23:35Z",
-          "r": 10
+          "r": 3
         },
         {
           "t": "2026-10-09T16:23:31Z",
-          "r": 12
+          "r": 8
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 11
         }
       ],
-      "rank_change": -4,
+      "rank_change": -9,
       "is_new": false,
-      "topic": "#LastFourWatched",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23LastFourWatched",
-      "image_url": "https://pbs.twimg.com/media/HHO7Fq5WgAAqS5D.jpg",
+      "topic": "Navi Pillay",
+      "description": "Former ICC judge and human rights advocate Navi Pillay won the 2026 Nobel Peace Prize and made remarks referencing Trump.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Navi%20Pillay",
+      "image_url": "https://images.indianexpress.com/2026/10/Navanethem-Navi-Pillay-.jpg?w=1024",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T14:23:35Z",
-      "first_seen": "2026-10-09T14:23:35Z",
+      "started_trending": "2026-10-09T11:23:31Z",
+      "first_seen": "2026-10-09T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "fursuitfriday",
-      "rank": 13,
+      "rank": 12,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -468,9 +467,13 @@
         {
           "t": "2026-10-09T16:23:31Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 12
         }
       ],
-      "rank_change": 5,
+      "rank_change": 6,
       "is_new": false,
       "topic": "#FursuitFriday",
       "description": "",
@@ -481,135 +484,110 @@
       "started_trending": "2026-10-09T14:23:35Z",
       "first_seen": "2026-10-09T14:23:35Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "category-3",
-      "rank": 14,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "id": "ledger",
+      "rank": 13,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
-          "t": "2026-10-09T13:23:31Z",
-          "r": 4
-        },
-        {
           "t": "2026-10-09T14:23:35Z",
-          "r": 4
+          "r": 13
         },
         {
           "t": "2026-10-09T15:23:35Z",
-          "r": 7
+          "r": 6
         },
         {
           "t": "2026-10-09T16:23:31Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Ledger",
+      "description": "Ledger has paused reseller sales and is investigating potential wallet tampering after reports of millions in cryptocurrency theft claims.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ledger",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71iuWcZTPkL._AC_SL1500_.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T14:23:35Z",
+      "first_seen": "2026-10-09T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lisa-cook",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T17:23:30Z",
           "r": 14
         }
       ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Category 3",
-      "description": "Social media users are following severe weather updates as Hurricane Isaias strengthens into a major Category 3 storm on a track toward the U.S. Gulf Coast.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lisa Cook",
+      "description": "Donald Trump has set up a White House committee to investigate and potentially remove Federal Reserve Governor Lisa Cook.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Category%203",
-      "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/10/100826-HURRICANE-ISAIAS-8PM-ADVISORY.png",
+      "url": "https://twstalker.com/search/Lisa%20Cook",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/01/21/USAT/88282415007-2247666741.jpg?width=660&height=450&fit=crop&format=pjpg&auto=webp",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T13:23:31Z",
-      "first_seen": "2026-10-09T13:23:31Z",
+      "started_trending": "2026-10-09T17:23:30Z",
+      "first_seen": "2026-10-09T17:23:30Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "85-bears",
       "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-09T16:23:31Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "85 Bears",
-      "description": "Football fans on social media are remembering the historic 1985 Chicago Bears following the death of their legendary Super Bowl-winning coach, Mike Ditka, at age 86.",
+      "description": "Social media tributes are pouring in as the NFL community remembers Mike Ditka, who famously led the 1985 Bears to a Super Bowl win.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/85%20Bears",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-09T16:23:31Z",
-      "first_seen": "2026-10-09T16:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oscar-belgal",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T16:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Oscar Belgal",
-      "description": "Social media is reacting to protests and city backlash following an incident where an ICE officer shot Oscar Belgal multiple times during an arrest attempt in New York City.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Oscar%20Belgal",
-      "image_url": "https://static.independent.co.uk/2026/09/01/19/America_25__Objects_Oscar_Statuette_76648.jpg?width=1200&height=800&crop=1200:800",
+      "image_url": "https://images.axios.com/lACqC_qBtnxHRTyATjwDoWX0KWA=/0x251:3600x2276/1920x1080/2025/09/05/1757086607975.jpeg?w=750",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-09T16:23:31Z",
       "first_seen": "2026-10-09T16:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-icc",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T16:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "The ICC",
-      "description": "The International Criminal Court is trending on social media after the United States imposed sanctions on the institution hours after a former ICC judge was awarded the Nobel Peace Prize.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20ICC",
-      "image_url": "https://5minuteenglish.com/wp-content/uploads/2024/06/International-Relations-1.webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T16:23:31Z",
-      "first_seen": "2026-10-09T16:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
+      "last_seen": "2026-10-09T17:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -618,19 +596,23 @@
     },
     {
       "id": "asts",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-10-09T16:23:31Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 2,
+      "is_new": false,
       "topic": "$ASTS",
-      "description": "AST SpaceMobile shares are sliding on social media and financial markets following a SpaceX spectrum deal, a drop in stock price, and news of a securities fraud lawsuit investigation.",
+      "description": "AST SpaceMobile shares fell following a SpaceX spectrum deal closing and news of an investor securities fraud lawsuit.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24ASTS",
       "image_url": "https://i.ytimg.com/vi/4gOAyB1gidE/maxresdefault.jpg",
@@ -638,7 +620,98 @@
       "started_trending": "2026-10-09T16:23:31Z",
       "first_seen": "2026-10-09T16:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T16:23:31Z",
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "oscar-belgal",
+      "rank": 17,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-09T16:23:31Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Oscar Belgal",
+      "description": "Protests and backlash have sparked in New York following an incident where an ICE agent shot Oscar Belgal in Marble Hill.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Oscar%20Belgal",
+      "image_url": "https://static.independent.co.uk/2026/09/01/19/America_25__Objects_Oscar_Statuette_76648.jpg?width=1200&height=800&crop=1200:800",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T16:23:31Z",
+      "first_seen": "2026-10-09T16:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "leif-erikson",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Leif Erikson",
+      "description": "The provided material does not make a clear description possible for this topic.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Leif%20Erikson",
+      "image_url": "https://www.kidzone.ws/history/maritime/images/leif-erikson-2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T17:23:30Z",
+      "first_seen": "2026-10-09T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-09T17:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nypd",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T17:23:30Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "NYPD",
+      "description": "The NYPD released body camera footage showing the aftermath of an ICE agent shooting a man in Marble Hill.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/NYPD",
+      "image_url": "https://media01.stockfood.com/largepreviews/MjIwNjgzMjA5Mg==/71188132-nypd-police-officer-leaning-against-the-door-of-his-police-car-in-the-financial-district-of-new-york.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T17:23:30Z",
+      "first_seen": "2026-10-09T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-09T17:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
