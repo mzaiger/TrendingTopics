@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-09T02:25:17Z",
+  "updated": "2026-10-09T03:25:00Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
@@ -10,16 +10,20 @@
     {
       "id": "cowboys",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-09T02:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Cowboys",
       "description": "The Dallas Cowboys are trending following their Week 5 Thursday Night Football matchup against the Tampa Bay Buccaneers.",
       "description_source": "gemini",
@@ -29,10 +33,10 @@
       "started_trending": "2026-10-09T02:23:31Z",
       "first_seen": "2026-10-09T02:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -57,12 +61,16 @@
         {
           "t": "2026-10-09T02:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 2
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Bucs",
-      "description": "The Tampa Bay Buccaneers are trending due to their Week 5 Thursday Night Football game against the Dallas Cowboys.",
+      "description": "The Tampa Bay Buccaneers are trending during their Week 5 Thursday Night Football matchup against the Dallas Cowboys.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bucs",
       "image_url": "https://platform.bloggingtheboys.com/wp-content/uploads/sites/39/2026/09/gettyimages-2191955646.jpg?quality=90&strip=all&crop=0,0.0047961630695426,100,99.990407673861&w=2400",
@@ -70,16 +78,78 @@
       "started_trending": "2026-10-08T23:23:32Z",
       "first_seen": "2026-10-08T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "todd-bowles",
+      "rank": 3,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-09T02:23:31Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 13,
+      "is_new": false,
+      "topic": "Todd Bowles",
+      "description": "Buccaneers head coach Todd Bowles is facing intense scrutiny and hot-seat speculation on social media following team struggles.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Todd%20Bowles",
+      "image_url": "https://www.yardbarker.com/media/9/9/9942f650058c07cea853a3f9c582f827fa87e4ce/thumb_16x9/todd-bowles-confirms-baker-mayfield-timeline.jpg?v=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T02:23:31Z",
+      "first_seen": "2026-10-09T02:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jake-ferguson",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jake Ferguson",
+      "description": "Dallas tight end Jake Ferguson is trending due to fantasy football interest and his performance in the Week 5 game against the Buccaneers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jake%20Ferguson",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/7da9ec3eb64fdb2babbe50c2e8d3ff873416f942f0e72c8e532452f72fde0e66/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/dallas_cowboys_wire_usa_today_sports_articles_693/0a4c04bf317df7c47a04f0b54c681167",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T03:23:34Z",
+      "first_seen": "2026-10-09T03:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "christian-parker",
-      "rank": 3,
+      "rank": 5,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -90,12 +160,16 @@
         {
           "t": "2026-10-09T02:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 5
         }
       ],
-      "rank_change": 2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Christian Parker",
-      "description": "Christian Parker and the Cowboys defense faced a massive blow when cornerback Joey Porter Jr. was ruled out and sent home before the game against the Buccaneers.",
+      "description": "The Cowboys took a massive defensive hit after cornerback Joey Porter was sent home and ruled out just before kickoff against the Buccaneers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Christian%20Parker",
       "image_url": "https://media.9news.com/assets/KUSA/images/f1132d4b-a9b8-4667-a98b-a8f6f9fa56a5/f1132d4b-a9b8-4667-a98b-a8f6f9fa56a5_1920x1080.jpg",
@@ -103,45 +177,16 @@
       "started_trending": "2026-10-09T01:23:33Z",
       "first_seen": "2026-10-09T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "daron-bland",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T02:23:31Z",
-          "r": 4
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Daron Bland",
-      "description": "DaRon Bland is trending amid trade speculation linking the Cowboys defender to the Detroit Lions.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Daron%20Bland",
-      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_1354,y_0,w_2473,h_2473/c_fill,w_16,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/cowboys_country/01m3wa037psvfxpwz77p.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T02:23:31Z",
-      "first_seen": "2026-10-09T02:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bucky-irving",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -152,12 +197,16 @@
         {
           "t": "2026-10-09T02:23:31Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": 5,
+      "rank_change": 4,
       "is_new": false,
       "topic": "Bucky Irving",
-      "description": "Bucky Irving is trending after a standout performance and a 72-yard play during the Buccaneers' game against the Cowboys.",
+      "description": "Buccaneers running back Bucky Irving is trending after bursting ahead for a stellar 72-yard gain and scoring a touchdown against the Cowboys.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bucky%20Irving",
       "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/db36f51/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/98/ab/6858ec2d4f79bc3c4ea4b7ea84fd/irving-bucky-800-1080-a0e8f570320ae6db.jpg",
@@ -165,16 +214,49 @@
       "started_trending": "2026-10-09T01:23:33Z",
       "first_seen": "2026-10-09T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "daron-bland",
+      "rank": 7,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-09T02:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Daron Bland",
+      "description": "Dallas defender DaRon Bland is trending amid swirling trade rumors connecting him to the Detroit Lions as their defensive woes continue.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Daron%20Bland",
+      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_1354,y_0,w_2473,h_2473/c_fill,w_16,ar_16:9,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/cowboys_country/01m3wa037psvfxpwz77p.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T02:23:31Z",
+      "first_seen": "2026-10-09T02:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jalon-daniels",
-      "rank": 6,
+      "rank": 8,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -189,12 +271,16 @@
         {
           "t": "2026-10-09T02:23:31Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": 10,
+      "rank_change": 8,
       "is_new": false,
       "topic": "Jalon Daniels",
-      "description": "Rookie quarterback Jalon Daniels is trending as he steps in to fill in for Baker Mayfield for the Buccaneers against the Cowboys.",
+      "description": "Rookie quarterback Jalon Daniels is trending on social media as he fills in for Baker Mayfield for the Buccaneers against the Cowboys.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jalon%20Daniels",
       "image_url": "https://s.yimg.com/lo/mysterio/api/36637bc6ba94bcb1b90fe45de10a68cf0fe7d98d7dc5706b90a85ee658316486/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/fansided_articles_440/e9b894fa429ba2c0b39f6a37081cc1b2.jpg",
@@ -202,189 +288,45 @@
       "started_trending": "2026-10-09T00:23:35Z",
       "first_seen": "2026-10-09T00:23:35Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "tbvsdal",
-      "rank": 7,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-09T01:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-09T02:23:31Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#TBvsDAL",
-      "description": "The hashtag #TBvsDAL is trending as fans and players arrive for the Week 5 matchup between the Buccaneers and Cowboys, including a nod to the Dallas Stars.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23TBvsDAL",
-      "image_url": "https://winnersandwhiners.com/wp-content/uploads/2026/08/2026-08-16T032554Z_314386985_MT1USATODAY29595669_RTRMADP_3_NFL-DALLAS-COWBOYS-AT-SEATTLE-SEAHAWKS-2048x1365.jpg.webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T01:23:33Z",
-      "first_seen": "2026-10-09T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "al-michaels",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T02:23:31Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Al Michaels",
-      "description": "Al Michaels is trending as NFL viewers and fans on social media call for his retirement following his broadcast commentary during the Thursday Night Football game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Al%20Michaels",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/al-michaels-netflix-egyptian-theatre.jpg?ve=1&tl=1",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T02:23:31Z",
-      "first_seen": "2026-10-09T02:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "turpin",
+      "id": "jerry",
       "rank": 9,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-09T02:23:31Z",
+          "t": "2026-10-09T03:23:34Z",
           "r": 9
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Turpin",
-      "description": "Turpin is trending in connection with high school sports coverage, including a girls junior varsity volleyball match.",
+      "topic": "Jerry",
+      "description": "Jerry Jones is trending after reports surfaced that the Cowboys owner helped a player get home for a life-changing moment.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Turpin",
-      "image_url": "https://www.foresthills.edu/layout/images/TurpinMascot.png",
+      "url": "https://twstalker.com/search/Jerry",
+      "image_url": "https://cdn.britannica.com/91/262491-050-F75E1981/Dallas-Cowboys-owner-Jerry-Jones-is-seen-on-the-field-prior-to-a-game-between-the-San-Francisco-49ers-and-Dallas-Cowboys-in-the-NFC-Wild-Card-Playoff-game-at-ATT-Stadium-on-January-16-2022-in-Arlington-Texas.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T02:23:31Z",
-      "first_seen": "2026-10-09T02:23:31Z",
+      "started_trending": "2026-10-09T03:23:34Z",
+      "first_seen": "2026-10-09T03:23:34Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
+      "last_seen": "2026-10-09T03:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bibee",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T02:23:31Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bibee",
-      "description": "Bibee is trending as the Guardians face a win-or-go-home ALDS Game 4 against the White Sox.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bibee",
-      "image_url": "https://nbcsports.brightspotcdn.com/dims4/default/300c98b/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https://nbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com/brightspot/a3/e8/c1f1fc0544f984d0c4ce400311fa/009-bibee-tanner-800x1080-no-bg.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T02:23:31Z",
-      "first_seen": "2026-10-09T02:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "willie",
-      "rank": 11,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-08T20:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-08T21:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-08T22:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-08T23:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-09T00:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-09T01:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-09T02:23:31Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Willie",
-      "description": "Willie Nelson is trending after fans reacted to his clean-cut look without a beard, alongside news concerning Willie Lampkin and Willie Colón.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Willie",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-10/241022-willie-nelson-vl-234p-872cbf.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-08T16:23:34Z",
-      "first_seen": "2026-10-08T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dak-prescott",
-      "rank": 12,
+      "rank": 10,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -395,12 +337,16 @@
         {
           "t": "2026-10-09T02:23:31Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 10
         }
       ],
-      "rank_change": 8,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Dak Prescott",
-      "description": "Dak Prescott is trending following recent personal headlines and his performance on the field for the Cowboys.",
+      "description": "Cowboys quarterback Dak Prescott is generating discussion online surrounding recent personal headlines alongside his team's game against Tampa Bay.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dak%20Prescott",
       "image_url": "https://ekcfbmsotzc.exactdn.com/en/blog/wp-content/uploads/2024/10/nfl-dak-prescott-cowboys-betmgm.jpg?strip=all",
@@ -408,7 +354,110 @@
       "started_trending": "2026-10-09T01:23:33Z",
       "first_seen": "2026-10-09T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ceedee",
+      "rank": 11,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-09T01:23:33Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-09T02:23:31Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Ceedee",
+      "description": "Cowboys star wide receiver CeeDee Lamb is trending after exiting Thursday night's game against the Buccaneers with a quad injury.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ceedee",
+      "image_url": "https://cowboyswire.usatoday.com/gcdn/authoring/authoring-images/2025/05/08/USAT/83511018007-usatsi-24604242.jpg?width=882&height=1320&fit=crop&format=pjpg&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T01:23:33Z",
+      "first_seen": "2026-10-09T01:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tbvsdal",
+      "rank": 12,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-09T01:23:33Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-09T02:23:31Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "#TBvsDAL",
+      "description": "Fans are buzzing online under the hashtag as the Dallas Cowboys and Tampa Bay Buccaneers face off in a high-profile Thursday Night Football clash.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23TBvsDAL",
+      "image_url": "https://winnersandwhiners.com/wp-content/uploads/2026/08/2026-08-16T032554Z_314386985_MT1USATODAY29595669_RTRMADP_3_NFL-DALLAS-COWBOYS-AT-SEATTLE-SEAHAWKS-2048x1365.jpg.webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T01:23:33Z",
+      "first_seen": "2026-10-09T01:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "schotty",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Schotty",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Schotty",
+      "image_url": "https://atozsports.com/wp-content/uploads/2025/09/USATSI_27083163.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T03:23:34Z",
+      "first_seen": "2026-10-09T03:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-09T03:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -417,7 +466,7 @@
     },
     {
       "id": "buccaneers",
-      "rank": 13,
+      "rank": 14,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -436,12 +485,16 @@
         {
           "t": "2026-10-09T02:23:31Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Buccaneers",
-      "description": "The Buccaneers are trending ahead of their Thursday Night Football game against the Cowboys, featuring roster updates on players like Rueben Bain Jr. and Ko Kieft.",
+      "description": "The Tampa Bay Buccaneers are trending across social media during their Week 5 Thursday Night Football matchup against the Dallas Cowboys.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Buccaneers",
       "image_url": "https://cdn.bucsreport.com/wp-content/uploads/2026/08/Screenshot_20260823_081118_Buccaneers-scaled.jpg",
@@ -449,131 +502,102 @@
       "started_trending": "2026-10-08T23:23:32Z",
       "first_seen": "2026-10-08T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jose-ramirez",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "turpin",
+      "rank": 15,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-09T02:23:31Z",
-          "r": 14
+          "r": 9
+        },
+        {
+          "t": "2026-10-09T03:23:34Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jose Ramirez",
-      "description": "José Ramírez is trending after hitting a clutch two-run blast to keep the Guardians alive in the ALDS.",
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Turpin",
+      "description": "KaVontae Turpin is drawing attention following a contested 15-yard catch for the Dallas Cowboys in the fourth quarter against Tampa Bay.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jose%20Ramirez",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/3b3f8ce0d16b6d3c224f963e14cbe825b6aaebd7c61328c198acf5a150367742/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/heavy_214/99ac2fb0fa43ae6d14d22e617ab2cddd.jpg",
+      "url": "https://twstalker.com/search/Turpin",
+      "image_url": "https://www.foresthills.edu/layout/images/TurpinMascot.png",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-09T02:23:31Z",
       "first_seen": "2026-10-09T02:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "embiid",
-      "rank": 15,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "id": "al-michaels",
+      "rank": 16,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
-          "t": "2026-10-09T01:23:33Z",
-          "r": 4
+          "t": "2026-10-09T02:23:31Z",
+          "r": 8
         },
         {
-          "t": "2026-10-09T02:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Embiid",
-      "description": "Joel Embiid is trending ahead of his scheduled return to play after picking up a technical foul in the preseason against the Nets.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Embiid",
-      "image_url": "https://cdn.theathletic.com/app/uploads/2023/10/30021842/USATSI_21772012-scaled.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T01:23:33Z",
-      "first_seen": "2026-10-09T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "todd-bowles",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T02:23:31Z",
+          "t": "2026-10-09T03:23:34Z",
           "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Todd Bowles",
-      "description": "Todd Bowles is trending as social media and sports analysts question his job security amid the Buccaneers' struggles.",
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Al Michaels",
+      "description": "Broadcaster Al Michaels is facing harsh criticism on social media from viewers urging him to retire following his commentary during the Thursday night game.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Todd%20Bowles",
-      "image_url": "https://www.yardbarker.com/media/9/9/9942f650058c07cea853a3f9c582f827fa87e4ce/thumb_16x9/todd-bowles-confirms-baker-mayfield-timeline.jpg?v=1",
+      "url": "https://twstalker.com/search/Al%20Michaels",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/al-michaels-netflix-egyptian-theatre.jpg?ve=1&tl=1",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-09T02:23:31Z",
       "first_seen": "2026-10-09T02:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "ceedee",
+      "id": "pickens",
       "rank": 17,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-09T01:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-09T02:23:31Z",
+          "t": "2026-10-09T03:23:34Z",
           "r": 17
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Ceedee",
-      "description": "CeeDee Lamb is trending after debuting custom Nike cowboy cleats and look ahead of the game.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pickens",
+      "description": "Cowboys wide receiver George Pickens is trending after a key connection with Dak Prescott and scoring a late touchdown against Tampa Bay.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ceedee",
-      "image_url": "https://cowboyswire.usatoday.com/gcdn/authoring/authoring-images/2025/05/08/USAT/83511018007-usatsi-24604242.jpg?width=882&height=1320&fit=crop&format=pjpg&auto=webp",
+      "url": "https://twstalker.com/search/Pickens",
+      "image_url": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_675,w_1200,x_0,y_0/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/5/0/502cc34ff303f87db0c5cfedbc97d8f97ff705b2/george-pickens-cowboys-commanders-september-2026.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T01:23:33Z",
-      "first_seen": "2026-10-09T01:23:33Z",
+      "started_trending": "2026-10-09T03:23:34Z",
+      "first_seen": "2026-10-09T03:23:34Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
+      "last_seen": "2026-10-09T03:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -581,28 +605,28 @@
       "extra": {}
     },
     {
-      "id": "vogt",
+      "id": "tampa-bay",
       "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-09T02:23:31Z",
+          "t": "2026-10-09T03:23:34Z",
           "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Vogt",
-      "description": "Stephen Vogt is trending as analysts discuss the Guardians' lineup and struggles facing a 0-2 deficit in the ALDS.",
+      "topic": "Tampa Bay",
+      "description": "The Tampa Bay team is trending as they prepare for and play their Week 5 Thursday Night Football away game against the Dallas Cowboys.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Vogt",
-      "image_url": "https://www.guardiansnation.com/wp-content/uploads/2025/10/stephen-vogt-5-scaled.jpg",
+      "url": "https://twstalker.com/search/Tampa%20Bay",
+      "image_url": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2023/06/tampa-bay-buccaneers-huddle.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T02:23:31Z",
-      "first_seen": "2026-10-09T02:23:31Z",
+      "started_trending": "2026-10-09T03:23:34Z",
+      "first_seen": "2026-10-09T03:23:34Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
+      "last_seen": "2026-10-09T03:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -610,28 +634,28 @@
       "extra": {}
     },
     {
-      "id": "patrick-bailey",
+      "id": "mingo",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-09T02:23:31Z",
+          "t": "2026-10-09T03:23:34Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Patrick Bailey",
-      "description": "Patrick Bailey is trending after being absent from the Guardians' ALDS Game 4 lineup.",
+      "topic": "Mingo",
+      "description": "Cowboys wide receiver Jonathan Mingo is trending after being confirmed active for the team's matchup against Tampa Bay.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Patrick%20Bailey",
-      "image_url": "https://l450v.alamy.com/450v/3bkt9d2/june-22-2025-san-francisco-ca-usa-san-francisco-catcher-patrick-bailey-14-walks-to-the-dugout-during-the-mlb-game-between-the-boston-red-sox-and-the-san-francisco-giants-at-oracle-park-san-francisco-calif-thurman-jamescsm-3bkt9d2.jpg",
+      "url": "https://twstalker.com/search/Mingo",
+      "image_url": "https://www.totalprosports.com/wp-content/uploads/2024/11/Jonathan-Mingo-3-2048x1365.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T02:23:31Z",
-      "first_seen": "2026-10-09T02:23:31Z",
+      "started_trending": "2026-10-09T03:23:34Z",
+      "first_seen": "2026-10-09T03:23:34Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
+      "last_seen": "2026-10-09T03:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -639,39 +663,31 @@
       "extra": {}
     },
     {
-      "id": "mike-rogers",
+      "id": "going-for-2",
       "rank": 20,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-09T00:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-09T01:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-09T02:23:31Z",
+          "t": "2026-10-09T03:23:34Z",
           "r": 20
         }
       ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "Mike Rogers",
-      "description": "Mike Rogers is trending as he and Abdul El-Sayed face off in their first debate for the Michigan U.S. Senate race.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Going for 2",
+      "description": "The provided material does not contain enough information to explain why this topic is currently trending on social media.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mike%20Rogers",
-      "image_url": "https://pbs.twimg.com/media/HJaKTtsXIAQxFM0.jpg",
+      "url": "https://twstalker.com/search/Going%20for%202",
+      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2024/09/09-19-24-ohtani-image.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T00:23:35Z",
-      "first_seen": "2026-10-09T00:23:35Z",
+      "started_trending": "2026-10-09T03:23:34Z",
+      "first_seen": "2026-10-09T03:23:34Z",
       "published": null,
-      "last_seen": "2026-10-09T02:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-09T03:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
