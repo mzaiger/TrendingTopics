@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-09T23:24:47Z",
+  "updated": "2026-10-10T00:25:18Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-09T23:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Putin",
-      "description": "President Trump announced a major deal with Putin to supply Russian diesel to the U.S. and global markets, easing sanctions and sparking fierce criticism from Ukraine and President Zelensky.",
+      "description": "President Trump struck a deal with Vladimir Putin for Russian diesel amid massive price spikes, while critics like Zelensky slammed the agreement.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Putin",
       "image_url": "https://1898383215.rsc.cdn77.org/dt/a/o/5604fd19d3904322198b4585.jpg",
@@ -33,7 +37,7 @@
       "started_trending": "2026-10-09T22:23:33Z",
       "first_seen": "2026-10-09T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
+      "last_seen": "2026-10-10T00:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -41,8 +45,124 @@
       "extra": {}
     },
     {
-      "id": "nancy",
+      "id": "louisville",
       "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Louisville",
+      "description": "The Louisville Cardinals face off against the Florida State Seminoles in a college football matchup, while the region also tracks Hurricane Isaias forecasts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Louisville",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5cDuMc6SLM3DNhmKpjdA0LnShrT2iYLtbCmhyphenhyphensRfQUjPqdTb00A19gWwyiuwSppgseqgIYokE0Gao_nvjiTBaiXESCiaGnwDr8q3XI1naH_zpUXYAYsvcH3MVSZGzGYCuR8tRe_fS-m6RbeQPFmxh1oMdv2NGTQQdqkmEIyf_dO6F3lt8TIdP9ut5aSpb/s720/Polish_20261004_120517040.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "smackdown",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#SmackDown",
+      "description": "WWE's weekly show is trending as fans and analysts share results, highlights, and previews leading into the Money in the Bank ladder matches.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23SmackDown",
+      "image_url": "https://www.sportszion.com/wp-content/uploads/2023/10/wwe-smackdown-history2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "isaac-brown",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Isaac Brown",
+      "description": "Keyjuan Brown's injury status is a major talking point ahead of the Louisville Cardinals' game against Florida State.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Isaac%20Brown",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/5/ba/5ba6cd5f-4234-4f06-96f2-6db10c7ddb7c/69090c9ee0ca0.image.jpg?resize=750,500",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "norvell",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Norvell",
+      "description": "Mike Norvell and the Florida State Seminoles prepare to face the Louisville Cardinals in an upcoming college football game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Norvell",
+      "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2026/01/01211523/01-02-26-1920x1354.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nancy",
+      "rank": 6,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -53,12 +173,16 @@
         {
           "t": "2026-10-09T23:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 6
         }
       ],
-      "rank_change": 2,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Nancy",
-      "description": "Social media discussions mention various news items involving individuals named Nancy, including political updates and a recent obituary.",
+      "description": "The name is trending across multiple local and national news stories, including discussions surrounding political figures and community elections.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Nancy",
       "image_url": "https://media.francerent.com/articles/Cities/Nancy/nancy-a-tapestry-of-art-history-and-innovation-2.jpg",
@@ -66,7 +190,7 @@
       "started_trending": "2026-10-09T22:23:33Z",
       "first_seen": "2026-10-09T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
+      "last_seen": "2026-10-10T00:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -74,57 +198,74 @@
       "extra": {}
     },
     {
-      "id": "panama",
-      "rank": 3,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "id": "angel-reese",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-09T18:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-09T19:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-09T20:23:30Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-09T21:23:31Z",
-          "r": 2
-        },
+          "t": "2026-10-10T00:23:31Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Angel Reese",
+      "description": "Angel Reese is making major waves during her WNBA playoff debut, drawing heavy media attention and comparisons.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Angel%20Reese",
+      "image_url": "https://www.cheatsheet.com/wp-content/uploads/2026/10/Screenshot-of-Angel-Reese-1.webp?w=1200",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mike-tyson",
+      "rank": 8,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
         {
           "t": "2026-10-09T22:23:33Z",
-          "r": 2
+          "r": 10
         },
         {
           "t": "2026-10-09T23:23:33Z",
-          "r": 3
+          "r": 7
+        },
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 8
         }
       ],
-      "rank_change": -1,
+      "rank_change": 2,
       "is_new": false,
-      "topic": "Panama",
-      "description": "A strong 7.7-magnitude earthquake struck Panama, causing building damage and triggering a series of aftershocks and a tsunami alert.",
+      "topic": "Mike Tyson",
+      "description": "Mike Tyson is trending after joining Donald Trump at a Syracuse rally and claiming he delivered a letter from Sean 'Diddy' Combs to the president.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Panama",
-      "image_url": "https://www.smartraveller.gov.au/sites/default/files/2019-09/panama-map-1oct2019.png",
+      "url": "https://twstalker.com/search/Mike%20Tyson",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/mike-tyson-looks-on-prior-to-the-heavyweight-fight-between-news-photo-1716476934.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T18:23:31Z",
-      "first_seen": "2026-10-09T18:23:31Z",
+      "started_trending": "2026-10-09T22:23:33Z",
+      "first_seen": "2026-10-09T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "zelensky",
-      "rank": 4,
+      "rank": 9,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -135,12 +276,16 @@
         {
           "t": "2026-10-09T23:23:33Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 9
         }
       ],
-      "rank_change": 14,
+      "rank_change": 9,
       "is_new": false,
       "topic": "Zelensky",
-      "description": "Ukrainian President Zelensky strongly criticized President Trump's new deal with Putin to supply Russian diesel to global markets, calling the decision unfair, weak, and unworthy.",
+      "description": "Ukrainian President Zelensky strongly criticized Donald Trump's new oil and diesel deal with Vladimir Putin, calling it unfair and unworthy.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Zelensky",
       "image_url": "https://cdn.britannica.com/13/270413-050-F89F0B0C/ukraine-president-volodymyr-zenesky-speaks-at-press-conference-march-15-2025.jpg",
@@ -148,7 +293,7 @@
       "started_trending": "2026-10-09T22:23:33Z",
       "first_seen": "2026-10-09T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
+      "last_seen": "2026-10-10T00:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -156,57 +301,297 @@
       "extra": {}
     },
     {
-      "id": "mike-ditka",
-      "rank": 5,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "id": "florida-state",
+      "rank": 10,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
-          "t": "2026-10-09T18:23:31Z",
-          "r": 1
+          "t": "2026-10-09T23:23:33Z",
+          "r": 19
         },
         {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Florida State",
+      "description": "The Florida State Seminoles prepare for a high-profile college football clash against Louisville while officials monitor Hurricane Isaias threats.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Florida%20State",
+      "image_url": "https://i.ytimg.com/vi/5-g9zqZP_hs/maxresdefault.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T23:23:33Z",
+      "first_seen": "2026-10-09T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rebecca-lobo",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Rebecca Lobo",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rebecca%20Lobo",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/1200/675/ESPN-Rebecca-Lobo.jpg?ve=1&tl=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "danzy",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Danzy",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Danzy",
+      "image_url": "https://images2.minutemediacdn.com/image/upload/f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/nole_gameday/01k56zkh9s7t25h1406w.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jeff-brohm",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jeff Brohm",
+      "description": "Jeff Brohm and the Louisville Cardinals prepare to host the Florida State Seminoles in a high-stakes ACC Friday night football matchup.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jeff%20Brohm",
+      "image_url": "https://www.courier-journal.com/gcdn/authoring/authoring-images/2025/10/07/USAT/86566242007-2236763688.jpg?crop=4989,2806,x0,y144&width=3200&height=1800&format=pjpg&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "knightsofguinevere",
+      "rank": 14,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-09T23:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "#knightsofguinevere",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23knightsofguinevere",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BNzYxYTNiYjctOGMyNC00NzAzLWJkZmQtNGZjYjM5OThmMjc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-09T23:23:33Z",
+      "first_seen": "2026-10-09T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "panama",
+      "rank": 15,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
           "t": "2026-10-09T19:23:33Z",
-          "r": 1
+          "r": 2
         },
         {
           "t": "2026-10-09T20:23:30Z",
-          "r": 1
+          "r": 2
         },
         {
           "t": "2026-10-09T21:23:31Z",
-          "r": 1
+          "r": 2
         },
         {
           "t": "2026-10-09T22:23:33Z",
-          "r": 3
+          "r": 2
         },
         {
           "t": "2026-10-09T23:23:33Z",
-          "r": 5
+          "r": 3
+        },
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 15
         }
       ],
-      "rank_change": -4,
+      "rank_change": -13,
       "is_new": false,
-      "topic": "Mike Ditka",
-      "description": "Mike Ditka, the legendary Pro Football Hall of Famer, tight end, and Super Bowl-winning coach of the Chicago Bears, has passed away at the age of 86.",
+      "topic": "Panama",
+      "description": "A powerful 7.7-magnitude earthquake struck Panama, triggering aftershocks, minor building damage, and disruptions to power and travel.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mike%20Ditka",
-      "image_url": "https://image-cdn.essentiallysports.com/wp-content/uploads/imago0022779418h.jpg.jpeg",
+      "url": "https://twstalker.com/search/Panama",
+      "image_url": "https://www.smartraveller.gov.au/sites/default/files/2019-09/panama-map-1oct2019.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T15:23:35Z",
-      "first_seen": "2026-10-09T15:23:35Z",
+      "started_trending": "2026-10-09T18:23:31Z",
+      "first_seen": "2026-10-09T18:23:31Z",
       "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ditka",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ditka",
+      "description": "Legendary Chicago Bears coach and Hall of Fame tight end Mike Ditka has passed away at the age of 86.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ditka",
+      "image_url": "https://www.nxsmediawire.com/wp-content/uploads/sites/107/2026/10/Mike-Ditka-AP24047082415696.jpg?resize=160",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "noles",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Noles",
+      "description": "Florida State fans are buzzing as the Noles prepare for a primetime ACC Friday night football clash against the Louisville Cardinals.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Noles",
+      "image_url": "https://cdn.vox-cdn.com/thumbor/R9GFVOWolbmZD8ca71jfzAWOUjM=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/4290411/11.0.JPG",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ashton-daniels",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ashton Daniels",
+      "description": "Ashton Daniels is generating buzz after breaking records and driving the Florida State running attack ahead of the Louisville game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ashton%20Daniels",
+      "image_url": "https://www.mercurynews.com/wp-content/uploads/2023/11/BNG-L-STANFBC-1102.jpg?w=862",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "katie-zacharia",
-      "rank": 6,
+      "rank": 19,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -229,12 +614,16 @@
         {
           "t": "2026-10-09T23:23:33Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 19
         }
       ],
-      "rank_change": -3,
+      "rank_change": -16,
       "is_new": false,
       "topic": "Katie Zacharia",
-      "description": "President Trump has selected commentator Katie Zacharia to replace Karoline Leavitt as the next White House press secretary.",
+      "description": "Donald Trump has selected commentator Katie Zacharia to replace Karoline Leavitt as the new White House Press Secretary.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Katie%20Zacharia",
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/katie-zacharia.png?ve=1&tl=1",
@@ -242,7 +631,7 @@
       "started_trending": "2026-10-09T19:23:33Z",
       "first_seen": "2026-10-09T19:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
+      "last_seen": "2026-10-10T00:23:31Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -250,370 +639,24 @@
       "extra": {}
     },
     {
-      "id": "mike-tyson",
-      "rank": 7,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Mike Tyson",
-      "description": "Former heavyweight boxing champion Mike Tyson joined Donald Trump at a rally in Syracuse and reported that he hand-delivered a letter from Sean 'Diddy' Combs to the president.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mike%20Tyson",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/mike-tyson-looks-on-prior-to-the-heavyweight-fight-between-news-photo-1716476934.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T22:23:33Z",
-      "first_seen": "2026-10-09T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "knightsofguinevere",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#knightsofguinevere",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23knightsofguinevere",
-      "image_url": "https://m.media-amazon.com/images/M/MV5BNzYxYTNiYjctOGMyNC00NzAzLWJkZmQtNGZjYjM5OThmMjc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T23:23:33Z",
-      "first_seen": "2026-10-09T23:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "colbert",
-      "rank": 9,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Colbert",
-      "description": "Social media users are discussing high school sports matchups alongside reports involving a British music star who offered to be Stephen Colbert's late-night bandleader.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Colbert",
-      "image_url": "https://www.rollingstone.de/wp-content/uploads/2025/07/GettyImages-2221626038.jpeg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T22:23:33Z",
-      "first_seen": "2026-10-09T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "layne-riggs",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Layne Riggs",
-      "description": "NASCAR driver Layne Riggs is trending after topping practice and winning Stage 1 at Charlotte in the Truck Series, while managing pit road and balance struggles.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Layne%20Riggs",
-      "image_url": "https://kickinthetires.net/wp-content/uploads/2025/09/riggs.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T23:23:33Z",
-      "first_seen": "2026-10-09T23:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "charlie-kirk",
-      "rank": 11,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-09T18:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-09T19:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-09T20:23:30Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-09T21:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Charlie Kirk",
-      "description": "Supporters are remembering late Turning Point USA founder Charlie Kirk during a campus tour, a year after his death, while political discussions focus on midterms and 2028 presidential prospects.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Charlie%20Kirk",
-      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/09/10/USAT/86080964007-9729.jpg?crop=4499",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T14:23:35Z",
-      "first_seen": "2026-10-09T14:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "solomon",
-      "rank": 12,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Solomon",
-      "description": "Chessmaster Solomon won the third character vote in the Deadlock City Never Sleeps update, trending alongside other news and local obituaries.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Solomon",
-      "image_url": "https://i.pinimg.com/originals/9c/22/ec/9c22ec8007d63239d9ba8c68da640a61.webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T22:23:33Z",
-      "first_seen": "2026-10-09T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "stargate",
-      "rank": 13,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-09T21:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Stargate",
-      "description": "Amazon is developing a new 'Stargate' television series with 'WandaVision' creator Jac Schaeffer.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Stargate",
-      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/11/Stargate-Daniel-Jackson-and-Atlantis-Gate.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T21:23:31Z",
-      "first_seen": "2026-10-09T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sbrs",
-      "rank": 14,
+      "id": "matpat",
+      "rank": 20,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
         {
-          "t": "2026-10-09T21:23:31Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "SBRs",
-      "description": "Following an NRA victory in Jensen v. ATF, the ATF officially ended enforcement of NFA registration and approval requirements for suppressors, SBRs, SBSs, and AOWs nationwide.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/SBRs",
-      "image_url": "https://lirp-cdn.multiscreensite.com/cadac795/dms3rep/multi/opt/GettyImages-696721902-1920w.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T21:23:31Z",
-      "first_seen": "2026-10-09T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "congratulations-katie",
-      "rank": 15,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Congratulations Katie",
-      "description": "Social media posts celebrate various entertainment announcements, including Artios Awards nominees and a celebrity relationship reunion.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Congratulations%20Katie",
-      "image_url": "https://cdn.kami.com.ph/images/1120/a0b1e9fd7b9273f6.jpeg?v=1",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T22:23:33Z",
-      "first_seen": "2026-10-09T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "press-secretary",
-      "rank": 16,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-09T21:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Press Secretary",
-      "description": "President Trump has selected commentator Katie Zacharia to take over as the next White House press secretary, replacing Karoline Leavitt.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Press%20Secretary",
-      "image_url": "https://thecolorsmeaning.com/wp-content/uploads/2022/11/shades-white-color.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T21:23:31Z",
-      "first_seen": "2026-10-09T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "matpat",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
           "t": "2026-10-09T23:23:33Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "MatPat",
-      "description": "MatPat has partnered with Blumhouse and Epic Pictures to develop a live-action movie adaptation of the indie horror video game 'Amanda the Adventurer'.",
+      "description": "Matthew 'MatPat' Patrick is trending after partnering with Blumhouse to adapt the indie horror video game 'Amanda the Adventurer' into a movie.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/MatPat",
       "image_url": "https://media.nichegamer.com/wp-content/uploads/2024/01/matpat-game-theory-1-9-2023-1536x864.jpg",
@@ -621,113 +664,10 @@
       "started_trending": "2026-10-09T23:23:33Z",
       "first_seen": "2026-10-09T23:23:33Z",
       "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
+      "last_seen": "2026-10-10T00:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "crossworlds",
-      "rank": 18,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-09T21:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Crossworlds",
-      "description": "Announced free updates and DLC for 'Sonic Racing: CrossWorlds' Year Two include crossover content from Persona, Final Fantasy, Sanrio, and a Godzilla track.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Crossworlds",
-      "image_url": "https://sm.ign.com/t/ign_za/review/s/sonic-raci/sonic-racing-crossworlds-review_dhnt.1024.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T21:23:31Z",
-      "first_seen": "2026-10-09T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "florida-state",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Florida State",
-      "description": "The Florida State Seminoles prepare to face the Louisville Cardinals in an NCAA college football matchup amid injury reports and defensive scrutiny.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Florida%20State",
-      "image_url": "https://i.ytimg.com/vi/5-g9zqZP_hs/maxresdefault.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T23:23:33Z",
-      "first_seen": "2026-10-09T23:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kamu",
-      "rank": 20,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-09T21:23:31Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-09T23:23:33Z",
-          "r": 20
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Kamu",
-      "description": "The provided material lacks enough context to form a clear description of why this topic is trending.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kamu",
-      "image_url": "https://brtk.net/wp-content/uploads/2026/10/09/1791540877606kamu-is-serdaroglu-sevgi-evleri-aciklama-4-1536x865.jpg?ver=eb856efe74da0d9a524263504e4da6b8",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-09T21:23:31Z",
-      "first_seen": "2026-10-09T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-09T23:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     }
