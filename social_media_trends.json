@@ -1,15 +1,44 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-10T12:25:26Z",
+  "updated": "2026-10-10T13:24:45Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "good-saturday",
+      "id": "arsenal",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Arsenal",
+      "description": "Arsenal is trending as they prepare for a Premier League match against Leeds United, featuring team news updates and returning players.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Arsenal",
+      "image_url": "https://c8.alamy.com/comp/3CRKHFB/the-arsenal-team-line-up-for-a-team-photo-ahead-of-the-uefa-champions-league-match-arsenal-vs-olympiakos-fc-at-emirates-stadium-london-united-kingdom-1st-october-2025-photo-by-harvey-murphynews-images-3CRKHFB.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T13:23:30Z",
+      "first_seen": "2026-10-10T13:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-saturday",
+      "rank": 2,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -20,12 +49,16 @@
         {
           "t": "2026-10-10T12:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 2
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Good Saturday",
-      "description": "Weather forecasts and local morning shows are trending as people track a weekend severe storm threat and heavy rain across parts of the country.",
+      "description": "Good Saturday is trending as weather forecasts across various regions report on pleasant weekend conditions alongside impending storm alerts.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Saturday",
       "image_url": "https://www.creativefabrica.com/wp-content/uploads/2023/02/25/Its-a-Good-Day-to-Have-a-Good-Day-Graphics-62459567-1.jpg",
@@ -33,98 +66,7 @@
       "started_trending": "2026-10-10T11:23:31Z",
       "first_seen": "2026-10-10T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ukraine",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 2
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ukraine",
-      "description": "Ukraine is trending following deadly Russian attacks, ongoing discussions regarding international support and peace talks, and debates over a U.S.-Russia diesel deal.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ukraine",
-      "image_url": "https://gallery.yopriceville.com/var/albums/National-Flags/Ukraine_Large_Flag.png?m=1441195860",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "saka",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Saka",
-      "description": "Arsenal player Bukayo Saka is trending on social media as he returns to training ahead of the team's match against Leeds United.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Saka",
-      "image_url": "https://c8.alamy.com/comp/3FPX3B7/bukayo-saka-england-celebrates-after-scoring-a-goal-during-uefa-nations-league-2026-football-match-between-croatia-vs-england-at-stadium-hnk-rijeka-rijekafinal-score-croatia-07-england-3FPX3B7.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "beholdthemessiah",
-      "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-10T11:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#BeholdTheMessiah",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23BeholdTheMessiah",
-      "image_url": "https://ebornbooks.com/wp-content/uploads/2026/03/IMG_2963-scaled.jpeg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T11:23:31Z",
-      "first_seen": "2026-10-10T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
+      "last_seen": "2026-10-10T13:23:30Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -133,7 +75,7 @@
     },
     {
       "id": "leeds",
-      "rank": 5,
+      "rank": 3,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -144,12 +86,16 @@
         {
           "t": "2026-10-10T12:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 3
         }
       ],
-      "rank_change": 10,
+      "rank_change": 12,
       "is_new": false,
       "topic": "Leeds",
-      "description": "Leeds United is trending as fans discuss team lineups, live streaming details, and upcoming Premier League coverage for their match against Arsenal.",
+      "description": "Leeds United is trending ahead of their Premier League clash against Arsenal, with match predictions and team lineups generating discussion.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Leeds",
       "image_url": "https://cf-images.assettype.com/outlookindia/2025-08-24/nu6bvtvh/English-Premier-League-2025-26-Matchday-2-Arsenal-Vs-Leeds-United5.jpg?w=801&auto=format,compress&fit=max&format=webp&dpr=1.0",
@@ -157,7 +103,7 @@
       "started_trending": "2026-10-10T11:23:31Z",
       "first_seen": "2026-10-10T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
+      "last_seen": "2026-10-10T13:23:30Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -165,8 +111,268 @@
       "extra": {}
     },
     {
-      "id": "zelensky",
+      "id": "ukraine",
+      "rank": 4,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-10T12:23:34Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 4
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Ukraine",
+      "description": "Ukraine is trending following deadly Russian attacks and criticism of peace talks, which officials described as a smokescreen surrounding a U.S.-Russia diesel deal.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ukraine",
+      "image_url": "https://gallery.yopriceville.com/var/albums/National-Flags/Ukraine_Large_Flag.png?m=1441195860",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T12:23:34Z",
+      "first_seen": "2026-10-10T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "saka",
+      "rank": 5,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-10T12:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Saka",
+      "description": "Saka is trending as he returns to Arsenal training following international duty, ahead of the team's upcoming fixture.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Saka",
+      "image_url": "https://c8.alamy.com/comp/3FPX3B7/bukayo-saka-england-celebrates-after-scoring-a-goal-during-uefa-nations-league-2026-football-match-between-croatia-vs-england-at-stadium-hnk-rijeka-rijekafinal-score-croatia-07-england-3FPX3B7.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T12:23:34Z",
+      "first_seen": "2026-10-10T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "madueke",
       "rank": 6,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-10T12:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Madueke",
+      "description": "Madueke is trending after being named in Arsenal's confirmed starting lineup for their Premier League match against Leeds United.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Madueke",
+      "image_url": "https://dailypost.ng/wp-content/uploads/2025/07/Noni-Madueke.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T12:23:34Z",
+      "first_seen": "2026-10-10T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "arslee",
+      "rank": 7,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-10T12:23:34Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "#ARSLEE",
+      "description": "The hashtag #ARSLEE is trending as fans discuss the English Premier League match between Arsenal and Leeds United, including predicted lineups and live streams.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23ARSLEE",
+      "image_url": "https://cf-images.assettype.com/outlookindia/2026-09-10/8atagono/UEFAArsenalvsNapoli120260910.jpg?w=1200&amp;ar=40:21&amp;auto=format,compress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T12:23:34Z",
+      "first_seen": "2026-10-10T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "odegaard",
+      "rank": 8,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-10T12:23:34Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Odegaard",
+      "description": "Odegaard is trending after returning to Arsenal training and discussing manager Mikel Arteta's new contract in recent interviews.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Odegaard",
+      "image_url": "https://static0.footballfancastimages.com/wordpress/wp-content/uploads/2022/09/Martin-Odegaard-Arsenal-scaled-e1664018276538.jpeg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T12:23:34Z",
+      "first_seen": "2026-10-10T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "worldmentalhealthday",
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-10T12:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "#WorldMentalHealthDay",
+      "description": "World Mental Health Day is trending as organizations, companies, and individuals share tips, promote conversations, and advocate for cognitive well-being.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WorldMentalHealthDay",
+      "image_url": "https://media.assettype.com/freepressjournal/2026-10-10/e5xkahyh/World-Mental-Health-Day",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T12:23:34Z",
+      "first_seen": "2026-10-10T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "arteta",
+      "rank": 10,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-10T12:23:34Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Arteta",
+      "description": "Mikel Arteta is trending after addressing his past time at Manchester City amid ongoing league charges and preparing Arsenal for a new era.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Arteta",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/389f/live/8f7e3db0-bf0d-11ef-8911-252920fd10c8.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T12:23:34Z",
+      "first_seen": "2026-10-10T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bruno-g",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bruno G",
+      "description": "Bruno Mars is trending after being announced as part of Gillette Stadium's upcoming 2026 concert lineup.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bruno%20G",
+      "image_url": "https://portalpopline.com.br/wp-content/uploads/2026/01/bruno-mars-capa.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T13:23:30Z",
+      "first_seen": "2026-10-10T13:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "zelensky",
+      "rank": 12,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -181,12 +387,16 @@
         {
           "t": "2026-10-10T12:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 12
         }
       ],
-      "rank_change": 4,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Zelensky",
-      "description": "Ukrainian President Volodymyr Zelensky is trending after criticizing a U.S.-Russia diesel deal, calling it a gift to Putin that will not bring peace.",
+      "description": "Volodymyr Zelensky is trending after condemning a newly announced U.S.-Russia diesel deal negotiated by Donald Trump, calling it an unfair gift to Putin.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Zelensky",
       "image_url": "https://static.timesofisrael.com/www/uploads/2022/02/AP22055391963227.jpg",
@@ -194,7 +404,7 @@
       "started_trending": "2026-10-10T04:23:31Z",
       "first_seen": "2026-10-10T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
+      "last_seen": "2026-10-10T13:23:30Z",
       "hours_trending": 8,
       "volume": "8hr trend",
       "volume_value": 8,
@@ -202,8 +412,70 @@
       "extra": {}
     },
     {
+      "id": "lando",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lando",
+      "description": "Lando Norris is trending on social media following a dramatic last-lap crash with McLaren teammate Oscar Piastri during the Singapore Sprint.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Lando",
+      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/norris",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T13:23:30Z",
+      "first_seen": "2026-10-10T13:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "havertz",
+      "rank": 14,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-10T12:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Havertz",
+      "description": "Kai Havertz is trending after overcoming injury concerns from international duty to start in Arsenal's lineup against Leeds United.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Havertz",
+      "image_url": "https://www.nowarsenal.com/wp-content/uploads/2026/10/toolxox.com-free-ai-tools-3k-DtLmGN9jlq-copy.webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T12:23:34Z",
+      "first_seen": "2026-10-10T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "caturday",
-      "rank": 7,
+      "rank": 15,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -214,20 +486,24 @@
         {
           "t": "2026-10-10T12:23:34Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 15
         }
       ],
-      "rank_change": 4,
+      "rank_change": -4,
       "is_new": false,
-      "topic": "#Caturday",
-      "description": "Fans and sports programs are sharing posts using the hashtag Caturday ahead of upcoming college football matchups and events.",
+      "topic": "#caturday",
+      "description": "The term caturday is trending in connection with a collegiate sports event featuring Rifle starting a match against Murray State.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Caturday",
+      "url": "https://twstalker.com/search/%23caturday",
       "image_url": "https://cdn.vox-cdn.com/thumbor/blUu3TRT8fWpDrdDtTylSE7YCNE=/0x0:5180x2496/1200x800/filters:focal(2365x1571:3193x2399)/cdn.vox-cdn.com/uploads/chorus_image/image/61059991/38CAC29A_C3C1_4F21_8475_575D69E3AA79.0.jpeg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-10T11:23:31Z",
       "first_seen": "2026-10-10T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
+      "last_seen": "2026-10-10T13:23:30Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -235,28 +511,65 @@
       "extra": {}
     },
     {
-      "id": "havertz",
-      "rank": 8,
+      "id": "beholdthemessiah",
+      "rank": 16,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-10T11:23:31Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-10T12:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -14,
+      "is_new": false,
+      "topic": "#BeholdTheMessiah",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23BeholdTheMessiah",
+      "image_url": "https://ebornbooks.com/wp-content/uploads/2026/03/IMG_2963-scaled.jpeg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T11:23:31Z",
+      "first_seen": "2026-10-10T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T13:23:30Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "putin",
+      "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 8
+          "t": "2026-10-10T13:23:30Z",
+          "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Havertz",
-      "description": "Kai Havertz is trending as news confirms he is starting for Arsenal against Leeds United despite picking up recent injuries on international duty.",
+      "topic": "Putin",
+      "description": "Vladimir Putin is trending following a newly struck energy deal with the U.S. to release Russian diesel, drawing sharp criticism from Ukraine.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Havertz",
-      "image_url": "https://www.nowarsenal.com/wp-content/uploads/2026/10/toolxox.com-free-ai-tools-3k-DtLmGN9jlq-copy.webp",
+      "url": "https://twstalker.com/search/Putin",
+      "image_url": "https://static.independent.co.uk/2024/09/26/04/SEI223164131.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
+      "started_trending": "2026-10-10T13:23:30Z",
+      "first_seen": "2026-10-10T13:23:30Z",
       "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
+      "last_seen": "2026-10-10T13:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -264,28 +577,28 @@
       "extra": {}
     },
     {
-      "id": "madueke",
-      "rank": 9,
+      "id": "noni",
+      "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 9
+          "t": "2026-10-10T13:23:30Z",
+          "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Madueke",
-      "description": "Madueke is trending as football fans discuss confirmed lineups and team news ahead of Arsenal's Premier League match against Leeds United.",
+      "topic": "Noni",
+      "description": "Noni is trending in discussions surrounding Arsenal's confirmed starting lineup and team news ahead of their match against Leeds United.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Madueke",
-      "image_url": "https://dailypost.ng/wp-content/uploads/2025/07/Noni-Madueke.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
+      "url": "https://twstalker.com/search/Noni",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-10T13:23:30Z",
+      "first_seen": "2026-10-10T13:23:30Z",
       "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
+      "last_seen": "2026-10-10T13:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -293,57 +606,32 @@
       "extra": {}
     },
     {
-      "id": "worldmentalhealthday",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "gyokeres",
+      "rank": 19,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-10-10T12:23:34Z",
-          "r": 10
+          "r": 13
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#WorldMentalHealthDay",
-      "description": "Social media users are observing World Mental Health Day by sharing messages encouraging people to talk, listen, and prioritize their mental well-being.",
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Gyokeres",
+      "description": "Viktor Gyokeres is trending after returning to Arsenal training following international duty, with fans eager to see him perform for the club.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23WorldMentalHealthDay",
-      "image_url": "https://media.assettype.com/freepressjournal/2026-10-10/e5xkahyh/World-Mental-Health-Day",
+      "url": "https://twstalker.com/search/Gyokeres",
+      "image_url": "https://assets.goal.com/images/v3/blt300c1d554e129618/GOAL+-+Blank+WEB+-+Facebook(3037).jpeg?auto=webp&format=pjpg&width=3840&quality=60",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-10T12:23:34Z",
       "first_seen": "2026-10-10T12:23:34Z",
       "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "arslee",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ARSLEE",
-      "description": "Football fans are discussing live streams, TV channels, and predicted lineups for the Premier League fixture between Arsenal and Leeds United.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23ARSLEE",
-      "image_url": "https://cf-images.assettype.com/outlookindia/2026-09-10/8atagono/UEFAArsenalvsNapoli120260910.jpg?w=1200&amp;ar=40:21&amp;auto=format,compress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
+      "last_seen": "2026-10-10T13:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -352,7 +640,7 @@
     },
     {
       "id": "saturdayvibes",
-      "rank": 12,
+      "rank": 20,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -363,9 +651,13 @@
         {
           "t": "2026-10-10T12:23:34Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-10T13:23:30Z",
+          "r": 20
         }
       ],
-      "rank_change": -6,
+      "rank_change": -14,
       "is_new": false,
       "topic": "#SaturdayVibes",
       "description": "",
@@ -376,250 +668,10 @@
       "started_trending": "2026-10-10T11:23:31Z",
       "first_seen": "2026-10-10T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
+      "last_seen": "2026-10-10T13:23:30Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gyokeres",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Gyokeres",
-      "description": "Viktor Gyokeres is trending as he returns to training with Arsenal and fans discuss his potential impact following his performances for Sweden.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gyokeres",
-      "image_url": "https://assets.goal.com/images/v3/blt300c1d554e129618/GOAL+-+Blank+WEB+-+Facebook(3037).jpeg?auto=webp&format=pjpg&width=3840&quality=60",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "perth-journey-infinity-love",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "PERTH JOURNEY INFINITY LOVE",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/PERTH%20JOURNEY%20INFINITY%20LOVE",
-      "image_url": "https://i.pinimg.com/736x/91/23/c4/9123c43fc15da94e45b69887df1bee4d.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "myron",
-      "rank": 15,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-10T11:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Myron",
-      "description": "Myron is trending following political discussions around a Republican attack ad's misidentification and news concerning sports and labor representatives.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Myron",
-      "image_url": "https://www.sun-sentinel.com/wp-content/uploads/2026/10/Myron.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T11:23:31Z",
-      "first_seen": "2026-10-10T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "odegaard",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Odegaard",
-      "description": "Martin Odegaard is trending on social media as he returns to Arsenal training and discusses Mikel Arteta's new contract.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Odegaard",
-      "image_url": "https://static0.footballfancastimages.com/wordpress/wp-content/uploads/2022/09/Martin-Odegaard-Arsenal-scaled-e1664018276538.jpeg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "orm-chato-dancing-flower",
-      "rank": 17,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-10T11:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "ORM CHATO DANCING FLOWER",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/ORM%20CHATO%20DANCING%20FLOWER",
-      "image_url": "https://png.pngtree.com/background/20230604/original/pngtree-happy-dancing-party-people-silhouettes-background-picture-image_2873000.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T11:23:31Z",
-      "first_seen": "2026-10-10T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "deen",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Deen",
-      "description": "Journey drummer Deen Castronovo is trending after reportedly suffering a medical emergency during a concert in Tulsa.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Deen",
-      "image_url": "https://therockrevival.com/wp-content/uploads/2026/10/journey-drummer-deen-castronova-medical-emergency-bok-center-tulsa-2026-2048x1152.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "arteta",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Arteta",
-      "description": "Arsenal manager Mikel Arteta is trending following team lineup announcements and his recent comments addressing past charges regarding Manchester City.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Arteta",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/389f/live/8f7e3db0-bf0d-11ef-8911-252920fd10c8.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lando-norris",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T12:23:34Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Lando Norris",
-      "description": "Lando Norris is trending after a dramatic last-lap collision with teammate Oscar Piastri during the Singapore Sprint race.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Lando%20Norris",
-      "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/norris",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T12:23:34Z",
-      "first_seen": "2026-10-10T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-10T12:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
