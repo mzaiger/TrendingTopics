@@ -43,7 +43,7 @@ event (or when you press **Run workflow** in the Actions tab).
 
 1. **Get the list**
    - Social media: one Apify call for the US top 20 (paid/promoted trends are dropped).
-   - Google: the public RSS feed. Reddit: the public r/popular RSS feed.
+   - Google: the public RSS feed. Reddit: the public r/popular RSS feed, or, when the feed fails, an Apify Reddit actor (2nd tier at most every 4 hours, 3rd tier at most every 8 hours, only if the 2nd just failed).
 2. **Description**
    - Google: Google's own news snippet, or the top news headline. Reddit: the post's own text.
    - Social media has no description of its own, so the script reads recent posts (Sotwe) and the
@@ -165,7 +165,7 @@ Settings -> Secrets and variables -> Actions -> **New repository secret**:
 
 | Secret | Used by |
 |---|---|
-| `APIFY_TOKEN` | social media trends (Apify Console -> Settings -> API & Integrations) |
+| `APIFY_TOKEN` | social media trends, and the Reddit fallback (Apify Console -> Settings -> API & Integrations) |
 | `GEMINI_KEY` | all three (same name as your SportsDashboard secret) |
 
 ### 3. Let workflows commit
@@ -216,12 +216,28 @@ while Google and Reddit keep going.
 
 ## Cost and limits
 
-- **Apify (social media only):** the actor charges per trend returned plus a small start fee. At 20
-  trends a run that is under a cent per run; **20 runs a day is roughly $4.50 a month**, inside the
-  free $5. Running a full 24 times a day is slightly over $5, which is why `SKIP_HOURS` skips 2-5 AM
-  Central by default. Prices change, so check the actor's page. Each run has a hard cap
-  (`APIFY_MAX_CHARGE_USD`, default $0.02). When the free credit runs out Apify refuses runs until next
-  month and the page keeps showing the last list.
+- **Apify (social media only):** the default actor, `lurkapi/x-twitter-trends-scraper`, charges
+  **$0.05 per 1,000 trends** and has no start fee: 20 trends is about $0.001 a run, so **24 runs a day
+  is roughly $0.72 a month**, far inside the free $5. It is a new actor with few users, so the script
+  falls back to `automation-lab/twitter-trends-scraper` (Free plan: $0.00023 per trend + $0.003 per run,
+  about $0.0076 a run) if the primary fails or returns nothing; you pay for the fallback only on those
+  runs. If you set `APIFY_ACTOR` to the automation-lab actor permanently, 24 runs a day is about $5.50 a
+  month, so put `SKIP_HOURS = [2, 3, 4, 5]` back in the Apps Script. Prices change, so check the actor's
+  page. Each run has a hard cap (`APIFY_MAX_CHARGE_USD`, default $0.02). When the free credit runs out
+  Apify refuses runs until next month and the page keeps showing the last list.
+- **Reddit:** the RSS feed is free, but **Reddit ends RSS support on 13 Nov 2026**. When the feed fails
+  (or after that date) the same top 25 come from Apify, in this order:
+  1. **2nd tier, `dami_studio/reddit-scraper`**, $0.50 per 1,000 posts, **at most once every 4 hours**:
+     6 runs x 25 posts x 30 days = 4,500 posts, about **$2.25 a month**. Its keyless mode reads Reddit's
+     public feed, so it may stop working on 13 Nov.
+  2. **3rd tier, `harshmaur/reddit-scraper-pro`** ("No RSS"), $0.005 start + $0.0015 per post (about
+     $0.0425 a run), **at most once every 8 hours, and only when the 2nd tier has just failed**: 3 runs x
+     30 days = about **$3.83 a month** if it ran all month.
+  Only one tier supplies the data each time, so the Apify total is never both added together. With the
+  social media actor (about $0.72): RSS working about **$0.72**; RSS gone and the 2nd tier working about
+  **$3.00**; RSS and the 2nd tier gone, 3rd tier carrying everything about **$4.55**, still inside the free
+  $5. When the timers say a tier is not due, the Reddit JSON is left as it is. The times each tier last
+  ran are stored in `reddit_trends.json` so a failing actor is not retried every hour.
 - **Gemini:** at most **one call per script per run** (so up to three per trigger, one per feed). It
   carries the missing descriptions and the image search words together, and is skipped when nothing is
   new.
@@ -263,13 +279,19 @@ the page then shows "No Image".
 | `APIFY_TOKEN` | social media | - | required |
 | `GEMINI_KEY` | all | - | required for social media; optional for the others |
 | `APIFY_TRENDS` | social media | 20 | trends requested per run (you pay per trend) |
-| `APIFY_LOCATION` | social media | US | location code |
-| `APIFY_ACTOR` | social media | set in the script | actor id |
+| `APIFY_LOCATION` | social media | united-states / US | location code (`united-states` for lurkapi, `US` for automation-lab) |
+| `APIFY_ACTOR` | social media | `lurkapi~x-twitter-trends-scraper` | primary actor id |
+| `APIFY_FALLBACK_ACTOR` | social media | `automation-lab~twitter-trends-scraper` | used only if the primary fails |
 | `APIFY_MAX_CHARGE_USD` | social media | 0.02 | spending cap per run |
 | `GOOGLE_TRENDS_GEO` | Google | US | country code |
 | `GOOGLE_KEEP_HOURS` | Google | 48 | hours a topic is kept after it was added; older ones are truncated |
-| `GOOGLE_TOP_N` | Google | 20 | how many topics the page shows, by search volume |
-| `REDDIT_FEED` | Reddit | r/popular RSS | any Reddit RSS URL |
+| `REDDIT_APIFY_ACTOR` | Reddit | `dami_studio~reddit-scraper` | 2nd-tier Apify actor, used when the RSS feed fails |
+| `REDDIT_APIFY_EVERY_HOURS` | Reddit | 4 | minimum hours between Apify runs |
+| `REDDIT_APIFY_MAX_CHARGE_USD` | Reddit | 0.05 | spending cap per 2nd-tier run |
+| `REDDIT_APIFY3_ACTOR` | Reddit | `harshmaur~reddit-scraper-pro` | 3rd-tier actor, used only when the 2nd tier fails |
+| `REDDIT_APIFY3_EVERY_HOURS` | Reddit | 8 | minimum hours between 3rd-tier runs |
+| `REDDIT_APIFY3_MAX_CHARGE_USD` | Reddit | 0.08 | spending cap per 3rd-tier run |
+| `REDDIT_FEED` | Reddit | r/popular RSS | RSS feed URL (tried first, every run) |
 | `REDDIT_TOP_N` | Reddit | 25 | posts kept |
 | `REDDIT_USER_AGENT` | Reddit | descriptive default | Reddit wants a real user agent |
 | `OUT_FILE` | all | the file names above | output path |
@@ -305,7 +327,9 @@ python -m http.server 8000       # then open http://localhost:8000
 | Apps Script log says 401 / 403 / 404 | Token wrong or expired, or it lacks **Contents: Read and write** on this repo. 404 also appears when the token can't see the repo. |
 | Dispatch works (204) but nothing runs | The workflow files aren't on the default branch, or Actions are disabled for the repo. |
 | `push failed` in a workflow log | Workflows finishing together can collide; each retries 5 times with a rebase. Re-run the failed one. |
-| Reddit tab empty, log says 403 / 429 | Reddit often blocks cloud IPs. The script then leaves the old file alone. Options: run `reddit_trends.py` from your own computer, or set `REDDIT_FEED` to a different feed. |
+| Reddit tab empty, log says 403 / 429 | Reddit blocks cloud IPs on the RSS feed at times, and ends RSS on 13 Nov 2026. The Apify fallback (needs `APIFY_TOKEN`) then takes over every 4 hours; or run `reddit_trends.py` from your own computer. |
+| Reddit log says "left as they are until the next slot" | The RSS feed is down and the Apify fallbacks are not due yet (4 h / 8 h gaps) or returned nothing; that is the cost limit working. |
+| Social media log says "Used the fallback actor" | The primary Apify actor failed or returned nothing; the fallback ran (about $0.0076). Check the primary actor's page if it keeps happening. |
 | Social media log says Apify 402 | The free credit is used up for the month. |
 | Social media log says Sotwe 403 | Sotwe blocked GitHub's IP; the script carries on with news headlines only. |
 | Images missing or wrong | DuckDuckGo rate limiting (see Images), or no candidate matched the topic. Re-running later usually fills gaps; a better Gemini query is the main lever. |

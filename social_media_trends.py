@@ -16,8 +16,9 @@ Env vars:
   APIFY_TOKEN          required
   GEMINI_KEY           required (same secret name as SportsDashboard)
   APIFY_TRENDS         optional, trends to request (default 20; you pay per trend)
-  APIFY_LOCATION       optional, default US
-  APIFY_ACTOR          optional, actor id (default below)
+  APIFY_LOCATION       optional, default united-states (lurkapi) / US (automation-lab)
+  APIFY_ACTOR          optional, primary actor id (default lurkapi~x-twitter-trends-scraper)
+  APIFY_FALLBACK_ACTOR optional, used only if the primary fails (default automation-lab~twitter-trends-scraper)
   APIFY_MAX_CHARGE_USD optional, hard spending cap per run (default 0.02)
   OUT_FILE             optional, default social_media_trends.json
   (image settings: see trend_common.ImageFinder - SKIP_IMAGES, IMAGE_MAX_LOOKUPS, DDG_PROXY ...)
@@ -45,10 +46,16 @@ MAX_CHARS = 1500          # post text sent to Gemini per topic (all topics share
 MAX_HEADLINES = 5
 PAGE_DELAY = 2.0          # seconds between requests to the same sites (be polite)
 
-# The one place the Apify actor id appears (the id itself is fixed by Apify).
-APIFY_ACTOR = os.environ.get("APIFY_ACTOR", "automation-lab~twitter-trends-scraper")
+# The one place the Apify actor ids appear (the ids themselves are fixed by Apify).
+# Primary: lurkapi, $0.05 per 1,000 trends, no start fee (20 trends = $0.001 a run, about $0.72 for a
+# month of hourly runs). It is a new actor, so if it errors or returns nothing the script falls back to
+# automation-lab (Free-plan price $0.00023 per trend + $0.003 start fee = about $0.0076 a run), which
+# you only pay for on those failed runs. Set APIFY_ACTOR to switch the primary yourself.
+APIFY_ACTOR = os.environ.get("APIFY_ACTOR", "lurkapi~x-twitter-trends-scraper")
+APIFY_FALLBACK_ACTOR = os.environ.get("APIFY_FALLBACK_ACTOR", "automation-lab~twitter-trends-scraper")
 APIFY_TOKEN = os.environ.get("APIFY_TOKEN")
-APIFY_LOCATION = os.environ.get("APIFY_LOCATION", "US")
+# Location codes differ by actor: "united-states" for lurkapi, "US" for automation-lab.
+APIFY_LOCATION = os.environ.get("APIFY_LOCATION", "")
 APIFY_TRENDS = int(os.environ.get("APIFY_TRENDS", "20"))
 APIFY_MAX_CHARGE = os.environ.get("APIFY_MAX_CHARGE_USD", "0.02")
 OUT_FILE = os.environ.get("OUT_FILE", "social_media_trends.json")
@@ -68,29 +75,48 @@ TASK = ("explain in one or two sentences why it is trending right now on social 
 
 # --------------------------------------------------------------------------- trends
 
-def get_trends() -> list[dict]:
-    """Top trends from the Apify actor, promoted ones removed, in rank order."""
-    url = f"https://api.apify.com/v2/acts/{APIFY_ACTOR}/run-sync-get-dataset-items"
+def _actor_input(actor: str) -> dict:
+    """Input for one actor. Only the fields every actor needs are sent, so no paid add-ons run."""
+    if "lurkapi" in actor:
+        return {"locations": [APIFY_LOCATION or "united-states"], "maxTrendsPerLocation": APIFY_TRENDS}
+    return {"locations": [APIFY_LOCATION or "US"], "maxTrendsPerLocation": APIFY_TRENDS}
+
+
+def _run_actor(actor: str) -> list:
+    url = f"https://api.apify.com/v2/acts/{actor}/run-sync-get-dataset-items"
     r = requests.post(
         url,
         params={"maxTotalChargeUsd": APIFY_MAX_CHARGE},   # hard cap on what one run can cost
         headers={"Authorization": f"Bearer {APIFY_TOKEN}", "Content-Type": "application/json"},
-        json={"locations": [APIFY_LOCATION], "maxTrendsPerLocation": APIFY_TRENDS},
+        json=_actor_input(actor),
         timeout=180,
     )
     r.raise_for_status()
     items = r.json()
     if not isinstance(items, list):
         raise ValueError(f"Unexpected Apify response: {str(items)[:200]}")
+    return items
 
+
+def _normalize(items: list) -> list[dict]:
+    """Trend rows from either actor, promoted ones removed, in rank order.
+
+    Both actors give rank + name. automation-lab also gives query/isHashtag/isPromoted; lurkapi
+    gives rowType/status/url instead, so those are worked out from the name here. Rows that are
+    not trends (post rows, notices that explain a failed lookup) are skipped."""
     out, seen = [], set()
-    for it in sorted(items, key=lambda x: x.get("rank") or 999):
+    for it in sorted((x for x in items if isinstance(x, dict)), key=lambda x: x.get("rank") or 999):
         if it.get("isPromoted"):
+            continue
+        if (it.get("rowType") or "trend") != "trend":
+            continue
+        status = str(it.get("status") or "").lower()
+        if any(w in status for w in ("error", "fail", "notice", "unresolved", "empty")):
             continue
         topic = (it.get("name") or "").strip()
         query = clean_query(it.get("query") or topic)
         key = topic.lower()
-        if not topic or key in seen:
+        if not topic or not query or key in seen:
             continue
         seen.add(key)
         out.append({
@@ -102,6 +128,27 @@ def get_trends() -> list[dict]:
         if len(out) == TOP_N:
             break
     return out
+
+
+def get_trends() -> list[dict]:
+    """Top trends from the primary Apify actor; the fallback actor is used only if it fails or
+    comes back empty (you pay for the fallback only on those runs)."""
+    actors = [APIFY_ACTOR]
+    if APIFY_FALLBACK_ACTOR and APIFY_FALLBACK_ACTOR != APIFY_ACTOR:
+        actors.append(APIFY_FALLBACK_ACTOR)
+    last: Exception | None = None
+    for n, actor in enumerate(actors):
+        try:
+            trends = _normalize(_run_actor(actor))
+            if trends:
+                if n:
+                    tc.warn(f"  Used the fallback actor {actor} (the primary returned nothing usable).")
+                return trends
+            last = ValueError(f"{actor} returned no trends")
+        except (requests.RequestException, ValueError) as e:
+            last = e
+        tc.warn(f"  Apify actor {actor} failed: {last}")
+    raise last if last else ValueError("No Apify actor configured")
 
 
 # ----------------------------------------------------------------- context: posts
