@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-10T04:24:59Z",
+  "updated": "2026-10-10T05:24:50Z",
   "region": "United States",
   "source_url": "Apify actor (US)",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "valkyries",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-10T04:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Valkyries",
-      "description": "The Golden State Valkyries are trending after sweeping the Las Vegas Aces in an overtime win to advance to the WNBA Finals.",
+      "description": "The Golden State Valkyries have advanced to the WNBA Finals after completing a sweep with an overtime win over the Las Vegas Aces.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Valkyries",
       "image_url": "https://www.eastbaytimes.com/wp-content/uploads/2026/10/BNG-L-VALKYRIES-1005-06-1.jpg",
@@ -29,18 +33,18 @@
       "started_trending": "2026-10-10T04:23:31Z",
       "first_seen": "2026-10-10T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "angel-reese",
       "rank": 2,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-10-10T00:23:31Z",
@@ -61,12 +65,16 @@
         {
           "t": "2026-10-10T04:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 2
         }
       ],
-      "rank_change": 5,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Angel Reese",
-      "description": "Angel Reese and the Atlanta Dream are trending after sweeping the New York Liberty to reach their first WNBA Finals since 2013.",
+      "description": "Angel Reese and the Atlanta Dream swept the New York Liberty, reaching their first WNBA Finals since 2013.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Angel%20Reese",
       "image_url": "https://www.cheatsheet.com/wp-content/uploads/2026/10/Screenshot-of-Angel-Reese-1.webp?w=1200",
@@ -74,28 +82,32 @@
       "started_trending": "2026-10-10T00:23:31Z",
       "first_seen": "2026-10-10T00:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gabby",
       "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-10T04:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Gabby",
-      "description": "Gabby Williams is trending on social media as she helps lead the Golden State Valkyries to their first-ever WNBA Finals appearance.",
+      "description": "Gabby Williams hit a key dagger shot in overtime to help secure the Golden State Valkyries' sweep and advancement to the WNBA Finals.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Gabby",
       "image_url": "https://people.com/thmb/knQe_uCan4FDzu3fnNI47DZr2oQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(753x245:755x247)/Gabby-Williams-seattlestorm-082124-tout-1e8a5ec4d53f46fb91581f4eaa380833.jpg",
@@ -103,47 +115,39 @@
       "started_trending": "2026-10-10T04:23:31Z",
       "first_seen": "2026-10-10T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "wnba-finals",
+      "id": "iowa",
       "rank": 4,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-10T02:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-10T03:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-10T04:23:31Z",
+          "t": "2026-10-10T05:23:31Z",
           "r": 4
         }
       ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "WNBA Finals",
-      "description": "The WNBA Finals are trending after the Golden State Valkyries and Atlanta Dream secured their spots in the championship series following playoff sweeps.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Iowa",
+      "description": "Iowa crushed Washington 41-24 in college football action, drawing widespread sports headlines and reactions.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/WNBA%20Finals",
-      "image_url": "https://content.sportslogos.net/logos/16/6661/full/9152__wnba_finals-alternate-2018.png",
+      "url": "https://twstalker.com/search/Iowa",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/d7db528cb084a1788f64b4f701cba349c37bff76ece26d0600514f1f2e66dfc6/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/iowa_hawkeyes_on_si_articles_430/25ed73595444fd00bae10c0133d0c64a.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T02:23:31Z",
-      "first_seen": "2026-10-10T02:23:31Z",
+      "started_trending": "2026-10-10T05:23:31Z",
+      "first_seen": "2026-10-10T05:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -164,12 +168,16 @@
         {
           "t": "2026-10-10T04:23:31Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 5
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Ukraine",
-      "description": "Ukraine is trending following criticism from Kyiv over a new U.S.-Russia diesel deal and ongoing discussions regarding peace talks and drone attacks.",
+      "description": "Ukraine criticized a reported U.S.-Russia diesel deal involving Trump and Putin, dismissing peace talks as a smokescreen amid ongoing conflict and drone attacks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ukraine",
       "image_url": "https://thumbs.dreamstime.com/z/map-ukraine-ukrainian-flag-illustration-242291079.jpg",
@@ -177,73 +185,73 @@
       "started_trending": "2026-10-10T02:23:31Z",
       "first_seen": "2026-10-10T02:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "smackdown",
+      "id": "wnba-finals",
       "rank": 6,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
-          "t": "2026-10-10T00:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-10T01:23:31Z",
-          "r": 1
-        },
-        {
           "t": "2026-10-10T02:23:31Z",
-          "r": 2
+          "r": 8
         },
         {
           "t": "2026-10-10T03:23:33Z",
-          "r": 2
+          "r": 8
         },
         {
           "t": "2026-10-10T04:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
           "r": 6
         }
       ],
-      "rank_change": -3,
+      "rank_change": 2,
       "is_new": false,
-      "topic": "#SmackDown",
-      "description": "WWE SmackDown is trending on social media as fans discuss the latest results and title changes just ahead of Money in the Bank.",
+      "topic": "WNBA Finals",
+      "description": "The WNBA Finals matchups are set for the 2026 playoffs following semifinal sweeps by the Golden State Valkyries and Atlanta Dream.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23SmackDown",
-      "image_url": "https://www.sportszion.com/wp-content/uploads/2023/10/wwe-smackdown-history2.jpg",
+      "url": "https://twstalker.com/search/WNBA%20Finals",
+      "image_url": "https://content.sportslogos.net/logos/16/6661/full/9152__wnba_finals-alternate-2018.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T00:23:31Z",
-      "first_seen": "2026-10-10T00:23:31Z",
+      "started_trending": "2026-10-10T02:23:31Z",
+      "first_seen": "2026-10-10T02:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "valks",
       "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-10T04:23:31Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Valks",
-      "description": "The Golden State Valkyries are trending as fans and commentators discuss the team's depth and success during their WNBA playoff run.",
+      "description": "Fans and commentators are discussing the Golden State Valkyries following their strong playoff performance and depth exposure against the Aces in the WNBA semifinals.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Valks",
       "image_url": "https://www.eastbaytimes.com/wp-content/uploads/2026/10/BNG-L-VALKYRIES-1005-06-1.jpg",
@@ -251,78 +259,16 @@
       "started_trending": "2026-10-10T04:23:31Z",
       "first_seen": "2026-10-10T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kiah-stokes",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T04:23:31Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kiah Stokes",
-      "description": "Kiah Stokes is trending after hitting a key corner three-pointer during a major Valkyries run on their way to the WNBA Finals.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kiah%20Stokes",
-      "image_url": "https://www.basketballbabes.com/wp-content/uploads/Kiah-Stokes-basketball.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T04:23:31Z",
-      "first_seen": "2026-10-10T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "norvell",
-      "rank": 9,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-10T03:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-10T04:23:31Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Norvell",
-      "description": "Florida State coach Mike Norvell is facing intense social media scrutiny and a hot seat following a blowout loss to Louisville.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Norvell",
-      "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2026/01/01211523/01-02-26-1920x1354.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T03:23:33Z",
-      "first_seen": "2026-10-10T03:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "washington",
-      "rank": 10,
+      "rank": 8,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -337,12 +283,16 @@
         {
           "t": "2026-10-10T04:23:31Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 8
         }
       ],
-      "rank_change": 4,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Washington",
-      "description": "Washington is trending after a National Guard presence near a D.C. ballot box sparked concern, alongside college football coverage of the Huskies.",
+      "description": "Washington faced a 41-24 college football defeat against Iowa while also making news regarding a National Guard presence near a D.C. ballot box.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Washington",
       "image_url": "https://img.sportscollectibles.com/scs/images/products/116/original/washington_huskies_speed_replica_football_helmet_p24496596.jpg",
@@ -350,16 +300,49 @@
       "started_trending": "2026-10-10T02:23:31Z",
       "first_seen": "2026-10-10T02:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kiah-stokes",
+      "rank": 9,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-10T04:23:31Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Kiah Stokes",
+      "description": "Kiah Stokes made a key corner three-pointer during a 17-0 run, helping the Valkyries secure a WNBA Finals spot with an overtime win over the Aces.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kiah%20Stokes",
+      "image_url": "https://www.basketballbabes.com/wp-content/uploads/Kiah-Stokes-basketball.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T04:23:31Z",
+      "first_seen": "2026-10-10T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "demond",
-      "rank": 11,
+      "rank": 10,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -370,12 +353,16 @@
         {
           "t": "2026-10-10T04:23:31Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 10
         }
       ],
-      "rank_change": 9,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Demond",
-      "description": "Washington quarterback Demond Williams Jr. is trending after exiting the team's game against Iowa due to an injury.",
+      "description": "Washington Huskies quarterback Demond Williams Jr. exited the game against Iowa due to an injury.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Demond",
       "image_url": "https://snworksceo.imgix.net/uwd/add6c345-8fbb-4722-9c8a-301cdeb1da55.sized-1000x1000.jpg?format=auto&w=1000&fit=fill&ar=4:3&dpr=2&fill=blur",
@@ -383,23 +370,19 @@
       "started_trending": "2026-10-10T03:23:33Z",
       "first_seen": "2026-10-10T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "putin",
-      "rank": 12,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "rank": 11,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-10-09T22:23:33Z",
-          "r": 1
-        },
         {
           "t": "2026-10-09T23:23:33Z",
           "r": 1
@@ -423,12 +406,16 @@
         {
           "t": "2026-10-10T04:23:31Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 11
         }
       ],
-      "rank_change": -11,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Putin",
-      "description": "Vladimir Putin is trending following a newly announced U.S.-Russia diesel deal and statements indicating that peace talks regarding Ukraine are unlikely.",
+      "description": "Vladimir Putin reportedly reached a deal with Trump regarding Russian diesel to lower prices, though Putin noted peace talks are unlikely due to Ukraine drone attacks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Putin",
       "image_url": "https://1898383215.rsc.cdn77.org/dt/a/o/5604fd19d3904322198b4585.jpg",
@@ -436,7 +423,56 @@
       "started_trending": "2026-10-09T22:23:33Z",
       "first_seen": "2026-10-09T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "smackdown",
+      "rank": 12,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-10T00:23:31Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-10T01:23:31Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-10T02:23:31Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-10T03:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-10T04:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "#SmackDown",
+      "description": "WWE SmackDown made headlines with its latest results and a shocking title change on the eve of Money in the Bank, featuring The Vision.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23SmackDown",
+      "image_url": "https://www.sportszion.com/wp-content/uploads/2023/10/wwe-smackdown-history2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T00:23:31Z",
+      "first_seen": "2026-10-10T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T05:23:31Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -444,209 +480,61 @@
       "extra": {}
     },
     {
-      "id": "louisville",
+      "id": "norvell",
       "rank": 13,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-10-10T00:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-10T01:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-10T02:23:31Z",
-          "r": 5
-        },
         {
           "t": "2026-10-10T03:23:33Z",
-          "r": 4
+          "r": 3
         },
         {
           "t": "2026-10-10T04:23:31Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Louisville",
-      "description": "Louisville is trending after defeating Florida State 44-20 in a dominant Friday night college football matchup.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Louisville",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5cDuMc6SLM3DNhmKpjdA0LnShrT2iYLtbCmhyphenhyphensRfQUjPqdTb00A19gWwyiuwSppgseqgIYokE0Gao_nvjiTBaiXESCiaGnwDr8q3XI1naH_zpUXYAYsvcH3MVSZGzGYCuR8tRe_fS-m6RbeQPFmxh1oMdv2NGTQQdqkmEIyf_dO6F3lt8TIdP9ut5aSpb/s720/Polish_20261004_120517040.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T00:23:31Z",
-      "first_seen": "2026-10-10T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "elijah-brown",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-10T04:23:31Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Elijah Brown",
-      "description": "Elijah Brown is trending after taking over at quarterback for Washington following an injury to Demond Williams Jr. against Iowa.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Elijah%20Brown",
-      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,w_8547,h_4807,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_cardinal/01jgyw9xrvcnttazb882.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T04:23:31Z",
-      "first_seen": "2026-10-10T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oplive",
-      "rank": 15,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-10T01:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-10T02:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-10T03:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-10T04:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "#OPLive",
-      "description": "Co-op Live is trending on social media as users search for tickets and live streams for various events and concerts at the venue.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23OPLive",
-      "image_url": "https://i.ytimg.com/vi/lABNlIKGDBk/maxresdefault_live.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T01:23:31Z",
-      "first_seen": "2026-10-10T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "stewie",
-      "rank": 16,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-10T02:23:31Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-10T03:23:33Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-10T04:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Stewie",
-      "description": "Breanna Stewart is trending on social media following a WNBA investigation into a timeout blunder and a controversial playoff series against the Dream.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Stewie",
-      "image_url": "https://www.syracuse.com/resizer/v2/UZPCPUZIIJCAFGPG5VSFSKWJ6A.jpg?auth=475e7f7813de457706f8e6dd0097a5e103f71637600aa3e18eb103f77b19e37c&width=1280&smart=true&quality=90",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T02:23:31Z",
-      "first_seen": "2026-10-10T02:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "atlanta-dream",
-      "rank": 17,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-10T02:23:31Z",
           "r": 9
         },
         {
-          "t": "2026-10-10T03:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-10T04:23:31Z",
-          "r": 17
+          "t": "2026-10-10T05:23:31Z",
+          "r": 13
         }
       ],
-      "rank_change": -8,
+      "rank_change": -10,
       "is_new": false,
-      "topic": "Atlanta Dream",
-      "description": "The Atlanta Dream are trending after defeating the New York Liberty to advance to their first WNBA Finals since 2013.",
+      "topic": "Norvell",
+      "description": "Florida State coach Mike Norvell is facing intense hot seat pressure and buyout questions following FSU's disappointing loss to Louisville.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Atlanta%20Dream",
-      "image_url": "https://i.ytimg.com/vi/_JG54f272sc/maxresdefault.jpg",
+      "url": "https://twstalker.com/search/Norvell",
+      "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2026/01/01211523/01-02-26-1920x1354.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T02:23:31Z",
-      "first_seen": "2026-10-10T02:23:31Z",
+      "started_trending": "2026-10-10T03:23:33Z",
+      "first_seen": "2026-10-10T03:23:33Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "zelensky",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 14,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-10-10T04:23:31Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 4,
+      "is_new": false,
       "topic": "Zelensky",
-      "description": "Volodymyr Zelenskyy is trending after slamming a new U.S. deal for Russian diesel as an unfair gift to Putin that will not bring peace.",
+      "description": "Volodymyr Zelensky criticized a reported U.S.-Russia diesel deal between Trump and Putin, calling it an unfair gift that will not bring peace.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Zelensky",
       "image_url": "https://static.timesofisrael.com/www/uploads/2022/02/AP22055391963227.jpg",
@@ -654,7 +542,69 @@
       "started_trending": "2026-10-10T04:23:31Z",
       "first_seen": "2026-10-10T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "elijah-brown",
+      "rank": 15,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-10T04:23:31Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Elijah Brown",
+      "description": "Elijah Brown entered the game for Washington after starting quarterback Demond Williams Jr. exited with an injury during the loss to Iowa.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Elijah%20Brown",
+      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,w_8547,h_4807,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_cardinal/01jgyw9xrvcnttazb882.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T04:23:31Z",
+      "first_seen": "2026-10-10T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "namjoon",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-10T05:23:31Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "namjoon",
+      "description": "The material for namjoon lacks sufficient detail to explain why it is trending.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/namjoon",
+      "image_url": "https://i.pinimg.com/originals/1c/58/25/1c5825e9342d63bdd52ace4c6c343410.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T05:23:31Z",
+      "first_seen": "2026-10-10T05:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T05:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -662,84 +612,118 @@
       "extra": {}
     },
     {
-      "id": "jordin-canada",
-      "rank": 19,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "id": "jedd-fisch",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-10T01:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-10T02:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-10T03:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-10T04:23:31Z",
-          "r": 19
+          "t": "2026-10-10T05:23:31Z",
+          "r": 17
         }
       ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Jordin Canada",
-      "description": "Jordin Canada is trending after standout playoff performances that helped power the Atlanta Dream into the WNBA Finals.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jedd Fisch",
+      "description": "Washington coach Jedd Fisch and the Huskies suffered a heavy defeat against Iowa, following Williams' injury exit and praise for Kirk Ferentz's program.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jordin%20Canada",
-      "image_url": "https://hermes.media.static.aol.com/media/2026/10/08/acc03729-790d-30d7-bb81-9cf64b4815fe/4cf8faa4-984e-433c-a5c2-5f830448ed4d.jpg",
+      "url": "https://twstalker.com/search/Jedd%20Fisch",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/4/b2/4b2212ec-26b5-5c2b-b767-6c93b15c6a7c/6ac92c85dafda.image.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T01:23:31Z",
-      "first_seen": "2026-10-10T01:23:31Z",
+      "started_trending": "2026-10-10T05:23:31Z",
+      "first_seen": "2026-10-10T05:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "sabrina",
-      "rank": 20,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
+      "id": "raynor",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-10T01:23:31Z",
+          "t": "2026-10-10T05:23:31Z",
           "r": 18
-        },
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Raynor",
+      "description": "Jaylen Raynor is trending in college football player props discussions alongside other quarterbacks like Caden Pinnick and Demond Williams.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Raynor",
+      "image_url": "https://cdn.bluewaterhealthyliving.com/wp-content/uploads/Reuters_RSS_API_Media/IA/newsml_MT1USDAYNETIAP87959428007-292220820-768x512.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T05:23:31Z",
+      "first_seen": "2026-10-10T05:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "club-chaos",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-10-10T02:23:31Z",
-          "r": 6
-        },
+          "t": "2026-10-10T05:23:31Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Club Chaos",
+      "description": "SEGA released the new Sonic Club Chaos merchandise collection featuring Shadow on the official SEGA Shop.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Club%20Chaos",
+      "image_url": "https://discountgamesonline.com/cdn/shop/products/IMG_2825_2048x.jpg?v=1647133192",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-10T05:23:31Z",
+      "first_seen": "2026-10-10T05:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pinnick",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-10-10T03:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-10T04:23:31Z",
+          "t": "2026-10-10T05:23:31Z",
           "r": 20
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Sabrina",
-      "description": "Sabrina Ionescu is trending following a heated on-court exchange with Angel Reese and her ascent on the all-time WNBA scoring list.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pinnick",
+      "description": "Caden Pinnick is trending in college football player props alongside fellow quarterbacks ahead of Friday night matchups.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sabrina",
-      "image_url": "https://cdn.britannica.com/58/258758-050-253D86A6/sabrina-ionescu-during-3-point-challenge-with-stephen-curry-2024.jpg",
+      "url": "https://twstalker.com/search/Pinnick",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1NrRdo.img?w=768&h=544&m=6",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T01:23:31Z",
-      "first_seen": "2026-10-10T01:23:31Z",
+      "started_trending": "2026-10-10T05:23:31Z",
+      "first_seen": "2026-10-10T05:23:31Z",
       "published": null,
-      "last_seen": "2026-10-10T04:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-10T05:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
