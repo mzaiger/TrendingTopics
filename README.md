@@ -364,9 +364,3 @@ python -m http.server 8000       # then open http://localhost:8000
 
 ---
 
-## Naming note
-
-The social media tab never names the platform in the page, the JSON, or the descriptions (Gemini is
-told the same). Two technical identifiers can't be renamed because other services define them: the
-Apify actor id in `social_media_trends.py`, and a few strings the script must recognise on the source
-pages and in the actor's output.
