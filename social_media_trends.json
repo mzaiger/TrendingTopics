@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-11T03:25:12Z",
+  "updated": "2026-10-11T04:25:11Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 5,
       "is_new": false,
       "topic": "Bama",
-      "description": "Social media is discussing Alabama football following their high-profile matchup and game against Georgia, alongside weather updates as Flora-Bama reopens after Hurricane Isaias.",
+      "description": "Alabama is trending on social media following a close primetime football loss to Georgia.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bama",
       "image_url": "https://i.pinimg.com/736x/93/1f/ed/931fede0c254962b5ed02a16211db053.jpg",
@@ -37,10 +41,10 @@
       "started_trending": "2026-10-11T01:23:34Z",
       "first_seen": "2026-10-11T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -57,12 +61,16 @@
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 2
         }
       ],
       "rank_change": 11,
       "is_new": false,
       "topic": "Kentucky",
-      "description": "Kentucky football is trending on social media after pulling off an overtime upset win against tenth-ranked LSU.",
+      "description": "Kentucky is trending after pulling off an upset win over No. 10 LSU in a 35-34 overtime thriller.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Kentucky",
       "image_url": "https://www.courier-journal.com/gcdn/authoring/authoring-images/2026/09/12/STID/91737438007-20260912-t-214848-z-570033534-mt-1-usatoday-29804099-rtrmadp-3-ncaafootballalabamaatkentucky.JPG?crop=5260,2961,x0,y61&width=3200&height=1802&format=pjpg&auto=webp",
@@ -70,28 +78,32 @@
       "started_trending": "2026-10-11T02:23:34Z",
       "first_seen": "2026-10-11T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "stein",
       "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Stein",
-      "description": "North Carolina Governor Josh Stein is trending on social media for warning residents about Hurricane Isaias and signing a bill to suspend the state gas tax.",
+      "description": "Kentucky coach Will Stein is generating buzz online after leading his team to a significant overtime victory against No. 10 LSU.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Stein",
       "image_url": "https://files.nc.gov/nc-governor/styles/_inline_extra_large_/public/images/2024-12/Josh-Stein-casual.jpg?VersionId=BwiLufWhQnFScUKc3ahd3DIJlnk4FQpa&itok=2T3cW0pV",
@@ -99,10 +111,10 @@
       "started_trending": "2026-10-11T03:23:31Z",
       "first_seen": "2026-10-11T03:23:31Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -127,12 +139,16 @@
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 4
         }
       ],
       "rank_change": 14,
       "is_new": false,
       "topic": "Georgia",
-      "description": "Georgia is trending on social media due to heavy discussions surrounding the Bulldogs' football game against Alabama and severe weather alerts in the region.",
+      "description": "Georgia is trending after outlasting Alabama in a close football game, drawing heavy fan discussion over late officiating calls.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Georgia",
       "image_url": "https://www.tripsavvy.com/thmb/WtWQdEkMaZz3g7iePwjgli4dp4U=/2124x1412/filters:no_upscale():max_bytes(150000):strip_icc()/Kazbegi-5b72344446e0fb00508d6fdf.jpg",
@@ -140,23 +156,89 @@
       "started_trending": "2026-10-11T00:23:32Z",
       "first_seen": "2026-10-11T00:23:32Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dijon-lee",
+      "rank": 5,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-11T02:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-11T03:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Dijon Lee",
+      "description": "Alabama player Dijon Lee Jr. is receiving attention online after drawing a costly personal foul late in the game against Georgia.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dijon%20Lee",
+      "image_url": "https://on3static.com/cdn-cgi/image/height=417,width=795,quality=90,fit=cover,gravity=0.5x0.5/uploads/dev/assets/cms/2024/09/22104542/Dijon-Lee.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T02:23:34Z",
+      "first_seen": "2026-10-11T02:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lane-kiffin",
+      "rank": 6,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-11T03:23:31Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Lane Kiffin",
+      "description": "LSU coach Lane Kiffin is trending on social media following his team's unexpected overtime loss to Kentucky.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Lane%20Kiffin",
+      "image_url": "https://www.clarionledger.com/gcdn/authoring/images/smg/2024/11/22/SMGW/76500013007-14-87522.jpeg?crop=3161",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T03:23:31Z",
+      "first_seen": "2026-10-11T03:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mitb",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-10T22:23:32Z",
-          "r": 1
-        },
         {
           "t": "2026-10-10T23:23:31Z",
           "r": 1
@@ -176,12 +258,16 @@
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 7
         }
       ],
-      "rank_change": -4,
+      "rank_change": -6,
       "is_new": false,
       "topic": "#MITB",
-      "description": "WWE's Money in the Bank event is generating heavy social media buzz following major match results, including ladder match victories and performances by Roman Reigns, LA Knight, and Penta.",
+      "description": "WWE Money in the Bank is trending as fans discuss the latest pay-per-view results, including ladder match winners and title bouts.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23MITB",
       "image_url": "https://s.yimg.com/lo/mysterio/api/7923d9b7ccaec1b59ace0cd1ca587cda49cc4c4dd523fa186dca80191e4bbff8/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-100926-wwe-money-in-the-bank_1883.jpg",
@@ -189,90 +275,32 @@
       "started_trending": "2026-10-10T22:23:32Z",
       "first_seen": "2026-10-10T22:23:32Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dijon-lee",
-      "rank": 6,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-11T02:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-11T03:23:31Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Dijon Lee",
-      "description": "Social media users are discussing Alabama football updates and roster details ahead of their high-stakes game against Georgia.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dijon%20Lee",
-      "image_url": "https://on3static.com/cdn-cgi/image/height=417,width=795,quality=90,fit=cover,gravity=0.5x0.5/uploads/dev/assets/cms/2024/09/22104542/Dijon-Lee.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T02:23:34Z",
-      "first_seen": "2026-10-11T02:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lane-kiffin",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T03:23:31Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Lane Kiffin",
-      "description": "LSU football coach Lane Kiffin is trending on social media after addressing the media following his team's overtime loss to Kentucky, as well as viral pre-game yoga activities.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Lane%20Kiffin",
-      "image_url": "https://www.clarionledger.com/gcdn/authoring/images/smg/2024/11/22/SMGW/76500013007-14-87522.jpeg?crop=3161",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T03:23:31Z",
-      "first_seen": "2026-10-11T03:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dawgs",
       "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Dawgs",
-      "description": "Fans on social media are actively discussing the Georgia Bulldogs ahead of their high-profile football showdown against Alabama.",
+      "description": "The Georgia Bulldogs are trending following their hard-fought football victory over Alabama.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dawgs",
       "image_url": "https://ugawire.usatoday.com/gcdn/authoring/authoring-images/2026/09/26/SUGA/91963531007-20260926-t-210406-z-492576306-mt-1-usatoday-29923668-rtrmadp-3-ncaafootballoklahomaatgeorgia.JPG?crop=2711,1525,x0,y140&width=2711&height=1525&format=pjpg&auto=webp",
@@ -280,7 +308,65 @@
       "started_trending": "2026-10-11T03:23:31Z",
       "first_seen": "2026-10-11T03:23:31Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tyler-simmons",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tyler Simmons",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tyler%20Simmons",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-11T04:23:32Z",
+      "first_seen": "2026-10-11T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "shane-gillis",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Shane Gillis",
+      "description": "Shane Gillis is trending on social media following his third hosting appearance on Saturday Night Live.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Shane%20Gillis",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-11T04:23:32Z",
+      "first_seen": "2026-10-11T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T04:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -289,7 +375,7 @@
     },
     {
       "id": "penta",
-      "rank": 9,
+      "rank": 11,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -304,12 +390,16 @@
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 11
         }
       ],
-      "rank_change": -5,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Penta",
-      "description": "Penta is trending on social media after winning the men's ladder match at the 2026 WWE Money in the Bank event in New Orleans.",
+      "description": "Penta is trending after winning the men's ladder match at the WWE Money in the Bank event.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Penta",
       "image_url": "https://www.wwe.com/f/styles/wwe_large/public/all/2025/01/RAW_01132025CA_13175--47d8955dbab6953126619de06e821c65.JPG",
@@ -317,28 +407,32 @@
       "started_trending": "2026-10-11T01:23:34Z",
       "first_seen": "2026-10-11T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "guardsball",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 12,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 12
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "#GuardsBall",
-      "description": "Cleveland Guardians fans are celebrating on social media as the team completes a historic postseason comeback win against the White Sox.",
+      "description": "Cleveland Guardians fans are using the tag as the team completes a historic postseason comeback series win against the White Sox.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23GuardsBall",
       "image_url": "https://newbaseballmedia.com/wp-content/uploads/2023/11/GUARDIANS-NEW-5-1.jpg",
@@ -346,16 +440,16 @@
       "started_trending": "2026-10-11T03:23:31Z",
       "first_seen": "2026-10-11T03:23:31Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "arch",
-      "rank": 11,
+      "rank": 13,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -370,12 +464,16 @@
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 13
         }
       ],
-      "rank_change": -9,
+      "rank_change": -11,
       "is_new": false,
       "topic": "Arch",
-      "description": "Texas quarterback Arch Manning is trending on social media after struggling with crucial fourth-quarter interceptions during a rivalry loss to Oklahoma.",
+      "description": "Texas quarterback Arch Manning is trending after throwing crucial fourth-quarter interceptions in an upset loss to Oklahoma.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Arch",
       "image_url": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/hero.png",
@@ -383,44 +481,69 @@
       "started_trending": "2026-10-11T01:23:34Z",
       "first_seen": "2026-10-11T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gavin-williams",
-      "rank": 12,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "id": "gunner-stockton",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-11T01:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-11T02:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-11T03:23:31Z",
-          "r": 12
+          "t": "2026-10-11T04:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Gavin Williams",
-      "description": "Cleveland Guardians pitcher Gavin Williams is trending on social media after matching a franchise postseason strikeout record in a pivotal Game 5 win.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Gunner Stockton",
+      "description": "Georgia quarterback Gunner Stockton is drawing attention online after soaking in the team's gritty road win against Alabama.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gavin%20Williams",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/58077275b1c56dba82f553ff1b97a5101bb5169b05976ef5b518fd6bce016da7/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/cleveland_guardians_on_si_366/30e06eb513fafa36ce27357308147a2b.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T01:23:34Z",
-      "first_seen": "2026-10-11T01:23:34Z",
+      "url": "https://twstalker.com/search/Gunner%20Stockton",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-11T04:23:32Z",
+      "first_seen": "2026-10-11T04:23:32Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "blake-baker",
+      "rank": 15,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-11T03:23:31Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Blake Baker",
+      "description": "Blake Baker is trending after rallying Louisiana Tech past Louisiana-Lafayette in a comeback victory.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Blake%20Baker",
+      "image_url": "https://www.tigerrag.com/wp-content/uploads/Blake-Baker-LSU-scaled.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T03:23:31Z",
+      "first_seen": "2026-10-11T03:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-11T04:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -429,7 +552,7 @@
     },
     {
       "id": "sam-leavitt",
-      "rank": 13,
+      "rank": 16,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -440,12 +563,16 @@
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": -4,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Sam Leavitt",
-      "description": "Social media is reacting to a thrilling overtime college football game where Kentucky secured a narrow victory over LSU.",
+      "description": "LSU quarterback Sam Leavitt is generating discussion online following a heartbreaking overtime loss at Kentucky.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Sam%20Leavitt",
       "image_url": "https://thespun.com/.image/w_3840,q_auto:good,c_limit/MzM6MDAwMDAwMDAwMzk0MDQy/ncaa-football-texas-tech-at-arizona-state.jpg?arena_f_auto",
@@ -453,7 +580,36 @@
       "started_trending": "2026-10-11T02:23:34Z",
       "first_seen": "2026-10-11T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "deboer",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "DeBoer",
+      "description": "Alabama coach Kalen DeBoer is trending after expressing intense frustration over a costly late-game penalty in a loss to Georgia.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/DeBoer",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-11T04:23:32Z",
+      "first_seen": "2026-10-11T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T04:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -462,14 +618,10 @@
     },
     {
       "id": "sark",
-      "rank": 14,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "rank": 18,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-10-10T22:23:32Z",
-          "r": 19
-        },
         {
           "t": "2026-10-10T23:23:31Z",
           "r": 10
@@ -489,12 +641,16 @@
         {
           "t": "2026-10-11T03:23:31Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": -4,
+      "rank_change": -14,
       "is_new": false,
       "topic": "Sark",
-      "description": "Texas football coach Steve Sarkisian is facing intense social media scrutiny and calls for changes following a troubling and historic loss to Oklahoma.",
+      "description": "Texas coach Steve Sarkisian is trending online following a troubling and historic rivalry loss to Oklahoma.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Sark",
       "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2025/11/Steve-Sarkisian-leading-Texas-out-of-tunnel.jpg",
@@ -502,209 +658,77 @@
       "started_trending": "2026-10-10T22:23:32Z",
       "first_seen": "2026-10-10T22:23:32Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gunner",
-      "rank": 15,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-11T02:23:34Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-11T03:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Gunner",
-      "description": "Georgia quarterback Gunner Stockton is generating social media attention as he prepares for a major test against Alabama.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gunner",
-      "image_url": "https://gamechangers.uga.edu/wp-content/uploads/2024/08/20240621_GCGS_ADT_MARCM_037-1024x1024.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T02:23:34Z",
-      "first_seen": "2026-10-11T02:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jose-ramirez",
-      "rank": 16,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-11T01:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-11T02:23:34Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-11T03:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Jose Ramirez",
-      "description": "José Ramírez is trending on social media after hitting a crucial home run to propel the Cleveland Guardians to a postseason victory over the White Sox.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jose%20Ramirez",
-      "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAxNjA0MTU2/mlb-alds-cleveland-guardians-at-chicago-white-sox.jpg?profile=w2560&ar=16-9",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T01:23:34Z",
-      "first_seen": "2026-10-11T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rolltide",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T03:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#RollTide",
-      "description": "Fans are sharing the famous Alabama rallying cry on social media amid pre-game coverage and excitement surrounding the Crimson Tide's matchup against Georgia.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23RollTide",
-      "image_url": "https://wallpapers.com/images/hd/alabama-football-logo-yz1h6vruwz5p3ibs.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T03:23:31Z",
-      "first_seen": "2026-10-11T03:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "matt-campbell",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T03:23:31Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Matt Campbell",
-      "description": "Matt Campbell is trending on social media as Penn State fans and students debate the state of the football program following a tough loss to USC.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Matt%20Campbell",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/60e1e0404c14b3348502ad0b53186a4ff9cf4e66e43bb6a676ba901cdb1d334d/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/atoz_sports_articles_485/6bc5f8ebc39a990d50756db93a01b240.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T03:23:31Z",
-      "first_seen": "2026-10-11T03:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "roxanne",
+      "id": "gavin-williams",
       "rank": 19,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
         {
-          "t": "2026-10-10T23:23:31Z",
+          "t": "2026-10-11T01:23:34Z",
           "r": 8
         },
         {
-          "t": "2026-10-11T00:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-11T01:23:34Z",
-          "r": 3
-        },
-        {
           "t": "2026-10-11T02:23:34Z",
-          "r": 7
+          "r": 5
         },
         {
           "t": "2026-10-11T03:23:31Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-11T04:23:32Z",
           "r": 19
         }
       ],
       "rank_change": -11,
       "is_new": false,
-      "topic": "Roxanne",
-      "description": "Social media users are discussing the latest results and match outcomes from the WWE Money in the Bank pay-per-view event.",
+      "topic": "Gavin Williams",
+      "description": "Gavin Williams is trending after tying a Cleveland postseason record with 12 strikeouts to help eliminate the White Sox.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Roxanne",
-      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/06/roxanne-holding-her-book-in-a-goofy-movie.jpg",
+      "url": "https://twstalker.com/search/Gavin%20Williams",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/58077275b1c56dba82f553ff1b97a5101bb5169b05976ef5b518fd6bce016da7/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/cleveland_guardians_on_si_366/30e06eb513fafa36ce27357308147a2b.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-10T23:23:31Z",
-      "first_seen": "2026-10-10T23:23:31Z",
+      "started_trending": "2026-10-11T01:23:34Z",
+      "first_seen": "2026-10-11T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-11T04:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "blake-baker",
+      "id": "kirby",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-11T03:23:31Z",
+          "t": "2026-10-11T04:23:32Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Blake Baker",
-      "description": "Blake Baker and the Louisiana football program are trending on social media as fans discuss game-day updates and predictions ahead of their matchup against Louisiana Tech.",
+      "topic": "Kirby",
+      "description": "Georgia coach Kirby Smart is trending following a hard-fought and aggressive regular-season victory over Alabama.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Blake%20Baker",
-      "image_url": "https://www.tigerrag.com/wp-content/uploads/Blake-Baker-LSU-scaled.jpg",
+      "url": "https://twstalker.com/search/Kirby",
+      "image_url": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ncom/software/switch-2/70010000096829/acb1cb2c734e8bd1fc56b657045c0cc3a262e708d197eb153d469c73b4b4b1e5",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T03:23:31Z",
-      "first_seen": "2026-10-11T03:23:31Z",
+      "started_trending": "2026-10-11T04:23:32Z",
+      "first_seen": "2026-10-11T04:23:32Z",
       "published": null,
-      "last_seen": "2026-10-11T03:23:31Z",
+      "last_seen": "2026-10-11T04:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
