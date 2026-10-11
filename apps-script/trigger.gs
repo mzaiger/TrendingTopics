@@ -4,18 +4,21 @@
  * Setup:
  *   1. Project Settings (gear icon) > Script properties > add GITHUB_TOKEN = your token.
  *   2. Triggers (clock icon) > Add Trigger:
- *        - triggerTrendingTopicsWorkflow  > Time-driven > Hour timer > Every hour
- *        - (optional) triggerFeedsOnly    > Time-driven > Minutes timer > Every 15 or 30 minutes
- *      The workflows have no schedule of their own, so nothing runs unless these triggers exist.
+ *        - triggerTrendingTopicsWorkflow > Time-driven > Minutes timer > Every 30 minutes
+ *      (Replace the old "every hour" trigger with this one.) The workflows have no schedule of their
+ *      own, so nothing runs unless this trigger exists.
+ *
+ * How it runs: in the first half of each hour (minute 0-29) all three workflows start; in the second
+ * half only the social media one does ("trigger-social-pull"). Google and Reddit therefore refresh
+ * hourly. The social media workflow decides for itself whether a run is due (schedule.py): every 30
+ * minutes when everything is on the cheap options, slower when Reddit or Twitter have fallen back to a
+ * dearer Apify actor, so the month stays under Apify's free $5. A tick that is not due costs nothing.
  */
 
-// Hours (0-23, in the timezone below) when the SOCIAL MEDIA workflow is skipped so the Apify free
-// credit lasts the month (4 skipped hours = 20 runs a day). Google + Reddit still run in those
-// hours because they cost nothing. Use [] to run everything every hour.
-const SKIP_HOURS = [2, 3, 4, 5];
-const TIMEZONE = "America/Chicago";
+const TIMEZONE = "America/Chicago";   // only used to read the minute, so any timezone works
 
-// "trigger-trending-pull" starts all three workflows; "trigger-feeds-pull" starts Google + Reddit only.
+// "trigger-trending-pull" starts all three workflows; "trigger-feeds-pull" starts Google + Reddit only;
+// "trigger-social-pull" starts the social media workflow only.
 // ("trigger-expiration-pull", the old name, still works too.)
 function dispatch_(eventType) {
   const token = PropertiesService.getScriptProperties().getProperty("GITHUB_TOKEN");
@@ -45,13 +48,8 @@ function dispatch_(eventType) {
 }
 
 function triggerTrendingTopicsWorkflow() {
-  const hour = parseInt(Utilities.formatDate(new Date(), TIMEZONE, "H"), 10);
-  if (SKIP_HOURS.indexOf(hour) !== -1) {
-    Logger.log("Hour " + hour + " is in SKIP_HOURS: refreshing Google + Reddit only.");
-    dispatch_("trigger-feeds-pull");
-    return;
-  }
-  dispatch_("trigger-trending-pull");
+  const minute = parseInt(Utilities.formatDate(new Date(), TIMEZONE, "m"), 10);
+  dispatch_(minute < 30 ? "trigger-trending-pull" : "trigger-social-pull");
 }
 
 // Optional: Google's feed only holds its 10 newest trends, so polling it more often than hourly
