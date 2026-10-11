@@ -35,6 +35,7 @@ from urllib.parse import quote
 import requests
 from bs4 import BeautifulSoup
 
+import schedule
 import trend_common as tc
 
 TWSTALKER = "https://twstalker.com"
@@ -58,6 +59,7 @@ APIFY_TOKEN = os.environ.get("APIFY_TOKEN")
 APIFY_LOCATION = os.environ.get("APIFY_LOCATION", "")
 APIFY_TRENDS = int(os.environ.get("APIFY_TRENDS", "20"))
 APIFY_MAX_CHARGE = os.environ.get("APIFY_MAX_CHARGE_USD", "0.02")
+REDDIT_FILE = os.environ.get("REDDIT_FILE", "reddit_trends.json")   # read only, to pick the schedule
 OUT_FILE = os.environ.get("OUT_FILE", "social_media_trends.json")
 
 # Where the posts start and stop on a Sotwe topic page
@@ -130,9 +132,9 @@ def _normalize(items: list) -> list[dict]:
     return out
 
 
-def get_trends() -> list[dict]:
-    """Top trends from the primary Apify actor; the fallback actor is used only if it fails or
-    comes back empty (you pay for the fallback only on those runs)."""
+def get_trends() -> tuple[list[dict], str]:
+    """(trends, "primary" | "fallback"). Top trends from the primary Apify actor; the fallback actor
+    is used only if it fails or comes back empty (you pay for the fallback only on those runs)."""
     actors = [APIFY_ACTOR]
     if APIFY_FALLBACK_ACTOR and APIFY_FALLBACK_ACTOR != APIFY_ACTOR:
         actors.append(APIFY_FALLBACK_ACTOR)
@@ -143,7 +145,7 @@ def get_trends() -> list[dict]:
             if trends:
                 if n:
                     tc.warn(f"  Used the fallback actor {actor} (the primary returned nothing usable).")
-                return trends
+                return trends, ("fallback" if n else "primary")
             last = ValueError(f"{actor} returned no trends")
         except (requests.RequestException, ValueError) as e:
             last = e
@@ -221,8 +223,18 @@ def main() -> int:
     now = tc.utcnow()
     previous = tc.load_json(OUT_FILE)
 
+    # The Apps Script wakes this every 30 minutes; schedule.py says how often it should really run
+    # (it depends on which Twitter actor and which Reddit source are in use, to stay under the $5).
+    plan = schedule.plan(previous, tc.load_json(REDDIT_FILE), now)
+    manual = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch" or os.environ.get("SOCIAL_FORCE") == "1"
+    tc.info(f"Schedule: Twitter={plan['twitter']}, Reddit={plan['reddit']} -> every {plan['interval_minutes']} min "
+            f"(about ${plan['month_cost']}/month); {plan['minutes_since_last']} min since the last run.")
+    if not plan["due"] and not manual:
+        tc.info("Not due yet - skipping (no Apify call, nothing changed).")
+        return 0
+
     try:
-        trends = get_trends()
+        trends, actor_used = get_trends()
     except requests.HTTPError as e:
         code = e.response.status_code if e.response is not None else "?"
         hint = {401: "the Apify token looks invalid",
@@ -296,6 +308,7 @@ def main() -> int:
                        region="United States",
                        source_url=f"Apify actor ({APIFY_LOCATION})",   # never put the actor id in the JSON
                        models=list(tc.GEMINI_MODELS))
+    doc["actor_used"] = actor_used     # "primary" or "fallback"; schedule.py reads it (labels only, no actor ids)
     tc.save_json(OUT_FILE, doc)
     tc.info(f"Wrote {OUT_FILE}")
     return 0

@@ -260,7 +260,8 @@ def _due(last_iso, hours: float, now: datetime) -> bool:
 
 
 def apify_fallback(previous: dict, now: datetime) -> tuple:
-    """Run the Apify fallbacks when the RSS feed gave nothing. Returns (raw_posts, state).
+    """Run the Apify fallbacks when the RSS feed gave nothing. Returns (raw_posts, state, source) where
+    source is "apify2" or "apify3" (or "" when nothing was fetched).
 
     state holds when each tier last ran (kept in the JSON so the minimum gaps survive between
     runs, even when every tier fails):
@@ -281,7 +282,7 @@ def apify_fallback(previous: dict, now: datetime) -> tuple:
         state["apify_last_ok"] = bool(raw)
         if raw:
             tc.info(f"Reddit posts came from the 2nd-tier Apify actor ({APIFY_REDDIT_ACTOR})")
-            return raw, state
+            return raw, state, "apify2"
         tier2_failed = True
 
     if tier2_failed and APIFY3_ACTOR and _due(state.get("apify3_last_run"), APIFY3_EVERY_HOURS, now):
@@ -293,15 +294,15 @@ def apify_fallback(previous: dict, now: datetime) -> tuple:
             raw = []
         if raw:
             tc.info(f"Reddit posts came from the 3rd-tier Apify actor ({APIFY3_ACTOR})")
-            return raw, state
-    return [], state
+            return raw, state, "apify3"
+    return [], state, ""
 
 
 def main() -> int:
     now = tc.utcnow()
     previous = tc.load_json(OUT_FILE)
 
-    raw, state = [], {}
+    raw, state, source = [], {}, "rss"
     try:
         raw = parse_feed(fetch_feed())
     except (requests.RequestException, ET.ParseError) as e:
@@ -310,7 +311,7 @@ def main() -> int:
         if not APIFY_TOKEN:
             tc.warn(f"No posts from the RSS feed and APIFY_TOKEN is not set, so {OUT_FILE} was not changed.")
             return 1
-        raw, state = apify_fallback(previous, now)
+        raw, state, source = apify_fallback(previous, now)
         if not raw:
             if previous and state != {k: previous[k] for k in state if k in previous}:
                 # Remember that the fallbacks were just tried, so a failing actor is not retried every hour.
@@ -338,6 +339,7 @@ def main() -> int:
         v = state.get(k, (previous or {}).get(k))
         if v is not None:
             doc[k] = v
+    doc["data_source"] = source        # "rss" / "apify2" / "apify3": schedule.py slows social media down when dearer
     tc.save_json(OUT_FILE, doc)
     tc.info(f"Wrote {OUT_FILE}")
     return 0

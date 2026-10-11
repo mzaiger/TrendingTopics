@@ -188,12 +188,13 @@ This is what lets Google Apps Script start the workflows.
 
 In Apps Script: Project Settings (gear) -> **Script properties** -> add `GITHUB_TOKEN` = the token.
 
-### 6. The Apps Script triggers
+### 6. The Apps Script trigger
 1. Paste `apps-script/trigger.gs` into your Apps Script project (it replaces your function).
 2. Run `triggerTrendingTopicsWorkflow` once by hand (approve the permission prompt). The log should say
-   *Dispatched ... successfully*, and three runs appear in the repo's **Actions** tab.
+   *Dispatched ... successfully*, and runs appear in the repo's **Actions** tab.
 3. Triggers (clock icon) -> **Add Trigger** -> `triggerTrendingTopicsWorkflow` -> *Time-driven* ->
-   *Hour timer* -> *Every hour*. Nothing runs on a schedule unless you add this.
+   *Minutes timer* -> **Every 30 minutes**. Delete the old "every hour" trigger so it doesn't run twice.
+   Nothing runs on a schedule unless you add this.
 4. *Optional, recommended for Google:* add a second trigger for `triggerFeedsOnly` every 15 or 30
    minutes. It starts only the Google and Reddit workflows (no Apify cost), and Google's feed only
    holds its 10 newest trends, so polling it more often gives a fuller day's list.
@@ -206,11 +207,35 @@ The script POSTs to `https://api.github.com/repos/mzaiger/TrendingTopics/dispatc
 |---|---|
 | `trigger-trending-pull` (or the old `trigger-expiration-pull`) | all three workflows |
 | `trigger-feeds-pull` | Google + Reddit only |
+| `trigger-social-pull` | social media only |
 
 The workflow files have to be on the default branch (`main`) for GitHub to see the event. A successful
-call returns HTTP 204 with no body. `SKIP_HOURS` in `trigger.gs` sends `trigger-feeds-pull` instead of
-`trigger-trending-pull` during the skipped hours, so social media (which costs money) pauses overnight
-while Google and Reddit keep going.
+call returns HTTP 204 with no body. The trigger fires every 30 minutes: in the first half of the hour
+it sends `trigger-trending-pull` (all three), in the second half `trigger-social-pull` (social media
+only), so Google and Reddit refresh hourly. The social media workflow then decides for itself whether
+a run is due; see **How often social media runs** below.
+
+### How often social media runs
+`schedule.py` slows social media down when Reddit or Twitter fall back to a dearer Apify actor, so the
+month stays under Apify's free $5. A tick that is not due exits at once: no Apify call, no cost, no
+commit. Clicking "Run workflow" by hand always runs. Run `python schedule.py` to print this table
+(prices and the $0.30 safety margin are at the top of that file):
+
+| Twitter actor | Reddit source | Social media runs | Twitter | Reddit | Month total |
+|---|---|---|---|---|---|
+| cheap (primary) | RSS (free) | every 30 min | $1.44 | $0.00 | **$1.44** |
+| cheap (primary) | Apify 2nd tier (every 4 h) | every 30 min | $1.44 | $2.25 | **$3.69** |
+| cheap (primary) | Apify 3rd tier (every 8 h) | every 1 h | $0.72 | $3.82 | **$4.54** |
+| dearer (fallback) | RSS (free) | every 2 h | $2.74 | $0.00 | **$2.74** |
+| dearer (fallback) | Apify 2nd tier | every 4 h | $1.37 | $2.25 | **$3.62** |
+| dearer (fallback) | Apify 3rd tier | every 8 h | $0.68 | $3.82 | **$4.51** |
+
+The state is read from the JSON files (`actor_used` in `social_media_trends.json`, `data_source` in
+`reddit_trends.json`), so the speed adjusts by itself, and returns to 30 minutes when the cheap options
+recover. Each run of the cheap Twitter actor costs about $0.001, a fallback run about $0.0076. Set
+`SOCIAL_FORCE_INTERVAL_MINUTES` to override the interval. Every social media run also makes one Gemini
+call and some page fetches, so at 30 minutes that is 48 runs a day; if the repo is private, check
+GitHub's free Actions minutes (public repos are unlimited).
 
 ---
 
@@ -221,8 +246,8 @@ while Google and Reddit keep going.
   is roughly $0.72 a month**, far inside the free $5. It is a new actor with few users, so the script
   falls back to `automation-lab/twitter-trends-scraper` (Free plan: $0.00023 per trend + $0.003 per run,
   about $0.0076 a run) if the primary fails or returns nothing; you pay for the fallback only on those
-  runs. If you set `APIFY_ACTOR` to the automation-lab actor permanently, 24 runs a day is about $5.50 a
-  month, so put `SKIP_HOURS = [2, 3, 4, 5]` back in the Apps Script. Prices change, so check the actor's
+  runs. If you set `APIFY_ACTOR` to the automation-lab actor permanently, `schedule.py` runs social media
+  every 2 hours or slower (it treats that actor as the dearer "fallback"). Prices change, so check the actor's
   page. Each run has a hard cap (`APIFY_MAX_CHARGE_USD`, default $0.02). When the free credit runs out
   Apify refuses runs until next month and the page keeps showing the last list.
 - **Reddit:** the RSS feed is free, but **Reddit ends RSS support on 13 Nov 2026**. When the feed fails
