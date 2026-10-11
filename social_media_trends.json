@@ -1,118 +1,31 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-11T14:25:31Z",
+  "updated": "2026-10-11T15:25:20Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "parker-washington",
-      "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 1
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Parker Washington",
-      "description": "Parker Washington scored the first points of the Eagles-Jaguars game with a speedy 51-yard touchdown catch-and-run.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Parker%20Washington",
-      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dz2pp.img?w=768&h=512&m=6&x=444&y=113&s=177&d=177",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "go-birds",
-      "rank": 2,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-11T13:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 2
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Go Birds",
-      "description": "The phrase is trending as fans prepare for the Philadelphia Eagles game against the Jacksonville Jaguars and discuss a Philly-style dive bar in London.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Go%20Birds",
-      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/30/USAT/92021412007-20260929-t-015932-z-304227675-mt-1-usatoday-29946948-rtrmadp-3-nflphiladelphiaeaglesatchicagobears.JPG?crop=4523,2544,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T13:23:31Z",
-      "first_seen": "2026-10-11T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "trotter",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Trotter",
-      "description": "Jeremiah Trotter Jr. and Bryan Thomas Jr. were ejected for fighting during a scuffle on the opening kickoff of the Eagles-Jaguars game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Trotter",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Пророк_Иеремия,_Микеланжело_Буонаротти.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "jalen-carter",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 1,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-10-11T14:23:30Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 3,
+      "is_new": false,
       "topic": "Jalen Carter",
-      "description": "Jalen Carter made a highlight strip-sack on Trevor Lawrence during the opening drive of the game against the Jaguars.",
+      "description": "Jalen Carter is trending after recording multiple strip-sacks against Trevor Lawrence during the Eagles' game against the Jaguars.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jalen%20Carter",
       "image_url": "",
@@ -120,36 +33,36 @@
       "started_trending": "2026-10-11T14:23:30Z",
       "first_seen": "2026-10-11T14:23:30Z",
       "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jason-kelce",
-      "rank": 5,
+      "id": "jags",
+      "rank": 2,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 5
+          "t": "2026-10-11T15:23:32Z",
+          "r": 2
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Jason Kelce",
-      "description": "Jason Kelce is calling the Eagles-Jaguars game in London following his debut on the NFL Network, while drawing attention for his apologies during broadcasts.",
+      "topic": "Jags",
+      "description": "The Jaguars are trending following a massive fight on the opening kickoff of their game against the Eagles in London that resulted in ejections.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jason%20Kelce",
-      "image_url": "https://people.com/thmb/OBu9_xu200PoL2C4O2H1UuMSV7U=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/jason-kelce-c39c13806de7440f9f6818ee1b170deb.jpg",
+      "url": "https://twstalker.com/search/Jags",
+      "image_url": "https://a.cdn-hotels.com/gdcs/production173/d273/4b1f27ef-eeb2-4515-b8a6-1d507c3a736c.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
+      "started_trending": "2026-10-11T15:23:32Z",
+      "first_seen": "2026-10-11T15:23:32Z",
       "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
+      "last_seen": "2026-10-11T15:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -158,19 +71,23 @@
     },
     {
       "id": "jaguars",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 3,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-10-11T14:23:30Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 3,
+      "is_new": false,
       "topic": "Jaguars",
-      "description": "The Jacksonville Jaguars are trending as they face the Philadelphia Eagles in London, a game marked by an early fight and roster updates.",
+      "description": "The Jacksonville Jaguars are trending due to their Week 5 matchup against the Philadelphia Eagles in London, which featured an opening-kickoff fight and early scoring plays.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jaguars",
       "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/28/NFTU/91990281007-nfl-2026-new-englad-patriots-jacksonville-jaguars-143.JPG?crop=1787,1005,x0,y0&width=1787&height=1005&format=pjpg&auto=webp",
@@ -178,7 +95,69 @@
       "started_trending": "2026-10-11T14:23:30Z",
       "first_seen": "2026-10-11T14:23:30Z",
       "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jason-kelce",
+      "rank": 4,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-11T14:23:30Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Jason Kelce",
+      "description": "Jason Kelce is trending as he prepares to call the Eagles-Jaguars game in London following his broadcasting debut.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jason%20Kelce",
+      "image_url": "https://people.com/thmb/OBu9_xu200PoL2C4O2H1UuMSV7U=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/jason-kelce-c39c13806de7440f9f6818ee1b170deb.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T14:23:30Z",
+      "first_seen": "2026-10-11T14:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "flyeaglesfly",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FlyEaglesFly",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23FlyEaglesFly",
+      "image_url": "https://images6.alphacoders.com/858/thumb-440-858475.webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T15:23:32Z",
+      "first_seen": "2026-10-11T15:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -187,7 +166,7 @@
     },
     {
       "id": "shipley",
-      "rank": 7,
+      "rank": 6,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -198,12 +177,16 @@
         {
           "t": "2026-10-11T14:23:30Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": 1,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Shipley",
-      "description": "Will Shipley is trending in discussions regarding Week 5 fantasy football rankings, starts, and player props ahead of the matchup in London.",
+      "description": "Will Shipley is trending after scoring his first career regular-season touchdown and later leaving the game against the Jaguars with a foot injury.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Shipley",
       "image_url": "https://news.ssbcrack.com/wp-content/uploads/2026/10/Will-Shipley-Set-to-Start-as-Eagles-Running-Back-Against.jpg",
@@ -211,7 +194,36 @@
       "started_trending": "2026-10-11T13:23:31Z",
       "first_seen": "2026-10-11T13:23:31Z",
       "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "darius-cooper",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Darius Cooper",
+      "description": "Darius Cooper is trending after catching a 62-yard touchdown pass from Jalen Hurts to give the Eagles a lead over the Jaguars in London.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Darius%20Cooper",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-11T15:23:32Z",
+      "first_seen": "2026-10-11T15:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -219,8 +231,231 @@
       "extra": {}
     },
     {
-      "id": "good-sunday",
+      "id": "parker-washington",
       "rank": 8,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-11T14:23:30Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Parker Washington",
+      "description": "Parker Washington is trending after scoring the game's first touchdown on a 51-yard catch-and-run to give the Jaguars an early lead against the Eagles.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Parker%20Washington",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dz2pp.img?w=768&h=512&m=6&x=444&y=113&s=177&d=177",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T14:23:30Z",
+      "first_seen": "2026-10-11T14:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "liam-coen",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Liam Coen",
+      "description": "Liam Coen is trending as social media discusses the Jacksonville Jaguars' preparation and recipe for success ahead of their London matchup against the Eagles.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Liam%20Coen",
+      "image_url": "https://www.jacksonville.com/gcdn/authoring/authoring-images/2025/01/27/NFTU/77979483007-jki-012725-liam-coen-01.jpg?crop=5999,3375,x0,y307&width=3200&height=1801&format=pjpg&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T15:23:32Z",
+      "first_seen": "2026-10-11T15:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tuten",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tuten",
+      "description": "Bhayshul Tuten is trending as fans and analysts discuss expectations and performance for the Jaguars running back ahead of their matchup against the Eagles.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tuten",
+      "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAxNDIwNzk3/jacksonville-jaguars-running-back-bhayshul-tuten-33.jpg?profile=w1536&ar=16-9&x=50&y=8",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T15:23:32Z",
+      "first_seen": "2026-10-11T15:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "go-birds",
+      "rank": 11,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-11T13:23:31Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-11T14:23:30Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "Go Birds",
+      "description": "Fans are using the chant as Philadelphia Eagles supporters gather in London and online to watch their team face the Jacksonville Jaguars in Week 5.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Go%20Birds",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/30/USAT/92021412007-20260929-t-015932-z-304227675-mt-1-usatoday-29946948-rtrmadp-3-nflphiladelphiaeaglesatchicagobears.JPG?crop=4523,2544,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T13:23:31Z",
+      "first_seen": "2026-10-11T13:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "phivsjax",
+      "rank": 12,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-11T14:23:30Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "#PHIvsJAX",
+      "description": "Social media users are following the game updates, roster moves, and injury reports under the matchup hashtag for the Eagles and Jaguars game in London.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23PHIvsJAX",
+      "image_url": "https://www.urlaubstracker.de/wp-content/uploads/2019/04/usa-philadelphia-skyline.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T14:23:30Z",
+      "first_seen": "2026-10-11T14:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hunt",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hunt",
+      "description": "The term is trending after a young Eagles defender suffered a gruesome-looking injury during the game against the Jaguars.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hunt",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-11T15:23:32Z",
+      "first_seen": "2026-10-11T15:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "trotter",
+      "rank": 14,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-11T14:23:30Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Trotter",
+      "description": "Jeremiah Trotter Jr. is trending after he and Bryan Thomas Jr. were ejected for fighting during the opening kickoff of the Eagles-Jaguars game in London.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Trotter",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Пророк_Иеремия,_Микеланжело_Буонаротти.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T14:23:30Z",
+      "first_seen": "2026-10-11T14:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-sunday",
+      "rank": 15,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -239,12 +474,16 @@
         {
           "t": "2026-10-11T14:23:30Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": -7,
+      "rank_change": -14,
       "is_new": false,
       "topic": "Good Sunday",
-      "description": "Social media users and analysts are sharing betting guides, weather updates, and weekend posts as fans look ahead to Sunday's slate of games.",
+      "description": "The phrase is trending in local and financial newsletters and updates as people post about weather conditions and Sunday morning forecasts.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Sunday",
       "image_url": "https://i.pinimg.com/736x/b7/45/4d/b7454d7bca7a77e540ab2e7d58c73b86.jpg",
@@ -252,16 +491,45 @@
       "started_trending": "2026-10-11T11:23:32Z",
       "first_seen": "2026-10-11T11:23:32Z",
       "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "willie-lampkin",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Willie Lampkin",
+      "description": "Willie Lampkin is trending as analysts break down the Philadelphia Eagles' new starting offensive line for their game against the Jaguars in London.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Willie%20Lampkin",
+      "image_url": "https://www.mogazmasr.com/uploads/2026/10/08/willie-lampkin-66162736_1200w.webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T15:23:32Z",
+      "first_seen": "2026-10-11T15:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ferrari",
-      "rank": 9,
+      "rank": 17,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -272,12 +540,16 @@
         {
           "t": "2026-10-11T14:23:30Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": -3,
+      "rank_change": -11,
       "is_new": false,
       "topic": "Ferrari",
-      "description": "Ferrari is making headlines after Charles Leclerc discussed the team's loss of pure performance following a solid Saturday in Singapore.",
+      "description": "Ferrari is trending after Lewis Hamilton publicly apologized to the team and took the blame for a strategy call during the Singapore Grand Prix.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ferrari",
       "image_url": "https://livesport-ott-images.ssl.cdn.cra.cz/r1200xfq60/96e3a195-0c97-4508-a801-4ba0baa3eaef.jpeg",
@@ -285,152 +557,36 @@
       "started_trending": "2026-10-11T13:23:31Z",
       "first_seen": "2026-10-11T13:23:31Z",
       "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-11T15:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "zach-ertz",
-      "rank": 10,
+      "id": "chris-rodriguez",
+      "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 10
+          "t": "2026-10-11T15:23:32Z",
+          "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Zach Ertz",
-      "description": "The Philadelphia Eagles elevated Zach Ertz from the practice squad for their game against the Jaguars in London.",
+      "topic": "Chris Rodriguez",
+      "description": "The topic is trending as fans and sportsbooks track rushing yards and prediction markets for the matchup between the Philadelphia Eagles and Jacksonville Jaguars.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Zach%20Ertz",
-      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2026/09/Zach-Ertz-2.jpg?w=1200",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lewis",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Lewis",
-      "description": "Lewis is trending following sports events, including cross-country invitational meets and a soccer match where Skidmore's comeback fell short at William Smith.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Lewis",
+      "url": "https://twstalker.com/search/Chris%20Rodriguez",
       "image_url": "",
       "image_source": "",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
+      "started_trending": "2026-10-11T15:23:32Z",
+      "first_seen": "2026-10-11T15:23:32Z",
       "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "phivsjax",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#PHIvsJAX",
-      "description": "Fans and teams are posting updates under the hashtag ahead of the NFL matchup between the Philadelphia Eagles and Jacksonville Jaguars.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23PHIvsJAX",
-      "image_url": "https://www.urlaubstracker.de/wp-content/uploads/2019/04/usa-philadelphia-skyline.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "covey",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Covey",
-      "description": "Philadelphia Eagles wide receiver Britain Covey set his team up near midfield with a notable kick return against the Jaguars.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Covey",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nolan-smith",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Nolan Smith",
-      "description": "Nolan Smith apologized for what he called an unacceptable speeding arrest ahead of the Eagles' game against the Jaguars.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nolan%20Smith",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
+      "last_seen": "2026-10-11T15:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -439,17 +595,21 @@
     },
     {
       "id": "duuuval",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-11T14:23:30Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "#DUUUVAL",
       "description": "",
       "description_source": "",
@@ -459,73 +619,7 @@
       "started_trending": "2026-10-11T14:23:30Z",
       "first_seen": "2026-10-11T14:23:30Z",
       "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "makai-lemon",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Makai Lemon",
-      "description": "Makai Lemon is trending as analysts look at NFL rookies under pressure to prove themselves during Week 5.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Makai%20Lemon",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "topic",
-      "rank": 17,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-11T12:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-11T13:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "#叠纸破坏中国文化出海",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23%E5%8F%A0%E7%BA%B8%E7%A0%B4%E5%9D%8F%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E5%87%BA%E6%B5%B7",
-      "image_url": "http://www.photos-public-domain.com/wp-content/uploads/2013/11/spiral-notebook-paper-texture.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T12:23:33Z",
-      "first_seen": "2026-10-11T12:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
+      "last_seen": "2026-10-11T15:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -533,102 +627,32 @@
       "extra": {}
     },
     {
-      "id": "kimi",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kimi",
-      "description": "Kimi Antonelli is drawing attention as he closes in on the F1 world championship following the Singapore Grand Prix.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kimi",
-      "image_url": "https://media.formula1.com/image/upload/f_auto/q_auto/v1734706621/content/dam/fom-website/drivers/2025Drivers/antonelli.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T14:23:30Z",
-      "first_seen": "2026-10-11T14:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ppgfailsasambassador",
-      "rank": 19,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-11T12:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-11T13:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-11T14:23:30Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "#PPGFailsAsAmbassador",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23PPGFailsAsAmbassador",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-11T12:23:33Z",
-      "first_seen": "2026-10-11T12:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "papergamesruinsculturalexport",
+      "id": "lewis",
       "rank": 20,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
-          "t": "2026-10-11T12:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-11T13:23:31Z",
-          "r": 4
-        },
-        {
           "t": "2026-10-11T14:23:30Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-11T15:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -17,
+      "rank_change": -9,
       "is_new": false,
-      "topic": "#PapergamesRuinsCulturalExport",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23PapergamesRuinsCulturalExport",
-      "image_url": "https://pbs.twimg.com/media/HUWgADOb0AA67NL?format=webp&name=large",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T12:23:33Z",
-      "first_seen": "2026-10-11T12:23:33Z",
+      "topic": "Lewis",
+      "description": "Lewis Hamilton is trending after taking responsibility for a poor strategy call at the Singapore Grand Prix that cost him a podium finish with Ferrari.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Lewis",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-11T14:23:30Z",
+      "first_seen": "2026-10-11T14:23:30Z",
       "published": null,
-      "last_seen": "2026-10-11T14:23:30Z",
+      "last_seen": "2026-10-11T15:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
