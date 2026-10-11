@@ -1,15 +1,131 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-11T20:25:15Z",
+  "updated": "2026-10-11T21:25:00Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "packers",
+      "id": "giants",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Giants",
+      "description": "The Giants and Commanders tied 27-27 in a wild Week 5 overtime game featuring a late fourth-quarter touchdown pass from Jameis Winston to Malik Nabers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Giants",
+      "image_url": "https://golfweek.usatoday.com/gcdn/authoring/authoring-images/2026/10/05/SCMD/92098389007-20261004-t-170152-z-185534066-mt-1-usatoday-29996444-rtrmadp-3-nfllondongamesindianapoliscoltsatwashingtoncommanders.JPG?crop=7344,4131,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T21:23:32Z",
+      "first_seen": "2026-10-11T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dan-quinn",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dan Quinn",
+      "description": "Washington coach Dan Quinn faced heavy criticism and social media backlash for a clock-management disaster and botched game-ending play that resulted in a 27-27 tie with the Giants.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dan%20Quinn",
+      "image_url": "https://athlonsports.com/.image/t_share/MjA4NTYzMzYyMjQ4Nzk1NDQz/quinn.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T21:23:32Z",
+      "first_seen": "2026-10-11T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jayden-daniels",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jayden Daniels",
+      "description": "Commanders quarterback Jayden Daniels rushed for over 100 yards and a touchdown in the tie against the Giants, though doctors reportedly fear he risks another elbow injury.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jayden%20Daniels",
+      "image_url": "https://c8.alamy.com/comp/3FREX4T/washington-commanders-quarterback-jayden-daniels-5-warms-up-before-an-nfl-football-game-against-the-new-york-giants-in-landover-md-sunday-oct-11-2026-ap-photonick-wass-3FREX4T.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T21:23:32Z",
+      "first_seen": "2026-10-11T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nfc-east",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "NFC East",
+      "description": "NFC East teams made headlines after a rain-soaked divisional clash ended in a tie between the Giants and Commanders, while the Cowboys navigated their Week 5 bye.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/NFC%20East",
+      "image_url": "https://www.dynastynerds.com/wp-content/uploads/2022/04/nfcEast.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T21:23:32Z",
+      "first_seen": "2026-10-11T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "packers",
+      "rank": 5,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -20,12 +136,16 @@
         {
           "t": "2026-10-11T20:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 5
         }
       ],
-      "rank_change": 5,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Packers",
-      "description": "The Green Bay Packers are trending on social media as they build a strong lead over the Chicago Bears, highlighted by Jordan Love's touchdown passes to Christian Watson.",
+      "description": "The Green Bay Packers defeated the Chicago Bears 31-7 in a rivalry matchup at Lambeau Field, though the team reportedly fears Javon Hargrave tore his Achilles.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Packers",
       "image_url": "https://images.footballfanatics.com/green-bay-packers/mens-new-era-gold-green-bay-packers-2026-sideline-cold-weather-cuffed-knit-hat_ss5_p-203757632+pv-2+u-ag1bxzzfxoif78otj23z+v-4ixfdfrwsv66oy3zzysc.jpg?_hv=2&w=1018",
@@ -33,7 +153,7 @@
       "started_trending": "2026-10-11T19:23:33Z",
       "first_seen": "2026-10-11T19:23:33Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
+      "last_seen": "2026-10-11T21:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -41,8 +161,78 @@
       "extra": {}
     },
     {
+      "id": "bears",
+      "rank": 6,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-11T19:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-11T20:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Bears",
+      "description": "The Chicago Bears suffered an embarrassing 31-7 loss to the Packers in a game featuring tributes to Mike Ditka and multiple turnovers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bears",
+      "image_url": "https://bearswire.usatoday.com/gcdn/authoring/authoring-images/2026/09/29/SBRS/92002635007-20260929-t-005403-z-117835209-mt-1-usatoday-29946214-rtrmadp-3-nflphiladelphiaeaglesatchicagobears.JPG?width=1320&height=880&fit=crop&format=pjpg&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T19:23:33Z",
+      "first_seen": "2026-10-11T19:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ben-johnson",
+      "rank": 7,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-11T20:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Ben Johnson",
+      "description": "Bears head coach Ben Johnson turned heads on social media following a postgame handshake with Matt LaFleur after Green Bay's blowout win.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ben%20Johnson",
+      "image_url": "https://www.chicitysports.com/wp-content/uploads/2026/09/2026-09-29T022447Z_1633360061_MT1USATODAY29946774_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-CHICAGO-BEARS-1600x900.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T20:23:33Z",
+      "first_seen": "2026-10-11T20:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "bagent",
-      "rank": 2,
+      "rank": 8,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -61,12 +251,16 @@
         {
           "t": "2026-10-11T20:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": 11,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Bagent",
-      "description": "Chicago Bears quarterback Tyson Bagent is trending after being benched in favor of Case Keenum during the Week 5 game against the Packers following two interceptions.",
+      "description": "The Bears benched quarterback Tyson Bagent in favor of Case Keenum during Week 5 after Bagent threw two interceptions against the Packers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bagent",
       "image_url": "https://jxsasjkteolpvwybngyp.supabase.co/storage/v1/object/sign/cms-media/posts/1791207655938-4dfua1.webp?token=eyJraWQiOiI0ZmVjZWU3MC03MmJkLTQzZmUtYmJkZi04MGJiZDE2MmEwNTkiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJjbXMtbWVkaWEvcG9zdHMvMTc5MTIwNzY1NTkzOC00ZGZ1YTEud2VicCIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTEyMDc2NTYsImV4cCI6MjEwNjU2NzY1Nn0.7_2rNUSBVB46iTB7JTLHdVl0ucrqVWvbIT2H4-opRFw",
@@ -74,90 +268,32 @@
       "started_trending": "2026-10-11T17:23:31Z",
       "first_seen": "2026-10-11T17:23:31Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ben-johnson",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ben Johnson",
-      "description": "Chicago Bears head coach Ben Johnson is drawing heavy criticism and trending online after an embarrassing blowout loss to the Packers, which included an explicit post-game radio message.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ben%20Johnson",
-      "image_url": "https://www.chicitysports.com/wp-content/uploads/2026/09/2026-09-29T022447Z_1633360061_MT1USATODAY29946774_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-CHICAGO-BEARS-1600x900.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T20:23:33Z",
-      "first_seen": "2026-10-11T20:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bears",
-      "rank": 4,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-11T19:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Bears",
-      "description": "The Chicago Bears are trending on social media following a tough loss to the Packers, a quarterback switch from Tyson Bagent to Case Keenum, and the unveiling of new Mike Ditka helmet decals.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bears",
-      "image_url": "https://bearswire.usatoday.com/gcdn/authoring/authoring-images/2026/09/29/SBRS/92002635007-20260929-t-005403-z-117835209-mt-1-usatoday-29946214-rtrmadp-3-nflphiladelphiaeaglesatchicagobears.JPG?width=1320&height=880&fit=crop&format=pjpg&auto=webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T19:23:33Z",
-      "first_seen": "2026-10-11T19:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jets",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-10-11T20:23:33Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "Jets",
-      "description": "The New York Jets are trending on social media as they face the Cleveland Browns in Week 5, highlighted by a strong defensive performance and a brutal hit by a Jets defender on a Browns rookie.",
+      "description": "The New York Jets ended their losing streak with a dramatic 17-12 win over the Cleveland Browns, fueled by Braelon Allen's go-ahead 22-yard touchdown run.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jets",
       "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAxNTczODAy/new-york-jets-running-back-breece-hall-20-celebrates-during-a-game-against-the-green-bay-packers-at-metlife-stadium-sep-20.jpg?profile=share16-9",
@@ -165,7 +301,7 @@
       "started_trending": "2026-10-11T20:23:33Z",
       "first_seen": "2026-10-11T20:23:33Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
+      "last_seen": "2026-10-11T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -173,20 +309,61 @@
       "extra": {}
     },
     {
+      "id": "jameis",
+      "rank": 10,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-11T19:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-11T20:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Jameis",
+      "description": "Giants quarterback Jameis Winston drew attention on social media for his gameday outfit, a crucial fumble, and a 17-yard touchdown pass to Malik Nabers against Washington.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jameis",
+      "image_url": "https://www.sportsnet.ca/wp-content/uploads/2026/10/jameis-winston.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T19:23:33Z",
+      "first_seen": "2026-10-11T19:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "drake-maye",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 11,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-10-11T20:23:33Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -5,
+      "is_new": false,
       "topic": "Drake Maye",
-      "description": "New England Patriots quarterback Drake Maye is trending after a dominant performance and a 34-yard touchdown pass to Kyle Williams in a blowout win over the Las Vegas Raiders.",
+      "description": "Drake Maye dominated the Las Vegas Raiders, accounting for five touchdowns as the New England Patriots rolled to a blowout 45-17 victory.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Drake%20Maye",
       "image_url": "https://thespun.com/.image/MzM6MDAwMDAwMDAwNDk5NzQ1/new-england-patriots-quarterback-drake-maye-10-looks-to-pass-during-the-second-quarter-of-an-nfl-football-matchup-at-everbank.jpg?profile=w2560&x=50&y=50",
@@ -194,7 +371,7 @@
       "started_trending": "2026-10-11T20:23:33Z",
       "first_seen": "2026-10-11T20:23:33Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
+      "last_seen": "2026-10-11T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -203,7 +380,7 @@
     },
     {
       "id": "gopackgo",
-      "rank": 7,
+      "rank": 12,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -222,12 +399,16 @@
         {
           "t": "2026-10-11T20:23:33Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 12
         }
       ],
-      "rank_change": 10,
+      "rank_change": 5,
       "is_new": false,
       "topic": "#GoPackGo",
-      "description": "The hashtag #GoPackGo is trending on social media alongside NFL Week 5 game broadcasts and matchups.",
+      "description": "Fans shared excitement across social media using the hashtag as the Green Bay Packers prepared for their Week 5 matchup against the Chicago Bears.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23GoPackGo",
       "image_url": "https://wisportsheroics.com/wp-content/uploads/2026/10/2026-10-04T182505Z_1086400617_MT1USATODAY29997474_RTRMADP_3_NFL-GREEN-BAY-PACKERS-AT-TAMPA-BAY-BUCCANEERS-900x600.jpg",
@@ -235,28 +416,61 @@
       "started_trending": "2026-10-11T17:23:31Z",
       "first_seen": "2026-10-11T17:23:31Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "raisehail",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#RaiseHail",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23RaiseHail",
+      "image_url": "https://media.licdn.com/dms/image/v2/D4D22AQGqKUSNJ8D8gw/feedshare-shrink_800/feedshare-shrink_800/0/1714424377046?e=2147483647&v=beta&t=5tKAGE6s39uU1VvgwQmZISKx3WNyJbRnl84ic7JYdGk",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T21:23:32Z",
+      "first_seen": "2026-10-11T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "raiders",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 14,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-10-11T20:23:33Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "Raiders",
-      "description": "The Las Vegas Raiders are trending on social media as they face the New England Patriots with running back Ashton Jeanty active.",
+      "description": "The Las Vegas Raiders suffered a 45-17 blowout loss to the Patriots, a game that featured rookie quarterback Fernando Mendoza making his NFL debut.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Raiders",
       "image_url": "https://cdn.pickdawgz.com/2026/10/2026-09-28T000406Z_731929567_MT1USATODAY29937357_RTRMADP_3_NFL-LAS-VEGAS-RAIDERS-AT-NEW-ORLEANS-SAINTS-1200x800.jpg",
@@ -264,7 +478,7 @@
       "started_trending": "2026-10-11T20:23:33Z",
       "first_seen": "2026-10-11T20:23:33Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
+      "last_seen": "2026-10-11T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -273,7 +487,7 @@
     },
     {
       "id": "eagles",
-      "rank": 9,
+      "rank": 15,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -292,12 +506,16 @@
         {
           "t": "2026-10-11T20:23:33Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": -8,
+      "rank_change": -14,
       "is_new": false,
       "topic": "Eagles",
-      "description": "The Philadelphia Eagles are trending after suffering a heartbreaking, wild loss to the Jacksonville Jaguars in London following a 57-yard field goal in the final second.",
+      "description": "The Philadelphia Eagles suffered a hard-fought 19-17 loss in London after the Jacksonville Jaguars kicked a game-winning 57-yard field goal in the final second.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Eagles",
       "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/30/USAT/92021412007-20260929-t-015932-z-304227675-mt-1-usatoday-29946948-rtrmadp-3-nflphiladelphiaeaglesatchicagobears.JPG?crop=4523,2544,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
@@ -305,230 +523,32 @@
       "started_trending": "2026-10-11T17:23:31Z",
       "first_seen": "2026-10-11T17:23:31Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "keenum",
-      "rank": 10,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-11T18:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-11T19:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Keenum",
-      "description": "Case Keenum is trending after replacing benched quarterback Tyson Bagent for the Chicago Bears during their Week 5 matchup against the Green Bay Packers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Keenum",
-      "image_url": "https://wisportsheroics.com/wp-content/uploads/2026/09/packers-bears-eagles-case-keenum-899x600.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T18:23:33Z",
-      "first_seen": "2026-10-11T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "malik-willis",
-      "rank": 11,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-11T18:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-11T19:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Malik Willis",
-      "description": "Miami Dolphins quarterback Malik Willis is trending on social media after showing off his mobility with a 39-yard scramble against the Cincinnati Bengals, despite throwing two first-half interceptions.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Malik%20Willis",
-      "image_url": "https://www.sun-sentinel.com/wp-content/uploads/2026/03/tfl-l-dolphins-Malik-Willis-thurs-01-031226.jpg?w=3000&h=2000",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T18:23:33Z",
-      "first_seen": "2026-10-11T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "watson",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Watson",
-      "description": "Christian Watson and Deshaun Watson are both trending on social media: Christian Watson caught long touchdowns from Jordan Love for the Packers, while Deshaun Watson was sacked multiple times playing for the Browns against the Jets.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Watson",
-      "image_url": "https://www.iowaindependent.com/wp-content/uploads/2025/01/Deshaun-Watson.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T20:23:33Z",
-      "first_seen": "2026-10-11T20:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jameis",
-      "rank": 13,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-11T19:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Jameis",
-      "description": "New York Giants quarterback Jameis Winston is trending on social media due to fan reactions to his gameday outfit and his on-field plays.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jameis",
-      "image_url": "https://www.sportsnet.ca/wp-content/uploads/2026/10/jameis-winston.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T19:23:33Z",
-      "first_seen": "2026-10-11T19:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jaylon-johnson",
-      "rank": 14,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-11T18:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-11T19:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Jaylon Johnson",
-      "description": "Jaylon Johnson and the Chicago Bears are trending on social media following their lopsided defeat against the Green Bay Packers at Lambeau Field.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jaylon%20Johnson",
-      "image_url": "https://i.pinimg.com/736x/de/17/3b/de173bd790c5b40152f4df917992886b.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T18:23:33Z",
-      "first_seen": "2026-10-11T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "david-bailey",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "David Bailey",
-      "description": "New York Jets rookie defensive end David Bailey is trending after recording multiple sacks, including taking down Deshaun Watson during a win against the Cleveland Browns.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/David%20Bailey",
-      "image_url": "https://jetsxfactor.com/wp-content/uploads/2026/09/New-York-Jets-David-Bailey.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T20:23:33Z",
-      "first_seen": "2026-10-11T20:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "caleb",
       "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-10-11T20:23:33Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Caleb",
-      "description": "Chicago Bears quarterback Caleb Williams is trending online as he sits out Week 5 against the Packers with an injury, though he is reportedly on track to return against the Falcons.",
+      "description": "Bears quarterback Caleb Williams was inactive for the Week 5 game against the Packers due to an injury but is reportedly on track to return against the Falcons.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Caleb",
       "image_url": "https://heavy.com/wp-content/uploads/2026/09/caleb-williams-final-status-injury-updates-eagles-game.jpg?quality=65&strip=all&w=1350",
@@ -536,7 +556,7 @@
       "started_trending": "2026-10-11T20:23:33Z",
       "first_seen": "2026-10-11T20:23:33Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
+      "last_seen": "2026-10-11T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -544,90 +564,8 @@
       "extra": {}
     },
     {
-      "id": "jordan-love",
-      "rank": 17,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-11T19:23:33Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Jordan Love",
-      "description": "Green Bay Packers quarterback Jordan Love is trending after dazzling with long touchdown passes to Christian Watson and Tucker Kraft in a blowout victory over the Chicago Bears.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jordan%20Love",
-      "image_url": "https://wisportsheroics.com/wp-content/uploads/2026/10/jordan-love-packers-buccaneers-900x600.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T19:23:33Z",
-      "first_seen": "2026-10-11T19:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jags",
-      "rank": 18,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-11T15:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-11T16:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-11T17:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-11T18:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-11T19:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-11T20:23:33Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -17,
-      "is_new": false,
-      "topic": "Jags",
-      "description": "The Jacksonville Jaguars are trending on social media after stunning the Philadelphia Eagles in London with a game-winning 57-yard field goal as time expired.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jags",
-      "image_url": "https://a.cdn-hotels.com/gdcs/production173/d273/4b1f27ef-eeb2-4515-b8a6-1d507c3a736c.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T15:23:32Z",
-      "first_seen": "2026-10-11T15:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "hipaa",
-      "rank": 19,
+      "rank": 17,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -642,12 +580,16 @@
         {
           "t": "2026-10-11T20:23:33Z",
           "r": 19
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": 0,
+      "rank_change": 2,
       "is_new": false,
       "topic": "HIPAA",
-      "description": "HIPAA is trending on social media following outrage and warnings sparked by a MAGA influencer's leaked call regarding Talarico's reported stay at a mental health facility.",
+      "description": "A MAGA influencer's secret phone call sparked widespread outrage and HIPAA warnings across social media amid reports regarding a mental health facility stay.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/HIPAA",
       "image_url": "https://www.medicaltranscriptionservicecompany.com/wp-content/uploads/2021/08/5-main-hipaa-rules-to-stay-compliant.png",
@@ -655,7 +597,7 @@
       "started_trending": "2026-10-11T18:23:33Z",
       "first_seen": "2026-10-11T18:23:33Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
+      "last_seen": "2026-10-11T21:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -663,28 +605,114 @@
       "extra": {}
     },
     {
-      "id": "skol",
+      "id": "keenum",
+      "rank": 18,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-11T18:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-11T19:23:33Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-11T20:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Keenum",
+      "description": "Case Keenum took over at quarterback for the Bears after Tyson Bagent was benched following two interceptions in the loss to the Packers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Keenum",
+      "image_url": "https://wisportsheroics.com/wp-content/uploads/2026/09/packers-bears-eagles-case-keenum-899x600.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T18:23:33Z",
+      "first_seen": "2026-10-11T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "malik-willis",
+      "rank": 19,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-11T18:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-11T19:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-11T20:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -13,
+      "is_new": false,
+      "topic": "Malik Willis",
+      "description": "Miami Dolphins quarterback Malik Willis rushed for a touchdown and scrambled effectively, though his passing success remained under scrutiny after a Week 5 loss.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Malik%20Willis",
+      "image_url": "https://www.sun-sentinel.com/wp-content/uploads/2026/03/tfl-l-dolphins-Malik-Willis-thurs-01-031226.jpg?w=3000&h=2000",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T18:23:33Z",
+      "first_seen": "2026-10-11T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-11T21:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "watson",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
           "t": "2026-10-11T20:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-11T21:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#skol",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23skol",
-      "image_url": "https://ftw.usatoday.com/gcdn/authoring/images/smg/2025/03/06/SFTW/81814167007-90-736984.jpeg?crop=3705,2084,x0,y224&width=3200&height=1800&format=pjpg&auto=webp",
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Watson",
+      "description": "Christian Watson caught deep touchdown passes from Jordan Love in the Packers' win over the Bears, while Deshaun Watson connected with Bond for the Browns against the Jets.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Watson",
+      "image_url": "https://www.iowaindependent.com/wp-content/uploads/2025/01/Deshaun-Watson.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-11T20:23:33Z",
       "first_seen": "2026-10-11T20:23:33Z",
       "published": null,
-      "last_seen": "2026-10-11T20:23:33Z",
+      "last_seen": "2026-10-11T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
