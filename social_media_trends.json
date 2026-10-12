@@ -1,15 +1,44 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-12T00:25:04Z",
+  "updated": "2026-10-12T01:24:58Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "mike-evans",
+      "id": "mark-andrews",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mark Andrews",
+      "description": "Mark Andrews is trending after he had a fumble returned for a touchdown by Jessie Bates III during the Sunday Night Football game between the Ravens and Falcons.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mark%20Andrews",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2024/12/17194533/GettyImages-2178264519-1024x683.jpg?width=1920&quality=70&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T01:23:31Z",
+      "first_seen": "2026-10-12T01:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mike-evans",
+      "rank": 2,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -24,12 +53,16 @@
         {
           "t": "2026-10-12T00:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 2
         }
       ],
-      "rank_change": 13,
+      "rank_change": 12,
       "is_new": false,
       "topic": "Mike Evans",
-      "description": "San Francisco 49ers player Mike Evans is trending after catching a touchdown and trash-talking during a thrilling win over the Seattle Seahawks.",
+      "description": "Mike Evans is trending after recording a 113-yard receiving game and his first 100-yard game with the 49ers in a thrilling 32-29 win over the Seahawks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mike%20Evans",
       "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap25005786590691.jpg?c=16x9&q=h_833,w_1480,c_fill",
@@ -37,16 +70,16 @@
       "started_trending": "2026-10-11T22:23:31Z",
       "first_seen": "2026-10-11T22:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "49ers",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -61,12 +94,16 @@
         {
           "t": "2026-10-12T00:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 3
         }
       ],
-      "rank_change": 2,
+      "rank_change": 1,
       "is_new": false,
       "topic": "49ers",
-      "description": "The San Francisco 49ers are trending on social media after defeating the Seattle Seahawks 32-29 to improve to 5-0 and take control of the NFC West.",
+      "description": "The 49ers are trending following their thrilling 32-29 Week 5 victory over the Seahawks, which featured Brandin Cooks scoring his first touchdown with the team.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/49ers",
       "image_url": "https://fanatics.frgimages.com/san-francisco-49ers/mens-new-era-scarlet-san-francisco-49ers-fan-9forty-a-frame-trucker-adjustable-hat_ss5_p-203783177+u-jpifparpwix3l1hefieu+v-wqhwpt9ruet12l2i7ho7.jpg?_hv=2",
@@ -74,16 +111,16 @@
       "started_trending": "2026-10-11T22:23:31Z",
       "first_seen": "2026-10-11T22:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "seahawks",
-      "rank": 3,
+      "rank": 4,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -98,12 +135,16 @@
         {
           "t": "2026-10-12T00:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 4
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Seahawks",
-      "description": "The Seattle Seahawks are trending after a turnover-filled 32-29 loss to the San Francisco 49ers.",
+      "description": "The Seahawks are trending after suffering a narrow 32-29 loss to the 49ers in a turnover-filled Week 5 matchup.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Seahawks",
       "image_url": "https://a.cdn-hotels.com/gdcs/production58/d528/e21ca945-2a3a-47fd-8b4b-d183fa3487ba.jpg",
@@ -111,16 +152,45 @@
       "started_trending": "2026-10-11T22:23:31Z",
       "first_seen": "2026-10-11T22:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ravens",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ravens",
+      "description": "The Ravens are trending as they face the Atlanta Falcons on Sunday Night Football, with key players like Zay Flowers and Marlon Humphrey active for the game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ravens",
+      "image_url": "https://www.lpc.com/wp-content/uploads/Baltimore-1200x800.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T01:23:31Z",
+      "first_seen": "2026-10-12T01:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "chargers",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -131,12 +201,16 @@
         {
           "t": "2026-10-12T00:23:33Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 6
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Chargers",
-      "description": "The Los Angeles Chargers are trending following a loss to the Denver Broncos as their winless streak continues.",
+      "description": "The Chargers are trending after dropping to an 0-5 record following a late-game collapse and 23-17 loss to the Denver Broncos.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Chargers",
       "image_url": "https://s.yimg.com/lo/mysterio/api/4f00a1d0378a382587c6215f3800f5f3ae4be7af17a90e5abea74bc628863ec9/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/sb_nation_articles_115/cf30eb8881f7fe85aac646520309c17b.jpg",
@@ -144,16 +218,16 @@
       "started_trending": "2026-10-11T23:23:34Z",
       "first_seen": "2026-10-11T23:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "niners",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -168,12 +242,16 @@
         {
           "t": "2026-10-12T00:23:33Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 7
         }
       ],
-      "rank_change": 4,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Niners",
-      "description": "The Niners are trending after securing a 32-29 victory against the Seattle Seahawks, boosted by strong performances from Mike Evans and Brock Purdy.",
+      "description": "The Niners are trending following their chaotic and thrilling 32-29 victory over the Seattle Seahawks on the road.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Niners",
       "image_url": "https://fanatics.frgimages.com/san-francisco-49ers/mens-new-era-scarlet-san-francisco-49ers-fan-9forty-a-frame-trucker-adjustable-hat_ss5_p-203783177+u-jpifparpwix3l1hefieu+v-wqhwpt9ruet12l2i7ho7.jpg?_hv=2",
@@ -181,40 +259,102 @@
       "started_trending": "2026-10-11T22:23:31Z",
       "first_seen": "2026-10-11T22:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "justin-herbert",
-      "rank": 6,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "id": "herbert",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-11T23:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 6
+          "t": "2026-10-12T01:23:31Z",
+          "r": 8
         }
       ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Justin Herbert",
-      "description": "Los Angeles Chargers quarterback Justin Herbert is trending after facing intense defensive pressure and a fourth-quarter meltdown in a loss to the Broncos.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Herbert",
+      "description": "Justin Herbert is trending after facing heavy pressure and a crucial strip-sack by the Broncos defense as the Chargers fell to 0-5.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Justin%20Herbert",
-      "image_url": "https://gridironheroics.com/wp-content/uploads/2026/01/Justin-Herbert-Confronts-Brutal-Reality-After-Chargers-Fall-to-Patriots-in-Playoff-Heartbreak.webp",
+      "url": "https://twstalker.com/search/Herbert",
+      "image_url": "https://c.ndtvimg.com/2026-10/9j895hh_justin-herbert_625x300_05_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T23:23:34Z",
-      "first_seen": "2026-10-11T23:23:34Z",
+      "started_trending": "2026-10-12T01:23:31Z",
+      "first_seen": "2026-10-12T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rhop",
+      "rank": 9,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-12T00:23:33Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "#RHOP",
+      "description": "The Real Housewives of Potomac is trending on social media as fans discuss the Season 11 premiere, cast details, and Wendy Osefo's marriage.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23RHOP",
+      "image_url": "https://www.cheatsheet.com/wp-content/uploads/2021/07/rhop-season-7-cast-bravo.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T00:23:33Z",
+      "first_seen": "2026-10-12T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "seattle",
+      "rank": 10,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-12T00:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Seattle",
+      "description": "Seattle is trending following the Seahawks' thrilling 32-29 Week 5 loss to the 49ers and a separate local news report about a strip club shooting.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Seattle",
+      "image_url": "https://images.metroscenes.com/images/2018/seattle-washington-skyline/seattle_washington_2018_metroscenes.com_32.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T00:23:33Z",
+      "first_seen": "2026-10-12T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-12T01:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -223,7 +363,7 @@
     },
     {
       "id": "fttb",
-      "rank": 7,
+      "rank": 11,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -238,9 +378,13 @@
         {
           "t": "2026-10-12T00:23:33Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 11
         }
       ],
-      "rank_change": 9,
+      "rank_change": 5,
       "is_new": false,
       "topic": "#FTTB",
       "description": "",
@@ -251,16 +395,16 @@
       "started_trending": "2026-10-11T22:23:31Z",
       "first_seen": "2026-10-11T22:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "broncos",
-      "rank": 8,
+      "rank": 12,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -271,12 +415,16 @@
         {
           "t": "2026-10-12T00:23:33Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 12
         }
       ],
-      "rank_change": -1,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Broncos",
-      "description": "The Denver Broncos are trending after using a strong fourth-quarter defensive performance to defeat the Los Angeles Chargers.",
+      "description": "The Broncos are trending after securing an ugly 23-17 victory over the Chargers, fueled by a strong fourth-quarter defensive performance.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Broncos",
       "image_url": "https://milehighsports.com/wp-content/uploads/2026/09/2026-09-28T034634Z_122893676_MT1USATODAY29938821_RTRMADP_3_NFL-LOS-ANGELES-RAMS-AT-DENVER-BRONCOS-1024x683.jpg",
@@ -284,345 +432,36 @@
       "started_trending": "2026-10-11T23:23:34Z",
       "first_seen": "2026-10-11T23:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "giants",
-      "rank": 9,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-11T21:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-11T22:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-11T23:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Giants",
-      "description": "The New York Giants are trending following a bizarre 27-27 overtime tie against the Washington Commanders.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Giants",
-      "image_url": "https://golfweek.usatoday.com/gcdn/authoring/authoring-images/2026/10/05/SCMD/92098389007-20261004-t-170152-z-185534066-mt-1-usatoday-29996444-rtrmadp-3-nfllondongamesindianapoliscoltsatwashingtoncommanders.JPG?crop=7344,4131,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T21:23:32Z",
-      "first_seen": "2026-10-11T21:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "purdy",
-      "rank": 10,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-11T23:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Purdy",
-      "description": "San Francisco 49ers quarterback Brock Purdy is trending after rallying his team past the Seattle Seahawks to improve their record to 5-0.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Purdy",
-      "image_url": "https://images.daznservices.com/di/library/DAZN_News/59/c6/brock-purdy-49ersoctober2023_109wuxkl5q70l1wsvve0ur5xn5.jpg?t=-179486821",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T23:23:34Z",
-      "first_seen": "2026-10-11T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dan-quinn",
-      "rank": 11,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-11T21:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-11T22:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-11T23:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Dan Quinn",
-      "description": "Washington Commanders coach Dan Quinn is trending after taking full blame for a botched overtime clock management mistake that resulted in a tie against the Giants.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dan%20Quinn",
-      "image_url": "https://athlonsports.com/.image/t_share/MjA4NTYzMzYyMjQ4Nzk1NDQz/quinn.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T21:23:32Z",
-      "first_seen": "2026-10-11T21:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "seattle",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Seattle",
-      "description": "Seattle is trending on social media following the Seahawks' narrow loss to the San Francisco 49ers and local news reports about a deadly strip club shooting.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Seattle",
-      "image_url": "https://images.metroscenes.com/images/2018/seattle-washington-skyline/seattle_washington_2018_metroscenes.com_32.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T00:23:33Z",
-      "first_seen": "2026-10-12T00:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jobe",
+      "id": "kelly",
       "rank": 13,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-11T23:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-12T00:23:33Z",
+          "t": "2026-10-12T01:23:31Z",
           "r": 13
         }
       ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Jobe",
-      "description": "Seattle Seahawks player Josh Jobe is trending after recovering a fumble forced from Deebo Samuel during the game against the 49ers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jobe",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/8b80dba5c909c484f295ef67ed40dc7ae9a491e3283ba9b59b142e4a4f5e0e34/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/seattle_seahawks_on_si_articles_855/84b64f1629be73e1c7d16042987981be.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T23:23:34Z",
-      "first_seen": "2026-10-11T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "darnold",
-      "rank": 14,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-11T22:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-11T23:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Darnold",
-      "description": "Sam Darnold is trending after throwing an interception that led to a 49ers touchdown and facing a sideline altercation during the Seahawks' loss to San Francisco.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Darnold",
-      "image_url": "https://heavy.com/wp-content/uploads/2026/09/new-england-patriots-v-seattle-seahawks-seattle-washington-september-09-sam-4.jpg?quality=35&strip=all&w=1350",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T22:23:31Z",
-      "first_seen": "2026-10-11T22:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bo-nix",
-      "rank": 15,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-11T22:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-11T23:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Bo Nix",
-      "description": "Denver Broncos quarterback Bo Nix is trending after a crucial fumble set up a touchdown for the Chargers during a tight matchup.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bo%20Nix",
-      "image_url": "https://www.denvergazette.com/wp-content/uploads/2025/12/20251214-CSG-SPORTS-Broncos-Packers-019-scaled-1536x1457.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-11T22:23:31Z",
-      "first_seen": "2026-10-11T22:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rhop",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 16
-        }
-      ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#RHOP",
-      "description": "The Real Housewives of Potomac is trending on social media as fans discuss and tune into the Season 11 premiere.",
+      "topic": "Kelly",
+      "description": "Kelly Clarkson is trending after a Brooklyn novelty store responded to her claims that staff treated her poorly over an unavailable singing bird item.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23RHOP",
-      "image_url": "https://www.cheatsheet.com/wp-content/uploads/2021/07/rhop-season-7-cast-bravo.jpg",
+      "url": "https://twstalker.com/search/Kelly",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/310f61675e73318a4f20abc6d4968b819171482e62a4bd14d036b085a93dc8d5/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/usa_today_entertainment_893/e21751577f10917ba27239958e140bcb.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T00:23:33Z",
-      "first_seen": "2026-10-12T00:23:33Z",
+      "started_trending": "2026-10-12T01:23:31Z",
+      "first_seen": "2026-10-12T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kupp",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kupp",
-      "description": "Cooper Kupp is trending after a controversial game-ending ruling declared him short of a first down, sealing the 49ers' win over the Seahawks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kupp",
-      "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2024/09/25142333/cooper-kupp-playing-week-4-2024-scaled.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T00:23:33Z",
-      "first_seen": "2026-10-12T00:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tnaboundforglory",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#TNABoundForGlory",
-      "description": "TNA Bound for Glory is trending as wrestling fans discuss live event results, including Indi Hartwell winning the Knockouts World Title.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23TNABoundForGlory",
-      "image_url": "https://image.tmdb.org/t/p/original/b9E6mjA4VJDahtxtuIJmpREGiIP.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T00:23:33Z",
-      "first_seen": "2026-10-12T00:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
+      "last_seen": "2026-10-12T01:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -631,7 +470,7 @@
     },
     {
       "id": "hipaa",
-      "rank": 19,
+      "rank": 14,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -658,12 +497,16 @@
         {
           "t": "2026-10-12T00:23:33Z",
           "r": 19
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 14
         }
       ],
-      "rank_change": 0,
+      "rank_change": 5,
       "is_new": false,
       "topic": "HIPAA",
-      "description": "HIPAA is trending on social media amid online controversy and warnings sparked by a secret audio call involving a political figure's health records.",
+      "description": "HIPAA is trending on social media following political controversies, including a secret call involving a MAGA influencer and proposed state administrative rules.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/HIPAA",
       "image_url": "https://www.medicaltranscriptionservicecompany.com/wp-content/uploads/2021/08/5-main-hipaa-rules-to-stay-compliant.png",
@@ -671,7 +514,7 @@
       "started_trending": "2026-10-11T18:23:33Z",
       "first_seen": "2026-10-11T18:23:33Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
+      "last_seen": "2026-10-12T01:23:31Z",
       "hours_trending": 6,
       "volume": "6hr trend",
       "volume_value": 6,
@@ -679,20 +522,53 @@
       "extra": {}
     },
     {
-      "id": "talarico",
-      "rank": 20,
+      "id": "justice-hill",
+      "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-12T00:23:33Z",
-          "r": 20
+          "t": "2026-10-12T01:23:31Z",
+          "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
+      "topic": "Justice Hill",
+      "description": "Justice Hill is trending after receiving early playing time over Derrick Henry during the Ravens' matchup against the Atlanta Falcons.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Justice%20Hill",
+      "image_url": "https://haam.org/wp-content/uploads/2018/12/What-is-justice.jpeg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T01:23:31Z",
+      "first_seen": "2026-10-12T01:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "talarico",
+      "rank": 16,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-12T00:23:33Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
       "topic": "Talarico",
-      "description": "James Talarico is trending after his campaign denied a viral GOP conspiracy theory claiming he was treated at a mental health facility during his flu absence.",
+      "description": "James Talarico is trending after returning to the campaign trail following a flu absence, addressing conspiracy theories, and being spotted at a Kacey Musgraves concert.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Talarico",
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/1200/675/James-Talarico-Stage.png?ve=1&tl=1",
@@ -700,10 +576,162 @@
       "started_trending": "2026-10-12T00:23:33Z",
       "first_seen": "2026-10-12T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-12T00:23:33Z",
+      "last_seen": "2026-10-12T01:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "purdy",
+      "rank": 17,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-11T23:23:34Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-12T00:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Purdy",
+      "description": "Brock Purdy is trending after helping lead the 49ers to a 32-29 victory over the Seahawks, despite throwing an interception to Nehemiah Pritchett.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Purdy",
+      "image_url": "https://images.daznservices.com/di/library/DAZN_News/59/c6/brock-purdy-49ersoctober2023_109wuxkl5q70l1wsvve0ur5xn5.jpg?t=-179486821",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T23:23:34Z",
+      "first_seen": "2026-10-11T23:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kupp",
+      "rank": 18,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-12T00:23:33Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Kupp",
+      "description": "Cooper Kupp is trending following a controversial game-ending play where he was ruled just short of a first down on a fourth-down stretch against the 49ers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kupp",
+      "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2024/09/25142333/cooper-kupp-playing-week-4-2024-scaled.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T00:23:33Z",
+      "first_seen": "2026-10-12T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dan-quinn",
+      "rank": 19,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-11T21:23:32Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-11T22:23:31Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-11T23:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-12T00:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -17,
+      "is_new": false,
+      "topic": "Dan Quinn",
+      "description": "Dan Quinn is trending after taking full responsibility for the Commanders' botched overtime clock management that resulted in a tie against the Giants.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dan%20Quinn",
+      "image_url": "https://athlonsports.com/.image/t_share/MjA4NTYzMzYyMjQ4Nzk1NDQz/quinn.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T21:23:32Z",
+      "first_seen": "2026-10-11T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jobe",
+      "rank": 20,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-11T23:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-12T00:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-12T01:23:31Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Jobe",
+      "description": "Josh Jobe is trending on social media after recovering a fumble forced by the Seahawks from Deebo Samuel during Week 5.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jobe",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/8b80dba5c909c484f295ef67ed40dc7ae9a491e3283ba9b59b142e4a4f5e0e34/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/seattle_seahawks_on_si_articles_855/84b64f1629be73e1c7d16042987981be.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-11T23:23:34Z",
+      "first_seen": "2026-10-11T23:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T01:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
