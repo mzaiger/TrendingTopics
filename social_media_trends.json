@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-12T12:25:17Z",
+  "updated": "2026-10-12T13:25:55Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -28,12 +28,16 @@
         {
           "t": "2026-10-12T12:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 1
         }
       ],
       "rank_change": 14,
       "is_new": false,
       "topic": "Columbus",
-      "description": "Columbus Day and Indigenous Peoples' Day are driving discussions online as cities navigate parade changes, and people check holiday schedules for banks, mail delivery, and the stock market.",
+      "description": "The upcoming Columbus Day holiday is trending as news covers local parade details, street closures, and scheduling for schools and businesses, alongside discussions around events like the Indigenous Peoples Day celebrations.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Columbus",
       "image_url": "https://images.rove.me/w_1920,q_85/h7nael7bttfuwrsysm2h/new-york-columbus-day-parade.jpg",
@@ -41,16 +45,82 @@
       "started_trending": "2026-10-12T09:23:31Z",
       "first_seen": "2026-10-12T09:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ilhan-omar",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ilhan Omar",
+      "description": "Democratic Representative Ilhan Omar's home was reportedly searched by federal and immigration enforcement agents as part of an ongoing fraud and criminal investigation.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ilhan%20Omar",
+      "image_url": "https://mynorthwest.com/wp-content/uploads/2026/10/Ilhan_Omar_Search_58371.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T13:23:36Z",
+      "first_seen": "2026-10-12T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "2026mamavote",
+      "rank": 3,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-12T12:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "#2026MAMAVOTE",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%232026MAMAVOTE",
+      "image_url": "https://6.soompi.io/wp-content/uploads/image/20261012104011_mama.jpeg?s=900x600&e=t",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "good-monday",
-      "rank": 2,
+      "rank": 4,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -69,12 +139,16 @@
         {
           "t": "2026-10-12T12:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 4
         }
       ],
-      "rank_change": 4,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Good Monday",
-      "description": "Social media users are discussing Monday morning weather forecasts, CD financial rates, and upcoming NFL matchups as the new week begins.",
+      "description": "Social media users are discussing weather updates, local morning news, and positive daily stories as communities head into the new week following the weekend.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Monday",
       "image_url": "https://www.animalfactsencyclopedia.com/images/buffalo-hugebison.jpg",
@@ -82,49 +156,16 @@
       "started_trending": "2026-10-12T09:23:31Z",
       "first_seen": "2026-10-12T09:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "2026mamavote",
-      "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-12T11:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#2026MAMAVOTE",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%232026MAMAVOTE",
-      "image_url": "https://6.soompi.io/wp-content/uploads/image/20261012104011_mama.jpeg?s=900x600&e=t",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T11:23:34Z",
-      "first_seen": "2026-10-12T11:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "victory-monday",
-      "rank": 4,
+      "rank": 5,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -135,9 +176,13 @@
         {
           "t": "2026-10-12T12:23:35Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 5
         }
       ],
-      "rank_change": 7,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Victory Monday",
       "description": "Sports fans are celebrating Victory Monday on social media following big NFL wins by the Bills, Jets, and Packers.",
@@ -148,16 +193,16 @@
       "started_trending": "2026-10-12T11:23:34Z",
       "first_seen": "2026-10-12T11:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mondaymotivation",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -172,9 +217,13 @@
         {
           "t": "2026-10-12T12:23:35Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 6
         }
       ],
-      "rank_change": 2,
+      "rank_change": 1,
       "is_new": false,
       "topic": "#MondayMotivation",
       "description": "",
@@ -185,69 +234,152 @@
       "started_trending": "2026-10-12T10:23:34Z",
       "first_seen": "2026-10-12T10:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "indigenous-peoples",
-      "rank": 6,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-12T11:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Indigenous Peoples",
-      "description": "Indigenous Peoples' Day is trending as people share local events, discuss holiday schedules, and highlight recognitions across the country.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Indigenous%20Peoples",
-      "image_url": "https://soprissun.com/wp-content/uploads/2026/10/p14-Indigenous-Peoples-Day.jpeg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T11:23:34Z",
-      "first_seen": "2026-10-12T11:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "psd-family-37th-kingpower",
+      "id": "indigenouspeoplesday",
       "rank": 7,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-12T12:23:35Z",
+          "t": "2026-10-12T13:23:36Z",
           "r": 7
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "PSD FAMILY 37TH KINGPOWER",
+      "topic": "#IndigenousPeoplesDay",
+      "description": "People are sharing local events, community commemorations, and holiday schedules as communities across the country observe Indigenous Peoples Day.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23IndigenousPeoplesDay",
+      "image_url": "https://buffalobayou.org/wp-content/uploads/2025/10/970d3777-6207-3f06-9d76-50d0c5fe0495-scaled.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T13:23:36Z",
+      "first_seen": "2026-10-12T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "regna",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Regna",
+      "description": "Ondas and Palantir have launched a new venture called Regna AI, powered by Palantir, aimed at developing sovereign and secure artificial intelligence for defense and secure deployments.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Regna",
+      "image_url": "https://nationaltechnology.co.uk/images/Palantir.jpeg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T13:23:36Z",
+      "first_seen": "2026-10-12T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "idontwanttooverreactbut",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#IDontWantToOverreactBUT",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/PSD%20FAMILY%2037TH%20KINGPOWER",
-      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2109610299678687232/img/dh-mLiWwuX55BayT?format=webp&name=medium",
+      "url": "https://twstalker.com/search/%23IDontWantToOverreactBUT",
+      "image_url": "https://gifdb.com/images/high/surprised-reaction-of-pikachu-meme-5hiertzt49db5nls.gif",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T12:23:35Z",
-      "first_seen": "2026-10-12T12:23:35Z",
+      "started_trending": "2026-10-12T13:23:36Z",
+      "first_seen": "2026-10-12T13:23:36Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dan-levy",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dan Levy",
+      "description": "Actor Dan Levy is trending after publicly calling out Shane Gillis's 'SNL' monologue, criticizing the comedian's comments about women's gym clothes as misogynistic.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dan%20Levy",
+      "image_url": "https://cdn.britannica.com/06/222806-050-D6F16347/Canadian-actor-writer-director-comedian-Dan-Levy-2020.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T13:23:36Z",
+      "first_seen": "2026-10-12T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-thanksgiving",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy Thanksgiving",
+      "description": "The material does not make a description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Happy%20Thanksgiving",
+      "image_url": "https://celebrationsathomeblog.com/wp-content/uploads/2020/11/thanksgiving-table-with-food.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T13:23:36Z",
+      "first_seen": "2026-10-12T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-12T13:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -256,19 +388,23 @@
     },
     {
       "id": "i-vote",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 12,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-10-12T12:23:35Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 12
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "I VOTE",
-      "description": "Voters are discussing election security, ballot corrections, and upcoming local races across the United States.",
+      "description": "Voters are discussing general election ballots, local races, and ballot questions, while election officials address security and guidelines for correcting mistakes on votes.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/I%20VOTE",
       "image_url": "https://static.vecteezy.com/system/resources/previews/016/442/734/large_2x/official-ballot-and-voting-instructions-with-i-voted-sticker-laying-on-american-flag-photo.jpg",
@@ -276,7 +412,36 @@
       "started_trending": "2026-10-12T12:23:35Z",
       "first_seen": "2026-10-12T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "elisity",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Elisity",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Elisity",
+      "image_url": "https://www.elisity.com/hubfs/Screenshot+2025-07-28+at+10.44.58+AM.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T13:23:36Z",
+      "first_seen": "2026-10-12T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-12T13:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -284,47 +449,55 @@
       "extra": {}
     },
     {
-      "id": "kingpowerxperthsantadomiia",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "kelly-clarkson",
+      "rank": 14,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-10-12T12:23:35Z",
-          "r": 9
+          "r": 13
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#KingPowerxPerthSantaDomiia",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23KingPowerxPerthSantaDomiia",
-      "image_url": "https://www.tiktok.com/api/img/?itemId=7557629628924333313&location=0&aid=1988",
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Kelly Clarkson",
+      "description": "Kelly Clarkson is trending on social media due to an escalating public feud with a Brooklyn store after she alleged that staff treated her poorly during a visit.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kelly%20Clarkson",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/be07110f095f110d9840dd4fb492ca868ab98d7ca40fbcebcb69e5abe931ceeb/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/usa_today_entertainment_893/0473ee9714e3338a11fd167bf5adaa31.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-12T12:23:35Z",
       "first_seen": "2026-10-12T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mondayvibes",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 15,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-12T12:23:35Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -5,
+      "is_new": false,
       "topic": "#MondayVibes",
       "description": "",
       "description_source": "",
@@ -334,242 +507,7 @@
       "started_trending": "2026-10-12T12:23:35Z",
       "first_seen": "2026-10-12T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "njkopw",
-      "rank": 11,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-12T08:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-12T11:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "#njkopw",
-      "description": "Fans on social media are discussing the latest NJPW King of Pro Wrestling events, featuring news on Jon Moxley, championship matches, and upcoming tournament announcements.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23njkopw",
-      "image_url": "https://i.ytimg.com/vi/dPUxHglSeYs/maxresdefault.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T08:23:32Z",
-      "first_seen": "2026-10-12T08:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "thanksgiving",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Thanksgiving",
-      "description": "Social media users are discussing early winter weather forecasts for Thanksgiving, holiday traditions, and local community events.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Thanksgiving",
-      "image_url": "https://sugarandcharm.com/wp-content/uploads/2019/11/thanksgiving-table-setting-1-2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T12:23:35Z",
-      "first_seen": "2026-10-12T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kelly-clarkson",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kelly Clarkson",
-      "description": "Kelly Clarkson is trending after a public feud with a Brooklyn store owner over a shopping experience went viral.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kelly%20Clarkson",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/be07110f095f110d9840dd4fb492ca868ab98d7ca40fbcebcb69e5abe931ceeb/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/usa_today_entertainment_893/0473ee9714e3338a11fd167bf5adaa31.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T12:23:35Z",
-      "first_seen": "2026-10-12T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "michael-woodford",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Michael Woodford",
-      "description": "Michael Woodford and Robert E. Hall are trending after winning the Nobel Memorial Prize in Economics for their work on stabilizing economies.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Michael%20Woodford",
-      "image_url": "https://blogs.cuit.columbia.edu/mw2230/files/2018/11/MW_new.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T12:23:35Z",
-      "first_seen": "2026-10-12T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tsuji",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tsuji",
-      "description": "Yota Tsuji is trending after defeating Ryohei Oiwa to retain his heavyweight title at NJPW King of Pro-Wrestling, drawing a challenge from Kenny Omega.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tsuji",
-      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80b8d3c3-c395-4c7f-a72a-f6dd3f5380de/dgo75p9-54e8c2f2-daa1-4fe9-a3a9-4700d3f48266.png/v1/fill/w_774,h_1033/yota_tsuji_render_by_kiddmoxxie_dgo75p9-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA0NiIsInBhdGgiOiJcL2ZcLzgwYjhkM2MzLWMzOTUtNGM3Zi1hNzJhLWY2ZGQzZjUzODBkZVwvZGdvNzVwOS01NGU4YzJmMi1kYWExLTRmZTktYTNhOS00NzAwZDNmNDgyNjYucG5nIiwid2lkdGgiOiI8PTc4NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.b5d2qIuavDczeDYt2ywnOjzDumXcynVrIQ1u0tNoC6s",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T12:23:35Z",
-      "first_seen": "2026-10-12T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hanbin",
-      "rank": 16,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-12T11:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "hanbin",
-      "description": "ZeroBaseOne member Sung Han-bin is trending on social media as he holds a solo debut showcase and releases his new album.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/hanbin",
-      "image_url": "https://i.pinimg.com/736x/eb/b9/d5/ebb9d57f571d7f5047bae2f12637d81d.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T09:23:31Z",
-      "first_seen": "2026-10-12T09:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oiwa",
-      "rank": 17,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-12T11:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Oiwa",
-      "description": "Ryohei Oiwa is trending following his match against Yota Tsuji for the IWGP Heavyweight Title at the NJPW King of Pro-Wrestling event.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Oiwa",
-      "image_url": "https://egenolfgallery.com/cdn/shop/files/YII029copy_1024x1024@2x.jpg?v=1686894677",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T11:23:34Z",
-      "first_seen": "2026-10-12T11:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
+      "last_seen": "2026-10-12T13:23:36Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -577,20 +515,86 @@
       "extra": {}
     },
     {
-      "id": "don-francisco",
-      "rank": 18,
+      "id": "psd-family-37th-kingpower",
+      "rank": 16,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-12T12:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "PSD FAMILY 37TH KINGPOWER",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/PSD%20FAMILY%2037TH%20KINGPOWER",
+      "image_url": "https://pbs.twimg.com/amplify_video_thumb/2109610299678687232/img/dh-mLiWwuX55BayT?format=webp&name=medium",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T12:23:35Z",
+      "first_seen": "2026-10-12T12:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ondas",
+      "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-12T12:23:35Z",
-          "r": 18
+          "t": "2026-10-12T13:23:36Z",
+          "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
+      "topic": "Ondas",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Ondas",
+      "image_url": "https://static.wixstatic.com/media/f1b5a0_ce3ce407a60a4e6397c41a6aafc214f4~mv2.png/v1/fill/w_2500,h_552,al_c/f1b5a0_ce3ce407a60a4e6397c41a6aafc214f4~mv2.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T13:23:36Z",
+      "first_seen": "2026-10-12T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "don-francisco",
+      "rank": 18,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-12T12:23:35Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Don Francisco",
-      "description": "Don Francisco is trending online following news of his return to television with a new series on Univision.",
+      "description": "Television host Don Francisco is generating discussion online following a recent interview and reports regarding his return to television with the 'Gigantes' series on Univision.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Don%20Francisco",
       "image_url": "https://facts.net/wp-content/uploads/2023/10/21-mind-blowing-facts-about-don-francisco-1697076718.jpg",
@@ -598,88 +602,72 @@
       "started_trending": "2026-10-12T12:23:35Z",
       "first_seen": "2026-10-12T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "kenny-omega",
+      "id": "michael-woodford",
       "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-10-12T12:23:35Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-12T13:23:36Z",
           "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kenny Omega",
-      "description": "Kenny Omega is trending after making a surprise return at NJPW King of Pro-Wrestling to challenge heavyweight champion Yota Tsuji.",
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Michael Woodford",
+      "description": "Robert E. Hall and Michael Woodford have been awarded the 2026 Nobel Memorial Prize in Economic Sciences for their work on stabilizing economies.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kenny%20Omega",
-      "image_url": "https://www.wrestling-world.com/world/media/image27501.jpg",
+      "url": "https://twstalker.com/search/Michael%20Woodford",
+      "image_url": "https://blogs.cuit.columbia.edu/mw2230/files/2018/11/MW_new.png",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-12T12:23:35Z",
       "first_seen": "2026-10-12T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "falcons",
+      "id": "alcaraz",
       "rank": 20,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-12T07:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-12T08:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-12T11:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-12T12:23:35Z",
+          "t": "2026-10-12T13:23:36Z",
           "r": 20
         }
       ],
-      "rank_change": -18,
-      "is_new": false,
-      "topic": "Falcons",
-      "description": "The Atlanta Falcons are trending after a tight overtime loss to the Baltimore Ravens that included a rib injury to quarterback Michael Penix Jr.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Falcons",
-      "image_url": "https://www.fubo.tv/news/wp-content/uploads/2026/10/Atlanta_Falcons_at_New_Orleans_Saints_-_Where_to_Watch_Stream_Info_TV_Channel_and_Live_Updates_October_05_2026-1024x576.webp",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Alcaraz",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Alcaraz",
+      "image_url": "https://e0.365dm.com/26/10/1600x900/skysports-carlos-alcaraz_7369608.jpg?20261006122806",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T04:23:32Z",
-      "first_seen": "2026-10-12T04:23:32Z",
+      "started_trending": "2026-10-12T13:23:36Z",
+      "first_seen": "2026-10-12T13:23:36Z",
       "published": null,
-      "last_seen": "2026-10-12T12:23:35Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-12T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
