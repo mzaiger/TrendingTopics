@@ -1,48 +1,15 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-12T10:25:32Z",
+  "updated": "2026-10-12T11:26:26Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "good-monday",
-      "rank": 1,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 1
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Good Monday",
-      "description": "The material doesn't make a description clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Monday",
-      "image_url": "https://www.animalfactsencyclopedia.com/images/buffalo-hugebison.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T09:23:31Z",
-      "first_seen": "2026-10-12T09:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "columbus",
-      "rank": 2,
+      "rank": 1,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -53,12 +20,16 @@
         {
           "t": "2026-10-12T10:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 1
         }
       ],
-      "rank_change": 13,
+      "rank_change": 14,
       "is_new": false,
       "topic": "Columbus",
-      "description": "Columbus Day and Indigenous Peoples' Day are drawing online discussion regarding holiday closures, parades, and public figures opting out of celebrations.",
+      "description": "Columbus Day and Indigenous Peoples' Day are trending as discussions unfold over holiday schedules, parades, and closures.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Columbus",
       "image_url": "https://images.rove.me/w_1920,q_85/h7nael7bttfuwrsysm2h/new-york-columbus-day-parade.jpg",
@@ -66,16 +37,82 @@
       "started_trending": "2026-10-12T09:23:31Z",
       "first_seen": "2026-10-12T09:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-monday",
+      "rank": 2,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-12T09:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-12T10:23:34Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Good Monday",
+      "description": "The material doesn't make a description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Good%20Monday",
+      "image_url": "https://www.animalfactsencyclopedia.com/images/buffalo-hugebison.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T09:23:31Z",
+      "first_seen": "2026-10-12T09:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "2026mamavote",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#2026MAMAVOTE",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%232026MAMAVOTE",
+      "image_url": "https://6.soompi.io/wp-content/uploads/image/20261012104011_mama.jpeg?s=900x600&e=t",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "njkopw",
-      "rank": 3,
+      "rank": 4,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -90,9 +127,13 @@
         {
           "t": "2026-10-12T10:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 4
         }
       ],
-      "rank_change": 4,
+      "rank_change": 3,
       "is_new": false,
       "topic": "#njkopw",
       "description": "Fans on social media are discussing the latest NJPW King of Pro Wrestling events, featuring news on Jon Moxley, championship matches, and upcoming tournament announcements.",
@@ -103,23 +144,81 @@
       "started_trending": "2026-10-12T08:23:32Z",
       "first_seen": "2026-10-12T08:23:32Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mondaymotivation",
+      "rank": 5,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-12T10:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "#MondayMotivation",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MondayMotivation",
+      "image_url": "https://i.pinimg.com/originals/5a/fd/ae/5afdae460fa899918ce4403eaf11d0ff.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T10:23:34Z",
+      "first_seen": "2026-10-12T10:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "oiwa",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Oiwa",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Oiwa",
+      "image_url": "https://egenolfgallery.com/cdn/shop/files/YII029copy_1024x1024@2x.jpg?v=1686894677",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ravens",
-      "rank": 4,
+      "rank": 7,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-12T05:23:31Z",
-          "r": 1
-        },
         {
           "t": "2026-10-12T06:23:33Z",
           "r": 1
@@ -139,9 +238,13 @@
         {
           "t": "2026-10-12T10:23:34Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 7
         }
       ],
-      "rank_change": -3,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Ravens",
       "description": "The Baltimore Ravens secured a dramatic 29-23 overtime victory against the Atlanta Falcons in primetime, featuring a game-winning interception by Kyle Hamilton and a crucial quarterback-sneak touchdown by Tyler Huntley.",
@@ -152,16 +255,16 @@
       "started_trending": "2026-10-12T01:23:31Z",
       "first_seen": "2026-10-12T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hanbin",
-      "rank": 5,
+      "rank": 8,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -172,9 +275,13 @@
         {
           "t": "2026-10-12T10:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": 5,
+      "rank_change": 2,
       "is_new": false,
       "topic": "hanbin",
       "description": "ZeroBaseOne member Sung Han-bin is trending after hosting a solo debut showcase in Seoul to introduce his new album and bring his 'Dead Alive' performance to life.",
@@ -185,23 +292,19 @@
       "started_trending": "2026-10-12T09:23:31Z",
       "first_seen": "2026-10-12T09:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "falcons",
-      "rank": 6,
+      "rank": 9,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-10-12T05:23:31Z",
-          "r": 2
-        },
         {
           "t": "2026-10-12T06:23:33Z",
           "r": 2
@@ -221,9 +324,13 @@
         {
           "t": "2026-10-12T10:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": -4,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Falcons",
       "description": "The Atlanta Falcons suffered a tough overtime loss to the Baltimore Ravens in primetime after quarterback Michael Penix Jr. sustained a late rib injury and Tua Tagovailoa threw a game-sealing interception.",
@@ -234,36 +341,152 @@
       "started_trending": "2026-10-12T04:23:32Z",
       "first_seen": "2026-10-12T04:23:32Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mondaymotivation",
-      "rank": 7,
+      "id": "enhypen",
+      "rank": 10,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 7
+          "t": "2026-10-12T11:23:34Z",
+          "r": 10
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#MondayMotivation",
+      "topic": "#ENHYPEN",
+      "description": "ENHYPEN is trending on social media due to new tour vlogs, Billboard album chart success, award show nominations, and fan discussions.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23ENHYPEN",
+      "image_url": "https://cdn.platinumlist.net/upload/artist/enhypen_1639-orig1688763531.jpeg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "victory-monday",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Victory Monday",
+      "description": "Sports fans are celebrating Victory Monday across social media following major wins by the Bills, Jets, and Packers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Victory%20Monday",
+      "image_url": "https://www.tiktok.com/api/img/?itemId=7555501128335494430&location=0&aid=1988",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kelly",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kelly",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23MondayMotivation",
-      "image_url": "https://i.pinimg.com/originals/5a/fd/ae/5afdae460fa899918ce4403eaf11d0ff.jpg",
+      "url": "https://twstalker.com/search/Kelly",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/d86180ae527742a501c5c664d7f0e19e6d269d8635a435faa68f4f1a25df997d/lightyear_networkapi/resizefill_w976;quality_80;format_webp/https://media.zenfs.com/en/life_style_868/f42a8872ea24a5d25e3565557d88be3f",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T10:23:34Z",
-      "first_seen": "2026-10-12T10:23:34Z",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "indigenous-peoples",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Indigenous Peoples",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Indigenous%20Peoples",
+      "image_url": "https://soprissun.com/wp-content/uploads/2026/10/p14-Indigenous-Peoples-Day.jpeg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "njpw",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#njpw",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23njpw",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BN2VlNjYyN2YtMGUyNi00M2ZkLTkxY2MtZjk1NTM0YmI2NzNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T11:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -272,14 +495,10 @@
     },
     {
       "id": "penix",
-      "rank": 8,
+      "rank": 15,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-10-12T05:23:31Z",
-          "r": 4
-        },
         {
           "t": "2026-10-12T06:23:33Z",
           "r": 3
@@ -299,9 +518,13 @@
         {
           "t": "2026-10-12T10:23:34Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 15
         }
       ],
-      "rank_change": -5,
+      "rank_change": -12,
       "is_new": false,
       "topic": "Penix",
       "description": "Atlanta Falcons quarterback Michael Penix Jr. is trending after suffering a rib injury late in a loss to the Ravens, though he stated the issue is not long-term.",
@@ -312,26 +535,30 @@
       "started_trending": "2026-10-12T02:23:32Z",
       "first_seen": "2026-10-12T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gabe-kidd",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-12T10:23:34Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -7,
+      "is_new": false,
       "topic": "Gabe Kidd",
       "description": "Gabe Kidd is trending because he is being challenged by Taichi for the IWGP Global Heavyweight Title at NJPW Power Struggle.",
       "description_source": "gemini",
@@ -341,23 +568,19 @@
       "started_trending": "2026-10-12T10:23:34Z",
       "first_seen": "2026-10-12T10:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mark-andrews",
-      "rank": 10,
+      "rank": 17,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-10-12T05:23:31Z",
-          "r": 3
-        },
         {
           "t": "2026-10-12T06:23:33Z",
           "r": 4
@@ -377,9 +600,13 @@
         {
           "t": "2026-10-12T10:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 17
         }
       ],
-      "rank_change": -6,
+      "rank_change": -13,
       "is_new": false,
       "topic": "Mark Andrews",
       "description": "Baltimore Ravens tight end Mark Andrews is drawing attention on social media following a rocky start against the Falcons that included a costly fumble and dropped passes before his team rallied for an overtime win.",
@@ -390,247 +617,30 @@
       "started_trending": "2026-10-12T01:23:31Z",
       "first_seen": "2026-10-12T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kelly-clarkson",
-      "rank": 11,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-12T05:23:31Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-12T06:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-12T07:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-12T08:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Kelly Clarkson",
-      "description": "Kelly Clarkson is trending after getting into a public war of words with a Brooklyn novelty shop over an alleged bad shopping experience that the store denied.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kelly%20Clarkson",
-      "image_url": "https://www.nbc.com/sites/nbcblog/files/2025/02/kelly.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T05:23:31Z",
-      "first_seen": "2026-10-12T05:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kyle-hamilton",
-      "rank": 12,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-12T05:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-12T06:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-12T07:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-12T08:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "KYLE HAMILTON",
-      "description": "Kyle Hamilton is trending after sealing the Baltimore Ravens' overtime win against the Atlanta Falcons with a crucial interception.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/KYLE%20HAMILTON",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/FGvNyIGBtjGs1lIEWXCCbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2025-08/f82ff670-835f-11f0-8e53-3eb398492730",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T04:23:32Z",
-      "first_seen": "2026-10-12T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lagranjagala",
-      "rank": 13,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-12T05:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-12T06:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-12T07:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-12T08:23:32Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#LaGranjaGala",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23LaGranjaGala",
-      "image_url": "https://diariodechiapas.com/wp-content/uploads/2025/10/DICU_40-01-1.webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T05:23:31Z",
-      "first_seen": "2026-10-12T05:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "snoop",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Snoop",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Snoop",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Snoop_Dogg_2023_(53775197331)_(cropped)_(cropped).jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T10:23:34Z",
-      "first_seen": "2026-10-12T10:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "calvin-harris",
-      "rank": 15,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-12T06:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-12T07:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-12T08:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Calvin Harris",
-      "description": "Calvin Harris is trending after weather and lightning forced the Head Trip music festival to cut its first night short, leading to his addition to the Sunday lineup.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Calvin%20Harris",
-      "image_url": "https://s3-us-west-1.amazonaws.com/wass-media-library/music_artists/calvin-harris-20241109.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T06:23:33Z",
-      "first_seen": "2026-10-12T06:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "brexit",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-10-12T10:23:34Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-12T11:23:34Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Brexit",
       "description": "UK Prime Minister Andy Burnham is trending after stating it is clear that Russia interfered in the 2016 Brexit referendum.",
       "description_source": "gemini",
@@ -640,40 +650,7 @@
       "started_trending": "2026-10-12T10:23:34Z",
       "first_seen": "2026-10-12T10:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "art-of-play",
-      "rank": 17,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Art of Play",
-      "description": "Art of Play is trending due to a public feud involving Kelly Clarkson and the Brooklyn novelty store over a desired item and an alleged bad shopping experience.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Art%20of%20Play",
-      "image_url": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/11-4.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T09:23:31Z",
-      "first_seen": "2026-10-12T09:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
+      "last_seen": "2026-10-12T11:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -681,114 +658,57 @@
       "extra": {}
     },
     {
-      "id": "soobin",
-      "rank": 18,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-12T08:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "soobin",
-      "description": "Jung Soo-bin is trending after winning her first LPBA billiards title, defeating Lee Mi-rae to claim her championship four years after her debut.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/soobin",
-      "image_url": "https://cdn.bongdaplus.vn/Assets/Media/2026/02/03/77/jung2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T08:23:32Z",
-      "first_seen": "2026-10-12T08:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "derrick-henry",
+      "id": "happy-thanksgiving",
       "rank": 19,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-12T05:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-12T06:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-12T07:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-12T08:23:32Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-12T09:23:31Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-12T10:23:34Z",
+          "t": "2026-10-12T11:23:34Z",
           "r": 19
         }
       ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Derrick Henry",
-      "description": "Derrick Henry is trending following a productive game against the Falcons where he rushed for over 100 yards, scored a touchdown, and helped fuel the Ravens' win.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Derrick%20Henry",
-      "image_url": "https://media.firstsportz.com/wp-content/uploads/2026/10/01013412/It-Was-Bittersweet-Ravens-Derrick-Henrys-Candid-Response-to-Late-Fallout-With-Titans.webp",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy Thanksgiving",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Happy%20Thanksgiving",
+      "image_url": "https://www.publicdomainpictures.net/pictures/750000/velka/happy-thanksgiving-family-1764220538qoc.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T02:23:32Z",
-      "first_seen": "2026-10-12T02:23:32Z",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-12T11:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "balvsatl",
+      "id": "yandex",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-12T10:23:34Z",
+          "t": "2026-10-12T11:23:34Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#BALvsATL",
+      "topic": "Yandex",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23BALvsATL",
-      "image_url": "https://media.pff.com/2022/12/USATSI_19677715_168392742_lowres-scaled.jpg?w=1200&h=675",
+      "url": "https://twstalker.com/search/Yandex",
+      "image_url": "https://searchfacts.com/wp-content/uploads/2019/08/yandex-search-home-page.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T10:23:34Z",
-      "first_seen": "2026-10-12T10:23:34Z",
+      "started_trending": "2026-10-12T11:23:34Z",
+      "first_seen": "2026-10-12T11:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T10:23:34Z",
+      "last_seen": "2026-10-12T11:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
