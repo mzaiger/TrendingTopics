@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-12T21:25:11Z",
+  "updated": "2026-10-12T22:25:02Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -13,10 +13,6 @@
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-12T15:23:34Z",
-          "r": 1
-        },
         {
           "t": "2026-10-12T16:23:35Z",
           "r": 1
@@ -40,12 +36,16 @@
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Columbus",
-      "description": "Columbus Day is trending as communities observe the holiday, cities host annual parades, and discussions continue regarding Indigenous Peoples' Day and historical legacy.",
+      "description": "Social media users are discussing Columbus Day as parades take place in New York and Cleveland, alongside ongoing debates over Christopher Columbus statues and historical legacy.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Columbus",
       "image_url": "https://images.rove.me/w_1920,q_85/h7nael7bttfuwrsysm2h/new-york-columbus-day-parade.jpg",
@@ -53,16 +53,45 @@
       "started_trending": "2026-10-12T09:23:31Z",
       "first_seen": "2026-10-12T09:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 12,
-      "volume": "12hr trend",
-      "volume_value": 12,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 13,
+      "volume": "13hr trend",
+      "volume_value": 13,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "yamamoto",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Yamamoto",
+      "description": "Baseball fans are talking about Yoshinobu Yamamoto ahead of Dodgers vs. Brewers NLCS Game 2, highlighting his postseason excellence and role in the series.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Yamamoto",
+      "image_url": "https://dodgersnation.com/wp-content/uploads/2026/09/Yoshinobu-Yamamoto-2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T22:23:32Z",
+      "first_seen": "2026-10-12T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "omar",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -81,12 +110,16 @@
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Omar",
-      "description": "Representative Ilhan Omar's Washington D.C. home was searched by federal immigration and law enforcement agents, drawing immediate rebukes and criticism from fellow Democrats.",
+      "description": "Social media is reacting to federal agents searching the Washington, D.C. home of Representative Ilhan Omar in a pre-dawn raid, prompting her to state she will not be silenced.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Omar",
       "image_url": "https://www.chicagotribune.com/wp-content/uploads/2026/10/EEUU_ILHAN_OMAR_46762.jpg",
@@ -94,16 +127,82 @@
       "started_trending": "2026-10-12T18:23:31Z",
       "first_seen": "2026-10-12T18:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rj-mitte",
+      "rank": 4,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-12T21:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "RJ Mitte",
+      "description": "Tributes are pouring in on social media after RJ Mitte, best known for playing Walter White Jr. on Breaking Bad, died at the age of 34.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/RJ%20Mitte",
+      "image_url": "https://www.thewrap.com/wp-content/uploads/2026/10/rj-mitte.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T21:23:31Z",
+      "first_seen": "2026-10-12T21:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "breaking-bad",
+      "rank": 5,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-12T21:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Breaking Bad",
+      "description": "Fans are remembering the hit series Breaking Bad following the death of actor RJ Mitte, who played Walter White Jr.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Breaking%20Bad",
+      "image_url": "https://external-preview.redd.it/367d9HQ_lBn-I6xxAQQfVwfvkuJp-y04xPGtnoPu-sg.jpg?auto=webp&s=4cb889dd95de0b6b4a298d1c7a1e103f31421661",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T21:23:31Z",
+      "first_seen": "2026-10-12T21:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "somalia",
-      "rank": 3,
+      "rank": 6,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -126,12 +225,16 @@
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": 0,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Somalia",
-      "description": "Social media users are discussing recent developments in Somalia, including child malnutrition emergencies, international aid efforts, and the launch of a new national mental health policy.",
+      "description": "Social media discussions regarding Somalia highlight a child malnutrition emergency, a new mental health policy, and unconfirmed defense ties involving Pakistani fighter jets.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Somalia",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_map_of_Somalia.svg/960px-Flag_map_of_Somalia.svg.png",
@@ -139,76 +242,18 @@
       "started_trending": "2026-10-12T17:23:34Z",
       "first_seen": "2026-10-12T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rj-mitte",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T21:23:31Z",
-          "r": 4
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "RJ Mitte",
-      "description": "RJ Mitte, the actor best known for playing Walter White Jr. on Breaking Bad, has reportedly died at age 34, prompting widespread tributes online.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/RJ%20Mitte",
-      "image_url": "https://www.thewrap.com/wp-content/uploads/2026/10/rj-mitte.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T21:23:31Z",
-      "first_seen": "2026-10-12T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "breaking-bad",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T21:23:31Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Breaking Bad",
-      "description": "The acclaimed television series Breaking Bad is trending following the death of star RJ Mitte, who played Walter White Jr.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Breaking%20Bad",
-      "image_url": "https://external-preview.redd.it/367d9HQ_lBn-I6xxAQQfVwfvkuJp-y04xPGtnoPu-sg.jpg?auto=webp&s=4cb889dd95de0b6b4a298d1c7a1e103f31421661",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T21:23:31Z",
-      "first_seen": "2026-10-12T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mar-a-lago",
-      "rank": 6,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "rank": 7,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-10-12T16:23:35Z",
@@ -233,12 +278,16 @@
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 7
         }
       ],
-      "rank_change": 1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Mar-a-Lago",
-      "description": "Mar-a-Lago is trending as commentators compare recent federal raids to the property, while wealthy Americans and political figures continue to spark discussion around the estate.",
+      "description": "Mar-a-Lago is trending on social media as Donald Trump prepares for his Palm Beach visits, with commentators also drawing comparisons between his estate and a recent search of Rep. Ilhan Omar's home.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mar-a-Lago",
       "image_url": "https://content.fortune.com/wp-content/uploads/2016/03/mar-a-lago-club_1.jpg?quality=80",
@@ -246,28 +295,32 @@
       "started_trending": "2026-10-12T16:23:35Z",
       "first_seen": "2026-10-12T16:23:35Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "walt-jr",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 8,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Walt Jr",
-      "description": "Fans are paying tribute following the death of actor RJ Mitte, who portrayed Walter White Jr., also known as Walt Jr., on Breaking Bad at age 34.",
+      "description": "Fans are paying tribute following the death of RJ Mitte, who played Walter Flynn White Jr. on Breaking Bad and became a disability-rights activist.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Walt%20Jr",
       "image_url": "https://fwmedia.fandomwire.com/wp-content/uploads/2025/10/09045025/rj-mitte.jpg",
@@ -275,18 +328,18 @@
       "started_trending": "2026-10-12T21:23:31Z",
       "first_seen": "2026-10-12T21:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "no-one-is-above-the-law",
-      "rank": 8,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "rank": 9,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-10-12T16:23:35Z",
@@ -311,12 +364,16 @@
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 9
         }
       ],
-      "rank_change": 5,
+      "rank_change": -3,
       "is_new": false,
       "topic": "NO ONE IS ABOVE THE LAW",
-      "description": "The phrase 'no one is above the law' is trending on social media following the federal raid on Representative Ilhan Omar's home and a separate sheriff's statement in Georgia.",
+      "description": "Social media users are debating the phrase following a Georgia sheriff's remarks and differing reactions to federal agents searching Representative Ilhan Omar's home.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/NO%20ONE%20IS%20ABOVE%20THE%20LAW",
       "image_url": "https://media.baselineresearch.com/images/1903335/1903335_full.jpg",
@@ -324,53 +381,74 @@
       "started_trending": "2026-10-12T16:23:35Z",
       "first_seen": "2026-10-12T16:23:35Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "selma-blair",
-      "rank": 9,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "yelich",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-12T19:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-12T20:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-12T21:23:31Z",
-          "r": 9
+          "t": "2026-10-12T22:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Selma Blair",
-      "description": "Actress Selma Blair was taken into custody at JFK Airport after allegedly assaulting and attempting to bite flight attendants on a commercial flight.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Yelich",
+      "description": "Brewers fans are discussing Christian Yelich as he returns to the lineup for NLCS Game 2 against the Dodgers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Selma%20Blair",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/a0f44b98b1130cb0e7818319a6e54f0d2e88c9451c25769e6062286b0a2c7f93/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/fox_news_text_979/8a54d934acbced4bc89b3c77f56189ec.jpg",
+      "url": "https://twstalker.com/search/Yelich",
+      "image_url": "https://viralsportsnews.net/wp-content/uploads/2026/10/2026-10-11T232248Z_222017717_MT1USATODAY30060430_RTRMADP_3_MLB-NLCS-LOS-ANGELES-DODGERS-AT-MILWAUKEE-BREWERS-2048x1366.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T19:23:34Z",
-      "first_seen": "2026-10-12T19:23:34Z",
+      "started_trending": "2026-10-12T22:23:32Z",
+      "first_seen": "2026-10-12T22:23:32Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jake-bauers",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jake Bauers",
+      "description": "Baseball fans are talking about Brewers first baseman Jake Bauers as he reflects on the postseason environment and his family's support during the NLCS.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jake%20Bauers",
+      "image_url": "https://brobible.com/wp-content/uploads/2026/10/Milwaukee-Brewers-first-baseman-Jake-Bauers.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T22:23:32Z",
+      "first_seen": "2026-10-12T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "melania",
-      "rank": 10,
+      "rank": 12,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -389,12 +467,16 @@
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 12
         }
       ],
-      "rank_change": -2,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Melania",
-      "description": "Melania Trump is trending following new reports and discussions regarding her relationship status, alongside cultural events highlighting U.S. and China ties at the Smithsonian.",
+      "description": "Social media is discussing Melania Trump following reports regarding her relationship with Donald Trump, as well as her past cultural events at the Smithsonian.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Melania",
       "image_url": "https://www.hola.com/us/horizon/square/3bc374d4af99-gettyimages-2183216777.jpg",
@@ -402,45 +484,16 @@
       "started_trending": "2026-10-12T18:23:31Z",
       "first_seen": "2026-10-12T18:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "newcastle",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T21:23:31Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Newcastle",
-      "description": "Newcastle United is trending after suffering a 4-1 defeat against Coventry City in a recent Premier League match that pushed Coventry out of the relegation zone.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Newcastle",
-      "image_url": "https://www.toptacular.co.uk/wp-content/uploads/2019/08/Newcastle-Badge-200mm-Wafer.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T21:23:31Z",
-      "first_seen": "2026-10-12T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "metallica",
-      "rank": 12,
+      "rank": 13,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -451,12 +504,16 @@
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 13
         }
       ],
-      "rank_change": 6,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Metallica",
-      "description": "Metallica frontman James Hetfield is trending after telling fans during their Sphere residency that concerts are not the place for political statements or agendas.",
+      "description": "Metallica frontman James Hetfield is trending on social media after telling concertgoers at the Sphere that concerts are not the place for political agendas.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Metallica",
       "image_url": "https://neon.reviewjournal.com/wp-content/uploads/2026/09/22131344_web1_METALLICA_022522ev_002.jpg?resize=210",
@@ -464,45 +521,123 @@
       "started_trending": "2026-10-12T20:23:34Z",
       "first_seen": "2026-10-12T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "coventry",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "selma-blair",
+      "rank": 14,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-12T19:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-12T20:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-12T21:23:31Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Selma Blair",
+      "description": "Actress Selma Blair is trending on social media after being taken into custody at JFK Airport following an alleged mid-air incident on a Delta flight.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Selma%20Blair",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/a0f44b98b1130cb0e7818319a6e54f0d2e88c9451c25769e6062286b0a2c7f93/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/fox_news_text_979/8a54d934acbced4bc89b3c77f56189ec.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T19:23:34Z",
+      "first_seen": "2026-10-12T19:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "walter-jr",
+      "rank": 15,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-12T21:23:31Z",
-          "r": 13
+          "r": 15
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Coventry",
-      "description": "Coventry City is trending on social media following a 4-1 victory over Newcastle United that helped them escape the Premier League relegation zone.",
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Walter Jr",
+      "description": "Fans are sharing tributes after the death at 34 of RJ Mitte, who portrayed Walter Jr. on the Emmy-winning series Breaking Bad.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Coventry",
-      "image_url": "https://blog.ke.sportpesa.com/wp-content/uploads/2026/08/Coventry.jpg",
+      "url": "https://twstalker.com/search/Walter%20Jr",
+      "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/walter-jr-breaking-bad-2.jpg?resize=2000,1125",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-12T21:23:31Z",
       "first_seen": "2026-10-12T21:23:31Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "walter-white-jr",
+      "rank": 16,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-12T21:23:31Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Walter White Jr.",
+      "description": "Social media is reacting to the death of RJ Mitte at age 34, remembered for his role as Walter White Jr. on Breaking Bad.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Walter%20White%20Jr.",
+      "image_url": "https://i.dailymail.com/1s/2026/10/12/21/103053349-16203655-Mitte_played_Walter_Flynn_White_Jr_on_the_Bryan_Cranston_led_dra-a-24_1791837743405.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T21:23:31Z",
+      "first_seen": "2026-10-12T21:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "andyshole",
-      "rank": 14,
+      "rank": 17,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -513,9 +648,13 @@
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": -4,
+      "rank_change": -7,
       "is_new": false,
       "topic": "#AndysHole",
       "description": "",
@@ -526,163 +665,36 @@
       "started_trending": "2026-10-12T20:23:34Z",
       "first_seen": "2026-10-12T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "walter-jr",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-12T21:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Walter Jr",
-      "description": "Fans and co-stars are mourning the death of RJ Mitte, the actor who famously played Walter Jr. on the hit series Breaking Bad, at age 34.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Walter%20Jr",
-      "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/walter-jr-breaking-bad-2.jpg?resize=2000,1125",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T21:23:31Z",
-      "first_seen": "2026-10-12T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "2026mamavote",
-      "rank": 16,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-12T15:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-12T16:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-12T17:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-12T18:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-12T19:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-12T20:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-12T21:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "#2026MAMAVOTE",
-      "description": "Social media users are actively posting and sharing content related to the ongoing voting campaigns and updates for the 2026 MAMA Awards.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%232026MAMAVOTE",
-      "image_url": "https://6.soompi.io/wp-content/uploads/image/20261012104011_mama.jpeg?s=900x600&e=t",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T11:23:34Z",
-      "first_seen": "2026-10-12T11:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "muse-wonder",
-      "rank": 17,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-12T17:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-12T18:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-12T19:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-12T20:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-12T21:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Muse Wonder",
-      "description": "Meta is receiving heavy attention on social media after releasing Muse Wonder, its first frontier AI model designed to make AI agents smarter.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Muse%20Wonder",
-      "image_url": "https://asset.kompas.com/crops/lFgJr6bjgPhh0Xs0dli1Z7ybLwg=/109x0:909x533/1200x800/data/photo/2024/07/25/66a1c8562d0ef.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T17:23:34Z",
-      "first_seen": "2026-10-12T17:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "walter-white-jr",
+      "id": "will-smith",
       "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-12T21:23:31Z",
+          "t": "2026-10-12T22:23:32Z",
           "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Walter White Jr.",
-      "description": "Tributes are pouring in for actor RJ Mitte, widely recognized for his role as Walter White Jr. in the hit television series Breaking Bad, following his death at 34.",
+      "topic": "Will Smith",
+      "description": "Baseball fans are discussing Dodgers catcher Will Smith as he attempts to work his way out of a postseason batting slump during the series against the Brewers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Walter%20White%20Jr.",
-      "image_url": "https://i.dailymail.com/1s/2026/10/12/21/103053349-16203655-Mitte_played_Walter_Flynn_White_Jr_on_the_Bryan_Cranston_led_dra-a-24_1791837743405.jpg",
+      "url": "https://twstalker.com/search/Will%20Smith",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/070/473/637/non_2x/los-angeles-dodgers-catcher-will-smith-scores-free-editorial_image.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T21:23:31Z",
-      "first_seen": "2026-10-12T21:23:31Z",
+      "started_trending": "2026-10-12T22:23:32Z",
+      "first_seen": "2026-10-12T22:23:32Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
+      "last_seen": "2026-10-12T22:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -690,49 +702,8 @@
       "extra": {}
     },
     {
-      "id": "unprecedented",
-      "rank": 19,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-12T18:23:31Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-12T19:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-12T20:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-12T21:23:31Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Unprecedented",
-      "description": "Social media users are discussing 'unprecedented' events, including a major cyberattack shutting down French supermarket refrigerators, new EU sanctions on Russia, and detailed humanity mapping.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Unprecedented",
-      "image_url": "https://lilata.com/wp-content/uploads/francais-translation-french-french-language.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-12T18:23:31Z",
-      "first_seen": "2026-10-12T18:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "tim-sweeney",
-      "rank": 20,
+      "rank": 19,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -743,12 +714,16 @@
         {
           "t": "2026-10-12T21:23:31Z",
           "r": 20
+        },
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": -4,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Tim Sweeney",
-      "description": "Epic Games and CEO Tim Sweeney are facing heavy backlash after staff reported the company is pivoting to an all-AI code approach and delaying upcoming crossover games.",
+      "description": "Social media users are discussing Epic Games CEO Tim Sweeney and reports that the company is pushing developers toward AI-powered code and art, leading to game delays.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tim%20Sweeney",
       "image_url": "https://www.gamedaily.biz/wp-content/uploads/2023/01/tim-sweeney-epic_feature.jpg",
@@ -756,7 +731,36 @@
       "started_trending": "2026-10-12T20:23:34Z",
       "first_seen": "2026-10-12T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-12T21:23:31Z",
+      "last_seen": "2026-10-12T22:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "flynn",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-12T22:23:32Z",
+          "r": 20
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Flynn",
+      "description": "Social media is remembering RJ Mitte, who played Walter Flynn White Jr. on Breaking Bad, following his death at age 34.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Flynn",
+      "image_url": "https://www.supertalk.fm/wp-content/uploads/2026/10/RJ-Mitte-1024x576.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-12T22:23:32Z",
+      "first_seen": "2026-10-12T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-12T22:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
