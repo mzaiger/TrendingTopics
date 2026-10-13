@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-13T09:25:02Z",
+  "updated": "2026-10-13T10:25:06Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -14,10 +14,6 @@
       "rank_4h_ago": 1,
       "rank_history": [
         {
-          "t": "2026-10-13T03:23:36Z",
-          "r": 2
-        },
-        {
           "t": "2026-10-13T04:23:36Z",
           "r": 1
         },
@@ -40,12 +36,16 @@
         {
           "t": "2026-10-13T09:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Rams",
-      "description": "The Los Angeles Rams are trending after losing 37-34 in overtime to the Buffalo Bills on Monday Night Football, following a controversial kicking decision by coach Sean McVay.",
+      "description": "The Los Angeles Rams lost a thriller 37-34 in overtime to the Buffalo Bills on Monday Night Football, leaving head coach Sean McVay furious.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Rams",
       "image_url": "https://images.footballfanatics.com/los-angeles-rams/los-angeles-rams-nike-2026-salute-to-service-jersey-matthew-stafford-mens_ss5_p-203839188+pv-12+u-eplmud9jxh5fozcszggk+v-tioz6e9ujocwecfgxswi.jpg?_hv=2&w=1018",
@@ -53,277 +53,32 @@
       "started_trending": "2026-10-13T00:23:32Z",
       "first_seen": "2026-10-13T00:23:32Z",
       "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "josh-allen",
-      "rank": 2,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-13T03:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-13T04:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-13T05:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-13T06:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Josh Allen",
-      "description": "Buffalo Bills quarterback Josh Allen is trending after earning his first career overtime win, defeating the Los Angeles Rams 37-34 on Monday Night Football.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Josh%20Allen",
-      "image_url": "https://cdn.britannica.com/11/252611-050-FB8D0A5D/Josh-Allen-quarterback-Buffalo-Bills-NFL-2023.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T01:23:30Z",
-      "first_seen": "2026-10-13T01:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bills",
-      "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Bills",
-      "description": "The Buffalo Bills are trending after defeating the Los Angeles Rams 37-34 in overtime on Monday Night Football, secured by a game-winning field goal from Tyler Bass.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bills",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185303122.jpg?c=16x9&q=w_1280,c_fill",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T07:23:36Z",
-      "first_seen": "2026-10-13T07:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mcvay",
-      "rank": 4,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-13T03:23:36Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-13T04:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-13T05:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-13T06:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "McVay",
-      "description": "Los Angeles Rams coach Sean McVay is trending after expressing extreme frustration over a costly kicking decision and an overtime loss to the Buffalo Bills.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/McVay",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/rams-sean-mcvay-calls-play-titans.jpg?ve=1&tl=1",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T03:23:36Z",
-      "first_seen": "2026-10-13T03:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "james-cook",
-      "rank": 5,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-13T03:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-13T04:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-13T05:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-13T06:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 5
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "James Cook",
-      "description": "Buffalo Bills running back James Cook is trending after his crucial fumbling issues nearly cost his team during their overtime victory against the Los Angeles Rams.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/James%20Cook",
-      "image_url": "https://cdn.britannica.com/82/212182-050-50D9F3CE/basketball-LeBron-James-Cleveland-Cavaliers-2018.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T01:23:30Z",
-      "first_seen": "2026-10-13T01:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "stafford",
-      "rank": 6,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-13T03:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-13T04:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-13T05:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-13T06:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 6
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Stafford",
-      "description": "Los Angeles Rams quarterback Matthew Stafford is trending following his team's 37-34 overtime loss to the Buffalo Bills on Monday Night Football.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Stafford",
-      "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11/114183/5166298-matthew+the+apostle.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T01:23:30Z",
-      "first_seen": "2026-10-13T01:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "good-tuesday",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 2,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-13T09:23:32Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 5,
+      "is_new": false,
       "topic": "Good Tuesday",
-      "description": "Good Tuesday is trending as social media discusses Connor Bedard's expected season debut for the Blackhawks and various daily horoscope updates.",
+      "description": "Social media users are discussing Tuesday's top events, including record heat in central Ohio, new streaming premieres, and the return of hockey star Connor Bedard.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Tuesday",
       "image_url": "https://deweb-519a7.b-cdn.net/post-images/45f586ba-dca7-4cef-84d2-8c401514dcb8.jpeg",
@@ -331,118 +86,269 @@
       "started_trending": "2026-10-13T09:23:32Z",
       "first_seen": "2026-10-13T09:23:32Z",
       "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mevis",
-      "rank": 8,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "id": "josh-allen",
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-13T04:23:36Z",
-          "r": 7
+          "r": 2
         },
         {
           "t": "2026-10-13T05:23:33Z",
-          "r": 6
+          "r": 2
         },
         {
           "t": "2026-10-13T06:23:34Z",
-          "r": 6
+          "r": 2
         },
         {
           "t": "2026-10-13T07:23:36Z",
-          "r": 7
+          "r": 2
         },
         {
           "t": "2026-10-13T08:23:31Z",
-          "r": 7
+          "r": 2
         },
         {
           "t": "2026-10-13T09:23:32Z",
-          "r": 8
+          "r": 2
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 3
         }
       ],
       "rank_change": -1,
       "is_new": false,
-      "topic": "Mevis",
-      "description": "Harrison Mevis is trending after having a potential game-winning field goal blocked in overtime, leading to the Rams' loss against the Buffalo Bills.",
+      "topic": "Josh Allen",
+      "description": "Buffalo Bills quarterback Josh Allen earned the first overtime win of his career after defeating the Los Angeles Rams 37-34 on Monday Night Football.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mevis",
-      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_3213,h_1807/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/54/01kav0tw16rzt18creqd.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T04:23:36Z",
-      "first_seen": "2026-10-13T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "puka",
-      "rank": 9,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-13T03:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-13T04:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-13T05:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-13T06:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Puka",
-      "description": "Los Angeles Rams wide receiver Puka Nacua is trending after recording a career-high 17 receptions and 147 yards against the Buffalo Bills.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Puka",
-      "image_url": "https://www.hawaiitribune-herald.com/wp-content/uploads/sites/6/2026/10/web1_Nacua-1.jpg",
+      "url": "https://twstalker.com/search/Josh%20Allen",
+      "image_url": "https://cdn.britannica.com/11/252611-050-FB8D0A5D/Josh-Allen-quarterback-Buffalo-Bills-NFL-2023.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-13T01:23:30Z",
       "first_seen": "2026-10-13T01:23:30Z",
       "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bills",
+      "rank": 4,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-13T07:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-13T08:23:31Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-13T09:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Bills",
+      "description": "The Buffalo Bills defeated the Los Angeles Rams 37-34 in an overtime thriller on Monday Night Football that many are calling the game of the NFL season.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bills",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2185303122.jpg?c=16x9&q=w_1280,c_fill",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T07:23:36Z",
+      "first_seen": "2026-10-13T07:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mcvay",
+      "rank": 5,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-13T04:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-13T05:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-13T06:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-13T07:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-13T08:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-13T09:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "McVay",
+      "description": "Los Angeles Rams head coach Sean McVay expressed extreme frustration after a costly kicking decision and missed field goal contributed to their overtime loss against the Buffalo Bills.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/McVay",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/rams-sean-mcvay-calls-play-titans.jpg?ve=1&tl=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T03:23:36Z",
+      "first_seen": "2026-10-13T03:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "james-cook",
+      "rank": 6,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-13T04:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-13T05:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-13T06:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-13T07:23:36Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-13T08:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-13T09:23:32Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "James Cook",
+      "description": "Buffalo Bills running back James Cook drew heavy attention on social media for his costly fumbling issues during their overtime victory against the Los Angeles Rams.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/James%20Cook",
+      "image_url": "https://cdn.britannica.com/82/212182-050-50D9F3CE/basketball-LeBron-James-Cleveland-Cavaliers-2018.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T01:23:30Z",
+      "first_seen": "2026-10-13T01:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stafford",
+      "rank": 7,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-13T04:23:36Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-13T05:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-13T06:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-13T07:23:36Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-13T08:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-13T09:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Stafford",
+      "description": "Los Angeles Rams quarterback Matthew Stafford is trending following his strong performance and touchdown passes to Davante Adams and Puka Nacua in their overtime loss to the Bills.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Stafford",
+      "image_url": "https://comicvine.gamespot.com/a/uploads/scale_medium/11/114183/5166298-matthew+the+apostle.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T01:23:30Z",
+      "first_seen": "2026-10-13T01:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "metallica",
-      "rank": 10,
+      "rank": 8,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -457,12 +363,16 @@
         {
           "t": "2026-10-13T09:23:32Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": 8,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Metallica",
-      "description": "Metallica frontman James Hetfield is trending after telling fans at their Sphere concert that the stage is no place for politics or personal agendas.",
+      "description": "Metallica frontman James Hetfield is trending after telling concertgoers that the band's shows are not the place for politics or personal agendas.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Metallica",
       "image_url": "https://i.pinimg.com/originals/80/62/80/80628050d4bb1f8d793da49c8c14c811.jpg",
@@ -470,23 +380,72 @@
       "started_trending": "2026-10-13T07:23:36Z",
       "first_seen": "2026-10-13T07:23:36Z",
       "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mevis",
+      "rank": 9,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-13T04:23:36Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-13T05:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-13T06:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-13T07:23:36Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-13T08:23:31Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-13T09:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Mevis",
+      "description": "Harrison Mevis is trending after a blocked field goal attempt in overtime sealed the Los Angeles Rams' heartbreaking loss to the Buffalo Bills.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mevis",
+      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_3213,h_1807/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/54/01kav0tw16rzt18creqd.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T04:23:36Z",
+      "first_seen": "2026-10-13T04:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wweraw",
-      "rank": 11,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "rank": 10,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
-        {
-          "t": "2026-10-13T03:23:36Z",
-          "r": 3
-        },
         {
           "t": "2026-10-13T04:23:36Z",
           "r": 6
@@ -510,12 +469,16 @@
         {
           "t": "2026-10-13T09:23:32Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 10
         }
       ],
-      "rank_change": -5,
+      "rank_change": -2,
       "is_new": false,
       "topic": "#WWERaw",
-      "description": "WWE Raw is trending following its latest episode featuring matches like Chad Gable versus Rey Fenix and a six-man clash between The Bloodline and 946.",
+      "description": "Fans are discussing the latest WWE Raw matches and results, featuring bouts with Chad Gable, Rey Fenix, and The Bloodline.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23WWERaw",
       "image_url": "https://picfiles.alphacoders.com/310/310434.jpg",
@@ -523,7 +486,60 @@
       "started_trending": "2026-10-13T00:23:32Z",
       "first_seen": "2026-10-13T00:23:32Z",
       "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "puka",
+      "rank": 11,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-13T04:23:36Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-13T05:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-13T06:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-13T07:23:36Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-13T08:23:31Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-13T09:23:32Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Puka",
+      "description": "Los Angeles Rams wide receiver Puka Nacua is trending after recording a career-high 17 catches and a touchdown in their overtime loss to the Buffalo Bills.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Puka",
+      "image_url": "https://www.hawaiitribune-herald.com/wp-content/uploads/sites/6/2026/10/web1_Nacua-1.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T01:23:30Z",
+      "first_seen": "2026-10-13T01:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
       "hours_trending": 9,
       "volume": "9hr trend",
       "volume_value": 9,
@@ -531,15 +547,44 @@
       "extra": {}
     },
     {
-      "id": "melo",
+      "id": "tezostuesday",
       "rank": 12,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
-          "t": "2026-10-13T03:23:36Z",
-          "r": 6
+          "t": "2026-10-13T09:23:32Z",
+          "r": 13
         },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "#TezosTuesday",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23TezosTuesday",
+      "image_url": "https://coinchapter.com/wp-content/uploads/2021/03/Tezos-Integrates-inot-Wolfram-Blockchain.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T09:23:32Z",
+      "first_seen": "2026-10-13T09:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "melo",
+      "rank": 13,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
         {
           "t": "2026-10-13T04:23:36Z",
           "r": 10
@@ -563,12 +608,16 @@
         {
           "t": "2026-10-13T09:23:32Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 13
         }
       ],
-      "rank_change": -2,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Melo",
-      "description": "Melo is trending on social media following a standout appearance and recap on WWE Raw.",
+      "description": "Wrestling fans are discussing the latest developments and highlights involving Melo following recent Raw broadcasts.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Melo",
       "image_url": "https://www.ewrestlingnews.com/wp-content/uploads/2024/04/carmelo-hayes-smackdown.jpeg",
@@ -576,143 +625,16 @@
       "started_trending": "2026-10-13T03:23:36Z",
       "first_seen": "2026-10-13T03:23:36Z",
       "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tezostuesday",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#TezosTuesday",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23TezosTuesday",
-      "image_url": "https://coinchapter.com/wp-content/uploads/2021/03/Tezos-Integrates-inot-Wolfram-Blockchain.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T09:23:32Z",
-      "first_seen": "2026-10-13T09:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "shakir",
-      "rank": 14,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-13T04:23:36Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-13T05:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-13T06:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Shakir",
-      "description": "Buffalo Bills wide receiver Khalil Shakir is trending after showcasing his speed with a crucial 57-yard catch and run in overtime against the Rams.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Shakir",
-      "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2026/06/08094557/USATSI_27765301-1-scaled-2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T04:23:36Z",
-      "first_seen": "2026-10-13T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "greg-rousseau",
-      "rank": 15,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-10-13T04:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-13T05:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-13T06:23:34Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Greg Rousseau",
-      "description": "Buffalo Bills defensive end Greg Rousseau is trending after delivering a clutch blocked field goal in overtime to help secure a win against the Rams.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Greg%20Rousseau",
-      "image_url": "https://s7d2.scene7.com/is/image/TWCNews/Greg_Rousseau_AP",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T04:23:36Z",
-      "first_seen": "2026-10-13T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jake-paul",
-      "rank": 16,
+      "rank": 14,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -723,12 +645,16 @@
         {
           "t": "2026-10-13T09:23:32Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": 0,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Jake Paul",
-      "description": "Jake Paul is trending after traveling with Donald Trump to an Ohio midterm rally, drawing mixed reactions online.",
+      "description": "Jake Paul is trending on social media after traveling with Donald Trump and appearing on stage at an Ohio midterm rally.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jake%20Paul",
       "image_url": "https://www.tennessean.com/gcdn/authoring/authoring-images/2025/03/06/USAT/81741684007-afp-2184084341.jpg?crop=2857",
@@ -736,10 +662,72 @@
       "started_trending": "2026-10-13T08:23:31Z",
       "first_seen": "2026-10-13T08:23:31Z",
       "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "six-flags",
+      "rank": 15,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-13T09:23:32Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Six Flags",
+      "description": "Six Flags is trending after closing multiple rides following an incident on the Goliath roller coaster at Six Flags Over Georgia that resulted in one death and four injuries.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Six%20Flags",
+      "image_url": "https://www.mensjournal.com/.image/NDI6MDAwMDAwMDAxNDExNjE1/roller-coaster-riders-throw-their-hands-in-the-air-as-they-ride-goliath-the-newest-roller-coaster.jpg?profile=w2560&ar=16-9",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T09:23:32Z",
+      "first_seen": "2026-10-13T09:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "alaric-jackson",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Alaric Jackson",
+      "description": "Los Angeles Rams offensive lineman Alaric Jackson went viral after punching Buffalo Bills player Bradley Chubb on the field following their Monday Night Football game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Alaric%20Jackson",
+      "image_url": "https://img.etimg.com/thumb/msid-134911924,width-650,height-488,imgsize-472323,resizemode-75/alaric-jackson-punches-bradley-chubb.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T10:23:34Z",
+      "first_seen": "2026-10-13T10:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -772,12 +760,16 @@
         {
           "t": "2026-10-13T09:23:32Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 17
         }
       ],
       "rank_change": -3,
       "is_new": false,
       "topic": "Landman",
-      "description": "Nate Landman is trending after a standout performance for the Los Angeles Rams, including a notable defensive stop against the Bills.",
+      "description": "Nate Landman is receiving praise on social media for his standout defensive performance for the Rams despite their overtime loss to the Buffalo Bills.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Landman",
       "image_url": "https://hermes.media.static.aol.com/media/2026/09/05/0a2213e6-53e5-356c-a2ce-a1fef28f0589/1463704f-94e0-40e2-bcb4-8dccb3f8ff58.jpg",
@@ -785,141 +777,121 @@
       "started_trending": "2026-10-13T04:23:36Z",
       "first_seen": "2026-10-13T04:23:36Z",
       "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "joe-brady",
+      "id": "kyren",
       "rank": 18,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-13T03:23:36Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-13T04:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-13T05:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-13T06:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Joe Brady",
-      "description": "Joe Brady is trending as social media and analysts discuss his decisions and the timing of field goals during the Bills' overtime win against the Rams.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Joe%20Brady",
-      "image_url": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-2298566845-e1791291459802.jpg?quality=65&strip=all",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T02:23:31Z",
-      "first_seen": "2026-10-13T02:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tyler-bass",
-      "rank": 19,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-13T04:23:36Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-13T05:23:33Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-13T06:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-13T07:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-13T08:23:31Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "TYLER BASS",
-      "description": "Tyler Bass is trending after kicking a 45-yard game-winning field goal to give the Buffalo Bills a 37-34 overtime victory over the Los Angeles Rams.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/TYLER%20BASS",
-      "image_url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bills/pqywjwjbjt2on1ekz4y9",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T04:23:36Z",
-      "first_seen": "2026-10-13T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "six-flags",
-      "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-13T09:23:32Z",
-          "r": 20
+          "t": "2026-10-13T10:23:34Z",
+          "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Six Flags",
-      "description": "Six Flags is trending after a parkgoer reportedly fell to his death on the Goliath roller coaster in Georgia, prompting ride closures and a drop in company shares.",
+      "topic": "Kyren",
+      "description": "Los Angeles Rams running back Kyren Williams is trending after rushing for a crucial touchdown to send the game into overtime against the Buffalo Bills.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Six%20Flags",
-      "image_url": "https://www.mensjournal.com/.image/NDI6MDAwMDAwMDAxNDExNjE1/roller-coaster-riders-throw-their-hands-in-the-air-as-they-ride-goliath-the-newest-roller-coaster.jpg?profile=w2560&ar=16-9",
+      "url": "https://twstalker.com/search/Kyren",
+      "image_url": "https://www.draftsharks.com/player-images/b249db5f-803d-4ecd-8c0a-dd06ae023500/1200x675.avif",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T09:23:32Z",
-      "first_seen": "2026-10-13T09:23:32Z",
+      "started_trending": "2026-10-13T10:23:34Z",
+      "first_seen": "2026-10-13T10:23:34Z",
       "published": null,
-      "last_seen": "2026-10-13T09:23:32Z",
+      "last_seen": "2026-10-13T10:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "goliath",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Goliath",
+      "description": "The Goliath roller coaster at Six Flags Over Georgia is trending after a fatal incident prompted the park to close the ride and Six Flags to shut down multiple attractions.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Goliath",
+      "image_url": "https://d.ibtimes.co.uk/en/full/1836261/six-flags.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T10:23:34Z",
+      "first_seen": "2026-10-13T10:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "shakir",
+      "rank": 20,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-13T04:23:36Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-13T05:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-13T06:23:34Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-13T07:23:36Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-13T08:23:31Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-13T09:23:32Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-13T10:23:34Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "Shakir",
+      "description": "Buffalo Bills wide receiver Khalil Shakir is trending after making a crucial 57-yard catch and run during their overtime victory against the Los Angeles Rams.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Shakir",
+      "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2026/06/08094557/USATSI_27765301-1-scaled-2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T04:23:36Z",
+      "first_seen": "2026-10-13T04:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-13T10:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     }
