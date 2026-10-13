@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-13T20:25:23Z",
+  "updated": "2026-10-13T21:25:24Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "lamine",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-13T20:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Lamine",
-      "description": "Lamine Yamal is trending as he prepares for a UEFA Champions League match against Galatasaray and receives strong backing to win the Ballon d'Or.",
+      "description": "Lamine Yamal is trending after delivering an incredible brace of assists for Barcelona against Galatasaray in the UEFA Champions League, while also receiving praise and a Ballon d'Or nomination.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Lamine",
       "image_url": "https://icdn.football-italia.net/wp-content/uploads/2024/11/fc-barcelona-v-athletic-club-lal.jpg",
@@ -29,40 +33,7 @@
       "started_trending": "2026-10-13T20:23:35Z",
       "first_seen": "2026-10-13T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "narnia",
-      "rank": 2,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-13T19:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 2
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Narnia",
-      "description": "Greta Gerwig's new fantasy epic film 'Narnia: The Magician's Nephew' is generating massive buzz online after releasing its dazzling debut trailer featuring Aslan and the White Witch.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Narnia",
-      "image_url": "https://i.pinimg.com/originals/74/47/a4/7447a4369f023dc8d57f88c7253ed125.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T19:23:34Z",
-      "first_seen": "2026-10-13T19:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
+      "last_seen": "2026-10-13T21:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -71,7 +42,7 @@
     },
     {
       "id": "bayern",
-      "rank": 3,
+      "rank": 2,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -82,12 +53,16 @@
         {
           "t": "2026-10-13T20:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": 17,
+      "rank_change": 18,
       "is_new": false,
       "topic": "Bayern",
-      "description": "FC Bayern Munich is trending as social media users look ahead to their live Champions League matchup against Viking FK.",
+      "description": "Bayern Munich is trending due to their UEFA Champions League match against Viking FK, alongside teammate Michael Olise getting sent off after receiving two quick yellow cards.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bayern",
       "image_url": "https://www.thickaccent.com/wp-content/uploads/2026/10/Bayern-Munich-badge.jpeg",
@@ -95,152 +70,73 @@
       "started_trending": "2026-10-13T19:23:34Z",
       "first_seen": "2026-10-13T19:23:34Z",
       "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gordon",
+      "id": "narnia",
+      "rank": 3,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-13T19:23:34Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-13T20:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 3
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Narnia",
+      "description": "Narnia fans are reacting online to the new trailer for Greta Gerwig's fantasy epic, 'The Magician's Nephew', which gives a first look at Aslan, the White Witch, and CGI footage.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Narnia",
+      "image_url": "https://i.pinimg.com/originals/74/47/a4/7447a4369f023dc8d57f88c7253ed125.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T19:23:34Z",
+      "first_seen": "2026-10-13T19:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "carrick",
       "rank": 4,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-13T20:23:35Z",
+          "t": "2026-10-13T21:23:35Z",
           "r": 4
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Gordon",
-      "description": "Gordon is trending across multiple local and sports headlines, including running back Ollie Gordon II appearing at a Miami Dolphins press conference and a drug investigation in Gordon County.",
+      "topic": "Carrick",
+      "description": "Manchester United manager Michael Carrick is drawing attention as pressure mounts over squad performance, upcoming clashes, and speculation surrounding his future at the club.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gordon",
-      "image_url": "https://www.surfertoday.com/images/stories/the-ollie.jpg",
+      "url": "https://twstalker.com/search/Carrick",
+      "image_url": "https://cdn.apollo.audio/one/media/6966/1b45/d121/8285/9b98/f561/3DFEBRX.jpg?quality=80&format=jpg&crop=262,0,2566,4096&resize=crop",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T20:23:35Z",
-      "first_seen": "2026-10-13T20:23:35Z",
+      "started_trending": "2026-10-13T21:23:35Z",
+      "first_seen": "2026-10-13T21:23:35Z",
       "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fermin",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Fermin",
-      "description": "Fermin Lopez is drawing attention on social media for an incredible goal scored during a Barcelona training session ahead of their match against Galatasaray.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fermin",
-      "image_url": "https://pictures.tribuna.com/image/8fe8efd0-75ce-49cb-b638-8096c3daa2f1?width=1920&quality=70",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T20:23:35Z",
-      "first_seen": "2026-10-13T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cancelo",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cancelo",
-      "description": "Joao Cancelo is trending after delivering a remarkable run of goalscoring form for Barcelona, helping rescue the team in recent Champions League action.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cancelo",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-13T20:23:35Z",
-      "first_seen": "2026-10-13T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "barca",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Barca",
-      "description": "Barcelona is trending as fans in the United States tune in and search for how to watch their live UEFA Champions League clash against Galatasaray.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Barca",
-      "image_url": "https://barcauniversal.com/wp-content/uploads/2026/09/fc-barcelona-v-real-racing-club-de-santander-laliga-ea-sports-2026-27-5-2048x1365.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T20:23:35Z",
-      "first_seen": "2026-10-13T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "olmo",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Olmo",
-      "description": "Dani Olmo is trending following manager Hansi Flick's decision to deploy him as a false nine in Barcelona's starting lineup against Galatasaray.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Olmo",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/e523/live/d47ba410-6487-11ef-a742-630667543078.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T20:23:35Z",
-      "first_seen": "2026-10-13T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
+      "last_seen": "2026-10-13T21:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -249,19 +145,23 @@
     },
     {
       "id": "peds",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 5,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-13T20:23:35Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 4,
+      "is_new": false,
       "topic": "PEDs",
-      "description": "Chicago Bears defensive end Montez Sweat is trending after being suspended for two games for violating the NFL's performance-enhancing drug policy.",
+      "description": "Chicago Bears defensive end Montez Sweat has been suspended for two games by the NFL for violating the league's performance-enhancing drug policy.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/PEDs",
       "image_url": "https://cst.brightspotcdn.com/dims4/default/2579f02/2147483647/strip/true/crop/5215x3477+0+0/resize/840x560!/quality/90/?url=https://chorus-production-cst-web.s3.us-east-1.amazonaws.com/brightspot/4a/26/875f4fd24b6582295d90e52b8c22/sweat-8.jpg",
@@ -269,69 +169,7 @@
       "started_trending": "2026-10-13T20:23:35Z",
       "first_seen": "2026-10-13T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rashford",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rashford",
-      "description": "Marcus Rashford is trending as fans discuss Manchester United's starting lineup and tactics ahead of their match against Atletico Madrid.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rashford",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-13T20:23:35Z",
-      "first_seen": "2026-10-13T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "keffe-d",
-      "rank": 11,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-13T19:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Keffe D",
-      "description": "Duane 'Keffe D' Davis is trending after being sentenced to 40 years to life in prison for his role in orchestrating the 1996 murder of Tupac Shakur.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Keffe%20D",
-      "image_url": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/10/932/524/courtroom-duane-davis-.jpg?ve=1&tl=1",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T19:23:34Z",
-      "first_seen": "2026-10-13T19:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
+      "last_seen": "2026-10-13T21:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -339,53 +177,198 @@
       "extra": {}
     },
     {
-      "id": "gemini-4-argon",
-      "rank": 12,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "id": "barca",
+      "rank": 6,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
-          "t": "2026-10-13T16:23:33Z",
+          "t": "2026-10-13T20:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
           "r": 6
-        },
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Barca",
+      "description": "Barca is trending following their UEFA Champions League match against Galatasaray, marked by defensive struggles and a strong 4-1 victory.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Barca",
+      "image_url": "https://barcauniversal.com/wp-content/uploads/2026/09/fc-barcelona-v-real-racing-club-de-santander-laliga-ea-sports-2026-27-5-2048x1365.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T20:23:35Z",
+      "first_seen": "2026-10-13T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "manchester-united",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-10-13T17:23:35Z",
-          "r": 2
-        },
+          "t": "2026-10-13T21:23:35Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Manchester United",
+      "description": "Manchester United is making headlines during their UEFA Champions League clash against Atlético Madrid, with fans closely following the confirmed starting lineups and live scores.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Manchester%20United",
+      "image_url": "https://cdn.tvguide.co.uk/sport/teams/manchester-united.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T21:23:35Z",
+      "first_seen": "2026-10-13T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "olise",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-10-13T18:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-13T19:23:34Z",
-          "r": 2
-        },
+          "t": "2026-10-13T21:23:35Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Olise",
+      "description": "Bayern Munich's Michael Olise is trending after being sent off for two quick yellow cards in a Champions League match against Viking, causing him to miss the upcoming Arsenal game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Olise",
+      "image_url": "https://icdn.chelsea.news/wp-content/uploads/2025/10/Getty-Images-7.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T21:23:35Z",
+      "first_seen": "2026-10-13T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "montez-sweat",
+      "rank": 9,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
         {
           "t": "2026-10-13T20:23:35Z",
-          "r": 12
+          "r": 17
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Montez Sweat",
+      "description": "Chicago Bears defensive end Montez Sweat is trending after receiving a two-game suspension from the NFL for violating the league's PED policy.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Montez%20Sweat",
+      "image_url": "https://cst.brightspotcdn.com/dims4/default/2579f02/2147483647/strip/true/crop/5215x3477+0+0/resize/840x560!/quality/90/?url=https://chorus-production-cst-web.s3.us-east-1.amazonaws.com/brightspot/4a/26/875f4fd24b6582295d90e52b8c22/sweat-8.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T20:23:35Z",
+      "first_seen": "2026-10-13T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gordon",
+      "rank": 10,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-13T20:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 10
         }
       ],
       "rank_change": -6,
       "is_new": false,
-      "topic": "Gemini 4 Argon",
-      "description": "Google is receiving major attention online after launching its new flagship AI model, Gemini 4 Argon, aimed at developers and businesses.",
+      "topic": "Gordon",
+      "description": "Gordon is trending across multiple stories, ranging from Miami Dolphins running back Ollie Gordon II settling into his RB1 role to squash player Chris Gordon retiring.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gemini%204%20Argon",
-      "image_url": "https://media.assettype.com/analyticsinsight/2026-10-01/peylbt1i/Google-unveils-Gemini-4-Argon-its-most-powerful-AI-model-yet-CEO-Sundar-Pichai-says-Were-going-to-make-it-available-as-soon-as-we-can-and-as.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "url": "https://twstalker.com/search/Gordon",
+      "image_url": "https://www.surfertoday.com/images/stories/the-ollie.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T16:23:33Z",
-      "first_seen": "2026-10-13T16:23:33Z",
+      "started_trending": "2026-10-13T20:23:35Z",
+      "first_seen": "2026-10-13T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rashford",
+      "rank": 11,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-13T20:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Rashford",
+      "description": "Marcus Rashford is facing criticism on social media following Manchester United's 2-0 Champions League defeat against Atlético Madrid.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rashford",
+      "image_url": "https://facts.net/wp-content/uploads/2023/10/16-astonishing-facts-about-marcus-rashford-1696524136.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T20:23:35Z",
+      "first_seen": "2026-10-13T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "aslan",
-      "rank": 13,
+      "rank": 12,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -396,12 +379,16 @@
         {
           "t": "2026-10-13T20:23:35Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 12
         }
       ],
-      "rank_change": 0,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Aslan",
-      "description": "Aslan is trending on social media following the release of the trailer for Greta Gerwig's 'Narnia: The Magician's Nephew,' which offers a first look at the iconic character.",
+      "description": "Aslan is trending following the release of the trailer for Greta Gerwig's 'Narnia: The Magician's Nephew', which gives fans a first look at the character.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Aslan",
       "image_url": "https://vignette.wikia.nocookie.net/narnia/images/4/42/Edmund_aslan.jpg/revision/latest/scale-to-width-down/2000?cb=20101010041716",
@@ -409,7 +396,40 @@
       "started_trending": "2026-10-13T19:23:34Z",
       "first_seen": "2026-10-13T19:23:34Z",
       "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "barcelona",
+      "rank": 13,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-13T20:23:35Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Barcelona",
+      "description": "Barcelona is trending due to their UEFA Champions League match against Galatasaray and ongoing transfer scouting rumors linking them to Erling Haaland.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Barcelona",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/23b54bd3033f8ab19758ab62c8384671b00932ec2afd475356cdacce5ff05c4e/lightyear_networkapi/resizefill_w959_h639;quality_80;format_webp/https://media.zenfs.com/en/forbes_contributor_845/6cc0d5fc82d107ddbfe7f48a5a45f63b",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T20:23:35Z",
+      "first_seen": "2026-10-13T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -417,10 +437,171 @@
       "extra": {}
     },
     {
-      "id": "katie-zacharia",
+      "id": "cancelo",
       "rank": 14,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-13T20:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Cancelo",
+      "description": "Cancelo is drawing attention after scoring and helping rescue Barcelona from a difficult match against Galatasaray with the assistance of VAR.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cancelo",
+      "image_url": "https://www.fcbarcelona.com/fcbarcelona/photo/2023/09/25/08593578-2837-4af2-9235-e3a56e3db23c/2023-09-16_FCBvsBETIS_97.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T20:23:35Z",
+      "first_seen": "2026-10-13T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fermin",
+      "rank": 15,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-13T20:23:35Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "Fermin",
+      "description": "Fermin is trending in sports news following Barcelona's 4-1 comeback victory over Galatasaray in the Champions League.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Fermin",
+      "image_url": "https://pictures.tribuna.com/image/8fe8efd0-75ce-49cb-b638-8096c3daa2f1?width=1920&quality=70",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T20:23:35Z",
+      "first_seen": "2026-10-13T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "adeyemi",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Adeyemi",
+      "description": "Adeniyi Adeyemi is trending after a Nigerian court struck out criminal forgery and impersonation charges against him, clearing the path for a fresh arraignment.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Adeyemi",
+      "image_url": "https://global.ariseplay.com/amg/www.arise.tv/uploads/2026/07/Adeyemi-Adeniyi.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T21:23:35Z",
+      "first_seen": "2026-10-13T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "keffe-d",
+      "rank": 17,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-13T19:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-13T20:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Keffe D",
+      "description": "Duane 'Keffe D' Davis is trending after being sentenced to 40 years to life in prison for orchestrating the 1996 murder of rapper Tupac Shakur.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Keffe%20D",
+      "image_url": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/10/932/524/courtroom-duane-davis-.jpg?ve=1&tl=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T19:23:34Z",
+      "first_seen": "2026-10-13T19:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bank-of-america",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bank of America",
+      "description": "Bank of America is facing massive backlash and trending online after being ordered to pay a historic $1.2 billion penalty over money-laundering and sanctions violations.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bank%20of%20America",
+      "image_url": "https://images.skyscrapercenter.com/building/bankofamericabuilding_ext-full_(cc-by-nc-nd)imagematters1.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-13T21:23:35Z",
+      "first_seen": "2026-10-13T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "katie-zacharia",
+      "rank": 19,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-13T15:23:36Z",
@@ -445,12 +626,16 @@
         {
           "t": "2026-10-13T20:23:35Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 19
         }
       ],
-      "rank_change": -12,
+      "rank_change": -16,
       "is_new": false,
       "topic": "Katie Zacharia",
-      "description": "Katie Zacharia is trending following questions and scrutiny over her legal background during her inaugural White House press briefing as the new press secretary.",
+      "description": "White House Press Secretary Katie Zacharia is generating intense media scrutiny and online discussion following her inaugural briefing and questions regarding her background.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Katie%20Zacharia",
       "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ZXb7D.img?w=2000&h=1333&m=4&q=93",
@@ -458,45 +643,16 @@
       "started_trending": "2026-10-13T14:23:35Z",
       "first_seen": "2026-10-13T14:23:35Z",
       "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "barcelona",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Barcelona",
-      "description": "Barcelona is trending as fans search for live streams and TV broadcast details for their upcoming Champions League match against Galatasaray.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Barcelona",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/23b54bd3033f8ab19758ab62c8384671b00932ec2afd475356cdacce5ff05c4e/lightyear_networkapi/resizefill_w959_h639;quality_80;format_webp/https://media.zenfs.com/en/forbes_contributor_845/6cc0d5fc82d107ddbfe7f48a5a45f63b",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T20:23:35Z",
-      "first_seen": "2026-10-13T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "tupac-shakur",
-      "rank": 16,
+      "rank": 20,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -507,12 +663,16 @@
         {
           "t": "2026-10-13T20:23:35Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-13T21:23:35Z",
+          "r": 20
         }
       ],
-      "rank_change": -2,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Tupac Shakur",
-      "description": "Tupac Shakur is trending on social media as former gang leader Duane 'Keffe D' Davis receives a sentence of 40 years to life in prison for the rapper's 1996 murder.",
+      "description": "Tupac Shakur is trending on social media as former gang leader Duane 'Keffe D' Davis is sentenced to 40 years to life in prison for orchestrating the rapper's 1996 murder.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tupac%20Shakur",
       "image_url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt949ea8e16e463049/blt963e0d5d4538e4eb/6ace78420f4e8f48a0ed29b1/tupac-shakur-keffe-d-prison-sentence.jpg",
@@ -520,150 +680,10 @@
       "started_trending": "2026-10-13T19:23:34Z",
       "first_seen": "2026-10-13T19:23:34Z",
       "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "montez-sweat",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Montez Sweat",
-      "description": "Chicago Bears defensive end Montez Sweat is trending after receiving a two-game suspension from the NFL for violating the league's PED policy.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Montez%20Sweat",
-      "image_url": "https://cst.brightspotcdn.com/dims4/default/2579f02/2147483647/strip/true/crop/5215x3477+0+0/resize/840x560!/quality/90/?url=https://chorus-production-cst-web.s3.us-east-1.amazonaws.com/brightspot/4a/26/875f4fd24b6582295d90e52b8c22/sweat-8.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T20:23:35Z",
-      "first_seen": "2026-10-13T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "greta-gerwig",
-      "rank": 18,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-13T19:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Greta Gerwig",
-      "description": "Greta Gerwig is trending after debuting the first dazzling trailer for her Netflix fantasy epic adaptation, 'Narnia: The Magician's Nephew.'",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Greta%20Gerwig",
-      "image_url": "https://www.filosofie.nl/app/uploads/2024/12/Greta_Gerwig_at_the_2024_Cannes_Film_Festival_cropped.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T19:23:34Z",
-      "first_seen": "2026-10-13T19:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kimberly-guilfoyle",
-      "rank": 19,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-13T15:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-13T16:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-13T17:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-13T18:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-13T19:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -18,
-      "is_new": false,
-      "topic": "Kimberly Guilfoyle",
-      "description": "Kimberly Guilfoyle is trending after resigning from her position as U.S. ambassador to Greece following reports and allegations of improper conduct.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kimberly%20Guilfoyle",
-      "image_url": "https://www.thewrap.com/wp-content/uploads/2026/10/kimberly-guilfoyle.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T14:23:35Z",
-      "first_seen": "2026-10-13T14:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "payton-pritchard",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Payton Pritchard",
-      "description": "Payton Pritchard is trending after reportedly agreeing to a two-year contract extension with the Boston Celtics.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Payton%20Pritchard",
-      "image_url": "https://celebritate.com/wp-content/uploads/2023/05/Payton-Preslee-922x1024.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T20:23:35Z",
-      "first_seen": "2026-10-13T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-13T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-13T21:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     }
