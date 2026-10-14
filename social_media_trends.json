@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-14T21:25:41Z",
+  "updated": "2026-10-14T22:24:54Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 8,
       "is_new": false,
       "topic": "Roma",
-      "description": "AS Roma is trending as they face Real Madrid in a UEFA Champions League match, drawing significant media and viewer attention.",
+      "description": "AS Roma recently faced Real Madrid in a thrilling Champions League match, suffering a narrow 4-3 defeat after a fierce comeback led by Real Madrid.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Roma",
       "image_url": "https://media.asroma.com/prod/images/gm_preview/bac0e2fe4c89-corporate-crest-new-png.png",
@@ -37,10 +41,10 @@
       "started_trending": "2026-10-14T19:23:32Z",
       "first_seen": "2026-10-14T19:23:32Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -57,12 +61,16 @@
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 2
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Real Madrid",
-      "description": "Real Madrid is trending ahead of their Champions League match against Roma, alongside news of a four-game ban for Vinícius Junior.",
+      "description": "Real Madrid secured a dramatic 4-3 comeback victory against AS Roma in the Champions League, with youngsters rescuing manager Jose Mourinho.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Real%20Madrid",
       "image_url": "https://www.genius2play.com/img/teams/football/real-madrid.webp",
@@ -70,45 +78,16 @@
       "started_trending": "2026-10-14T20:23:32Z",
       "first_seen": "2026-10-14T20:23:32Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "endrick",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T21:23:34Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Endrick",
-      "description": "Real Madrid manager José Mourinho has blocked a potential loan move for Endrick, insisting the young forward will be a huge success at the club.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Endrick",
-      "image_url": "https://getfootballnewsspain.com/wp-content/uploads/2024/08/real-madrid-cf-v-real-valladolid-cf-laliga-ea-sports.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T21:23:34Z",
-      "first_seen": "2026-10-14T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "starlink",
-      "rank": 4,
+      "rank": 3,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -135,12 +114,16 @@
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": -3,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Starlink",
-      "description": "New restrictions on Starlink are reportedly disrupting Ukraine's military operations, sparking discussion over satellite access and intelligence gaps.",
+      "description": "New restrictions on Starlink are reportedly disrupting Ukraine's military operations, drawing scrutiny over SpaceX policies and US ties amid the war with Russia.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Starlink",
       "image_url": "https://static.vecteezy.com/system/resources/thumbnails/024/568/412/original/starlink-satellite-dish-an-internet-constellation-operated-by-spacex-is-installed-on-the-wall-of-an-apartment-building-free-video.jpg",
@@ -148,47 +131,76 @@
       "started_trending": "2026-10-14T16:23:37Z",
       "first_seen": "2026-10-14T16:23:37Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "donnarumma",
-      "rank": 5,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "id": "endrick",
+      "rank": 4,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
-          "t": "2026-10-14T19:23:32Z",
-          "r": 5
+          "t": "2026-10-14T21:23:34Z",
+          "r": 3
         },
         {
-          "t": "2026-10-14T20:23:32Z",
-          "r": 6
-        },
+          "t": "2026-10-14T22:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Endrick",
+      "description": "Real Madrid manager Jose Mourinho has blocked a transfer move for Endrick, insisting the young forward will be a huge success and stay with the club.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Endrick",
+      "image_url": "https://getfootballnewsspain.com/wp-content/uploads/2024/08/real-madrid-cf-v-real-valladolid-cf-laliga-ea-sports.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T21:23:34Z",
+      "first_seen": "2026-10-14T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "vini",
+      "rank": 5,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
         {
           "t": "2026-10-14T21:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
           "r": 5
         }
       ],
-      "rank_change": 0,
+      "rank_change": 2,
       "is_new": false,
-      "topic": "Donnarumma",
-      "description": "Gianluigi Donnarumma is trending as teammate Ousmane Dembélé praises his world-class ability, while Marco Carnesecchi accepts his role as Italy's backup.",
+      "topic": "Vini",
+      "description": "Real Madrid's Vinícius Junior received a four-match suspension following a red card for a hair pull, meaning he will miss the upcoming El Clásico.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Donnarumma",
-      "image_url": "https://images.aftonbladet-cdn.se/v2/images/a580edc5-1ea4-4edc-90ac-16160b1bf9a8?fit=crop&format=auto&h=1242&q=50&w=1900&s=b074b53c0d49e7eaf3b5e83b665c9253d15a78de",
+      "url": "https://twstalker.com/search/Vini",
+      "image_url": "https://i.headtopics.com/images/2026/10/10/sinow/why-vinicius-junior-isn-t-playing-for-real-madrid--why-vinicius-junior-isn-t-playing-for-real-madrid--45785081EE171AEE4065E44899337733-16x9.webp",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T19:23:32Z",
-      "first_seen": "2026-10-14T19:23:32Z",
+      "started_trending": "2026-10-14T21:23:34Z",
+      "first_seen": "2026-10-14T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -205,12 +217,16 @@
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 6
         }
       ],
       "rank_change": -1,
       "is_new": false,
       "topic": "Mourinho",
-      "description": "José Mourinho is receiving attention after being honored by Roma fans upon his return as Real Madrid coach, alongside comments on player bans and recent matches.",
+      "description": "José Mourinho is making headlines following a winning return as Real Madrid coach and an emotional reception from Roma fans, alongside tactical debates.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mourinho",
       "image_url": "https://thedakia.com/wp-content/uploads/2026/05/Jose-Mourinho-returning-Real-Madrid-Manager.jpeg",
@@ -218,39 +234,51 @@
       "started_trending": "2026-10-14T20:23:32Z",
       "first_seen": "2026-10-14T20:23:32Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "vini",
+      "id": "donnarumma",
       "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
+          "t": "2026-10-14T19:23:32Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-14T20:23:32Z",
+          "r": 6
+        },
+        {
           "t": "2026-10-14T21:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
           "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Vini",
-      "description": "Real Madrid's Vinícius Junior received a four-match suspension following a red card for a hair pull, meaning he will miss El Clásico.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Donnarumma",
+      "description": "Gianluigi Donnarumma is trending as teammate Ousmane Dembélé praises his world-class ability while Italian national team discussions continue regarding his backups.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Vini",
-      "image_url": "https://i.headtopics.com/images/2026/10/10/sinow/why-vinicius-junior-isn-t-playing-for-real-madrid--why-vinicius-junior-isn-t-playing-for-real-madrid--45785081EE171AEE4065E44899337733-16x9.webp",
+      "url": "https://twstalker.com/search/Donnarumma",
+      "image_url": "https://images.aftonbladet-cdn.se/v2/images/a580edc5-1ea4-4edc-90ac-16160b1bf9a8?fit=crop&format=auto&h=1242&q=50&w=1900&s=b074b53c0d49e7eaf3b5e83b665c9253d15a78de",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T21:23:34Z",
-      "first_seen": "2026-10-14T21:23:34Z",
+      "started_trending": "2026-10-14T19:23:32Z",
+      "first_seen": "2026-10-14T19:23:32Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -267,12 +295,16 @@
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 8
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Semenyo",
-      "description": "Antoine Semenyo is making headlines as a court hears testimony that he 'froze' following alleged racist abuse during a match at Anfield.",
+      "description": "Premier League star Antoine Semenyo is making news after a court trial heard that he allegedly 'froze' following racial abuse at Anfield.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Semenyo",
       "image_url": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/644c/live/bd076f30-c3ea-11f0-a277-5df1a7bf8a43.jpg",
@@ -280,78 +312,16 @@
       "started_trending": "2026-10-14T20:23:32Z",
       "first_seen": "2026-10-14T20:23:32Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "valverde",
-      "rank": 9,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-14T20:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-14T21:23:34Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Valverde",
-      "description": "Real Madrid's Valverde has reopened a controversial debate at the club by publicly opposing manager José Mourinho's views.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Valverde",
-      "image_url": "https://laligagolazos.com/cdn-cgi/image/width=3840,quality=50/https://assets.laligagolazos.com/players/website_player_profile/223255.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T20:23:32Z",
-      "first_seen": "2026-10-14T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bouaddi",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T21:23:34Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bouaddi",
-      "description": "Ayoub Bouaddi is drawing attention following performances against Paris Saint-Germain and Manchester City in the Champions League.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bouaddi",
-      "image_url": "https://f2.hespress.com/wp-content/uploads/2024/11/bouaddi-ldc.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T21:23:34Z",
-      "first_seen": "2026-10-14T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wide-deceiver",
-      "rank": 11,
+      "rank": 9,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -362,12 +332,16 @@
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 9
         }
       ],
-      "rank_change": -7,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Wide Deceiver",
-      "description": "Netflix announced an upcoming 'Untold' documentary covering the wire fraud case and saga surrounding fake 49ers player Daejon Love.",
+      "description": "Netflix announced a new documentary titled 'Wide Deceiver,' detailing the viral fake 49ers wide receiver story featuring firsthand accounts from alleged victims.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Wide%20Deceiver",
       "image_url": "https://media.licdn.com/dms/image/v2/D5603AQG0e8mi1iHurQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703418262235?e=2147483647&v=beta&t=6z8zHzlcsjE8AXVdGp7G_5ZILTeFuFKgd9OodqqGiJo",
@@ -375,28 +349,135 @@
       "started_trending": "2026-10-14T20:23:32Z",
       "first_seen": "2026-10-14T20:23:32Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "valverde",
+      "rank": 10,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-14T20:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-14T21:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Valverde",
+      "description": "Valverde is trending after speaking about the team's resilience following a Champions League match and reopening a controversial debate at Real Madrid.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Valverde",
+      "image_url": "https://laligagolazos.com/cdn-cgi/image/width=3840,quality=50/https://assets.laligagolazos.com/players/website_player_profile/223255.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T20:23:32Z",
+      "first_seen": "2026-10-14T20:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aikman",
+      "rank": 11,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-14T21:23:34Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Aikman",
+      "description": "Troy Aikman and Joe Buck reportedly got into a pre-game argument in the broadcast booth amid tension over contract extension talks with ESPN.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Aikman",
+      "image_url": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/10/joe-buck-troy-aikman-1031308357.jpg?resize=1024",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T21:23:34Z",
+      "first_seen": "2026-10-14T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bouaddi",
+      "rank": 12,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-14T21:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Bouaddi",
+      "description": "Bouaddi is trending following a clash between Paris Saint-Germain and Manchester City, where he left his mark against French and Moroccan football stars.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bouaddi",
+      "image_url": "https://f2.hespress.com/wp-content/uploads/2024/11/bouaddi-ldc.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T21:23:34Z",
+      "first_seen": "2026-10-14T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "enzo",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 13,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Enzo",
-      "description": "Manchester City manager Enzo Maresca is facing scrutiny and addressing critics following his team's recent Champions League match against PSG.",
+      "description": "Manager Enzo Maresca and Manchester City suffered their first defeat of the season in a 4-2 thriller against Paris Saint-Germain.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Enzo",
       "image_url": "https://static0.footballfancastimages.com/wordpress/wp-content/uploads/2024/09/maresca-chelsea.JPG",
@@ -404,7 +485,40 @@
       "started_trending": "2026-10-14T21:23:34Z",
       "first_seen": "2026-10-14T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "guler",
+      "rank": 14,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-14T21:23:34Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Guler",
+      "description": "Arda Güler is trending as reports highlight his role in reviving Jose Mourinho's Real Madrid squad during recent Champions League campaigns.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Guler",
+      "image_url": "https://icdn.siempremadrid.com/wp-content/uploads/2025/03/Copy-ofReal-Madrid-CF-v-CD-Leganes-La-Liga-EA-Sports.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T21:23:34Z",
+      "first_seen": "2026-10-14T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T22:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -413,7 +527,7 @@
     },
     {
       "id": "mbappe",
-      "rank": 13,
+      "rank": 15,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -424,12 +538,16 @@
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": 3,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Mbappe",
-      "description": "Kylian Mbappé broke Lionel Messi's record to become the youngest player to make 100 Champions League appearances during a match against Roma.",
+      "description": "Kylian Mbappé surpassed Lionel Messi's record to become the youngest player to make 100 Champions League appearances while earning high player ratings.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mbappe",
       "image_url": "https://i.eurosport.com/2022/11/25/3496575.jpg",
@@ -437,36 +555,69 @@
       "started_trending": "2026-10-14T20:23:32Z",
       "first_seen": "2026-10-14T20:23:32Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "aikman",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "dortmund",
+      "rank": 16,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-10-14T21:23:34Z",
-          "r": 14
+          "r": 17
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Aikman",
-      "description": "Troy Aikman and Joe Buck reportedly got into a pre-game argument in the booth amid contract extension tensions with ESPN.",
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Dortmund",
+      "description": "Borussia Dortmund suffered a surprise defeat to Bodø/Glimt after wholesale changes made by coach Kovač backfired in the match.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Aikman",
-      "image_url": "https://www.the-sun.com/wp-content/uploads/sites/6/2025/10/joe-buck-troy-aikman-1031308357.jpg?resize=1024",
+      "url": "https://twstalker.com/search/Dortmund",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1280px-Borussia_Dortmund_logo.svg.png",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-14T21:23:34Z",
       "first_seen": "2026-10-14T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stolas",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Stolas",
+      "description": "Creator Vivienne Medrano officially confirmed major relationship changes for characters Stolas and Blitz ahead of the upcoming Season 3 premiere of Helluva Boss on Prime Video.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Stolas",
+      "image_url": "https://jinxxy-c.jinxxy-cdn.com/cdn-cgi/image/format=auto,onerror=redirect/b3a8921b-7b9c-5b50-92df-d79364d2493e/4006843051342301099/1030004370212935680.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T22:23:32Z",
+      "first_seen": "2026-10-14T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-14T22:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -475,19 +626,23 @@
     },
     {
       "id": "diomande",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "Diomande",
-      "description": "Real Madrid's lineup choices, including whether key players like Vinícius Junior and Kylian Mbappe are starting, are drawing widespread discussion ahead of their Champions League clash against Roma.",
+      "description": "Diomande received strong player ratings following Real Madrid's hard-fought and dramatic Champions League victory over AS Roma.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Diomande",
       "image_url": "https://i.ytimg.com/vi/Hj8jkSdeXlI/maxresdefault.jpg",
@@ -495,127 +650,7 @@
       "started_trending": "2026-10-14T21:23:34Z",
       "first_seen": "2026-10-14T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "guler",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T21:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Guler",
-      "description": "Arda Güler is generating discussion as fans and analysts question why he is not starting for Real Madrid in their Champions League match against Roma.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Guler",
-      "image_url": "https://icdn.siempremadrid.com/wp-content/uploads/2025/03/Copy-ofReal-Madrid-CF-v-CD-Leganes-La-Liga-EA-Sports.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T21:23:34Z",
-      "first_seen": "2026-10-14T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dortmund",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T21:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Dortmund",
-      "description": "Borussia Dortmund is trending as they face Bodø/Glimt in a UEFA Champions League fixture, drawing fans to live streams and coverage.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dortmund",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1280px-Borussia_Dortmund_logo.svg.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T21:23:34Z",
-      "first_seen": "2026-10-14T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tchouameni",
-      "rank": 18,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-14T20:23:32Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-14T21:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Tchouameni",
-      "description": "Aurélien Tchouaméni expressed heavy frustration over recent referee decisions affecting Real Madrid and addressed midfield concerns.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tchouameni",
-      "image_url": "https://ichef.bbci.co.uk/news/999/cpsprodpb/ab46/live/e106f600-19cb-11ef-a3f4-f1cabba3030d.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T20:23:32Z",
-      "first_seen": "2026-10-14T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bernardo",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T21:23:34Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bernardo",
-      "description": "Discussions surrounding Bernardo Silva are trending alongside Champions League lineup debates, while other namesakes appear in unrelated entertainment and legal news.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bernardo",
-      "image_url": "https://icdn.football-italia.net/wp-content/uploads/2025/09/Bernardo-Silva-Manchester-City.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T21:23:34Z",
-      "first_seen": "2026-10-14T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
+      "last_seen": "2026-10-14T22:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -624,7 +659,7 @@
     },
     {
       "id": "dudus",
-      "rank": 20,
+      "rank": 19,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -651,12 +686,16 @@
         {
           "t": "2026-10-14T21:23:34Z",
           "r": 20
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": -18,
+      "rank_change": -17,
       "is_new": false,
       "topic": "Dudus",
-      "description": "Reports indicate that Sean 'Diddy' Combs suffered a head injury in prison after an alleged fight with Jamaican drug lord Christopher 'Dudus' Coke.",
+      "description": "Sean 'Diddy' Combs reportedly sustained a head injury during a prison fight with Jamaican drug lord Christopher 'Dudus' Coke.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dudus",
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/sean-diddy-combs-invest-fest-atlanta.jpg?ve=1&tl=1",
@@ -664,10 +703,47 @@
       "started_trending": "2026-10-14T16:23:37Z",
       "first_seen": "2026-10-14T16:23:37Z",
       "published": null,
-      "last_seen": "2026-10-14T21:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tchouameni",
+      "rank": 20,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-14T20:23:32Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-14T21:23:34Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-14T22:23:32Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Tchouameni",
+      "description": "Aurélien Tchouaméni voiced his frustration with match officials, addressed midfield concerns for Real Madrid, and backed teammate Kylian Mbappé for the Ballon d'Or.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tchouameni",
+      "image_url": "https://ichef.bbci.co.uk/news/999/cpsprodpb/ab46/live/e106f600-19cb-11ef-a3f4-f1cabba3030d.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T20:23:32Z",
+      "first_seen": "2026-10-14T20:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-14T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     }
