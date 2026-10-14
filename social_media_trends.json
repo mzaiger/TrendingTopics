@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-14T00:25:27Z",
+  "updated": "2026-10-14T01:26:25Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "dwts",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-14T00:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "#dwts",
-      "description": "Fans are buzzing over the special Super Bowl Night halftime show and lineup on Dancing with the Stars.",
+      "description": "Dancing With the Stars is trending as the show celebrates Super Bowl Night with a special themed episode featuring guest judge Joe Buck.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23dwts",
       "image_url": "https://images2.minutemediacdn.com/image/upload/f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si_lifestyle/01kamb5nb6fwk613snr9.jpg",
@@ -29,7 +33,69 @@
       "started_trending": "2026-10-14T00:23:36Z",
       "first_seen": "2026-10-14T00:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tatyana",
+      "rank": 2,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-14T00:23:36Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 13,
+      "is_new": false,
+      "topic": "Tatyana",
+      "description": "Paralympic wheelchair racer Tatyana McFadden is trending following news reports about her experience living with blood clots.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tatyana",
+      "image_url": "https://res.cloudinary.com/usopc-prod/image/upload/ar_0.8,c_fill,g_auto,h_860/q_auto/f_auto/dpr_2.0/v1/TeamUSA+Assets/Athlete+Profiles/batch+images/McFadden_T_bio_800356?_a=BAJFJtWI0",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T00:23:36Z",
+      "first_seen": "2026-10-14T00:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "amber",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Amber",
+      "description": "Olympic gold medalist Amber Glenn is trending as she prepares for a rescheduled visit to the University of Colorado Boulder.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Amber",
+      "image_url": "https://people.com/thmb/mEuu4El9Gm0so7lQ36XqkhKXNmY=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x0:601x2)/amber-glenn-figure-skating-championship-1826-a694363c15994661b5ca3dfe88a15e8a.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T01:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -38,7 +104,7 @@
     },
     {
       "id": "dwcs",
-      "rank": 2,
+      "rank": 4,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -49,12 +115,16 @@
         {
           "t": "2026-10-14T00:23:36Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 4
         }
       ],
-      "rank_change": 14,
+      "rank_change": 12,
       "is_new": false,
       "topic": "#DWCS",
-      "description": "Social media is discussing the latest results, odds, and predictions for Week 10 of Dana White's Contender Series.",
+      "description": "Dana White's Contender Series is trending as fans follow the results and predictions for the final week of the show's tenth season.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23DWCS",
       "image_url": "https://oddsmokermma.com/wp-content/uploads/2022/09/20220920_134249-1.jpg",
@@ -62,28 +132,148 @@
       "started_trending": "2026-10-13T23:23:35Z",
       "first_seen": "2026-10-13T23:23:35Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "carrie-ann",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Carrie Ann",
+      "description": "Judge Carrie Ann Inaba is trending after she was heard cursing live on air while praising a contestant's performance on Dancing With the Stars.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Carrie%20Ann",
+      "image_url": "https://www.realitytea.com/wp-content/uploads/sites/6/2026/10/Carrie-Ann-Inaba.png?resize=300",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "julia",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Julia",
+      "description": "Composer Julia Wolfe is trending as she prepares to headline the 47th Annual New Musical Festival at Bowling Green State University.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Julia",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Julia_Roberts_2025.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "connor",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Connor",
+      "description": "Blackhawks star Connor Bedard is trending as he is activated from the injured list and prepares to make his season debut.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Connor",
+      "image_url": "https://whnt.com/wp-content/uploads/sites/20/2026/10/6ace8d38b966d6.26305973.jpeg?w=2560&h=1440&crop=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wwenxt",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#WWENXT",
+      "description": "WWE NXT is trending as fans discuss the latest results, highlights, and match outcomes from the October 13 broadcast.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WWENXT",
+      "image_url": "https://media.sescoops.com/uploads/2024/12/wwe-nxt.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "maura",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-14T00:23:36Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "Maura",
-      "description": "Maura Higgins is trending after sharing insights on her beauty routine, alongside local news regarding utility refunds and energy price surges.",
+      "description": "Maura Higgins is trending after delivering a highly praised tango performance during the Super Bowl-themed episode of Dancing With the Stars.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Maura",
       "image_url": "https://www.usanetwork.com/sites/usablog/files/2023/11/love-island-games-maura-higgins2.jpg",
@@ -91,7 +281,36 @@
       "started_trending": "2026-10-14T00:23:36Z",
       "first_seen": "2026-10-14T00:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ezra",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ezra",
+      "description": "Ezra Zahabi is trending after being named to Financial News' list of the 100 most influential women in European finance.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ezra",
+      "image_url": "https://i.pinimg.com/originals/48/3a/33/483a33b079609ba1952155c3eb67fe3c.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T01:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -99,69 +318,28 @@
       "extra": {}
     },
     {
-      "id": "bank-of-america",
-      "rank": 4,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-13T21:23:35Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-13T22:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-13T23:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 14,
-      "is_new": false,
-      "topic": "Bank of America",
-      "description": "Bank of America is making headlines after being ordered to pay a historic 1.2 billion dollar penalty for money laundering and sanctions violations.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bank%20of%20America",
-      "image_url": "https://images.skyscrapercenter.com/building/bankofamericabuilding_ext-full_(cc-by-nc-nd)imagematters1.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T21:23:35Z",
-      "first_seen": "2026-10-13T21:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cabral",
-      "rank": 5,
+      "id": "rhony",
+      "rank": 11,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 5
+          "t": "2026-10-14T01:23:36Z",
+          "r": 11
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Cabral",
-      "description": "Fighters Douglas Da Lapa and Davi Cabral are trending following their matchup on Dana White's Contender Series.",
+      "topic": "#RHONY",
+      "description": "The Real Housewives of New York City is trending as viewers react to new season drama involving Jenna Lyons and tabloid gossip.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cabral",
-      "image_url": "https://static.johnnybet.com/system/top_banner_images/desktops/009/192/378/original/1791916341/douglas_da_lapa_davi_cabral_de_souza_4799645.jpg",
+      "url": "https://twstalker.com/search/%23RHONY",
+      "image_url": "https://media.nbcboston.com/2026/10/Kimberly-Guilfoyle-donald-trump-getty-e1791844858437.jpg?quality=85&strip=all&resize=1200,675",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
+      "last_seen": "2026-10-14T01:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -169,28 +347,28 @@
       "extra": {}
     },
     {
-      "id": "julianne",
-      "rank": 6,
+      "id": "visionquest",
+      "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 6
+          "t": "2026-10-14T01:23:36Z",
+          "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Julianne",
-      "description": "Julianne Hough and Julianne Moore are drawing attention online as Moore's son Caleb gets married and Hough appears on Dancing with the Stars.",
+      "topic": "#VisionQuest",
+      "description": "The Marvel series VisionQuest is trending as fans tune in for the early premiere of the WandaVision spinoff.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Julianne",
-      "image_url": "https://cdn.amomama.com/49aa3222eeab37da72ce5a263a926a98f5f92565e07e80354df3806d4c5f5d36.jpg",
+      "url": "https://twstalker.com/search/%23VisionQuest",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/16a7dc7fa368c9c98d815b708acf978c3a5615c206989a5dcca20ef8f0ed3956/lightyear_networkapi/resizefill_w958_h625;quality_80;format_webp/https://media.zenfs.com/en/forbes_contributor_845/0959efd9f27218b0f03fa1eeb8f4d2cd.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
+      "last_seen": "2026-10-14T01:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -199,14 +377,10 @@
     },
     {
       "id": "narnia",
-      "rank": 7,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "rank": 13,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-10-13T19:23:34Z",
-          "r": 1
-        },
         {
           "t": "2026-10-13T20:23:35Z",
           "r": 2
@@ -226,12 +400,16 @@
         {
           "t": "2026-10-14T00:23:36Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 13
         }
       ],
-      "rank_change": -5,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Narnia",
-      "description": "Fans are divided on social media following the release of the first trailer for Greta Gerwig's Narnia: The Magician's Nephew.",
+      "description": "The Narnia franchise is trending following the release of the first trailer for Greta Gerwig's upcoming film, The Magician's Nephew.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Narnia",
       "image_url": "https://i.pinimg.com/originals/74/47/a4/7447a4369f023dc8d57f88c7253ed125.jpg",
@@ -239,123 +417,77 @@
       "started_trending": "2026-10-13T19:23:34Z",
       "first_seen": "2026-10-13T19:23:34Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "da-lapa",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "bank-of-america",
+      "rank": 14,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Da Lapa",
-      "description": "Douglas Da Lapa is trending following his victory and stoppage of Cabral in round three on Dana White's Contender Series.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Da%20Lapa",
-      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2026/10/Davi-Cabral-vs.-Douglas-da-Lapa-prediction-odds-pick-for-Contender-Series-Week-10.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "final-destination",
-      "rank": 9,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
+          "t": "2026-10-13T21:23:35Z",
+          "r": 18
+        },
         {
           "t": "2026-10-13T22:23:33Z",
-          "r": 8
+          "r": 5
         },
         {
           "t": "2026-10-13T23:23:35Z",
-          "r": 3
+          "r": 2
         },
         {
           "t": "2026-10-14T00:23:36Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Final Destination",
-      "description": "The material does not provide enough details to explain why this topic is currently trending.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Final%20Destination",
-      "image_url": "https://whats-after-the-movie-ti152.sevalla.storage/movies/final.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T22:23:33Z",
-      "first_seen": "2026-10-13T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "brady-tkachuk",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
+          "r": 4
+        },
         {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 10
+          "t": "2026-10-14T01:23:36Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Brady Tkachuk",
-      "description": "Brady Tkachuk is trending on social media after scoring a hat trick and his first goals with the Florida Panthers against the Blue Jackets.",
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Bank of America",
+      "description": "Bank of America is trending after agreeing to pay over $1 billion in fines to settle federal violations regarding money laundering and sanctions laws.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brady%20Tkachuk",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ottawa_Senators_at_Seattle_Kraken_-_2023-03-09_-_Brady_Tkachuk.jpg/960px-Ottawa_Senators_at_Seattle_Kraken_-_2023-03-09_-_Brady_Tkachuk.jpg",
+      "url": "https://twstalker.com/search/Bank%20of%20America",
+      "image_url": "https://images.skyscrapercenter.com/building/bankofamericabuilding_ext-full_(cc-by-nc-nd)imagematters1.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
+      "started_trending": "2026-10-13T21:23:35Z",
+      "first_seen": "2026-10-13T21:23:35Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "blakeman",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 15,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-10-14T00:23:36Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "Blakeman",
-      "description": "Hochul and Blakeman are trending as they face off in their first and only New York governor's debate.",
+      "description": "Blakeman is trending as he prepares to face off against Kathy Hochul in the only scheduled debate for the New York gubernatorial election.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Blakeman",
       "image_url": "https://www.longislandpress.com/wp-content/uploads/2025/09/Blakeman-With-Flags.jpg?resize=768",
@@ -363,184 +495,7 @@
       "started_trending": "2026-10-14T00:23:36Z",
       "first_seen": "2026-10-14T00:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "uswnt",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#USWNT",
-      "description": "Fans are following live updates, lineups, and previews for the USWNT match against Spain.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23USWNT",
-      "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAxNjE0NTEy/soccer-international-womens-friendly-spain-at-united-states.jpg?profile=w2560&x=50&y=50",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aslan",
-      "rank": 13,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-13T19:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-13T20:23:35Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-13T21:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-13T22:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-13T23:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Aslan",
-      "description": "Aslan is trending after appearing prominently in the newly released trailer for Greta Gerwig's Narnia fantasy epic.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Aslan",
-      "image_url": "https://vignette.wikia.nocookie.net/narnia/images/4/42/Edmund_aslan.jpg/revision/latest/scale-to-width-down/2000?cb=20101010041716",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T19:23:34Z",
-      "first_seen": "2026-10-13T19:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "licha",
-      "rank": 14,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-13T22:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-13T23:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Licha",
-      "description": "Licha is trending on social media after being named in the FIFA Dream XI for Manchester United.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Licha",
-      "image_url": "https://centredevils.co.uk/wp-content/uploads/2024/11/Lisandro-Martinez-2.webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T22:23:33Z",
-      "first_seen": "2026-10-13T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tatyana",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tatyana",
-      "description": "Paralympic wheelchair racer Tatyana McFadden is trending after speaking out about living with blood clots.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tatyana",
-      "image_url": "https://res.cloudinary.com/usopc-prod/image/upload/ar_0.8,c_fill,g_auto,h_860/q_auto/f_auto/dpr_2.0/v1/TeamUSA+Assets/Athlete+Profiles/batch+images/McFadden_T_bio_800356?_a=BAJFJtWI0",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "metallica",
-      "rank": 16,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-13T23:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-14T00:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Metallica",
-      "description": "Metallica frontman James Hetfield is generating discussion after stating the band will avoid political agendas and push no political bias at their concerts.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Metallica",
-      "image_url": "https://thatparkplace.com/wp-content/uploads/2026/10/171-Hardwired-Live-in-Minneapolis-MN-August-20-2016-Black-Box-Edit-00-00-52-900x506.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T23:23:35Z",
-      "first_seen": "2026-10-13T23:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
+      "last_seen": "2026-10-14T01:23:36Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -548,28 +503,57 @@
       "extra": {}
     },
     {
-      "id": "asher",
+      "id": "sundell",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T01:23:36Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sundell",
+      "description": "Smilla Sundell is trending as fans and bettors analyze her upcoming fight against Aline Pereira on Dana White's Contender Series.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sundell",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jack-hughes",
       "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-14T00:23:36Z",
+          "t": "2026-10-14T01:23:36Z",
           "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Asher",
-      "description": "Asher Cunningham is trending after being named the Walter Camp Foundation National Defensive Player of the Week.",
+      "topic": "Jack Hughes",
+      "description": "Jack Hughes is trending after scoring the game-winning goal in overtime to lead the New Jersey Devils to victory over the Red Wings.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Asher",
-      "image_url": "https://bellisariostudentmedia.psu.edu/assets/uploads/images/AAA-STate-Wrestling.png",
+      "url": "https://twstalker.com/search/Jack%20Hughes",
+      "image_url": "https://fanatics.frgimages.com/jack-hughes-team-usa-autographed-16-x-20-2026-winter-olympics-gold-medal-winner-photograph-_ss5_p-203921283+u-tlk93w3g0oa6rjovq78a+v-6gwahnrvsa9xx7jvkwnk.jpg?_hv=2",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
+      "last_seen": "2026-10-14T01:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -577,65 +561,57 @@
       "extra": {}
     },
     {
-      "id": "pope-leo",
+      "id": "hali",
       "rank": 18,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-13T22:23:33Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-13T23:23:35Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-14T00:23:36Z",
+          "t": "2026-10-14T01:23:36Z",
           "r": 18
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Pope Leo",
-      "description": "The Vatican has announced that Pope Leo has been diagnosed with lung cancer following a successful surgery.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hali",
+      "description": "The material provided does not offer a clear reason for why Hali is trending on social media.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Pope%20Leo",
-      "image_url": "https://infovaticana.com/wp-content/uploads/2026/09/pope-leo-xiv-audience-xiv-may-13-26-antoine-mekary-aleteia-am_4144-2048x1365.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T22:23:33Z",
-      "first_seen": "2026-10-13T22:23:33Z",
+      "url": "https://twstalker.com/search/Hali",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "ashley-sanchez",
+      "id": "joe-buck",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-14T00:23:36Z",
+          "t": "2026-10-14T01:23:36Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Ashley Sanchez",
-      "description": "Ashley Sanchez is trending as she adjusts to a position change and prepares for the USWNT rematch against Spain.",
+      "topic": "Joe Buck",
+      "description": "Sportscaster Joe Buck is trending as he makes a special appearance as a guest judge for the Super Bowl-themed episode of Dancing With the Stars.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ashley%20Sanchez",
-      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2026/09/29005548/2026-09-12T234505Z_1068301289_MT1USATODAY29805674_RTRMADP_3_NWSL-NORTH-CAROLINA-COURAGE-AT-SAN-DIEGO-WAVE-FC-1024x683.jpg?width=1440&quality=70&auto=webp",
+      "url": "https://twstalker.com/search/Joe%20Buck",
+      "image_url": "https://baseballhall.org/sites/default/files/inline-images/Joe+Buck.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
+      "last_seen": "2026-10-14T01:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -643,39 +619,31 @@
       "extra": {}
     },
     {
-      "id": "deadman-danny",
+      "id": "hochul",
       "rank": 20,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-13T22:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-13T23:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-14T00:23:36Z",
+          "t": "2026-10-14T01:23:36Z",
           "r": 20
         }
       ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Deadman Danny",
-      "description": "Deadman Danny is trending following updates and first looks at abilities for the character in Deadlock.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hochul",
+      "description": "Governor Kathy Hochul is trending as she prepares to participate in a high-stakes debate against her opponent, Blakeman.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Deadman%20Danny",
-      "image_url": "https://thegamehaus.com/wp-content/uploads/2026/09/Deadlock-Deadman-Danny-Release-Date.png.webp",
+      "url": "https://twstalker.com/search/Hochul",
+      "image_url": "https://cdn.abcotvs.com/dip/images/19918698_100726-wabc-hochul-blakeman-split-img.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-13T22:23:33Z",
-      "first_seen": "2026-10-13T22:23:33Z",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T00:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-14T01:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
