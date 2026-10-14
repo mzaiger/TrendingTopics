@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-14T10:25:00Z",
+  "updated": "2026-10-14T11:25:13Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-14T10:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 1
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "Good Wednesday",
-      "description": "Social media users are discussing Wednesday amidst regional weather forecasts predicting showers, storms, patchy morning fog, and near-record high temperatures.",
+      "description": "Social media users are discussing Wednesday weather forecasts, tracking cooler autumn air and storms across different regions.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Wednesday",
       "image_url": "https://s.yimg.com/ny/api/res/1.2/.VxIkHqT0x2TfFndcL3esA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MA--/https://s.yimg.com/os/creatr-uploaded-images/2022-09/19c27fc0-3b46-11ed-ab7b-65e5e730375c",
@@ -33,7 +37,36 @@
       "started_trending": "2026-10-14T09:23:36Z",
       "first_seen": "2026-10-14T09:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hump-day",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hump Day",
+      "description": "Social media users are celebrating Hump Day amid record-breaking warm temperatures, while others track approaching fall-like weather and freeze alerts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hump%20Day",
+      "image_url": "https://i.pinimg.com/originals/c0/fd/15/c0fd156413a003621b4c6eaed1450e49.jpg?nii=t",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T11:23:31Z",
+      "first_seen": "2026-10-14T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -42,7 +75,7 @@
     },
     {
       "id": "starshield",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -53,12 +86,16 @@
         {
           "t": "2026-10-14T10:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 3
         }
       ],
-      "rank_change": 7,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Starshield",
-      "description": "SpaceX has reportedly restricted Ukraine's military Starlink and Starshield access, disrupting drone operations and drawing attention amid rising tensions.",
+      "description": "Social media users are discussing newly reported restrictions on Starshield and Starlink services in Ukraine, which have reportedly disrupted drone operations.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Starshield",
       "image_url": "https://www.teslarati.com/wp-content/uploads/2019/05/Starlink-solar-array-deploy-SpaceX-pano-3-crop-c.jpg",
@@ -66,138 +103,7 @@
       "started_trending": "2026-10-14T09:23:36Z",
       "first_seen": "2026-10-14T09:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "0xgems",
-      "rank": 3,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "0xGems",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/0xGems",
-      "image_url": "https://www.grimballjewelers.com/wp-content/uploads/2023/07/14b5622fc6ca0cb8/understanding-crypto-gems.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T07:23:35Z",
-      "first_seen": "2026-10-14T07:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "visionquest",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-14T04:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-14T05:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-14T06:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "#VisionQuest",
-      "description": "Fans online are reviewing and discussing the MCU's newest TV show, 'VisionQuest', following its series premiere and episodes 1 and 2.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23VisionQuest",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/16a7dc7fa368c9c98d815b708acf978c3a5615c206989a5dcca20ef8f0ed3956/lightyear_networkapi/resizefill_w958_h625;quality_80;format_webp/https://media.zenfs.com/en/forbes_contributor_845/0959efd9f27218b0f03fa1eeb8f4d2cd.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T01:23:36Z",
-      "first_seen": "2026-10-14T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dexsi",
-      "rank": 5,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 5
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "$DEXSI",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%24DEXSI",
-      "image_url": "https://public.rootdata.com/images/b6/1715860646414.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T08:23:37Z",
-      "first_seen": "2026-10-14T08:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
+      "last_seen": "2026-10-14T11:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -205,8 +111,115 @@
       "extra": {}
     },
     {
-      "id": "veil",
+      "id": "stolas",
+      "rank": 4,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-14T10:23:32Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "Stolas",
+      "description": "Fans are sharing emotional reactions and reviews on social media following the Season 3 premiere of Prime Video's Helluva Boss, particularly focusing on characters Stolas and Blitz.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Stolas",
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e84f2dbe-4efb-4016-9ef0-bf2e731ea49d/dfpy99t-98d3b556-f0d8-4730-96a4-00266a739234.jpg/v1/fill/w_1280,h_1856,q_75,strp/helluva_boss_stolas_by_sinfuljam_dfpy99t-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg1NiIsInBhdGgiOiJcL2ZcL2U4NGYyZGJlLTRlZmItNDAxNi05ZWYwLWJmMmU3MzFlYTQ5ZFwvZGZweTk5dC05OGQzYjU1Ni1mMGQ4LTQ3MzAtOTZhNC0wMDI2NmE3MzkyMzQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ri5zQFc4M_01RHk7AtFXFdQXW_lT1Ey7E7GphOrULu4",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T09:23:36Z",
+      "first_seen": "2026-10-14T09:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-hump",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy Hump",
+      "description": "Social media users are sharing humorous posts and local weather updates for Wednesday.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Happy%20Hump",
+      "image_url": "http://3.bp.blogspot.com/-rwqWa_HwEp8/U056sGkzwUI/AAAAAAAAFik/tr5O2IV_sbE/s1600/HUMPDAYLBG14-C-03.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T11:23:31Z",
+      "first_seen": "2026-10-14T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "busted",
       "rank": 6,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-14T08:23:37Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-14T10:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "$BUSTED",
+      "description": "Social media users are discussing recent news involving federal crackdowns on North Korean laptop farms, union victories against union-busting, and local crime reports.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%24BUSTED",
+      "image_url": "https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T08:23:37Z",
+      "first_seen": "2026-10-14T08:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "veil",
+      "rank": 7,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -225,12 +238,16 @@
         {
           "t": "2026-10-14T10:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 7
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "$VEIL",
-      "description": "Cryptocurrency users are tracking on-chain spot market trading activity and prices for Veil ($VEIL).",
+      "description": "Social media users are discussing financial market trading for Veil, alongside updates on beauty products, bridal accessories, and a university teacher controversy.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24VEIL",
       "image_url": "https://cdn.publish0x.com/prod/fs/images/a51ab884a126a78e6cf3ba4f760a74585a90464d083f8d94d4797c008e70fa98.png",
@@ -238,40 +255,40 @@
       "started_trending": "2026-10-14T07:23:35Z",
       "first_seen": "2026-10-14T07:23:35Z",
       "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "dirty-bird",
-      "rank": 7,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "id": "danny-trejo",
+      "rank": 8,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 10
+          "t": "2026-10-14T10:23:32Z",
+          "r": 12
         },
         {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 7
+          "t": "2026-10-14T11:23:31Z",
+          "r": 8
         }
       ],
-      "rank_change": 3,
+      "rank_change": 4,
       "is_new": false,
-      "topic": "Dirty Bird",
-      "description": "The phrase is trending as users share autumn recipes like roasted squash and mashed potatoes, alongside seasonal vehicle maintenance tips.",
+      "topic": "Danny Trejo",
+      "description": "Danny Trejo is facing backlash on social media after being cast in a Daily Wire movie about ICE, prompting him to defend his role and state he is not pro-ICE.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dirty%20Bird",
-      "image_url": "https://static.vecteezy.com/system/resources/previews/015/183/924/large_2x/pile-of-unwashed-dirty-dishes-in-the-sink-mess-in-the-kitchen-dirty-kitchenware-plates-and-mugs-chaos-at-home-laziness-cluttered-apartment-messy-cutlery-and-dishware-photo.JPG",
+      "url": "https://twstalker.com/search/Danny%20Trejo",
+      "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/danny-trejo-1.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T09:23:36Z",
-      "first_seen": "2026-10-14T09:23:36Z",
+      "started_trending": "2026-10-14T10:23:32Z",
+      "first_seen": "2026-10-14T10:23:32Z",
       "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
+      "last_seen": "2026-10-14T11:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -279,98 +296,8 @@
       "extra": {}
     },
     {
-      "id": "busted",
-      "rank": 8,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "$BUSTED",
-      "description": "Social media is buzzing over various news stories involving the word busted, including union-busting defeats, North Korean laptop farms, and a Kansas GOP bus tour incident.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24BUSTED",
-      "image_url": "https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T08:23:37Z",
-      "first_seen": "2026-10-14T08:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dwts",
-      "rank": 9,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-14T04:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-14T05:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-14T06:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "#dwts",
-      "description": "Fans are reacting online to 'Dancing with the Stars' after a high-scoring Super Bowl Night resulted in the elimination of a beloved underdog and fan-favorite couple.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23dwts",
-      "image_url": "https://images2.minutemediacdn.com/image/upload/f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si_lifestyle/01kamb5nb6fwk613snr9.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "inu",
-      "rank": 10,
+      "rank": 9,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -385,12 +312,16 @@
         {
           "t": "2026-10-14T10:23:32Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 9
         }
       ],
-      "rank_change": -4,
+      "rank_change": -3,
       "is_new": false,
       "topic": "$INU",
-      "description": "Crypto enthusiasts are discussing Shiba Inu ($SHIB) as prices hit their lowest daily level since September 18 amid renewed token burns and security warnings.",
+      "description": "Cryptocurrency users are discussing Shiba Inu hitting its lowest daily price since September, alongside legal news regarding Hasanul Haq Inu.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24INU",
       "image_url": "https://www.scotsman.com/webimg/b25lY21zOjc0NWE2ZWUzLTQzZjAtNGFmNC04Y2ZlLWIyNzUwOGQ0M2EwODo2NmE2ZTQ2Zi1iMWNlLTRkZTQtYTRkYS1lYWQzMTk1MTk4OTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75",
@@ -398,94 +329,77 @@
       "started_trending": "2026-10-14T08:23:37Z",
       "first_seen": "2026-10-14T08:23:37Z",
       "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "stonkbroker",
-      "rank": 11,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "0xgems",
+      "rank": 10,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
+          "t": "2026-10-14T07:23:35Z",
+          "r": 8
+        },
+        {
           "t": "2026-10-14T08:23:37Z",
-          "r": 9
+          "r": 5
         },
         {
           "t": "2026-10-14T09:23:36Z",
-          "r": 11
+          "r": 2
         },
         {
           "t": "2026-10-14T10:23:32Z",
-          "r": 11
+          "r": 3
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 10
         }
       ],
       "rank_change": -2,
       "is_new": false,
-      "topic": "$STONKBROKER",
+      "topic": "0xGems",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%24STONKBROKER",
-      "image_url": "https://preview.redd.it/gba1a4i9os831.png?auto=webp&s=bdaae4d5f7df49074dea0c0929b252ccd3949330",
+      "url": "https://twstalker.com/search/0xGems",
+      "image_url": "https://www.grimballjewelers.com/wp-content/uploads/2023/07/14b5622fc6ca0cb8/understanding-crypto-gems.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T08:23:37Z",
-      "first_seen": "2026-10-14T08:23:37Z",
+      "started_trending": "2026-10-14T07:23:35Z",
+      "first_seen": "2026-10-14T07:23:35Z",
       "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "danny-trejo",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Danny Trejo",
-      "description": "Actor Danny Trejo is facing social media backlash and defending his casting in an upcoming Daily Wire movie centered on ICE, stating he is not pro-ICE.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Danny%20Trejo",
-      "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/danny-trejo-1.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T10:23:32Z",
-      "first_seen": "2026-10-14T10:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "helluva-boss",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 11,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-10-14T10:23:32Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 2,
+      "is_new": false,
       "topic": "Helluva Boss",
-      "description": "Viewers are discussing the release schedule and streaming details for season 3 of 'Helluva Boss' on Prime Video.",
+      "description": "Fans on social media are discussing the release schedule and previewing Season 3 of Helluva Boss following its arrival on Prime Video.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Helluva%20Boss",
       "image_url": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2025/09/image-20250724133504-1.jpeg",
@@ -493,7 +407,7 @@
       "started_trending": "2026-10-14T10:23:32Z",
       "first_seen": "2026-10-14T10:23:32Z",
       "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
+      "last_seen": "2026-10-14T11:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -501,32 +415,263 @@
       "extra": {}
     },
     {
-      "id": "stolas",
-      "rank": 14,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "id": "dirty-bird",
+      "rank": 12,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-14T09:23:36Z",
-          "r": 15
+          "r": 10
         },
         {
           "t": "2026-10-14T10:23:32Z",
-          "r": 14
+          "r": 7
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 12
         }
       ],
-      "rank_change": 1,
+      "rank_change": -2,
       "is_new": false,
-      "topic": "Stolas",
-      "description": "Fans are sharing emotional reactions and discussing major status quo changes following the season 3 premiere of 'Helluva Boss', particularly involving characters Stolas and Blitz.",
+      "topic": "Dirty Bird",
+      "description": "The material does not provide a clear description of why this topic is trending.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Stolas",
-      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e84f2dbe-4efb-4016-9ef0-bf2e731ea49d/dfpy99t-98d3b556-f0d8-4730-96a4-00266a739234.jpg/v1/fill/w_1280,h_1856,q_75,strp/helluva_boss_stolas_by_sinfuljam_dfpy99t-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg1NiIsInBhdGgiOiJcL2ZcL2U4NGYyZGJlLTRlZmItNDAxNi05ZWYwLWJmMmU3MzFlYTQ5ZFwvZGZweTk5dC05OGQzYjU1Ni1mMGQ4LTQ3MzAtOTZhNC0wMDI2NmE3MzkyMzQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ri5zQFc4M_01RHk7AtFXFdQXW_lT1Ey7E7GphOrULu4",
+      "url": "https://twstalker.com/search/Dirty%20Bird",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/015/183/924/large_2x/pile-of-unwashed-dirty-dishes-in-the-sink-mess-in-the-kitchen-dirty-kitchenware-plates-and-mugs-chaos-at-home-laziness-cluttered-apartment-messy-cutlery-and-dishware-photo.JPG",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-14T09:23:36Z",
       "first_seen": "2026-10-14T09:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pegula",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pegula",
+      "description": "Tennis fans are reacting on social media to Jessica Pegula's upset loss against Jelena Ostapenko at the Wuhan Open after blowing three match points.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Pegula",
+      "image_url": "https://staticg.sportskeeda.com/editor/2023/02/2d181-16763864710025-1920.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T11:23:31Z",
+      "first_seen": "2026-10-14T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hochul",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hochul",
+      "description": "New York voters and observers on social media are discussing the heated gubernatorial debate between Kathy Hochul and Bruce Blakeman.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hochul",
+      "image_url": "https://democraticgovernors.org/wp-content/uploads/2023/11/v10_META_IMAGE.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T11:23:31Z",
+      "first_seen": "2026-10-14T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "visionquest",
+      "rank": 15,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-14T05:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-14T06:23:31Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-14T07:23:35Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-14T08:23:37Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-14T10:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -14,
+      "is_new": false,
+      "topic": "#VisionQuest",
+      "description": "Social media users are discussing Marvel's newest television show, 'VisionQuest', and its role in concluding the 'WandaVision' trilogy.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23VisionQuest",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/16a7dc7fa368c9c98d815b708acf978c3a5615c206989a5dcca20ef8f0ed3956/lightyear_networkapi/resizefill_w958_h625;quality_80;format_webp/https://media.zenfs.com/en/forbes_contributor_845/0959efd9f27218b0f03fa1eeb8f4d2cd.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T01:23:36Z",
+      "first_seen": "2026-10-14T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "asml",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "ASML",
+      "description": "Investors and social media users are discussing ASML after the chip-machine supplier boosted its guidance due to surging artificial intelligence demand.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/ASML",
+      "image_url": "https://logos-world.net/wp-content/uploads/2024/07/ASML-Logo.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T11:23:31Z",
+      "first_seen": "2026-10-14T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bank-of-america",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bank of America",
+      "description": "Social media users are discussing Bank of America after it was fined $1.2 billion for money-laundering and sanctions oversight violations, causing a drop in third-quarter profit.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bank%20of%20America",
+      "image_url": "https://nyc.eu/wp-content/uploads/2016/03/bank_of_america.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T11:23:31Z",
+      "first_seen": "2026-10-14T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "never-give-up",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "NEVER GIVE UP",
+      "description": "Social media users are sharing inspiring personal stories, including a student honored by Atlanta United and reflections on overcoming adversity.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/NEVER%20GIVE%20UP",
+      "image_url": "https://www.thenationalherald.com/wp-content/uploads/2026/03/Diego-Garcia-What-to-Know.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T11:23:31Z",
+      "first_seen": "2026-10-14T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "blakeman",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Blakeman",
+      "description": "Voters and social media users are discussing Bruce Blakeman following his heated gubernatorial debate against incumbent Kathy Hochul in New York.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Blakeman",
+      "image_url": "https://www.longislandpress.com/wp-content/uploads/2025/09/Blakeman-With-Flags.jpg?resize=768",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T11:23:31Z",
+      "first_seen": "2026-10-14T11:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-14T11:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -535,7 +680,7 @@
     },
     {
       "id": "cashcat",
-      "rank": 15,
+      "rank": 20,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -550,12 +695,16 @@
         {
           "t": "2026-10-14T10:23:32Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-14T11:23:31Z",
+          "r": 20
         }
       ],
-      "rank_change": -5,
+      "rank_change": -10,
       "is_new": false,
       "topic": "$CASHCAT",
-      "description": "Cryptocurrency traders are actively monitoring the live price, market cap, and chart data for Cash Cat ($CASHCAT).",
+      "description": "Cryptocurrency traders and social media users are tracking live market prices and charts for Cash Cat.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24CASHCAT",
       "image_url": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/July2026/cash-cat-news-cashcat-coin-hit-new-all-time-high-solana-launch-5671.webp",
@@ -563,171 +712,10 @@
       "started_trending": "2026-10-14T08:23:37Z",
       "first_seen": "2026-10-14T08:23:37Z",
       "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "surplus",
-      "rank": 16,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "$SURPLUS",
-      "description": "Economic discussions are surging online as China's soaring exports put its massive trade surplus on track toward a potential new record.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24SURPLUS",
-      "image_url": "http://images.china.cn/site1007/2020-02/16/87a30048-c81e-4bcc-a882-c1fd455414b4.jpeg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T08:23:37Z",
-      "first_seen": "2026-10-14T08:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "zzz",
-      "rank": 17,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "$ZZZ",
-      "description": "Gamers and aquarium visitors are sharing content regarding ZZZ's Operation Bagel guide and the return of the Virginia Aquarium's overnight experience.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24ZZZ",
-      "image_url": "https://static.vecteezy.com/system/resources/previews/028/078/342/non_2x/z-sleep-word-free-png.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T09:23:36Z",
-      "first_seen": "2026-10-14T09:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "standard",
-      "rank": 18,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "$STANDARD",
-      "description": "Financial and sports news is trending as Standard Chartered introduces crypto trading for clients, while sports fans react to the New Orleans Saints' disappointing start.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24STANDARD",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-14T09:23:36Z",
-      "first_seen": "2026-10-14T09:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tksu",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "$TKSU",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%24TKSU",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-14T10:23:32Z",
-      "first_seen": "2026-10-14T10:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lucille-ball",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Lucille Ball",
-      "description": "Lucille Ball is trending as new action figures are revealed at NYCC, alongside discussions of her legendary homes and the upcoming 75th anniversary of 'I Love Lucy'.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Lucille%20Ball",
-      "image_url": "https://m.media-amazon.com/images/M/MV5BOTk2NTY3ZWMtYTRkNC00ODFlLTllMjEtOWFhMzJjYzRkYTJlXkEyXkFqcGc@._V1_.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T10:23:32Z",
-      "first_seen": "2026-10-14T10:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-14T10:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-14T11:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     }
