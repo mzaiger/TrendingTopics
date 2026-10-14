@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-14T13:25:37Z",
+  "updated": "2026-10-14T14:25:50Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,8 +10,8 @@
     {
       "id": "starshield",
       "rank": 1,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-14T09:23:36Z",
@@ -32,9 +32,13 @@
         {
           "t": "2026-10-14T13:23:43Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 1
         }
       ],
-      "rank_change": 8,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Starshield",
       "description": "Ukraine's military is reportedly facing service and operational disruptions due to new restrictions on access to SpaceX's Starshield.",
@@ -45,7 +49,7 @@
       "started_trending": "2026-10-14T09:23:36Z",
       "first_seen": "2026-10-14T09:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
+      "last_seen": "2026-10-14T14:23:34Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -55,8 +59,8 @@
     {
       "id": "good-wednesday",
       "rank": 2,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-14T09:23:36Z",
@@ -77,9 +81,13 @@
         {
           "t": "2026-10-14T13:23:43Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 2
         }
       ],
-      "rank_change": 3,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Good Wednesday",
       "description": "Users on social media are discussing Wednesday weather forecasts, varying from foggy starts and storms to warm temperatures.",
@@ -90,7 +98,7 @@
       "started_trending": "2026-10-14T09:23:36Z",
       "first_seen": "2026-10-14T09:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
+      "last_seen": "2026-10-14T14:23:34Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -98,47 +106,22 @@
       "extra": {}
     },
     {
-      "id": "core-cpi",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Core CPI",
-      "description": "Core CPI figures came in firmer than expected for September, driven by rising gasoline costs and pushing inflation to an annual rate of 3.7%.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Core%20CPI",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-14T13:23:43Z",
-      "first_seen": "2026-10-14T13:23:43Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "september-cpi",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-10-14T13:23:43Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "September CPI",
       "description": "September CPI data showed inflation accelerated to a 3.7% annual rate due to soaring gas and energy costs.",
       "description_source": "gemini",
@@ -148,7 +131,73 @@
       "started_trending": "2026-10-14T13:23:43Z",
       "first_seen": "2026-10-14T13:23:43Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hot-cpi",
+      "rank": 4,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-14T13:23:43Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Hot CPI",
+      "description": "A hot September CPI inflation report sent bond yields higher, pushed stock futures down, and caused bitcoin to drop sharply.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hot%20CPI",
+      "image_url": "https://static.vecteezy.com/system/resources/thumbnails/016/637/957/small_2x/hot-fire-promotion-label-tag-and-sign-banner-png.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T13:23:43Z",
+      "first_seen": "2026-10-14T13:23:43Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "core-cpi",
+      "rank": 5,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-14T13:23:43Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Core CPI",
+      "description": "Core CPI figures came in firmer than expected for September, driven by rising gasoline costs and pushing inflation to an annual rate of 3.7%.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Core%20CPI",
+      "image_url": "https://www.metatrader.com/c/og/economic-calendar/canada/core-cpi-mm.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T13:23:43Z",
+      "first_seen": "2026-10-14T13:23:43Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -157,7 +206,7 @@
     },
     {
       "id": "hump-day",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -172,9 +221,13 @@
         {
           "t": "2026-10-14T13:23:43Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": -3,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Hump Day",
       "description": "Social media users are reacting to hump day with discussions on record-breaking warm temperatures and impending fall cooldowns.",
@@ -185,16 +238,78 @@
       "started_trending": "2026-10-14T11:23:31Z",
       "first_seen": "2026-10-14T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "don-mattingly",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Don Mattingly",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Don%20Mattingly",
+      "image_url": "https://cdn.abcotvs.com/dip/images/19937859_AP26273730073453.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T14:23:34Z",
+      "first_seen": "2026-10-14T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wegmans",
+      "rank": 8,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-14T13:23:43Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Wegmans",
+      "description": "Shoppers are lining up and camping out as Wegmans officially opens its very first store in Charlotte, North Carolina.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Wegmans",
+      "image_url": "https://www.tasteofhome.com/wp-content/uploads/2018/06/Wegmans-Store-Front-2.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T13:23:43Z",
+      "first_seen": "2026-10-14T13:23:43Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "happy-hump",
-      "rank": 6,
+      "rank": 9,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -209,9 +324,13 @@
         {
           "t": "2026-10-14T13:23:43Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": -1,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Happy Hump",
       "description": "Social media users are sharing Wednesday guides, local weather updates, and humorous posts.",
@@ -222,65 +341,40 @@
       "started_trending": "2026-10-14T11:23:31Z",
       "first_seen": "2026-10-14T11:23:31Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "3-7-yoy",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 10,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-14T13:23:43Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 10
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "3.7% YoY",
       "description": "The U.S. September Consumer Price Index rose 3.7% year-over-year, alongside a 0.6% monthly gain, fueling rate hike bets.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/3.7%25%20YoY",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-14T13:23:43Z",
-      "first_seen": "2026-10-14T13:23:43Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hot-cpi",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Hot CPI",
-      "description": "A hot September CPI inflation report sent bond yields higher, pushed stock futures down, and caused bitcoin to drop sharply.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hot%20CPI",
-      "image_url": "https://static.vecteezy.com/system/resources/thumbnails/016/637/957/small_2x/hot-fire-promotion-label-tag-and-sign-banner-png.png",
+      "image_url": "https://equitymultiple.com/wp-content/uploads/2023/09/yoy-equation.png",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-14T13:23:43Z",
       "first_seen": "2026-10-14T13:23:43Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
+      "last_seen": "2026-10-14T14:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -288,28 +382,86 @@
       "extra": {}
     },
     {
-      "id": "headline-cpi",
-      "rank": 9,
+      "id": "3-7-in-september",
+      "rank": 11,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 9
+          "t": "2026-10-14T14:23:34Z",
+          "r": 11
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Headline CPI",
-      "description": "Headline CPI data showing a 3.7% annual inflation rate in September has sparked discussions on potential Federal Reserve rate hikes.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Headline%20CPI",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-14T13:23:43Z",
-      "first_seen": "2026-10-14T13:23:43Z",
+      "topic": "3.7% in September",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/3.7%25%20in%20September",
+      "image_url": "https://rattibha.com/storage/meta_images/1717894838538908086_1.png?updated=may22",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T14:23:34Z",
+      "first_seen": "2026-10-14T14:23:34Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "musk",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Musk",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Musk",
+      "image_url": "https://www.reuters.com/resizer/v2/4DPAK7WIYJKVFP73HMNUKVBZKY.jpg?auth=54b7d4f70ba39ad42ea8d8c4d3be4e5bc2818c822671164ffb2ad5cfa852ea39&width=640&quality=80",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T14:23:34Z",
+      "first_seen": "2026-10-14T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ann-li",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ann Li",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Ann%20Li",
+      "image_url": "https://photoresources.wtatennis.com/wta/photo/2025/10/26/ccfaa517-1859-4a06-b365-a00e1cc321e5/Li-trophy-GO.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T14:23:34Z",
+      "first_seen": "2026-10-14T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -318,9 +470,9 @@
     },
     {
       "id": "stolas",
-      "rank": 10,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "rank": 14,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-10-14T09:23:36Z",
@@ -341,9 +493,13 @@
         {
           "t": "2026-10-14T13:23:43Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": 5,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Stolas",
       "description": "Fans are reacting emotionally on social media to the Helluva Boss Season 3 premiere, particularly praising the character Stolas.",
@@ -354,7 +510,7 @@
       "started_trending": "2026-10-14T09:23:36Z",
       "first_seen": "2026-10-14T09:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
+      "last_seen": "2026-10-14T14:23:34Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -362,28 +518,148 @@
       "extra": {}
     },
     {
-      "id": "wegmans",
-      "rank": 11,
+      "id": "martha-plimpton",
+      "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 11
+          "t": "2026-10-14T14:23:34Z",
+          "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Wegmans",
-      "description": "Shoppers are lining up and camping out as Wegmans officially opens its very first store in Charlotte, North Carolina.",
+      "topic": "Martha Plimpton",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Martha%20Plimpton",
+      "image_url": "https://lezwatchtv.com/wp-content/uploads/2023/07/martha-plimpton.jpeg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T14:23:34Z",
+      "first_seen": "2026-10-14T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nationaldessertday",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#NationalDessertDay",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23NationalDessertDay",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-14T14:23:34Z",
+      "first_seen": "2026-10-14T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "3-4-in-august",
+      "rank": 17,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-14T13:23:43Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "3.4% in August",
+      "description": "Social media is discussing the latest September CPI report showing a 3.7% annual rate, following a period of elevated inflation.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Wegmans",
-      "image_url": "https://www.tasteofhome.com/wp-content/uploads/2018/06/Wegmans-Store-Front-2.jpg",
+      "url": "https://twstalker.com/search/3.4%25%20in%20August",
+      "image_url": "https://myglobalnews.net/wp-content/uploads/sites/2/2025/09/August_Snapshot__China_s_Economy_Holds_Steady_with_3_4__Retail_Growth.png",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-14T13:23:43Z",
       "first_seen": "2026-10-14T13:23:43Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jae-millz",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jae Millz",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Jae%20Millz",
+      "image_url": "https://townsquare.media/site/812/files/2015/09/jae-millz-bday.jpg?w=1200&q=75&format=natural",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T14:23:34Z",
+      "first_seen": "2026-10-14T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-birthday-charlie",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy Birthday Charlie",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Happy%20Birthday%20Charlie",
+      "image_url": "https://www.funimada.com/assets/images/cards/big/charlie-23.gif",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T14:23:34Z",
+      "first_seen": "2026-10-14T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-14T14:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -392,7 +668,7 @@
     },
     {
       "id": "la-granja-vip",
-      "rank": 12,
+      "rank": 20,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -403,9 +679,13 @@
         {
           "t": "2026-10-14T13:23:43Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-14T14:23:34Z",
+          "r": 20
         }
       ],
-      "rank_change": -5,
+      "rank_change": -13,
       "is_new": false,
       "topic": "La Granja VIP",
       "description": "",
@@ -416,291 +696,7 @@
       "started_trending": "2026-10-14T12:23:36Z",
       "first_seen": "2026-10-14T12:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "3-4-in-august",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "3.4% in August",
-      "description": "Social media is discussing the latest September CPI report showing a 3.7% annual rate, following a period of elevated inflation.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/3.4%25%20in%20August",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-14T13:23:43Z",
-      "first_seen": "2026-10-14T13:23:43Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "danny-trejo",
-      "rank": 14,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-14T11:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-14T12:23:36Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Danny Trejo",
-      "description": "Danny Trejo is defending his role in a Daily Wire movie after being accused of taking part in a pro-ICE project.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Danny%20Trejo",
-      "image_url": "https://www.justjared.com/wp-content/uploads/2026/10/danny-trejo-1.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T10:23:32Z",
-      "first_seen": "2026-10-14T10:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hochul",
-      "rank": 15,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-14T11:23:31Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-14T12:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Hochul",
-      "description": "Kathy Hochul and Bruce Blakeman clashed over topics like Trump, sanctuary status, and high prices during a heated New York governor debate.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hochul",
-      "image_url": "https://democraticgovernors.org/wp-content/uploads/2023/11/v10_META_IMAGE.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T11:23:31Z",
-      "first_seen": "2026-10-14T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "0-6-mom",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "0.6% MoM",
-      "description": "The U.S. Consumer Price Index rose 0.6% month-over-month in September, contributing to a 3.7% annual inflation rate.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/0.6%25%20MoM",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-14T13:23:43Z",
-      "first_seen": "2026-10-14T13:23:43Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "us-cpi",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "US CPI",
-      "description": "U.S. consumer prices accelerated in September with a 3.7% annual rate, driven by higher gasoline costs and sparking rate hike speculations.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/US%20CPI",
-      "image_url": "https://www.worldmap1.com/map/united-states/country/US+Geography+Map+with+Mountains+and+Valleys.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T13:23:43Z",
-      "first_seen": "2026-10-14T13:23:43Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bank-of-america",
-      "rank": 18,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-14T11:23:31Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-14T12:23:36Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Bank of America",
-      "description": "Bank of America's third-quarter profit tumbled 17% after the bank was hit with a $1.2 billion penalty over money laundering failures.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bank%20of%20America",
-      "image_url": "https://nyc.eu/wp-content/uploads/2016/03/bank_of_america.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T11:23:31Z",
-      "first_seen": "2026-10-14T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "busted",
-      "rank": 19,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-14T09:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-14T10:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-14T11:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-14T12:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "$BUSTED",
-      "description": "Federal officials and the FBI busted illicit North Korean laptop farms operating out of North Texas.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24BUSTED",
-      "image_url": "https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T08:23:37Z",
-      "first_seen": "2026-10-14T08:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bully-2",
-      "rank": 20,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-10-14T12:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-14T13:23:43Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Bully 2",
-      "description": "Rockstar co-founder Dan Houser is making headlines by discussing the development history of the classic video game Bully.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bully%202",
-      "image_url": "http://assets1.ignimgs.com/2016/12/08/bully-anniversary-edition---button-1481236555145.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T12:23:36Z",
-      "first_seen": "2026-10-14T12:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T13:23:43Z",
+      "last_seen": "2026-10-14T14:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
