@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-14T08:25:17Z",
+  "updated": "2026-10-14T09:25:10Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -14,10 +14,6 @@
       "rank_4h_ago": 2,
       "rank_history": [
         {
-          "t": "2026-10-14T03:23:31Z",
-          "r": 2
-        },
-        {
           "t": "2026-10-14T04:23:33Z",
           "r": 2
         },
@@ -36,12 +32,16 @@
         {
           "t": "2026-10-14T08:23:37Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "#VisionQuest",
-      "description": "Marvel's newest TV show, 'VisionQuest', is trending on social media as episodes drop early and viewers review the return of Vision to the MCU.",
+      "description": "Marvel's newest TV series, 'VisionQuest', is trending following its early drop and series premiere, receiving mixed reviews for its AI-themed storyline.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23VisionQuest",
       "image_url": "https://s.yimg.com/lo/mysterio/api/16a7dc7fa368c9c98d815b708acf978c3a5615c206989a5dcca20ef8f0ed3956/lightyear_networkapi/resizefill_w958_h625;quality_80;format_webp/https://media.zenfs.com/en/forbes_contributor_845/0959efd9f27218b0f03fa1eeb8f4d2cd.jpg",
@@ -49,26 +49,67 @@
       "started_trending": "2026-10-14T01:23:36Z",
       "first_seen": "2026-10-14T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "0xgems",
+      "rank": 2,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-14T07:23:35Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-14T08:23:37Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "0xGems",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/0xGems",
+      "image_url": "https://www.grimballjewelers.com/wp-content/uploads/2023/07/14b5622fc6ca0cb8/understanding-crypto-gems.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T07:23:35Z",
+      "first_seen": "2026-10-14T07:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dexsi",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-14T08:23:37Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "$DEXSI",
       "description": "",
       "description_source": "",
@@ -78,59 +119,10 @@
       "started_trending": "2026-10-14T08:23:37Z",
       "first_seen": "2026-10-14T08:23:37Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
+      "last_seen": "2026-10-14T09:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dwts",
-      "rank": 3,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-14T03:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-14T04:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-14T05:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-14T06:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 3
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#dwts",
-      "description": "'Dancing With the Stars' is trending after hosting a Super Bowl night halftime show that resulted in a shocking elimination and the departure of a fan-favorite couple.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23dwts",
-      "image_url": "https://images2.minutemediacdn.com/image/upload/f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si_lifestyle/01kamb5nb6fwk613snr9.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T00:23:36Z",
-      "first_seen": "2026-10-14T00:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -147,12 +139,16 @@
         {
           "t": "2026-10-14T08:23:37Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 4
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "$VEIL",
-      "description": "The material does not make clear why $VEIL is trending on social media.",
+      "description": "$VEIL is trending as it appears in recent on-chain spot market trading updates alongside news topics like bridal accessories, wine, and classroom reports.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24VEIL",
       "image_url": "https://cdn.publish0x.com/prod/fs/images/a51ab884a126a78e6cf3ba4f760a74585a90464d083f8d94d4797c008e70fa98.png",
@@ -160,61 +156,61 @@
       "started_trending": "2026-10-14T07:23:35Z",
       "first_seen": "2026-10-14T07:23:35Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "0xgems",
+      "id": "good-wednesday",
       "rank": 5,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
+          "t": "2026-10-14T09:23:36Z",
           "r": 5
         }
       ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "0xGems",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/0xGems",
-      "image_url": "https://www.grimballjewelers.com/wp-content/uploads/2023/07/14b5622fc6ca0cb8/understanding-crypto-gems.png",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Good Wednesday",
+      "description": "Good Wednesday is trending on social media as weather forecasts report much warmer temperatures, near-record highs, and patchy morning fog across various regions.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Good%20Wednesday",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/.VxIkHqT0x2TfFndcL3esA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MA--/https://s.yimg.com/os/creatr-uploaded-images/2022-09/19c27fc0-3b46-11ed-ab7b-65e5e730375c",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T07:23:35Z",
-      "first_seen": "2026-10-14T07:23:35Z",
+      "started_trending": "2026-10-14T09:23:36Z",
+      "first_seen": "2026-10-14T09:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "inu",
       "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-10-14T08:23:37Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "$INU",
-      "description": "Shiba Inu is trending on social media amid falling daily price levels, critical warnings for holders, and resumed token burns.",
+      "description": "$INU is trending as Shiba Inu token prices hit their lowest daily level since September 18, accompanied by a resumed token burn and critical warnings.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24INU",
       "image_url": "https://www.scotsman.com/webimg/b25lY21zOjc0NWE2ZWUzLTQzZjAtNGFmNC04Y2ZlLWIyNzUwOGQ0M2EwODo2NmE2ZTQ2Zi1iMWNlLTRkZTQtYTRkYS1lYWQzMTk1MTk4OTc=.jpg?crop=3:2,smart&trim=&width=1200&auto=webp&quality=75",
@@ -222,7 +218,7 @@
       "started_trending": "2026-10-14T08:23:37Z",
       "first_seen": "2026-10-14T08:23:37Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
+      "last_seen": "2026-10-14T09:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -232,18 +228,22 @@
     {
       "id": "busted",
       "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-14T08:23:37Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "$BUSTED",
-      "description": "$BUSTED is trending on social media following various headlines, including union-busting defeats, North Korean laptop farm busts, and OpenAI employees collecting technology.",
+      "description": "$BUSTED is trending across social media as users discuss various news stories involving union-busting defeats, busted laptop farms, and political controversies.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24BUSTED",
       "image_url": "https://logos-world.net/wp-content/uploads/2024/08/OpenAI-Logo.jpg",
@@ -251,7 +251,147 @@
       "started_trending": "2026-10-14T08:23:37Z",
       "first_seen": "2026-10-14T08:23:37Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dwts",
+      "rank": 8,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-14T04:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-14T05:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-14T06:23:31Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-14T07:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-14T08:23:37Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "#dwts",
+      "description": "'Dancing with the Stars' is trending following a high-scoring Super Bowl-themed night that featured a halftime show and the elimination of a fan-favorite couple.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23dwts",
+      "image_url": "https://images2.minutemediacdn.com/image/upload/f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si_lifestyle/01kamb5nb6fwk613snr9.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T00:23:36Z",
+      "first_seen": "2026-10-14T00:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "starshield",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Starshield",
+      "description": "Starshield is trending following presidential adviser announcements of restrictions on the military service in Ukraine, disrupting drone operations and Starlink access.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Starshield",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-14T09:23:36Z",
+      "first_seen": "2026-10-14T09:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dirty-bird",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dirty Bird",
+      "description": "Dirty Bird is trending alongside seasonal fall recipes, autumn dishes, and advice on vehicle maintenance amid falling leaves.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dirty%20Bird",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/015/183/924/large_2x/pile-of-unwashed-dirty-dishes-in-the-sink-mess-in-the-kitchen-dirty-kitchenware-plates-and-mugs-chaos-at-home-laziness-cluttered-apartment-messy-cutlery-and-dishware-photo.JPG",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T09:23:36Z",
+      "first_seen": "2026-10-14T09:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stonkbroker",
+      "rank": 11,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-14T08:23:37Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "$STONKBROKER",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%24STONKBROKER",
+      "image_url": "https://preview.redd.it/gba1a4i9os831.png?auto=webp&s=bdaae4d5f7df49074dea0c0929b252ccd3949330",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T08:23:37Z",
+      "first_seen": "2026-10-14T08:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-14T09:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -260,7 +400,7 @@
     },
     {
       "id": "fraser-minten",
-      "rank": 8,
+      "rank": 12,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -275,70 +415,49 @@
         {
           "t": "2026-10-14T08:23:37Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 12
         }
       ],
-      "rank_change": -5,
+      "rank_change": -9,
       "is_new": false,
-      "topic": "Fraser Minten",
-      "description": "Fraser Minten is trending on social media as he continues his breakout streak and scores goals to help lead the Boston Bruins to victory.",
+      "topic": "FRASER MINTEN",
+      "description": "Fraser Minten is trending after scoring goals and making an instant impact during the Boston Bruins' winning road trip.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fraser%20Minten",
+      "url": "https://twstalker.com/search/FRASER%20MINTEN",
       "image_url": "https://static01.nyt.com/athletic/uploads/wp/2025/04/05223601/GettyImages-2208736293-scaled-e1743906978494-1024x683.jpg?width=1920&quality=70&auto=webp",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-14T06:23:31Z",
       "first_seen": "2026-10-14T06:23:31Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "stonkbroker",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "$STONKBROKER",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%24STONKBROKER",
-      "image_url": "https://preview.redd.it/gba1a4i9os831.png?auto=webp&s=bdaae4d5f7df49074dea0c0929b252ccd3949330",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T08:23:37Z",
-      "first_seen": "2026-10-14T08:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "cashcat",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 13,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-14T08:23:37Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "$CASHCAT",
-      "description": "The material does not make clear why $CASHCAT is trending on social media.",
+      "description": "$CASHCAT is trending on social media following live price, market cap, and chart updates for the token.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24CASHCAT",
       "image_url": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/July2026/cash-cat-news-cashcat-coin-hit-new-all-time-high-solana-launch-5671.webp",
@@ -346,7 +465,7 @@
       "started_trending": "2026-10-14T08:23:37Z",
       "first_seen": "2026-10-14T08:23:37Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
+      "last_seen": "2026-10-14T09:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -354,59 +473,130 @@
       "extra": {}
     },
     {
-      "id": "guillermo",
-      "rank": 11,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "surplus",
+      "rank": 14,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
-          "t": "2026-10-14T03:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-14T04:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-14T05:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-14T06:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 5
-        },
-        {
           "t": "2026-10-14T08:23:37Z",
-          "r": 11
+          "r": 19
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 14
         }
       ],
-      "rank_change": -8,
+      "rank_change": 5,
       "is_new": false,
-      "topic": "Guillermo",
-      "description": "Guillermo Rodriguez is trending on social media following a shocking and bittersweet elimination on 'Dancing With the Stars' during Super Bowl week.",
+      "topic": "$SURPLUS",
+      "description": "$SURPLUS is trending as surging exports push China's trade surplus toward a potential historic record, approaching the $1 trillion mark.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Guillermo",
-      "image_url": "https://cdn-images.the-express.com/img/dynamic/21/1200x712/secondary/beverly-hills-california-jimmy-kimmel-and-guillermo-rodriguez-attend-the-86th-annual-peabody-619817.jpg?r=1791853932056",
+      "url": "https://twstalker.com/search/%24SURPLUS",
+      "image_url": "http://images.china.cn/site1007/2020-02/16/87a30048-c81e-4bcc-a882-c1fd455414b4.jpeg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T02:23:36Z",
-      "first_seen": "2026-10-14T02:23:36Z",
+      "started_trending": "2026-10-14T08:23:37Z",
+      "first_seen": "2026-10-14T08:23:37Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stolas",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Stolas",
+      "description": "Stolas is trending as fans discuss the return of the animated series 'Helluva Boss' for Season 3 on Prime Video, highlighting major plot and status quo changes.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Stolas",
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e84f2dbe-4efb-4016-9ef0-bf2e731ea49d/dfpy99t-98d3b556-f0d8-4730-96a4-00266a739234.jpg/v1/fill/w_1280,h_1856,q_75,strp/helluva_boss_stolas_by_sinfuljam_dfpy99t-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg1NiIsInBhdGgiOiJcL2ZcL2U4NGYyZGJlLTRlZmItNDAxNi05ZWYwLWJmMmU3MzFlYTQ5ZFwvZGZweTk5dC05OGQzYjU1Ni1mMGQ4LTQ3MzAtOTZhNC0wMDI2NmE3MzkyMzQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ri5zQFc4M_01RHk7AtFXFdQXW_lT1Ey7E7GphOrULu4",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T09:23:36Z",
+      "first_seen": "2026-10-14T09:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "helluvaboss",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#HelluvaBoss",
+      "description": "#HelluvaBoss is trending as viewers share reviews and release schedules for the newly premiered Season 3 episodes now streaming on Prime Video.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23HelluvaBoss",
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/98f6b2e8-3fbb-4eb2-ad97-39dd9f38efea/dg096fl-c9e288a9-9d53-4591-b67a-bf091cc21e6d.png/v1/fill/w_1032,h_774,q_70,strp/helluva_boss_fanart_by_comfymouse_dg096fl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODEwIiwicGF0aCI6IlwvZlwvOThmNmIyZTgtM2ZiYi00ZWIyLWFkOTctMzlkZDlmMzhlZmVhXC9kZzA5NmZsLWM5ZTI4OGE5LTlkNTMtNDU5MS1iNjdhLWJmMDkxY2MyMWU2ZC5wbmciLCJ3aWR0aCI6Ijw9MTA4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7Xa69nJXnMSjHW-j8QwNDLyzYxmKUqde2aIefqEwyOs",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T09:23:36Z",
+      "first_seen": "2026-10-14T09:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "zzz",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "$ZZZ",
+      "description": "$ZZZ is trending due to content covering gaming guides for Operation Bagel and the return of the Virginia Aquarium's underwater experience.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%24ZZZ",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/028/078/342/non_2x/z-sleep-word-free-png.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-14T09:23:36Z",
+      "first_seen": "2026-10-14T09:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lagranjaduelo",
-      "rank": 12,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "rank": 18,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-14T04:23:33Z",
@@ -427,9 +617,13 @@
         {
           "t": "2026-10-14T08:23:37Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 18
         }
       ],
-      "rank_change": -1,
+      "rank_change": -11,
       "is_new": false,
       "topic": "#LaGranjaDuelo",
       "description": "",
@@ -440,16 +634,16 @@
       "started_trending": "2026-10-14T04:23:33Z",
       "first_seen": "2026-10-14T04:23:33Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "askarov",
-      "rank": 13,
+      "rank": 19,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -468,12 +662,16 @@
         {
           "t": "2026-10-14T08:23:37Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-14T09:23:36Z",
+          "r": 19
         }
       ],
-      "rank_change": -1,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Askarov",
-      "description": "Yaroslav Askarov is trending on social media following a rough showing and goals scored against him during a San Jose Sharks matchup against the Bruins.",
+      "description": "Yaroslav Askarov is trending following recent NHL games, including a rough showing and goals scored against him during a matchup with the Boston Bruins.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Askarov",
       "image_url": "https://www.mercurynews.com/wp-content/uploads/2025/11/BNG-L-SHARKS-1124-7.jpg?w=1456",
@@ -481,281 +679,39 @@
       "started_trending": "2026-10-14T05:23:33Z",
       "first_seen": "2026-10-14T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-14T09:23:36Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "thedropfx",
-      "rank": 14,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "#TheDropFX",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23TheDropFX",
-      "image_url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/06/EVOLVE-IMAGESD-63.png?resize=1024",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T07:23:35Z",
-      "first_seen": "2026-10-14T07:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "trouba",
-      "rank": 15,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-14T05:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-14T06:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "TROUBA",
-      "description": "Jacob Trouba is trending on social media after scoring his first goal as a member of the San Jose Sharks to tie the game against the Boston Bruins.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/TROUBA",
-      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2026/07/Jacob-Trouba.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T05:23:33Z",
-      "first_seen": "2026-10-14T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "alaska",
-      "rank": 16,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-14T03:23:31Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-14T04:23:33Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-14T05:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-14T06:23:31Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Alaska",
-      "description": "Alaska is trending on social media as Donald Trump campaigns in the state, addresses energy prices and a liquefied natural gas project, and holds a rally.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alaska",
-      "image_url": "https://www.civitatis.com/blog/wp-content/uploads/2021/06/reserva-denali-alaska-1536x1022.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T02:23:36Z",
-      "first_seen": "2026-10-14T02:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ultron",
-      "rank": 17,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-14T06:23:31Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Ultron",
-      "description": "Ultron is trending on social media as viewers discuss James Spader's return to the role and how the character is alive in the MCU's 'VisionQuest'.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ultron",
-      "image_url": "https://i.pinimg.com/originals/71/c9/94/71c994ebde0f3e1b84be21a248c41412.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T06:23:31Z",
-      "first_seen": "2026-10-14T06:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mackinnon",
-      "rank": 18,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-14T03:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-14T04:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-14T05:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-14T06:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "MacKinnon",
-      "description": "Nathan MacKinnon is trending on social media following a heated rivalry game against the Dallas Stars that featured a bloody fight with Roope Hintz.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/MacKinnon",
-      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2025/11/Nathan-MacKinnon-passes-Peter-Stastny-in-Avalanche-history-amid-5-point-night.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T02:23:36Z",
-      "first_seen": "2026-10-14T02:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "surplus",
-      "rank": 19,
+      "id": "standard",
+      "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 19
+          "t": "2026-10-14T09:23:36Z",
+          "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "$SURPLUS",
-      "description": "$SURPLUS is trending on social media as China's soaring exports put a near-$1 trillion trade surplus on track for a record.",
+      "topic": "$STANDARD",
+      "description": "$STANDARD is trending as social media discusses a range of topics, including Standard Chartered launching crypto trading, legal liability updates, and sports news.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24SURPLUS",
-      "image_url": "http://images.china.cn/site1007/2020-02/16/87a30048-c81e-4bcc-a882-c1fd455414b4.jpeg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T08:23:37Z",
-      "first_seen": "2026-10-14T08:23:37Z",
+      "url": "https://twstalker.com/search/%24STANDARD",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-14T09:23:36Z",
+      "first_seen": "2026-10-14T09:23:36Z",
       "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
+      "last_seen": "2026-10-14T09:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "marist",
-      "rank": 20,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-14T07:23:35Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-14T08:23:37Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Marist",
-      "description": "Marist Catholic High School is trending on social media after removing its head varsity football coach following a 63-0 blowout win.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Marist",
-      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ebmj8.img?w=768&h=432&m=6&x=430&y=113&s=154&d=154",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-14T07:23:35Z",
-      "first_seen": "2026-10-14T07:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-14T08:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
