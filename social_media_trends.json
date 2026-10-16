@@ -1,75 +1,18 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-16T07:24:48Z",
+  "updated": "2026-10-16T08:25:12Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "dodgers",
-      "rank": 1,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-16T01:23:34Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-16T02:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-16T03:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-16T04:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-16T05:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 1
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Dodgers",
-      "description": "The Los Angeles Dodgers are trending after being swept by the Milwaukee Brewers in the National League Championship Series, sparking questions about the team's core and Miguel Rojas's retirement.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dodgers",
-      "image_url": "https://media.sportsplatform.io/bleacher-report/pt/images/2026-10/20261008011420320-getty-atlanta-ga-andy-pages-of-the-los-angeles-dodgers-celebrates-after-hitting-a-two-run-double-in.png?w=1920",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T01:23:34Z",
-      "first_seen": "2026-10-16T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "bo-nix",
-      "rank": 2,
+      "rank": 1,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-10-16T01:23:34Z",
-          "r": 8
-        },
         {
           "t": "2026-10-16T02:23:34Z",
           "r": 11
@@ -93,12 +36,16 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 1
         }
       ],
-      "rank_change": 2,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Bo Nix",
-      "description": "Denver Broncos quarterback Bo Nix is drawing heavy criticism from analysts like Ryan Fitzpatrick following an ugly performance despite the team's 4-2 start.",
+      "description": "Ryan Fitzpatrick heavily criticized Broncos quarterback Bo Nix following an ugly performance in a win over the Seahawks, calling his play garbage and disrespectful to the position.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bo%20Nix",
       "image_url": "https://collegefootballnetwork.com/wp-content/uploads/2026/01/bo-nix-injury-update-01-18-26-2048x1328.jpg",
@@ -106,10 +53,63 @@
       "started_trending": "2026-10-16T01:23:34Z",
       "first_seen": "2026-10-16T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dodgers",
+      "rank": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-16T02:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-16T03:23:31Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-16T04:23:34Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-16T05:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-16T06:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-16T07:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Dodgers",
+      "description": "The Los Angeles Dodgers' three-peat championship dreams ended after being swept by the relentless Milwaukee Brewers in the National League Championship Series.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dodgers",
+      "image_url": "https://media.sportsplatform.io/bleacher-report/pt/images/2026-10/20261008011420320-getty-atlanta-ga-andy-pages-of-the-los-angeles-dodgers-celebrates-after-hitting-a-two-run-double-in.png?w=1920",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T01:23:34Z",
+      "first_seen": "2026-10-16T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -119,10 +119,6 @@
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-10-16T01:23:34Z",
-          "r": 7
-        },
         {
           "t": "2026-10-16T02:23:34Z",
           "r": 4
@@ -146,12 +142,16 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 3
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Sam Darnold",
-      "description": "Seattle Seahawks quarterback Sam Darnold is facing heavy criticism and calls for a potential benching after throwing two interceptions in an overtime loss to the Broncos.",
+      "description": "Seahawks quarterback Sam Darnold faced intense scrutiny and calls for a possible benching after throwing two costly interceptions in an overtime loss to the Broncos.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Sam%20Darnold",
       "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2026/01/26101220/sam-darnold-makes-usc-history-01-26-26-scaled.jpg",
@@ -159,10 +159,10 @@
       "started_trending": "2026-10-16T01:23:34Z",
       "first_seen": "2026-10-16T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -195,12 +195,16 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 4
         }
       ],
       "rank_change": -2,
       "is_new": false,
       "topic": "Brewers",
-      "description": "The Milwaukee Brewers are trending after sweeping the Los Angeles Dodgers in the National League Championship Series to advance to their first World Series in 44 years.",
+      "description": "The Milwaukee Brewers swept the Los Angeles Dodgers to advance to their first World Series in 44 years, ending an agonizing drought.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Brewers",
       "image_url": "https://fanatics.frgimages.com/mens-black-milwaukee-brewers-vs-los-angeles-dodgers-2026-national-league-championship-series-matchup-t-shirt_ss5_p-205167430+u-bucglzkndahbrebwxqiz+v-3fib622mtkxxpxkwwn7n.png?_hv=2",
@@ -208,16 +212,53 @@
       "started_trending": "2026-10-16T02:23:34Z",
       "first_seen": "2026-10-16T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tesla",
+      "rank": 5,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-16T06:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-16T07:23:32Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Tesla",
+      "description": "Elon Musk unveiled a new Tesla Roadster that can supposedly fly and drive upside down, sparking widespread internet memes and discussion.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tesla",
+      "image_url": "https://static.independent.co.uk/2026/10/15/18/44/Roadster_07.jpeg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T06:23:32Z",
+      "first_seen": "2026-10-16T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "broncos",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -244,12 +285,16 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Broncos",
-      "description": "The Denver Broncos defeated the Seattle Seahawks 17-14 in a Thursday Night Football overtime thriller, powered by their run game and defense to reach a 4-2 record.",
+      "description": "The Denver Broncos improved to a 4-2 record after a thrilling 17-14 overtime victory against the Seattle Seahawks, powered by their strong defense and run game.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Broncos",
       "image_url": "https://milehighsports.com/wp-content/uploads/2026/10/2026-09-20T232133Z_630990763_MT1USATODAY29877138_RTRMADP_3_NFL-JACKSONVILLE-JAGUARS-AT-DENVER-BRONCOS-1024x685.jpg",
@@ -257,16 +302,16 @@
       "started_trending": "2026-10-16T02:23:34Z",
       "first_seen": "2026-10-16T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "world-series",
-      "rank": 6,
+      "rank": 7,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -281,12 +326,16 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 7
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "World Series",
-      "description": "The World Series is trending as the Milwaukee Brewers advance to the championship for the first time since 1982 after sweeping the Los Angeles Dodgers.",
+      "description": "The Milwaukee Brewers advanced to the World Series for the first time since 1982 after sweeping the Dodgers, prompting excitement and schedule releases for 2026.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/World%20Series",
       "image_url": "https://img.freepik.com/premium-photo/detailed-globe-with-world-map-illustration-global-geographic-representations_1204564-150776.jpg?w=1480",
@@ -294,43 +343,10 @@
       "started_trending": "2026-10-16T05:23:32Z",
       "first_seen": "2026-10-16T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tesla",
-      "rank": 7,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Tesla",
-      "description": "Tesla is generating major buzz online after unveiling the new Roadster, which features aerial stunts and what the company describes as flying capabilities.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tesla",
-      "image_url": "https://static.independent.co.uk/2026/10/15/18/44/Roadster_07.jpeg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T06:23:32Z",
-      "first_seen": "2026-10-16T06:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -340,10 +356,6 @@
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
-        {
-          "t": "2026-10-16T01:23:34Z",
-          "r": 1
-        },
         {
           "t": "2026-10-16T02:23:34Z",
           "r": 1
@@ -367,12 +379,16 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 8
         }
       ],
       "rank_change": -2,
       "is_new": false,
       "topic": "Seahawks",
-      "description": "The Seattle Seahawks are trending following a narrow 17-14 overtime loss to the Denver Broncos, with growing fan concern over quarterback Sam Darnold's performance.",
+      "description": "The Seattle Seahawks are facing major questions surrounding quarterback Sam Darnold following a disappointing overtime loss to the Denver Broncos.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Seahawks",
       "image_url": "https://pbs.twimg.com/media/HUZDhIAWYAANmJF.jpg:medium",
@@ -380,10 +396,10 @@
       "started_trending": "2026-10-16T01:23:34Z",
       "first_seen": "2026-10-16T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -404,12 +420,16 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 9
         }
       ],
       "rank_change": 5,
       "is_new": false,
       "topic": "Elon",
-      "description": "Elon Musk is making headlines after Tesla unveiled a flying car concept and as he agreed to settle lawsuits related to his 2024 election lottery giveaways.",
+      "description": "Elon Musk made headlines after unveiling a flying Tesla Roadster, settling fraud lawsuits over 2024 election giveaways, and heavily backing a Senate bid in Texas.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Elon",
       "image_url": "https://d.techtimes.com/en/full/466641/elon-musk.jpg",
@@ -417,10 +437,10 @@
       "started_trending": "2026-10-16T05:23:32Z",
       "first_seen": "2026-10-16T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -441,6 +461,10 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 10
         }
       ],
       "rank_change": 3,
@@ -454,7 +478,44 @@
       "started_trending": "2026-10-16T05:23:32Z",
       "first_seen": "2026-10-16T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "you-can-see-everything",
+      "rank": 11,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-16T06:23:32Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-16T07:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "You Can See Everything",
+      "description": "The new film 'You Can See Everything' is generating heavy discussion and box office buzz alongside Nathan Fielder's involvement, while A24 leans into the hype of secrecy.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/You%20Can%20See%20Everything",
+      "image_url": "https://vodzilla.co/wp-content/uploads/2018/10/YOU_Vertical-Main_PRE_UK.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T06:23:32Z",
+      "first_seen": "2026-10-16T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-16T08:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -462,8 +523,78 @@
       "extra": {}
     },
     {
+      "id": "olandria-who-what-wear",
+      "rank": 12,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-16T05:23:32Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-16T06:23:32Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-16T07:23:32Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "OLANDRIA WHO WHAT WEAR",
+      "description": "The material does not provide a clear description for why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/OLANDRIA%20WHO%20WHAT%20WEAR",
+      "image_url": "https://a.cdn-hotels.com/gdcs/production58/d528/e21ca945-2a3a-47fd-8b4b-d183fa3487ba.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T05:23:32Z",
+      "first_seen": "2026-10-16T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "denver",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Denver",
+      "description": "The Denver Broncos secured a narrow 17-14 overtime victory against the Seattle Seahawks, lifting the team to a 4-2 start to the season.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Denver",
+      "image_url": "https://as2.ftcdn.net/jpg/10/42/41/55/1000_F_1042415558_VILdEeVHqWJtmFDHeJjtI1eywyXeNlKN.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T08:23:32Z",
+      "first_seen": "2026-10-16T08:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "drew-lock",
-      "rank": 11,
+      "rank": 14,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -490,12 +621,16 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": 9,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Drew Lock",
-      "description": "Drew Lock is trending on social media as frustrated Seattle Seahawks fans and analysts urge the team to bench struggling quarterback Sam Darnold.",
+      "description": "Following Sam Darnold's struggles and interceptions in a loss to the Broncos, analysts and fans are urging the Seahawks to consider replacing him with Drew Lock.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Drew%20Lock",
       "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2024/12/29164334/Giants-Fans-Slam-Drew-Lock-After-Losing-No.-1-Draft-Pick-Position-for-2025.jpg",
@@ -503,77 +638,44 @@
       "started_trending": "2026-10-16T02:23:34Z",
       "first_seen": "2026-10-16T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "you-can-see-everything",
-      "rank": 12,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "id": "porsche",
+      "rank": 15,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-10-16T06:23:32Z",
-          "r": 16
+          "r": 20
         },
         {
           "t": "2026-10-16T07:23:32Z",
-          "r": 12
+          "r": 19
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": 4,
+      "rank_change": 5,
       "is_new": false,
-      "topic": "You Can See Everything",
-      "description": "The new project 'You Can See Everything' is generating online discussion and film reviews, featuring Nathan Fielder and drawing comparisons to Elizabeth Holmes.",
+      "topic": "Porsche",
+      "description": "Porsche has revealed its Mission S concept car, previewing a new design identity and a future mid-engine supercar.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/You%20Can%20See%20Everything",
-      "image_url": "https://vodzilla.co/wp-content/uploads/2018/10/YOU_Vertical-Main_PRE_UK.jpg",
+      "url": "https://twstalker.com/search/Porsche",
+      "image_url": "https://ev-database.org/img/auto/Porsche_Taycan_GTS_2024/Porsche_Taycan_GTS_2024-01@2x.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-16T06:23:32Z",
       "first_seen": "2026-10-16T06:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "olandria-who-what-wear",
-      "rank": 13,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-16T05:23:32Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "OLANDRIA WHO WHAT WEAR",
-      "description": "The material provided does not make this topic clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/OLANDRIA%20WHO%20WHAT%20WEAR",
-      "image_url": "https://a.cdn-hotels.com/gdcs/production58/d528/e21ca945-2a3a-47fd-8b4b-d183fa3487ba.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T05:23:32Z",
-      "first_seen": "2026-10-16T05:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
+      "last_seen": "2026-10-16T08:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -581,8 +683,53 @@
       "extra": {}
     },
     {
+      "id": "ryan-fitzpatrick",
+      "rank": 16,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-16T04:23:34Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-16T05:23:32Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-16T06:23:32Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-16T07:23:32Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Ryan Fitzpatrick",
+      "description": "Ryan Fitzpatrick went viral after sharply criticizing Broncos quarterback Bo Nix following a tough performance on Thursday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ryan%20Fitzpatrick",
+      "image_url": "https://cdn-media.theathletic.com/KLUqsdqNKEEP_KLUqsdqNKEEP_lWi6HgfYmxAY_original_1440x960.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T04:23:34Z",
+      "first_seen": "2026-10-16T04:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "sean-payton",
-      "rank": 14,
+      "rank": 17,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -605,12 +752,16 @@
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": -5,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Sean Payton",
-      "description": "Denver Broncos head coach Sean Payton is drawing attention as his team improves to a 4-2 start following a gritty overtime victory against the Seattle Seahawks.",
+      "description": "Head coach Sean Payton addressed the Broncos' 4-2 start and praised the defense following a gritty 17-14 overtime win against the Seattle Seahawks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Sean%20Payton",
       "image_url": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2025-07/sean+payton_0.jpg?itok=FvwmlWA5",
@@ -618,237 +769,90 @@
       "started_trending": "2026-10-16T03:23:31Z",
       "first_seen": "2026-10-16T03:23:31Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "ryan-fitzpatrick",
-      "rank": 15,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-16T04:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-16T05:23:32Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Ryan Fitzpatrick",
-      "description": "Former NFL quarterback Ryan Fitzpatrick went viral after sharply criticizing Broncos quarterback Bo Nix's performance, calling it disrespectful to the position.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ryan%20Fitzpatrick",
-      "image_url": "https://cdn-media.theathletic.com/KLUqsdqNKEEP_KLUqsdqNKEEP_lWi6HgfYmxAY_original_1440x960.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T04:23:34Z",
-      "first_seen": "2026-10-16T04:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "thisismycrew",
-      "rank": 16,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-16T03:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-16T04:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-16T05:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "#ThisIsMyCrew",
-      "description": "Fans are sharing new merchandise and shirts released to celebrate the Milwaukee Brewers winning the National League Championship.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23ThisIsMyCrew",
-      "image_url": "https://hermes.media.static.aol.com/media/2026/10/15/3eec9c63-a3f8-3db0-addd-d1e9f0058496/902a2af9-e159-47dd-bb9f-43610c68d632.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T03:23:31Z",
-      "first_seen": "2026-10-16T03:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "winourway",
-      "rank": 17,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-16T03:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-16T04:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-16T05:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#WinOurWay",
-      "description": "The Milwaukee Brewers are trending on social media as they playfully throw previous comments back at opponents following their NLCS victory.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23WinOurWay",
-      "image_url": "https://www.albat.com/img/2020/11/24/gettyimages-1162237125-e1564085250549_1.jpg?__scale=w:1200,h:740,t:2",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T03:23:31Z",
-      "first_seen": "2026-10-16T03:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "david-hamilton",
+      "id": "fourthconcertd1",
       "rank": 18,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-16T03:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-16T04:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-16T05:23:32Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
+          "t": "2026-10-16T08:23:32Z",
           "r": 18
         }
       ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "David Hamilton",
-      "description": "David Hamilton is trending after hitting a crucial ninth-inning solo home run that helped secure the Brewers' victory and advance the team.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/David%20Hamilton",
-      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6cbf1511-c336-45e0-a624-4af053956d61/dhoyo08-0fb261ef-e5d9-4f3e-b2ec-7f9e94ad51d9.jpg/v1/fill/w_1280,h_1280,q_75,strp/xxl_david_hamilton_girl1_by_frankklebhof_dhoyo08-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzZjYmYxNTExLWMzMzYtNDVlMC1hNjI0LTRhZjA1Mzk1NmQ2MVwvZGhveW8wOC0wZmIyNjFlZi1lNWQ5LTRmM2UtYjJlYy03ZjllOTRhZDUxZDkuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.leKm7quI9E9oU6SZbvyXgokib0rCWPXZ7m-zWqBud_8",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T03:23:31Z",
-      "first_seen": "2026-10-16T03:23:31Z",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FourthConcertD1",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23FourthConcertD1",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-16T08:23:32Z",
+      "first_seen": "2026-10-16T08:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "porsche",
+      "id": "lets-shout-oh-my-fourth",
       "rank": 19,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
+          "t": "2026-10-16T08:23:32Z",
           "r": 19
         }
       ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Porsche",
-      "description": "Porsche is gaining attention online after revealing the Mission S concept car, previewing the brand's future mid-engine supercar design identity.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Porsche",
-      "image_url": "https://ev-database.org/img/auto/Porsche_Taycan_GTS_2024/Porsche_Taycan_GTS_2024-01@2x.jpg",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "LETS SHOUT OH MY FOURTH",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/LETS%20SHOUT%20OH%20MY%20FOURTH",
+      "image_url": "https://pbs.twimg.com/media/HUu9mWYbcAEDtLa?format=webp&name=large",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T06:23:32Z",
-      "first_seen": "2026-10-16T06:23:32Z",
+      "started_trending": "2026-10-16T08:23:32Z",
+      "first_seen": "2026-10-16T08:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "flying",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 20
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Flying",
-      "description": "Social media is buzzing over Tesla's new Roadster unveiling, which features SpaceX thrusters and aerial capabilities that allow the vehicle to briefly fly.",
+      "description": "Social media is buzzing with memes and reactions after Elon Musk and Tesla unveiled a new Roadster that purportedly utilizes SpaceX thrusters to fly.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Flying",
       "image_url": "https://static.dezeen.com/uploads/2026/10/tesla-roadster-flying-car_dezeen_2364_sq.jpg",
@@ -856,10 +860,10 @@
       "started_trending": "2026-10-16T07:23:32Z",
       "first_seen": "2026-10-16T07:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T07:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-16T08:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
