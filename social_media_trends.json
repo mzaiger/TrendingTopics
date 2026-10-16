@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-16T11:25:14Z",
+  "updated": "2026-10-16T12:25:40Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "good-friday",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-16T11:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Good Friday",
-      "description": "Good Friday is trending as early Black Friday outdoor sales and weather forecasts make headlines.",
+      "description": "Social media users are discussing various regional Friday weather forecasts, early Black Friday outdoor gear deals, and ongoing news topics.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Friday",
       "image_url": "https://imagetocolor.com/assets/images/shades-of-black-tool.jpg",
@@ -29,44 +33,7 @@
       "started_trending": "2026-10-16T11:23:33Z",
       "first_seen": "2026-10-16T11:23:33Z",
       "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "red-friday",
-      "rank": 2,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-16T09:23:38Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-16T10:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "RED Friday",
-      "description": "Red Friday is trending due to red flag weather warnings in California and political news in Alabama.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/RED%20Friday",
-      "image_url": "https://cdn.shopify.com/s/files/1/1038/1798/files/shades-of-red-color-pinterest-tall.jpg?v=1681883760",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T09:23:38Z",
-      "first_seen": "2026-10-16T09:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
+      "last_seen": "2026-10-16T12:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -74,15 +41,40 @@
       "extra": {}
     },
     {
-      "id": "tesla",
-      "rank": 3,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "id": "iphone-duo",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 8
-        },
+          "t": "2026-10-16T12:23:33Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "iPhone Duo",
+      "description": "The new iPhone Duo is trending as pre-orders officially go live with prices starting at $1,999, resulting in devices selling out moments after release.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/iPhone%20Duo",
+      "image_url": "https://images.timesnownews.com/thumb/msid-156349343,thumbsize-3037453,width-1280,height-720,resizemode-75/156349343.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T12:23:33Z",
+      "first_seen": "2026-10-16T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tesla",
+      "rank": 3,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 7
@@ -102,12 +94,16 @@
         {
           "t": "2026-10-16T11:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 3
         }
       ],
-      "rank_change": 4,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Tesla",
-      "description": "Tesla is trending following the debut and flight of its new next-generation Roadster.",
+      "description": "Tesla is generating major buzz after unveiling its new Roadster, which achieved a flying debut and hit 60 miles per hour in under a second.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tesla",
       "image_url": "https://static.independent.co.uk/2026/10/15/18/44/Roadster_07.jpeg",
@@ -115,23 +111,93 @@
       "started_trending": "2026-10-16T06:23:32Z",
       "first_seen": "2026-10-16T06:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "red-friday",
+      "rank": 4,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-16T09:23:38Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-16T10:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-16T11:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "RED Friday",
+      "description": "Social media users are discussing red flag weather warnings issued for parts of California, political rallies in Alabama, and viral local posts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/RED%20Friday",
+      "image_url": "https://cdn.shopify.com/s/files/1/1038/1798/files/shades-of-red-color-pinterest-tall.jpg?v=1681883760",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T09:23:38Z",
+      "first_seen": "2026-10-16T09:23:38Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "remember-everyone-deployed",
+      "rank": 5,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-16T11:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Remember Everyone Deployed",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Remember%20Everyone%20Deployed",
+      "image_url": "http://www.barbdahlgren.com/wp-content/uploads/Remember-Church-Art-Sub.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T11:23:33Z",
+      "first_seen": "2026-10-16T11:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bo-nix",
-      "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "rank": 6,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 3
-        },
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 2
@@ -151,12 +217,16 @@
         {
           "t": "2026-10-16T11:23:33Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 6
         }
       ],
-      "rank_change": -2,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Bo Nix",
-      "description": "Bo Nix is trending after facing sharp criticism from analysts following the Broncos' overtime win.",
+      "description": "Denver Broncos quarterback Bo Nix is trending following heavy criticism from analysts like Ryan Fitzpatrick, alongside discussions about the team's 4-2 start and struggles with explosive plays.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bo%20Nix",
       "image_url": "https://collegefootballnetwork.com/wp-content/uploads/2026/01/bo-nix-injury-update-01-18-26-2048x1328.jpg",
@@ -164,45 +234,16 @@
       "started_trending": "2026-10-16T01:23:34Z",
       "first_seen": "2026-10-16T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fridayvibes",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#FridayVibes",
-      "description": "The hashtag is trending on social media alongside workplace humor videos.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23FridayVibes",
-      "image_url": "https://gstatic1.promeai.pro/gallery/publish/2024/10/25/9cce9835171d4b7faa36e44c65ec6954.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T11:23:33Z",
-      "first_seen": "2026-10-16T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "fourthconcertd1",
-      "rank": 6,
+      "rank": 7,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -221,9 +262,13 @@
         {
           "t": "2026-10-16T11:23:33Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 7
         }
       ],
-      "rank_change": 12,
+      "rank_change": 11,
       "is_new": false,
       "topic": "#FourthConcertD1",
       "description": "",
@@ -234,143 +279,16 @@
       "started_trending": "2026-10-16T08:23:32Z",
       "first_seen": "2026-10-16T08:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "broncos",
-      "rank": 7,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-16T08:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-16T09:23:38Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-16T10:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Broncos",
-      "description": "The Broncos are trending after securing a 17-14 overtime victory against the Seattle Seahawks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Broncos",
-      "image_url": "https://milehighsports.com/wp-content/uploads/2026/10/2026-09-20T232133Z_630990763_MT1USATODAY29877138_RTRMADP_3_NFL-JACKSONVILLE-JAGUARS-AT-DENVER-BRONCOS-1024x685.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T02:23:34Z",
-      "first_seen": "2026-10-16T02:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "world-series",
-      "rank": 8,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-16T08:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-16T09:23:38Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-16T10:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "World Series",
-      "description": "The World Series is trending as the Milwaukee Brewers swept the Dodgers to reach the championship for the first time since 1982.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/World%20Series",
-      "image_url": "https://img.freepik.com/premium-photo/detailed-globe-with-world-map-illustration-global-geographic-representations_1204564-150776.jpg?w=1480",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T05:23:32Z",
-      "first_seen": "2026-10-16T05:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "remember-everyone-deployed",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Remember Everyone Deployed",
-      "description": "Remember Everyone Deployed is trending as a woman honors fallen veterans by carrying a large teddy bear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Remember%20Everyone%20Deployed",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-16T11:23:33Z",
-      "first_seen": "2026-10-16T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lets-shout-oh-my-fourth",
-      "rank": 10,
+      "rank": 8,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -389,9 +307,13 @@
         {
           "t": "2026-10-16T11:23:33Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 8
         }
       ],
-      "rank_change": 9,
+      "rank_change": 11,
       "is_new": false,
       "topic": "LETS SHOUT OH MY FOURTH",
       "description": "",
@@ -402,72 +324,382 @@
       "started_trending": "2026-10-16T08:23:32Z",
       "first_seen": "2026-10-16T08:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "sam-darnold",
-      "rank": 11,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "fridayvibes",
+      "rank": 9,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-16T08:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-16T09:23:38Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-16T10:23:32Z",
-          "r": 6
-        },
-        {
           "t": "2026-10-16T11:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "#FridayVibes",
+      "description": "Users on social media are sharing workplace humor and content using the hashtag FridayVibes to mark the end of the workweek.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23FridayVibes",
+      "image_url": "https://gstatic1.promeai.pro/gallery/publish/2024/10/25/9cce9835171d4b7faa36e44c65ec6954.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T11:23:33Z",
+      "first_seen": "2026-10-16T11:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "finally-friday",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Finally Friday",
+      "description": "Social media users are sharing weekend forecasts, heat records, tennis tournament updates, and early shopping warnings resembling Black Friday.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Finally%20Friday",
+      "image_url": "https://www.mogazmasr.com/uploads/2026/10/16/wuhan-open-tennis-2026-c4aeddab_1200w.webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T12:23:33Z",
+      "first_seen": "2026-10-16T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "apple-store",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-16T12:23:33Z",
           "r": 11
         }
       ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Sam Darnold",
-      "description": "Sam Darnold is trending after struggling with interceptions in the Seahawks' overtime loss to the Broncos.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Apple Store",
+      "description": "The online Apple Store went down as users anticipated and rushed to place pre-orders for the newly launched iPhone Duo.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sam%20Darnold",
-      "image_url": "https://statico.profootballnetwork.com/wp-content/uploads/2026/01/26101220/sam-darnold-makes-usc-history-01-26-26-scaled.jpg",
+      "url": "https://twstalker.com/search/Apple%20Store",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HKxrvVPLLoe3EDHhrNB6Nd.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T01:23:34Z",
-      "first_seen": "2026-10-16T01:23:34Z",
+      "started_trending": "2026-10-16T12:23:33Z",
+      "first_seen": "2026-10-16T12:23:33Z",
       "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-friyay",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy Friyay",
+      "description": "Social media users are celebrating the start of the weekend with posts about Friday weather changes, adoptable pets, and sports discussions.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Happy%20Friyay",
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ba3eb2e-4e51-4192-bcf0-bbff135553b2/dgj5yzr-4e65b4dc-e722-4568-be3e-1c49043d4181.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiYTNlYjJlLTRlNTEtNDE5Mi1iY2YwLWJiZmYxMzU1NTNiMlwvZGdqNXl6ci00ZTY1YjRkYy1lNzIyLTQ1NjgtYmUzZS0xYzQ5MDQzZDQxODEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bPkVmxRt68Sa-VJno2I2-6C6c1Ida5Nx0UV4ZCKqA18",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T12:23:33Z",
+      "first_seen": "2026-10-16T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "last-story-of-two-stars",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "LAST STORY OF TWO STARS",
+      "description": "Social media users are discussing entertainment news, including upcoming Michelin star awards in Nashville and new season details for the television series The Lowdown.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/LAST%20STORY%20OF%20TWO%20STARS",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-16T12:23:33Z",
+      "first_seen": "2026-10-16T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "weirdo101seriesfinalep",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#WEIRDO101SeriesFinalEP",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WEIRDO101SeriesFinalEP",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-16T12:23:33Z",
+      "first_seen": "2026-10-16T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "porsche",
+      "rank": 15,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-16T07:23:32Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-16T09:23:38Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-16T10:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-16T11:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Porsche",
+      "description": "Porsche is generating excitement online after revealing its Mission S concept car, which previews a brand-new design identity and points toward a future supercar.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Porsche",
+      "image_url": "https://ev-database.org/img/auto/Porsche_Taycan_GTS_2024/Porsche_Taycan_GTS_2024-01@2x.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T06:23:32Z",
+      "first_seen": "2026-10-16T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "world-series",
+      "rank": 16,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-16T07:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-16T08:23:32Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-16T09:23:38Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-16T10:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-16T11:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "World Series",
+      "description": "The Milwaukee Brewers are trending after sweeping the Los Angeles Dodgers in the National League Championship Series to advance to their first World Series in 44 years.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/World%20Series",
+      "image_url": "https://img.freepik.com/premium-photo/detailed-globe-with-world-map-illustration-global-geographic-representations_1204564-150776.jpg?w=1480",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T05:23:32Z",
+      "first_seen": "2026-10-16T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "byauau",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#รับได้ใช่ไหมByAuAu",
+      "description": "Fans are sharing and discussing the official music video for 'Can You?' by AuAu from the soundtrack of Mr. Fanboy.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%A1ByAuAu",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-16T12:23:33Z",
+      "first_seen": "2026-10-16T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "reece-james",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Reece James",
+      "description": "Chelsea captain Reece James is trending after undergoing successful knee surgery and facing approximately three months out of action.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Reece%20James",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2024/10/27142212/GettyImages-2181362378-scaled-e1730053360941-1024x683.jpg?width=1920&quality=70&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T12:23:33Z",
+      "first_seen": "2026-10-16T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ferrari",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ferrari",
+      "description": "Ferrari is making headlines after completing the hull construction and unveiling the flying technology for its new 30-meter Hypersail racing yacht, alongside motorsport updates.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ferrari",
+      "image_url": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/05/ferrari-12cilindri.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-16T12:23:33Z",
+      "first_seen": "2026-10-16T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "olandriaxwww20",
-      "rank": 12,
+      "rank": 20,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 10
-        },
         {
           "t": "2026-10-16T07:23:32Z",
           "r": 10
@@ -487,9 +719,13 @@
         {
           "t": "2026-10-16T11:23:33Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-16T12:23:33Z",
+          "r": 20
         }
       ],
-      "rank_change": -2,
+      "rank_change": -10,
       "is_new": false,
       "topic": "#OlandriaxWWW20",
       "description": "",
@@ -500,322 +736,10 @@
       "started_trending": "2026-10-16T05:23:32Z",
       "first_seen": "2026-10-16T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "porsche",
-      "rank": 13,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-16T08:23:32Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-16T09:23:38Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-16T10:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Porsche",
-      "description": "Porsche is trending with the reveal of its Mission S concept car previewing a new mid-engine supercar design.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Porsche",
-      "image_url": "https://ev-database.org/img/auto/Porsche_Taycan_GTS_2024/Porsche_Taycan_GTS_2024-01@2x.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T06:23:32Z",
-      "first_seen": "2026-10-16T06:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "seahawks",
-      "rank": 14,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-16T08:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-16T09:23:38Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-16T10:23:32Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Seahawks",
-      "description": "The Seahawks are trending following their close 17-14 overtime loss to the Denver Broncos.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Seahawks",
-      "image_url": "https://pbs.twimg.com/media/HUZDhIAWYAANmJF.jpg:medium",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T01:23:34Z",
-      "first_seen": "2026-10-16T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "flying",
-      "rank": 15,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-16T08:23:32Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-16T09:23:38Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-16T10:23:32Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Flying",
-      "description": "Flying is trending online after Elon Musk and Tesla debuted their new Roadster flying car.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Flying",
-      "image_url": "https://static.dezeen.com/uploads/2026/10/tesla-roadster-flying-car_dezeen_2364_sq.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T07:23:32Z",
-      "first_seen": "2026-10-16T07:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "olandria-who-what-wear",
-      "rank": 16,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-16T06:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-16T07:23:32Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-16T08:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-16T09:23:38Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-16T10:23:32Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "OLANDRIA WHO WHAT WEAR",
-      "description": "The material does not provide a clear description for why this topic is trending.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/OLANDRIA%20WHO%20WHAT%20WEAR",
-      "image_url": "https://a.cdn-hotels.com/gdcs/production58/d528/e21ca945-2a3a-47fd-8b4b-d183fa3487ba.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T05:23:32Z",
-      "first_seen": "2026-10-16T05:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jetsons",
-      "rank": 17,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-16T10:23:32Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Jetsons",
-      "description": "The Jetsons are trending alongside online buzz and discussion regarding Tesla's new flying car debut.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jetsons",
-      "image_url": "https://s1.cdn.autoevolution.com/images/news/gallery/the-jetsons-flying-car-morphs-into-cgi-existence-looks-bubbly-and-human-operated_6.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T10:23:32Z",
-      "first_seen": "2026-10-16T10:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "shadow",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Shadow",
-      "description": "Shadow is trending as Britain supplies Storm Shadow missiles to Ukraine and discussions continue over a Russian shadow fleet.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Shadow",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-16T11:23:33Z",
-      "first_seen": "2026-10-16T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hannity",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Hannity",
-      "description": "Sean Hannity is trending after criticizing White House press secretary Katie Zacharia over her failed bar exam on Fox News.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hannity",
-      "image_url": "https://www.deseret.com/resizer/v2/EXPKB3O35FC4PATNDSFE7WBGS4.JPG?auth=779aa9d6e46da01d1a786196c9e89ce757a355479b0af926afcadd1a9f29e143&focal=0,0&width=1600&height=1066",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T11:23:33Z",
-      "first_seen": "2026-10-16T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fitz",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-16T11:23:33Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Fitz",
-      "description": "Fitz is trending in sports news, including coverage of the Allied FITZ trail bike and Michigan State football.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fitz",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-16T11:23:33Z",
-      "first_seen": "2026-10-16T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-16T11:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-16T12:23:33Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     }
