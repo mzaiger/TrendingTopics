@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-17T02:25:09Z",
+  "updated": "2026-10-17T03:25:08Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-10-17T02:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "#SmackDown",
-      "description": "Fans are buzzing about the latest WWE Friday Night SmackDown episode, featuring a face-to-face confrontation between Cody Rhodes and Randy Orton, and Rey Fenix taking on Ricky Saints.",
+      "description": "Fans are discussing the latest WWE SmackDown episode featuring Cody Rhodes, Randy Orton, and Rey Fenix.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23SmackDown",
       "image_url": "https://www.ppgpaintsarena.com/assets/img/WWE-Smackdown41924-1760x1075-aa57eefdb4.jpg",
@@ -37,7 +41,7 @@
       "started_trending": "2026-10-17T00:23:34Z",
       "first_seen": "2026-10-17T00:23:34Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -45,107 +49,8 @@
       "extra": {}
     },
     {
-      "id": "oplive",
-      "rank": 2,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-17T01:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-17T02:23:34Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#OPLive",
-      "description": "High school football fans are tracking live coverage and streaming links for various matchups across the country, including Hillsboro/Central Valley versus MPCGFS and Ellington versus CREHHR.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23OPLive",
-      "image_url": "https://www.pennlive.com/resizer/v2/LPBUL36PWFEMVLTNRPSQVHJVFM.JPG?auth=8f9b581385e4c4e408d824ce09f0c2977e6bd4aa3f4f7fc10ce0b205a396e698&width=1280&smart=true&quality=90",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T01:23:33Z",
-      "first_seen": "2026-10-17T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "memphis",
-      "rank": 3,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-17T01:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-17T02:23:34Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Memphis",
-      "description": "College football fans are searching for live streams and TV broadcast details as the Memphis Tigers prepare to face the Tulane Green Wave.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Memphis",
-      "image_url": "https://thememphian.blob.core.windows.net/sized/202447_1200",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T01:23:33Z",
-      "first_seen": "2026-10-17T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "heartbeat",
-      "rank": 4,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-17T01:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-17T02:23:34Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Heartbeat",
-      "description": "Director Brian Duffield is drawing attention for revealing he used Josh Brolin's heartbeat for the whale in his film 'Whalefall'.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Heartbeat",
-      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2300093061-H-2026.jpg?w=1296&h=730&crop=1",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T01:23:33Z",
-      "first_seen": "2026-10-17T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "purdue",
-      "rank": 5,
+      "rank": 2,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -164,12 +69,16 @@
         {
           "t": "2026-10-17T02:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 2
         }
       ],
-      "rank_change": 10,
+      "rank_change": 13,
       "is_new": false,
       "topic": "Purdue",
-      "description": "College football fans are discussing Purdue's upcoming matchup against Washington, alongside updates on the ongoing Earhart expedition weather delays.",
+      "description": "College football fans are following Purdue's upcoming matchup against Washington and updates on the Earhart expedition.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Purdue",
       "image_url": "https://external-preview.redd.it/purdue-slander-v0-6R-m2ZD_QzYw46EcxmMbdrA5-2wBJNCP3Kk29PmOYAM.png?format=pjpg&auto=webp&s=7819502db02ec7834300f27ebc6578ac335f8ea2",
@@ -177,16 +86,16 @@
       "started_trending": "2026-10-16T23:23:31Z",
       "first_seen": "2026-10-16T23:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "tulane",
-      "rank": 6,
+      "rank": 3,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -197,12 +106,16 @@
         {
           "t": "2026-10-17T02:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": -3,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Tulane",
-      "description": "Sports fans are looking for live streams and TV channel information for the upcoming football matchup between the Tulane Green Wave and the Memphis Tigers.",
+      "description": "Tulane is trending after securing a massive upset victory over Memphis with a strong defensive performance.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tulane",
       "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2025/09/Tulane-celebrating-TD.jpg",
@@ -210,7 +123,147 @@
       "started_trending": "2026-10-17T01:23:33Z",
       "first_seen": "2026-10-17T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "memphis",
+      "rank": 4,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-17T01:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-17T02:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Memphis",
+      "description": "Memphis is generating discussion following their football loss to Tulane and news surrounding the athletic community.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Memphis",
+      "image_url": "https://thememphian.blob.core.windows.net/sized/202447_1200",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T01:23:33Z",
+      "first_seen": "2026-10-17T01:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ash-trevino",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "ash trevino",
+      "description": "Ashley Trevino is trending in discussions surrounding the Brand Risk 16 fight card.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/ash%20trevino",
+      "image_url": "https://empireinfohub.com/wp-content/uploads/2025/12/Ash-Trevino-2-1536x864.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T03:23:32Z",
+      "first_seen": "2026-10-17T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "oplive",
+      "rank": 6,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-17T01:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-17T02:23:34Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "#OPLive",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23OPLive",
+      "image_url": "https://www.pennlive.com/resizer/v2/LPBUL36PWFEMVLTNRPSQVHJVFM.JPG?auth=8f9b581385e4c4e408d824ce09f0c2977e6bd4aa3f4f7fc10ce0b205a396e698&width=1280&smart=true&quality=90",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T01:23:33Z",
+      "first_seen": "2026-10-17T01:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "heartbeat",
+      "rank": 7,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-17T01:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-17T02:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Heartbeat",
+      "description": "Director Brian Duffield's comments on using Josh Brolin's heartbeat for a whale in 'Whalefall' are drawing attention online.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Heartbeat",
+      "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2300093061-H-2026.jpg?w=1296&h=730&crop=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T01:23:33Z",
+      "first_seen": "2026-10-17T01:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -219,7 +272,7 @@
     },
     {
       "id": "marcus-stokes",
-      "rank": 7,
+      "rank": 8,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -230,12 +283,16 @@
         {
           "t": "2026-10-17T02:23:34Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Marcus Stokes",
-      "description": "Marcus Stokes is trending after throwing a 76-yard touchdown pass to Stonka Burnside during a matchup against Tulane.",
+      "description": "Quarterback Marcus Stokes is drawing attention for his performance and passing touchdowns for Memphis against Tulane.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Marcus%20Stokes",
       "image_url": "https://s.yimg.com/lo/mysterio/api/94064a4e930fef74d5f2dd892ffcac1ae214bd05ad920821c8646b94f34436cd/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/roundtable_sports_memphis_728/b22a10fae7e1f53662d7b7e60d4605b8.jpg",
@@ -243,7 +300,7 @@
       "started_trending": "2026-10-17T01:23:33Z",
       "first_seen": "2026-10-17T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -251,28 +308,28 @@
       "extra": {}
     },
     {
-      "id": "baron-corbin",
-      "rank": 8,
+      "id": "johnny-carson",
+      "rank": 9,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-17T02:23:34Z",
-          "r": 8
+          "t": "2026-10-17T03:23:32Z",
+          "r": 9
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Baron Corbin",
-      "description": "Baron Corbin is trending following a dramatic segment on WWE SmackDown where he interrupted Cody Rhodes and was subsequently hit with a punt kick.",
+      "topic": "Johnny Carson",
+      "description": "The material does not provide enough context to explain why Johnny Carson is trending right now.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Baron%20Corbin",
-      "image_url": "https://www.thoughtco.com/thmb/Ly8uJTv11dJtAoxx43K417nxeqY=/3013x2218/filters:fill(auto,1)/GettyImages-1077719866-5c6a3b8446e0fb0001319c36.jpg",
+      "url": "https://twstalker.com/search/Johnny%20Carson",
+      "image_url": "https://m.media-amazon.com/images/S/pv-target-images/338b2d9c2dba6d9a6d99f349be7d4330a42b6f634faf9ce367b68331648ed9b6.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T02:23:34Z",
-      "first_seen": "2026-10-17T02:23:34Z",
+      "started_trending": "2026-10-17T03:23:32Z",
+      "first_seen": "2026-10-17T03:23:32Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -280,28 +337,61 @@
       "extra": {}
     },
     {
-      "id": "sixers",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "baron-corbin",
+      "rank": 10,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-10-17T02:23:34Z",
-          "r": 9
+          "r": 8
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Sixers",
-      "description": "Basketball fans are discussing the Philadelphia 76ers' preseason game against the Boston Celtics, alongside injury updates regarding big man Adem Bona.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Baron Corbin",
+      "description": "Baron Corbin is trending after being punted by Cody Rhodes during a segment on WWE SmackDown.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sixers",
-      "image_url": "https://media.architecturaldigest.com/photos/5755f69c69bcf60b7b864713/master/pass/philadelphia-travel-guide-01.jpg",
+      "url": "https://twstalker.com/search/Baron%20Corbin",
+      "image_url": "https://www.thoughtco.com/thmb/Ly8uJTv11dJtAoxx43K417nxeqY=/3013x2218/filters:fill(auto,1)/GettyImages-1077719866-5c6a3b8446e0fb0001319c36.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-17T02:23:34Z",
       "first_seen": "2026-10-17T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "delonte-west",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Delonte West",
+      "description": "Former NBA star Delonte West is trending following his wedding and his boxing match against Michael Beasley at Brand Risk 16.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Delonte%20West",
+      "image_url": "https://www.thebiglead.com/wp-content/uploads/2026/10/BASKETBALL-NBA-34-e1792063596582-1024x708.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T03:23:32Z",
+      "first_seen": "2026-10-17T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -310,7 +400,7 @@
     },
     {
       "id": "dateline",
-      "rank": 10,
+      "rank": 12,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -321,12 +411,16 @@
         {
           "t": "2026-10-17T02:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 12
         }
       ],
-      "rank_change": 2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "#Dateline",
-      "description": "Viewers are discussing the new 'Dateline' episode covering the Mississippi case regarding the murder and betrayal of Kirby Carpenter.",
+      "description": "Viewers are discussing the new Dateline NBC episode covering the murder case of Kirby Carpenter.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Dateline",
       "image_url": "https://m.media-amazon.com/images/M/MV5BODY1OGE2ZmEtMzRmYi00ZTI2LWIwZTAtY2RlYzYyZDY2NTY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -334,7 +428,7 @@
       "started_trending": "2026-10-17T01:23:33Z",
       "first_seen": "2026-10-17T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -342,135 +436,32 @@
       "extra": {}
     },
     {
-      "id": "celtics",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "sixers",
+      "rank": 13,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-17T02:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Celtics",
-      "description": "Basketball fans are talking about the Boston Celtics' 125-120 overtime preseason victory over the Philadelphia 76ers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Celtics",
-      "image_url": "https://i.natgeofe.com/n/753eaab8-93e7-4dbf-8b56-307947b0f831/downtown-cityscape-boston-massachusetts.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T02:23:34Z",
-      "first_seen": "2026-10-17T02:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "san-clemente",
-      "rank": 12,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-16T21:23:32Z",
           "r": 9
         },
         {
-          "t": "2026-10-16T22:23:30Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-16T23:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-17T00:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-17T01:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-17T02:23:34Z",
-          "r": 12
+          "t": "2026-10-17T03:23:32Z",
+          "r": 13
         }
       ],
       "rank_change": -4,
       "is_new": false,
-      "topic": "San Clemente",
-      "description": "Residents in San Clemente are facing mandatory evacuations and threats to homes as the 465-acre Norte Fire burns through Orange County.",
+      "topic": "Sixers",
+      "description": "Basketball fans are discussing the Sixers following their preseason game against the Boston Celtics.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/San%20Clemente",
-      "image_url": "https://www.californiabeaches.com/wp-content/uploads/2014/09/bigs-Sunset-At-San-Clemente-Beach-California-152162990-e1482543643460.jpg",
+      "url": "https://twstalker.com/search/Sixers",
+      "image_url": "https://media.architecturaldigest.com/photos/5755f69c69bcf60b7b864713/master/pass/philadelphia-travel-guide-01.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T21:23:32Z",
-      "first_seen": "2026-10-16T21:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "end-3q",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T02:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "End 3Q",
-      "description": "Financial and corporate news is trending as companies like Materialise NV and Schneider Electric prepare to report their third quarter 2026 earnings and revenue.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/End%203Q",
-      "image_url": "",
-      "image_source": "",
       "started_trending": "2026-10-17T02:23:34Z",
       "first_seen": "2026-10-17T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "end-of-3rd",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T02:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "End of 3rd",
-      "description": "Medical and financial developments are trending as trials like RGX-202 and VAX-31 meet primary endpoints, while the Federal Reserve holds interest rates steady amid rising inflation.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/End%20of%203rd",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-17T02:23:34Z",
-      "first_seen": "2026-10-17T02:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -479,19 +470,23 @@
     },
     {
       "id": "x-money",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 14,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-17T02:23:34Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "X Money",
-      "description": "Elon Musk is drawing attention after reports emerged that he is the donor behind a major Senate Republican rescue mission for Ken Paxton.",
+      "description": "The material does not make the description clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/X%20Money",
       "image_url": "https://d.ibtimes.com/en/full/4501526/elon-musk.jpg",
@@ -499,7 +494,7 @@
       "started_trending": "2026-10-17T02:23:34Z",
       "first_seen": "2026-10-17T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -507,98 +502,57 @@
       "extra": {}
     },
     {
-      "id": "iahsfb",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "celtics",
+      "rank": 15,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-10-17T02:23:34Z",
-          "r": 16
+          "r": 11
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#iahsfb",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23iahsfb",
-      "image_url": "",
-      "image_source": "",
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Celtics",
+      "description": "The Boston Celtics are trending after defeating the Philadelphia 76ers in an overtime preseason thriller.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Celtics",
+      "image_url": "https://i.natgeofe.com/n/753eaab8-93e7-4dbf-8b56-307947b0f831/downtown-cityscape-boston-massachusetts.jpg",
+      "image_source": "duckduckgo",
       "started_trending": "2026-10-17T02:23:34Z",
       "first_seen": "2026-10-17T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "press-secretary",
-      "rank": 17,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-16T21:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-16T22:23:30Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-16T23:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-17T00:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-17T01:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-17T02:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "Press Secretary",
-      "description": "Katie Zacharia is trending after stepping down as White House Press Secretary just five days after taking the job.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Press%20Secretary",
-      "image_url": "https://www.newsday.com/_next/image?url=https://cdn.newsday.com/image-service/version/c:NzJkNDQ5NDEtY2Q3OS00:ZjRmOTU4MjQtZjZmNy00/copy-of-trump.jpeg?f=Landscape+16%3A9&w=1920&q=1&w=3840&q=90",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T18:23:32Z",
-      "first_seen": "2026-10-16T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "pflchicago",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-10-17T02:23:34Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-17T03:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 2,
+      "is_new": false,
       "topic": "#PFLChicago",
-      "description": "Combat sports fans are following the live results and play-by-play coverage of the Professional Fighters League event in Chicago, headlined by Carmouche versus Bishop 2.",
+      "description": "Fans are following the live results and highlights from the PFL Chicago event featuring Carmouche vs. Bishop 2.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23PFLChicago",
       "image_url": "",
@@ -606,7 +560,7 @@
       "started_trending": "2026-10-17T02:23:34Z",
       "first_seen": "2026-10-17T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
+      "last_seen": "2026-10-17T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -614,84 +568,118 @@
       "extra": {}
     },
     {
-      "id": "violet",
-      "rank": 19,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "id": "adin-ross",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-16T21:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-16T22:23:30Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-16T23:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-17T00:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-17T01:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-17T02:23:34Z",
-          "r": 19
+          "t": "2026-10-17T03:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "Violet",
-      "description": "Book fans are discussing the casting of Esther McGregor as Violet Sorrengail in the upcoming adaptation of 'Fourth Wing', alongside details about the 'Violet Ore' Air Jordan 4.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Adin Ross",
+      "description": "Adin Ross is trending in discussions regarding the Brand Risk 16 streaming event and rumors about a Fortnite skin.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Violet",
-      "image_url": "https://www.russh.com/wp-content/uploads/2026/10/esther-mcgregor.jpg",
+      "url": "https://twstalker.com/search/Adin%20Ross",
+      "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/adin-ross-header.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-16T21:23:32Z",
-      "first_seen": "2026-10-16T21:23:32Z",
+      "started_trending": "2026-10-17T03:23:32Z",
+      "first_seen": "2026-10-17T03:23:32Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "nikki-bella",
-      "rank": 20,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "michael-beasley",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-17T01:23:33Z",
-          "r": 9
-        },
+          "t": "2026-10-17T03:23:32Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Michael Beasley",
+      "description": "Michael Beasley is trending after securing a knockout victory against Delonte West at Brand Risk 16.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Michael%20Beasley",
+      "image_url": "https://big3.com/wp-content/uploads/2024/07/3sCompany-Michael-Beasley.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T03:23:32Z",
+      "first_seen": "2026-10-17T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "masqouroade",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-10-17T02:23:34Z",
+          "t": "2026-10-17T03:23:32Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#MasqOuroade",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MasqOuroade",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-17T03:23:32Z",
+      "first_seen": "2026-10-17T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kevin-kane",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T03:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Nikki Bella",
-      "description": "Wrestling fans are talking about Nikki Bella's latest appearances and championship title push on WWE SmackDown, including her confrontation with Chelsea Green.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kevin Kane",
+      "description": "The material does not provide enough context to explain why Kevin Kane is trending right now.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nikki%20Bella",
-      "image_url": "https://people.com/thmb/dX2ZtNDGlwBWhZrhT4PgiJaIDI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(759x438:761x440)/nikki-bella-monday-night-wwe-061125-2-76eea1e88b724753b0d05dd1a2cfbf07.jpg",
+      "url": "https://twstalker.com/search/Kevin%20Kane",
+      "image_url": "https://ntvb.tmsimg.com/assets/assets/287239_v9_bb.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T01:23:33Z",
-      "first_seen": "2026-10-17T01:23:33Z",
+      "started_trending": "2026-10-17T03:23:32Z",
+      "first_seen": "2026-10-17T03:23:32Z",
       "published": null,
-      "last_seen": "2026-10-17T02:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-17T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
