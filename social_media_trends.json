@@ -1,27 +1,64 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-17T21:25:15Z",
+  "updated": "2026-10-17T22:25:06Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "arch",
+      "id": "auburn",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-17T21:23:31Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "Auburn",
+      "description": "Auburn football is trending following game updates and matchup coverage against No. 1 Georgia, alongside news regarding player health and recruiting rankings.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Auburn",
+      "image_url": "https://atozsports.com/wp-content/uploads/2026/10/featured-score-predictions-georgia-vs-auburn-bottom-16x9-1.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T21:23:31Z",
+      "first_seen": "2026-10-17T21:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "arch",
+      "rank": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-17T21:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Arch",
-      "description": "Texas quarterback Arch Manning struggled during a loss to Florida, prompting coach Steve Sarkisian to announce that everything will be evaluated.",
+      "description": "Arch Manning and the Texas Longhorns are trending after suffering a home loss to Florida and blowing a 14-point lead, sparking questions about his tenure as the starting quarterback.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Arch",
       "image_url": "https://media.firstsportz.com/wp-content/uploads/2026/10/10230322/Arch-Mannings-Last-Minute-Interception-Results-in-No.1-Texas-Losing-to-Oklahoma-Fans-Question-His-Clutch-General.webp",
@@ -29,7 +66,143 @@
       "started_trending": "2026-10-17T21:23:31Z",
       "first_seen": "2026-10-17T21:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tommy-carr",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tommy Carr",
+      "description": "Tommy Carr is trending after replacing starting quarterback Bryce Underwood during the second half of the Michigan versus Penn State game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tommy%20Carr",
+      "image_url": "https://s3.amazonaws.com/tls_production/profile_photos/large/TommyCarr2024.png?1726683990",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T22:23:33Z",
+      "first_seen": "2026-10-17T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "macron",
+      "rank": 4,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-17T18:23:35Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-17T19:23:37Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-17T20:23:31Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-17T21:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Macron",
+      "description": "French President Emmanuel Macron is trending as violent protests, riots, and clashes erupt across France, with Macron vowing that rioters will be prosecuted.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Macron",
+      "image_url": "https://cdnph.upi.com/svc/sv/upi_com/2581783422061/2026/1/c2e376dfe932ef9eae449bed472dacda/Emmanuel-Macron-unscathed-after-bomb-blasts-during-visit-to-Syria.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T18:23:35Z",
+      "first_seen": "2026-10-17T18:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bryce-underwood",
+      "rank": 5,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-17T21:23:31Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Bryce Underwood",
+      "description": "Michigan quarterback Bryce Underwood is trending after being benched in favor of Tommy Carr during the second half of the game against Penn State.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bryce%20Underwood",
+      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/08/michigan-quarterback-bryce-underwood-throws-109801548.jpg?resize=720",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T21:23:31Z",
+      "first_seen": "2026-10-17T21:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sark",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sark",
+      "description": "Texas coach Steve Sarkisian is trending as questions mount regarding his job security and contract buyout following the team's shocking loss to Florida.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sark",
+      "image_url": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-2299591329-e1792266220785.jpg?quality=65&strip=all",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T22:23:33Z",
+      "first_seen": "2026-10-17T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -38,7 +211,7 @@
     },
     {
       "id": "indiana",
-      "rank": 2,
+      "rank": 7,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -61,12 +234,16 @@
         {
           "t": "2026-10-17T21:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 7
         }
       ],
-      "rank_change": 0,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Indiana",
-      "description": "Indiana fell 19-15 to Ohio State after a potential game-winning touchdown by Nick Marsh was ruled out of bounds.",
+      "description": "Indiana football is trending following a hard-fought road matchup and narrow loss against No. 4 Ohio State.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Indiana",
       "image_url": "https://chargerswire.usatoday.com/gcdn/authoring/authoring-images/2026/09/05/PIND/91632078007-20260905-t-180548-z-2048034599-mt-1-usatoday-29747423-rtrmadp-3-ncaafootballnorthtexasatindiana.JPG?crop=5695,3204,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
@@ -74,16 +251,45 @@
       "started_trending": "2026-10-17T17:23:31Z",
       "first_seen": "2026-10-17T17:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rhyne",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Rhyne",
+      "description": "Rhyne Howard is trending on social media following standout performances in the WNBA for the Atlanta Dream against the Golden State Valkyries.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rhyne",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/9067f1d13d50631c6ca89a1994349efe71ce6987e0f1f4b16df2f85f85010db8/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/fadeaway_world_951/5f567dd2468137ea60cc225892b5f09e.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T22:23:33Z",
+      "first_seen": "2026-10-17T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ohio-state",
-      "rank": 3,
+      "rank": 9,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -106,12 +312,16 @@
         {
           "t": "2026-10-17T21:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 9
         }
       ],
-      "rank_change": 0,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Ohio State",
-      "description": "Ohio State secured a narrow 19-15 road win against Indiana, though concerns arose after star quarterback Julian Sayin suffered an injury.",
+      "description": "Ohio State is trending following a hard-fought road victory against Indiana and amidst news that star quarterback Julian Sayin will miss several weeks with an injury.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ohio%20State",
       "image_url": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/09/26/SOSU/91961355007-20260926-t-182356-z-681062635-mt-1-usatoday-29922335-rtrmadp-3-ohiostatebuckeyesoffensivelinemanianmoore-69-and.JPG?crop=3940,2216,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
@@ -119,16 +329,49 @@
       "started_trending": "2026-10-17T17:23:31Z",
       "first_seen": "2026-10-17T17:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "michigan",
+      "rank": 10,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-17T21:23:31Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Michigan",
+      "description": "Michigan is trending following their game against Penn State, which featured the benching of starting quarterback Bryce Underwood at halftime.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Michigan",
+      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_125,w_3600,h_2025/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/wolverine_digest/01m1xvhqc64d6bd2p83w.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T21:23:31Z",
+      "first_seen": "2026-10-17T21:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "sayin",
-      "rank": 4,
+      "rank": 11,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -139,12 +382,16 @@
         {
           "t": "2026-10-17T21:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 11
         }
       ],
-      "rank_change": 0,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Sayin",
-      "description": "Ohio State quarterback Julian Sayin is expected to miss several weeks after suffering a shoulder injury during the win against Indiana.",
+      "description": "Ohio State quarterback Julian Sayin is trending after suffering a shoulder injury against Indiana that will sideline him for several weeks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Sayin",
       "image_url": "https://cdn.theathletic.com/app/uploads/2024/01/19085554/SayinJulianMN-scaled.jpg",
@@ -152,48 +399,7 @@
       "started_trending": "2026-10-17T20:23:31Z",
       "first_seen": "2026-10-17T20:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "macron",
-      "rank": 5,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-17T18:23:35Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-17T19:23:37Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-17T20:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 8,
-      "is_new": false,
-      "topic": "Macron",
-      "description": "Massive protests erupted across France as hundreds of thousands took to the streets, prompting President Emmanuel Macron to condemn the resulting violence and looting.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Macron",
-      "image_url": "https://cdnph.upi.com/svc/sv/upi_com/2581783422061/2026/1/c2e376dfe932ef9eae449bed472dacda/Emmanuel-Macron-unscathed-after-bomb-blasts-during-visit-to-Syria.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T18:23:35Z",
-      "first_seen": "2026-10-17T18:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
+      "last_seen": "2026-10-17T22:23:33Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -201,8 +407,223 @@
       "extra": {}
     },
     {
+      "id": "gabby",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Gabby",
+      "description": "Gabby Williams is trending after scoring 26 points and leading the Golden State Valkyries to a Game 1 comeback victory over the Atlanta Dream in the WNBA Finals.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Gabby",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/26e15a13e139a8112a9bf250118bf91f7834098f40dbb597c429227f09e2e615/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gabby-williams_4408.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T22:23:33Z",
+      "first_seen": "2026-10-17T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "paris",
+      "rank": 13,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-17T21:23:31Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Paris",
+      "description": "Paris is trending as student movements turn national, bringing tear gas, clashes with police, scuffles, and fires during widespread protests across France.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Paris",
+      "image_url": "https://balleralert.com/wp-content/uploads/2026/10/Paris-Protests.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T21:23:31Z",
+      "first_seen": "2026-10-17T21:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-french",
+      "rank": 14,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-17T21:23:31Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "The French",
+      "description": "The French public is trending as mass protests, student walkouts, and fiery clashes with police over reforms spiral into some of the worst unrest in years across France.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20French",
+      "image_url": "https://moderndiplomacy.eu/wp-content/uploads/2026/10/France-protests-696x464.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T21:23:31Z",
+      "first_seen": "2026-10-17T21:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wnbafinals",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#WNBAfinals",
+      "description": "The WNBA Finals are trending as the Golden State Valkyries and Atlanta Dream face off in Game 1 at San Francisco's Chase Center.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WNBAfinals",
+      "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/10/wnba-finals-how-to-watch.jpg?w=1600&h=900&crop=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T22:23:33Z",
+      "first_seen": "2026-10-17T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tennessee",
+      "rank": 16,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-17T21:23:31Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Tennessee",
+      "description": "Tennessee is trending amid anticipation for the college football rivalry matchup between Tennessee and Alabama in Knoxville, alongside voter turnout events.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tennessee",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/0e4ceb523fc8eb168490d1c1f7cf5bbfb6d2979320ed932aee064172f9676b42/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/sb_nation_articles_115/b22838f358faf4fe216c06b268634a9d.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T21:23:31Z",
+      "first_seen": "2026-10-17T21:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gunner",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Gunner",
+      "description": "Gunner Stockton is trending after returning to action for Georgia following a departure on the team's first drive in their matchup against Auburn.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Gunner",
+      "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAwNzE1Njc1/georgia-bulldogs-quarterback-gunner-stockton-14.jpg?profile=w2560&ar=16-9",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T22:23:33Z",
+      "first_seen": "2026-10-17T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rocco-becht",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Rocco Becht",
+      "description": "Rocco Becht is trending following game action and highlights involving an interception that set up a Michigan touchdown.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rocco%20Becht",
+      "image_url": "https://cyclonefanatic.com/wp-content/uploads/2023/09/USATSI_21381689-scaled.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T22:23:33Z",
+      "first_seen": "2026-10-17T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "hoover",
-      "rank": 6,
+      "rank": 19,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -225,12 +646,16 @@
         {
           "t": "2026-10-17T21:23:31Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 19
         }
       ],
-      "rank_change": -2,
+      "rank_change": -15,
       "is_new": false,
       "topic": "Hoover",
-      "description": "The material does not provide a clear description for this topic.",
+      "description": "Josh Hoover is trending following an arm injury and medical update during Indiana's game against Ohio State.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hoover",
       "image_url": "https://m.media-amazon.com/images/I/61VIb0yhesL._AC_SX679_.jpg",
@@ -238,156 +663,16 @@
       "started_trending": "2026-10-17T17:23:31Z",
       "first_seen": "2026-10-17T17:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "marsh",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Marsh",
-      "description": "Indiana wide receiver Nick Marsh saw his potential game-winning touchdown ruled out of bounds, sealing a narrow loss to Ohio State.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Marsh",
-      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2026/10/Nick-Marsh-IU.jpg?w=1200",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gators",
-      "rank": 8,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-17T18:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-17T19:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-17T20:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Gators",
-      "description": "The Florida Gators pulled off a major upset against the Texas Longhorns, winning 27-24 on the road.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gators",
-      "image_url": "http://www.ocalapost.com/wp-content/uploads/2014/08/FloridaGators2.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T18:23:35Z",
-      "first_seen": "2026-10-17T18:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "texas",
-      "rank": 9,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-17T20:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Texas",
-      "description": "Texas fell into panic mode after suffering a 27-24 upset loss to Florida, leading head coach Steve Sarkisian to state the team will evaluate everything.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Texas",
-      "image_url": "https://www.pixelstalk.net/wp-content/uploads/2016/07/Texas-Longhorns-Football-HD-Photo.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T20:23:31Z",
-      "first_seen": "2026-10-17T20:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jeremiah-smith",
-      "rank": 10,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-17T19:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-17T20:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Jeremiah Smith",
-      "description": "Jeremiah Smith made Big Ten history with a highlight-reel touchdown during Ohio State's hard-fought victory over Indiana.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jeremiah%20Smith",
-      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2026/10/Jeremiah-Smith-vs-Iowa.jpg?w=1200",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T19:23:37Z",
-      "first_seen": "2026-10-17T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "fahey",
-      "rank": 11,
+      "rank": 20,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -398,12 +683,16 @@
         {
           "t": "2026-10-17T21:23:31Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 20
         }
       ],
-      "rank_change": -1,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Fahey",
-      "description": "Backup quarterback Luke Fahey stepped into the spotlight for Ohio State after starter Julian Sayin went down with a multi-week injury against Indiana.",
+      "description": "Luke Fahey is trending as Ohio State's backup quarterback entering the national spotlight following an injury to starter Julian Sayin.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Fahey",
       "image_url": "https://cdn.theathletic.com/app/uploads/2024/01/19085554/SayinJulianMN-scaled.jpg",
@@ -411,287 +700,10 @@
       "started_trending": "2026-10-17T20:23:31Z",
       "first_seen": "2026-10-17T20:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "auburn",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Auburn",
-      "description": "Auburn is trending as they prepare to face No. 1 Georgia in a highly anticipated SEC football matchup.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Auburn",
-      "image_url": "https://atozsports.com/wp-content/uploads/2026/10/featured-score-predictions-georgia-vs-auburn-bottom-16x9-1.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bryce-underwood",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bryce Underwood",
-      "description": "Michigan quarterback Bryce Underwood faces a golden opportunity to silence critics and quiet growing benching calls in a season-defining game against Penn State.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bryce%20Underwood",
-      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/08/michigan-quarterback-bryce-underwood-throws-109801548.jpg?resize=720",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "paris",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Paris",
-      "description": "Protests and student demonstrations in Paris turned tense as scuffles, fires, tear gas, and clashes with security forces broke out across the city.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Paris",
-      "image_url": "https://balleralert.com/wp-content/uploads/2026/10/Paris-Protests.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "buckeyes",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Buckeyes",
-      "description": "The Ohio State Buckeyes are generating buzz online as fans tune into live coverage of their conference matchup against Indiana.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Buckeyes",
-      "image_url": "https://www.dispatch.com/gcdn/authoring/authoring-images/2024/11/23/NCOD/76525364007-osu-24-iu-ac-018.JPG?crop=2997,1686,x0,y154&width=2997&height=1686&format=pjpg&auto=webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tennessee",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tennessee",
-      "description": "Tennessee is trending as the Crimson Tide and the Volunteers prepare to face off in a high-profile rivalry matchup in Knoxville.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tennessee",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/0e4ceb523fc8eb168490d1c1f7cf5bbfb6d2979320ed932aee064172f9676b42/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/sb_nation_articles_115/b22838f358faf4fe216c06b268634a9d.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-french",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "The French",
-      "description": "The French nationwide protests drew hundreds of thousands into the streets, resulting in widespread clashes with police, arrests, fires, and tear gas.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20French",
-      "image_url": "https://moderndiplomacy.eu/wp-content/uploads/2026/10/France-protests-696x464.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gabby-williams",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Gabby Williams",
-      "description": "Gabby Williams is trending on social media after turning an expansion team into a phenomenon and speaking out about WNBA media treatment.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gabby%20Williams",
-      "image_url": "https://people.com/thmb/knQe_uCan4FDzu3fnNI47DZr2oQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(753x245:755x247)/Gabby-Williams-seattlestorm-082124-tout-1e8a5ec4d53f46fb91581f4eaa380833.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ryan-day",
-      "rank": 19,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-17T17:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-17T18:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-17T19:23:37Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-17T20:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Ryan Day",
-      "description": "Ohio State coach Ryan Day addressed the media to confirm that star quarterback Julian Sayin will likely miss several weeks due to an injury.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ryan%20Day",
-      "image_url": "https://image-cdn.essentiallysports.com/wp-content/uploads/Ryan-Day-9.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T17:23:31Z",
-      "first_seen": "2026-10-17T17:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "michigan",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Michigan",
-      "description": "Michigan prepares to host Penn State in a crucial game while social media reacts to Michigan State's brutal late-game collapse against Northwestern.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Michigan",
-      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_125,w_3600,h_2025/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/wolverine_digest/01m1xvhqc64d6bd2p83w.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T21:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-17T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     }
