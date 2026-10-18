@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-18T07:25:06Z",
+  "updated": "2026-10-18T08:25:01Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "nebraska",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Nebraska",
-      "description": "Nebraska football fans are discussing the team's close loss to the Oregon Ducks following a tight game.",
+      "description": "The Nebraska football team is trending following a close late loss against Oregon.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Nebraska",
       "image_url": "https://ilarge.lisimg.com/image/26280266/1118full-nebraska-cornhuskers-football.jpg",
@@ -29,7 +33,40 @@
       "started_trending": "2026-10-18T07:23:36Z",
       "first_seen": "2026-10-18T07:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rhule",
+      "rank": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-18T07:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Rhule",
+      "description": "Nebraska head coach Matt Rhule addressed the team's offense, injuries, and a devastating loss to Oregon during a press conference.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rhule",
+      "image_url": "https://hermes.media.static.aol.com/media/2026/10/10/7f4ebc6d-7c4d-3312-bd02-b082617ff5ae/85d593f4-31e0-456d-baa5-bfb16018440c.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T07:23:36Z",
+      "first_seen": "2026-10-18T07:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -38,7 +75,7 @@
     },
     {
       "id": "notre-dame",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -65,12 +102,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Notre Dame",
-      "description": "Notre Dame is trending after a controversial 28-24 loss to BYU, featuring a clock error and a referee mistake confirmed after the game.",
+      "description": "Notre Dame is trending after a 28-24 loss to BYU following a late rally and a clock controversy involving questionable non-calls on the final play.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Notre%20Dame",
       "image_url": "https://www.picclickimg.com/aUYAAeSwx8Zq0pod/Guinness-Beer-Notre-Dame-Football-Sign-Fighting-Irish.webp",
@@ -78,39 +119,10 @@
       "started_trending": "2026-10-18T01:23:31Z",
       "first_seen": "2026-10-18T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rhule",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-18T07:23:36Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rhule",
-      "description": "Head coach Matt Rhule and the Huskers are trending following their late-night football matchup against the Oregon Ducks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rhule",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-18T07:23:36Z",
-      "first_seen": "2026-10-18T07:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T08:23:32Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -127,12 +139,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 4
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Raiola",
-      "description": "Dylan Raiola is drawing attention after entering the game late to help lead the Ducks to a narrow win over Nebraska.",
+      "description": "Oregon turned to quarterback Dylan Raiola in the fourth quarter to help secure an improbable comeback win against Nebraska.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Raiola",
       "image_url": "https://thespun.com/.image/MzM6MDAwMDAwMDAwNTAzNTY4/oregon-quarterback-dylan-raiola-throws-a-pass-as-the-oregon-ducks-host-the-ucla-bruins-on-oct-10-2026-at-autzen-stadium-in.jpg?profile=w2560&x=50&y=50",
@@ -140,7 +156,7 @@
       "started_trending": "2026-10-18T06:23:36Z",
       "first_seen": "2026-10-18T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -176,12 +192,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 5
         }
       ],
       "rank_change": -3,
       "is_new": false,
       "topic": "Miami",
-      "description": "The Miami Hurricanes are trending after surviving two Hail Marys to defeat Florida State 43-35 in a thrilling double-overtime game.",
+      "description": "Miami is trending after surviving two Hail Marys to defeat Florida State 43-35 in a dramatic double-overtime thriller.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Miami",
       "image_url": "https://c8.alamy.com/comp/2R7BJ58/june-10-2023-inter-miami-cf-starters-pose-for-a-team-photo-during-before-a-match-against-the-new-england-revolution-in-foxborough-massachusetts-eric-canhacsm-2R7BJ58.jpg",
@@ -189,7 +209,7 @@
       "started_trending": "2026-10-18T02:23:34Z",
       "first_seen": "2026-10-18T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -213,12 +233,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 6
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Utah",
-      "description": "The University of Utah is trending following their tight 27-24 victory over Colorado and ongoing midterm election coverage.",
+      "description": "No. 11 Utah secured a road victory against Colorado, while maintaining their undefeated status after holding off a late rally.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Utah",
       "image_url": "https://i.pinimg.com/originals/41/b3/c5/41b3c5891d3a289d21fe3b7275861ecb.jpg",
@@ -226,7 +250,7 @@
       "started_trending": "2026-10-18T05:23:33Z",
       "first_seen": "2026-10-18T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -246,12 +270,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 7
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Dan Lanning",
-      "description": "Oregon coach Dan Lanning is facing discussion online following his controversial starting quarterback decision before the Nebraska game.",
+      "description": "Oregon head coach Dan Lanning celebrated with quarterback Dylan Raiola following the team's dramatic come-from-behind victory against Nebraska.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dan%20Lanning",
       "image_url": "https://s.yimg.com/ny/api/res/1.2/diGfCitHHGF8ZGRtorqM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MjtjZj13ZWJw/https://media.zenfs.com/en/ducks_wire_usa_today_articles_200/3f2402c11b3b5936fc5f0a1004801271",
@@ -259,7 +287,7 @@
       "started_trending": "2026-10-18T06:23:36Z",
       "first_seen": "2026-10-18T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -279,12 +307,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 8
         }
       ],
       "rank_change": 9,
       "is_new": false,
       "topic": "#Huskers",
-      "description": "Huskers fans are reacting online after Nebraska suffered a heartbreaking defeat to Oregon in the final seconds of the game.",
+      "description": "Fans and commentators shared reactions online as Nebraska suffered a late defeat on the road against Oregon.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Huskers",
       "image_url": "https://content.sportslogos.net/logos/33/766/full/nebraska_cornhuskers_logo_primary_dark_19935651.png",
@@ -292,7 +324,7 @@
       "started_trending": "2026-10-18T06:23:36Z",
       "first_seen": "2026-10-18T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -300,8 +332,41 @@
       "extra": {}
     },
     {
-      "id": "aewwrestledream",
+      "id": "goducks",
       "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-18T07:23:36Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "#GoDucks",
+      "description": "Oregon athletic supporters are following the Ducks' latest matchups, including a home weekend finale against Rutgers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23GoDucks",
+      "image_url": "https://www.oregonlive.com/resizer/v2/6IA6SXPBIZF3BBPOKGP4QSSBFA.jpg?auth=79ae2773c49b72c4a2db78fc94f009348940e2fc5ee5d96c2717a63a41051134&width=1280&quality=90",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T07:23:36Z",
+      "first_seen": "2026-10-18T07:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-18T08:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aewwrestledream",
+      "rank": 10,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -328,12 +393,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": -6,
+      "rank_change": -7,
       "is_new": false,
       "topic": "#AEWWrestleDream",
-      "description": "Fans are talking about AEW WrestleDream 2026 following major moments, including Ilja Dragunov's surprise debut and Jon Moxley retaining his title.",
+      "description": "Wrestling fans are buzzing online after Ilja Dragunov made a surprise debut with All Elite Wrestling at WrestleDream 2026.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23AEWWrestleDream",
       "image_url": "https://static0.thesportsterimages.com/wordpress/wp-content/uploads/2026/10/aew-wrestledream-thekla-adam-page.jpg?&fit=crop&w=1200&h=675",
@@ -341,39 +410,10 @@
       "started_trending": "2026-10-18T00:23:33Z",
       "first_seen": "2026-10-18T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 7,
       "volume": "7hr trend",
       "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "goducks",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-18T07:23:36Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#GoDucks",
-      "description": "Oregon fans are sharing excitement and updates on social media as the team hosts home weekend athletic events.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23GoDucks",
-      "image_url": "https://www.oregonlive.com/resizer/v2/6IA6SXPBIZF3BBPOKGP4QSSBFA.jpg?auth=79ae2773c49b72c4a2db78fc94f009348940e2fc5ee5d96c2717a63a41051134&width=1280&quality=90",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T07:23:36Z",
-      "first_seen": "2026-10-18T07:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -394,12 +434,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 11
         }
       ],
       "rank_change": -4,
       "is_new": false,
       "topic": "Brock Thomas",
-      "description": "Brock Thomas is trending after reportedly making his first career start at quarterback for Oregon against Nebraska.",
+      "description": "Oregon made headlines by reportedly benching regular starting quarterback Dylan Raiola in favor of Brock Thomas for the start against Nebraska.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Brock%20Thomas",
       "image_url": "https://www.oregonlive.com/resizer/v2/663Q3665SZF5ZGY2INKF2224QA.jpg?auth=8b6e098c9501752465a6b16967e81ff0f94b325e6459190729a0ffdb5c68dd5f&width=1280&smart=true&quality=90",
@@ -407,7 +451,7 @@
       "started_trending": "2026-10-18T05:23:33Z",
       "first_seen": "2026-10-18T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -427,12 +471,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 12
         }
       ],
       "rank_change": -4,
       "is_new": false,
       "topic": "Isaac Wilson",
-      "description": "Isaac Wilson is drawing attention after throwing a 68-yard touchdown during Utah's narrow 27-24 win over Colorado.",
+      "description": "Utah quarterback Isaac Wilson helped lead his team past Colorado with key touchdown passes, including a 68-yard score and a 2-yard pass to DeAndre Moore Jr.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Isaac%20Wilson",
       "image_url": "https://www.deseret.com/resizer/v2/BNXXJDETTJC3RAELOPFWXZOFAI.jpg?auth=369f8fe8f3943c648e16007da6de2c77d619631dc0b250c0b93684fdcf67a1a8&focal=0,0&width=1600&height=1066",
@@ -440,7 +488,7 @@
       "started_trending": "2026-10-18T06:23:36Z",
       "first_seen": "2026-10-18T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -448,172 +496,99 @@
       "extra": {}
     },
     {
-      "id": "florida-state",
+      "id": "the-french",
       "rank": 13,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
-          "t": "2026-10-18T03:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-18T04:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-18T05:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-18T06:23:36Z",
-          "r": 10
-        },
-        {
           "t": "2026-10-18T07:23:36Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
           "r": 13
         }
       ],
-      "rank_change": -9,
+      "rank_change": 5,
       "is_new": false,
-      "topic": "Florida State",
-      "description": "Florida State is trending following a heartbreaking double-overtime loss to rival Miami after a controversial finish.",
+      "topic": "The French",
+      "description": "France is trending as widespread social unrest, student protests, and cost-of-living demonstrations lead to looting and clashes in Paris and other cities.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Florida%20State",
-      "image_url": "https://a.espncdn.com/media/motion/2022/1126/evc__20221125_fla__fsu_ed29f69e_bb81_4ab1_acf2_acc29/evc__20221125_fla__fsu_ed29f69e_bb81_4ab1_acf2_acc29.jpg",
+      "url": "https://twstalker.com/search/The%20French",
+      "image_url": "https://wtop.com/wp-content/uploads/2026/10/APTOPIX_France_School_Protests_68717-scaled.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T03:23:35Z",
-      "first_seen": "2026-10-18T03:23:35Z",
+      "started_trending": "2026-10-18T07:23:36Z",
+      "first_seen": "2026-10-18T07:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-18T08:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mateer",
+      "id": "celine-dion",
       "rank": 14,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-18T03:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-18T04:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-18T05:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-18T06:23:36Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-18T07:23:36Z",
+          "t": "2026-10-18T08:23:32Z",
           "r": 14
         }
       ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Mateer",
-      "description": "Oklahoma quarterback John Mateer is facing criticism on social media following critical mistakes in a loss to Kentucky.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Celine Dion",
+      "description": "Celine Dion is making headlines for sharing a health update regarding stiff-person syndrome ahead of her upcoming shows following a record-breaking Paris run.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mateer",
-      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2026/10/John-Mateers-immediate-move-after-defeating-Texas.jpg?w=1200",
+      "url": "https://twstalker.com/search/Celine%20Dion",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c6jnZ.img?w=768&h=512&m=6&x=344&y=92&s=88&d=88",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T03:23:35Z",
-      "first_seen": "2026-10-18T03:23:35Z",
+      "started_trending": "2026-10-18T08:23:32Z",
+      "first_seen": "2026-10-18T08:23:32Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-18T08:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "colorado",
+      "id": "paris",
       "rank": 15,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-18T06:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-18T07:23:36Z",
+          "t": "2026-10-18T08:23:32Z",
           "r": 15
         }
       ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Colorado",
-      "description": "The Colorado football team is trending after nearly pulling off a shocking upset against No. 11 Utah before falling 27-24.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Paris",
+      "description": "Paris is trending as violent protests, looting, and widespread unrest result in hundreds of arrests and pose concerns for upcoming major sporting events.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Colorado",
-      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqbh3MLyNZvP6EpaB934Z9CTzKQ5dRWAEwtnjbNa4cgiEQ8Vrt8yUzstrgOiHvYim5JPdahpRQxHdwZ7_SO6EFSXe6xl9lbX3uBxDrhSOOzp8tlDdqe-7Cm3iHig7HVomFlSZchIZVq9nvFf1TFtJP3RkHV1FL7v9NDsaHJB_7FyJzDmbSGZYorXiT2c49/s720/Polish_20261007_023947486.png",
+      "url": "https://twstalker.com/search/Paris",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/vivo/live/images/2023/3/28/25c35861-9ce7-499a-aebd-bf05f30626bd.jpg.webp",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T06:23:36Z",
-      "first_seen": "2026-10-18T06:23:36Z",
+      "started_trending": "2026-10-18T08:23:32Z",
+      "first_seen": "2026-10-18T08:23:32Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "big-12",
-      "rank": 16,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-10-18T04:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-18T05:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-18T06:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-18T07:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Big 12",
-      "description": "The Big 12 is making headlines after admitting to a late-game clock error during the Notre Dame and BYU matchup.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Big%2012",
-      "image_url": "https://i.pinimg.com/originals/23/cc/18/23cc18879b9e1778c15eac9d839ba79b.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T04:23:36Z",
-      "first_seen": "2026-10-18T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-18T08:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "macron",
-      "rank": 17,
+      "rank": 16,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -640,12 +615,16 @@
         {
           "t": "2026-10-18T07:23:36Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": -6,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Macron",
-      "description": "French President Emmanuel Macron is drawing widespread attention after vowing to punish violent rioters amid major protests and unrest in France.",
+      "description": "French President Emmanuel Macron vowed that violent rioters will be prosecuted and punished as buildings burn amid severe nationwide protests and unrest.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Macron",
       "image_url": "https://cdnph.upi.com/svc/sv/upi_com/2581783422061/2026/1/c2e376dfe932ef9eae449bed472dacda/Emmanuel-Macron-unscathed-after-bomb-blasts-during-visit-to-Syria.jpg",
@@ -653,7 +632,7 @@
       "started_trending": "2026-10-17T18:23:35Z",
       "first_seen": "2026-10-17T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 13,
       "volume": "13hr trend",
       "volume_value": 13,
@@ -661,28 +640,77 @@
       "extra": {}
     },
     {
-      "id": "the-french",
+      "id": "florida-state",
+      "rank": 17,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-18T03:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-18T04:23:36Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-18T05:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-18T06:23:36Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-18T07:23:36Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -13,
+      "is_new": false,
+      "topic": "Florida State",
+      "description": "Florida State suffered a heartbreaking double-overtime loss to No. 3 Miami after a controversial finish and a failed upset bid.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Florida%20State",
+      "image_url": "https://a.espncdn.com/media/motion/2022/1126/evc__20221125_fla__fsu_ed29f69e_bb81_4ab1_acf2_acc29/evc__20221125_fla__fsu_ed29f69e_bb81_4ab1_acf2_acc29.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T03:23:35Z",
+      "first_seen": "2026-10-18T03:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-18T08:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tommy",
       "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-18T07:23:36Z",
+          "t": "2026-10-18T08:23:32Z",
           "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "The French",
-      "description": "France is trending as student-led demonstrations turn national, resulting in violent protests, looting, and unrest across the country.",
+      "topic": "Tommy",
+      "description": "Michigan benched starting quarterback Bryce Underwood in favor of Tommy Carr during their win over Penn State.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20French",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-18T07:23:36Z",
-      "first_seen": "2026-10-18T07:23:36Z",
+      "url": "https://twstalker.com/search/Tommy",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cAswy.img?w=768&h=559&m=6",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T08:23:32Z",
+      "first_seen": "2026-10-18T08:23:32Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
+      "last_seen": "2026-10-18T08:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -690,68 +718,88 @@
       "extra": {}
     },
     {
-      "id": "utes",
+      "id": "colorado",
       "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
+          "t": "2026-10-18T06:23:36Z",
+          "r": 12
+        },
+        {
           "t": "2026-10-18T07:23:36Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
           "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Utes",
-      "description": "The Utah Utes are trending after surviving a late Hail Mary attempt to secure a close victory over Colorado.",
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Colorado",
+      "description": "The Colorado football team nearly pulled off a shocking upset against No. 11 Utah before falling short in a hard-fought contest.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Utes",
-      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/utahddm/_71ac2312-8f35-4ba5-b182-29d03dc4fef0.31b2c49813.jpg",
+      "url": "https://twstalker.com/search/Colorado",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqbh3MLyNZvP6EpaB934Z9CTzKQ5dRWAEwtnjbNa4cgiEQ8Vrt8yUzstrgOiHvYim5JPdahpRQxHdwZ7_SO6EFSXe6xl9lbX3uBxDrhSOOzp8tlDdqe-7Cm3iHig7HVomFlSZchIZVq9nvFf1TFtJP3RkHV1FL7v9NDsaHJB_7FyJzDmbSGZYorXiT2c49/s720/Polish_20261007_023947486.png",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T07:23:36Z",
-      "first_seen": "2026-10-18T07:23:36Z",
+      "started_trending": "2026-10-18T06:23:36Z",
+      "first_seen": "2026-10-18T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T08:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "stein",
+      "id": "mateer",
       "rank": 20,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
+          "t": "2026-10-18T03:23:35Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-18T04:23:36Z",
+          "r": 5
+        },
+        {
           "t": "2026-10-18T05:23:33Z",
-          "r": 10
+          "r": 5
         },
         {
           "t": "2026-10-18T06:23:36Z",
-          "r": 14
+          "r": 11
         },
         {
           "t": "2026-10-18T07:23:36Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -10,
+      "rank_change": -15,
       "is_new": false,
-      "topic": "Stein",
-      "description": "Governor Josh Stein is making news after announcing he will not oppose North Carolina's largest healthcare system merger.",
+      "topic": "Mateer",
+      "description": "Oklahoma quarterback John Mateer is facing intense scrutiny and calls to be benched following critical mistakes in a loss to Kentucky.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Stein",
-      "image_url": "https://npr.brightspotcdn.com/dims4/default/29c2917/2147483647/strip/true/crop/3136x2352+0+0/resize/1760x1320!/quality/90/?url=http://npr-brightspot.s3.amazonaws.com/e6/33/1aea637b451d9c9a35373818e2dd/josh-stein-charlotte0327.jpg",
+      "url": "https://twstalker.com/search/Mateer",
+      "image_url": "https://wp.clutchpoints.com/wp-content/uploads/2026/10/John-Mateers-immediate-move-after-defeating-Texas.jpg?w=1200",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T05:23:33Z",
-      "first_seen": "2026-10-18T05:23:33Z",
+      "started_trending": "2026-10-18T03:23:35Z",
+      "first_seen": "2026-10-18T03:23:35Z",
       "published": null,
-      "last_seen": "2026-10-18T07:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-18T08:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     }
