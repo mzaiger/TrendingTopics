@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-18T17:25:30Z",
+  "updated": "2026-10-18T18:25:50Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-10-18T17:23:30Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 5,
       "is_new": false,
       "topic": "Travis Hunter",
-      "description": "Jacksonville Jaguars wide receiver Travis Hunter is trending after recording both an interception and a receiving touchdown in the same game, alongside mixed offensive and defensive performances.",
+      "description": "Jacksonville Jaguars wide receiver Travis Hunter made NFL history with a two-way performance against the Texans, recording both an interception and a receiving touchdown.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Travis%20Hunter",
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/09/1200/675/5b3faeb6-travis-hunter.jpg?ve=1&tl=1",
@@ -37,16 +41,45 @@
       "started_trending": "2026-10-18T15:23:31Z",
       "first_seen": "2026-10-18T15:23:31Z",
       "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "steelers",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Steelers",
+      "description": "The Pittsburgh Steelers are preparing for their Week 6 game against the Buccaneers as safety concerns and civil unrest continue to surround their upcoming game in Paris against the Saints.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Steelers",
+      "image_url": "https://i.ebayimg.com/images/g/EGoAAeSw1Hlq0~7p/s-l1600.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "texans",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -65,12 +98,16 @@
         {
           "t": "2026-10-18T17:23:30Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": 7,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Texans",
-      "description": "The Houston Texans are trending following their Week 6 matchup against the Jacksonville Jaguars in London, which featured notable plays and an unusual injury to an umpire.",
+      "description": "The Houston Texans defeated the Jacksonville Jaguars 34-31 in London after kicking a last-second field goal.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Texans",
       "image_url": "https://www.beecreekphoto.com/images/xl/houston-skyline-from-above-DSC06017.jpg",
@@ -78,28 +115,32 @@
       "started_trending": "2026-10-18T14:23:33Z",
       "first_seen": "2026-10-18T14:23:33Z",
       "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jags",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-18T17:23:30Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Jags",
-      "description": "The Jacksonville Jags are trending due to their Week 6 NFL matchup against the Houston Texans in London, featuring key plays from Trevor Lawrence and Jawhar Jordan.",
+      "description": "Fans are following live updates and streaming options as the Jacksonville Jaguars face the Houston Texans in a tight matchup in London.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jags",
       "image_url": "https://cdn.tmspn.com/wp-content/uploads/2026/10/Trevor-Lawrence-Philadelphia-Eagles-v-Jacksonville-Jaguars-2026-101626-e575aa6b1361498b9d071f7b8b41d9d2.webp",
@@ -107,28 +148,32 @@
       "started_trending": "2026-10-18T17:23:30Z",
       "first_seen": "2026-10-18T17:23:30Z",
       "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "cam-little",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 5,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-10-18T17:23:30Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Cam Little",
-      "description": "Cam Little is trending after kicking a 60-yard field goal during the NFL's final London game of 2026, where the Jacksonville Jaguars ultimately lost 34-31 to the Houston Texans.",
+      "description": "Jacksonville Jaguars kicker Cam Little tied the game against the Texans with a late 60-yard field goal during their game in London.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cam%20Little",
       "image_url": "",
@@ -136,7 +181,127 @@
       "started_trending": "2026-10-18T17:23:30Z",
       "first_seen": "2026-10-18T17:23:30Z",
       "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "caleb-williams",
+      "rank": 6,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-18T17:23:30Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Caleb Williams",
+      "description": "Chicago Bears quarterback Caleb Williams is officially active and returning to the field for Sunday's game against the Atlanta Falcons.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Caleb%20Williams",
+      "image_url": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-2296284187-e1792094045628.jpg?quality=35&strip=all&w=1350",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T17:23:30Z",
+      "first_seen": "2026-10-18T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "goku",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Goku",
+      "description": "Dragon Ball voice actress Masako Nozawa is reportedly furious over AI videos cloning her voice, while fans online discuss Goku appearing in unusual crossover settings in Paris.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Goku",
+      "image_url": "https://www.pngmart.com/files/3/Dragon-Ball-Goku-PNG-Free-Download.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "boswell",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Boswell",
+      "description": "Fantasy football players are evaluating kicker rankings and stream options for Week 6 matchups.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Boswell",
+      "image_url": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-09/USATSI_24188974.jpg?itok=_hXjG7um",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dabears",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#DaBears",
+      "description": "NFL fans are checking Sunday TV maps and broadcast schedules for Week 6 games involving the Chicago Bears.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23DaBears",
+      "image_url": "https://atozsports.com/wp-content/uploads/2026/10/2026-10-04T195255Z_958027051_MT1USATODAY29998588_RTRMADP_3_NFL-NEW-YORK-JETS-AT-CHICAGO-BEARS-2048x1365.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -145,7 +310,7 @@
     },
     {
       "id": "cj-stroud",
-      "rank": 5,
+      "rank": 10,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -160,12 +325,16 @@
         {
           "t": "2026-10-18T17:23:30Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": -4,
+      "rank_change": -9,
       "is_new": false,
       "topic": "CJ Stroud",
-      "description": "Houston Texans quarterback C.J. Stroud is trending after throwing three touchdown passes and outdueling Trevor Lawrence to secure a win over the Jaguars.",
+      "description": "Houston Texans quarterback C.J. Stroud led his team to a thrilling last-second victory over the Jacksonville Jaguars in London, tossing three touchdowns in the divisional win.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/CJ%20Stroud",
       "image_url": "https://media.khou.com/assets/KHOU/images/cc803614-1f1d-49f0-b316-8ab4c84c2db6/cc803614-1f1d-49f0-b316-8ab4c84c2db6_1920x1080.jpg",
@@ -173,16 +342,45 @@
       "started_trending": "2026-10-18T15:23:31Z",
       "first_seen": "2026-10-18T15:23:31Z",
       "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mike-hughes",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mike Hughes",
+      "description": "Football fans are keeping an eye on key players and matchups as the Chicago Bears face the Atlanta Falcons.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mike%20Hughes",
+      "image_url": "http://cpcprojectservices.com/wp-content/uploads/2023/10/Mike-Hughes1-967x1024.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jaguars",
-      "rank": 6,
+      "rank": 12,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -197,12 +395,16 @@
         {
           "t": "2026-10-18T17:23:30Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 12
         }
       ],
-      "rank_change": 5,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Jaguars",
-      "description": "The Jacksonville Jaguars are trending following their Week 6 game against the Houston Texans in London, which included notable plays by Travis Hunter and a game stoppage due to an umpire's injury.",
+      "description": "The Jacksonville Jaguars fell short in a 34-31 loss to the Houston Texans following a last-second field goal at Wembley Stadium in London.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jaguars",
       "image_url": "https://fanatics.frgimages.com/jacksonville-jaguars/pegasus-jacksonville-jaguars-60-x-80-team-color-hoodie-bloncho_ss5_p-202371757+pv-2+u-jxjtvowosvgimvrtrhfb+v-wtvgnalvt0bzpcf36lo8.jpg?_hv=2&w=1018",
@@ -210,28 +412,90 @@
       "started_trending": "2026-10-18T15:23:31Z",
       "first_seen": "2026-10-18T15:23:31Z",
       "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "frank-reich",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Frank Reich",
+      "description": "Social media users are discussing various NFL updates and team storylines, including player injuries and roster changes around the league.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Frank%20Reich",
+      "image_url": "https://static01.nyt.com/athletic/uploads/wp/2026/02/19162147/GettyImages-360953-scaled-e1771536136834.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "herewego",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#HereWeGo",
+      "description": "Pittsburgh Steelers fans are sharing updates and defensive keys to victory ahead of their Week 6 matchup against the Tampa Bay Buccaneers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23HereWeGo",
+      "image_url": "https://twsn.net/.image/NjU6MDAwMDAwMDAwMTI3NjA4/nfl-indianapolis-colts-at-pittsburgh-steelers.jpg?profile=w1536&ar=16-9",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "colston-loveland",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 15,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-18T17:23:30Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -8,
+      "is_new": false,
       "topic": "Colston Loveland",
-      "description": "Colston Loveland is trending on social media as a subject of fantasy football start-and-sit discussions and Week 6 tight end rankings.",
+      "description": "Chicago Bears tight end Colston Loveland caught a 14-yard touchdown pass from Caleb Williams on the opening drive against the Atlanta Falcons.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Colston%20Loveland",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Colston_Loveland_2024.jpg/1200px-Colston_Loveland_2024.jpg",
@@ -239,7 +503,94 @@
       "started_trending": "2026-10-18T17:23:30Z",
       "first_seen": "2026-10-18T17:23:30Z",
       "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "deathbattle",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#DEATHBATTLE",
+      "description": "Fans online are discussing a fan-made Death Battle video featuring Luke Skywalker versus Saber from Star Wars and Fate.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23DEATHBATTLE",
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/661465dc-bb42-47e8-bd3e-506e5f9e3cb9/dfl1aoe-1a517d73-a775-4c8e-a940-07bb82896757.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY2MTQ2NWRjLWJiNDItNDdlOC1iZDNlLTUwNmU1ZjllM2NiOVwvZGZsMWFvZS0xYTUxN2Q3My1hNzc1LTRjOGUtYTk0MC0wN2JiODI4OTY3NTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6LVDjbwNM5MzkTSLpNBzYcBGuIyeTQadks0dwsxCt6g",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jets",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#Jets",
+      "description": "The New York Jets released their inactive player list ahead of their Week 6 road matchup against the New England Patriots.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23Jets",
+      "image_url": "https://1000logos.net/wp-content/uploads/2017/03/New-York-Jets-Logo-2019.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aj-brown",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "AJ Brown",
+      "description": "Wide receiver A.J. Brown has been officially activated from injured reserve by the Patriots and is expected to play a significant number of snaps against the Jets after missing four games.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/AJ%20Brown",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2e5xwT.img?w=768&h=512&m=6",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T18:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -248,18 +599,10 @@
     },
     {
       "id": "tommy",
-      "rank": 8,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "rank": 19,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
-        {
-          "t": "2026-10-18T11:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-18T12:23:31Z",
-          "r": 2
-        },
         {
           "t": "2026-10-18T13:23:33Z",
           "r": 6
@@ -279,12 +622,16 @@
         {
           "t": "2026-10-18T17:23:30Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-18T18:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": -6,
+      "rank_change": -13,
       "is_new": false,
       "topic": "Tommy",
-      "description": "Tommy Carr is trending after comments revealed how Michigan informed him he was stepping in to replace Bryce Underwood at quarterback.",
+      "description": "Tommy Carr has earned the Michigan football quarterback job, stepping in as the team weighs a major decision regarding Bryce Underwood.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tommy",
       "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cAswy.img?w=768&h=559&m=6",
@@ -292,439 +639,36 @@
       "started_trending": "2026-10-18T08:23:32Z",
       "first_seen": "2026-10-18T08:23:32Z",
       "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-18T18:23:32Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "go-birds",
-      "rank": 9,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-18T15:23:31Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-18T16:23:37Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Go Birds",
-      "description": "Fans on social media are discussing the Philadelphia Eagles ahead of their Week 6 game against the Panthers amidst local team support.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Go%20Birds",
-      "image_url": "https://brobible.com/wp-content/uploads/2024/09/philadelphia-eagles-fans-cheering-in-the-stands.jpg?resize=768",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T15:23:31Z",
-      "first_seen": "2026-10-18T15:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "parker-washington",
-      "rank": 10,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-18T15:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-18T16:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Parker Washington",
-      "description": "Parker Washington is trending after forcing multiple missed tackles during a 19-yard gain for the Jacksonville Jaguars in their London game against the Texans.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Parker%20Washington",
-      "image_url": "https://c8.alamy.com/comp/3CNRRK0/jacksonville-jaguars-wide-receiver-parker-washington-11-in-action-during-an-nfl-football-game-against-the-houston-texans-sunday-sept-21-2025-in-jacksonville-fla-the-jaguars-defeated-the-texans-17-10-ap-photogary-mccullough-3CNRRK0.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T15:23:31Z",
-      "first_seen": "2026-10-18T15:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "caleb-williams",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Caleb Williams",
-      "description": "Chicago Bears quarterback Caleb Williams is trending on social media as he is officially active and expected to return for Sunday's game against the Atlanta Falcons.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Caleb%20Williams",
-      "image_url": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-2296284187-e1792094045628.jpg?quality=35&strip=all&w=1350",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T17:23:30Z",
-      "first_seen": "2026-10-18T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "houvsjax",
-      "rank": 12,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-18T14:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-18T15:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-18T16:23:37Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#HOUvsJAX",
-      "description": "Social media users are following the hashtag #HOUvsJAX around the Week 6 NFL matchup between the Houston Texans and Jacksonville Jaguars in London.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23HOUvsJAX",
-      "image_url": "https://www.beecreekphoto.com/images/xl/houston-skyline-from-above-DSC06017.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T14:23:33Z",
-      "first_seen": "2026-10-18T14:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nico-collins",
-      "rank": 13,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-18T16:23:37Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Nico Collins",
-      "description": "Nico Collins is trending after making crucial catches, including a 42-yard launch from C.J. Stroud, to help drive the Houston Texans' offense against the Jaguars.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nico%20Collins",
-      "image_url": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-10/USATSI_24357723.jpg?itok=CvlC4a_L",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T16:23:37Z",
-      "first_seen": "2026-10-18T16:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tuten",
-      "rank": 14,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-18T14:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-18T15:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-18T16:23:37Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Tuten",
-      "description": "Bhayshul Tuten is trending after displaying his speed and shrugging off multiple tackle attempts to score a 27-yard touchdown for the Jaguars against the Texans in London.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tuten",
-      "image_url": "https://www.jacksonville.com/gcdn/authoring/authoring-images/2025/06/05/NFTU/84051551007-jacksonvillejaguars-10-thota-20252026-season-99.jpg?crop=5999,3375,x0,y307&width=3200&height=1801&format=pjpg&auto=webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T14:23:33Z",
-      "first_seen": "2026-10-18T14:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "paris",
-      "rank": 15,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-18T12:23:31Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-18T13:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-18T14:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-18T15:23:31Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-18T16:23:37Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Paris",
-      "description": "Paris is trending on social media as student-led protests and civil unrest lead to widespread clashes, arrests, and police reports ahead of an NFL game near the city.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Paris",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/vivo/live/images/2023/3/28/25c35861-9ce7-499a-aebd-bf05f30626bd.jpg.webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T12:23:31Z",
-      "first_seen": "2026-10-18T12:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "duuuval",
-      "rank": 16,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-18T15:23:31Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-18T16:23:37Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "#DUUUVAL",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23DUUUVAL",
-      "image_url": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jaguars/fdftzvphhoapapduqkkh",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T15:23:31Z",
-      "first_seen": "2026-10-18T15:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "trevor-lawrence",
-      "rank": 17,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-18T14:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-18T15:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-18T16:23:37Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Trevor Lawrence",
-      "description": "Jacksonville Jaguars quarterback Trevor Lawrence is trending following his performance and a matchup against C.J. Stroud and the Houston Texans in London.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Trevor%20Lawrence",
-      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2024/11/USATSI_24602544.jpg?resize=300",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T14:23:33Z",
-      "first_seen": "2026-10-18T14:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "htownmade",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#HTownMade",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23HTownMade",
-      "image_url": "https://www.fubo.tv/news/wp-content/uploads/2026/10/Houston_Texans_at_Tennessee_Titans_-_Where_to_Watch_Stream_Info_TV_Channel_and_Live_Updates_October_11_2026-1024x576.webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T17:23:30Z",
-      "first_seen": "2026-10-18T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "liam-coen",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-18T17:23:30Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Liam Coen",
-      "description": "Liam Coen is trending as social media searches discuss his contract details and salary as the Jacksonville Jaguars head coach.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Liam%20Coen",
-      "image_url": "https://www.jacksonville.com/gcdn/authoring/authoring-images/2025/01/27/NFTU/77979483007-jki-012725-liam-coen-01.jpg?crop=5999,3375,x0,y307&width=3200&height=1801&format=pjpg&auto=webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T17:23:30Z",
-      "first_seen": "2026-10-18T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fairbairn",
+      "id": "braelon-allen",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-18T17:23:30Z",
+          "t": "2026-10-18T18:23:32Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Fairbairn",
-      "description": "Ka'imi Fairbairn is trending after kicking a clutch, game-winning 49-yard field goal as time expired to give the Houston Texans a 34-31 victory over the Jaguars in London.",
+      "topic": "Braelon Allen",
+      "description": "New York Jets running back Braelon Allen is trending after a powerful run where he bulldozed Kevin Byard to the ground during the game against the Patriots.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fairbairn",
-      "image_url": "https://images.daznservices.com/di/library/DAZN_News/e7/ee/kaimi-fairbairn-10172026-getty-ftr_13szaefl9c8xn1byzfkws29l7k.png?t=1402595665",
+      "url": "https://twstalker.com/search/Braelon%20Allen",
+      "image_url": "https://totalnews.com/wp-content/uploads/2026/10/braelon-allen-scores-decisive-touchdown-for-jets-during-standout-performance.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T17:23:30Z",
-      "first_seen": "2026-10-18T17:23:30Z",
+      "started_trending": "2026-10-18T18:23:32Z",
+      "first_seen": "2026-10-18T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-18T17:23:30Z",
+      "last_seen": "2026-10-18T18:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
