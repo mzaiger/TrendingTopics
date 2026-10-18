@@ -1,52 +1,15 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-18T09:24:58Z",
+  "updated": "2026-10-18T10:24:49Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "nebraska",
-      "rank": 1,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-18T07:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-18T08:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-18T09:23:31Z",
-          "r": 1
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Nebraska",
-      "description": "Nebraska football is trending after a heartbreaking 17-14 fourth-quarter loss to Oregon.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nebraska",
-      "image_url": "https://ilarge.lisimg.com/image/26280266/1118full-nebraska-cornhuskers-football.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T07:23:36Z",
-      "first_seen": "2026-10-18T07:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "rhule",
-      "rank": 2,
+      "rank": 1,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -61,12 +24,16 @@
         {
           "t": "2026-10-18T09:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 1
         }
       ],
-      "rank_change": 1,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Rhule",
-      "description": "Nebraska head coach Matt Rhule is trending following his postgame press conference addressing his team's tough loss to Oregon and multiple injuries.",
+      "description": "Nebraska football head coach Matt Rhule addressed his team's 17-14 loss to Oregon, discussing offensive struggles, multiple injuries, and sharing kind words for Dylan Raiola.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Rhule",
       "image_url": "https://hermes.media.static.aol.com/media/2026/10/10/7f4ebc6d-7c4d-3312-bd02-b082617ff5ae/85d593f4-31e0-456d-baa5-bfb16018440c.jpg",
@@ -74,16 +41,86 @@
       "started_trending": "2026-10-18T07:23:36Z",
       "first_seen": "2026-10-18T07:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nebraska",
+      "rank": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-18T07:23:36Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-18T09:23:31Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 2
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Nebraska",
+      "description": "Nebraska football suffered a 17-14 loss to Oregon after another fourth-quarter meltdown and an improbable comeback featuring a late turn to quarterback Dylan Raiola.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Nebraska",
+      "image_url": "https://ilarge.lisimg.com/image/26280266/1118full-nebraska-cornhuskers-football.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T07:23:36Z",
+      "first_seen": "2026-10-18T07:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-sunday",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Good Sunday",
+      "description": "Football fans are discussing the NFL Sunday Night Football matchup between the Dallas Cowboys and Green Bay Packers, alongside various Week 6 game bets.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Good%20Sunday",
+      "image_url": "https://i.pinimg.com/originals/8d/9e/8c/8d9e8cead20119c4b57931fcd185823c.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T10:23:33Z",
+      "first_seen": "2026-10-18T10:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "raiola",
-      "rank": 3,
+      "rank": 4,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -102,12 +139,16 @@
         {
           "t": "2026-10-18T09:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 4
         }
       ],
-      "rank_change": 3,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Raiola",
-      "description": "Dylan Raiola is trending after coming off the bench in the fourth quarter to lead Oregon to an improbable comeback win against Nebraska.",
+      "description": "Quarterback Dylan Raiola came off the bench in the fourth quarter to spark the Oregon Ducks to an improbable 17-14 comeback victory against Nebraska.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Raiola",
       "image_url": "https://thespun.com/.image/MzM6MDAwMDAwMDAwNTAzNTY4/oregon-quarterback-dylan-raiola-throws-a-pass-as-the-oregon-ducks-host-the-ucla-bruins-on-oct-10-2026-at-autzen-stadium-in.jpg?profile=w2560&x=50&y=50",
@@ -115,23 +156,52 @@
       "started_trending": "2026-10-18T06:23:36Z",
       "first_seen": "2026-10-18T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lingormbetweenusconcertd2",
+      "rank": 5,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-18T09:23:31Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "#LingOrmBetweenUsConcertD2",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23LingOrmBetweenUsConcertD2",
+      "image_url": "https://i.pinimg.com/736x/5e/ef/71/5eef71723127ed5b4ff42a37fc4f82cd.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T09:23:31Z",
+      "first_seen": "2026-10-18T09:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "notre-dame",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-18T03:23:35Z",
-          "r": 1
-        },
         {
           "t": "2026-10-18T04:23:36Z",
           "r": 1
@@ -155,12 +225,16 @@
         {
           "t": "2026-10-18T09:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 6
         }
       ],
-      "rank_change": -3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Notre Dame",
-      "description": "Notre Dame is trending after a controversial last-second 28-24 loss to BYU following a clock error and questionable non-calls.",
+      "description": "No. 8 BYU secured a 28-24 upset win over No. 2 Notre Dame amid clock controversy and questionable non-calls on the final play.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Notre%20Dame",
       "image_url": "https://www.picclickimg.com/aUYAAeSwx8Zq0pod/Guinness-Beer-Notre-Dame-Football-Sign-Fighting-Irish.webp",
@@ -168,52 +242,52 @@
       "started_trending": "2026-10-18T01:23:31Z",
       "first_seen": "2026-10-18T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "oregon",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "the-world-between-lingorm-d2",
+      "rank": 7,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-10-18T09:23:31Z",
-          "r": 5
+          "r": 8
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Oregon",
-      "description": "Oregon is trending after securing a dramatic 17-14 comeback victory over Nebraska.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Oregon",
-      "image_url": "https://duckswire.usatoday.com/gcdn/authoring/authoring-images/2026/10/02/SDUC/92051728007-20260930-t-000736-z-95978895-mt-1-usatoday-29953096-rtrmadp-3-oregoninsidelinebackersgavinnixrightandjerrymixon.JPG?crop=3892,2190,x0,y206&width=3200&height=1801&format=pjpg&auto=webp",
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "THE WORLD BETWEEN LINGORM D2",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/THE%20WORLD%20BETWEEN%20LINGORM%20D2",
+      "image_url": "https://de.web.img3.acsta.net/img/3c/a2/3ca218c7902a5be772a1d4eaa791a55d.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-18T09:23:31Z",
       "first_seen": "2026-10-18T09:23:31Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "miami",
-      "rank": 6,
+      "rank": 8,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-10-18T03:23:35Z",
-          "r": 2
-        },
         {
           "t": "2026-10-18T04:23:36Z",
           "r": 2
@@ -237,12 +311,16 @@
         {
           "t": "2026-10-18T09:23:31Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 8
         }
       ],
-      "rank_change": -4,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Miami",
-      "description": "Miami is trending after surviving two Hail Mary passes to defeat Florida State in a thrilling double-overtime game.",
+      "description": "No. 3 Miami defeated Florida State 43-35 in a double-overtime thriller after surviving two Hail Mary attempts.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Miami",
       "image_url": "https://c8.alamy.com/comp/2R7BJ58/june-10-2023-inter-miami-cf-starters-pose-for-a-team-photo-during-before-a-match-against-the-new-england-revolution-in-foxborough-massachusetts-eric-canhacsm-2R7BJ58.jpg",
@@ -250,74 +328,131 @@
       "started_trending": "2026-10-18T02:23:34Z",
       "first_seen": "2026-10-18T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "lingormbetweenusconcertd2",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "oregon",
+      "rank": 9,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-10-18T09:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Oregon",
+      "description": "Oregon secured an improbable 17-14 comeback victory against Nebraska after turning to quarterback Dylan Raiola in the fourth quarter.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Oregon",
+      "image_url": "https://duckswire.usatoday.com/gcdn/authoring/authoring-images/2026/10/02/SDUC/92051728007-20260930-t-000736-z-95978895-mt-1-usatoday-29953096-rtrmadp-3-oregoninsidelinebackersgavinnixrightandjerrymixon.JPG?crop=3892,2190,x0,y206&width=3200&height=1801&format=pjpg&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T09:23:31Z",
+      "first_seen": "2026-10-18T09:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tommy",
+      "rank": 10,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-18T09:23:31Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Tommy",
+      "description": "Michigan quarterback Bryce Underwood was benched and replaced by Tommy Carr during the team's win over Penn State.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tommy",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cAswy.img?w=768&h=559&m=6",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T08:23:32Z",
+      "first_seen": "2026-10-18T08:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dan-lanning",
+      "rank": 11,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-18T06:23:36Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-18T07:23:36Z",
           "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#LingOrmBetweenUsConcertD2",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23LingOrmBetweenUsConcertD2",
-      "image_url": "https://i.pinimg.com/736x/5e/ef/71/5eef71723127ed5b4ff42a37fc4f82cd.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T09:23:31Z",
-      "first_seen": "2026-10-18T09:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-world-between-lingorm-d2",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 7
+        },
         {
           "t": "2026-10-18T09:23:31Z",
-          "r": 8
+          "r": 10
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "THE WORLD BETWEEN LINGORM D2",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/THE%20WORLD%20BETWEEN%20LINGORM%20D2",
-      "image_url": "https://de.web.img3.acsta.net/img/3c/a2/3ca218c7902a5be772a1d4eaa791a55d.jpg",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Dan Lanning",
+      "description": "Oregon head coach Dan Lanning praised quarterback Dylan Raiola following the team's dramatic comeback win against Nebraska.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dan%20Lanning",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/diGfCitHHGF8ZGRtorqM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MjtjZj13ZWJw/https://media.zenfs.com/en/ducks_wire_usa_today_articles_200/3f2402c11b3b5936fc5f0a1004801271",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T09:23:31Z",
-      "first_seen": "2026-10-18T09:23:31Z",
+      "started_trending": "2026-10-18T06:23:36Z",
+      "first_seen": "2026-10-18T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "utah",
-      "rank": 9,
+      "rank": 12,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -340,12 +475,16 @@
         {
           "t": "2026-10-18T09:23:31Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 12
         }
       ],
-      "rank_change": -1,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Utah",
-      "description": "Utah is trending following their 27-24 road victory over Colorado to stay undefeated.",
+      "description": "No. 11 Utah improved to 6-0 by narrowly surviving a late Colorado rally and a Hail Mary attempt to secure a 27-24 road victory.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Utah",
       "image_url": "https://i.pinimg.com/originals/41/b3/c5/41b3c5891d3a289d21fe3b7275861ecb.jpg",
@@ -353,48 +492,101 @@
       "started_trending": "2026-10-18T05:23:33Z",
       "first_seen": "2026-10-18T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "dan-lanning",
-      "rank": 10,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "macron",
+      "rank": 13,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
+          "t": "2026-10-18T04:23:36Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-18T05:23:33Z",
+          "r": 13
+        },
+        {
           "t": "2026-10-18T06:23:36Z",
-          "r": 9
+          "r": 15
         },
         {
           "t": "2026-10-18T07:23:36Z",
-          "r": 7
+          "r": 17
         },
         {
           "t": "2026-10-18T08:23:32Z",
-          "r": 7
+          "r": 16
         },
         {
           "t": "2026-10-18T09:23:31Z",
-          "r": 10
+          "r": 16
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 13
         }
       ],
-      "rank_change": -1,
+      "rank_change": 0,
       "is_new": false,
-      "topic": "Dan Lanning",
-      "description": "Oregon head coach Dan Lanning is trending after discussing Dylan Raiola's pivotal performance in their comeback win over Nebraska.",
+      "topic": "Macron",
+      "description": "French President Emmanuel Macron vowed to prosecute and punish violent rioters as major protests, building fires, and looting erupted across France.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dan%20Lanning",
-      "image_url": "https://s.yimg.com/ny/api/res/1.2/diGfCitHHGF8ZGRtorqM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MjtjZj13ZWJw/https://media.zenfs.com/en/ducks_wire_usa_today_articles_200/3f2402c11b3b5936fc5f0a1004801271",
+      "url": "https://twstalker.com/search/Macron",
+      "image_url": "https://cdnph.upi.com/svc/sv/upi_com/2581783422061/2026/1/c2e376dfe932ef9eae449bed472dacda/Emmanuel-Macron-unscathed-after-bomb-blasts-during-visit-to-Syria.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T06:23:36Z",
-      "first_seen": "2026-10-18T06:23:36Z",
+      "started_trending": "2026-10-17T18:23:35Z",
+      "first_seen": "2026-10-17T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 15,
+      "volume": "15hr trend",
+      "volume_value": 15,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-french",
+      "rank": 14,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-18T07:23:36Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-18T09:23:31Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "The French",
+      "description": "Student-led protests and cost-of-living demonstrations in France have widened into major social unrest, featuring hundreds of arrests, property destruction, and clashes.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20French",
+      "image_url": "https://wtop.com/wp-content/uploads/2026/10/APTOPIX_France_School_Protests_68717-scaled.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T07:23:36Z",
+      "first_seen": "2026-10-18T07:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-18T10:23:33Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -402,8 +594,41 @@
       "extra": {}
     },
     {
+      "id": "oh-my-best-day-with-fourth",
+      "rank": 15,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-18T09:23:31Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "OH MY BEST DAY WITH FOURTH",
+      "description": "NASCAR driver Corey Day finished fourth in the O'Reilly Series race, keeping his championship hopes afloat.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/OH%20MY%20BEST%20DAY%20WITH%20FOURTH",
+      "image_url": "https://d1moysbdfluzeo.cloudfront.net/uploads/production/_1000x700_fit_center-center_95/Day-Nashville-10.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T09:23:31Z",
+      "first_seen": "2026-10-18T09:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "huskers",
-      "rank": 11,
+      "rank": 16,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -422,12 +647,16 @@
         {
           "t": "2026-10-18T09:23:31Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 16
         }
       ],
-      "rank_change": 6,
+      "rank_change": 1,
       "is_new": false,
       "topic": "#Huskers",
-      "description": "Nebraska fans are reacting on social media to another late-game collapse resulting in a 17-14 loss to Oregon.",
+      "description": "Nebraska fans shared reactions after the football team suffered a 17-14 fourth-quarter loss to Oregon.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Huskers",
       "image_url": "https://content.sportslogos.net/logos/33/766/full/nebraska_cornhuskers_logo_primary_dark_19935651.png",
@@ -435,7 +664,44 @@
       "started_trending": "2026-10-18T06:23:36Z",
       "first_seen": "2026-10-18T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "celine-dion",
+      "rank": 17,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-18T08:23:32Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-18T09:23:31Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Celine Dion",
+      "description": "Céline Dion announced new shows following a record-breaking Paris run, while French President Emmanuel Macron faced criticism for attending her concert as riots unfolded across the country.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Celine%20Dion",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c6jnZ.img?w=768&h=512&m=6&x=344&y=92&s=88&d=88",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T08:23:32Z",
+      "first_seen": "2026-10-18T08:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-18T10:23:33Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -443,8 +709,37 @@
       "extra": {}
     },
     {
+      "id": "fourthconcertd3",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FourthConcertD3",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23FourthConcertD3",
+      "image_url": "https://i.ytimg.com/vi/zcAGvJD3Y6A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCQgISh_MA8=&rs=AOn4CLAw9rG-5vgJdusSOZ7zhwKjLRt5Vg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T10:23:33Z",
+      "first_seen": "2026-10-18T10:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "isaac-wilson",
-      "rank": 12,
+      "rank": 19,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -463,12 +758,16 @@
         {
           "t": "2026-10-18T09:23:31Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 19
         }
       ],
-      "rank_change": -4,
+      "rank_change": -11,
       "is_new": false,
       "topic": "Isaac Wilson",
-      "description": "Isaac Wilson is trending after throwing a long touchdown pass to help No. 11 Utah fend off a late Colorado rally.",
+      "description": "Isaac Wilson threw touchdown passes, including a 68-yard score, to help No. 11 Utah withstand a late Colorado rally and secure a 27-24 win.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Isaac%20Wilson",
       "image_url": "https://www.deseret.com/resizer/v2/BNXXJDETTJC3RAELOPFWXZOFAI.jpg?auth=369f8fe8f3943c648e16007da6de2c77d619631dc0b250c0b93684fdcf67a1a8&focal=0,0&width=1600&height=1066",
@@ -476,16 +775,16 @@
       "started_trending": "2026-10-18T06:23:36Z",
       "first_seen": "2026-10-18T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "brock-thomas",
-      "rank": 13,
+      "rank": 20,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -508,12 +807,16 @@
         {
           "t": "2026-10-18T09:23:31Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-18T10:23:33Z",
+          "r": 20
         }
       ],
-      "rank_change": -6,
+      "rank_change": -13,
       "is_new": false,
       "topic": "Brock Thomas",
-      "description": "Brock Thomas is trending after making his first career start for Oregon against Nebraska before Dylan Raiola entered the game.",
+      "description": "Oregon benched quarterback Dylan Raiola to start Brock Thomas in his first career start for the game against Nebraska.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Brock%20Thomas",
       "image_url": "https://www.oregonlive.com/resizer/v2/663Q3665SZF5ZGY2INKF2224QA.jpg?auth=8b6e098c9501752465a6b16967e81ff0f94b325e6459190729a0ffdb5c68dd5f&width=1280&smart=true&quality=90",
@@ -521,281 +824,10 @@
       "started_trending": "2026-10-18T05:23:33Z",
       "first_seen": "2026-10-18T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aewwrestledream",
-      "rank": 14,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-18T03:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-18T04:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-18T05:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-18T06:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-18T07:23:36Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-18T08:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-18T09:23:31Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "#AEWWrestleDream",
-      "description": "AEW WrestleDream is trending following major match results, title defenses, and Ilja Dragunov's surprise debut with the promotion.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23AEWWrestleDream",
-      "image_url": "https://static0.thesportsterimages.com/wordpress/wp-content/uploads/2026/10/aew-wrestledream-thekla-adam-page.jpg?&fit=crop&w=1200&h=675",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T00:23:33Z",
-      "first_seen": "2026-10-18T00:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-french",
-      "rank": 15,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-18T07:23:36Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-18T08:23:32Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-18T09:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "The French",
-      "description": "France is trending as widespread protests, student demonstrations, and social unrest lead to violent clashes and arrests across the country.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20French",
-      "image_url": "https://wtop.com/wp-content/uploads/2026/10/APTOPIX_France_School_Protests_68717-scaled.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T07:23:36Z",
-      "first_seen": "2026-10-18T07:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "macron",
-      "rank": 16,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-18T03:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-18T04:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-18T05:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-18T06:23:36Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-18T07:23:36Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-18T08:23:32Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-18T09:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Macron",
-      "description": "French President Emmanuel Macron is trending as he condemns ongoing violence and riots while facing severe backlash over his response to nationwide protests.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Macron",
-      "image_url": "https://cdnph.upi.com/svc/sv/upi_com/2581783422061/2026/1/c2e376dfe932ef9eae449bed472dacda/Emmanuel-Macron-unscathed-after-bomb-blasts-during-visit-to-Syria.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T18:23:35Z",
-      "first_seen": "2026-10-17T18:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 14,
-      "volume": "14hr trend",
-      "volume_value": 14,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "paris",
-      "rank": 17,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-18T08:23:32Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-18T09:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Paris",
-      "description": "Paris is trending as violent riots, looting, and widespread unrest impact the city, raising concerns for upcoming major sporting events like an NFL game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Paris",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/vivo/live/images/2023/3/28/25c35861-9ce7-499a-aebd-bf05f30626bd.jpg.webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T08:23:32Z",
-      "first_seen": "2026-10-18T08:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tommy",
-      "rank": 18,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-18T08:23:32Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-18T09:23:31Z",
-          "r": 18
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Tommy",
-      "description": "Tommy Carr is trending after replacing benched quarterback Bryce Underwood to lead Michigan to a victory over Penn State.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tommy",
-      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cAswy.img?w=768&h=559&m=6",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T08:23:32Z",
-      "first_seen": "2026-10-18T08:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oh-my-best-day-with-fourth",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-18T09:23:31Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "OH MY BEST DAY WITH FOURTH",
-      "description": "Corey Day is trending after finishing fourth in the NASCAR O'Reilly Series race to keep his championship hopes alive.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/OH%20MY%20BEST%20DAY%20WITH%20FOURTH",
-      "image_url": "https://d1moysbdfluzeo.cloudfront.net/uploads/production/_1000x700_fit_center-center_95/Day-Nashville-10.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T09:23:31Z",
-      "first_seen": "2026-10-18T09:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "celine-dion",
-      "rank": 20,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-18T08:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-18T09:23:31Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Celine Dion",
-      "description": "Celine Dion is trending after her Paris concert and health updates drew massive attention, while simultaneously sparking public criticism of President Macron for attending amid national riots.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Celine%20Dion",
-      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2c6jnZ.img?w=768&h=512&m=6&x=344&y=92&s=88&d=88",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T08:23:32Z",
-      "first_seen": "2026-10-18T08:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-18T09:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T10:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     }
