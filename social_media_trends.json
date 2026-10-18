@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-17T23:25:31Z",
+  "updated": "2026-10-18T00:24:58Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-10-17T23:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 1
         }
       ],
       "rank_change": 11,
       "is_new": false,
       "topic": "Auburn",
-      "description": "Auburn football is trending following game updates and matchup coverage against No. 1 Georgia, alongside news regarding player health and recruiting rankings.",
+      "description": "Auburn is trending after pulling off a stunning upset against top-ranked Georgia with a walk-off field goal.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Auburn",
       "image_url": "https://atozsports.com/wp-content/uploads/2026/10/featured-score-predictions-georgia-vs-auburn-bottom-16x9-1.jpg",
@@ -37,39 +41,43 @@
       "started_trending": "2026-10-17T21:23:31Z",
       "first_seen": "2026-10-17T21:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "georgia",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-17T23:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Georgia",
-      "description": "",
-      "description_source": "",
+      "description": "Georgia is trending following a stunning upset loss to Auburn in college football.",
+      "description_source": "gemini",
       "url": "https://twstalker.com/search/Georgia",
       "image_url": "https://www.tripsavvy.com/thmb/WtWQdEkMaZz3g7iePwjgli4dp4U=/2124x1412/filters:no_upscale():max_bytes(150000):strip_icc()/Kazbegi-5b72344446e0fb00508d6fdf.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-17T23:23:31Z",
       "first_seen": "2026-10-17T23:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -90,12 +98,16 @@
         {
           "t": "2026-10-17T23:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 3
         }
       ],
       "rank_change": 13,
       "is_new": false,
       "topic": "Tennessee",
-      "description": "Tennessee is trending amid anticipation for the college football rivalry matchup between Tennessee and Alabama in Knoxville, alongside voter turnout events.",
+      "description": "Tennessee is trending after securing a dominant win and defeating Alabama.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tennessee",
       "image_url": "https://s.yimg.com/lo/mysterio/api/0e4ceb523fc8eb168490d1c1f7cf5bbfb6d2979320ed932aee064172f9676b42/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/sb_nation_articles_115/b22838f358faf4fe216c06b268634a9d.jpg",
@@ -103,84 +115,18 @@
       "started_trending": "2026-10-17T21:23:31Z",
       "first_seen": "2026-10-17T21:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tommy-carr",
-      "rank": 4,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-17T22:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-17T23:23:31Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Tommy Carr",
-      "description": "Tommy Carr is trending after replacing starting quarterback Bryce Underwood during the second half of the Michigan versus Penn State game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tommy%20Carr",
-      "image_url": "https://s3.amazonaws.com/tls_production/profile_photos/large/TommyCarr2024.png?1726683990",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T22:23:33Z",
-      "first_seen": "2026-10-17T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gunner",
-      "rank": 5,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-17T22:23:33Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-17T23:23:31Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 12,
-      "is_new": false,
-      "topic": "Gunner",
-      "description": "Gunner Stockton is trending after returning to action for Georgia following a departure on the team's first drive in their matchup against Auburn.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gunner",
-      "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAwNzE1Njc1/georgia-bulldogs-quarterback-gunner-stockton-14.jpg?profile=w2560&ar=16-9",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T22:23:33Z",
-      "first_seen": "2026-10-17T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "macron",
-      "rank": 6,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "rank": 4,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
           "t": "2026-10-17T18:23:35Z",
@@ -205,12 +151,16 @@
         {
           "t": "2026-10-17T23:23:31Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 4
         }
       ],
-      "rank_change": 7,
+      "rank_change": 8,
       "is_new": false,
       "topic": "Macron",
-      "description": "French President Emmanuel Macron is trending as violent protests, riots, and clashes erupt across France, with Macron vowing that rioters will be prosecuted.",
+      "description": "Macron is trending as he warns that violent unrest and protests in France are being exploited, vowing to punish rioters.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Macron",
       "image_url": "https://cdnph.upi.com/svc/sv/upi_com/2581783422061/2026/1/c2e376dfe932ef9eae449bed472dacda/Emmanuel-Macron-unscathed-after-bomb-blasts-during-visit-to-Syria.jpg",
@@ -218,36 +168,36 @@
       "started_trending": "2026-10-17T18:23:35Z",
       "first_seen": "2026-10-17T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "war-damn-eagle",
-      "rank": 7,
+      "id": "aewwrestledream",
+      "rank": 5,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-17T23:23:31Z",
-          "r": 7
+          "t": "2026-10-18T00:23:33Z",
+          "r": 5
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "WAR DAMN EAGLE",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/WAR%20DAMN%20EAGLE",
-      "image_url": "https://i.etsystatic.com/61012813/r/il/77b30e/7224975733/il_794xN.7224975733_oq3q.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T23:23:31Z",
-      "first_seen": "2026-10-17T23:23:31Z",
+      "topic": "#AEWWrestleDream",
+      "description": "AEW WrestleDream is trending due to the event's matches, streaming details, and buzz surrounding a teased debut for Ilja Dragunov.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23AEWWrestleDream",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-18T00:23:33Z",
+      "first_seen": "2026-10-18T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
+      "last_seen": "2026-10-18T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -255,173 +205,45 @@
       "extra": {}
     },
     {
-      "id": "bryce-underwood",
-      "rank": 8,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-17T22:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-17T23:23:31Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Bryce Underwood",
-      "description": "Michigan quarterback Bryce Underwood is trending after being benched in favor of Tommy Carr during the second half of the game against Penn State.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bryce%20Underwood",
-      "image_url": "https://nypost.com/wp-content/uploads/sites/2/2025/08/michigan-quarterback-bryce-underwood-throws-109801548.jpg?resize=720",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rocco-becht",
-      "rank": 9,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
+      "id": "tommy-carr",
+      "rank": 6,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-17T22:23:33Z",
-          "r": 18
+          "r": 3
         },
         {
           "t": "2026-10-17T23:23:31Z",
-          "r": 9
+          "r": 4
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 6
         }
       ],
-      "rank_change": 9,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "Rocco Becht",
-      "description": "Rocco Becht is trending following game action and highlights involving an interception that set up a Michigan touchdown.",
+      "topic": "Tommy Carr",
+      "description": "Tommy Carr is trending after coming off the bench to replace Bryce Underwood and spark Michigan to a win over Penn State.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rocco%20Becht",
-      "image_url": "https://cyclonefanatic.com/wp-content/uploads/2023/09/USATSI_21381689-scaled.jpg",
+      "url": "https://twstalker.com/search/Tommy%20Carr",
+      "image_url": "https://s3.amazonaws.com/tls_production/profile_photos/large/TommyCarr2024.png?1726683990",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-17T22:23:33Z",
       "first_seen": "2026-10-17T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "michigan",
-      "rank": 10,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-17T22:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-17T23:23:31Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 10,
-      "is_new": false,
-      "topic": "Michigan",
-      "description": "Michigan is trending following their game against Penn State, which featured the benching of starting quarterback Bryce Underwood at halftime.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Michigan",
-      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_125,w_3600,h_2025/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/wolverine_digest/01m1xvhqc64d6bd2p83w.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
+      "last_seen": "2026-10-18T00:23:33Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "war-eagle",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T23:23:31Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "War Eagle",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/War%20Eagle",
-      "image_url": "https://i.pinimg.com/736x/d3/d5/4b/d3d54bb1ff913ac335386eec4add9e88--auburn-university-eagles.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T23:23:31Z",
-      "first_seen": "2026-10-17T23:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "grubb",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-17T23:23:31Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Grubb",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Grubb",
-      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064205821997",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T23:23:31Z",
-      "first_seen": "2026-10-17T23:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "the-french",
-      "rank": 13,
+      "rank": 7,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -436,12 +258,16 @@
         {
           "t": "2026-10-17T23:23:31Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 7
         }
       ],
-      "rank_change": 4,
+      "rank_change": 10,
       "is_new": false,
       "topic": "The French",
-      "description": "The French public is trending as mass protests, student walkouts, and fiery clashes with police over reforms spiral into some of the worst unrest in years across France.",
+      "description": "The French are trending as hundreds of thousands protest across France, leading to clashes with police, tear gas, and fires.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/The%20French",
       "image_url": "https://moderndiplomacy.eu/wp-content/uploads/2026/10/France-protests-696x464.jpg",
@@ -449,111 +275,152 @@
       "started_trending": "2026-10-17T21:23:31Z",
       "first_seen": "2026-10-17T21:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "arch",
-      "rank": 14,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "id": "war-damn-eagle",
+      "rank": 8,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-17T22:23:33Z",
-          "r": 2
-        },
-        {
           "t": "2026-10-17T23:23:31Z",
-          "r": 14
+          "r": 7
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 8
         }
       ],
-      "rank_change": -13,
+      "rank_change": -1,
       "is_new": false,
-      "topic": "Arch",
-      "description": "Arch Manning and the Texas Longhorns are trending after suffering a home loss to Florida and blowing a 14-point lead, sparking questions about his tenure as the starting quarterback.",
+      "topic": "WAR DAMN EAGLE",
+      "description": "WAR DAMN EAGLE is trending following Auburn's emotional and historic upset victory over No. 1 Georgia.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Arch",
-      "image_url": "https://media.firstsportz.com/wp-content/uploads/2026/10/10230322/Arch-Mannings-Last-Minute-Interception-Results-in-No.1-Texas-Losing-to-Oklahoma-Fans-Question-His-Clutch-General.webp",
+      "url": "https://twstalker.com/search/WAR%20DAMN%20EAGLE",
+      "image_url": "https://i.etsystatic.com/61012813/r/il/77b30e/7224975733/il_794xN.7224975733_oq3q.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T21:23:31Z",
-      "first_seen": "2026-10-17T21:23:31Z",
+      "started_trending": "2026-10-17T23:23:31Z",
+      "first_seen": "2026-10-17T23:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ufcedmonton",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-17T23:23:31Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 6,
+      "is_new": false,
       "topic": "#UFCEdmonton",
-      "description": "",
-      "description_source": "",
+      "description": "UFC Edmonton is trending due to the fight card between Joaquin Buckley and Mike Malott, alongside Buckley's unusual silent interview.",
+      "description_source": "gemini",
       "url": "https://twstalker.com/search/%23UFCEdmonton",
       "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=927043762120065",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-17T23:23:31Z",
       "first_seen": "2026-10-17T23:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "texas",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "war-eagle",
+      "rank": 10,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-10-17T23:23:31Z",
-          "r": 16
+          "r": 11
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 10
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Texas",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Texas",
-      "image_url": "http://www.printablee.com/postpic/2011/07/texas-state-map-with-cities_179155.jpg",
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "War Eagle",
+      "description": "War Eagle is trending as fans celebrate Auburn's historic football upset against Georgia.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/War%20Eagle",
+      "image_url": "https://i.pinimg.com/736x/d3/d5/4b/d3d54bb1ff913ac335386eec4add9e88--auburn-university-eagles.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-17T23:23:31Z",
       "first_seen": "2026-10-17T23:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gunner",
+      "rank": 11,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-17T22:23:33Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-17T23:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Gunner",
+      "description": "Gunner Stockton is trending after struggling with multiple turnovers and a late fumble during Georgia's loss to Auburn.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Gunner",
+      "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAwNzE1Njc1/georgia-bulldogs-quarterback-gunner-stockton-14.jpg?profile=w2560&ar=16-9",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T22:23:33Z",
+      "first_seen": "2026-10-17T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "paris",
-      "rank": 17,
+      "rank": 12,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -568,12 +435,16 @@
         {
           "t": "2026-10-17T23:23:31Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 12
         }
       ],
-      "rank_change": -3,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Paris",
-      "description": "Paris is trending as student movements turn national, bringing tear gas, clashes with police, scuffles, and fires during widespread protests across France.",
+      "description": "Paris is trending as students and workers clash with police during nationwide protests and rallies in France.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Paris",
       "image_url": "https://balleralert.com/wp-content/uploads/2026/10/Paris-Protests.png",
@@ -581,36 +452,222 @@
       "started_trending": "2026-10-17T21:23:31Z",
       "first_seen": "2026-10-17T21:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "grubb",
+      "rank": 13,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-17T23:23:31Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Grubb",
+      "description": "Grubb is trending as Alabama offensive coordinator Ryan Grubb faces questions over a costly play call in the loss to Tennessee.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Grubb",
+      "image_url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064205821997",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T23:23:31Z",
+      "first_seen": "2026-10-17T23:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bryce",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bryce",
+      "description": "Bryce is trending after Michigan benched quarterback Bryce Underwood in favor of Tommy Carr during the game against Penn State.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bryce",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/5fa1afcd2572620f8ca1d92fb79a78dbc54e75c87606170a16524f691f8afa9b/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/essentiallysports_articles_591/f1d81adda59ca52fdc261231f3acac39.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T00:23:33Z",
+      "first_seen": "2026-10-18T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "deboer",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "DeBoer",
+      "description": "Kalen DeBoer is trending as Alabama fans demand answers and his firing following an embarrassing loss to Tennessee.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/DeBoer",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-18T00:23:33Z",
+      "first_seen": "2026-10-18T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "texas",
+      "rank": 16,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-17T23:23:31Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Texas",
+      "description": "Texas is trending after damaging its College Football Playoff hopes with a loss to Florida.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Texas",
+      "image_url": "http://www.printablee.com/postpic/2011/07/texas-state-map-with-cities_179155.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-17T23:23:31Z",
+      "first_seen": "2026-10-17T23:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "go-vols",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Go Vols",
+      "description": "Go Vols is trending as Tennessee fans celebrate a stunning victory over Alabama that caused fans to storm the field.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Go%20Vols",
+      "image_url": "https://www.knoxnews.com/gcdn/authoring/authoring-images/2023/09/23/PKNS/70950581007-u-tv-utsa-4321-sy.jpg?crop=3978,2238,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-18T00:23:33Z",
+      "first_seen": "2026-10-18T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "penn-state",
       "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-10-17T23:23:31Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Penn State",
-      "description": "",
-      "description_source": "",
+      "description": "Penn State is trending following its narrow road loss to Michigan.",
+      "description_source": "gemini",
       "url": "https://twstalker.com/search/Penn%20State",
       "image_url": "https://cdn.onwardstate.com/uploads/2025/08/fall2025fdoc-3-2000x1331.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-17T23:23:31Z",
       "first_seen": "2026-10-17T23:23:31Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-sec",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "The SEC",
+      "description": "The SEC is trending after Georgia, Alabama, and Texas all lost on the same Saturday for the first time since 1996.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20SEC",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-18T00:23:33Z",
+      "first_seen": "2026-10-18T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-18T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -618,84 +675,39 @@
       "extra": {}
     },
     {
-      "id": "rhyne",
-      "rank": 19,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "id": "rocco-becht",
+      "rank": 20,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-10-17T22:23:33Z",
-          "r": 8
+          "r": 18
         },
         {
           "t": "2026-10-17T23:23:31Z",
-          "r": 19
+          "r": 9
+        },
+        {
+          "t": "2026-10-18T00:23:33Z",
+          "r": 20
         }
       ],
-      "rank_change": -11,
+      "rank_change": -2,
       "is_new": false,
-      "topic": "Rhyne",
-      "description": "Rhyne Howard is trending on social media following standout performances in the WNBA for the Atlanta Dream against the Golden State Valkyries.",
+      "topic": "Rocco Becht",
+      "description": "Rocco Becht is trending after throwing two costly interceptions in Penn State's loss to Michigan.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rhyne",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/9067f1d13d50631c6ca89a1994349efe71ce6987e0f1f4b16df2f85f85010db8/lightyear_networkapi/resizefill_w1200_h675;quality_80;format_webp/https://media.zenfs.com/en/fadeaway_world_951/5f567dd2468137ea60cc225892b5f09e.jpg",
+      "url": "https://twstalker.com/search/Rocco%20Becht",
+      "image_url": "https://cyclonefanatic.com/wp-content/uploads/2023/09/USATSI_21381689-scaled.jpg",
       "image_source": "duckduckgo",
       "started_trending": "2026-10-17T22:23:33Z",
       "first_seen": "2026-10-17T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "indiana",
-      "rank": 20,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-17T18:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-17T19:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-17T20:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-17T21:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-17T22:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-17T23:23:31Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -17,
-      "is_new": false,
-      "topic": "Indiana",
-      "description": "Indiana football is trending following a hard-fought road matchup and narrow loss against No. 4 Ohio State.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Indiana",
-      "image_url": "https://chargerswire.usatoday.com/gcdn/authoring/authoring-images/2026/09/05/PIND/91632078007-20260905-t-180548-z-2048034599-mt-1-usatoday-29747423-rtrmadp-3-ncaafootballnorthtexasatindiana.JPG?crop=5695,3204,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-17T17:23:31Z",
-      "first_seen": "2026-10-17T17:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-17T23:23:31Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-18T00:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     }
