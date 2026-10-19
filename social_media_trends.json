@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-19T16:25:42Z",
+  "updated": "2026-10-19T17:25:23Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-19T16:23:37Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Jalen",
-      "description": "Philadelphia Eagles quarterback Jalen Hurts is trending after the team announced he will likely miss the rest of the season due to blood clots discovered in his lungs and leg.",
+      "description": "Philadelphia Eagles quarterback Jalen Hurts is expected to miss the rest of the season after doctors discovered blood clots in his lungs and leg.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jalen",
       "image_url": "https://heavy.com/wp-content/uploads/2026/10/philadelphia-eagles-v-chicago-bears-chicago-illinois-september-28-jalen-hurts-2.jpg?quality=65&strip=all&w=780",
@@ -33,28 +37,32 @@
       "started_trending": "2026-10-19T15:23:37Z",
       "first_seen": "2026-10-19T15:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "london",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-19T16:23:37Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "London",
-      "description": "London is trending following discussions on social media regarding Philadelphia Eagles quarterback Jalen Hurts playing a game there prior to being sidelined for the season with blood clots.",
+      "description": "Social media users are discussing London in connection with Philadelphia Eagles quarterback Jalen Hurts, who played a game there following a hospital stay.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/London",
       "image_url": "https://coxassociates.co.uk/wp-content/uploads/2024/06/cox-architects-blog-1.jpg",
@@ -62,16 +70,49 @@
       "started_trending": "2026-10-19T16:23:37Z",
       "first_seen": "2026-10-19T16:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "leslie",
+      "rank": 3,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-19T16:23:37Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 13,
+      "is_new": false,
+      "topic": "Leslie",
+      "description": "Leslie Grace is trending as she is set to star alongside Patrick Schwarzenegger in the upcoming AGC crime-thriller film 'The Journeyman'.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Leslie",
+      "image_url": "https://4.bp.blogspot.com/-JniOmNGaAKM/Uy7GCsuxxYI/AAAAAAAAS2k/MHK7ln3PTCQ/s3600/Leslie+Mann+photo-011.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T16:23:37Z",
+      "first_seen": "2026-10-19T16:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "chris-bosh",
-      "rank": 3,
+      "rank": 4,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -82,57 +123,24 @@
         {
           "t": "2026-10-19T16:23:37Z",
           "r": 3
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Chris Bosh",
-      "description": "Chris Bosh is trending as sports analysts and social media users discuss NFL player health concerns, drawing comparisons to past medical situations in professional sports.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chris%20Bosh",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-19T15:23:37Z",
-      "first_seen": "2026-10-19T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chris-ballard",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-19T14:23:34Z",
-          "r": 1
         },
         {
-          "t": "2026-10-19T15:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T16:23:37Z",
+          "t": "2026-10-19T17:23:37Z",
           "r": 4
         }
       ],
-      "rank_change": -3,
+      "rank_change": 0,
       "is_new": false,
-      "topic": "Chris Ballard",
-      "description": "The Indianapolis Colts have relieved general manager Chris Ballard of his duties following a home loss to the Titans, ending his 10-year tenure with the team.",
+      "topic": "Chris Bosh",
+      "description": "Sports analysts and fans are discussing the history of blood clots in professional athletes, comparing Philadelphia Eagles quarterback Jalen Hurts' diagnosis to past cases like that of Chris Bosh.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chris%20Ballard",
-      "image_url": "https://heavy.com/wp-content/uploads/2026/10/Ballard-e1792417198329.jpg?quality=35&strip=all&w=1350",
+      "url": "https://twstalker.com/search/Chris%20Bosh",
+      "image_url": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/03/mixcollage-07-mar-2024-10-13-am-3327.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T14:23:34Z",
-      "first_seen": "2026-10-19T14:23:34Z",
+      "started_trending": "2026-10-19T15:23:37Z",
+      "first_seen": "2026-10-19T15:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
+      "last_seen": "2026-10-19T17:23:37Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -152,20 +160,57 @@
         {
           "t": "2026-10-19T16:23:37Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 5
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "#HardRockBet",
-      "description": "Hard Rock Bet is trending on social media as fans look up promotional offers, player props, and betting odds for upcoming NFL matchups like Sunday Night Football.",
+      "description": "Hard Rock Bet is trending as users look up betting odds, game predictions, and recent player wins across various sports events and online casinos.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23HardRockBet",
-      "image_url": "",
-      "image_source": "",
+      "image_url": "https://next.io/wp-content/uploads/2023/08/HardRockBetb2b-FI.png",
+      "image_source": "duckduckgo",
       "started_trending": "2026-10-19T15:23:37Z",
       "first_seen": "2026-10-19T15:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nelson",
+      "rank": 6,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-19T16:23:37Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 12,
+      "is_new": false,
+      "topic": "Nelson",
+      "description": "Kat Nelson is trending after being named the Milwaukee Journal Sentinel high school athlete of the week for Waukesha West.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Nelson",
+      "image_url": "https://media.licdn.com/dms/image/C5622AQH_PMBTCUWqoA/feedshare-shrink_2048_1536/0/1678128395780?e=2147483647&v=beta&t=DPKcPbusUkluQApbAf5rZlAYx5LGvLeXfLEfxNJ4Tz8",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T16:23:37Z",
+      "first_seen": "2026-10-19T16:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-19T17:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -173,8 +218,181 @@
       "extra": {}
     },
     {
+      "id": "chris-ballard",
+      "rank": 7,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-19T14:23:34Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-19T15:23:37Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-19T16:23:37Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Chris Ballard",
+      "description": "The Indianapolis Colts have fired general manager Chris Ballard after a 2-4 start to the season and a home loss to the Titans, ending his 10-year tenure.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Chris%20Ballard",
+      "image_url": "https://heavy.com/wp-content/uploads/2026/10/Ballard-e1792417198329.jpg?quality=35&strip=all&w=1350",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T14:23:34Z",
+      "first_seen": "2026-10-19T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "buckner",
+      "rank": 8,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-19T15:23:37Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-19T16:23:37Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "Buckner",
+      "description": "Following a loss to the Titans, Colts defensive tackle DeForest Buckner voiced his frustration, sparking discussions and trade speculation about a potential reunion with the San Francisco 49ers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Buckner",
+      "image_url": "https://heavy.com/wp-content/uploads/2026/09/indianapolis-colts-v-houston-texans-houston-texas-october-27-deforest-buckner.jpg?quality=65&strip=all&w=780",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T15:23:37Z",
+      "first_seen": "2026-10-19T15:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tiny-desk",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tiny Desk",
+      "description": "Cardi B is trending on social media following her debut performance on NPR's Tiny Desk concert series, where she performed hits like 'I Like It'.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tiny%20Desk",
+      "image_url": "https://www.billboard.com/wp-content/uploads/2026/10/cardi-b-npr-tiny-desk-billboard-1800.jpg?w=1024",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T17:23:37Z",
+      "first_seen": "2026-10-19T17:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "michael-robinson",
+      "rank": 10,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-19T15:23:37Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-19T16:23:37Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Michael Robinson",
+      "description": "NFL Network analyst Michael Robinson is facing heavy criticism on social media after making comments trivializing Jalen Hurts' blood clot diagnosis.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Michael%20Robinson",
+      "image_url": "https://facts.net/wp-content/uploads/2024/07/12-facts-about-michael-lavaughn-robinson-1721489500.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T15:23:37Z",
+      "first_seen": "2026-10-19T15:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "zuffa",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Zuffa",
+      "description": "Shakur Stevenson is trending after officially splitting from Dana White's Zuffa Boxing without having a single fight, and announcing plans to start his own promotional company.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Zuffa",
+      "image_url": "https://df955mgqzxcnm.cloudfront.net/ac0d737f-91fd-46a1-abed-4dd29f0ea0ab.jpeg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T17:23:37Z",
+      "first_seen": "2026-10-19T17:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "idontwanttooverreactbut",
-      "rank": 6,
+      "rank": 12,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -189,9 +407,13 @@
         {
           "t": "2026-10-19T16:23:37Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 12
         }
       ],
-      "rank_change": -3,
+      "rank_change": -9,
       "is_new": false,
       "topic": "#IDontWantToOverreactBUT",
       "description": "",
@@ -202,23 +424,60 @@
       "started_trending": "2026-10-19T14:23:34Z",
       "first_seen": "2026-10-19T14:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "colts",
+      "rank": 13,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-19T14:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-19T15:23:37Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-19T16:23:37Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Colts",
+      "description": "The Indianapolis Colts are dominating discussions after firing general manager Chris Ballard following a loss to the Titans and a disappointing 2-4 start to the season.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Colts",
+      "image_url": "https://logodownload.org/wp-content/uploads/2020/08/indianapolis-colts-logo-1.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T14:23:34Z",
+      "first_seen": "2026-10-19T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "victory-monday",
-      "rank": 7,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "rank": 14,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-10-19T11:23:34Z",
-          "r": 3
-        },
         {
           "t": "2026-10-19T12:23:39Z",
           "r": 3
@@ -238,12 +497,16 @@
         {
           "t": "2026-10-19T16:23:37Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 14
         }
       ],
-      "rank_change": -4,
+      "rank_change": -12,
       "is_new": false,
       "topic": "Victory Monday",
-      "description": "Social media users are celebrating Victory Monday with football commentary, looking at team fun facts, bounce-back seasons, and late-game victories across the league.",
+      "description": "Social media users are celebrating 'Victory Monday' with team updates, post-game reactions, and discussions about recent football matchups and upcoming games.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Victory%20Monday",
       "image_url": "https://atozsports.com/wp-content/uploads/2026/10/2026-10-13T033054Z_2051508003_MT1USATODAY30070146_RTRMADP_3_NFL-BUFFALO-BILLS-AT-LOS-ANGELES-RAMS-scaled.jpg",
@@ -251,56 +514,7 @@
       "started_trending": "2026-10-19T10:23:35Z",
       "first_seen": "2026-10-19T10:23:35Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "good-monday",
-      "rank": 8,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-19T11:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-19T12:23:39Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-19T13:23:37Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-19T14:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T15:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Good Monday",
-      "description": "Social media users are discussing good Monday sports storylines, ranging from NFL Monday Night Football matchups and betting odds to positive local team updates.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Monday",
-      "image_url": "https://static.vecteezy.com/system/resources/previews/016/731/406/original/cute-aesthetic-motivation-sticker-good-job-png.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T09:23:34Z",
-      "first_seen": "2026-10-19T09:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
+      "last_seen": "2026-10-19T17:23:37Z",
       "hours_trending": 7,
       "volume": "7hr trend",
       "volume_value": 7,
@@ -308,69 +522,32 @@
       "extra": {}
     },
     {
-      "id": "colts",
-      "rank": 9,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "howie",
+      "rank": 15,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
-          "t": "2026-10-19T14:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-19T15:23:37Z",
-          "r": 10
-        },
-        {
           "t": "2026-10-19T16:23:37Z",
-          "r": 9
+          "r": 12
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 15
         }
       ],
-      "rank_change": 0,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "Colts",
-      "description": "The Indianapolis Colts are trending after firing general manager Chris Ballard following a 2-4 start to the season and a recent loss to the Titans.",
+      "topic": "Howie",
+      "description": "Philadelphia Eagles general manager Howie Roseman is facing intense scrutiny and criticism on social media following the team's fourth straight loss and a difficult season.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Colts",
-      "image_url": "https://logodownload.org/wp-content/uploads/2020/08/indianapolis-colts-logo-1.png",
+      "url": "https://twstalker.com/search/Howie",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/658eda278957c66f21198748aaa7c12e805b79e8b4763958a9cf79247734d3cf/lightyear_networkapi/resizefill_w782_h521;quality_80;format_webp/https://media.zenfs.com/en/heavy_214/53ee9327229961c5f4f11a441c76f062.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T14:23:34Z",
-      "first_seen": "2026-10-19T14:23:34Z",
+      "started_trending": "2026-10-19T16:23:37Z",
+      "first_seen": "2026-10-19T16:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "michael-robinson",
-      "rank": 10,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-19T15:23:37Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Michael Robinson",
-      "description": "An NFL Network analyst is facing heavy criticism on social media for trivializing Philadelphia Eagles quarterback Jalen Hurts' serious blood clot diagnosis.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Michael%20Robinson",
-      "image_url": "https://facts.net/wp-content/uploads/2024/07/12-facts-about-michael-lavaughn-robinson-1721489500.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T15:23:37Z",
-      "first_seen": "2026-10-19T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
+      "last_seen": "2026-10-19T17:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -379,7 +556,7 @@
     },
     {
       "id": "dwight-powell",
-      "rank": 11,
+      "rank": 16,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -390,12 +567,16 @@
         {
           "t": "2026-10-19T16:23:37Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 16
         }
       ],
-      "rank_change": -3,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Dwight Powell",
-      "description": "The Dallas Mavericks are trending after waiving veteran big man Dwight Powell, ending his 12-season tenure with the franchise.",
+      "description": "The Dallas Mavericks have waived veteran big man Dwight Powell, ending his 12-season tenure with the team.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dwight%20Powell",
       "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dBn6b.img?w=768&h=512&m=6&x=457&y=110&s=183&d=183",
@@ -403,127 +584,16 @@
       "started_trending": "2026-10-19T15:23:37Z",
       "first_seen": "2026-10-19T15:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "howie",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Howie",
-      "description": "Philadelphia Eagles general manager Howie Roseman is trending on social media as fans and analysts debate whether he shares the blame for the team's four-game losing streak.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Howie",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-19T16:23:37Z",
-      "first_seen": "2026-10-19T16:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mondaymotivation",
-      "rank": 13,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-19T11:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T12:23:39Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T13:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-19T14:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-19T15:23:37Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "#MondayMotivation",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23MondayMotivation",
-      "image_url": "https://i.pinimg.com/originals/e4/83/59/e48359c65efb6dbad1efa4fd10b93dc6.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T10:23:35Z",
-      "first_seen": "2026-10-19T10:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "buckner",
-      "rank": 14,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-19T15:23:37Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Buckner",
-      "description": "DeForest Buckner is trending after expressing frustration over the Colts' recurring losses to the Titans, sparking speculation about a potential trade.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Buckner",
-      "image_url": "https://heavy.com/wp-content/uploads/2026/09/indianapolis-colts-v-houston-texans-houston-texas-october-27-deforest-buckner.jpg?quality=65&strip=all&w=780",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T15:23:37Z",
-      "first_seen": "2026-10-19T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ra-l-castro",
-      "rank": 15,
+      "rank": 17,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -538,12 +608,16 @@
         {
           "t": "2026-10-19T16:23:37Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
+          "r": 17
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Raúl Castro",
-      "description": "Former Cuban leader Raúl Castro is trending after Florida officials reportedly secured a state arrest warrant and filed charges against him in connection with the 1996 Brothers to the Rescue shootdown.",
+      "description": "Florida officials have announced state murder and arrest warrants against former Cuban leader Raúl Castro regarding the 1996 Brothers to the Rescue plane shootdown.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ra%C3%BAl%20Castro",
       "image_url": "https://wsvn.com/wp-content/uploads/sites/2/2026/05/260520_Raul_Castro.jpg?quality=60&strip=color",
@@ -551,94 +625,36 @@
       "started_trending": "2026-10-19T14:23:34Z",
       "first_seen": "2026-10-19T14:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "leslie",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Leslie",
-      "description": "Leslie Grace is trending following the announcement that she will star alongside Patrick Schwarzenegger in the upcoming AGC crime-thriller film The Journeyman.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Leslie",
-      "image_url": "https://4.bp.blogspot.com/-JniOmNGaAKM/Uy7GCsuxxYI/AAAAAAAAS2k/MHK7ln3PTCQ/s3600/Leslie+Mann+photo-011.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T16:23:37Z",
-      "first_seen": "2026-10-19T16:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nflpa",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "NFLPA",
-      "description": "New England Patriots tight end Hunter Henry is making waves on social media after being honored as the NFLPA Community MVP for his advocacy against human trafficking.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/NFLPA",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-19T16:23:37Z",
-      "first_seen": "2026-10-19T16:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nelson",
+      "id": "melania-trump",
       "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T16:23:37Z",
+          "t": "2026-10-19T17:23:37Z",
           "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Nelson",
-      "description": "Kat Nelson from Waukesha West is trending on social media after being named the Journal Sentinel high school athlete of the week.",
+      "topic": "Melania Trump",
+      "description": "First Lady Melania Trump is trending after President Trump signed a historic executive order to advance women's health research, a plan championed and pushed by her.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nelson",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-19T16:23:37Z",
-      "first_seen": "2026-10-19T16:23:37Z",
+      "url": "https://twstalker.com/search/Melania%20Trump",
+      "image_url": "https://d.ibtimes.co.uk/en/full/1837403/donald-melania-trump.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T17:23:37Z",
+      "first_seen": "2026-10-19T17:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
+      "last_seen": "2026-10-19T17:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -646,84 +662,80 @@
       "extra": {}
     },
     {
-      "id": "br2049rewardscybermurderer",
+      "id": "christiane-amanpour",
       "rank": 19,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T13:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T14:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-19T15:23:37Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-19T16:23:37Z",
+          "t": "2026-10-19T17:23:37Z",
           "r": 19
         }
       ],
-      "rank_change": -16,
-      "is_new": false,
-      "topic": "#BR2049RewardsCyberMurderer",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23BR2049RewardsCyberMurderer",
-      "image_url": "https://image.tmdb.org/t/p/original/lOqJGrDhForxVbfhstTAHhi1qMS.jpg",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Christiane Amanpour",
+      "description": "Christiane Amanpour announced that she will be leaving CNN next June, concluding a remarkable 43-year career with the news network.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Christiane%20Amanpour",
+      "image_url": "https://www.thewrap.com/wp-content/uploads/2026/10/christiane-amanpour.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T13:23:37Z",
-      "first_seen": "2026-10-19T13:23:37Z",
+      "started_trending": "2026-10-19T17:23:37Z",
+      "first_seen": "2026-10-19T17:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "topic",
+      "id": "mondaymotivation",
       "rank": 20,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
+          "t": "2026-10-19T12:23:39Z",
+          "r": 2
+        },
+        {
           "t": "2026-10-19T13:23:37Z",
-          "r": 4
+          "r": 5
         },
         {
           "t": "2026-10-19T14:23:34Z",
-          "r": 6
+          "r": 8
         },
         {
           "t": "2026-10-19T15:23:37Z",
-          "r": 12
+          "r": 11
         },
         {
           "t": "2026-10-19T16:23:37Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-19T17:23:37Z",
           "r": 20
         }
       ],
-      "rank_change": -16,
+      "rank_change": -15,
       "is_new": false,
-      "topic": "#中国叠纸杀人公司",
+      "topic": "#MondayMotivation",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23%E4%B8%AD%E5%9B%BD%E5%8F%A0%E7%BA%B8%E6%9D%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
-      "image_url": "https://cdn.awsli.com.br/2741/2741219/marca/20972303-e37sud2jiy.png",
+      "url": "https://twstalker.com/search/%23MondayMotivation",
+      "image_url": "https://i.pinimg.com/originals/e4/83/59/e48359c65efb6dbad1efa4fd10b93dc6.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T13:23:37Z",
-      "first_seen": "2026-10-19T13:23:37Z",
+      "started_trending": "2026-10-19T10:23:35Z",
+      "first_seen": "2026-10-19T10:23:35Z",
       "published": null,
-      "last_seen": "2026-10-19T16:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-19T17:23:37Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     }
