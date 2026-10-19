@@ -1,22 +1,51 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-19T09:24:56Z",
+  "updated": "2026-10-19T10:25:12Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "cowboys",
+      "id": "good-monday",
       "rank": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-19T09:23:34Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Good Monday",
+      "description": "Social media users are discussing cool morning weather and the start of a new week, alongside the latest college football action and financial updates.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Good%20Monday",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/016/731/406/original/cute-aesthetic-motivation-sticker-good-job-png.png",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T09:23:34Z",
+      "first_seen": "2026-10-19T09:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cowboys",
+      "rank": 2,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 1
-        },
         {
           "t": "2026-10-19T05:23:33Z",
           "r": 1
@@ -36,12 +65,16 @@
         {
           "t": "2026-10-19T09:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Cowboys",
-      "description": "The Dallas Cowboys are trending after dropping their second straight game following a 23-13 loss to the Green Bay Packers.",
+      "description": "Social media users are reacting to the Dallas Cowboys' 23-13 loss to the Green Bay Packers, which marked their second straight defeat and raised concerns about the team's ongoing struggles.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cowboys",
       "image_url": "https://imagedelivery.net/udabbrg0cTdphmRh5JWgxw/CR_dallas-cowboys-23126627.jpg/public",
@@ -49,36 +82,36 @@
       "started_trending": "2026-10-19T02:23:32Z",
       "first_seen": "2026-10-19T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "good-monday",
-      "rank": 2,
+      "id": "mondaymotivation",
+      "rank": 3,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 2
+          "t": "2026-10-19T10:23:35Z",
+          "r": 3
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Good Monday",
-      "description": "Social media users are discussing the start of a new week, featuring cool morning weather trends, college football recaps, and baseball playoff updates.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Monday",
-      "image_url": "https://static.vecteezy.com/system/resources/previews/016/731/406/original/cute-aesthetic-motivation-sticker-good-job-png.png",
+      "topic": "#MondayMotivation",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MondayMotivation",
+      "image_url": "https://i.pinimg.com/originals/e4/83/59/e48359c65efb6dbad1efa4fd10b93dc6.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T09:23:34Z",
-      "first_seen": "2026-10-19T09:23:34Z",
+      "started_trending": "2026-10-19T10:23:35Z",
+      "first_seen": "2026-10-19T10:23:35Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
+      "last_seen": "2026-10-19T10:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -87,19 +120,23 @@
     },
     {
       "id": "packers",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-19T09:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Packers",
-      "description": "The Green Bay Packers are trending after defeating the Dallas Cowboys 23-13 in a Week 6 matchup.",
+      "description": "Fans are celebrating the Green Bay Packers' 23-13 victory over the Dallas Cowboys, highlighting timely turnovers and strong third-down conversions.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Packers",
       "image_url": "https://wisportsheroics.com/wp-content/uploads/2026/09/2026-07-29T074136Z_1972557906_MT1USATODAY29469414_RTRMADP_3_GREEN-BAY-PACKERS-DEFENSIVE-END-MICAH-PARSONS-1-CELEBRATES-829x1536.jpg",
@@ -107,7 +144,36 @@
       "started_trending": "2026-10-19T09:23:34Z",
       "first_seen": "2026-10-19T09:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "scarletheartth",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#ScarletHeartTH",
+      "description": "Social media users are buzzing after GMMTV dropped the official trailer for Scarlet Heart Thailand.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23ScarletHeartTH",
+      "image_url": "https://pbs.twimg.com/media/HUqxv7_akAAAgZl?format=webp&name=large",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T10:23:35Z",
+      "first_seen": "2026-10-19T10:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-19T10:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -115,57 +181,66 @@
       "extra": {}
     },
     {
-      "id": "schotty",
-      "rank": 4,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "jeonghan",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T07:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-19T08:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 4
+          "t": "2026-10-19T10:23:35Z",
+          "r": 6
         }
       ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Schotty",
-      "description": "Social media users are discussing the uncomplimentary performance of the Cowboys following their 23-13 loss to the Packers on Sunday Night Football.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "jeonghan",
+      "description": "Fans are discussing Seventeen members Jeonghan and Joshua as they debut their new JxJ duo sound and release their first EP, Dreamscape.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Schotty",
-      "image_url": "https://journalarta.com/en/_next/image?url=https://journalarta.com/wp-content/uploads/2026/10/schottenheimer-says-cowboys-expect-more-from-daron-bland-5411e3-1200x675.jpg&w=3840&q=75",
+      "url": "https://twstalker.com/search/jeonghan",
+      "image_url": "https://res.cloudinary.com/vivimedia/image/fetch/f_auto,q_auto:eco,dpr_2,w_484/https://www.vivi.tv/wp-content/uploads/2023/02/30133915/jeo_1.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T02:23:32Z",
-      "first_seen": "2026-10-19T02:23:32Z",
+      "started_trending": "2026-10-19T10:23:35Z",
+      "first_seen": "2026-10-19T10:23:35Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "victory-monday",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Victory Monday",
+      "description": "Sports fans are celebrating Victory Monday after notable wins, including the Buffalo Bills rallying behind Josh Allen and James Cook for a late victory.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Victory%20Monday",
+      "image_url": "https://atozsports.com/wp-content/uploads/2026/10/2026-10-13T033054Z_2051508003_MT1USATODAY30070146_RTRMADP_3_NFL-BUFFALO-BILLS-AT-LOS-ANGELES-RAMS-scaled.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T10:23:35Z",
+      "first_seen": "2026-10-19T10:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "goku",
-      "rank": 5,
+      "rank": 8,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -184,12 +259,16 @@
         {
           "t": "2026-10-19T09:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 8
         }
       ],
-      "rank_change": 13,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Goku",
-      "description": "Goku is trending as fans discuss new anime episodes, a Thanos-level threat in Dragon Ball Super 2, and voice actress Masako Nozawa speaking out against unauthorized AI voice cloning.",
+      "description": "Social media users are discussing Goku amid viral posts about anime storylines, threats in Dragon Ball Super, and voice actress concerns over unauthorized AI cloning.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Goku",
       "image_url": "https://i.pinimg.com/originals/ec/72/c5/ec72c5379056aeae0a98b16b22ffa96c.jpg",
@@ -197,77 +276,32 @@
       "started_trending": "2026-10-19T06:23:35Z",
       "first_seen": "2026-10-19T06:23:35Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dak-prescott",
-      "rank": 6,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-19T07:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T08:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 6
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Dak Prescott",
-      "description": "Dak Prescott and the Cowboys offense are facing criticism after struggling significantly and suffering a loss against the Green Bay Packers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dak%20Prescott",
-      "image_url": "https://people.com/thmb/glDpHbuYzRvdQcG0HqPZtBUGKQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/dak-prescott-1-e0883932b02147628b062e01952f3155.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T01:23:34Z",
-      "first_seen": "2026-10-19T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "happy-new-week",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-19T09:23:34Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Happy New Week",
-      "description": "Social media users are sharing positive messages and forecasts about the start of the new week and active fall weather patterns.",
+      "description": "Social media users are posting positive weekend reflections and encouraging greetings to welcome the new week alongside local weather updates.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Happy%20New%20Week",
       "image_url": "https://img.freepik.com/premium-photo/happy-smiley-face-sunny-field-world-emoji-day_217593-59008.jpg?w=1800",
@@ -275,89 +309,7 @@
       "started_trending": "2026-10-19T09:23:34Z",
       "first_seen": "2026-10-19T09:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lagranjagala",
-      "rank": 8,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-19T07:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-19T08:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "#LaGranjaGala",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23LaGranjaGala",
-      "image_url": "https://i.etsystatic.com/13751308/r/il/37067e/3679794335/il_fullxfull.3679794335_tw0g.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T04:23:32Z",
-      "first_seen": "2026-10-19T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jerry-jones",
-      "rank": 9,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-19T08:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Jerry Jones",
-      "description": "Dallas Cowboys owner Jerry Jones is trending following discussions about a $10 million donation to the Clinton Foundation and meetings with team staff.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jerry%20Jones",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/jerry-jones-dallas-cowboys-maracana-stadium.jpg?ve=1&tl=1",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T08:23:33Z",
-      "first_seen": "2026-10-19T08:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
+      "last_seen": "2026-10-19T10:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -377,12 +329,16 @@
         {
           "t": "2026-10-19T09:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 10
         }
       ],
       "rank_change": 9,
       "is_new": false,
       "topic": "PC gaming",
-      "description": "PC gamers are discussing essential tools, hardware price drops on Newegg, and Steam Next Fest demos.",
+      "description": "PC gamers are sharing essential tool recommendations, discussing the latest hardware deals on graphics cards and rigs, and following Steam Next Fest demos.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/PC%20gaming",
       "image_url": "https://i.pinimg.com/originals/a3/38/b2/a338b28e62cc238df302ba673c6b026e.jpg",
@@ -390,23 +346,19 @@
       "started_trending": "2026-10-19T08:23:33Z",
       "first_seen": "2026-10-19T08:23:33Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gopackgo",
       "rank": 11,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 4
-        },
         {
           "t": "2026-10-19T05:23:33Z",
           "r": 4
@@ -426,12 +378,16 @@
         {
           "t": "2026-10-19T09:23:34Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 11
         }
       ],
-      "rank_change": -7,
+      "rank_change": -6,
       "is_new": false,
       "topic": "#GoPackGo",
-      "description": "Fans are using the hashtag to celebrate the Green Bay Packers' dominant Sunday night victory over the Dallas Cowboys.",
+      "description": "Fans are sharing the hashtag #GoPackGo to celebrate the Green Bay Packers' controlling Sunday night win over the Dallas Cowboys.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23GoPackGo",
       "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2erlyc.img?w=768&h=512&m=6",
@@ -439,7 +395,122 @@
       "started_trending": "2026-10-19T01:23:34Z",
       "first_seen": "2026-10-19T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jerry-jones",
+      "rank": 12,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-19T08:23:33Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-19T09:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Jerry Jones",
+      "description": "Dallas Cowboys owner Jerry Jones is facing heavy criticism on social media from fans and analysts over front-office failures, coaching frustrations, and a $10 million donation.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jerry%20Jones",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/jerry-jones-dallas-cowboys-maracana-stadium.jpg?ve=1&tl=1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T08:23:33Z",
+      "first_seen": "2026-10-19T08:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "shawn-ryan",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Shawn Ryan",
+      "description": "Social media users are discussing television creator Shawn Ryan and his history of outlasting cancellations, alongside news coverage of a political candidate suspending their campaign.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Shawn%20Ryan",
+      "image_url": "https://shawnryanshow.com/cdn/shop/products/sr-og-flex.jpg?v=1678924614&width=1445",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T10:23:35Z",
+      "first_seen": "2026-10-19T10:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "schotty",
+      "rank": 14,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-19T05:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-19T08:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-19T09:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Schotty",
+      "description": "Fans are reacting to the uncomplimentary performance of the Cowboys offense following their 23-13 loss to the Packers on Sunday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Schotty",
+      "image_url": "https://journalarta.com/en/_next/image?url=https://journalarta.com/wp-content/uploads/2026/10/schottenheimer-says-cowboys-expect-more-from-daron-bland-5411e3-1200x675.jpg&w=3840&q=75",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T02:23:32Z",
+      "first_seen": "2026-10-19T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T10:23:35Z",
       "hours_trending": 8,
       "volume": "8hr trend",
       "volume_value": 8,
@@ -447,10 +518,108 @@
       "extra": {}
     },
     {
+      "id": "dak-prescott",
+      "rank": 15,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-19T05:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-19T08:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-19T09:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Dak Prescott",
+      "description": "Social media users are criticizing quarterback Dak Prescott and the Dallas offense after familiar miscues and red-zone interceptions contributed to a loss against the Packers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dak%20Prescott",
+      "image_url": "https://people.com/thmb/glDpHbuYzRvdQcG0HqPZtBUGKQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/dak-prescott-1-e0883932b02147628b062e01952f3155.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lagranjagala",
+      "rank": 16,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-19T05:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-19T08:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-19T09:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "#LaGranjaGala",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23LaGranjaGala",
+      "image_url": "https://i.etsystatic.com/13751308/r/il/37067e/3679794335/il_fullxfull.3679794335_tw0g.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T04:23:32Z",
+      "first_seen": "2026-10-19T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "green-bay",
-      "rank": 12,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "rank": 17,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-19T05:23:33Z",
@@ -471,12 +640,16 @@
         {
           "t": "2026-10-19T09:23:34Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 17
         }
       ],
-      "rank_change": -6,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Green Bay",
-      "description": "Green Bay is trending following the Packers' 23-13 victory over the Dallas Cowboys at Lambeau Field.",
+      "description": "Fans are reacting online to the Green Bay Packers securing a 23-13 victory over the Dallas Cowboys.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Green%20Bay",
       "image_url": "https://mfiles.alphacoders.com/101/thumb-350-1016798.jpg",
@@ -484,114 +657,16 @@
       "started_trending": "2026-10-19T05:23:33Z",
       "first_seen": "2026-10-19T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jordan-love",
-      "rank": 13,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-19T07:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-19T08:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Jordan Love",
-      "description": "Jordan Love is trending after accounting for two touchdowns to help lead the Green Bay Packers to a 23-13 victory over the Dallas Cowboys.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jordan%20Love",
-      "image_url": "https://wisportsheroics.com/wp-content/uploads/2025/09/USATSI_27029709_168400517_lowres.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T01:23:34Z",
-      "first_seen": "2026-10-19T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kylie",
-      "rank": 14,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-19T07:23:35Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-19T08:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Kylie",
-      "description": "Kylie Jenner is trending after making her surprise runway debut at the Victoria's Secret Fashion Show wearing a $50 million diamond Fantasy bra.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kylie",
-      "image_url": "https://i.pinimg.com/736x/95/a1/4d/95a14d929ed70c9c4c0a6775de7e8820.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T01:23:34Z",
-      "first_seen": "2026-10-19T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "saitama",
-      "rank": 15,
+      "rank": 18,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -606,12 +681,16 @@
         {
           "t": "2026-10-19T09:23:34Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 18
         }
       ],
-      "rank_change": 5,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Saitama",
-      "description": "Saitama is trending alongside discussions of koalas debuting at a Japanese zoo and debates comparing the character to Goku.",
+      "description": "Social media users are discussing Saitama in connection with internet debates comparing anime characters, alongside unrelated local news about a Japanese zoo's new koalas.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Saitama",
       "image_url": "https://get.wallhere.com/photo/One-Punch-Man-Saitama-frontal-view-1738881.jpg",
@@ -619,7 +698,40 @@
       "started_trending": "2026-10-19T07:23:35Z",
       "first_seen": "2026-10-19T07:23:35Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nstwtwt",
+      "rank": 19,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-19T09:23:34Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-19T10:23:35Z",
+          "r": 19
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "#nstwtwt",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23nstwtwt",
+      "image_url": "https://kpopsingers.com/wp-content/uploads/2023/09/nct-jpg.webp",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T09:23:34Z",
+      "first_seen": "2026-10-19T09:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T10:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -627,227 +739,51 @@
       "extra": {}
     },
     {
-      "id": "megan",
-      "rank": 16,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "id": "jordan-love",
+      "rank": 20,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 16
-        },
-        {
           "t": "2026-10-19T05:23:33Z",
-          "r": 17
+          "r": 5
         },
         {
           "t": "2026-10-19T06:23:35Z",
-          "r": 16
+          "r": 6
         },
         {
           "t": "2026-10-19T07:23:35Z",
-          "r": 16
+          "r": 6
         },
         {
           "t": "2026-10-19T08:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Megan",
-      "description": "Megan Thee Stallion and Megan Moroney are trending following their appearances and performances at the 2026 Victoria's Secret Fashion Show.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Megan",
-      "image_url": "https://cdn.britannica.com/14/222714-050-E875DF27/Megan-Thee-Stallion-Grammy-Awards-2021.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T00:23:31Z",
-      "first_seen": "2026-10-19T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "goti",
-      "rank": 17,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-19T07:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-19T08:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "GOTI",
-      "description": "GOTI is trending on social media following the Dallas Cowboys' dismal defensive performance and 23-13 loss to the Green Bay Packers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/GOTI",
-      "image_url": "https://footyvar.com/wp-content/uploads/2023/04/Lambeau-Field-arial-view.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T03:23:34Z",
-      "first_seen": "2026-10-19T03:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nfc-east",
-      "rank": 18,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-19T07:23:35Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-19T08:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-19T09:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "NFC East",
-      "description": "The NFC East is trending as commentators discuss the struggles of division teams like the Dallas Cowboys and Washington Commanders following recent losses.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/NFC%20East",
-      "image_url": "https://2.bp.blogspot.com/-mNBCrZemKfQ/VxxT3ffAW_I/AAAAAAAAB4Q/lsPCedwax0QgjibiSI75NolaMIqr1GZ9QCLcB/s1600/Depositphotos_69950349_l-2015_edited.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T04:23:32Z",
-      "first_seen": "2026-10-19T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "pickens",
-      "rank": 19,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
           "r": 8
         },
         {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-19T07:23:35Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-19T08:23:33Z",
-          "r": 10
-        },
-        {
           "t": "2026-10-19T09:23:34Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Pickens",
-      "description": "George Pickens is trending after recording a team-high 73 receiving yards and coming alive in the fourth quarter of the Cowboys' loss.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Pickens",
-      "image_url": "https://profiles.fantasyfootballcalculator.com/george-pickens-fbfdf609.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T03:23:34Z",
-      "first_seen": "2026-10-19T03:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nstwtwt",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
+          "r": 13
+        },
         {
-          "t": "2026-10-19T09:23:34Z",
+          "t": "2026-10-19T10:23:35Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#nstwtwt",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23nstwtwt",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-19T09:23:34Z",
-      "first_seen": "2026-10-19T09:23:34Z",
+      "rank_change": -14,
+      "is_new": false,
+      "topic": "Jordan Love",
+      "description": "Fans are praising quarterback Jordan Love on social media after he accounted for two total touchdowns to help lead the Packers past the Cowboys.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jordan%20Love",
+      "image_url": "https://wisportsheroics.com/wp-content/uploads/2025/09/USATSI_27029709_168400517_lowres.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T09:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-19T10:23:35Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     }
