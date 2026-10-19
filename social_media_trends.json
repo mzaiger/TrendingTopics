@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-19T00:25:19Z",
+  "updated": "2026-10-19T01:25:23Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-19T00:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Rams",
-      "description": "The Los Angeles Rams are trending after suffering a stunning 18-16 upset loss to the Arizona Cardinals in Week 6.",
+      "description": "The Los Angeles Rams are trending after suffering a narrow 18-16 defeat against the Arizona Cardinals in Week 6.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Rams",
       "image_url": "https://atozsports.com/wp-content/uploads/2026/09/2026-09-28T031053Z_1889722615_MT1USATODAY29938717_RTRMADP_3_NFL-LOS-ANGELES-RAMS-AT-DENVER-BRONCOS-1-scaled.jpg",
@@ -33,28 +37,32 @@
       "started_trending": "2026-10-18T23:23:32Z",
       "first_seen": "2026-10-18T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "vsfashionshow",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-19T00:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "#VSFashionShow",
-      "description": "The 2026 Victoria's Secret Fashion Show is trending as stars like Barbara Palvin, Alex Consani, and Olivia Ponton make headlines for their runway appearances and red carpet looks.",
+      "description": "#VSFashionShow is trending as celebrities like Kylie Jenner, Alex Consani, and Barbara Palvin make major appearances at the 2026 runway event.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23VSFashionShow",
       "image_url": "https://bloximages.newyork1.vip.townnews.com/guardonline.com/content/tncms/assets/v3/editorial/9/f4/9f495027-3a72-51cb-a5b1-11d6a3b57f0f/6ad545a05184f.image.jpg",
@@ -62,7 +70,65 @@
       "started_trending": "2026-10-19T00:23:31Z",
       "first_seen": "2026-10-19T00:23:31Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kylie",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kylie",
+      "description": "Kylie Jenner is trending after making a surprise runway debut at the 2026 Victoria's Secret Fashion Show wearing the $50 million Fantasy Bra.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kylie",
+      "image_url": "https://i.pinimg.com/736x/95/a1/4d/95a14d929ed70c9c4c0a6775de7e8820.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jordan-love",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jordan Love",
+      "description": "Jordan Love is trending after throwing his 11th touchdown pass of 2026 to open the scoring for the Packers against the Cowboys on Sunday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jordan%20Love",
+      "image_url": "https://wisportsheroics.com/wp-content/uploads/2025/09/USATSI_27029709_168400517_lowres.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T01:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -71,7 +137,7 @@
     },
     {
       "id": "chargers",
-      "rank": 3,
+      "rank": 5,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -82,12 +148,16 @@
         {
           "t": "2026-10-19T00:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 5
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Chargers",
-      "description": "The Los Angeles Chargers are trending following their Week 6 loss to the Kansas City Chiefs that dropped their record to 0-6, alongside notable injuries to players like Ladd McConkey.",
+      "description": "The Los Angeles Chargers are trending following an offensive slump and loss to the Chiefs, raising questions about their season and coaching staff.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Chargers",
       "image_url": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/257000/257648-Missouri.jpg",
@@ -95,7 +165,69 @@
       "started_trending": "2026-10-18T23:23:32Z",
       "first_seen": "2026-10-18T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "megan",
+      "rank": 6,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-19T00:23:31Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Megan",
+      "description": "Megan is trending due to high-profile appearances by Megan Thee Stallion and Megan Moroney at the 2026 Victoria's Secret Fashion Show.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Megan",
+      "image_url": "https://cdn.britannica.com/14/222714-050-E875DF27/Megan-Thee-Stallion-Grammy-Awards-2021.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T00:23:31Z",
+      "first_seen": "2026-10-19T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dee-winters",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dee Winters",
+      "description": "Dee Winters is trending after securing the Cowboys' first interception of the season against Jordan Love, though a potential pick-six was overturned.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dee%20Winters",
+      "image_url": "https://www.tsn.ca/resizer/v2/W5YL6MSJ3JH4XO5HKESRNLMGEI.jpg?smart=true&auth=0fd166493a5eaf684fa3f1cfef9486dc731652572414a0ef3a47fb3d798ceb0d&width=4500&height=2531",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T01:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -104,7 +236,7 @@
     },
     {
       "id": "cardinals",
-      "rank": 4,
+      "rank": 8,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -115,12 +247,16 @@
         {
           "t": "2026-10-19T00:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": -2,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Cardinals",
-      "description": "The Arizona Cardinals are trending after defeating the Los Angeles Rams 18-16 in a Week 6 upset behind a sparkling defensive performance and six field goals.",
+      "description": "The Arizona Cardinals are trending after a strong defensive performance secured an 18-16 victory over the Los Angeles Rams in Week 6.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cardinals",
       "image_url": "https://img.freepik.com/premium-photo/sedona-landscape-cactus-red-rock-sedona-arizona-with-cactus-foreground_1028938-199981.jpg",
@@ -128,28 +264,32 @@
       "started_trending": "2026-10-18T23:23:32Z",
       "first_seen": "2026-10-18T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "raiders",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-10-19T00:23:31Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "Raiders",
-      "description": "The Las Vegas Raiders are trending during their Week 6 matchup against the Buffalo Bills, which featured intense action and a halftime tie.",
+      "description": "The Las Vegas Raiders are trending after suffering their third consecutive defeat in a 33-30 loss to the Buffalo Bills.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Raiders",
       "image_url": "https://viralsportsnews.net/wp-content/uploads/2026/10/2026-10-11T190240Z_1787665482_MT1USATODAY30058869_RTRMADP_3_NFL-LAS-VEGAS-RAIDERS-AT-NEW-ENGLAND-PATRIOTS-scaled.jpg",
@@ -157,7 +297,94 @@
       "started_trending": "2026-10-19T00:23:31Z",
       "first_seen": "2026-10-19T00:23:31Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "matthew-golden",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Matthew Golden",
+      "description": "Matthew Golden is trending after catching an opening-drive touchdown pass from Jordan Love in the Packers' matchup against the Cowboys.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Matthew%20Golden",
+      "image_url": "https://atozsports.com/wp-content/uploads/2026/10/2026-10-11T212308Z_1446882715_MT1USATODAY30060251_RTRMADP_3_NFL-CHICAGO-BEARS-AT-GREEN-BAY-PACKERS-scaled.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "evan-williams",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Evan Williams",
+      "description": "Evan Williams is trending after recording a crucial red-zone interception against Dak Prescott to preserve the Packers' lead on Sunday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Evan%20Williams",
+      "image_url": "https://wisportsheroics.com/wp-content/uploads/2025/08/USATSI_25178214_168400517_lowres.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dallascowboys",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#DallasCowboys",
+      "description": "The Dallas Cowboys are trending as fans follow live updates and game-day coverage of their Sunday Night Football matchup against the Green Bay Packers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23DallasCowboys",
+      "image_url": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/cowboys/qwdbegg69hzd6x7ahjfq",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T01:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -166,7 +393,7 @@
     },
     {
       "id": "ben-simmons",
-      "rank": 6,
+      "rank": 13,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -177,12 +404,16 @@
         {
           "t": "2026-10-19T00:23:31Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 13
         }
       ],
-      "rank_change": -2,
+      "rank_change": -9,
       "is_new": false,
       "topic": "Ben Simmons",
-      "description": "Sacramento Kings guard Ben Simmons is trending after reportedly suffering a torn Achilles tendon during practice that is expected to sideline him for the 2026-27 season.",
+      "description": "Ben Simmons is trending after suffering a torn Achilles tendon during practice, which is expected to sideline the Sacramento Kings guard for the 2026-27 season.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ben%20Simmons",
       "image_url": "https://fadeawayworld.net/wp-content/uploads/2026/10/Ben-Simmons-warms-up-ahead-of-the-game-against-the-Warriors-1536x1024.jpg",
@@ -190,7 +421,65 @@
       "started_trending": "2026-10-18T23:23:32Z",
       "first_seen": "2026-10-18T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gopackgo",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#GoPackGo",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23GoPackGo",
+      "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2erlyc.img?w=768&h=512&m=6",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "vsfs2026",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#VSFS2026",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23VSFS2026",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/0198f05c-db45-47ae-b64d-9d853d9aba0e.jpeg?crop=1xw:1xh;center,top",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T01:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -199,7 +488,7 @@
     },
     {
       "id": "chiefs",
-      "rank": 7,
+      "rank": 16,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -210,12 +499,16 @@
         {
           "t": "2026-10-19T00:23:31Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 16
         }
       ],
-      "rank_change": -1,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Chiefs",
-      "description": "The Kansas City Chiefs are trending following their Week 6 game against the Los Angeles Chargers, marked by Ken Walker's touchdown and offensive line injuries.",
+      "description": "The Kansas City Chiefs are trending following their Week 6 win against the Los Angeles Chargers and subsequent updates on team injuries.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Chiefs",
       "image_url": "https://www.yardbarker.com/media/b/4/b4e3a0ce0bb3ff162fae370fd5ecc1b7fe77c177/thumb_16x9/2026-09-18T080852Z_1481334977_MT1USATODAY29846680_RTRMADP_3_NFL-DENVER-BRONCOS-AT-KANSAS-CITY-CHIEFS-1024x683.jpg",
@@ -223,45 +516,16 @@
       "started_trending": "2026-10-18T23:23:32Z",
       "first_seen": "2026-10-18T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "megan",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Megan",
-      "description": "Megan Thee Stallion and Megan Moroney are trending after turning heads and performing at the 2026 Victoria's Secret Fashion Show.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Megan",
-      "image_url": "https://cdn.britannica.com/14/222714-050-E875DF27/Megan-Thee-Stallion-Grammy-Awards-2021.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T00:23:31Z",
-      "first_seen": "2026-10-19T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mcvay",
-      "rank": 9,
+      "rank": 17,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -272,12 +536,16 @@
         {
           "t": "2026-10-19T00:23:31Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 17
         }
       ],
-      "rank_change": -4,
+      "rank_change": -12,
       "is_new": false,
       "topic": "McVay",
-      "description": "Los Angeles Rams head coach Sean McVay delivered a blunt assessment after his team's stunning 18-16 home loss to the Arizona Cardinals dropped their record to 2-4.",
+      "description": "Sean McVay is trending after delivering a blunt assessment following the Rams' stunning home loss to the Arizona Cardinals that dropped their record to 2-4.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/McVay",
       "image_url": "https://cdn.britannica.com/60/264260-050-026CB5EE/head-coach-sean-mcvay-los-angeles-rams-against-chicago-bears-soldier-field-september-29-2024.jpg",
@@ -285,36 +553,36 @@
       "started_trending": "2026-10-18T23:23:32Z",
       "first_seen": "2026-10-18T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "herbert",
-      "rank": 10,
+      "id": "dak-prescott",
+      "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 10
+          "t": "2026-10-19T01:23:34Z",
+          "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Herbert",
-      "description": "Los Angeles Chargers quarterback Justin Herbert is trending after throwing key passes and an interception during a difficult ongoing season.",
+      "topic": "Dak Prescott",
+      "description": "Dak Prescott is trending alongside the Cowboys as they face the Green Bay Packers on Sunday Night Football amid ongoing media discussions and fantasy football stats.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Herbert",
-      "image_url": "https://media.bolavip.com/wp-content/uploads/sites/10/2026/09/12142439/justin-herbert-jim-harbaugh-1920x1080.webp",
+      "url": "https://twstalker.com/search/Dak%20Prescott",
+      "image_url": "https://people.com/thmb/glDpHbuYzRvdQcG0HqPZtBUGKQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/dak-prescott-1-e0883932b02147628b062e01952f3155.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T00:23:31Z",
-      "first_seen": "2026-10-19T00:23:31Z",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
+      "last_seen": "2026-10-19T01:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -323,19 +591,23 @@
     },
     {
       "id": "victoriassecretfashionshow",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-10-19T00:23:31Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-19T01:23:34Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -8,
+      "is_new": false,
       "topic": "#VictoriasSecretFashionShow",
-      "description": "The Victoria's Secret Fashion Show 2026 is trending as celebrities arrive and fans look up live streaming details for the runway event.",
+      "description": "#VictoriasSecretFashionShow is trending as fans and media share red carpet looks and runway appearances from the 2026 event in Los Angeles, featuring models like Gigi Hadid and Alex Consani.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23VictoriasSecretFashionShow",
       "image_url": "https://images.martincid.com/2026/10/victorias-secret-fashion-show-angel-wings-jasmine-tookes-800x450.jpg",
@@ -343,312 +615,36 @@
       "started_trending": "2026-10-19T00:23:31Z",
       "first_seen": "2026-10-19T00:23:31Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-19T01:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "billsmafia",
-      "rank": 12,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-18T23:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#BillsMafia",
-      "description": "The Bills Mafia is trending as Buffalo fans take over the Las Vegas Strip and Allegiant Stadium in high numbers for their Week 6 game against the Raiders.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23BillsMafia",
-      "image_url": "https://cdn.bluewaterhealthyliving.com/wp-content/uploads/2025/06/billswire.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T23:23:32Z",
-      "first_seen": "2026-10-18T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "quen",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "QUEN",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/QUEN",
-      "image_url": "https://mtg.1cdn.vn/2026/10/18/ttpvhcc3.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T00:23:31Z",
-      "first_seen": "2026-10-19T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kirk-cousins",
-      "rank": 14,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-18T23:23:32Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Kirk Cousins",
-      "description": "Kirk Cousins is trending after throwing a pair of touchdown passes to Tre Tucker as the Raiders battled the Buffalo Bills in Week 6.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kirk%20Cousins",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/fd4b2612501ce983f5f2e09d2bba6eb7ce8f1fec0b7167249d6117ef1b2990a7/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/las_vegas_raiders_on_si_videos_689/c29a5bc4572eacc4fa7b9cb5062ee552.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T23:23:32Z",
-      "first_seen": "2026-10-18T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "browns",
-      "rank": 15,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-18T20:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-18T21:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-18T22:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-18T23:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "Browns",
-      "description": "The Cleveland Browns are trending to the top of the AFC North following a 13-10 win over the Baltimore Ravens sealed by a game-winning field goal.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Browns",
-      "image_url": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_576,w_1024,x_0,y_31/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/6/d/6d85afab9941baffe9f772664a7a3b0c60f17152/2026-10-11T182144Z_201853768_MT1USATODAY30058613_RTRMADP_3_NFL-CLEVELAND-BROWNS-AT-NEW-YORK-JETS-1024x683.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T20:23:32Z",
-      "first_seen": "2026-10-18T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "harbaugh",
-      "rank": 16,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-18T21:23:33Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-18T22:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-18T23:23:32Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Harbaugh",
-      "description": "Coach John Harbaugh is trending following postgame takeaways and roster decisions regarding player touches and quarterback dilemmas.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Harbaugh",
-      "image_url": "https://heavy.com/wp-content/uploads/2024/11/GettyImages-2182721656-e1730764887871.jpg?quality=65&strip=all",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T21:23:33Z",
-      "first_seen": "2026-10-18T21:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tate",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tate",
-      "description": "Tate McRae is trending after wearing head-to-toe red lingerie and performing on the red carpet at the 2026 Victoria's Secret Fashion Show.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tate",
-      "image_url": "https://www.billboard.com/wp-content/uploads/2023/11/EMBARGOED-BBMA-2023-02-Tate-McRae-2023-billboard-music-awards-b-portrait-billboard-1548.jpg?w=1024",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T00:23:31Z",
-      "first_seen": "2026-10-19T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aaron-donald",
-      "rank": 18,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-18T23:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Aaron Donald",
-      "description": "Aaron Donald is trending after delivering a remarkably quick red-zone tackle for a loss for the Rams against the Arizona Cardinals.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Aaron%20Donald",
-      "image_url": "https://static.wixstatic.com/media/8714e5_6e3f295347bf461aa84cd0c7028550fc~mv2.png/v1/fill/w_980,h_653,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/8714e5_6e3f295347bf461aa84cd0c7028550fc~mv2.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T23:23:32Z",
-      "first_seen": "2026-10-18T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "raidernation",
-      "rank": 19,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-18T23:23:32Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-19T00:23:31Z",
-          "r": 19
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#RaiderNation",
-      "description": "Raider Nation is trending on social media following standout plays by opponents and updates surrounding team roster developments.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23RaiderNation",
-      "image_url": "https://images.ctfassets.net/8zlbnewncp6f/1V4dOgwX4g3np5Tn0eoxrS/e7b99d094acce410cd0d41222285c5cf/TVS_RAIDER_125_Galgo_Per_.png",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-18T23:23:32Z",
-      "first_seen": "2026-10-18T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "solange",
+      "id": "green-bay",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T00:23:31Z",
+          "t": "2026-10-19T01:23:34Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Solange",
-      "description": "The material does not make the description for Solange clear.",
+      "topic": "Green Bay",
+      "description": "Green Bay is trending as the Packers face the Dallas Cowboys on Sunday Night Football following an opening-drive touchdown pass from Jordan Love.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Solange",
-      "image_url": "https://people.com/thmb/UwUEyT8V0-5V7Lm5DGejfaB2lZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(971x529:973x531)/beyonce-solange-1-231d06a3e144418cb2d1aed71560c32c.jpg",
+      "url": "https://twstalker.com/search/Green%20Bay",
+      "image_url": "https://wisportsheroics.com/wp-content/uploads/2026/10/2026-10-04T182505Z_1086400617_MT1USATODAY29997474_RTRMADP_3_NFL-GREEN-BAY-PACKERS-AT-TAMPA-BAY-BUCCANEERS-2048x1365.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T00:23:31Z",
-      "first_seen": "2026-10-19T00:23:31Z",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T00:23:31Z",
+      "last_seen": "2026-10-19T01:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
