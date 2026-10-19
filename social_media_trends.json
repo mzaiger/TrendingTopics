@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-19T06:24:53Z",
+  "updated": "2026-10-19T07:24:51Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -32,12 +32,16 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Cowboys",
-      "description": "The Dallas Cowboys are trending following their 23-13 loss to the Green Bay Packers on Sunday Night Football.",
+      "description": "The Dallas Cowboys are trending after losing 23-13 to the Green Bay Packers on Sunday Night Football.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cowboys",
       "image_url": "https://imagedelivery.net/udabbrg0cTdphmRh5JWgxw/CR_dallas-cowboys-23126627.jpg/public",
@@ -45,26 +49,30 @@
       "started_trending": "2026-10-19T02:23:32Z",
       "first_seen": "2026-10-19T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jerry",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Jerry",
       "description": "Jerry Seinfeld is trending after putting his first-ever Daytona-winning Rolex Daytona up for auction.",
       "description_source": "gemini",
@@ -74,68 +82,19 @@
       "started_trending": "2026-10-19T06:23:35Z",
       "first_seen": "2026-10-19T06:23:35Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "schotty",
-      "rank": 3,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-19T02:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-19T03:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Schotty",
-      "description": "The Cowboys are facing heavy criticism following their uncomplimentary 23-13 loss to the Green Bay Packers on Sunday Night Football.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Schotty",
-      "image_url": "https://journalarta.com/en/_next/image?url=https://journalarta.com/wp-content/uploads/2026/10/schottenheimer-says-cowboys-expect-more-from-daron-bland-5411e3-1200x675.jpg&w=3840&q=75",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T02:23:32Z",
-      "first_seen": "2026-10-19T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dak-prescott",
-      "rank": 4,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-10-19T01:23:34Z",
-          "r": 18
-        },
         {
           "t": "2026-10-19T02:23:32Z",
           "r": 11
@@ -155,12 +114,16 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": 7,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Dak Prescott",
-      "description": "Dak Prescott and the Cowboys offense are facing scrutiny after throwing two interceptions and struggling in a 23-13 loss to the Packers.",
+      "description": "Dak Prescott and the Cowboys offense faced heavy criticism following a 23-13 loss to the Green Bay Packers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dak%20Prescott",
       "image_url": "https://people.com/thmb/glDpHbuYzRvdQcG0HqPZtBUGKQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/dak-prescott-1-e0883932b02147628b062e01952f3155.jpg",
@@ -168,7 +131,56 @@
       "started_trending": "2026-10-19T01:23:34Z",
       "first_seen": "2026-10-19T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "schotty",
+      "rank": 4,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-19T02:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-19T03:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-19T04:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-19T05:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Schotty",
+      "description": "Social media is reacting to the Dallas Cowboys' uncomplimentary performance in their 23-13 loss to the Green Bay Packers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Schotty",
+      "image_url": "https://journalarta.com/en/_next/image?url=https://journalarta.com/wp-content/uploads/2026/10/schottenheimer-says-cowboys-expect-more-from-daron-bland-5411e3-1200x675.jpg&w=3840&q=75",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T02:23:32Z",
+      "first_seen": "2026-10-19T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T07:23:35Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -178,13 +190,9 @@
     {
       "id": "gopackgo",
       "rank": 5,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
-        {
-          "t": "2026-10-19T01:23:34Z",
-          "r": 14
-        },
         {
           "t": "2026-10-19T02:23:32Z",
           "r": 9
@@ -204,12 +212,16 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 5
         }
       ],
-      "rank_change": 4,
+      "rank_change": 3,
       "is_new": false,
       "topic": "#GoPackGo",
-      "description": "Green Bay Packers fans are celebrating on social media following their team's 23-13 victory over the Dallas Cowboys.",
+      "description": "Fans are sharing celebrations online after the Green Bay Packers defeated the Dallas Cowboys on Sunday night.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23GoPackGo",
       "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2erlyc.img?w=768&h=512&m=6",
@@ -217,23 +229,19 @@
       "started_trending": "2026-10-19T01:23:34Z",
       "first_seen": "2026-10-19T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jordan-love",
       "rank": 6,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-10-19T01:23:34Z",
-          "r": 4
-        },
         {
           "t": "2026-10-19T02:23:32Z",
           "r": 7
@@ -253,12 +261,16 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 6
         }
       ],
-      "rank_change": 1,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Jordan Love",
-      "description": "Jordan Love led the Green Bay Packers with two touchdowns in their 23-13 victory over the Dallas Cowboys.",
+      "description": "Jordan Love accounted for two touchdowns as the Green Bay Packers defeated the Dallas Cowboys 23-13.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jordan%20Love",
       "image_url": "https://wisportsheroics.com/wp-content/uploads/2025/09/USATSI_27029709_168400517_lowres.jpg",
@@ -266,134 +278,19 @@
       "started_trending": "2026-10-19T01:23:34Z",
       "first_seen": "2026-10-19T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "green-bay",
-      "rank": 7,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Green Bay",
-      "description": "The Green Bay Packers are trending following their 23-13 victory over the Dallas Cowboys.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Green%20Bay",
-      "image_url": "https://mfiles.alphacoders.com/101/thumb-350-1016798.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T05:23:33Z",
-      "first_seen": "2026-10-19T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lagranjagala",
-      "rank": 8,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 9,
-      "is_new": false,
-      "topic": "#LaGranjaGala",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23LaGranjaGala",
-      "image_url": "https://i.etsystatic.com/13751308/r/il/37067e/3679794335/il_fullxfull.3679794335_tw0g.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T04:23:32Z",
-      "first_seen": "2026-10-19T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "pickens",
-      "rank": 9,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-19T03:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Pickens",
-      "description": "George Pickens led the Cowboys with 73 receiving yards during their Week 6 loss to the Packers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Pickens",
-      "image_url": "https://profiles.fantasyfootballcalculator.com/george-pickens-fbfdf609.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T03:23:34Z",
-      "first_seen": "2026-10-19T03:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rams",
-      "rank": 10,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "rank": 7,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-10-19T01:23:34Z",
-          "r": 1
-        },
         {
           "t": "2026-10-19T02:23:32Z",
           "r": 2
@@ -413,9 +310,13 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": -8,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Rams",
       "description": "The Los Angeles Rams are trending following a humbling 18-16 defeat against the Arizona Cardinals.",
@@ -426,10 +327,133 @@
       "started_trending": "2026-10-18T23:23:32Z",
       "first_seen": "2026-10-18T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "green-bay",
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-19T05:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Green Bay",
+      "description": "Green Bay is trending as the Packers secured a 23-13 victory over the Dallas Cowboys on Sunday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Green%20Bay",
+      "image_url": "https://mfiles.alphacoders.com/101/thumb-350-1016798.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T05:23:33Z",
+      "first_seen": "2026-10-19T05:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lagranjagala",
+      "rank": 9,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-19T04:23:32Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-19T05:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "#LaGranjaGala",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23LaGranjaGala",
+      "image_url": "https://i.etsystatic.com/13751308/r/il/37067e/3679794335/il_fullxfull.3679794335_tw0g.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T04:23:32Z",
+      "first_seen": "2026-10-19T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pickens",
+      "rank": 10,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-19T03:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-19T04:23:32Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-19T05:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Pickens",
+      "description": "George Pickens is drawing attention after recording a team-high 73 receiving yards during the Cowboys' Week 6 loss.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Pickens",
+      "image_url": "https://profiles.fantasyfootballcalculator.com/george-pickens-fbfdf609.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T03:23:34Z",
+      "first_seen": "2026-10-19T03:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -454,12 +478,16 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 11
         }
       ],
       "rank_change": 3,
       "is_new": false,
       "topic": "GOTI",
-      "description": "The acronym GOTI is trending in relation to the Dallas Cowboys' dismal defense following their 23-13 loss to the Packers at Lambeau Field.",
+      "description": "Fans and analysts are questioning the Dallas Cowboys defense following their 23-13 loss to the Green Bay Packers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/GOTI",
       "image_url": "https://footyvar.com/wp-content/uploads/2023/04/Lambeau-Field-arial-view.jpg",
@@ -467,67 +495,18 @@
       "started_trending": "2026-10-19T03:23:34Z",
       "first_seen": "2026-10-19T03:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kylie",
-      "rank": 12,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-19T01:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T02:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-19T03:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Kylie",
-      "description": "Kylie Jenner is trending after making a surprise runway debut at the Victoria's Secret Fashion Show wearing a $50 million diamond bra.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kylie",
-      "image_url": "https://i.pinimg.com/736x/95/a1/4d/95a14d929ed70c9c4c0a6775de7e8820.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T01:23:34Z",
-      "first_seen": "2026-10-19T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dalvsgb",
-      "rank": 13,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "rank": 12,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-10-19T02:23:32Z",
@@ -548,12 +527,16 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 12
         }
       ],
-      "rank_change": 3,
+      "rank_change": -1,
       "is_new": false,
       "topic": "#DALvsGB",
-      "description": "The hashtag is trending as fans and analysts discuss the Week 6 matchup between the Dallas Cowboys and the Green Bay Packers.",
+      "description": "Fans are discussing the matchup and pregame action as the Green Bay Packers face the Dallas Cowboys.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23DALvsGB",
       "image_url": "https://dojonewsnetwork.com/wp-content/uploads/2026/10/dallas-cowboys-vs-green-bay-packers-2026-10-18-matchup.webp",
@@ -561,16 +544,16 @@
       "started_trending": "2026-10-19T02:23:32Z",
       "first_seen": "2026-10-19T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "brian-schottenheimer",
-      "rank": 14,
+      "rank": 13,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -589,12 +572,16 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 13
         }
       ],
-      "rank_change": 3,
+      "rank_change": 4,
       "is_new": false,
       "topic": "Brian Schottenheimer",
-      "description": "Dallas Cowboys coach Brian Schottenheimer is facing heavy scrutiny and hot-seat speculation after his team's 23-13 loss to the Packers.",
+      "description": "Calls for action and coaching hot seat debates are mounting against Cowboys coach Brian Schottenheimer following a loss to Green Bay.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Brian%20Schottenheimer",
       "image_url": "https://s.yimg.com/lo/mysterio/api/3ba79981b613cffa5b20cfb8c99af7277dac65a591a5521a1fba66410d30231d/lightyear_networkapi/resizefill_w912_h513;quality_80;format_webp/https://media.zenfs.com/en/dallas_cowboys_on_si_507/77a01ad12091587af15acfa356012c69.jpg",
@@ -602,60 +589,101 @@
       "started_trending": "2026-10-19T03:23:34Z",
       "first_seen": "2026-10-19T03:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "nfc-east",
-      "rank": 15,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "id": "goku",
+      "rank": 14,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Goku",
+      "description": "Goku is trending on social media alongside discussions of anime series, voice actor AI clone concerns, and viral posts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Goku",
+      "image_url": "https://i.pinimg.com/originals/ec/72/c5/ec72c5379056aeae0a98b16b22ffa96c.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T06:23:35Z",
+      "first_seen": "2026-10-19T06:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kylie",
+      "rank": 15,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-19T02:23:32Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-19T03:23:34Z",
+          "r": 9
+        },
+        {
           "t": "2026-10-19T04:23:32Z",
-          "r": 13
+          "r": 12
         },
         {
           "t": "2026-10-19T05:23:33Z",
-          "r": 13
+          "r": 14
         },
         {
           "t": "2026-10-19T06:23:35Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
           "r": 15
         }
       ],
-      "rank_change": -2,
+      "rank_change": -6,
       "is_new": false,
-      "topic": "NFC East",
-      "description": "The NFC East is trending as the Dallas Cowboys struggle and face questions about whether any team will seize control of a weak division.",
+      "topic": "Kylie",
+      "description": "Kylie Jenner made a surprise debut on the Victoria's Secret runway wearing a $50 million diamond bra.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/NFC%20East",
-      "image_url": "https://2.bp.blogspot.com/-mNBCrZemKfQ/VxxT3ffAW_I/AAAAAAAAB4Q/lsPCedwax0QgjibiSI75NolaMIqr1GZ9QCLcB/s1600/Depositphotos_69950349_l-2015_edited.jpg",
+      "url": "https://twstalker.com/search/Kylie",
+      "image_url": "https://i.pinimg.com/736x/95/a1/4d/95a14d929ed70c9c4c0a6775de7e8820.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T04:23:32Z",
-      "first_seen": "2026-10-19T04:23:32Z",
+      "started_trending": "2026-10-19T01:23:34Z",
+      "first_seen": "2026-10-19T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "megan",
       "rank": 16,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
-        {
-          "t": "2026-10-19T01:23:34Z",
-          "r": 6
-        },
         {
           "t": "2026-10-19T02:23:32Z",
           "r": 10
@@ -675,12 +703,16 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 16
         }
       ],
-      "rank_change": -6,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Megan",
-      "description": "Megan Thee Stallion is trending following her appearance and performance on the red carpet at the 2026 Victoria's Secret Fashion Show.",
+      "description": "Megan Thee Stallion and other music stars are trending after making a splash at the Victoria's Secret Fashion Show.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Megan",
       "image_url": "https://cdn.britannica.com/14/222714-050-E875DF27/Megan-Thee-Stallion-Grammy-Awards-2021.jpg",
@@ -688,23 +720,101 @@
       "started_trending": "2026-10-19T00:23:31Z",
       "first_seen": "2026-10-19T00:23:31Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nfc-east",
+      "rank": 17,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-19T04:23:32Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-19T05:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "NFC East",
+      "description": "The NFC East is trending as division teams struggle, highlighted by the Cowboys' loss to the Packers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/NFC%20East",
+      "image_url": "https://2.bp.blogspot.com/-mNBCrZemKfQ/VxxT3ffAW_I/AAAAAAAAB4Q/lsPCedwax0QgjibiSI75NolaMIqr1GZ9QCLcB/s1600/Depositphotos_69950349_l-2015_edited.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T04:23:32Z",
+      "first_seen": "2026-10-19T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gannon",
+      "rank": 18,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-19T04:23:32Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-19T05:23:33Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-19T06:23:35Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Gannon",
+      "description": "Jonathan Gannon is receiving praise from players and coaches following the Packers' victory over the Dallas Cowboys.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Gannon",
+      "image_url": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_695,w_1240,x_760,y_34/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/a/e/aec1b6c3365daf7d420023a17d7f657252e06336/jonathan-gannon-should-lead-packers-victory.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T04:23:32Z",
+      "first_seen": "2026-10-19T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "matthew-golden",
-      "rank": 17,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "rank": 19,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
-        {
-          "t": "2026-10-19T01:23:34Z",
-          "r": 10
-        },
         {
           "t": "2026-10-19T02:23:32Z",
           "r": 4
@@ -724,12 +834,16 @@
         {
           "t": "2026-10-19T06:23:35Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-19T07:23:35Z",
+          "r": 19
         }
       ],
       "rank_change": -13,
       "is_new": false,
       "topic": "Matthew Golden",
-      "description": "Matthew Golden is trending after recording over 100 receiving yards and a touchdown in the Packers' win over the Cowboys.",
+      "description": "Matthew Golden topped 100 yards with a touchdown despite dropping a would-be 42-yard pass from Jordan Love.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Matthew%20Golden",
       "image_url": "https://atozsports.com/wp-content/uploads/2026/10/2026-10-11T212308Z_1446882715_MT1USATODAY30060251_RTRMADP_3_NFL-CHICAGO-BEARS-AT-GREEN-BAY-PACKERS-scaled.jpg",
@@ -737,121 +851,39 @@
       "started_trending": "2026-10-19T01:23:34Z",
       "first_seen": "2026-10-19T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-19T07:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "goku",
-      "rank": 18,
+      "id": "saitama",
+      "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 18
+          "t": "2026-10-19T07:23:35Z",
+          "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Goku",
-      "description": "Goku is trending after a viral social media post depicted the character guarding a shop amid riots in France.",
+      "topic": "Saitama",
+      "description": "Saitama is trending on social media alongside online discussions and debates comparing fictional anime characters.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Goku",
-      "image_url": "https://i.pinimg.com/originals/ec/72/c5/ec72c5379056aeae0a98b16b22ffa96c.jpg",
+      "url": "https://twstalker.com/search/Saitama",
+      "image_url": "https://get.wallhere.com/photo/One-Punch-Man-Saitama-frontal-view-1738881.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T06:23:35Z",
-      "first_seen": "2026-10-19T06:23:35Z",
+      "started_trending": "2026-10-19T07:23:35Z",
+      "first_seen": "2026-10-19T07:23:35Z",
       "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
+      "last_seen": "2026-10-19T07:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gannon",
-      "rank": 19,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Gannon",
-      "description": "Jonathan Gannon is drawing attention after being highlighted among the winners following the Packers' victory over the Cowboys.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gannon",
-      "image_url": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,e_improve,h_695,w_1240,x_760,y_34/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/a/e/aec1b6c3365daf7d420023a17d7f657252e06336/jonathan-gannon-should-lead-packers-victory.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T04:23:32Z",
-      "first_seen": "2026-10-19T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ceedee",
-      "rank": 20,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-19T02:23:32Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-19T03:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-19T04:23:32Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-19T05:23:33Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-19T06:23:35Z",
-          "r": 20
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Ceedee",
-      "description": "CeeDee Lamb caught nine passes from 18 targets during the Cowboys' Week 6 loss to the Packers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ceedee",
-      "image_url": "https://hermes.media.static.aol.com/media/2026/10/16/f24f94f7-4a2d-3226-aebf-8ab7aa39391d/c5974433-e358-4f24-bd68-3af993b3cffa.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T02:23:32Z",
-      "first_seen": "2026-10-19T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-19T06:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     }
