@@ -1,15 +1,52 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-19T20:25:05Z",
+  "updated": "2026-10-19T21:27:50Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "jalen",
+      "id": "new-america",
       "rank": 1,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-19T19:23:39Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-19T20:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "New America",
+      "description": "Donald Trump stated that New Mexico should immediately change its name to New America, sparking widespread media attention and discussion on social media.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/New%20America",
+      "image_url": "https://dacq68pa0iusn.cloudfront.net/filters:format(webp)/AlliedFlag/StateFlags/NewMexico-State-Flag/new+mexico_flag-NewMexico-StateFlags.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T19:23:39Z",
+      "first_seen": "2026-10-19T19:23:39Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jalen",
+      "rank": 2,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -36,9 +73,13 @@
         {
           "t": "2026-10-19T20:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 2
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Jalen",
       "description": "Philadelphia Eagles quarterback Jalen Hurts is expected to miss the rest of the 2026 season after being diagnosed with blood clots in his lungs and leg.",
@@ -49,40 +90,65 @@
       "started_trending": "2026-10-19T15:23:37Z",
       "first_seen": "2026-10-19T15:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "new-america",
-      "rank": 2,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "id": "bronny",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 2
+          "t": "2026-10-19T21:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": 8,
-      "is_new": false,
-      "topic": "New America",
-      "description": "Donald Trump stated that New Mexico should immediately change its name to New America, sparking widespread media attention and discussion on social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/New%20America",
-      "image_url": "https://dacq68pa0iusn.cloudfront.net/filters:format(webp)/AlliedFlag/StateFlags/NewMexico-State-Flag/new+mexico_flag-NewMexico-StateFlags.jpg",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bronny",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Bronny",
+      "image_url": "https://d.newsweek.com/en/full/2582141/bronny-james.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T19:23:39Z",
-      "first_seen": "2026-10-19T19:23:39Z",
+      "started_trending": "2026-10-19T21:23:32Z",
+      "first_seen": "2026-10-19T21:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dalton-knecht",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dalton Knecht",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Dalton%20Knecht",
+      "image_url": "https://heavy.com/wp-content/uploads/2026/10/los-angeles-lakers-v-houston-rockets-houston-texas-march-16-dalton.jpg?quality=35&strip=all&w=1350",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T21:23:32Z",
+      "first_seen": "2026-10-19T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -91,17 +157,21 @@
     },
     {
       "id": "howie",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 5,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-19T20:23:36Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Howie",
       "description": "Hungry Howie's is trending as it expands with seven new restaurants across five states, while sports fans discuss Philadelphia Eagles executive Howie Roseman amid the team's losses.",
       "description_source": "gemini",
@@ -111,40 +181,7 @@
       "started_trending": "2026-10-19T20:23:36Z",
       "first_seen": "2026-10-19T20:23:36Z",
       "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "eagles",
-      "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Eagles",
-      "description": "The Philadelphia Eagles are trending on social media as quarterback Jalen Hurts is ruled out for the season due to blood clots in his lungs, leaving fans concerned about the team's offense.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Eagles",
-      "image_url": "https://www.urlaubstracker.de/wp-content/uploads/2019/04/usa-philadelphia-skyline.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T19:23:39Z",
-      "first_seen": "2026-10-19T19:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
+      "last_seen": "2026-10-19T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -153,7 +190,7 @@
     },
     {
       "id": "kim-jong-un",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -168,9 +205,13 @@
         {
           "t": "2026-10-19T20:23:36Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": 9,
+      "rank_change": 8,
       "is_new": false,
       "topic": "Kim Jong Un",
       "description": "Unconfirmed rumors and claims have circulated on social media regarding North Korean leader Kim Jong Un's health and potential leadership changes, alongside renewed border tensions with South Korea.",
@@ -181,7 +222,7 @@
       "started_trending": "2026-10-19T18:23:35Z",
       "first_seen": "2026-10-19T18:23:35Z",
       "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
+      "last_seen": "2026-10-19T21:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -189,18 +230,154 @@
       "extra": {}
     },
     {
-      "id": "bungie",
-      "rank": 6,
+      "id": "coys",
+      "rank": 7,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-19T19:23:39Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-19T20:23:36Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "#COYS",
+      "description": "Tottenham Hotspur fans are using the hashtag #COYS on social media as their team faces Coventry City in a match.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23COYS",
+      "image_url": "https://wallpapercat.com/w/full/7/1/8/241649-2560x1600-desktop-hd-tottenham-hotspur-fc-wallpaper-photo.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T19:23:39Z",
+      "first_seen": "2026-10-19T19:23:39Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "eagles",
+      "rank": 8,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-19T19:23:39Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-19T20:23:36Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Eagles",
+      "description": "The Philadelphia Eagles are trending on social media as quarterback Jalen Hurts is ruled out for the season due to blood clots in his lungs, leaving fans concerned about the team's offense.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Eagles",
+      "image_url": "https://www.urlaubstracker.de/wp-content/uploads/2019/04/usa-philadelphia-skyline.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T19:23:39Z",
+      "first_seen": "2026-10-19T19:23:39Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "davante-adams",
+      "rank": 9,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 6
+          "t": "2026-10-19T21:23:32Z",
+          "r": 9
         }
       ],
       "rank_change": null,
       "is_new": true,
+      "topic": "Davante Adams",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Davante%20Adams",
+      "image_url": "https://www.totalprosports.com/wp-content/uploads/2026/10/Davante-Adams-enh-1024x563.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T21:23:32Z",
+      "first_seen": "2026-10-19T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brandon-miller",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Brandon Miller",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Brandon%20Miller",
+      "image_url": "https://cdn.nba.com/teams/uploads/sites/1610612766/2024/01/GettyImages-1950960509BRANDON_MILLER_AS_GALLERY__013024.jpg?imwidth=1920&imheight=2880",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T21:23:32Z",
+      "first_seen": "2026-10-19T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bungie",
+      "rank": 11,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-19T20:23:36Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
       "topic": "Bungie",
       "description": "Rumors are circulating that Disney is in early talks with Bungie and DICE as potential development partners for Star Wars Battlefront 3.",
       "description_source": "gemini",
@@ -210,7 +387,7 @@
       "started_trending": "2026-10-19T20:23:36Z",
       "first_seen": "2026-10-19T20:23:36Z",
       "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
+      "last_seen": "2026-10-19T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -218,8 +395,169 @@
       "extra": {}
     },
     {
+      "id": "cardi",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cardi",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Cardi",
+      "image_url": "https://cdn.britannica.com/85/229185-050-3CC1C44E/Cardi-B-2019.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T21:23:32Z",
+      "first_seen": "2026-10-19T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "poona-ford",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Poona Ford",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Poona%20Ford",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/sD1HJSoZMLPKeCFXlEbTJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE0NDE7Y2Y9d2VicA--/https://media.zenfs.com/en/la_times_articles_853/7b24bab66b9fe840ee3778b6155298b1",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T21:23:32Z",
+      "first_seen": "2026-10-19T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tottenham",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tottenham",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Tottenham",
+      "image_url": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAxNjI4MTgw/tottenham-hotspur-v-aston-villa-fc-premier-league-2026-27.jpg?profile=share16-9",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T21:23:32Z",
+      "first_seen": "2026-10-19T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "maddison",
+      "rank": 15,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-19T19:23:39Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-19T20:23:36Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Maddison",
+      "description": "Tottenham player James Maddison is trending after scoring an early goal against Coventry City, ending a lengthy wait for a strike.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Maddison",
+      "image_url": "https://cdn.britannica.com/82/212182-050-50D9F3CE/basketball-LeBron-James-Cleveland-Cavaliers-2018.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T19:23:39Z",
+      "first_seen": "2026-10-19T19:23:39Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "office-space",
+      "rank": 16,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-19T19:23:39Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-19T20:23:36Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Office Space",
+      "description": "Character actor Richard Riehle, well known for his role in the film Office Space, has passed away at the age of 78, prompting tributes across social media.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Office%20Space",
+      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/office-space-stapler-guy-quotes.jpg",
+      "image_source": "duckduckgo",
+      "started_trending": "2026-10-19T19:23:39Z",
+      "first_seen": "2026-10-19T19:23:39Z",
+      "published": null,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "zuffa",
-      "rank": 7,
+      "rank": 17,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -238,9 +576,13 @@
         {
           "t": "2026-10-19T20:23:36Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": 4,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Zuffa",
       "description": "Shakur Stevenson has been granted his release from Zuffa Boxing without ever fighting for the promotion and plans to start his own promotional company.",
@@ -251,221 +593,36 @@
       "started_trending": "2026-10-19T17:23:37Z",
       "first_seen": "2026-10-19T17:23:37Z",
       "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "maddison",
-      "rank": 8,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Maddison",
-      "description": "Tottenham player James Maddison is trending after scoring an early goal against Coventry City, ending a lengthy wait for a strike.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Maddison",
-      "image_url": "https://cdn.britannica.com/82/212182-050-50D9F3CE/basketball-LeBron-James-Cleveland-Cavaliers-2018.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T19:23:39Z",
-      "first_seen": "2026-10-19T19:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "coys",
-      "rank": 9,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#COYS",
-      "description": "Tottenham Hotspur fans are using the hashtag #COYS on social media as their team faces Coventry City in a match.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23COYS",
-      "image_url": "https://wallpapercat.com/w/full/7/1/8/241649-2560x1600-desktop-hd-tottenham-hotspur-fc-wallpaper-photo.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T19:23:39Z",
-      "first_seen": "2026-10-19T19:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fallout76giveaway",
-      "rank": 10,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-19T18:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "#Fallout76Giveaway",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23Fallout76Giveaway",
-      "image_url": "https://sportshub.cbsistatic.com/i/2023/12/02/06774a01-c93a-40c9-924e-8e502780d3ef/fallout-maximus.jpg?auto=webp&width=1944&height=2880&crop=0.675:1,smart",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T18:23:35Z",
-      "first_seen": "2026-10-19T18:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chris-bosh",
-      "rank": 11,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-19T15:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-19T17:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-19T18:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Chris Bosh",
-      "description": "Following Philadelphia Eagles quarterback Jalen Hurts' blood clot diagnosis, sports commentators and fans on social media have compared his situation to past cases involving athletes like Chris Bosh.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chris%20Bosh",
-      "image_url": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/03/mixcollage-07-mar-2024-10-13-am-3327.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T15:23:37Z",
-      "first_seen": "2026-10-19T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "marmoush",
-      "rank": 12,
+      "id": "kobie-turner",
+      "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 12
+          "t": "2026-10-19T21:23:32Z",
+          "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Marmoush",
-      "description": "The material does not make this topic clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Marmoush",
-      "image_url": "https://s.hs-data.com/bilder/teamfotos/640x360/552.jpg",
+      "topic": "Kobie Turner",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Kobie%20Turner",
+      "image_url": "https://images.inkl.com/s3/article/lead_image/19808475/1815430723-scaled.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T20:23:36Z",
-      "first_seen": "2026-10-19T20:23:36Z",
+      "started_trending": "2026-10-19T21:23:32Z",
+      "first_seen": "2026-10-19T21:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "office-space",
-      "rank": 13,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Office Space",
-      "description": "Character actor Richard Riehle, well known for his role in the film Office Space, has passed away at the age of 78, prompting tributes across social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Office%20Space",
-      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/office-space-stapler-guy-quotes.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T19:23:39Z",
-      "first_seen": "2026-10-19T19:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
+      "last_seen": "2026-10-19T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -474,7 +631,7 @@
     },
     {
       "id": "richard-riehle",
-      "rank": 14,
+      "rank": 19,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -485,9 +642,13 @@
         {
           "t": "2026-10-19T20:23:36Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-19T21:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": 0,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Richard Riehle",
       "description": "Tributes are pouring in on social media following the death of veteran character actor Richard Riehle, best known for his memorable roles in Office Space and other films, at age 78.",
@@ -498,233 +659,36 @@
       "started_trending": "2026-10-19T19:23:39Z",
       "first_seen": "2026-10-19T19:23:39Z",
       "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-19T21:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jump-to-conclusions",
-      "rank": 15,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Jump to Conclusions",
-      "description": "Fans are remembering character actor Richard Riehle following his death at 78, frequently highlighting his iconic scene-stealing moments and gags from the film Office Space.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jump%20to%20Conclusions",
-      "image_url": "https://images-na.ssl-images-amazon.com/images/I/91EDI7zrnHL._AC_SL1500_.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T19:23:39Z",
-      "first_seen": "2026-10-19T19:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "london",
-      "rank": 16,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T17:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-19T18:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "London",
-      "description": "Reports revealed that Philadelphia Eagles quarterback Jalen Hurts played a game in London following a hospital stay and staying awake for 36 hours before his blood clot diagnosis.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/London",
-      "image_url": "https://coxassociates.co.uk/wp-content/uploads/2024/06/cox-architects-blog-1.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T16:23:37Z",
-      "first_seen": "2026-10-19T16:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "grounded-for-life",
-      "rank": 17,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Grounded for Life",
-      "description": "Social media users are mourning the death of character actor Richard Riehle at age 78, sharing highlights from his extensive career in films like Office Space.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Grounded%20for%20Life",
-      "image_url": "https://www.the-sun.com/wp-content/uploads/sites/6/2022/08/NINTCHDBPICT000754765106-4.jpg",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T19:23:39Z",
-      "first_seen": "2026-10-19T19:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tiny-desk",
-      "rank": 18,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-19T17:23:37Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-19T18:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Tiny Desk",
-      "description": "Cardi B is trending on social media following the release of her energetic and unapologetic NPR Tiny Desk Concert performance.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tiny%20Desk",
-      "image_url": "https://www.billboard.com/wp-content/uploads/2026/10/cardi-b-npr-tiny-desk-billboard-1800.jpg?w=1024",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T17:23:37Z",
-      "first_seen": "2026-10-19T17:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nelson",
-      "rank": 19,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-19T16:23:37Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-19T17:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-19T18:23:35Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-19T19:23:39Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-19T20:23:36Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Nelson",
-      "description": "Colts guard Quenton Nelson is trending in NFL discussions on social media as a potential trade target amid rumors following a general manager firing.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nelson",
-      "image_url": "https://media.licdn.com/dms/image/C5622AQH_PMBTCUWqoA/feedshare-shrink_2048_1536/0/1678128395780?e=2147483647&v=beta&t=DPKcPbusUkluQApbAf5rZlAYx5LGvLeXfLEfxNJ4Tz8",
-      "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T16:23:37Z",
-      "first_seen": "2026-10-19T16:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "battlefront-3",
+      "id": "ben-davies",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-19T20:23:36Z",
+          "t": "2026-10-19T21:23:32Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Battlefront 3",
-      "description": "Rumors are circulating online that Disney and Lucasfilm are in early talks with Bungie and DICE regarding the development of Star Wars Battlefront 3.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Battlefront%203",
-      "image_url": "https://gaming-cdn.com/images/products/8685/orig-fallback-v1/star-wars-battlefront-iii-pc-game-cover.jpg?v=1686827532",
+      "topic": "Ben Davies",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Ben%20Davies",
+      "image_url": "https://static.independent.co.uk/2023/02/20/12/b740f9632412ca8c1c10a63dd49705c0Y29udGVudHNlYXJjaGFwaSwxNjc2OTc5NDk2-2.71054085.jpg",
       "image_source": "duckduckgo",
-      "started_trending": "2026-10-19T20:23:36Z",
-      "first_seen": "2026-10-19T20:23:36Z",
+      "started_trending": "2026-10-19T21:23:32Z",
+      "first_seen": "2026-10-19T21:23:32Z",
       "published": null,
-      "last_seen": "2026-10-19T20:23:36Z",
+      "last_seen": "2026-10-19T21:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
