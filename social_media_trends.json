@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-20T20:25:38Z",
+  "updated": "2026-10-20T21:25:27Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-20T20:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 1
         }
       ],
       "rank_change": 8,
       "is_new": false,
       "topic": "Paul George",
-      "description": "Boston Celtics player Paul George is drawing attention on social media for his clever reason for wearing jersey number 13 and discussions surrounding team expectations.",
+      "description": "Paul George is trending after moving into 8th place on the NBA's all-time 3-pointers made list and making history in an explosive season opener.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Paul%20George",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.pvK60l-KUXpnDO9D0zpmKQHaE8&pid=15.1",
@@ -33,7 +37,69 @@
       "started_trending": "2026-10-20T19:23:36Z",
       "first_seen": "2026-10-20T19:23:36Z",
       "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tatum",
+      "rank": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-20T20:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Tatum",
+      "description": "Jayson Tatum is trending in discussions about the Boston Celtics' season outlook, an Amica campaign announcement, and a viral red carpet moment involving reality star Trinity Tatum.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tatum",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.8l_swkIlzX9T78p-cEu8ZQHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T20:23:34Z",
+      "first_seen": "2026-10-20T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "celtics",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Celtics",
+      "description": "The Boston Celtics are trending as they face the Detroit Pistons in their opening game of the NBA season.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Celtics",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.sNPwghl8hF/aRJ28M9xwKg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T21:23:34Z",
+      "first_seen": "2026-10-20T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -42,19 +108,23 @@
     },
     {
       "id": "pistons",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-20T20:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Pistons",
-      "description": "The Detroit Pistons are trending as they face the Boston Celtics in their opening game of the NBA season.",
+      "description": "The Detroit Pistons are trending due to their opening game matchup against the Boston Celtics.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Pistons",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.5CIdvT7qHQIJVVy8a6G9iA&pid=15.1",
@@ -62,242 +132,36 @@
       "started_trending": "2026-10-20T20:23:34Z",
       "first_seen": "2026-10-20T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "tatum",
-      "rank": 3,
+      "id": "duncan-robinson",
+      "rank": 5,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tatum",
-      "description": "Jayson Tatum is trending as social media discusses his final injury report ahead of the Celtics' opening game against the Pistons and recent comments on NBA Europe.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tatum",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "vivek",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-20T15:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-20T16:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-20T17:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-20T18:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-20T19:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Vivek",
-      "description": "Vivek Ramaswamy is facing heavy backlash on social media for platforming the estranged and abusive mother of Ohio gubernatorial candidate Dr. Amy Acton in a new attack ad.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Vivek",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.DnlDitG7f5KcPZ7kvj46tQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T15:23:33Z",
-      "first_seen": "2026-10-20T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mitchell-robinson",
-      "rank": 5,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-10-20T19:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-20T20:23:34Z",
+          "t": "2026-10-20T21:23:34Z",
           "r": 5
         }
       ],
-      "rank_change": 11,
-      "is_new": false,
-      "topic": "Mitchell Robinson",
-      "description": "Mitchell Robinson is making news after drawing a start at center for the Celtics and reportedly suffering an injury during his debut without leaving the game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mitchell%20Robinson",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xhoUVyG3gRu9O_UY2gy6_QHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T19:23:36Z",
-      "first_seen": "2026-10-20T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nick-shirley",
-      "rank": 6,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-20T19:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Nick Shirley",
-      "description": "Right-wing YouTuber Nick Shirley is trending after Donald Trump awarded him a payout and check through a fraud whistleblower program for his video on Minnesota child-care fraud.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nick%20Shirley",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.mrtgH9PBwigu4_33EkpK4gHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T19:23:36Z",
-      "first_seen": "2026-10-20T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dembele",
-      "rank": 7,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-20T19:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Dembele",
-      "description": "Ousmane Dembélé is trending on social media after being subbed off early with an injury during Paris Saint-Germain's Champions League clash against Barcelona.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dembele",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.tWJ8MIXGnzJbAz5ZdVgxwQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T19:23:36Z",
-      "first_seen": "2026-10-20T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ausar",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 8
-        }
-      ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Ausar",
-      "description": "Ausar Thompson is trending as social media discusses his fantasy outlook and potential to emerge as a difference-maker for the Detroit Pistons ahead of their opening game.",
+      "topic": "Duncan Robinson",
+      "description": "Duncan Robinson is trending as he begins the 2026-27 NBA season and looks to prove himself defensively following a matchup against the Boston Celtics.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ausar",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
+      "url": "https://twstalker.com/search/Duncan%20Robinson",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.-U9XnKYyqV9HUejum7HyYgHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T21:23:34Z",
+      "first_seen": "2026-10-20T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "xavi",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "XAVI",
-      "description": "Xavi Rodriguez Vila is trending following international padel federation match headlines connecting him to recent tournament draws.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/XAVI",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
+      "last_seen": "2026-10-20T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -306,7 +170,7 @@
     },
     {
       "id": "barca",
-      "rank": 10,
+      "rank": 6,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -317,12 +181,16 @@
         {
           "t": "2026-10-20T20:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": 2,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Barca",
-      "description": "FC Barcelona is trending online as fans discuss their official line-up and live streaming options for their high-profile UEFA Champions League match against PSG.",
+      "description": "Barça is trending following their Champions League match against Paris Saint-Germain.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Barca",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.lEXPIEMs3ywZGcb7GcO1Dw&pid=15.1",
@@ -330,152 +198,32 @@
       "started_trending": "2026-10-20T19:23:36Z",
       "first_seen": "2026-10-20T19:23:36Z",
       "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "milliondollarpitch",
-      "rank": 11,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-20T18:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-20T19:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "#MillionDollarPitch",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23MillionDollarPitch",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.1KzwQGsRFU7IJWLgdfCSvAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T18:23:32Z",
-      "first_seen": "2026-10-20T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cade",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cade",
-      "description": "Cade Cunningham is trending on social media as he greets Detroit Pistons fans and appears on the final injury report ahead of opening day against the Celtics.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cade",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.IGhVAz2djUeyEP7tknssUAEsDH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fermin",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Fermin",
-      "description": "Barcelona midfielder Fermin is generating concern on social media after reportedly being taken off injured during the match against PSG.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fermin",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "joan-garcia",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Joan Garcia",
-      "description": "Joan Garcia is trending as part of Barcelona's named squad and discussions surrounding top Spanish goalkeepers in current football competitions.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Joan%20Garcia",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lamine",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 7,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-20T20:23:34Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 8,
+      "is_new": false,
       "topic": "Lamine",
-      "description": "Lamine Yamal is trending on social media after scoring a remarkable goal for Barcelona, prompting widespread praise and comparisons regarding his meteoric rise.",
+      "description": "Lamine Yamal is trending after scoring a standout goal in the Champions League against PSG, despite an earlier error leading to a goal.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Lamine",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP._W0RpUIpIyUUMkies2au4QHaE8&pid=15.1",
@@ -483,94 +231,188 @@
       "started_trending": "2026-10-20T20:23:34Z",
       "first_seen": "2026-10-20T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "bernal",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "vivek",
+      "rank": 8,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bernal",
-      "description": "Facundo Bernal is trending following a challenge by Real Betis on a referee report to reduce his ban following a clash with Barcelona.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bernal",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "doue",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
+          "t": "2026-10-20T16:23:31Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-20T17:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-20T18:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-20T19:23:36Z",
+          "r": 1
+        },
         {
           "t": "2026-10-20T20:23:34Z",
-          "r": 17
+          "r": 4
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Doue",
-      "description": "Désiré Doué is trending on social media after starring and helping PSG score first in their Champions League clash against Barcelona.",
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Vivek",
+      "description": "Vivek Ramaswamy is trending after bringing up Ohio gubernatorial candidate Amy Acton's estranged and abusive mother in a campaign ad.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Doue",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.qZ1MPwP-Y3L7O1tA8nujSgHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Vivek",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.DnlDitG7f5KcPZ7kvj46tQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
+      "started_trending": "2026-10-20T15:23:33Z",
+      "first_seen": "2026-10-20T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nick-shirley",
+      "rank": 9,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-20T19:23:36Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-20T20:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Nick Shirley",
+      "description": "Nick Shirley is trending after President Trump awarded the YouTuber and influencer a $10,000 check and launched a whistleblower program following his Minnesota child-care fraud video.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Nick%20Shirley",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.mrtgH9PBwigu4_33EkpK4gHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T19:23:36Z",
+      "first_seen": "2026-10-20T19:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gordon",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 10,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-10-20T20:23:34Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Gordon",
+      "description": "Gordon is trending across diverse news, including a wall street swindler in California, Gordon Ramsay's upcoming Lucky Cat Steak in Miami, and memorial notices.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Gordon",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.bAT6yO9qdpCqgfsRRXwEzAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T20:23:34Z",
+      "first_seen": "2026-10-20T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cade",
+      "rank": 11,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-20T20:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Cade",
+      "description": "Cade Cunningham is trending as he addresses fans and prepares with the Detroit Pistons for their opening day game against the Celtics.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cade",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.IGhVAz2djUeyEP7tknssUAEsDH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T20:23:34Z",
+      "first_seen": "2026-10-20T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "barcelona",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Gordon",
-      "description": "Gordon Ramsay is making headlines as food fans and travelers anticipate the opening of his new Lucky Cat Steak restaurant in Miami Beach.",
+      "topic": "Barcelona",
+      "description": "Barcelona is trending following their Champions League match against Paris Saint-Germain.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gordon",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
+      "url": "https://twstalker.com/search/Barcelona",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.lEXPIEMs3ywZGcb7GcO1Dw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T21:23:34Z",
+      "first_seen": "2026-10-20T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
+      "last_seen": "2026-10-20T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -578,77 +420,247 @@
       "extra": {}
     },
     {
-      "id": "amy-acton",
-      "rank": 19,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "id": "javonte-green",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-20T15:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-20T16:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-20T17:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-20T18:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-20T19:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 19
+          "t": "2026-10-20T21:23:34Z",
+          "r": 13
         }
       ],
-      "rank_change": -17,
-      "is_new": false,
-      "topic": "Amy Acton",
-      "description": "Ohio gubernatorial candidate Dr. Amy Acton and her campaign are condemning a controversial new attack ad featuring her estranged mother calling the candidate a liar.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Javonte Green",
+      "description": "Javonte Green is trending alongside the Detroit Pistons as players walk the blue carpet ahead of their season opener against the Boston Celtics.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Amy%20Acton",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.3gRzrnA3gocg-ypF9kR-cwAAAA&pid=15.1",
+      "url": "https://twstalker.com/search/Javonte%20Green",
+      "image_url": "https://ts3.explicit.bing.net/th?id=OIP.pz3x8YsAu_VdzywmBW5DiQHaFa&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T11:47:04Z",
-      "first_seen": "2026-10-20T11:47:04Z",
+      "started_trending": "2026-10-20T21:23:34Z",
+      "first_seen": "2026-10-20T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "pedri",
+      "id": "pg13",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "PG13",
+      "description": "PG13 is trending alongside discussions of film reviews and trailers such as Wildwood and In Waves.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/PG13",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.-XU64jiEViF4YUYoxH-5awHaKF&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T21:23:34Z",
+      "first_seen": "2026-10-20T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ausar",
+      "rank": 15,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-20T20:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Ausar",
+      "description": "Ausar Thompson is trending as fantasy basketball analysts evaluate his outlook and his role in the Detroit Pistons' season opener against the Boston Celtics.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ausar",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.c4RJEEbYlQ5V6rfjDdncTgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T20:23:34Z",
+      "first_seen": "2026-10-20T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dembele",
+      "rank": 16,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-20T19:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-20T20:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -13,
+      "is_new": false,
+      "topic": "Dembele",
+      "description": "Ousmane Dembele is trending after limping off the field with an injury during Paris Saint-Germain's Champions League match against Barcelona.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dembele",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.tWJ8MIXGnzJbAz5ZdVgxwQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T19:23:36Z",
+      "first_seen": "2026-10-20T19:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cancelo",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cancelo",
+      "description": "Cancelo is trending as he aims for redemption and prepares with Barcelona manager Hansi Flick to face Paris Saint-Germain.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cancelo",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Arrn3qpd18gfT_1l3o8DmwHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T21:23:34Z",
+      "first_seen": "2026-10-20T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jaylen-brown",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jaylen Brown",
+      "description": "Jaylen Brown is trending amid NBA opening day discussions, fantasy basketball outlooks, and commentary surrounding his team.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jaylen%20Brown",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.pW1d7VGV4jysojkeI/ZXJw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T21:23:34Z",
+      "first_seen": "2026-10-20T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "xavi",
+      "rank": 19,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-20T20:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-20T21:23:34Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "Xavi",
+      "description": "Xavi is trending following the aftermath and hot takes from the Champions League match between PSG and Barcelona.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Xavi",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.OBaXNM7XMs-1fdgMMjZ1wwHaJc&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T20:23:34Z",
+      "first_seen": "2026-10-20T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-20T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ferran",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-20T20:23:34Z",
+          "t": "2026-10-20T21:23:34Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Pedri",
-      "description": "Pedri is drawing attention on social media for discussing match keys against PSG and warning teammate Ferran Torres, alongside comments advising against comparing Lamine Yamal to Lionel Messi.",
+      "topic": "Ferran",
+      "description": "Ferran Torres is trending following reports detailing his past fallout with Barcelona leading to his transfer to Paris Saint-Germain.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Pedri",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.3ULjP0DeNQqP62q1Xx8K4AHaD5&pid=15.1",
+      "url": "https://twstalker.com/search/Ferran",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.TU6lIHv04vemGH1cxG5j2Q&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
+      "started_trending": "2026-10-20T21:23:34Z",
+      "first_seen": "2026-10-20T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-20T20:23:34Z",
+      "last_seen": "2026-10-20T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
