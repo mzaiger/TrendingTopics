@@ -458,12 +458,12 @@ def heuristic_query(topic: str, description: str = "") -> str:
 
 
 def items_needing_images(raw_items: list[dict], previous_doc: dict, limit: int) -> list[dict]:
-    """Items that still need a picture (no DuckDuckGo image saved from an earlier run)."""
+    """Items that still need a picture (no DuckDuckGo preview image saved from an earlier run)."""
     prev = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
     out = []
     for it in raw_items:
         old = prev.get(it["id"])
-        if old and old.get("image_url") and old.get("image_source") == "duckduckgo":
+        if old and old.get("image_url") and old.get("image_source") == DDG_SOURCE:
             continue
         out.append(it)
         if len(out) >= limit:
@@ -550,6 +550,11 @@ def gemini_enrich(desc_targets: list[dict], image_targets: list[dict], task: str
 
 # ----------------------------------------------------------------- DuckDuckGo images
 
+# image_source tag for pictures saved from DuckDuckGo's own preview (thumbnail) of a result.
+# Items saved earlier with the old "duckduckgo" tag hotlinked the full picture on another site,
+# so they don't match this tag and get looked up again (their old picture stays until then).
+DDG_SOURCE = "duckduckgo_thumb"
+
 _TITLE_STOP = {"the", "a", "an", "of", "and", "vs", "v", "in", "on", "at", "to", "for", "with",
                "is", "are", "by", "from", "new", "news", "photo", "image", "pictures", "picture",
                "official", "live"}
@@ -564,18 +569,20 @@ def _tokens(text: str) -> set[str]:
 
 
 def pick_best_image(results: list[dict], topic: str, query: str) -> Optional[str]:
-    """Choose the most relevant of DuckDuckGo's candidates.
+    """Choose the most relevant of DuckDuckGo's candidates and return its search-engine preview.
 
     The search engine only matches keywords, so we check each candidate's own title/source against
     the topic (weighted most) and the query, prefer decent-sized, normal-shaped pictures, and avoid
-    logos / clip art / stock-photo watermarks. Returns None if nothing shares a word with the topic.
+    logos / clip art / stock-photo watermarks. Returns the candidate's DuckDuckGo thumbnail (hosted
+    by the search engine, not the original site), or None if nothing shares a word with the topic.
     """
     topic_t = _tokens(topic)
     extra_t = _tokens(query) - topic_t
     best_url, best_score, best_hit = None, -1e9, False
     for idx, r in enumerate(results):
-        url = r.get("image") or ""
-        if not url.startswith("http"):
+        url = r.get("image") or ""            # original picture: only used to judge the candidate
+        thumb = r.get("thumbnail") or ""      # DuckDuckGo's own preview: this is what we keep
+        if not thumb.startswith("http"):
             continue
         title = f"{r.get('title') or ''} {r.get('source') or ''}"
         title_t = _tokens(title)
@@ -598,7 +605,7 @@ def pick_best_image(results: list[dict], topic: str, query: str) -> Optional[str
             score -= 0.5
         score -= idx * 0.05            # DuckDuckGo's own order breaks ties
         if score > best_score:
-            best_url, best_score, best_hit = url, score, (topic_cov > 0 or extra_cov > 0)
+            best_url, best_score, best_hit = thumb, score, (topic_cov > 0 or extra_cov > 0)
     return best_url if best_hit else None
 
 
@@ -704,13 +711,13 @@ def apply_images(items: list[dict], previous_doc: dict, finder: ImageFinder) -> 
     prev = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
     for it in items:
         old = prev.get(it["id"])
-        if old and old.get("image_url") and old.get("image_source") == "duckduckgo":
-            it["image_url"], it["image_source"] = old["image_url"], "duckduckgo"
+        if old and old.get("image_url") and old.get("image_source") == DDG_SOURCE:
+            it["image_url"], it["image_source"] = old["image_url"], DDG_SOURCE
             continue
         query = it.get("_image_query") or heuristic_query(it["topic"], it.get("description", ""))
         url = finder.find(query, topic=it["topic"])
         if url:
-            it["image_url"], it["image_source"] = url, "duckduckgo"
+            it["image_url"], it["image_source"] = url, DDG_SOURCE
         elif it.get("_image_hint"):
             it["image_url"], it["image_source"] = it["_image_hint"], "feed"
         elif old and old.get("image_url"):
