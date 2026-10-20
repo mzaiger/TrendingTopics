@@ -97,7 +97,7 @@ the script runs, the fuller the list.
       "description_source": "feed",
       "url": "https://www.google.com/search?q=titans+vs+ravens",
       "image_url": "https://...",
-      "image_source": "duckduckgo",
+      "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-04T16:20:00Z",
       "first_seen": "2026-10-04T16:20:00Z",
       "published": "2026-10-04T16:00:00Z",
@@ -129,7 +129,7 @@ the script runs, the fuller the list.
   `12hr trend`, or `<1hr trend`) or `searches` (Google: `volume_value` = Google's approximate search count).
 - `last_seen` is the last run in which the topic was in the feed.
 - `description_source` is `feed`, `gemini`, `template`, or whatever it was when carried over.
-- `image_source` is `duckduckgo`, or `feed` when DuckDuckGo had no good match and the feed's own picture was used.
+- `image_source` is `duckduckgo_thumb` (DuckDuckGo's own preview image, hosted by the search engine), or `feed` when DuckDuckGo had no good match and the feed's own picture was used.
 
 ---
 
@@ -284,7 +284,10 @@ Each new topic gets one picture, in three steps:
 2. **Pick the best match.** The script asks DuckDuckGo for 12 candidates and scores each one: how many
    of the topic's words appear in the candidate's own title, how many of the query's extra words do,
    decent size and shape, minus points for logos, clip art, tiny images and stock-photo watermarks.
-   If nothing shares a word with the topic, it takes no picture rather than a wrong one.
+   If nothing shares a word with the topic, it takes no picture rather than a wrong one. The saved
+   `image_url` is DuckDuckGo's own **preview thumbnail** of the winning candidate (hosted by the search
+   engine), not the original picture on the other site. Topics saved by older versions (`image_source`
+   `duckduckgo`) are looked up again, up to `IMAGE_MAX_LOOKUPS` per run, and keep their old picture until then.
 3. **Fallback.** Google topics then use Google's own news photo; Reddit uses the post's thumbnail;
    otherwise the tile shows "No Image".
 
@@ -363,4 +366,3 @@ python -m http.server 8000       # then open http://localhost:8000
 | Every topic says `<1hr trend` after the first run | Hours trending count from when a topic was added to the JSON, so they all start at zero together. |
 
 ---
-
