@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-21T22:25:14Z",
+  "updated": "2026-10-21T23:25:02Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -36,12 +36,16 @@
         {
           "t": "2026-10-21T22:23:37Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "BioWare",
-      "description": "Electronic Arts is shutting down the storied RPG studio BioWare and laying off hundreds of employees as part of a major cost-cutting restructure.",
+      "description": "Electronic Arts is shutting down BioWare after 30 years and laying off 400 employees in a major studio restructuring.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/BioWare",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.YAxvJGxfwoWskQQkUV5gpAHaEK&pid=15.1",
@@ -49,7 +53,7 @@
       "started_trending": "2026-10-21T17:23:33Z",
       "first_seen": "2026-10-21T17:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
+      "last_seen": "2026-10-21T23:23:32Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -85,12 +89,16 @@
         {
           "t": "2026-10-21T22:23:37Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 2
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Mass Effect",
-      "description": "Following Electronic Arts' decision to shut down BioWare, the studio's anticipated Mass Effect 5 has been officially cancelled.",
+      "description": "Electronic Arts has canceled the next Mass Effect game and shut down its developer, BioWare, amid sweeping corporate layoffs.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mass%20Effect",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.dNV4xMVFSvglZ5AjubgTxwHaLH&pid=15.1",
@@ -98,7 +106,7 @@
       "started_trending": "2026-10-21T17:23:33Z",
       "first_seen": "2026-10-21T17:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
+      "last_seen": "2026-10-21T23:23:32Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -106,65 +114,28 @@
       "extra": {}
     },
     {
-      "id": "dragon-age",
+      "id": "cmgstats",
       "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-21T21:23:38Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-21T22:23:37Z",
+          "t": "2026-10-21T23:23:32Z",
           "r": 3
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Dragon Age",
-      "description": "Fans are discussing the legacy of Dragon Age and Mass Effect as parent company EA abruptly shuts down their developer, BioWare, after 30 years.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dragon%20Age",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.CWWT4fRZdVWhiml6RhH9zwHaEK&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#CMGStats",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23CMGStats",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.TsWuIukG-LIxOedrQQd73wHaDN&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T21:23:38Z",
-      "first_seen": "2026-10-21T21:23:38Z",
+      "started_trending": "2026-10-21T23:23:32Z",
+      "first_seen": "2026-10-21T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "diomande",
-      "rank": 4,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-21T21:23:38Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-21T22:23:37Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Diomande",
-      "description": "Yan Diomande scored a stunning volley during Real Madrid's comfortable 4-1 victory over RB Leipzig in the Champions League.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Diomande",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.oWVN7MUk8CjncSwFiVHiXw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T21:23:38Z",
-      "first_seen": "2026-10-21T21:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
+      "last_seen": "2026-10-21T23:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -173,7 +144,7 @@
     },
     {
       "id": "anthem",
-      "rank": 5,
+      "rank": 4,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -188,12 +159,16 @@
         {
           "t": "2026-10-21T22:23:37Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": 0,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Anthem",
-      "description": "The national anthem is trending due to discussions surrounding WNBA Finals teams skipping the pre-game performances and Alanis Morissette's recent rendition.",
+      "description": "The WNBA has faced national anthem controversies, while a bald eagle is set to join the World Series anthem ceremony.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Anthem",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.yxzkfsKYblwLLsjetUqwRw&pid=15.1",
@@ -201,7 +176,7 @@
       "started_trending": "2026-10-21T20:23:33Z",
       "first_seen": "2026-10-21T20:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
+      "last_seen": "2026-10-21T23:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -209,8 +184,70 @@
       "extra": {}
     },
     {
-      "id": "kenan",
+      "id": "haiti",
+      "rank": 5,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-21T22:23:37Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Haiti",
+      "description": "El Salvador announced a military operation and issued threats against Haitian gangs after four Salvadorans were taken hostage.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Haiti",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.H78NZyW7qW2mdxm2mkFUIAHaFO&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T22:23:37Z",
+      "first_seen": "2026-10-21T22:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ilhan-nur",
       "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ilhan Nur",
+      "description": "Federal authorities have reportedly obtained DNA evidence in a renewed investigation surrounding Ilhan Omar.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ilhan%20Nur",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.QuoiB5F0EMnG5FmPtfmtnAHaEU&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T23:23:32Z",
+      "first_seen": "2026-10-21T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kenan",
+      "rank": 7,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -221,12 +258,16 @@
         {
           "t": "2026-10-21T22:23:37Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 7
         }
       ],
-      "rank_change": 8,
+      "rank_change": 7,
       "is_new": false,
       "topic": "Kenan",
-      "description": "Kenan Thompson is trending after speaking out about Shane Gillis's recent Saturday Night Live monologue, stating that the cast would need a real chat if Gillis hosts again.",
+      "description": "Kenan Thompson revealed that Saturday Night Live cast members would need a real chat with Shane Gillis if he hosts again after his controversial monologue.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Kenan",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.DKUGDBv54lDC7Vr6AC9aZgHaE8&pid=15.1",
@@ -234,129 +275,76 @@
       "started_trending": "2026-10-21T21:23:38Z",
       "first_seen": "2026-10-21T21:23:38Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "carrick",
-      "rank": 7,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "diomande",
+      "rank": 8,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
-          "t": "2026-10-21T18:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-21T19:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-21T20:23:33Z",
-          "r": 3
-        },
-        {
           "t": "2026-10-21T21:23:38Z",
-          "r": 5
+          "r": 4
         },
         {
           "t": "2026-10-21T22:23:37Z",
-          "r": 7
+          "r": 4
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 8
         }
       ],
       "rank_change": -4,
       "is_new": false,
-      "topic": "Carrick",
-      "description": "Manchester United manager Michael Carrick is facing immense pressure and potential dismissal following an embarrassing and humiliating defeat to Como.",
+      "topic": "Diomande",
+      "description": "Yan Diomande scored a stunning volley as Real Madrid defeated RB Leipzig 4-1 in the Champions League.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Carrick",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.VHleHzh2f2DUErcEOpJISwHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Diomande",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.oWVN7MUk8CjncSwFiVHiXw&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T18:23:32Z",
-      "first_seen": "2026-10-21T18:23:32Z",
+      "started_trending": "2026-10-21T21:23:38Z",
+      "first_seen": "2026-10-21T21:23:38Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "kotor",
-      "rank": 8,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-21T20:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-21T21:23:38Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-21T22:23:37Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "KOTOR",
-      "description": "The classic Star Wars game Knights of the Old Republic is trending on social media as players praise it as a refreshing take on the franchise.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/KOTOR",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.X503FRgew8FgQ4-GNfjnaQHaLH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T20:23:33Z",
-      "first_seen": "2026-10-21T20:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bayern",
+      "id": "railway",
       "rank": 9,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-21T20:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-21T21:23:38Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-21T22:23:37Z",
+          "t": "2026-10-21T23:23:32Z",
           "r": 9
         }
       ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Bayern",
-      "description": "Bayern Munich and Arsenal are trending after playing to a hard-fought 2-2 draw in the Champions League, featuring goals from Harry Kane and Alphonso Davies.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Railway",
+      "description": "Railways are making news as companies develop online shipping tools, post strong revenues, and face security threats like sabotage in Ukraine.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bayern",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.wzt-94JZqceCPMGB2QBOWAAAAA&pid=15.1",
+      "url": "https://twstalker.com/search/Railway",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.71nwBBjPtMDQO6y-yH_iCgHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T20:23:33Z",
-      "first_seen": "2026-10-21T20:23:33Z",
+      "started_trending": "2026-10-21T23:23:32Z",
+      "first_seen": "2026-10-21T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -377,12 +365,16 @@
         {
           "t": "2026-10-21T22:23:37Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 10
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "Claude Duet",
-      "description": "Anthropic is trending after unveiling Claude Duet, a new proactive personal AI agent designed to compete in the expanding AI agent market.",
+      "description": "Anthropic has announced the preview of Claude Duet, a new proactive AI agent app competing in the growing artificial intelligence market.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Claude%20Duet",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.g3Va_QA0lHailCHfcmkDVgHaJQ&pid=15.1",
@@ -390,7 +382,7 @@
       "started_trending": "2026-10-21T20:23:33Z",
       "first_seen": "2026-10-21T20:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
+      "last_seen": "2026-10-21T23:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -398,47 +390,84 @@
       "extra": {}
     },
     {
-      "id": "arsenal",
+      "id": "kotor",
       "rank": 11,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-10-21T20:23:33Z",
-          "r": 17
+          "r": 8
         },
         {
           "t": "2026-10-21T21:23:38Z",
-          "r": 12
+          "r": 8
         },
         {
           "t": "2026-10-21T22:23:37Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
           "r": 11
         }
       ],
-      "rank_change": 6,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "Arsenal",
-      "description": "Arsenal secured a hard-fought 2-2 draw against Bayern Munich in the Champions League, thanks in part to Declan Rice saving the Gunners from a rare European defeat.",
+      "topic": "KOTOR",
+      "description": "Knights of the Old Republic is trending as fans revisit the game, while EA's shutdown of BioWare dominates gaming headlines.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Arsenal",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.OY-dWJGNGkTGToaixCRvSQHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/KOTOR",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.X503FRgew8FgQ4-GNfjnaQHaLH&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-21T20:23:33Z",
       "first_seen": "2026-10-21T20:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
+      "last_seen": "2026-10-21T23:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bush",
+      "rank": 12,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-21T22:23:37Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Bush",
+      "description": "Members of the Bush family have broken party lines to endorse Democrat James Talarico in the Texas Senate race.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bush",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.Zgy+iRac0Q0xMGlFkSAQ5w&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T22:23:37Z",
+      "first_seen": "2026-10-21T22:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "glee",
-      "rank": 12,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "rank": 13,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-21T17:23:33Z",
@@ -463,12 +492,16 @@
         {
           "t": "2026-10-21T22:23:37Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 13
         }
       ],
-      "rank_change": -1,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Glee",
-      "description": "Social media is buzzing with news that a Glee reboot is officially happening, with several original stars like Lea Michele reportedly returning.",
+      "description": "A Glee reboot is officially happening, with reports indicating it will land on Disney+ and Hulu with returning cast members.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Glee",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.eYyUrc6ug4PC8WEOhwIJpQHaF7&pid=15.1",
@@ -476,7 +509,7 @@
       "started_trending": "2026-10-21T13:23:35Z",
       "first_seen": "2026-10-21T13:23:35Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
+      "last_seen": "2026-10-21T23:23:32Z",
       "hours_trending": 9,
       "volume": "9hr trend",
       "volume_value": 9,
@@ -484,45 +517,148 @@
       "extra": {}
     },
     {
-      "id": "harry-kane",
-      "rank": 13,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "id": "carrick",
+      "rank": 14,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
+          "t": "2026-10-21T18:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-21T19:23:32Z",
+          "r": 3
+        },
+        {
           "t": "2026-10-21T20:23:33Z",
-          "r": 6
+          "r": 3
         },
         {
           "t": "2026-10-21T21:23:38Z",
-          "r": 9
+          "r": 5
         },
         {
           "t": "2026-10-21T22:23:37Z",
-          "r": 13
+          "r": 7
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": -7,
+      "rank_change": -11,
       "is_new": false,
-      "topic": "Harry Kane",
-      "description": "Harry Kane is making headlines following his standout performance and impact for Bayern Munich during their 2-2 Champions League draw against Arsenal.",
+      "topic": "Carrick",
+      "description": "Michael Carrick is facing pressure at Manchester United following a humiliating defeat to Como and subsequent criticism from Bruno Fernandes.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Harry%20Kane",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.x1pyNOJRqTEO7pfjTtjN7QHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Carrick",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.VHleHzh2f2DUErcEOpJISwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T20:23:33Z",
-      "first_seen": "2026-10-21T20:23:33Z",
+      "started_trending": "2026-10-21T18:23:32Z",
+      "first_seen": "2026-10-21T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bill-buckner",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bill Buckner",
+      "description": "The material does not make a description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bill%20Buckner",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.bvz69For1ewXLkfg5BLtOAHaKM&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T23:23:32Z",
+      "first_seen": "2026-10-21T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "airbnb",
+      "rank": 16,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-21T22:23:37Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Airbnb",
+      "description": "Airbnb has introduced new rules for hosts that ban requiring guests to perform checkout chores like doing dishes, laundry, and taking out the trash.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Airbnb",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.7C44ooS1Q50v15DfaQGkOwHaH-&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T22:23:37Z",
+      "first_seen": "2026-10-21T22:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ilhan-abdullahi-omar",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ilhan Abdullahi Omar",
+      "description": "Ilhan Omar is trending following Donald Trump's calls for her to be jailed, alongside news reports regarding a search warrant and filing details.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ilhan%20Abdullahi%20Omar",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Vy288mHy5lGActRm62L1EQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T23:23:32Z",
+      "first_seen": "2026-10-21T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "laporta",
-      "rank": 14,
+      "rank": 18,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -541,12 +677,16 @@
         {
           "t": "2026-10-21T22:23:37Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": 3,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Laporta",
-      "description": "Detroit Lions tight end Sam LaPorta is speaking out about his frustration over a lack of a contract extension ahead of the 2027 free agency.",
+      "description": "Detroit Lions tight end Sam LaPorta expressed frustration over ongoing contract negotiations, stating he feels a lack of appreciation from the team.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Laporta",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.B1yVAtN4pWM5JmE194sjVgHaE8&pid=15.1",
@@ -554,81 +694,7 @@
       "started_trending": "2026-10-21T19:23:32Z",
       "first_seen": "2026-10-21T19:23:32Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "haiti",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-21T22:23:37Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Haiti",
-      "description": "El Salvador announced a military operation in Haiti to rescue United Nations force members held hostage by local gangs.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Haiti",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.H78NZyW7qW2mdxm2mkFUIAHaFO&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T22:23:37Z",
-      "first_seen": "2026-10-21T22:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "manchester-united",
-      "rank": 16,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-21T18:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-21T19:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-21T20:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-21T21:23:38Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-21T22:23:37Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Manchester United",
-      "description": "Manchester United manager Michael Carrick is facing intense pressure and criticism from players following a dismal 4-1 Champions League defeat against Como.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Manchester%20United",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.c1Fri6Oj0U2ukBrEIRBcLg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T18:23:32Z",
-      "first_seen": "2026-10-21T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
+      "last_seen": "2026-10-21T23:23:32Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -636,101 +702,10 @@
       "extra": {}
     },
     {
-      "id": "airbnb",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-21T22:23:37Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Airbnb",
-      "description": "Airbnb is trending after introducing new rules that eliminate checkout chores for guests, such as doing dishes, taking out the trash, and handling laundry.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Airbnb",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.7C44ooS1Q50v15DfaQGkOwHaH-&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T22:23:37Z",
-      "first_seen": "2026-10-21T22:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bush",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-21T22:23:37Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bush",
-      "description": "Neil Bush, the brother of George W. Bush, broke Republican party ranks to endorse and vote for Democrat James Talarico in the Texas Senate race.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bush",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.Zgy+iRac0Q0xMGlFkSAQ5w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T22:23:37Z",
-      "first_seen": "2026-10-21T22:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "meta",
-      "rank": 19,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-10-21T21:23:38Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-21T22:23:37Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "$META",
-      "description": "Meta has been ordered to pay a record $25 billion to New Mexico after a jury found the company misled consumers about data privacy regarding Cambridge Analytica.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24META",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.R3dFET91Cr97B8gUtsfTwwHaBf&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T21:23:38Z",
-      "first_seen": "2026-10-21T21:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "jade-empire",
-      "rank": 20,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "rank": 19,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-21T18:23:32Z",
@@ -751,12 +726,16 @@
         {
           "t": "2026-10-21T22:23:37Z",
           "r": 20
+        },
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": -8,
+      "rank_change": -9,
       "is_new": false,
       "topic": "Jade Empire",
-      "description": "Fans are reminiscing about Jade Empire as its developer, BioWare, permanently shuts down following sweeping layoffs by Electronic Arts.",
+      "description": "Electronic Arts has shut down BioWare, leading to widespread industry discussions about the studio's legacy and past titles like Jade Empire.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jade%20Empire",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.NYqJqCeLsygA1-luIrHNAgHaFj&pid=15.1",
@@ -764,10 +743,39 @@
       "started_trending": "2026-10-21T18:23:32Z",
       "first_seen": "2026-10-21T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-21T22:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "inside-the-nba",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-21T23:23:32Z",
+          "r": 20
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Inside the NBA",
+      "description": "Inside the NBA is making headlines as it prepares to air on ESPN while retaining its traditional look, sound, and cast.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Inside%20the%20NBA",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.z9m1_d93IwpIGaTWsS15rwHaEH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T23:23:32Z",
+      "first_seen": "2026-10-21T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-21T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
