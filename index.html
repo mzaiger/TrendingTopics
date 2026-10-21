@@ -121,7 +121,7 @@
   a.stretch:focus-visible::after { outline: 3px solid var(--blue); outline-offset: -3px; border-radius: inherit; }
 
   .thumb-wrap { position: relative; aspect-ratio: 16 / 9; background: var(--panel); overflow: hidden; }
-  .thumb-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .thumb-wrap img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
   .thumb-fallback {
     width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;
     font-family: 'Oswald', sans-serif; font-size: 12px; letter-spacing: 0.08em;
@@ -217,7 +217,7 @@
   }
   .row-item:hover { border-color: var(--blue); box-shadow: 0 4px 12px rgba(27,99,224,0.10); }
   .row-thumb-wrap { width: 44px; height: 44px; border-radius: 6px; overflow: hidden; background: var(--panel); }
-  .row-thumb-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .row-thumb-wrap img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
   .row-thumb-fallback {
     width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;
     font-size: 8px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--text-dim); text-align: center;
