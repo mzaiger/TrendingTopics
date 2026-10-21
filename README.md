@@ -326,6 +326,7 @@ the page then shows "No Image".
 | `SKIP_IMAGES` | all | - | set to `1` to skip DuckDuckGo |
 | `IMAGE_QUERY_GEMINI` | all | 1 | `0` = don't ask Gemini for image search words (keyword fallback only) |
 | `IMAGE_CANDIDATES` | all | 12 | pictures DuckDuckGo returns to choose from |
+| `IMAGE_SAFESEARCH` | all | on | DuckDuckGo safe search for image lookups: `on` (strictest), `moderate` or `off` |
 | `IMAGE_MAX_LOOKUPS` | all | 20 | DuckDuckGo searches per run |
 | `IMAGE_MIN_DELAY` / `IMAGE_MAX_DELAY` | all | 2.0 / 5.0 | seconds between searches |
 | `DDG_PROXY` | all | - | e.g. `socks5://127.0.0.1:9150` |
