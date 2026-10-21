@@ -635,7 +635,11 @@ class ImageFinder:
         self.abort_after = int(os.environ.get("IMAGE_ABORT_AFTER", "3"))
         self.proxy = os.environ.get("DDG_PROXY") or None
         self.region = os.environ.get("IMAGE_REGION", "us-en")
-        self.safesearch = os.environ.get("IMAGE_SAFESEARCH", "moderate")
+        # Safe search is ON (strictest) for every image pull; override with IMAGE_SAFESEARCH=moderate|off.
+        self.safesearch = os.environ.get("IMAGE_SAFESEARCH", "on").strip().lower()
+        if self.safesearch not in ("on", "moderate", "off"):
+            warn(f"IMAGE_SAFESEARCH={self.safesearch!r} isn't valid (on / moderate / off) - using 'on'.")
+            self.safesearch = "on"
         self.timeout = 20
         self.candidates = int(os.environ.get("IMAGE_CANDIDATES", "12"))
         self.lookups = 0
