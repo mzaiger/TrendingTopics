@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-21T01:25:06Z",
+  "updated": "2026-10-21T02:25:19Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-21T01:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 1
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "#dwts",
-      "description": "Fans are following 'Dancing with the Stars' Season 35 Week 6 for Dedication Night, featuring emotional tributes, scores, and elimination updates.",
+      "description": "Dancing With the Stars is trending due to its emotional Dedication Night, featuring tearful performances, a 10 Things I Hate About You cast reunion, and the season's first 10s.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23dwts",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.gJWMXOHK8XxCiVGtOQI3vwHaDt&pid=15.1",
@@ -33,43 +37,51 @@
       "started_trending": "2026-10-21T00:23:33Z",
       "first_seen": "2026-10-21T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "drummond",
+      "id": "sixers",
       "rank": 2,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
+          "t": "2026-10-20T23:23:32Z",
+          "r": 7
+        },
+        {
           "t": "2026-10-21T00:23:33Z",
-          "r": 1
+          "r": 5
         },
         {
           "t": "2026-10-21T01:23:36Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
           "r": 2
         }
       ],
-      "rank_change": -1,
+      "rank_change": 5,
       "is_new": false,
-      "topic": "Drummond",
-      "description": "Andre Drummond is trending after making his Knicks debut with a historic milestone performance protecting the rim and scoring.",
+      "topic": "Sixers",
+      "description": "The Sixers are trending after spoiling the Knicks' ring night with a 106-100 win, featuring debuts from LeBron James and Jaylen Brown.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Drummond",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.rYZVxSYiGu-sm0TezBXrbwHaEv&pid=15.1",
+      "url": "https://twstalker.com/search/Sixers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP._BDKPnN4RTMji4Iibt1adgHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T00:23:33Z",
-      "first_seen": "2026-10-21T00:23:33Z",
+      "started_trending": "2026-10-20T23:23:32Z",
+      "first_seen": "2026-10-20T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -94,12 +106,16 @@
         {
           "t": "2026-10-21T01:23:36Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 3
         }
       ],
       "rank_change": 9,
       "is_new": false,
       "topic": "Knicks",
-      "description": "The New York Knicks are trending after celebrating their NBA title with a banner-raising and ring ceremony at Madison Square Garden.",
+      "description": "The Knicks are trending as they celebrate their NBA title with a banner raising and ring ceremony at Madison Square Garden, despite a T-shirt flub.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Knicks",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.tORplQSN9oYcZ_mL0Xy_mgHaEK&pid=15.1",
@@ -107,7 +123,7 @@
       "started_trending": "2026-10-20T22:23:34Z",
       "first_seen": "2026-10-20T22:23:34Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
+      "last_seen": "2026-10-21T02:23:33Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -115,74 +131,8 @@
       "extra": {}
     },
     {
-      "id": "sixers",
-      "rank": 4,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-20T23:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-21T00:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-21T01:23:36Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Sixers",
-      "description": "The Philadelphia 76ers are trending ahead of their season-opening matchup against the champion New York Knicks at Madison Square Garden.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sixers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP._BDKPnN4RTMji4Iibt1adgHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T23:23:32Z",
-      "first_seen": "2026-10-20T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lebron",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-21T01:23:36Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "LeBron",
-      "description": "LeBron James is making headlines after the NBA confirmed it has no issue with his helicopter commute to Philadelphia for the 76ers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/LeBron",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.3fn/hJrq1yqhSBnhDi7bBQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T01:23:36Z",
-      "first_seen": "2026-10-21T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "embiid",
-      "rank": 6,
+      "rank": 4,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -193,12 +143,16 @@
         {
           "t": "2026-10-21T01:23:36Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 4
         }
       ],
-      "rank_change": -2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Embiid",
-      "description": "Joel Embiid and teammate LeBron James are reportedly set to start the NBA season on minutes restrictions for the 76ers.",
+      "description": "Joel Embiid is trending as he prepares for his season debut with the 76ers, amidst reports that he and LeBron James will start the season on minutes restrictions.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Embiid",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.yh9AhmGaAINcACOdza430wHaE8&pid=15.1",
@@ -206,16 +160,16 @@
       "started_trending": "2026-10-21T00:23:33Z",
       "first_seen": "2026-10-21T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "maxey",
-      "rank": 7,
+      "rank": 5,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -230,12 +184,16 @@
         {
           "t": "2026-10-21T01:23:36Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 5
         }
       ],
-      "rank_change": 1,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Maxey",
-      "description": "Tyrese Maxey is trending as social media highlights his key role for the Philadelphia 76ers heading into the new NBA season.",
+      "description": "Tyrese Maxey is trending after starring for the Philadelphia 76ers in their season-opening win against the Knicks, delivering a standout performance and a highlight-reel block.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Maxey",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.0cZzP14degePhdokOBPzuQHaLH&pid=15.1",
@@ -243,7 +201,77 @@
       "started_trending": "2026-10-20T23:23:32Z",
       "first_seen": "2026-10-20T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lebron",
+      "rank": 6,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-21T01:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "LeBron",
+      "description": "LeBron James is trending following his debut for the Philadelphia 76ers and social media discussion regarding his helicopter commute to Philadelphia, which NBA commissioner Adam Silver deemed appropriate.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/LeBron",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.3fn/hJrq1yqhSBnhDi7bBQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T01:23:36Z",
+      "first_seen": "2026-10-21T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "drummond",
+      "rank": 7,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-21T00:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-21T01:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Drummond",
+      "description": "Andre Drummond is trending following his historic debut for the Knicks where he put up milestone numbers and contributed strongly on the court.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Drummond",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.rYZVxSYiGu-sm0TezBXrbwHaEv&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T00:23:33Z",
+      "first_seen": "2026-10-21T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-21T02:23:33Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -251,28 +279,69 @@
       "extra": {}
     },
     {
-      "id": "jenna",
+      "id": "76ers",
       "rank": 8,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-20T23:23:32Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-21T00:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-21T01:23:36Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "76ers",
+      "description": "The 76ers are trending ahead of their matchup against the New York Knicks as fans tune in to watch their new-look squad following high-profile roster additions.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/76ers",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0Et_nlnGT41Iee0SsPWgDgHaEz&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-20T23:23:32Z",
+      "first_seen": "2026-10-20T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brunson",
+      "rank": 9,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-21T01:23:36Z",
-          "r": 8
+          "t": "2026-10-21T02:23:33Z",
+          "r": 9
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Jenna",
-      "description": "Jenna Ortega is drawing attention on social media for wearing a unique, plunging dress made from steel rods and fringe.",
+      "topic": "Brunson",
+      "description": "Jalen Brunson is trending after debuting a gold pair of Nike Kobe sneakers during the Knicks' ring ceremony and opening night game against the 76ers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jenna",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-21T01:23:36Z",
-      "first_seen": "2026-10-21T01:23:36Z",
+      "url": "https://twstalker.com/search/Brunson",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.faqLDWOOdIVF3hvif15TWA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T02:23:33Z",
+      "first_seen": "2026-10-21T02:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
+      "last_seen": "2026-10-21T02:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -281,7 +350,7 @@
     },
     {
       "id": "tatyana",
-      "rank": 9,
+      "rank": 10,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -292,12 +361,16 @@
         {
           "t": "2026-10-21T01:23:36Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 10
         }
       ],
-      "rank_change": 4,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Tatyana",
-      "description": "Tatyana Ali is trending for her emotional 'Dancing with the Stars' Dedication Night tribute honoring the late James Avery.",
+      "description": "Tatyana Ali is trending after reuniting with Alfonso Ribeiro on Dancing With the Stars for an emotional Dedication Night tribute to their late Fresh Prince of Bel-Air dad, James Avery.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tatyana",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.xn6iq8dHV1owDPLc10SKGA&pid=15.1",
@@ -305,16 +378,16 @@
       "started_trending": "2026-10-21T00:23:33Z",
       "first_seen": "2026-10-21T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jaylen-brown",
-      "rank": 10,
+      "rank": 11,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -337,12 +410,16 @@
         {
           "t": "2026-10-21T01:23:36Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 11
         }
       ],
-      "rank_change": 8,
+      "rank_change": 7,
       "is_new": false,
       "topic": "Jaylen Brown",
-      "description": "Jaylen Brown is trending after scoring his first basket as a member of the Philadelphia 76ers during their season opener at MSG.",
+      "description": "Jaylen Brown is trending after making his Philadelphia 76eirs debut alongside LeBron James, helping spoil the Knicks' ring night with a 106-100 victory.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jaylen%20Brown",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.pW1d7VGV4jysojkeI/ZXJw&pid=15.1",
@@ -350,7 +427,7 @@
       "started_trending": "2026-10-20T21:23:34Z",
       "first_seen": "2026-10-20T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
+      "last_seen": "2026-10-21T02:23:33Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -358,68 +435,31 @@
       "extra": {}
     },
     {
-      "id": "amber",
-      "rank": 11,
+      "id": "throwtheballup",
+      "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-21T01:23:36Z",
-          "r": 11
+          "t": "2026-10-21T02:23:33Z",
+          "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Amber",
-      "description": "Amber Glenn is making news by dedicating her upcoming 'Dancing with the Stars' performance to her younger sister, Brooke.",
+      "topic": "#throwtheballup",
+      "description": "This hashtag is trending as fans react on social media to LeBron James defending himself from the Knicks crowd during his 76ers debut.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Amber",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP._2ygSCW3pmCdyzalMQso6AHaHa&pid=15.1",
+      "url": "https://twstalker.com/search/%23throwtheballup",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.x0zpyrNviD2eV924MF/2Ww&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T01:23:36Z",
-      "first_seen": "2026-10-21T01:23:36Z",
+      "started_trending": "2026-10-21T02:23:33Z",
+      "first_seen": "2026-10-21T02:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
+      "last_seen": "2026-10-21T02:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "76ers",
-      "rank": 12,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-20T23:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-21T00:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-21T01:23:36Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "76ers",
-      "description": "The Philadelphia 76ers are generating buzz as fans tune in to watch their season-opening game against the New York Knicks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/76ers",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0Et_nlnGT41Iee0SsPWgDgHaEz&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T23:23:32Z",
-      "first_seen": "2026-10-20T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -436,12 +476,16 @@
         {
           "t": "2026-10-21T01:23:36Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 13
         }
       ],
       "rank_change": -6,
       "is_new": false,
       "topic": "Ezra",
-      "description": "Ezra Frech is trending after scoring the first 10 of the season on 'Dancing with the Stars' during Dedication Night.",
+      "description": "Ezra Frech is trending on social media after scoring the first 10s of the season alongside Amber Glenn during an emotional Dedication Night on Dancing With the Stars.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ezra",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.ElodN7mY9rRl24ok3C5Mlg&pid=15.1",
@@ -449,143 +493,69 @@
       "started_trending": "2026-10-21T00:23:33Z",
       "first_seen": "2026-10-21T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "tatum",
+      "id": "jenna",
       "rank": 14,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
-          "t": "2026-10-20T20:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-20T21:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-20T22:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-20T23:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-21T00:23:33Z",
-          "r": 6
-        },
-        {
           "t": "2026-10-21T01:23:36Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
           "r": 14
         }
       ],
-      "rank_change": -12,
+      "rank_change": -6,
       "is_new": false,
-      "topic": "Tatum",
-      "description": "Jayson Tatum and the Celtics are trending after blowing a 22-point lead and losing their season opener to the Detroit Pistons.",
+      "topic": "Jenna",
+      "description": "Jenna Dewan is trending after delivering a breakthrough dance performance on Dancing With the Stars with partner Alan Bersten amid Val Chmerkovskiy's absence.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tatum",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.8l_swkIlzX9T78p-cEu8ZQHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/Jenna",
+      "image_url": "https://ts4.explicit.bing.net/th?id=OIF.cqhOIKRXIeo3u66AaHVDbQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T20:23:34Z",
-      "first_seen": "2026-10-20T20:23:34Z",
+      "started_trending": "2026-10-21T01:23:36Z",
+      "first_seen": "2026-10-21T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "alan",
+      "id": "julia",
       "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-21T01:23:36Z",
+          "t": "2026-10-21T02:23:33Z",
           "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Alan",
-      "description": "Alan Bersten is speaking out after stepping in as a replacement for Val Chmerkovskiy on 'Dancing with the Stars' amid a suspension.",
+      "topic": "Julia",
+      "description": "Julia Stiles is trending following her 10 Things I Hate About You cast reunion and tribute to Heath Ledger during Dedication Night on Dancing With the Stars.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alan",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-21T01:23:36Z",
-      "first_seen": "2026-10-21T01:23:36Z",
+      "url": "https://twstalker.com/search/Julia",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.vZUQLNkEWLGjh4LxIpCdyg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T02:23:33Z",
+      "first_seen": "2026-10-21T02:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "simons",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-21T01:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Simons",
-      "description": "Anfernee Simons is trending as he is reportedly available for the 76ers against New York after recovering from a hamstring injury.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Simons",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-21T01:23:36Z",
-      "first_seen": "2026-10-21T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "maura",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-21T01:23:36Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Maura",
-      "description": "Massachusetts Governor Maura Healey is trending following a live 1-on-1 media interview and new polling in the governor's race.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Maura",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-21T01:23:36Z",
-      "first_seen": "2026-10-21T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
+      "last_seen": "2026-10-21T02:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -594,7 +564,7 @@
     },
     {
       "id": "vivek",
-      "rank": 18,
+      "rank": 16,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -621,12 +591,16 @@
         {
           "t": "2026-10-21T01:23:36Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 16
         }
       ],
-      "rank_change": -10,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Vivek",
-      "description": "Vivek Ramaswamy faces backlash for an Ohio governor's race attack ad featuring Democratic nominee Amy Acton's estranged mother.",
+      "description": "Vivek Ramaswamy is trending for defending an explosive campaign ad in the Ohio governor's race that features his rival Amy Acton's estranged mother.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Vivek",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.DnlDitG7f5KcPZ7kvj46tQ&pid=15.1",
@@ -634,73 +608,135 @@
       "started_trending": "2026-10-20T15:23:33Z",
       "first_seen": "2026-10-20T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 11,
+      "volume": "11hr trend",
+      "volume_value": 11,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "eagle-4",
-      "rank": 19,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "id": "amber",
+      "rank": 17,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
-          "t": "2026-10-20T23:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-21T00:23:33Z",
-          "r": 9
-        },
-        {
           "t": "2026-10-21T01:23:36Z",
-          "r": 19
+          "r": 11
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 17
         }
       ],
-      "rank_change": -13,
+      "rank_change": -6,
       "is_new": false,
-      "topic": "EAGLE-4",
-      "description": "AMD is trending after announcing day-0 support for EAGLE-4 on its Instinct GPUs.",
+      "topic": "Amber",
+      "description": "Amber Glenn is trending after earning the first 10s of the season on Dancing With the Stars during an emotional Dedication Night performance dedicated to her sister.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/EAGLE-4",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.IPPTYkt5aLOhgbNfQy3MqwHaFi&pid=15.1",
+      "url": "https://twstalker.com/search/Amber",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP._2ygSCW3pmCdyzalMQso6AHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-20T23:23:32Z",
-      "first_seen": "2026-10-20T23:23:32Z",
+      "started_trending": "2026-10-21T01:23:36Z",
+      "first_seen": "2026-10-21T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wwenxt",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-10-21T01:23:36Z",
           "r": 20
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "#WWENXT",
+      "description": "WWE NXT is trending following its latest episode featuring personal grudge matches like Cruz Montana versus Dion Lennox and Dusty Cup action.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WWENXT",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Zl53XP-OU2F77GgO3BoBhQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T01:23:36Z",
+      "first_seen": "2026-10-21T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pasha",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#WWENXT",
-      "description": "Fans are following the latest WWE NXT match results, live highlights, and contract signings ahead of Halloween Havoc.",
+      "topic": "Pasha",
+      "description": "Pasha Pashkov is trending alongside partner Amber Glenn as they previewed Dedication Night and responded to fan feedback on the Dancing With the Stars scoring system.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23WWENXT",
-      "image_url": "",
-      "image_source": "",
+      "url": "https://twstalker.com/search/Pasha",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.mbhpdz4l7hXBiQVTp06OVg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-21T02:23:33Z",
+      "first_seen": "2026-10-21T02:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-21T02:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "simons",
+      "rank": 20,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-21T01:23:36Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-21T02:23:33Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Simons",
+      "description": "Anfernee Simons is trending as reports confirm his availability for the 76ers following a hamstring injury.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Simons",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ZmwBvc7kSnGxpHpcHVDMugHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-21T01:23:36Z",
       "first_seen": "2026-10-21T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-21T01:23:36Z",
+      "last_seen": "2026-10-21T02:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
