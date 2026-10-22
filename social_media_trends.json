@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-22T01:25:12Z",
+  "updated": "2026-10-22T02:25:20Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-22T01:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Giannis",
-      "description": "Giannis Antetokounmpo is trending as he makes his Miami Heat debut and faces off against the Timberwolves on opening night.",
+      "description": "Giannis Antetokounmpo made his Miami Heat debut in a season opener against the Timberwolves, scoring 35 points in a narrow loss.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Giannis",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.f2sE3SFXdeFZkuUJZZYKMA&pid=15.1",
@@ -33,7 +37,7 @@
       "started_trending": "2026-10-22T00:23:34Z",
       "first_seen": "2026-10-22T00:23:34Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
+      "last_seen": "2026-10-22T02:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -53,12 +57,16 @@
         {
           "t": "2026-10-22T01:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 2
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "#AEWDynamite",
-      "description": "AEW Dynamite is generating buzz following the WrestleDream 2026 fallout, featuring Ilja Dragunov's debut against Mike Bailey and major tag team matches.",
+      "description": "Fans are discussing the latest episode of AEW Dynamite following WrestleDream 2026, featuring matches like Ilja Dragunov versus Mike Bailey and Steven Borden's return.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23AEWDynamite",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.BzhZxJGUY0XgZl2QxAY9kAAAAA&pid=15.1",
@@ -66,7 +74,7 @@
       "started_trending": "2026-10-22T00:23:34Z",
       "first_seen": "2026-10-22T00:23:34Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
+      "last_seen": "2026-10-22T02:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -74,20 +82,57 @@
       "extra": {}
     },
     {
-      "id": "survivor51",
+      "id": "ty-jerome",
       "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-22T01:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Ty Jerome",
+      "description": "Ty Jerome is drawing attention as the Memphis Grizzlies prepare for their season opener against the Utah Jazz.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ty%20Jerome",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.eGcMgcvr6DO1uqiYGednUAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-22T01:23:34Z",
+      "first_seen": "2026-10-22T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "survivor51",
+      "rank": 4,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-22T01:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "#Survivor51",
-      "description": "Fans are discussing Survivor 51 as the show prepares to air its fifth episode, prompting first-look previews and online predictions.",
+      "description": "Social media is buzzing about Survivor 51 after a historic and brutal tribal council where multiple players went home amidst a streak of women being voted out.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Survivor51",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.l620vAmZJjnYN4ORutqYSg&pid=15.1",
@@ -95,7 +140,40 @@
       "started_trending": "2026-10-22T01:23:34Z",
       "first_seen": "2026-10-22T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "anthony-edwards",
+      "rank": 5,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-22T01:23:34Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 12,
+      "is_new": false,
+      "topic": "Anthony Edwards",
+      "description": "Anthony Edwards is trending after scoring 45 points to lead the Timberwolves past the Heat in their season opener.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Anthony%20Edwards",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.GkaCjxJUULxQYqNkrCVAsAHaEL&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-22T01:23:34Z",
+      "first_seen": "2026-10-22T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-22T02:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -104,7 +182,7 @@
     },
     {
       "id": "lamelo",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -115,12 +193,16 @@
         {
           "t": "2026-10-22T01:23:34Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": 2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Lamelo",
-      "description": "LaMelo Ball is trending following his debut in a Timberwolves uniform, his partnership with Anthony Edwards, and early-season highlights.",
+      "description": "LaMelo Ball is trending as he makes his debut for the Minnesota Timberwolves following a move from the Charlotte Hornets.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Lamelo",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.1TWNJbwOfS/rguX2d/kcbw&pid=15.1",
@@ -128,7 +210,7 @@
       "started_trending": "2026-10-22T00:23:34Z",
       "first_seen": "2026-10-22T00:23:34Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
+      "last_seen": "2026-10-22T02:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -136,8 +218,161 @@
       "extra": {}
     },
     {
+      "id": "mavs",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mavs",
+      "description": "The Dallas Mavericks are trending as they prepare for their season opener against the Houston Rockets and sign Walter Clayton Jr. to a two-way contract.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mavs",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.iiIGYJ7fU1tUYszP7BQqaQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-22T02:23:32Z",
+      "first_seen": "2026-10-22T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "heat",
+      "rank": 8,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-22T01:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Heat",
+      "description": "The Miami Heat are trending around their season opener against the Timberwolves, featuring Giannis Antetokounmpo's debut and a new partnership with Dorsia.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Heat",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.nUq9t3xVAI0LY/O+/2XxQQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-22T01:23:34Z",
+      "first_seen": "2026-10-22T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wolves",
+      "rank": 9,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-22T01:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Wolves",
+      "description": "The Timberwolves are trending following their season opener matchup against the Miami Heat.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Wolves",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.DYqeAGr4AcKrk73fLArg8A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-22T01:23:34Z",
+      "first_seen": "2026-10-22T01:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "angel-reese",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Angel Reese",
+      "description": "Angel Reese is making waves in the WNBA Finals for her standout performances, fashionable arrivals, and support from Kim Mulkey.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Angel%20Reese",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.ch4Lh0+KOyyrumbc46VDfg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-22T02:23:32Z",
+      "first_seen": "2026-10-22T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jovic",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jovic",
+      "description": "Nikola Jovic is trending as reports indicate he is headed to the bench for the Heat.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jovic",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ZPQTCG_F9jJp73aN-ZKsTQHaFF&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-22T02:23:32Z",
+      "first_seen": "2026-10-22T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "bioware",
-      "rank": 5,
+      "rank": 12,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -164,12 +399,16 @@
         {
           "t": "2026-10-22T01:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 12
         }
       ],
-      "rank_change": -4,
+      "rank_change": -11,
       "is_new": false,
       "topic": "BioWare",
-      "description": "BioWare is trending following announcements that Electronic Arts is shutting down the studio, cutting jobs, and canceling the next Mass Effect game.",
+      "description": "Electronic Arts is shutting down BioWare, the studio behind Mass Effect and Dragon Age, as part of a restructuring and layoff of 400 jobs.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/BioWare",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.YAxvJGxfwoWskQQkUV5gpAHaEK&pid=15.1",
@@ -177,7 +416,7 @@
       "started_trending": "2026-10-21T17:23:33Z",
       "first_seen": "2026-10-21T17:23:33Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
+      "last_seen": "2026-10-22T02:23:32Z",
       "hours_trending": 8,
       "volume": "8hr trend",
       "volume_value": 8,
@@ -185,28 +424,28 @@
       "extra": {}
     },
     {
-      "id": "wolves",
-      "rank": 6,
+      "id": "john-anderson",
+      "rank": 13,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 6
+          "t": "2026-10-22T02:23:32Z",
+          "r": 13
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Wolves",
-      "description": "The Wolves are trending across sports and wildlife topics, including college athletic matches, prep volleyball finals, and seasonal wildlife viewing spots.",
+      "topic": "John Anderson",
+      "description": "Tributes are pouring in across social media following the death of Country Music Hall of Famer John Anderson at age 71.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Wolves",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.DYqeAGr4AcKrk73fLArg8A&pid=15.1",
+      "url": "https://twstalker.com/search/John%20Anderson",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF./bzhFjeLy3o+3JxbxS3mIg&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T01:23:34Z",
-      "first_seen": "2026-10-22T01:23:34Z",
+      "started_trending": "2026-10-22T02:23:32Z",
+      "first_seen": "2026-10-22T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
+      "last_seen": "2026-10-22T02:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -214,119 +453,32 @@
       "extra": {}
     },
     {
-      "id": "marina",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "kilby",
+      "rank": 14,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-22T01:23:34Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Marina",
-      "description": "A marina is trending as local residents file a lawsuit demanding a vote on a revamped Seaquarium project.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Marina",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.izLjEaIC0t7z6Fep4-Z5sQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T01:23:34Z",
-      "first_seen": "2026-10-22T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ty-jerome",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ty Jerome",
-      "description": "Ty Jerome is trending as he enters the Memphis Grizzlies' starting lineup for their season opener against the Utah Jazz.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ty%20Jerome",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.eGcMgcvr6DO1uqiYGednUAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T01:23:34Z",
-      "first_seen": "2026-10-22T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "anthony-davis",
-      "rank": 9,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-22T00:23:34Z",
-          "r": 11
+          "r": 15
         },
         {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 9
+          "t": "2026-10-22T02:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": 2,
+      "rank_change": 1,
       "is_new": false,
-      "topic": "Anthony Davis",
-      "description": "Anthony Davis is making headlines ahead of his Wizards debut, and after drawing viral reactions from fans following practice remarks by Tre Johnson.",
+      "topic": "Kilby",
+      "description": "Dax Kilby is drawing discussion among Yankees fans following a recent power surge.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Anthony%20Davis",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.gz8uS4krCrHbrLxPRKjNaQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T00:23:34Z",
-      "first_seen": "2026-10-22T00:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tari-eason",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tari Eason",
-      "description": "Tari Eason is trending on social media after being ejected from a game against the Dallas Mavericks for a Flagrant 2 foul.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tari%20Eason",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.TM5K9k69edenwd7MXjjlEgHaMz&pid=15.1",
+      "url": "https://twstalker.com/search/Kilby",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.XVzuDP4-e2cwnMAUYMoBPwHaLG&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-22T01:23:34Z",
       "first_seen": "2026-10-22T01:23:34Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
+      "last_seen": "2026-10-22T02:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -334,57 +486,66 @@
       "extra": {}
     },
     {
-      "id": "mass-effect",
-      "rank": 11,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "id": "wnbafinals",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-21T20:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-21T21:23:38Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-21T22:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-21T23:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-22T00:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 11
+          "t": "2026-10-22T02:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Mass Effect",
-      "description": "Mass Effect is trending after EA shut down BioWare and canceled the upcoming Mass Effect game, though Prime Video is reportedly moving forward with its TV series.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#WNBAFinals",
+      "description": "The WNBA Finals are capturing attention as the Dream and Valkyries face off in a high-stakes series surrounded by notable courtside presence and discussions.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mass%20Effect",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.dNV4xMVFSvglZ5AjubgTxwHaLH&pid=15.1",
+      "url": "https://twstalker.com/search/%23WNBAFinals",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.XtPChbRTLcdCZKTHVBlyxQHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-21T17:23:33Z",
-      "first_seen": "2026-10-21T17:23:33Z",
+      "started_trending": "2026-10-22T02:23:32Z",
+      "first_seen": "2026-10-22T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "seminole-wind",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Seminole Wind",
+      "description": "Fans are remembering country music legend John Anderson and his iconic hit 'Seminole Wind' following his passing at age 71.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Seminole%20Wind",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.dM9CcFn4KPF1QsECTuucJAHaHW&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-22T02:23:32Z",
+      "first_seen": "2026-10-22T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bulls",
-      "rank": 12,
+      "rank": 17,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -395,12 +556,16 @@
         {
           "t": "2026-10-22T01:23:34Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-22T02:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": 5,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Bulls",
-      "description": "The Chicago Bulls are trending ahead of their season-opening game against the Toronto Raptors.",
+      "description": "The Chicago Bulls are trending as they tip off their season against the Toronto Raptors.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bulls",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.IMKSJAytI9qSr16QFPclDQHaLR&pid=15.1",
@@ -408,7 +573,7 @@
       "started_trending": "2026-10-22T00:23:34Z",
       "first_seen": "2026-10-22T00:23:34Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
+      "last_seen": "2026-10-22T02:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -416,173 +581,28 @@
       "extra": {}
     },
     {
-      "id": "heat",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Heat",
-      "description": "The Miami Heat are trending as they tip off their season against the Timberwolves and announce a new partnership with Dorsia.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Heat",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.nUq9t3xVAI0LY/O+/2XxQQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T01:23:34Z",
-      "first_seen": "2026-10-22T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hold-me-tight",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "HOLD ME TIGHT",
-      "description": "Hold Me Tight is trending on social media alongside personal prayer posts and a viral story shared by golfer Charley Hull.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/HOLD%20ME%20TIGHT",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.gN2sHmm6jtOejCLNqSwBmwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T01:23:34Z",
-      "first_seen": "2026-10-22T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kilby",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kilby",
-      "description": "Kilby is trending in sports updates as Dax Kilby showcases a power surge and records hits and steals in AFL action.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kilby",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.XVzuDP4-e2cwnMAUYMoBPwHaLG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T01:23:34Z",
-      "first_seen": "2026-10-22T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "zion",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Zion",
-      "description": "Zion is trending following local news reports of a flash flood warning issued for Zion National Park.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Zion",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.SoAl3XyUlhrlGNlFixtj1QHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T01:23:34Z",
-      "first_seen": "2026-10-22T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "anthony-edwards",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-22T01:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Anthony Edwards",
-      "description": "Anthony Edwards is trending following his early chemistry with LaMelo Ball and the release of new signature sneakers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Anthony%20Edwards",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.GkaCjxJUULxQYqNkrCVAsAHaEL&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T01:23:34Z",
-      "first_seen": "2026-10-22T01:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "abbottelementary",
+      "id": "nick-wayne",
       "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-22T01:23:34Z",
+          "t": "2026-10-22T02:23:32Z",
           "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#AbbottElementary",
-      "description": "Abbott Elementary is generating online buzz as its sixth season premiere reaches over 6 million viewers and fans anticipate the newest episode.",
+      "topic": "Nick Wayne",
+      "description": "Nick Wayne is trending as fans discuss ongoing AEW storylines and potential fallout following WrestleDream.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23AbbottElementary",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.nm1rbWwLVh4BjUYZ-M76UwHaLH&pid=15.1",
+      "url": "https://twstalker.com/search/Nick%20Wayne",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.QEzlEJmWOhSwdMslP8mdRwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T01:23:34Z",
-      "first_seen": "2026-10-22T01:23:34Z",
+      "started_trending": "2026-10-22T02:23:32Z",
+      "first_seen": "2026-10-22T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
+      "last_seen": "2026-10-22T02:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -590,68 +610,60 @@
       "extra": {}
     },
     {
-      "id": "klay",
+      "id": "kyrie",
       "rank": 19,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-22T00:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-22T01:23:34Z",
+          "t": "2026-10-22T02:23:32Z",
           "r": 19
         }
       ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Klay",
-      "description": "Klay Thompson is trending as he scores his first three-pointers in a Miami Heat uniform during the start of the NBA season.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kyrie",
+      "description": "Kyrie Irving is trending as he prepares to return for the Dallas Mavericks in their season opener against the Houston Rockets.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Klay",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.JoFOqZ2Vms2RJrQETWfyswHaE_&pid=15.1",
+      "url": "https://twstalker.com/search/Kyrie",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.TmfMeL+mVuZHZy/fCGB09A&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T00:23:34Z",
-      "first_seen": "2026-10-22T00:23:34Z",
+      "started_trending": "2026-10-22T02:23:32Z",
+      "first_seen": "2026-10-22T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "veilguard",
+      "id": "paolo",
       "rank": 20,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-22T00:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-22T01:23:34Z",
+          "t": "2026-10-22T02:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Veilguard",
-      "description": "Dragon Age: The Veilguard is trending as players discuss the game following the sudden closure of developer BioWare by Electronic Arts.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Paolo",
+      "description": "Paolo Banchero is drawing praise after scoring 35 points for the Orlando Magic in their season-opening game against the Atlanta Hawks.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Veilguard",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.azEbjZB0aKeg_bDlKYrzoAHaJ3&pid=15.1",
+      "url": "https://twstalker.com/search/Paolo",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.NKsGCMa422FCyHrpShVylwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-22T00:23:34Z",
-      "first_seen": "2026-10-22T00:23:34Z",
+      "started_trending": "2026-10-22T02:23:32Z",
+      "first_seen": "2026-10-22T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-22T01:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-22T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
