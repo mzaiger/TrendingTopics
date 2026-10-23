@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-23T21:25:22Z",
+  "updated": "2026-10-23T22:25:30Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "bulls",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-23T21:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Bulls",
-      "description": "Fans are following the latest matchups and injury reports as the Chicago Bulls face the Milwaukee Bucks.",
+      "description": "The Chicago Bulls are trending as they face off against the Milwaukee Bucks in an early-season NBA matchup.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bulls",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.Zp6HFZDmCn3uFgTlhVTbkwHaD4&pid=15.1",
@@ -29,16 +33,49 @@
       "started_trending": "2026-10-23T21:23:33Z",
       "first_seen": "2026-10-23T21:23:33Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "caleb-wilson",
+      "rank": 2,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-23T21:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Caleb Wilson",
+      "description": "Caleb Wilson is generating buzz online following his impressive dunks and highlights during his first NBA regular-season game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Caleb%20Wilson",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.8fc7IEQLUf1lGW74QzGCgQHaDt&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T21:23:33Z",
+      "first_seen": "2026-10-23T21:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ethan",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -53,12 +90,16 @@
         {
           "t": "2026-10-23T21:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 3
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Ethan",
-      "description": "Social media is reacting after Hila Klein alleged that her husband and co-host Ethan Klein had an affair, leading the H3 Podcast to cut ties.",
+      "description": "Ethan Klein is trending after his wife, Hila Klein, publicly accused him of infidelity, leading the H3 Podcast to cut ties with him.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ethan",
       "image_url": "https://ts2.explicit.bing.net/th?id=OIF.4F/3uwoWP6tTry/OA6w79g&pid=15.1",
@@ -66,7 +107,98 @@
       "started_trending": "2026-10-23T19:23:35Z",
       "first_seen": "2026-10-23T19:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "byron",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Byron",
+      "description": "Republican politician Byron Donalds is drawing attention after being confronted over Epstein files and subsequently insulting a transgender veteran.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Byron",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.GdOVDHTeR4OcCq_yVsI0fQHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T22:23:33Z",
+      "first_seen": "2026-10-23T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bucks",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bucks",
+      "description": "The Milwaukee Bucks are trending due to their opening game matchup against the Chicago Bulls.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bucks",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.qU0IPtYKtdJVHE2b/gOjKQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T22:23:33Z",
+      "first_seen": "2026-10-23T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "leonard-miller",
+      "rank": 6,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-23T21:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Leonard Miller",
+      "description": "Leonard Miller is trending across sports discussions after a strong three-pointer and being named to an NBA All-Breakout watchlist.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Leonard%20Miller",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.EaHtPXgMjGzjvDh6E3v0RQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T21:23:33Z",
+      "first_seen": "2026-10-23T21:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -75,9 +207,9 @@
     },
     {
       "id": "lassie",
-      "rank": 3,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "rank": 7,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-10-23T16:23:35Z",
@@ -102,12 +234,16 @@
         {
           "t": "2026-10-23T21:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 7
         }
       ],
-      "rank_change": 4,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Lassie",
-      "description": "The material does not provide enough information to explain why this topic is trending.",
+      "description": "The material does not provide enough clear information to explain why this topic is trending.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Lassie",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.hWPHwkZMOTQzLqIgRLXWpwHaK7&pid=15.1",
@@ -115,28 +251,32 @@
       "started_trending": "2026-10-23T16:23:35Z",
       "first_seen": "2026-10-23T16:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "norman-powell",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 8,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-10-23T21:23:33Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "Norman Powell",
-      "description": "Norman Powell is trending after making his debut and scoring 15 points for the Chicago Bulls.",
+      "description": "The material does not provide enough clear information to explain why this topic is trending.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Norman%20Powell",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.4FrtSCGBLEdHVBJ4q0dnMQAAAA&pid=15.1",
@@ -144,7 +284,139 @@
       "started_trending": "2026-10-23T21:23:33Z",
       "first_seen": "2026-10-23T21:23:33Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "opie",
+      "rank": 9,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-23T21:23:33Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Opie",
+      "description": "Granton Youth members in Edinburgh are trending as their self-portraits are showcased on city billboards.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Opie",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.-pis9iCg1RgdeUPgcso43wHaEJ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T20:23:34Z",
+      "first_seen": "2026-10-23T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "oregon-state",
+      "rank": 10,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-23T21:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Oregon State",
+      "description": "Oregon State standout wide receiver Jesse Legree is trending after announcing his return to the Beavers for his sophomore year.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Oregon%20State",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.iHWa+zBl8LcvHA8MN6lCLg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T21:23:33Z",
+      "first_seen": "2026-10-23T21:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hila",
+      "rank": 11,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-23T21:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Hila",
+      "description": "Hila Klein is making headlines after publicly accusing her husband, Ethan Klein, of a months-long affair amid fallout for the H3 Podcast.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hila",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.vpLr5GXpR98T4qEC1dTvUQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T21:23:33Z",
+      "first_seen": "2026-10-23T21:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "noa-essengue",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Noa Essengue",
+      "description": "Noa Essengue is trending following viral highlights of his dunks and defensive plays on the basketball court.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Noa%20Essengue",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.Er3Vn9Y3bLNzntez1XJImw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T22:23:33Z",
+      "first_seen": "2026-10-23T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -152,28 +424,28 @@
       "extra": {}
     },
     {
-      "id": "oregon-state",
-      "rank": 5,
+      "id": "play-who-he-play",
+      "rank": 13,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 5
+          "t": "2026-10-23T22:23:33Z",
+          "r": 13
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Oregon State",
-      "description": "Oregon State standout wide receiver Jesse Legree announced his return to the Beavers for his sophomore year.",
+      "topic": "Play Who He Play",
+      "description": "Charles Barkley is trending after delivering a hilariously poor performance on his recurring game segment 'Who He Play For?'",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Oregon%20State",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-23T21:23:33Z",
-      "first_seen": "2026-10-23T21:23:33Z",
+      "url": "https://twstalker.com/search/Play%20Who%20He%20Play",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.dm4HtMFP-hW8SxVQ0pRArAHaFX&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T22:23:33Z",
+      "first_seen": "2026-10-23T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
+      "last_seen": "2026-10-23T22:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -182,7 +454,7 @@
     },
     {
       "id": "1-pro",
-      "rank": 6,
+      "rank": 14,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -201,12 +473,16 @@
         {
           "t": "2026-10-23T21:23:33Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 14
         }
       ],
-      "rank_change": 3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "1 Pro",
-      "description": "Moonshot AI is trending following the release of its new K3.1 Pro model, which is reportedly closing in on competing models like Anthropic's Claude Opus 5.5.",
+      "description": "Moonshot AI is drawing attention in the tech world after releasing its new open-weight model, Kimi K3.1 Pro, designed to rival Claude.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/1%20Pro",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.x9x4IAZvIjhhJ8KumkYJuAHaHa&pid=15.1",
@@ -214,77 +490,65 @@
       "started_trending": "2026-10-23T18:23:34Z",
       "first_seen": "2026-10-23T18:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mgsmc2alienwaresweepstakes",
-      "rank": 7,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "id": "zz-top",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-23T20:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 7
+          "t": "2026-10-23T22:23:33Z",
+          "r": 15
         }
       ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "#MGSMC2AlienwareSweepstakes",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "ZZ Top",
+      "description": "ZZ Top is trending following the announcement that the legendary rock band will headline the inaugural performances at United Heritage Hall.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/ZZ%20Top",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.OlqCzvwoUf0K5FGX6RiAegHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T22:23:33Z",
+      "first_seen": "2026-10-23T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chuckster",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Chuckster",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23MGSMC2AlienwareSweepstakes",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.EFic698t5FV28p8ifDuuJwHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Chuckster",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.pgzfjgpVxbxVsryt4-I5jgHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T18:23:34Z",
-      "first_seen": "2026-10-23T18:23:34Z",
+      "started_trending": "2026-10-23T22:23:33Z",
+      "first_seen": "2026-10-23T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hila",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Hila",
-      "description": "Hila Klein is trending after publicly accusing her husband Ethan Klein of having a months-long affair, sparking widespread online fallout.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hila",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.vpLr5GXpR98T4qEC1dTvUQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T21:23:33Z",
-      "first_seen": "2026-10-23T21:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
+      "last_seen": "2026-10-23T22:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -292,57 +556,28 @@
       "extra": {}
     },
     {
-      "id": "cleetus",
-      "rank": 9,
+      "id": "cubans",
+      "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 9
+          "t": "2026-10-23T22:23:33Z",
+          "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Cleetus",
-      "description": "Cleetus McFarland is expressing frustration after getting caught in a major early-race wreck at Talladega.",
+      "topic": "Cubans",
+      "description": "Cuba is gaining attention following political statements from Donald Trump regarding US policy, alongside ongoing human rights concerns and deportation cases.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cleetus",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-23T21:23:33Z",
-      "first_seen": "2026-10-23T21:23:33Z",
+      "url": "https://twstalker.com/search/Cubans",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.2amB8lzDMMIKDHu7-eHpjQHaEh&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T22:23:33Z",
+      "first_seen": "2026-10-23T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "leonard-miller",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Leonard Miller",
-      "description": "Leonard Miller is gaining attention after being featured on the NBA All-Breakout Team alongside other rising stars.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Leonard%20Miller",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-23T21:23:33Z",
-      "first_seen": "2026-10-23T21:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
+      "last_seen": "2026-10-23T22:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -351,7 +586,7 @@
     },
     {
       "id": "dan-sullivan",
-      "rank": 11,
+      "rank": 18,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -374,12 +609,16 @@
         {
           "t": "2026-10-23T21:23:33Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-23T22:23:33Z",
+          "r": 18
         }
       ],
-      "rank_change": -1,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Dan Sullivan",
-      "description": "The Trump administration filed a lawsuit to block the certification of Alaska's U.S. Senate race if Republican Senator Dan Sullivan loses.",
+      "description": "Republican Senator Dan Sullivan is making news after the Justice Department reportedly filed a preemptive lawsuit to block Alaska's Senate race results if he loses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dan%20Sullivan",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.E4OAalMjI8EEMZmDXOXT7AHaJQ&pid=15.1",
@@ -387,319 +626,84 @@
       "started_trending": "2026-10-23T17:23:34Z",
       "first_seen": "2026-10-23T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "caleb-wilson",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Caleb Wilson",
-      "description": "Caleb Wilson is drawing attention following his standout plays, including a putback dunk in his first NBA regular season game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Caleb%20Wilson",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.8fc7IEQLUf1lGW74QzGCgQHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T21:23:33Z",
-      "first_seen": "2026-10-23T21:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "valkoisinnocent",
-      "rank": 13,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-23T20:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "#ValkoIsInnocent",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23ValkoIsInnocent",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.mcUXtDtRzQHgnX9qQu1-FgHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T20:23:34Z",
-      "first_seen": "2026-10-23T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "opie",
-      "rank": 14,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-23T20:23:34Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Opie",
-      "description": "The material does not contain enough information to make a clear description.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Opie",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-23T20:23:34Z",
-      "first_seen": "2026-10-23T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "iphone-duo",
-      "rank": 15,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-23T20:23:34Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "iPhone Duo",
-      "description": "Apple's new $1,999 foldable iPhone Duo has officially arrived in stores, generating high demand and limited supplies.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/iPhone%20Duo",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.hByBdpVKPFsp0tFeY2Tvtg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T19:23:35Z",
-      "first_seen": "2026-10-23T19:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jesse-legree",
-      "rank": 16,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-23T20:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Jesse Legree",
-      "description": "Freshman wide receiver Jesse Legree has locked in his return to Oregon State for the 2027 season following a record-breaking year.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jesse%20Legree",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.VI0zgi0EddKclNRPJ0k+og&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T20:23:34Z",
-      "first_seen": "2026-10-23T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ric-flair",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ric Flair",
-      "description": "Legendary wrestler Ric Flair was rushed to the hospital with head injuries following a fall in Florida, just hours after revealing a blood clot diagnosis.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ric%20Flair",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.+eBhjF0RI92MlX3SdRH2oA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T21:23:33Z",
-      "first_seen": "2026-10-23T21:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "skye",
-      "rank": 18,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-23T20:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-23T21:23:33Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Skye",
-      "description": "U.S. gymnast Skye Blakely won the women's all-around gold medal at the World Championships in Rotterdam following a tearful comeback.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Skye",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.KbEVZl5swoatRD15Unm8UAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T20:23:34Z",
-      "first_seen": "2026-10-23T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hellebuyck",
+      "id": "romulus",
       "rank": 19,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-23T15:23:37Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-23T16:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-23T17:23:34Z",
-          "r": 1
-        },
+          "t": "2026-10-23T22:23:33Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Romulus",
+      "description": "Huntington Ingalls Industries is trending after marking its first Romulus vessel and welcoming Mike Petters back to the board.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Romulus",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.HETGmgY6bjA2QPfDHS2csg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T22:23:33Z",
+      "first_seen": "2026-10-23T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mgsmc2alienwaresweepstakes",
+      "rank": 20,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
         {
           "t": "2026-10-23T18:23:34Z",
-          "r": 3
+          "r": 14
         },
         {
           "t": "2026-10-23T19:23:35Z",
-          "r": 5
+          "r": 10
         },
         {
           "t": "2026-10-23T20:23:34Z",
-          "r": 9
+          "r": 4
         },
         {
           "t": "2026-10-23T21:23:33Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -17,
-      "is_new": false,
-      "topic": "Hellebuyck",
-      "description": "Connor Hellebuyck is trending following a major NHL trade saga that ended with the Winnipeg Jets shipping the goaltender to the New Jersey Devils.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hellebuyck",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.2a84MtZpOHrrfHcDaYx6zg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T15:23:37Z",
-      "first_seen": "2026-10-23T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "worlds2026",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
+          "r": 7
+        },
         {
-          "t": "2026-10-23T21:23:33Z",
+          "t": "2026-10-23T22:23:33Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#Worlds2026",
-      "description": "Fans and analysts are following the tournament action, opening ceremonies, and team matchups at League of Legends Worlds 2026.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Worlds2026",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.lXZSpCxK6G28oMOwAQ8sGAAAAA&pid=15.1",
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "#MGSMC2AlienwareSweepstakes",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MGSMC2AlienwareSweepstakes",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.EFic698t5FV28p8ifDuuJwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T21:23:33Z",
-      "first_seen": "2026-10-23T21:23:33Z",
+      "started_trending": "2026-10-23T18:23:34Z",
+      "first_seen": "2026-10-23T18:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T21:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T22:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     }
