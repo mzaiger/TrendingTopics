@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-23T12:25:26Z",
+  "updated": "2026-10-23T13:24:48Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-23T12:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Good Friday",
-      "description": "This phrase is trending in various casual posts and local morning weather forecasts welcoming the end of the work week.",
+      "description": "The material does not make a description clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Friday",
       "image_url": "https://ts1.explicit.bing.net/th?id=OIP.ApSWLE8537NNSOsOTcAqbwHaHa&pid=15.1",
@@ -33,28 +37,32 @@
       "started_trending": "2026-10-23T11:23:38Z",
       "first_seen": "2026-10-23T11:23:38Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ethan",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-23T12:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Ethan",
-      "description": "YouTuber Ethan Klein is trending after his wife and podcast co-host, Hila Klein, publicly stated that he had a months-long affair, prompting the H3 Podcast crew to cut ties.",
+      "description": "YouTuber Ethan Klein is trending after his wife, Hila Klein, publicly stated on social media that he had an affair, leading the H3 Podcast crew to cut ties.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ethan",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.B0wmWRDV2DthmxKOfeoc9w&pid=15.1",
@@ -62,64 +70,19 @@
       "started_trending": "2026-10-23T12:23:35Z",
       "first_seen": "2026-10-23T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "red-friday",
-      "rank": 3,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-23T09:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-23T10:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-23T11:23:38Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-23T12:23:35Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "RED Friday",
-      "description": "This phrase is trending due to various sports games and local events happening on Friday, including the final show at Raleigh's Red Hat Amphitheater.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/RED%20Friday",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.rWuIRTG2wkd73_Oiumzk4QHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T09:23:32Z",
-      "first_seen": "2026-10-23T09:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hila",
-      "rank": 4,
+      "rank": 3,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-10-23T07:23:31Z",
-          "r": 5
-        },
         {
           "t": "2026-10-23T08:23:34Z",
           "r": 2
@@ -139,12 +102,16 @@
         {
           "t": "2026-10-23T12:23:35Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": -2,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Hila",
-      "description": "Hila Klein is trending after publicly accusing her husband, YouTuber Ethan Klein, of having a months-long affair, which led to the H3 Podcast crew cutting ties.",
+      "description": "Hila Klein is trending after announcing her separation and accusing her husband, Ethan Klein, of having an affair, prompting the H3 Podcast to go on indefinite hiatus.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hila",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.ga1GDUVhAofyeR8ozIMRxQHaLH&pid=15.1",
@@ -152,103 +119,16 @@
       "started_trending": "2026-10-23T07:23:31Z",
       "first_seen": "2026-10-23T07:23:31Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "topic",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T12:23:35Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#中国上海立刻解决叠纸争议",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7%E7%AB%8B%E5%88%BB%E8%A7%A3%E5%86%B3%E5%8F%A0%E7%BA%B8%E4%BA%89%E8%AE%AE",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.azJnDpud27ZCMi45qpVQKgHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T12:23:35Z",
-      "first_seen": "2026-10-23T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "alconmustendppgcollab",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T12:23:35Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#AlconMustEndPPGcollab",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23AlconMustEndPPGcollab",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.v1hNmOAiBnhDz334dWjeywHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T12:23:35Z",
-      "first_seen": "2026-10-23T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bladerunnercollabswithracist",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T12:23:35Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#BladeRunnerCollabswithRacist",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23BladeRunnerCollabswithRacist",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.d02PWUuDXKmOhC-1OoNNgAHaKe&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T12:23:35Z",
-      "first_seen": "2026-10-23T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "fat-albert",
-      "rank": 8,
+      "rank": 4,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -263,12 +143,16 @@
         {
           "t": "2026-10-23T12:23:35Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 4
         }
       ],
-      "rank_change": 0,
+      "rank_change": 4,
       "is_new": false,
       "topic": "Fat Albert",
-      "description": "The material doesn't make a description clear.",
+      "description": "The material does not make a description clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Fat%20Albert",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.9Sf7qZIZaOsEr18N1J9TdgHaEK&pid=15.1",
@@ -276,61 +160,176 @@
       "started_trending": "2026-10-23T10:23:32Z",
       "first_seen": "2026-10-23T10:23:32Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "genshinspecialprogram",
-      "rank": 9,
+      "id": "red-friday",
+      "rank": 5,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-23T09:23:32Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-23T10:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-23T11:23:38Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-23T12:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "RED Friday",
+      "description": "The material does not make a description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/RED%20Friday",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.rWuIRTG2wkd73_Oiumzk4QHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T09:23:32Z",
+      "first_seen": "2026-10-23T09:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "topic",
+      "rank": 6,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-23T12:23:35Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "#中国上海立刻解决叠纸争议",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7%E7%AB%8B%E5%88%BB%E8%A7%A3%E5%86%B3%E5%8F%A0%E7%BA%B8%E4%BA%89%E8%AE%AE",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.azJnDpud27ZCMi45qpVQKgHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T12:23:35Z",
+      "first_seen": "2026-10-23T12:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "alconmustendppgcollab",
+      "rank": 7,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
         {
-          "t": "2026-10-23T11:23:38Z",
+          "t": "2026-10-23T12:23:35Z",
           "r": 6
         },
         {
-          "t": "2026-10-23T12:23:35Z",
-          "r": 9
+          "t": "2026-10-23T13:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": -3,
+      "rank_change": -1,
       "is_new": false,
-      "topic": "#GenshinSpecialProgram",
+      "topic": "#AlconMustEndPPGcollab",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23GenshinSpecialProgram",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.NlA9ywok0nxZo0p9R8Gk4gHaLH&pid=15.1",
+      "url": "https://twstalker.com/search/%23AlconMustEndPPGcollab",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.v1hNmOAiBnhDz334dWjeywHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T11:23:38Z",
-      "first_seen": "2026-10-23T11:23:38Z",
+      "started_trending": "2026-10-23T12:23:35Z",
+      "first_seen": "2026-10-23T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bladerunnercollabswithracist",
+      "rank": 8,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-23T12:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "#BladeRunnerCollabswithRacist",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23BladeRunnerCollabswithRacist",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.d02PWUuDXKmOhC-1OoNNgAHaKe&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T12:23:35Z",
+      "first_seen": "2026-10-23T12:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dolan",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-23T12:23:35Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Dolan",
-      "description": "New York Knicks owner James Dolan is facing backlash after sending a phishing email offering phony championship rings to MSG staff to test cybersecurity.",
+      "description": "James Dolan is trending after Madison Square Garden staff reportedly received a phishing email offering fake championship rings, with fans criticizing the Knicks owner.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dolan",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.IwA1c2iWbKprFQsHQ4eCrgHaE8&pid=15.1",
@@ -338,16 +337,16 @@
       "started_trending": "2026-10-23T12:23:35Z",
       "first_seen": "2026-10-23T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "happy-friyay",
-      "rank": 11,
+      "rank": 10,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -358,12 +357,16 @@
         {
           "t": "2026-10-23T12:23:35Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 10
         }
       ],
-      "rank_change": -1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Happy Friyay",
-      "description": "This phrase is trending in social media posts and local morning forecasts celebrating Friday weather.",
+      "description": "The material does not make a description clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Happy%20Friyay",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.qTCbBdepECyvLhuiFHAXAgHaEF&pid=15.1",
@@ -371,16 +374,16 @@
       "started_trending": "2026-10-23T11:23:38Z",
       "first_seen": "2026-10-23T11:23:38Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "fridayvibes",
-      "rank": 12,
+      "rank": 11,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -391,9 +394,13 @@
         {
           "t": "2026-10-23T12:23:35Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 11
         }
       ],
-      "rank_change": 2,
+      "rank_change": 3,
       "is_new": false,
       "topic": "#FridayVibes",
       "description": "",
@@ -404,160 +411,16 @@
       "started_trending": "2026-10-23T11:23:38Z",
       "first_seen": "2026-10-23T11:23:38Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "remember-everyone-deployed",
-      "rank": 13,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-23T11:23:38Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-23T12:23:35Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Remember Everyone Deployed",
-      "description": "This topic is trending due to news features highlighting community efforts to support veterans, such as a New Hampshire guitar shop using music to help them heal.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Remember%20Everyone%20Deployed",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.gFtAsSILYnJcx8kaGIAsqAHaDP&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T11:23:38Z",
-      "first_seen": "2026-10-23T11:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "finally-friday",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T12:23:35Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Finally Friday",
-      "description": "This phrase is trending alongside weekend sports previews, infrastructure news like the Van Wyck Expressway lane openings, and discussions of Friday the 13th movies.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Finally%20Friday",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.8qaVG1VnSm_6p4Zxkm1a7QHaFI&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T12:23:35Z",
-      "first_seen": "2026-10-23T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gmmtv-respect-our-culture",
-      "rank": 15,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-23T07:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-23T08:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-23T09:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-23T10:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-23T11:23:38Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-23T12:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "GMMTV RESPECT OUR CULTURE",
-      "description": "GMMTV is facing online backlash and criticism over a cultural appropriation controversy.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/GMMTV%20RESPECT%20OUR%20CULTURE",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ufCxaqZ-aYUWI2Yk05vqmQAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T06:23:32Z",
-      "first_seen": "2026-10-23T06:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "yung-miami",
-      "rank": 16,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-23T11:23:38Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-23T12:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Yung Miami",
-      "description": "Yung Miami is trending on social media following the release of her debut solo album, Watch Dis!, and discussions surrounding a track where she reveals Drake left her on read.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Yung%20Miami",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.ZsmuSVdT7UThQLQKCXNVDA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T11:23:38Z",
-      "first_seen": "2026-10-23T11:23:38Z",
-      "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hebron",
-      "rank": 17,
+      "rank": 12,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -568,12 +431,16 @@
         {
           "t": "2026-10-23T12:23:35Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 12
         }
       ],
-      "rank_change": 0,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Hebron",
-      "description": "Israel ordered a full lockdown of the West Bank following a Hebron gunfight where soldiers killed two men and a shooting that wounded five Israelis.",
+      "description": "Hebron is trending following a deadly shooting attack in the West Bank that led Israel to order a full lockdown and closure of the area.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hebron",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.kYd4oHvUoLD-0tYThW-kNwHaE8&pid=15.1",
@@ -581,7 +448,36 @@
       "started_trending": "2026-10-23T11:23:38Z",
       "first_seen": "2026-10-23T11:23:38Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fridaymotivation",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FridayMotivation",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23FridayMotivation",
+      "image_url": "https://ts3.explicit.bing.net/th?id=OIP.KoVgNpSMqlZvQuq8Z1FI9QHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T13:23:35Z",
+      "first_seen": "2026-10-23T13:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-23T13:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -589,31 +485,171 @@
       "extra": {}
     },
     {
-      "id": "caresha",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "yung-miami",
+      "rank": 14,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-23T11:23:38Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-23T12:23:35Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Yung Miami",
+      "description": "Yung Miami is trending on social media following the release of her debut solo album, 'Watch Dis!', featuring guest appearances from major artists.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Yung%20Miami",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.ZsmuSVdT7UThQLQKCXNVDA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T11:23:38Z",
+      "first_seen": "2026-10-23T11:23:38Z",
+      "published": null,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "remember-everyone-deployed",
+      "rank": 15,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-23T11:23:38Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-23T12:23:35Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Remember Everyone Deployed",
+      "description": "The material does not make a description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Remember%20Everyone%20Deployed",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.gFtAsSILYnJcx8kaGIAsqAHaDP&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T11:23:38Z",
+      "first_seen": "2026-10-23T11:23:38Z",
+      "published": null,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "finally-friday",
+      "rank": 16,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-10-23T12:23:35Z",
-          "r": 18
+          "r": 14
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Caresha",
-      "description": "Caresha, also known as Yung Miami, is trending as she releases her debut solo album titled Watch Dis! and receives attention for her music.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Finally Friday",
+      "description": "The material does not make a description clear.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Caresha",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.EUvOoI0jWKzjzmJo4_Jv9gHaHV&pid=15.1",
+      "url": "https://twstalker.com/search/Finally%20Friday",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.8qaVG1VnSm_6p4Zxkm1a7QHaFI&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-23T12:23:35Z",
       "first_seen": "2026-10-23T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "meghan",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Meghan",
+      "description": "Meghan Markle is trending after expressing deep distress over reports that her estranged father, Thomas Markle, is facing an investigation concerning child sexual abuse materials.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Meghan",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.wVZjo4dFUoKXJtqWUKFdPQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T13:23:35Z",
+      "first_seen": "2026-10-23T13:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-23T13:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "student-ids",
+      "rank": 18,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-23T12:23:35Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Student IDs",
+      "description": "Student IDs are trending after the Supreme Court allowed New Hampshire to enforce a blanket ban preventing students from using their school IDs for voting.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Student%20IDs",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ZyOGkDwaoCBYW3uvUTFkKQHaD0&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T12:23:35Z",
+      "first_seen": "2026-10-23T12:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -623,10 +659,6 @@
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
-        {
-          "t": "2026-10-23T07:23:31Z",
-          "r": 9
-        },
         {
           "t": "2026-10-23T08:23:34Z",
           "r": 7
@@ -646,12 +678,16 @@
         {
           "t": "2026-10-23T12:23:35Z",
           "r": 19
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
+          "r": 19
         }
       ],
       "rank_change": -12,
       "is_new": false,
       "topic": "Dear JT",
-      "description": "Yung Miami's heartfelt new track 'Dear JT' from her debut album Watch Dis! is drawing intense reactions and criticism across social media.",
+      "description": "Dear JT is trending as social media users react to and criticize a heartfelt track from Yung Miami's newly released debut album, 'Watch Dis!'.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dear%20JT",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.HgUlqtr6S86B7GFBs5nPOgHaE8&pid=15.1",
@@ -659,39 +695,43 @@
       "started_trending": "2026-10-23T05:23:33Z",
       "first_seen": "2026-10-23T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "student-ids",
+      "id": "caresha",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-10-23T12:23:35Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-23T13:23:35Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Student IDs",
-      "description": "The Supreme Court ruled that New Hampshire can enforce a ban preventing voters from using student IDs at the polls.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Caresha",
+      "description": "Caresha, known as Yung Miami, is trending as social media discusses her emotional rollout and the release of her debut solo album, 'Watch Dis!'.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Student%20IDs",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ZyOGkDwaoCBYW3uvUTFkKQHaD0&pid=15.1",
+      "url": "https://twstalker.com/search/Caresha",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.EUvOoI0jWKzjzmJo4_Jv9gHaHV&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-23T12:23:35Z",
       "first_seen": "2026-10-23T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T12:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T13:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
