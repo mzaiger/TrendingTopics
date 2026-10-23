@@ -1,15 +1,48 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-23T19:24:59Z",
+  "updated": "2026-10-23T20:25:06Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "lassie",
+      "id": "ethan",
       "rank": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-23T19:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Ethan",
+      "description": "Ethan Klein is trending as the 'H3 Podcast' goes on an indefinite hiatus after his wife, Hila Klein, publicly alleged that he had an affair for six months, leading the podcast team to drop him.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ethan",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIF.4F/3uwoWP6tTry/OA6w79g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T19:23:35Z",
+      "first_seen": "2026-10-23T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lassie",
+      "rank": 2,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -28,12 +61,16 @@
         {
           "t": "2026-10-23T19:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 2
         }
       ],
-      "rank_change": 6,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Lassie",
-      "description": "Users are discussing the Maryland Million horse race win.",
+      "description": "The material does not provide enough information to explain why this topic is trending.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Lassie",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.hWPHwkZMOTQzLqIgRLXWpwHaK7&pid=15.1",
@@ -41,7 +78,7 @@
       "started_trending": "2026-10-23T16:23:35Z",
       "first_seen": "2026-10-23T16:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
+      "last_seen": "2026-10-23T20:23:34Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -49,28 +86,102 @@
       "extra": {}
     },
     {
-      "id": "ethan",
-      "rank": 2,
+      "id": "1-pro",
+      "rank": 3,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-23T18:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-23T19:23:35Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "1 Pro",
+      "description": "Moonshot AI is trending following the release of its new K3.1 Pro model, which is reportedly closing in on competing models like Anthropic's Claude Opus 5.5.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/1%20Pro",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.x9x4IAZvIjhhJ8KumkYJuAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T18:23:34Z",
+      "first_seen": "2026-10-23T18:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mgsmc2alienwaresweepstakes",
+      "rank": 4,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-23T18:23:34Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-23T19:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "#MGSMC2AlienwareSweepstakes",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MGSMC2AlienwareSweepstakes",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.EFic698t5FV28p8ifDuuJwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T18:23:34Z",
+      "first_seen": "2026-10-23T18:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "skye",
+      "rank": 5,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 2
+          "t": "2026-10-23T20:23:34Z",
+          "r": 5
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Ethan",
-      "description": "The 'H3 Podcast' has gone on an indefinite hiatus and its crew cut ties with Ethan Klein after his wife accused him of having an affair.",
+      "topic": "Skye",
+      "description": "Skye Blakely is trending after winning the gymnastics world all-around title in Rotterdam, capping off a remarkable injury comeback to claim Team USA's 15th crown in the event.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ethan",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIF.4F/3uwoWP6tTry/OA6w79g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T19:23:35Z",
-      "first_seen": "2026-10-23T19:23:35Z",
+      "url": "https://twstalker.com/search/Skye",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T20:23:34Z",
+      "first_seen": "2026-10-23T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
+      "last_seen": "2026-10-23T20:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -79,7 +190,7 @@
     },
     {
       "id": "mercer",
-      "rank": 3,
+      "rank": 6,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -98,12 +209,16 @@
         {
           "t": "2026-10-23T19:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": 5,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Mercer",
-      "description": "The Winnipeg Jets traded goaltender Connor Hellebuyck to the New Jersey Devils in exchange for Dawson Mercer and prospect Alexander Command.",
+      "description": "Dawson Mercer is trending after being traded by the New Jersey Devils to the Winnipeg Jets as part of a blockbuster deal involving star goaltender Connor Hellebuyck.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mercer",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.MT5i3WH72EXHZ5ZNTp-xfAHaFj&pid=15.1",
@@ -111,134 +226,7 @@
       "started_trending": "2026-10-23T16:23:35Z",
       "first_seen": "2026-10-23T16:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "devils",
-      "rank": 4,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-23T16:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-23T17:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Devils",
-      "description": "The New Jersey Devils acquired star goaltender Connor Hellebuyck and traded players including Dawson Mercer to the Winnipeg Jets in a blockbuster deal.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Devils",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.qb48WfCoqV1Gka1c5YHEAQHaHk&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T16:23:35Z",
-      "first_seen": "2026-10-23T16:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hellebuyck",
-      "rank": 5,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-23T15:23:37Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-23T16:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-23T17:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Hellebuyck",
-      "description": "Connor Hellebuyck was traded from the Winnipeg Jets to the New Jersey Devils in a blockbuster five-player deal.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hellebuyck",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.2a84MtZpOHrrfHcDaYx6zg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T15:23:37Z",
-      "first_seen": "2026-10-23T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "winnipeg",
-      "rank": 6,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-10-23T16:23:35Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-23T17:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 10,
-      "is_new": false,
-      "topic": "Winnipeg",
-      "description": "The Winnipeg Jets traded star goaltender Connor Hellebuyck to the New Jersey Devils in a blockbuster five-player deal.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Winnipeg",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.LP3nhu_aj1y0lScJFDx28wHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T16:23:35Z",
-      "first_seen": "2026-10-23T16:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
+      "last_seen": "2026-10-23T20:23:34Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -262,12 +250,16 @@
         {
           "t": "2026-10-23T19:23:35Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 7
         }
       ],
       "rank_change": 3,
       "is_new": false,
       "topic": "Dan Sullivan",
-      "description": "The Justice Department filed a lawsuit over Alaska's U.S. Senate race after President Trump ordered action regarding Republican Senator Dan Sullivan.",
+      "description": "Republican Senator Dan Sullivan is trending after the Trump administration filed a lawsuit seeking to block the certification of the upcoming Alaska Senate election if he loses in November.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dan%20Sullivan",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.E4OAalMjI8EEMZmDXOXT7AHaJQ&pid=15.1",
@@ -275,81 +267,7 @@
       "started_trending": "2026-10-23T17:23:34Z",
       "first_seen": "2026-10-23T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "1-pro",
-      "rank": 8,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "1 Pro",
-      "description": "Moonshot AI has released the Kimi K3.1 Pro model, which is closing in on Anthropic's Claude Opus 5.5.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/1%20Pro",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.x9x4IAZvIjhhJ8KumkYJuAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T18:23:34Z",
-      "first_seen": "2026-10-23T18:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hila",
-      "rank": 9,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-23T16:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-23T17:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Hila",
-      "description": "The 'H3 Podcast' went on an indefinite hiatus after Hila Klein publicly accused her husband Ethan Klein of having an affair.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hila",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.ARnCkstIfYWnmID5CvgNmw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T16:23:35Z",
-      "first_seen": "2026-10-23T16:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
+      "last_seen": "2026-10-23T20:23:34Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -357,133 +275,199 @@
       "extra": {}
     },
     {
-      "id": "mgsmc2alienwaresweepstakes",
-      "rank": 10,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "id": "devils",
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 14
+          "t": "2026-10-23T16:23:35Z",
+          "r": 6
         },
         {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "#MGSMC2AlienwareSweepstakes",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23MGSMC2AlienwareSweepstakes",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.EFic698t5FV28p8ifDuuJwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T18:23:34Z",
-      "first_seen": "2026-10-23T18:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oleshky",
-      "rank": 11,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-23T14:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-23T15:23:37Z",
+          "t": "2026-10-23T17:23:34Z",
           "r": 3
         },
         {
-          "t": "2026-10-23T16:23:35Z",
+          "t": "2026-10-23T18:23:34Z",
           "r": 5
         },
         {
-          "t": "2026-10-23T17:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 10
-        },
-        {
           "t": "2026-10-23T19:23:35Z",
-          "r": 11
+          "r": 4
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": -7,
+      "rank_change": -2,
       "is_new": false,
-      "topic": "Oleshky",
-      "description": "Melania Trump helped broker a temporary humanitarian ceasefire in the Russian-occupied Ukrainian city of Oleshky amid a food crisis.",
+      "topic": "Devils",
+      "description": "The New Jersey Devils are trending following a blockbuster trade that brought three-time Vezina winner Connor Hellebuyck from the Winnipeg Jets in exchange for several players and draft picks.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Oleshky",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.kfu0XL4/3RnEPuX5ziosew&pid=15.1",
+      "url": "https://twstalker.com/search/Devils",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.qb48WfCoqV1Gka1c5YHEAQHaHk&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T14:23:35Z",
-      "first_seen": "2026-10-23T14:23:35Z",
+      "started_trending": "2026-10-23T16:23:35Z",
+      "first_seen": "2026-10-23T16:23:35Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "fursuitfriday",
-      "rank": 12,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "id": "hellebuyck",
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
-          "t": "2026-10-23T14:23:35Z",
-          "r": 11
-        },
-        {
           "t": "2026-10-23T15:23:37Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-23T16:23:35Z",
           "r": 10
         },
         {
+          "t": "2026-10-23T16:23:35Z",
+          "r": 2
+        },
+        {
           "t": "2026-10-23T17:23:34Z",
-          "r": 13
+          "r": 1
         },
         {
           "t": "2026-10-23T18:23:34Z",
-          "r": 13
+          "r": 3
         },
         {
           "t": "2026-10-23T19:23:35Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Hellebuyck",
+      "description": "Connor Hellebuyck is trending after the Winnipeg Jets traded the star goaltender to the New Jersey Devils in a blockbuster multi-player deal, ending a bitter standoff.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hellebuyck",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.2a84MtZpOHrrfHcDaYx6zg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T15:23:37Z",
+      "first_seen": "2026-10-23T15:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "valkoisinnocent",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#ValkoIsInnocent",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23ValkoIsInnocent",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T20:23:34Z",
+      "first_seen": "2026-10-23T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "winnipeg",
+      "rank": 11,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-23T16:23:35Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-23T17:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-23T18:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-23T19:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Winnipeg",
+      "description": "The Winnipeg Jets are trending following a blockbuster trade that sent star goaltender Connor Hellebuyck to the New Jersey Devils in exchange for five players and draft picks.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Winnipeg",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.LP3nhu_aj1y0lScJFDx28wHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T16:23:35Z",
+      "first_seen": "2026-10-23T16:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jesse-legree",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T20:23:34Z",
           "r": 12
         }
       ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "#FursuitFriday",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23FursuitFriday",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JJ0iSqE6VNvLR2A2I01kqQHaLG&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jesse Legree",
+      "description": "Oregon State standout wide receiver Jesse Legree is trending after announcing his decision to return to the Beavers for the 2027 season for his sophomore year.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jesse%20Legree",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.VI0zgi0EddKclNRPJ0k+og&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T14:23:35Z",
-      "first_seen": "2026-10-23T14:23:35Z",
+      "started_trending": "2026-10-23T20:23:34Z",
+      "first_seen": "2026-10-23T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -500,12 +484,16 @@
         {
           "t": "2026-10-23T19:23:35Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 13
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "#VoteEarlyDay",
-      "description": "Minnesotans achieved over 419,000 early votes ahead of Vote Early Day.",
+      "description": "Voters and officials are highlighting 'Vote Early Day' as early voting numbers surge, including over 419,000 early votes cast by Minnesotans ahead of the event.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23VoteEarlyDay",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.RtK5LR2fHPmTYvzW2nA2EQHaD4&pid=15.1",
@@ -513,16 +501,131 @@
       "started_trending": "2026-10-23T18:23:34Z",
       "first_seen": "2026-10-23T18:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fursuitfriday",
+      "rank": 14,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-23T14:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-23T15:23:37Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-23T16:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-23T17:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-23T18:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-23T19:23:35Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "#FursuitFriday",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23FursuitFriday",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JJ0iSqE6VNvLR2A2I01kqQHaLG&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T14:23:35Z",
+      "first_seen": "2026-10-23T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stanawards",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#StanAwards",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23StanAwards",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T20:23:34Z",
+      "first_seen": "2026-10-23T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "iphone-duo",
+      "rank": 16,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-23T19:23:35Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "iPhone Duo",
+      "description": "Apple's new iPhone Duo is trending as fans camp out and lines form at stores for the tech giant's first foldable smartphone, which launched amid limited supplies and a high price tag.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/iPhone%20Duo",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.hByBdpVKPFsp0tFeY2Tvtg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T19:23:35Z",
+      "first_seen": "2026-10-23T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hunter-biden",
-      "rank": 14,
+      "rank": 17,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -537,12 +640,16 @@
         {
           "t": "2026-10-23T19:23:35Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-23T20:23:34Z",
+          "r": 17
         }
       ],
-      "rank_change": 1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Hunter Biden",
-      "description": "Former FBI employees and intelligence officials have been charged with lying to Congress about inquiries and investigations into Hunter Biden's laptop.",
+      "description": "Hunter Biden is trending after two former FBI intelligence employees were charged with lying to Congress regarding investigations into his laptop.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hunter%20Biden",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.JQRvN98d1nH+a+6OaxnuhA&pid=15.1",
@@ -550,143 +657,7 @@
       "started_trending": "2026-10-23T17:23:34Z",
       "first_seen": "2026-10-23T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "command",
-      "rank": 15,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-23T17:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Command",
-      "description": "Top prospect Alexander Command was acquired by the Winnipeg Jets from the New Jersey Devils in a blockbuster trade.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Command",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.YDv1v/5RPuSpbKF/b+HSxg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T17:23:34Z",
-      "first_seen": "2026-10-23T17:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fort-myers",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Fort Myers",
-      "description": "President Trump arrived in Fort Myers, Florida, to host a midterm campaign rally at Alico Arena.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fort%20Myers",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.6nQG76lRWaLjEs6ynpWE0gHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T19:23:35Z",
-      "first_seen": "2026-10-23T19:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "iphone-duo",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "iPhone Duo",
-      "description": "Apple's first foldable smartphone, the iPhone Duo, has hit stores for $1,999 amid high demand and limited supplies.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/iPhone%20Duo",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.hByBdpVKPFsp0tFeY2Tvtg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T19:23:35Z",
-      "first_seen": "2026-10-23T19:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "melania-trump",
-      "rank": 18,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-23T16:23:35Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-23T17:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Melania Trump",
-      "description": "The White House announced that Melania Trump helped secure a temporary ceasefire deal in the besieged Ukrainian city of Oleshky.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Melania%20Trump",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.tkXVInIDGrYKEeTvGsTUzAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T16:23:35Z",
-      "first_seen": "2026-10-23T16:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
+      "last_seen": "2026-10-23T20:23:34Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -694,28 +665,28 @@
       "extra": {}
     },
     {
-      "id": "alaska-senate",
-      "rank": 19,
+      "id": "play-who-he-play",
+      "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-23T19:23:35Z",
-          "r": 19
+          "t": "2026-10-23T20:23:34Z",
+          "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Alaska Senate",
-      "description": "The Justice Department sued to block Alaska's U.S. Senate election results and certification if Republican Senator Dan Sullivan loses or a Democrat wins.",
+      "topic": "Play Who He Play",
+      "description": "Charles Barkley is trending following his latest hilariously poor performance playing the recurring game segment 'Who He Play For?'",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alaska%20Senate",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.rNKzXN3RYr5c6sack2nzQAHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T19:23:35Z",
-      "first_seen": "2026-10-23T19:23:35Z",
+      "url": "https://twstalker.com/search/Play%20Who%20He%20Play",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T20:23:34Z",
+      "first_seen": "2026-10-23T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
+      "last_seen": "2026-10-23T20:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -723,35 +694,60 @@
       "extra": {}
     },
     {
-      "id": "caresha",
-      "rank": 20,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
+      "id": "opie",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-23T18:23:34Z",
-          "r": 20
-        },
+          "t": "2026-10-23T20:23:34Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Opie",
+      "description": "The material does not provide enough information to explain why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Opie",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T20:23:34Z",
+      "first_seen": "2026-10-23T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chuckster",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-10-23T19:23:35Z",
+          "t": "2026-10-23T20:23:34Z",
           "r": 20
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Caresha",
-      "description": "Yung Miami addressed her fallout with City Girls bandmate JT on her new debut solo album 'Watch Dis!'",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Caresha",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.7FKe5JnkHfeDdT-C4anKZQHaLG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T18:23:34Z",
-      "first_seen": "2026-10-23T18:23:34Z",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Chuckster",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Chuckster",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T20:23:34Z",
+      "first_seen": "2026-10-23T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-23T20:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
