@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-23T01:25:42Z",
+  "updated": "2026-10-23T02:25:04Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-10-23T01:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 1
         }
       ],
       "rank_change": 8,
       "is_new": false,
       "topic": "Cavs",
-      "description": "The Cleveland Cavaliers are trending as they prepare to open their season against the Philadelphia 76ers, amid headlines about coach Kenny Atkinson and their roster.",
+      "description": "The Cavaliers are trending after blowing a 29-point lead in a 114-106 loss to the Sixers. Meanwhile, social media discussed coach Kenny Atkinson's reaction to a failed LeBron James deal.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cavs",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.Bq6YfaK4kao6BsovePOCvwHaFj&pid=15.1",
@@ -37,65 +41,36 @@
       "started_trending": "2026-10-22T23:23:33Z",
       "first_seen": "2026-10-22T23:23:33Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "verzuz",
+      "id": "jaylon-johnson",
       "rank": 2,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-23T01:23:36Z",
+          "t": "2026-10-23T02:23:34Z",
           "r": 2
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#VERZUZ",
-      "description": "R&B singers Carl Thomas and Case are trending as they face off in the latest VERZUZ musical event.",
+      "topic": "Jaylon Johnson",
+      "description": "Chicago Bears cornerback Jaylon Johnson is trending on social media after facing heavy criticism from fans and analysts for a dismal defensive effort on an end-of-half touchdown during a game against the Patriots.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23VERZUZ",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.c8p8vC2R0x1/JaG7qUDhoQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T01:23:36Z",
-      "first_seen": "2026-10-23T01:23:36Z",
+      "url": "https://twstalker.com/search/Jaylon%20Johnson",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T02:23:34Z",
+      "first_seen": "2026-10-23T02:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "josh-mcdaniels",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Josh McDaniels",
-      "description": "The provided material does not contain enough information to write a description for Josh McDaniels.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Josh%20McDaniels",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.aEZt6eZgWm7cWOiHpdhMLQEsDI&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T01:23:36Z",
-      "first_seen": "2026-10-23T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
+      "last_seen": "2026-10-23T02:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -104,7 +79,7 @@
     },
     {
       "id": "sixers",
-      "rank": 4,
+      "rank": 3,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -115,12 +90,16 @@
         {
           "t": "2026-10-23T01:23:36Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 3
         }
       ],
-      "rank_change": -2,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Sixers",
-      "description": "The Philadelphia 76ers are trending as they host the Cleveland Cavaliers for their home opener.",
+      "description": "The Sixers are trending after overcoming a 29-point deficit to secure a stunning 114-106 comeback victory against the Cavaliers in LeBron James's home debut.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Sixers",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.-bsn93Ser57fKdHBjvhH3QHaEo&pid=15.1",
@@ -128,86 +107,32 @@
       "started_trending": "2026-10-23T00:23:34Z",
       "first_seen": "2026-10-23T00:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rome-odunze",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rome Odunze",
-      "description": "Chicago Bears wide receiver Rome Odunze is trending as a popular fantasy football start option ahead of the team's Thursday Night Football matchup against the Patriots.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rome%20Odunze",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.Hb9ULixBy+CoHoi7bDq79g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T01:23:36Z",
-      "first_seen": "2026-10-23T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kyler-gordon",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kyler Gordon",
-      "description": "Chicago Bears cornerback Kyler Gordon is trending after setting a franchise record for most sacks in a season by a cornerback during their game against the Patriots.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kyler%20Gordon",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.sLCuxpULl2CSpmHzIzxswA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T01:23:36Z",
-      "first_seen": "2026-10-23T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bears",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-23T01:23:36Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 3,
+      "is_new": false,
       "topic": "Bears",
-      "description": "The Chicago Bears are trending social media topics as they prepare to host the New England Patriots for Thursday Night Football.",
+      "description": "The Chicago Bears are trending as they face the New England Patriots in a Week 7 Thursday Night Football matchup, featuring recent roster moves and game predictions.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bears",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.XvZZ3O9/ZVFOo6z3B6qXUQ&pid=15.1",
@@ -215,69 +140,7 @@
       "started_trending": "2026-10-23T01:23:36Z",
       "first_seen": "2026-10-23T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "911onabc",
-      "rank": 8,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-23T00:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#911onABC",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23911onABC",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Uki0x9kXCRmhqAA6wmhubQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T00:23:34Z",
-      "first_seen": "2026-10-23T00:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "patriots",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Patriots",
-      "description": "The New England Patriots are trending as they prepare to face the Chicago Bears on Thursday Night Football.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Patriots",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.IbduMwANYIW9vXjn7jbbeQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T01:23:36Z",
-      "first_seen": "2026-10-23T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
+      "last_seen": "2026-10-23T02:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -286,19 +149,23 @@
     },
     {
       "id": "drake-maye",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 5,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-23T01:23:36Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 5,
+      "is_new": false,
       "topic": "Drake Maye",
-      "description": "New England Patriots quarterback Drake Maye is trending ahead of a marquee matchup against Caleb Williams and the Chicago Bears on Thursday Night Football.",
+      "description": "New England Patriots quarterback Drake Maye is trending on social media following praise from Tom Brady for his mental toughness, a touchdown run, and ahead of a matchup against the Bears.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Drake%20Maye",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.PHEiVjThEbKmCQcWFhHnkw&pid=15.1",
@@ -306,7 +173,7 @@
       "started_trending": "2026-10-23T01:23:36Z",
       "first_seen": "2026-10-23T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
+      "last_seen": "2026-10-23T02:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -314,28 +181,94 @@
       "extra": {}
     },
     {
-      "id": "swift",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "verzuz",
+      "rank": 6,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-23T01:23:36Z",
-          "r": 11
+          "r": 2
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Swift",
-      "description": "Running back D'Andre Swift is trending on social media after scoring his seventh touchdown of the season for the Bears in their game against the Patriots.",
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "#VERZUZ",
+      "description": "Fans are buzzing on social media about the upcoming VERZUZ musical exhibition event featuring R&B artists Carl Thomas and Case.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Swift",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.aO3RfYX7WhDGTQ7Fus5+qw&pid=15.1",
+      "url": "https://twstalker.com/search/%23VERZUZ",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.c8p8vC2R0x1/JaG7qUDhoQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-23T01:23:36Z",
       "first_seen": "2026-10-23T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aj-brown",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "AJ Brown",
+      "description": "A.J. Brown is trending on social media after upgrading to full practice participation with an ankle injury, drawing fantasy football interest and predictions ahead of the Patriots-Bears game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/AJ%20Brown",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T02:23:34Z",
+      "first_seen": "2026-10-23T02:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "luther-burden",
+      "rank": 8,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-23T01:23:36Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Luther Burden",
+      "description": "Luther Burden is trending on social media after helping the Chicago Bears jump out to a fast start against the Patriots, including a 26-yard pass from Caleb Williams.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Luther%20Burden",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.GyYmBW9bhZJxtToUn/dG3g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T01:23:36Z",
+      "first_seen": "2026-10-23T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-23T02:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -344,7 +277,7 @@
     },
     {
       "id": "76ers",
-      "rank": 12,
+      "rank": 9,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -355,12 +288,16 @@
         {
           "t": "2026-10-23T01:23:36Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": -8,
+      "rank_change": -5,
       "is_new": false,
       "topic": "76ers",
-      "description": "The Philadelphia 76ers are trending as they announce their final starters and get ready to host the Cleveland Cavaliers for their season opener.",
+      "description": "The 76ers are trending following a dramatic comeback win over the Cavaliers, which included LeBron James accidentally giving teammate VJ Edgecombe a bloody nose.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/76ers",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.0Et_nlnGT41Iee0SsPWgDgHaEz&pid=15.1",
@@ -368,103 +305,16 @@
       "started_trending": "2026-10-23T00:23:34Z",
       "first_seen": "2026-10-23T00:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "al-michaels",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Al Michaels",
-      "description": "Broadcaster Al Michaels is trending as social media discusses the commentary team for the Thursday Night Football game between the Patriots and Bears.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Al%20Michaels",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.qCDo+afs91WKw2d739h29A&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T01:23:36Z",
-      "first_seen": "2026-10-23T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "luther-burden",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Luther Burden",
-      "description": "Chicago Bears wide receiver Luther Burden III is trending after making an early impact with a long reception against the Patriots.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Luther%20Burden",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.GyYmBW9bhZJxtToUn/dG3g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T01:23:36Z",
-      "first_seen": "2026-10-23T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "carl-thomas",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Carl Thomas",
-      "description": "R&B singer Carl Thomas is trending as he prepares for his VERZUZ musical battle against Case.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Carl%20Thomas",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.jriBQeF8a0fQkGaAUiILDwHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T01:23:36Z",
-      "first_seen": "2026-10-23T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "harden",
-      "rank": 16,
+      "rank": 10,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -475,12 +325,16 @@
         {
           "t": "2026-10-23T01:23:36Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 10
         }
       ],
-      "rank_change": -6,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Harden",
-      "description": "James Harden is trending after being booed by fans during his return to Philadelphia as a member of the Cleveland Cavaliers.",
+      "description": "James Harden is trending on social media after being booed by fans during his return to Philadelphia with the Cavaliers, finishing the game with 16 points.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Harden",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.BxjeUFkKTiL71tcB78ejkAHaFE&pid=15.1",
@@ -488,69 +342,102 @@
       "started_trending": "2026-10-23T00:23:34Z",
       "first_seen": "2026-10-23T00:23:34Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mario-hezonja",
-      "rank": 17,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-10-23T00:23:34Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Mario Hezonja",
-      "description": "The provided material does not make the description for Mario Hezonja clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mario%20Hezonja",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.F6El0fCKqROXjNrhSXskeg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-23T00:23:34Z",
-      "first_seen": "2026-10-23T00:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "joe-thuney",
-      "rank": 18,
+      "id": "ben-johnson",
+      "rank": 11,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-23T01:23:36Z",
-          "r": 18
+          "t": "2026-10-23T02:23:34Z",
+          "r": 11
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Joe Thuney",
-      "description": "Joe Thuney is trending in discussions surrounding the Patriots and Bears showdown and his history with Tom Brady.",
+      "topic": "Ben Johnson",
+      "description": "Bears coach Ben Johnson is trending on social media after challenging his team following a loss to the Packers and praising Patriots quarterback Drake Maye ahead of Thursday Night Football.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Joe%20Thuney",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.McPHGfGxhvkr5lPDJ1s3dwHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/Ben%20Johnson",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T02:23:34Z",
+      "first_seen": "2026-10-23T02:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "patriots",
+      "rank": 12,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-23T01:23:36Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Patriots",
+      "description": "The New England Patriots are trending on social media as they prepare for a Week 7 Thursday Night Football primetime matchup against the Chicago Bears.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Patriots",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.IbduMwANYIW9vXjn7jbbeQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-23T01:23:36Z",
       "first_seen": "2026-10-23T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "carl-thomas",
+      "rank": 13,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-23T01:23:36Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Carl Thomas",
+      "description": "R&B singer Carl Thomas is trending on social media as he prepares for his upcoming VERZUZ musical matchup against Case and discusses the stories behind his hits.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Carl%20Thomas",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.jriBQeF8a0fQkGaAUiILDwHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T01:23:36Z",
+      "first_seen": "2026-10-23T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-23T02:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -559,19 +446,23 @@
     },
     {
       "id": "maxey",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 14,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-10-23T01:23:36Z",
           "r": 19
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 5,
+      "is_new": false,
       "topic": "Maxey",
-      "description": "Tyrese Maxey is trending after energizing the 76ers with key baskets and strong play during their matchup against the Cavaliers.",
+      "description": "Tyrese Maxey is trending on social media after scoring 32 points and leading the 76ers in an incredible comeback win after erasing a 29-point deficit against the Cavaliers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Maxey",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.0cZzP14degePhdokOBPzuQHaLH&pid=15.1",
@@ -579,7 +470,164 @@
       "started_trending": "2026-10-23T01:23:36Z",
       "first_seen": "2026-10-23T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "al-michaels",
+      "rank": 15,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-23T01:23:36Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Al Michaels",
+      "description": "Al Michaels is trending on social media as calls for his retirement grow following an embarrassing blunder while announcing the Thursday Night Football game between the Patriots and Bears.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Al%20Michaels",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.qCDo+afs91WKw2d739h29A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T01:23:36Z",
+      "first_seen": "2026-10-23T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rome-odunze",
+      "rank": 16,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-23T01:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Rome Odunze",
+      "description": "Rome Odunze is trending on social media as a key start-or-sit option for fantasy football managers ahead of the Week 7 Thursday Night Football game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rome%20Odunze",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.Hb9ULixBy+CoHoi7bDq79g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T01:23:36Z",
+      "first_seen": "2026-10-23T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "throwtheballup",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#ThrowTheBallUp",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23ThrowTheBallUp",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T02:23:34Z",
+      "first_seen": "2026-10-23T02:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "josh-mcdaniels",
+      "rank": 18,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-23T01:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -15,
+      "is_new": false,
+      "topic": "Josh McDaniels",
+      "description": "Josh McDaniels is trending in sports discussions surrounding recent NFL matchups, team predictions, and quarterback performances heading into Week 7.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Josh%20McDaniels",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.aEZt6eZgWm7cWOiHpdhMLQEsDI&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-23T01:23:36Z",
+      "first_seen": "2026-10-23T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-23T02:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jaylen-brown",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jaylen Brown",
+      "description": "Jaylen Brown is trending on social media following trade rumors involving Jayson Tatum, alongside his debut performance alongside LeBron James for the 76ers against the Cavaliers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jaylen%20Brown",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-23T02:23:34Z",
+      "first_seen": "2026-10-23T02:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-23T02:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -589,18 +637,22 @@
     {
       "id": "pats",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-10-23T01:23:36Z",
           "r": 20
+        },
+        {
+          "t": "2026-10-23T02:23:34Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Pats",
-      "description": "The New England Patriots are trending as fans and analysts discuss their Thursday Night Football matchup against the Chicago Bears.",
+      "description": "The Patriots are trending on social media during their Week 7 matchup against the Chicago Bears, featuring live game updates, scoring highlights, and expert predictions.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Pats",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.IbduMwANYIW9vXjn7jbbeQ&pid=15.1",
@@ -608,7 +660,7 @@
       "started_trending": "2026-10-23T01:23:36Z",
       "first_seen": "2026-10-23T01:23:36Z",
       "published": null,
-      "last_seen": "2026-10-23T01:23:36Z",
+      "last_seen": "2026-10-23T02:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
