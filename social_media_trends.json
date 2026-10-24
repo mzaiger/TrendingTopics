@@ -1,59 +1,18 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-24T20:25:27Z",
+  "updated": "2026-10-24T21:25:29Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "michigan",
+      "id": "ufc333",
       "rank": 1,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-24T18:23:41Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T19:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 1
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Michigan",
-      "description": "Michigan football is trending after suffering a disheartening 13-6 overtime loss to No. 6 Indiana at home.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Michigan",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.MAIUexLmQIto4MfYb6btMAHaFn&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T18:23:41Z",
-      "first_seen": "2026-10-24T18:23:41Z",
-      "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ufc333",
-      "rank": 2,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-24T15:23:34Z",
-          "r": 1
-        },
         {
           "t": "2026-10-24T16:23:39Z",
           "r": 1
@@ -73,12 +32,16 @@
         {
           "t": "2026-10-24T20:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 1
         }
       ],
-      "rank_change": -1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "#UFC333",
-      "description": "UFC 333 is trending on social media due to live fight coverage and results, headlined by the Volkanovski vs. Evloev matchup.",
+      "description": "Fans on social media are following the live coverage and results of UFC 333, highlighted by the Volkanovski vs. Evloev matchup.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23UFC333",
       "image_url": "https://ts4.explicit.bing.net/th?id=OIP.5IilB5bZZMWHeOs7SDOafQHaEK&pid=15.1",
@@ -86,16 +49,185 @@
       "started_trending": "2026-10-24T14:23:33Z",
       "first_seen": "2026-10-24T14:23:33Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "michigan",
+      "rank": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-24T18:23:41Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-24T19:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-24T20:23:35Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 2
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Michigan",
+      "description": "Michigan football is trending after suffering a tough overtime loss to Indiana, their first home defeat against the Hoosiers since 1967.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Michigan",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.MAIUexLmQIto4MfYb6btMAHaFn&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T18:23:41Z",
+      "first_seen": "2026-10-24T18:23:41Z",
+      "published": null,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "merab",
+      "rank": 3,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-24T20:23:35Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Merab",
+      "description": "Merab Dvalishvili is trending following his hard-fought trilogy match against Petr Yan at UFC 333.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Merab",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.TJLKs2uWEnyro60TxptSoA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T20:23:35Z",
+      "first_seen": "2026-10-24T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "volk",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Volk",
+      "description": "Alexander Volkanovski is drawing attention as he faces Movsar Evloev in the main event at UFC 333.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Volk",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.TP+2sa3L5uLoJfylTPg0/Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T21:23:37Z",
+      "first_seen": "2026-10-24T21:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "petr-yan",
+      "rank": 5,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-24T20:23:35Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 13,
+      "is_new": false,
+      "topic": "Petr Yan",
+      "description": "Petr Yan is trending after securing a victory against Merab Dvalishvili to retain his title at UFC 333.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Petr%20Yan",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.IZnV6dBtfohSPX8HsZbXxAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T20:23:35Z",
+      "first_seen": "2026-10-24T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "marcel-reed",
+      "rank": 6,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-24T20:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Marcel Reed",
+      "description": "Texas A&M's Marcel Reed is drawing criticism on social media as fans call for his benching following back-to-back interceptions against Alabama.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Marcel%20Reed",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.HSzD3uRrFx7_fAI0v5XkxQHaEw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T20:23:35Z",
+      "first_seen": "2026-10-24T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jason-beck",
-      "rank": 3,
+      "rank": 7,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -114,12 +246,16 @@
         {
           "t": "2026-10-24T20:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 7
         }
       ],
-      "rank_change": -1,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Jason Beck",
-      "description": "Michigan offensive coordinator Jason Beck is facing heavy criticism on social media following the team's overtime loss to Indiana due to questionable play-calling.",
+      "description": "Michigan offensive coordinator Jason Beck is facing heavy criticism from fans and analysts following questionable play-calling in an overtime loss to Indiana.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jason%20Beck",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.pT5/W0YTLHtaNuFPbB9k8g&pid=15.1",
@@ -127,65 +263,36 @@
       "started_trending": "2026-10-24T17:23:34Z",
       "first_seen": "2026-10-24T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "marcel-reed",
-      "rank": 4,
+      "id": "indiana",
+      "rank": 8,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 4
+          "t": "2026-10-24T21:23:37Z",
+          "r": 8
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Marcel Reed",
-      "description": "Texas A&M and quarterback Marcel Reed are trending as they face the Alabama Crimson Tide in a high-stakes college football matchup.",
+      "topic": "Indiana",
+      "description": "No. 6 Indiana football is celebrating a historic overtime win against Michigan, marking their first victory in Ann Arbor since 1967.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Marcel%20Reed",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
+      "url": "https://twstalker.com/search/Indiana",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.E93vcYCzhBxSdLXq3ltYbw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T21:23:37Z",
+      "first_seen": "2026-10-24T21:23:37Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "merab",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Merab",
-      "description": "Merab Dvalishvili is trending due to his trilogy fight against Petr Yan at UFC 333.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Merab",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
+      "last_seen": "2026-10-24T21:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -194,7 +301,7 @@
     },
     {
       "id": "texas-tech",
-      "rank": 6,
+      "rank": 9,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -209,12 +316,16 @@
         {
           "t": "2026-10-24T20:23:35Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 9
         }
       ],
-      "rank_change": -2,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Texas Tech",
-      "description": "Texas Tech is trending on social media after having its undefeated season snapped in a 37-24 upset loss to Cincinnati.",
+      "description": "Texas Tech's undefeated season came to an end after suffering a 37-24 upset loss to Cincinnati.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Texas%20Tech",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.MODtAt-x5n32ZSgE9vSlvwHaFj&pid=15.1",
@@ -222,7 +333,40 @@
       "started_trending": "2026-10-24T18:23:41Z",
       "first_seen": "2026-10-24T18:23:41Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hoover",
+      "rank": 10,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-24T20:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Hoover",
+      "description": "Josh Hoover is trending after scoring the game-winning 4-yard rushing touchdown in overtime to lift Indiana past Michigan.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hoover",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.I0Fjg8UzkJCBw4qqozmF4Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T20:23:35Z",
+      "first_seen": "2026-10-24T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-24T21:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -230,28 +374,28 @@
       "extra": {}
     },
     {
-      "id": "hoover",
-      "rank": 7,
+      "id": "evloev",
+      "rank": 11,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 7
+          "t": "2026-10-24T21:23:37Z",
+          "r": 11
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Hoover",
-      "description": "Indiana quarterback Josh Hoover is trending after playing through an arm injury and scoring a crucial 4-yard rushing touchdown in overtime to defeat Michigan.",
+      "topic": "Evloev",
+      "description": "Movsar Evloev is generating buzz on social media as he faces Alexander Volkanovski at UFC 333.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hoover",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
+      "url": "https://twstalker.com/search/Evloev",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIF.QEMbXNiH4xRBXJbGJmV6Hg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T21:23:37Z",
+      "first_seen": "2026-10-24T21:23:37Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
+      "last_seen": "2026-10-24T21:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -260,7 +404,7 @@
     },
     {
       "id": "iufb",
-      "rank": 8,
+      "rank": 12,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -279,9 +423,13 @@
         {
           "t": "2026-10-24T20:23:35Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 12
         }
       ],
-      "rank_change": -2,
+      "rank_change": -6,
       "is_new": false,
       "topic": "#iufb",
       "description": "",
@@ -292,36 +440,36 @@
       "started_trending": "2026-10-24T17:23:34Z",
       "first_seen": "2026-10-24T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "dijon-lee",
-      "rank": 9,
+      "id": "puello",
+      "rank": 13,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 9
+          "t": "2026-10-24T21:23:37Z",
+          "r": 13
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Dijon Lee",
-      "description": "Alabama defensive back Dijon Lee is trending as part of the Crimson Tide's game day depth chart and availability report ahead of their matchup against Texas A&M.",
+      "topic": "Puello",
+      "description": "Alberto Puello is trending following his disputed split-decision boxing match against Dalton Smith.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dijon%20Lee",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
+      "url": "https://twstalker.com/search/Puello",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.zgjC6i0H9caLNZRIps3/Lg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T21:23:37Z",
+      "first_seen": "2026-10-24T21:23:37Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
+      "last_seen": "2026-10-24T21:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -329,61 +477,119 @@
       "extra": {}
     },
     {
-      "id": "tommy-carr",
-      "rank": 10,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "dijon-lee",
+      "rank": 14,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
-          "t": "2026-10-24T17:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-24T18:23:41Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-24T19:23:32Z",
-          "r": 10
-        },
-        {
           "t": "2026-10-24T20:23:35Z",
-          "r": 10
+          "r": 9
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 14
         }
       ],
-      "rank_change": -7,
+      "rank_change": -5,
       "is_new": false,
-      "topic": "Tommy Carr",
-      "description": "Tommy Carr is trending on social media after making his first career start at quarterback for Michigan in their overtime loss to Indiana.",
+      "topic": "Dijon Lee",
+      "description": "Alabama's Dijon Lee Jr. is trending on social media after bouncing back from a penalty with a brilliant pick-6 against Texas A&M.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tommy%20Carr",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.jdxQ8AtR94Z+19NSSK5BEg&pid=15.1",
+      "url": "https://twstalker.com/search/Dijon%20Lee",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.PlrogvtY3rTVRebyVX7ZMA&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T17:23:34Z",
-      "first_seen": "2026-10-24T17:23:34Z",
+      "started_trending": "2026-10-24T20:23:35Z",
+      "first_seen": "2026-10-24T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "prates",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Prates",
+      "description": "Carlos Prates is trending after being booked to headline UFC 336 against Michael Morales for an interim title in Toronto.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Prates",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Dl1kbm-X7GpBZLv-00WZEwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T21:23:37Z",
+      "first_seen": "2026-10-24T21:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lanorris-sellers",
+      "rank": 16,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-24T20:23:35Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "LaNorris Sellers",
+      "description": "LaNorris Sellers is drawing attention after scoring two early touchdowns to help South Carolina jump out to a double-digit lead on Tennessee.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/LaNorris%20Sellers",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.R4l3o4QQa4L3-jFJoLwcuAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T20:23:35Z",
+      "first_seen": "2026-10-24T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "morales",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 17,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-10-24T20:23:35Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 17
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "Morales",
-      "description": "Michael Morales is trending following the announcement that he will face Carlos Prates for the interim title at UFC 336.",
+      "description": "Michael Morales is trending on social media following the announcement that he will face Carlos Prates for an interim title at UFC 336.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Morales",
       "image_url": "https://ts3.explicit.bing.net/th?id=OIP.TCMeek8vkF48XbJPPQeQzwHaLH&pid=15.1",
@@ -391,36 +597,36 @@
       "started_trending": "2026-10-24T20:23:35Z",
       "first_seen": "2026-10-24T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "kavanagh",
-      "rank": 12,
+      "id": "swain",
+      "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 12
+          "t": "2026-10-24T21:23:37Z",
+          "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Kavanagh",
-      "description": "Lone'er Kavanagh is trending after securing a stunning first-round TKO victory over Ramazan Temirov at UFC 333.",
+      "topic": "Swain",
+      "description": "South Carolina defensive back Vicari Swain is trending after being ejected for targeting during the game against Tennessee.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kavanagh",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
+      "url": "https://twstalker.com/search/Swain",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.qgLntDipkpMr5I6M1GsEdQAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T21:23:37Z",
+      "first_seen": "2026-10-24T21:23:37Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
+      "last_seen": "2026-10-24T21:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -429,7 +635,7 @@
     },
     {
       "id": "cincinnati",
-      "rank": 13,
+      "rank": 19,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -444,12 +650,16 @@
         {
           "t": "2026-10-24T20:23:35Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-24T21:23:37Z",
+          "r": 19
         }
       ],
-      "rank_change": 4,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Cincinnati",
-      "description": "Cincinnati is trending on social media after pulling off a major 37-24 upset win over No. 8 Texas Tech, fueled by four touchdown passes.",
+      "description": "Cincinnati is celebrating a major upset after handing No. 8 Texas Tech their first loss of the season with a 37-24 victory.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cincinnati",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.c5C9hcVs7aCyOaX0c96lfwHaEK&pid=15.1",
@@ -457,246 +667,36 @@
       "started_trending": "2026-10-24T18:23:41Z",
       "first_seen": "2026-10-24T18:23:41Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-24T21:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "chelsea",
-      "rank": 14,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-24T18:23:41Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-24T19:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Chelsea",
-      "description": "Chelsea is trending following a rain-soaked 2-0 defeat against Tottenham Hotspur that featured a red card for Cole Palmer.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chelsea",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Rdxf2jKY4A850Y66DFQP1QHaEi&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T18:23:41Z",
-      "first_seen": "2026-10-24T18:23:41Z",
-      "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "goblue",
-      "rank": 15,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-24T17:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-24T18:23:41Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-24T19:23:32Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "#GoBlue",
-      "description": "Social media users are discussing political polling and college football predictions as part of the broader conversation surrounding teams and regions going blue.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23GoBlue",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.n/6bgv/7ae5FqH6n5wCWcA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T17:23:34Z",
-      "first_seen": "2026-10-24T17:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "malachi-toney",
-      "rank": 16,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-24T17:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-24T18:23:41Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-24T19:23:32Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Malachi Toney",
-      "description": "Miami wide receiver Malachi Toney is trending after recording a record 16 catches and surpassing 2,000 career yards in a dominant win over Pitt.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Malachi%20Toney",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Jf9llXP83mFPtxV2ChA40gHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T17:23:34Z",
-      "first_seen": "2026-10-24T17:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "volkov",
-      "rank": 17,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-24T19:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Volkov",
-      "description": "Alexander Volkov is trending after defeating Rizvan Kuniev at UFC 333 and calling out Dana White for a title shot.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Volkov",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.tqC2Uaqi8HPMkrd8XIouQw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T19:23:32Z",
-      "first_seen": "2026-10-24T19:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "petr-yan",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Petr Yan",
-      "description": "Petr Yan is trending due to his trilogy fight against Merab Dvalishvili at UFC 333.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Petr%20Yan",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lanorris-sellers",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "LaNorris Sellers",
-      "description": "LaNorris Sellers is trending as South Carolina prepares for a high-profile matchup against Tennessee.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/LaNorris%20Sellers",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.R4l3o4QQa4L3-jFJoLwcuAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "underwood",
+      "id": "carr",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T20:23:35Z",
+          "t": "2026-10-24T21:23:37Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Underwood",
-      "description": "Michigan quarterback Bryce Underwood is trending on social media as he supports teammate Tommy Carr from the sideline during the Indiana game.",
+      "topic": "Carr",
+      "description": "Tommy Carr is drawing heavy discussion after making his first career start at quarterback for Michigan in their overtime loss to Indiana.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Underwood",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
+      "url": "https://twstalker.com/search/Carr",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.JhegjXfr1ptUUA/Q+YnXcQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T21:23:37Z",
+      "first_seen": "2026-10-24T21:23:37Z",
       "published": null,
-      "last_seen": "2026-10-24T20:23:35Z",
+      "last_seen": "2026-10-24T21:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
