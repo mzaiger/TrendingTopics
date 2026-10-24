@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-24T04:25:23Z",
+  "updated": "2026-10-24T05:25:38Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "thompson",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-24T04:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Thompson",
-      "description": "Detroit Pistons wing Ausar Thompson is trending after exiting a game in pain following a slip.",
+      "description": "Detroit Pistons wing Ausar Thompson is trending after exiting a game against the Heat in pain and heading to the locker room with a potential injury.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Thompson",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.rpGhlVL6D7CkSBQUlMbQfA&pid=15.1",
@@ -29,7 +33,69 @@
       "started_trending": "2026-10-24T04:23:31Z",
       "first_seen": "2026-10-24T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wemby",
+      "rank": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-24T04:23:31Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Wemby",
+      "description": "San Antonio Spurs star Victor Wembanyama is trending after his potential game-winning shot was blocked in the final seconds by Amen Thompson in a loss to the Rockets.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Wemby",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.a+pphCMRKAMNb5D3rA060A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T04:23:31Z",
+      "first_seen": "2026-10-24T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "spurs",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Spurs",
+      "description": "The San Antonio Spurs are trending on social media following a physical 110-114 loss to the Houston Rockets that dropped their record to 0-2.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Spurs",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.9z3FB6cODzVcfO/P+g4aTg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -38,19 +104,23 @@
     },
     {
       "id": "sengun",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-24T04:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Sengun",
-      "description": "Alperen Şengün is trending after strong performances for the Houston Rockets, including matchups against Victor Wembanyama.",
+      "description": "Alperen Sengun is trending after scoring 29 points and flirting with a triple-double to help lead the Houston Rockets to a physical win over the San Antonio Spurs.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Sengun",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.c_azYIEsZG40zSHjg1bB5gEsDI&pid=15.1",
@@ -58,7 +128,36 @@
       "started_trending": "2026-10-24T04:23:31Z",
       "first_seen": "2026-10-24T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "warriors",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Warriors",
+      "description": "The Golden State Warriors are trending after suffering a home-opener collapse against the Memphis Grizzlies amidst early-season roster and injury news.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Warriors",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.YBBNvR2LjKiIDv85RhpsJw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -66,44 +165,44 @@
       "extra": {}
     },
     {
-      "id": "wemby",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "rockets",
+      "rank": 6,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-10-24T04:23:31Z",
-          "r": 3
+          "r": 6
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Wemby",
-      "description": "San Antonio Spurs star Victor Wembanyama is trending as a top player in NBA rankings, odds, and media coverage.",
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Rockets",
+      "description": "The Houston Rockets are trending on social media following their physical victory over the San Antonio Spurs, bolstered by key performances and defensive stops.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Wemby",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.a+pphCMRKAMNb5D3rA060A&pid=15.1",
+      "url": "https://twstalker.com/search/Rockets",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.dCT6IEJ+RnWDmjWn5HBTug&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-24T04:23:31Z",
       "first_seen": "2026-10-24T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "worldseries",
-      "rank": 4,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "rank": 7,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-23T23:23:32Z",
-          "r": 10
-        },
         {
           "t": "2026-10-24T00:23:32Z",
           "r": 1
@@ -123,12 +222,16 @@
         {
           "t": "2026-10-24T04:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 7
         }
       ],
-      "rank_change": 6,
+      "rank_change": -6,
       "is_new": false,
       "topic": "#WorldSeries",
-      "description": "The 2026 World Series is trending as the Milwaukee Brewers and Tampa Bay Rays face off in Game 1 of the postseason.",
+      "description": "Baseball fans are following the World Series as the Brewers secured a 3-2 victory over the Rays in Game 1 of the 2026 postseason matchup.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23WorldSeries",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.M853mFXZiwwkM73bNlUcaQHaFS&pid=15.1",
@@ -136,16 +239,16 @@
       "started_trending": "2026-10-23T23:23:32Z",
       "first_seen": "2026-10-23T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "thelastdrivein",
-      "rank": 5,
+      "rank": 8,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -164,12 +267,16 @@
         {
           "t": "2026-10-24T04:23:31Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": -2,
+      "rank_change": -5,
       "is_new": false,
       "topic": "#TheLastDriveIn",
-      "description": "Joe Bob Briggs' final Halloween special for Shudder's The Last Drive-In is trending on social media ahead of its premiere.",
+      "description": "Horror fans are talking about Shudder's final 'The Last Drive-In' Halloween special hosted by Joe Bob Briggs, premiering tonight on social media.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23TheLastDriveIn",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.rqJi4u_KognfaN9ETHDLJwHaDt&pid=15.1",
@@ -177,36 +284,185 @@
       "started_trending": "2026-10-24T01:23:33Z",
       "first_seen": "2026-10-24T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "rockets",
-      "rank": 6,
+      "id": "grizzlies",
+      "rank": 9,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 6
+          "t": "2026-10-24T05:23:32Z",
+          "r": 9
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Rockets",
-      "description": "The Houston Rockets are trending following their early-season matchup against the San Antonio Spurs.",
+      "topic": "Grizzlies",
+      "description": "The Memphis Grizzlies are trending after rallying to beat the Golden State Warriors 111-108, fueled by a go-ahead jumper with 20 seconds left.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rockets",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.dCT6IEJ+RnWDmjWn5HBTug&pid=15.1",
+      "url": "https://twstalker.com/search/Grizzlies",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.xuzHFn76DcKYTxA4SF40zw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kessler",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kessler",
+      "description": "Walker Kessler is trending after patrolling the paint and helping lead the Los Angeles Lakers past the Clippers 125-117.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kessler",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.20p+SvtHmLET6DwHn7koGw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lakers",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lakers",
+      "description": "The Los Angeles Lakers are trending on social media after securing their second win of the season with a victory over the Clippers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Lakers",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.R/Ur7r5c7+q1uJT0WlptDw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mcrla2",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#MCRLA2",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MCRLA2",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.tJaxI0C4Fq9wp5Ah_TSZQwHaKi&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mitch-johnson",
+      "rank": 13,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-24T04:23:31Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Mitch Johnson",
+      "description": "Spurs coach Mitch Johnson is trending on social media following recent remarks praising Texas basketball coach Sean Miller amidst team updates.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mitch%20Johnson",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.mQ+eRmX0SrO3NGVkKpmPWQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-24T04:23:31Z",
       "first_seen": "2026-10-24T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "clippers",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Clippers",
+      "description": "The Los Angeles Clippers are trending following their 125-117 cross-town loss to the Lakers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Clippers",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.UW2wU+KmwJq+g1l8pEnjsA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -215,7 +471,7 @@
     },
     {
       "id": "tatum",
-      "rank": 7,
+      "rank": 15,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -230,12 +486,16 @@
         {
           "t": "2026-10-24T04:23:31Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": -5,
+      "rank_change": -13,
       "is_new": false,
       "topic": "Tatum",
-      "description": "Jayson Tatum is trending after scoring 36 points to help the Boston Celtics hold off the New York Knicks.",
+      "description": "Jayson Tatum is trending after putting up 36 points in a bounce-back win over the Knicks, while addressing trade drama talk and teammate relations on social media.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tatum",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.SrfX78s46z9tFrfcGhvniA&pid=15.1",
@@ -243,16 +503,132 @@
       "started_trending": "2026-10-24T02:23:32Z",
       "first_seen": "2026-10-24T02:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "culturalcreditmatters",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#CulturalCreditMatters",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23CulturalCreditMatters",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.vqY-Kpgo58ZVNckZMrfnkwHaE_&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cam-boozer",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cam Boozer",
+      "description": "Cam Boozer is trending on social media following his NBA debut highlights and a late-game performance that helped the Grizzlies rally past the Warriors.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cam%20Boozer",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.t4mqTmFRXuIKWv0YqJu77A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cultural-heritage-recognition",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "CULTURAL HERITAGE RECOGNITION",
+      "description": "Armenia is trending on social media after being named Europe’s Leading Heritage Destination for 2026 at the World Travel Awards.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/CULTURAL%20HERITAGE%20RECOGNITION",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.qGPJV7vd_x6vB5q95K6ihwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "luka",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Luka",
+      "description": "Luka Doncic is trending following online debates regarding his ranking, recent on-court stats, and interactions with Yaxel Lendeborg.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Luka",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.BeS8AuebjvqE5wwPgfAbUwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "smackdown",
-      "rank": 8,
+      "rank": 20,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -275,12 +651,16 @@
         {
           "t": "2026-10-24T04:23:31Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 20
         }
       ],
-      "rank_change": -6,
+      "rank_change": -18,
       "is_new": false,
       "topic": "#SmackDown",
-      "description": "WWE SmackDown is trending on social media following its latest episode featuring title matches and results.",
+      "description": "WWE SmackDown is trending as fans discuss the latest results, title defenses, new champions being crowned, and the Friday night action on social media.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23SmackDown",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.S3e8hKReir4CKC3VYxm0fwHaEr&pid=15.1",
@@ -288,390 +668,10 @@
       "started_trending": "2026-10-24T00:23:32Z",
       "first_seen": "2026-10-24T00:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "walker-kessler",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Walker Kessler",
-      "description": "Walker Kessler is trending after making impressive plays and highlight-reel dunks on the basketball court.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Walker%20Kessler",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.FKKJqvA7L63nfyQeBXdv7g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "megill",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Megill",
-      "description": "Trevor Megill is trending after securing the Milwaukee Brewers' Game 1 World Series victory with a tense 9th-inning save.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Megill",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.5s6SuVcM5+fa+KXKK6mDCA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mitch-johnson",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Mitch Johnson",
-      "description": "Spurs coach Mitch Johnson is trending after discussing the team's lineup and praising Texas coach Sean Miller.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mitch%20Johnson",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.mQ+eRmX0SrO3NGVkKpmPWQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "giannis",
-      "rank": 12,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-24T02:23:32Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-24T03:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Giannis",
-      "description": "Giannis Antetokounmpo is trending after a 36-point performance for the Miami Heat in a loss to the Detroit Pistons.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Giannis",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.e8mmcq8CCUm0p+svLcqCqQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T02:23:32Z",
-      "first_seen": "2026-10-24T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mutantfam",
-      "rank": 13,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-24T01:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-24T02:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-24T03:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "#MutantFam",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23MutantFam",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.AE-usCdNJMECnroyv_id5gHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T01:23:33Z",
-      "first_seen": "2026-10-24T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "winourway",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#WinOurWay",
-      "description": "The Milwaukee Brewers and Tampa Bay Rays matchup is trending on social media during Game 1 of the World Series.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23WinOurWay",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.5bQ1D2tNuOPfZ5uVBO9azg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "brook-lopez",
-      "rank": 15,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-24T03:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Brook Lopez",
-      "description": "Brook Lopez is trending after producing a strong start to the basketball season for the Los Angeles Clippers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brook%20Lopez",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.LMClwqVG9XROFm3Td4l-JwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T03:23:31Z",
-      "first_seen": "2026-10-24T03:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dylan-harper",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Dylan Harper",
-      "description": "Dylan Harper is trending after speaking out about the Spurs' three-guard lineup following a rough debut.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dylan%20Harper",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.tQtKE0MtvkflLyssGPKSvAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "deluca",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "DeLuca",
-      "description": "Jonny DeLuca is trending after being struck out by Trevor Megill to seal the Brewers' Game 1 World Series win over the Rays.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/DeLuca",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.NKxqualK/Ztvyn19Dn7VeQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "reaves",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Reaves",
-      "description": "Austin Reaves is trending on social media after sharing stories and insights about his Los Angeles Lakers teammates.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Reaves",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.FdF0zAuVyvNYz0x3599s/A&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "contreras",
-      "rank": 19,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-24T02:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-24T03:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "Contreras",
-      "description": "William Contreras is trending after stellar defensive and offensive performances in the Brewers' World Series Game 1 win.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Contreras",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.bQmx8gl/C2m3lHIoQHd5UQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T02:23:32Z",
-      "first_seen": "2026-10-24T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "game-1",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Game 1",
-      "description": "Game 1 of the World Series between the Tampa Bay Rays and Milwaukee Brewers is trending following a historic and record-setting opener.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Game%201",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.VCS2v6wq3b+EJtjzONuTKQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-24T05:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     }
