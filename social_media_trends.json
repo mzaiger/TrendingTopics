@@ -1,60 +1,15 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-24T08:24:52Z",
+  "updated": "2026-10-24T09:27:23Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "thompson",
-      "rank": 1,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T05:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T06:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T07:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T08:23:35Z",
-          "r": 1
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Thompson",
-      "description": "Pistons player Ausar Thompson is trending after slipping and exiting a game in pain due to an apparent injury.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Thompson",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.rpGhlVL6D7CkSBQUlMbQfA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "culturalcreditmatters",
-      "rank": 2,
+      "rank": 1,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -73,9 +28,13 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 1
         }
       ],
-      "rank_change": 14,
+      "rank_change": 15,
       "is_new": false,
       "topic": "#CulturalCreditMatters",
       "description": "",
@@ -86,16 +45,16 @@
       "started_trending": "2026-10-24T05:23:32Z",
       "first_seen": "2026-10-24T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "cultural-heritage-recognition",
-      "rank": 3,
+      "rank": 2,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -114,9 +73,13 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 2
         }
       ],
-      "rank_change": 15,
+      "rank_change": 16,
       "is_new": false,
       "topic": "CULTURAL HERITAGE RECOGNITION",
       "description": "Cultural heritage is trending after Armenia was named Europe's Leading Heritage Destination for 2026, alongside new global recognition and preservation warnings.",
@@ -127,18 +90,47 @@
       "started_trending": "2026-10-24T05:23:32Z",
       "first_seen": "2026-10-24T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "amen-thompson",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Amen Thompson",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Amen%20Thompson",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.w8ji7YrYq9e+n/PuUZd8sA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T09:23:32Z",
+      "first_seen": "2026-10-24T09:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wemby",
       "rank": 4,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-24T04:23:31Z",
@@ -159,9 +151,13 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Wemby",
       "description": "Victor Wembanyama is trending after the Rockets' Amen Thompson blocked his potential game-winning, last-second shot during a matchup.",
@@ -172,10 +168,10 @@
       "started_trending": "2026-10-24T04:23:31Z",
       "first_seen": "2026-10-24T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -200,6 +196,10 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 5
         }
       ],
       "rank_change": -2,
@@ -213,18 +213,18 @@
       "started_trending": "2026-10-24T05:23:32Z",
       "first_seen": "2026-10-24T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "sengun",
       "rank": 6,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-10-24T04:23:31Z",
@@ -245,9 +245,13 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": -4,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Sengun",
       "description": "Alperen Sengun is trending after scoring 29 points to help the Houston Rockets narrowly edge past the San Antonio Spurs.",
@@ -258,16 +262,45 @@
       "started_trending": "2026-10-24T04:23:31Z",
       "first_seen": "2026-10-24T04:23:31Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-saturday",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Good Saturday",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Good%20Saturday",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.9L2RFTOxVZxVguDaQAt7EQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T09:23:32Z",
+      "first_seen": "2026-10-24T09:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "warriors",
-      "rank": 7,
+      "rank": 8,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -286,9 +319,13 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Warriors",
       "description": "The Golden State Warriors are trending after blowing a lead and suffering a comeback loss to the Grizzlies in their home opener.",
@@ -299,100 +336,39 @@
       "started_trending": "2026-10-24T05:23:32Z",
       "first_seen": "2026-10-24T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "thelastdrivein",
-      "rank": 8,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-24T03:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-24T05:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-24T06:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-24T07:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-24T08:23:35Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "#TheLastDriveIn",
-      "description": "The Last Drive-In is trending on social media as fans celebrate the premiere of Shudder's final Halloween special hosted by Joe Bob Briggs.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23TheLastDriveIn",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.rqJi4u_KognfaN9ETHDLJwHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T01:23:33Z",
-      "first_seen": "2026-10-24T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "grizzlies",
+      "id": "pw-mg",
       "rank": 9,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T05:23:32Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-24T06:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-24T07:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-24T08:23:35Z",
+          "t": "2026-10-24T09:23:32Z",
           "r": 9
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Grizzlies",
-      "description": "The Memphis Grizzlies are trending after staging a late 17-0 surge to pull off a comeback win against the Golden State Warriors.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Grizzlies",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.xuzHFn76DcKYTxA4SF40zw&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#pw_mg",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23pw_mg",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.IV7nGDmqJGHI4RfNq6pntwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T05:23:32Z",
-      "first_seen": "2026-10-24T05:23:32Z",
+      "started_trending": "2026-10-24T09:23:32Z",
+      "first_seen": "2026-10-24T09:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -417,6 +393,10 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 10
         }
       ],
       "rank_change": 2,
@@ -430,52 +410,7 @@
       "started_trending": "2026-10-24T05:23:32Z",
       "first_seen": "2026-10-24T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rockets",
-      "rank": 11,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-24T04:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-24T05:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-24T06:23:36Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-24T07:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-24T08:23:35Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Rockets",
-      "description": "The Houston Rockets are trending following a physical victory over the rival San Antonio Spurs highlighted by a game-winning defensive play.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rockets",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.dCT6IEJ+RnWDmjWn5HBTug&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T04:23:31Z",
-      "first_seen": "2026-10-24T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
+      "last_seen": "2026-10-24T09:23:32Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -483,39 +418,80 @@
       "extra": {}
     },
     {
-      "id": "stanford",
-      "rank": 12,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "id": "scarletheartth",
+      "rank": 11,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
+          "t": "2026-10-24T08:23:35Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "#ScarletHeartTH",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23ScarletHeartTH",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.6FOPUnon+ccsftWGpIBSng&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T08:23:35Z",
+      "first_seen": "2026-10-24T08:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "grizzlies",
+      "rank": 12,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 9
+        },
+        {
           "t": "2026-10-24T06:23:36Z",
-          "r": 12
+          "r": 10
         },
         {
           "t": "2026-10-24T07:23:34Z",
-          "r": 12
+          "r": 9
         },
         {
           "t": "2026-10-24T08:23:35Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
           "r": 12
         }
       ],
-      "rank_change": 0,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "Stanford",
-      "description": "Stanford is trending on social media following competitive matchups in both college football against NC State and women's soccer.",
+      "topic": "Grizzlies",
+      "description": "The Memphis Grizzlies are trending after staging a late 17-0 surge to pull off a comeback win against the Golden State Warriors.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Stanford",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.gDSrD-lwD9ArPoeIgnplNQHaHa&pid=15.1",
+      "url": "https://twstalker.com/search/Grizzlies",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.xuzHFn76DcKYTxA4SF40zw&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T06:23:36Z",
-      "first_seen": "2026-10-24T06:23:36Z",
+      "started_trending": "2026-10-24T05:23:32Z",
+      "first_seen": "2026-10-24T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -536,6 +512,10 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 13
         }
       ],
       "rank_change": 2,
@@ -549,10 +529,10 @@
       "started_trending": "2026-10-24T06:23:36Z",
       "first_seen": "2026-10-24T06:23:36Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -577,6 +557,10 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 14
         }
       ],
       "rank_change": -3,
@@ -590,16 +574,106 @@
       "started_trending": "2026-10-24T05:23:32Z",
       "first_seen": "2026-10-24T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rockets",
+      "rank": 15,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-24T04:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-24T05:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-24T06:23:36Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-24T07:23:34Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-24T08:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "Rockets",
+      "description": "The Houston Rockets are trending following a physical victory over the rival San Antonio Spurs highlighted by a game-winning defensive play.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rockets",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.dCT6IEJ+RnWDmjWn5HBTug&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T04:23:31Z",
+      "first_seen": "2026-10-24T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stanford",
+      "rank": 16,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-24T06:23:36Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-24T07:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-24T08:23:35Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Stanford",
+      "description": "Stanford is trending on social media following competitive matchups in both college football against NC State and women's soccer.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Stanford",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.gDSrD-lwD9ArPoeIgnplNQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T06:23:36Z",
+      "first_seen": "2026-10-24T06:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gerard",
-      "rank": 15,
+      "rank": 17,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -610,20 +684,24 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": 4,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Gerard",
       "description": "Gerard Butler is trending as his action thriller draws attention online and becomes an official streaming hit.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Gerard",
-      "image_url": "",
-      "image_source": "",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.x4Z8Scf3yPibnjgmrTESaQHaLM&pid=15.1",
+      "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-24T07:23:34Z",
       "first_seen": "2026-10-24T07:23:34Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
+      "last_seen": "2026-10-24T09:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -632,17 +710,21 @@
     },
     {
       "id": "kessler",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Kessler",
       "description": "Walker Kessler is trending after anchoring the Lakers' defense and helping lead the team to a victory over the Clippers.",
       "description_source": "gemini",
@@ -652,7 +734,7 @@
       "started_trending": "2026-10-24T08:23:35Z",
       "first_seen": "2026-10-24T08:23:35Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
+      "last_seen": "2026-10-24T09:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -661,7 +743,7 @@
     },
     {
       "id": "cam-boozer",
-      "rank": 17,
+      "rank": 19,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -680,9 +762,13 @@
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Cam Boozer",
       "description": "Cam Boozer is trending after scoring a 25-point double-double and hitting a go-ahead jumper to help the Grizzlies stun the Warriors in a comeback win.",
@@ -693,96 +779,30 @@
       "started_trending": "2026-10-24T05:23:32Z",
       "first_seen": "2026-10-24T05:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "clippers",
-      "rank": 18,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-24T05:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-24T06:23:36Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-24T07:23:34Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-24T08:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Clippers",
-      "description": "The Los Angeles Clippers are trending following a hard-fought loss to the Los Angeles Lakers in their recent matchup.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Clippers",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.UW2wU+KmwJq+g1l8pEnjsA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T05:23:32Z",
-      "first_seen": "2026-10-24T05:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "scarletheartth",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T08:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ScarletHeartTH",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23ScarletHeartTH",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-24T08:23:35Z",
-      "first_seen": "2026-10-24T08:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-24T09:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lagranjatraicion",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-10-24T08:23:35Z",
           "r": 20
+        },
+        {
+          "t": "2026-10-24T09:23:32Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "#LaGranjaTraicion",
       "description": "",
       "description_source": "",
@@ -792,7 +812,7 @@
       "started_trending": "2026-10-24T08:23:35Z",
       "first_seen": "2026-10-24T08:23:35Z",
       "published": null,
-      "last_seen": "2026-10-24T08:23:35Z",
+      "last_seen": "2026-10-24T09:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
