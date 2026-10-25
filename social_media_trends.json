@@ -1,35 +1,35 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-24T23:25:27Z",
+  "updated": "2026-10-25T00:25:21Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "south-carolina",
+      "id": "cam-coleman",
       "rank": 1,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T23:23:32Z",
+          "t": "2026-10-25T00:23:33Z",
           "r": 1
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "South Carolina",
-      "description": "South Carolina is trending following their college football matchup against Tennessee, which featured a notable player ejection and a tight contest.",
+      "topic": "Cam Coleman",
+      "description": "Cam Coleman is trending as sports analysts and fans discuss his potential in college football and future NFL drafts.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/South%20Carolina",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.+j16xfF+SRK+H5FmCUqxGA&pid=15.1",
+      "url": "https://twstalker.com/search/Cam%20Coleman",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.3pS_stEntKRg6r_XtChvmQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T23:23:32Z",
-      "first_seen": "2026-10-24T23:23:32Z",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
+      "last_seen": "2026-10-25T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -37,32 +37,28 @@
       "extra": {}
     },
     {
-      "id": "iowa",
+      "id": "tennessee",
       "rank": 2,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T22:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-24T23:23:32Z",
+          "t": "2026-10-25T00:23:33Z",
           "r": 2
         }
       ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Iowa",
-      "description": "Iowa is trending due to their college football rivalry game against Minnesota for the Floyd of Rosedale, alongside local midterm election coverage.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tennessee",
+      "description": "Tennessee is trending after a narrow 27-24 loss to South Carolina that featured multiple overturned touchdowns and a walk-off field goal.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Iowa",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.AiLgzSRXizvX0lIU5L976gHaIF&pid=15.1",
+      "url": "https://twstalker.com/search/Tennessee",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.VBjNdh1UA_x9Ts4yDbTj9AHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T22:23:34Z",
-      "first_seen": "2026-10-24T22:23:34Z",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
+      "last_seen": "2026-10-25T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -72,18 +68,22 @@
     {
       "id": "scott-frost",
       "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-24T23:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Scott Frost",
-      "description": "Scott Frost and UCF are facing mounting pressure as the program prepares to host No. 2 BYU in a high-stakes Big 12 matchup.",
+      "description": "Scott Frost is trending after leading UCF to a historic double-overtime upset victory over No. 2 BYU.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Scott%20Frost",
       "image_url": "https://ts3.explicit.bing.net/th?id=OIP.j_sSUZ98KKu8TP7vzHzErgHaE8&pid=15.1",
@@ -91,97 +91,40 @@
       "started_trending": "2026-10-24T23:23:32Z",
       "first_seen": "2026-10-24T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "ufc333",
+      "id": "south-carolina",
       "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
-          "t": "2026-10-24T17:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T18:23:41Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-24T19:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-24T21:23:37Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T22:23:34Z",
-          "r": 1
-        },
-        {
           "t": "2026-10-24T23:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-25T00:23:33Z",
           "r": 4
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "#UFC333",
-      "description": "UFC 333 is trending on social media following fight coverage and main card results, highlighted by championship defenses from Volkanovski and Yan.",
+      "topic": "South Carolina",
+      "description": "South Carolina is trending on social media following their thrilling walk-off victory and upset win over No. 11 Tennessee.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23UFC333",
-      "image_url": "https://ts4.explicit.bing.net/th?id=OIP.5IilB5bZZMWHeOs7SDOafQHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/South%20Carolina",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.+j16xfF+SRK+H5FmCUqxGA&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T14:23:33Z",
-      "first_seen": "2026-10-24T14:23:33Z",
+      "started_trending": "2026-10-24T23:23:32Z",
+      "first_seen": "2026-10-24T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "volk",
-      "rank": 5,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-24T21:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-24T22:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 5
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Volk",
-      "description": "Volkanovski is trending after defeating Movsar Evloev via TKO at UFC 333 to successfully defend his title.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Volk",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.TP+2sa3L5uLoJfylTPg0/Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T21:23:37Z",
-      "first_seen": "2026-10-24T21:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
+      "last_seen": "2026-10-25T00:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -190,7 +133,7 @@
     },
     {
       "id": "cheesecake-factory",
-      "rank": 6,
+      "rank": 5,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -201,12 +144,16 @@
         {
           "t": "2026-10-24T23:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 5
         }
       ],
-      "rank_change": 4,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Cheesecake Factory",
-      "description": "The Cheesecake Factory is trending after Barack Obama joked during an Ohio rally that Donald Trump's White House renovations looked like the restaurant.",
+      "description": "The Cheesecake Factory is trending after Barack Obama mocked Donald Trump's White House renovations during an Ohio rally speech.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cheesecake%20Factory",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.suOLDL5Ouiqed_wTpqOBugHaJQ&pid=15.1",
@@ -214,7 +161,288 @@
       "started_trending": "2026-10-24T22:23:34Z",
       "first_seen": "2026-10-24T22:23:34Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "iowa",
+      "rank": 6,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-24T22:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-24T23:23:32Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Iowa",
+      "description": "Iowa is trending following their football matchup and rivalry loss to Minnesota on a walk-off field goal.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Iowa",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.AiLgzSRXizvX0lIU5L976gHaIF&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T22:23:34Z",
+      "first_seen": "2026-10-24T22:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "big-12",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Big 12",
+      "description": "The Big 12 is trending as recent upsets, including Cincinnati's win over Texas Tech, shake up the conference power rankings and playoff picture.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Big%2012",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.iAsAb3l2FaAbHYOwvMDBtAHaEz&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aewcollision",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#AEWCollision",
+      "description": "AEW Collision is trending on social media as fans discuss the latest match card previews, results, and Jay White's recent promos.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23AEWCollision",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.4E5GYKh38davXwR0bC8pdAHaEO&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "2-byu",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "2 BYU",
+      "description": "No. 2 BYU is trending after their undefeated season came to an end with a double-overtime loss to UCF.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/2%20BYU",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ghVw3DuV2NjovdP9l0ivRQHaEH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "giannis",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Giannis",
+      "description": "Giannis Antetokounmpo is trending after making headlines for his reactions to the Miami Heat's rough start to the season alongside teammate Bam Adebayo.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Giannis",
+      "image_url": "https://ts1.explicit.bing.net/th?id=OIF.B2urmi67yozsODtg0vgj3A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "byuvsucf",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BYUvsUCF",
+      "description": "Fans are using this hashtag to discuss live streams, TV channels, and updates for the high-stakes college football game between BYU and UCF.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23BYUvsUCF",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.znjZT4xjYVS/ihsxjJc38Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "heupel",
+      "rank": 12,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-24T23:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Heupel",
+      "description": "Josh Heupel is trending after addressing Tennessee's undisciplined play and tough loss against South Carolina.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Heupel",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.iyMLHGhqsCHHgsPg7XX0lA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T23:23:32Z",
+      "first_seen": "2026-10-24T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dan-lanning",
+      "rank": 13,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-24T22:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-24T23:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Dan Lanning",
+      "description": "Dan Lanning is trending following Oregon's loss to Illinois and his subsequent comments regarding potential offensive coordinator changes.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dan%20Lanning",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.oR_-vBbJLdt49rRaJ0EyygHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-24T22:23:34Z",
+      "first_seen": "2026-10-24T22:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-last-outfit",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "The Last Outfit",
+      "description": "The Last Outfit is trending as social media users discuss classic Hollywood fashion, celebrity Halloween costumes, and new music releases.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20Last%20Outfit",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.GZmv7o6P9cwsJdMG9JRDTQHaJ8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -223,7 +451,7 @@
     },
     {
       "id": "lanorris-sellers",
-      "rank": 7,
+      "rank": 15,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -242,12 +470,16 @@
         {
           "t": "2026-10-24T23:23:32Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 15
         }
       ],
-      "rank_change": 12,
+      "rank_change": 4,
       "is_new": false,
       "topic": "LaNorris Sellers",
-      "description": "LaNormis Sellers is trending after scoring a rushing touchdown for South Carolina in their game against Tennessee.",
+      "description": "LaNorris Sellers is trending after delivering a standout performance with multiple touchdowns and a late fumble recovery to secure South Carolina's win over Tennessee.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/LaNorris%20Sellers",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.R4l3o4QQa4L3-jFJoLwcuAHaHa&pid=15.1",
@@ -255,69 +487,36 @@
       "started_trending": "2026-10-24T20:23:35Z",
       "first_seen": "2026-10-24T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "dan-lanning",
-      "rank": 8,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-24T22:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Dan Lanning",
-      "description": "Dan Lanning and the Oregon Ducks are trending following an unexpected season-ending loss to Illinois that dropped their record to 4-3.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dan%20Lanning",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.oR_-vBbJLdt49rRaJ0EyygHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T22:23:34Z",
-      "first_seen": "2026-10-24T22:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "byu-ucf",
-      "rank": 9,
+      "id": "hornets",
+      "rank": 16,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 9
+          "t": "2026-10-25T00:23:33Z",
+          "r": 16
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "BYU-UCF",
-      "description": "BYU and UCF are trending as college football fans look ahead to their upcoming matchup and streaming options.",
+      "topic": "Hornets",
+      "description": "The Charlotte Hornets are trending as they prepare to host Giannis Antetokounmpo and the Miami Heat in an upcoming NBA matchup.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/BYU-UCF",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.W6OwiIUCPCVb1rfwAi9H_AHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Hornets",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.71u2DdByB31FlNNKA6yzJQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T23:23:32Z",
-      "first_seen": "2026-10-24T23:23:32Z",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
+      "last_seen": "2026-10-25T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -325,217 +524,40 @@
       "extra": {}
     },
     {
-      "id": "merab",
-      "rank": 10,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-24T21:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-24T22:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Merab",
-      "description": "Merab Dvalishvili is trending following his trilogy fight against Petr Yan at UFC 333, where Yan defended his title by decision.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Merab",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.TJLKs2uWEnyro60TxptSoA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "heupel",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Heupel",
-      "description": "Josh Heupel is trending as he prepares Tennessee for a road game against South Carolina following previous matchups.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Heupel",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.iyMLHGhqsCHHgsPg7XX0lA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T23:23:32Z",
-      "first_seen": "2026-10-24T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "michigan",
-      "rank": 12,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-24T18:23:41Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T19:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T20:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-24T21:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-24T22:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Michigan",
-      "description": "Michigan is trending after suffering a grueling overtime loss to No. 6 Indiana in college football action.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Michigan",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.MAIUexLmQIto4MfYb6btMAHaFn&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T18:23:41Z",
-      "first_seen": "2026-10-24T18:23:41Z",
-      "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dylan-stewart",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Dylan Stewart",
-      "description": "Dylan Stewart is trending as an NFL draft prospect following discussions about his high potential and performance ahead of upcoming mock drafts.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dylan%20Stewart",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.zzvzSTKchsrMKssNFzVuEA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T23:23:32Z",
-      "first_seen": "2026-10-24T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "minnesota",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Minnesota",
-      "description": "Minnesota is trending following their college football rivalry showdown against Iowa for the Floyd of Rosedale.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Minnesota",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.KuafN3WoDomCjAQBD2Poyw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T23:23:32Z",
-      "first_seen": "2026-10-24T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "marcel-reed",
-      "rank": 15,
+      "id": "volk",
+      "rank": 17,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
         {
-          "t": "2026-10-24T20:23:35Z",
+          "t": "2026-10-24T21:23:37Z",
           "r": 4
         },
         {
-          "t": "2026-10-24T21:23:37Z",
-          "r": 6
-        },
-        {
           "t": "2026-10-24T22:23:34Z",
-          "r": 6
+          "r": 2
         },
         {
           "t": "2026-10-24T23:23:32Z",
-          "r": 15
+          "r": 5
+        },
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 17
         }
       ],
-      "rank_change": -11,
+      "rank_change": -13,
       "is_new": false,
-      "topic": "Marcel Reed",
-      "description": "Marcel Reed is trending after scoring a rushing touchdown for Texas A&M during their game against Alabama, amid some calls from fans for a quarterback change.",
+      "topic": "Volk",
+      "description": "Volkanovski is trending after successfully retaining his title with a historic TKO victory at UFC 333.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Marcel%20Reed",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.HSzD3uRrFx7_fAI0v5XkxQHaEw&pid=15.1",
+      "url": "https://twstalker.com/search/Volk",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.TP+2sa3L5uLoJfylTPg0/Q&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T20:23:35Z",
-      "first_seen": "2026-10-24T20:23:35Z",
+      "started_trending": "2026-10-24T21:23:37Z",
+      "first_seen": "2026-10-24T21:23:37Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
+      "last_seen": "2026-10-25T00:23:33Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -544,19 +566,23 @@
     },
     {
       "id": "david-smith",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-10-24T23:23:32Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-25T00:23:33Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "David Smith",
-      "description": "David Smith is trending in news discussions, spanning political candidate updates for the U.S. Senate and college football officiating connections.",
+      "description": "David Smith is trending after social media users pointed out that the official who worked the Tennessee-South Carolina game is a former Alabama quarterback.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/David%20Smith",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.5znpJIl0h2By06o111l5wQHaE8&pid=15.1",
@@ -564,94 +590,36 @@
       "started_trending": "2026-10-24T23:23:32Z",
       "first_seen": "2026-10-24T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-25T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gophers",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Gophers",
-      "description": "The Minnesota Gophers are trending after a major win over Iowa that secured three rivalry trophies for the team for the first time since 1978.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gophers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.UPVlBHXirifF_nKYYzuHXwHaD9&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T23:23:32Z",
-      "first_seen": "2026-10-24T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "shane-beamer",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-24T23:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Shane Beamer",
-      "description": "Shane Beamer is trending after leading South Carolina to a dramatic walk-off victory over Tennessee, followed by a postgame news conference.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Shane%20Beamer",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.qPCYUAGDRCVLo2xnD393fgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T23:23:32Z",
-      "first_seen": "2026-10-24T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rolltide",
+      "id": "olandriaxfsc",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T23:23:32Z",
+          "t": "2026-10-25T00:23:33Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#RollTide",
-      "description": "The hashtag RollTide is trending alongside various updates from Alabama athletics, including women's golf, soccer, and volleyball events.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23RollTide",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.LbbCMIOjcdBz0k2LkwvXRwHaHa&pid=15.1",
+      "topic": "#OlandriaxFSC",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23OlandriaxFSC",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.D2GHCsb9BN5ZGZar8TqTeg&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T23:23:32Z",
-      "first_seen": "2026-10-24T23:23:32Z",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
+      "last_seen": "2026-10-25T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -659,28 +627,28 @@
       "extra": {}
     },
     {
-      "id": "elko",
+      "id": "svengoolie",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-24T23:23:32Z",
+          "t": "2026-10-25T00:23:33Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Elko",
-      "description": "Elko is trending due to local news coverage of recent county court sentencings and community obituaries in Elko, Nevada.",
+      "topic": "#Svengoolie",
+      "description": "Fans are using this hashtag to discuss MeTV's special Monster Mash double feature hosted by Svengoolie and the Sven Squad.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Elko",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.9D-2kPJRG455jk9DwZpgkgHaEl&pid=15.1",
+      "url": "https://twstalker.com/search/%23Svengoolie",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.IfDlHL9OH6pgRAKT0b20LAHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-24T23:23:32Z",
-      "first_seen": "2026-10-24T23:23:32Z",
+      "started_trending": "2026-10-25T00:23:33Z",
+      "first_seen": "2026-10-25T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-24T23:23:32Z",
+      "last_seen": "2026-10-25T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
