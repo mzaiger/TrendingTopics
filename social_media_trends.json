@@ -1,15 +1,48 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-25T20:25:15Z",
+  "updated": "2026-10-25T21:25:00Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "ravens",
+      "id": "giants",
       "rank": 1,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-25T20:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Giants",
+      "description": "The New York Giants defeated the Houston Texans 27-21 in overtime during Week 7, heading into their bye week with a dramatic win.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Giants",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.OMWqx/JI5EDH+/3xN/dlnQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T20:23:35Z",
+      "first_seen": "2026-10-25T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ravens",
+      "rank": 2,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -20,12 +53,16 @@
         {
           "t": "2026-10-25T20:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 2
         }
       ],
-      "rank_change": 2,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Ravens",
-      "description": "The Baltimore Ravens suffered a 35-13 defeat against the Cincinnati Bengals after Joe Burrow exploded in the second half.",
+      "description": "The Cincinnati Bengals defeated the Baltimore Ravens 35-13 following a dominant second-half rally in their divisional matchup.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ravens",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.Ovd72zd3h3Dhrpk4C+qXeA&pid=15.1",
@@ -33,28 +70,32 @@
       "started_trending": "2026-10-25T19:23:33Z",
       "first_seen": "2026-10-25T19:23:33Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "falcons",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-25T20:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Falcons",
-      "description": "The Atlanta Falcons played the San Francisco 49ers in a Week 7 matchup where Christian McCaffrey returned from a thigh injury.",
+      "description": "The Atlanta Falcons pulled off a major upset against the previously undefeated San Francisco 49ers in Week 7.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Falcons",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.Aj7C1Fr0CNlVG43lAoGx9QHaE7&pid=15.1",
@@ -62,65 +103,7 @@
       "started_trending": "2026-10-25T20:23:35Z",
       "first_seen": "2026-10-25T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "giants",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Giants",
-      "description": "The New York Giants faced the Houston Texans in Week 7, with running back Tyrone Tracy Jr. scoring three touchdowns.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Giants",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.OMWqx/JI5EDH+/3xN/dlnQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T20:23:35Z",
-      "first_seen": "2026-10-25T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "browns",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 4
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Browns",
-      "description": "The Cleveland Browns faced the Tennessee Titans in a Week 7 matchup featuring live streaming and betting previews.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Browns",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.bsSNxTlu8H22FE4ifKCaXwHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T20:23:35Z",
-      "first_seen": "2026-10-25T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
+      "last_seen": "2026-10-25T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -129,19 +112,23 @@
     },
     {
       "id": "texans",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-10-25T20:23:35Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Texans",
-      "description": "The Houston Texans played the New York Giants in a Week 7 game featuring live updates, scores, and team inactives.",
+      "description": "The Houston Texans faced the New York Giants in a Week 7 matchup that ended in a 27-21 overtime loss.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Texans",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.rpQYh23A5rRRvdwtlhf4UAHaFj&pid=15.1",
@@ -149,7 +136,7 @@
       "started_trending": "2026-10-25T20:23:35Z",
       "first_seen": "2026-10-25T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
+      "last_seen": "2026-10-25T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -157,43 +144,64 @@
       "extra": {}
     },
     {
-      "id": "bengals",
-      "rank": 6,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "id": "49ers",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-25T17:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-25T18:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-25T19:23:33Z",
-          "r": 1
-        },
+          "t": "2026-10-25T21:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "49ers",
+      "description": "The San Francisco 49ers suffered their first loss of the season after falling to the Atlanta Falcons due to turnovers and penalties.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/49ers",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.VLz/k1xYmsZ01eh8VlQnyA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T21:23:34Z",
+      "first_seen": "2026-10-25T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "browns",
+      "rank": 6,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
         {
           "t": "2026-10-25T20:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
           "r": 6
         }
       ],
-      "rank_change": 4,
+      "rank_change": -2,
       "is_new": false,
-      "topic": "Bengals",
-      "description": "The Cincinnati Bengals defeated the Baltimore Ravens 35-13, as trade rumors heated up regarding Shemar Stewart and Mike Gesicki scored a touchdown on National Tight Ends Day.",
+      "topic": "Browns",
+      "description": "The Cleveland Browns secured a narrow 27-24 victory against the Tennessee Titans in Week 7.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bengals",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.wDWQBYNbI+a7RJZCpR3NJQ&pid=15.1",
+      "url": "https://twstalker.com/search/Browns",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.bsSNxTlu8H22FE4ifKCaXwHaDt&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T17:23:31Z",
-      "first_seen": "2026-10-25T17:23:31Z",
+      "started_trending": "2026-10-25T20:23:35Z",
+      "first_seen": "2026-10-25T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -214,12 +222,16 @@
         {
           "t": "2026-10-25T20:23:35Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 7
         }
       ],
       "rank_change": 5,
       "is_new": false,
       "topic": "Jets",
-      "description": "The New York Jets suffered a humiliating loss to the winless Miami Dolphins after giving up an early lead at MetLife Stadium.",
+      "description": "The New York Jets faced mounting scrutiny after suffering an embarrassing home loss to the previously winless Miami Dolphins.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jets",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.m34x45kzl1N2MS/fa56cRA&pid=15.1",
@@ -227,218 +239,16 @@
       "started_trending": "2026-10-25T18:23:33Z",
       "first_seen": "2026-10-25T18:23:33Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "daniel-jones",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Daniel Jones",
-      "description": "Indianapolis Colts quarterback Daniel Jones struggled against a blitz-heavy Vikings scheme during a 16-10 loss, prompting discussions about the team's future.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Daniel%20Jones",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0oSiKZ5jiSHY2utvZpLywAHaI6&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T20:23:35Z",
-      "first_seen": "2026-10-25T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dolphins",
-      "rank": 9,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-25T18:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-25T19:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Dolphins",
-      "description": "The Miami Dolphins earned their first win of the season by dealing the New York Jets a disgraceful and humiliating loss.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dolphins",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.1mbK3nDD2gVCjITDmOrQmAHaHY&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T18:23:33Z",
-      "first_seen": "2026-10-25T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "niners",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Niners",
-      "description": "The San Francisco 49ers suffered their first loss of the season against the Atlanta Falcons, falling short of a 7-0 franchise win.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Niners",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.qEMBSiY/n+V2YrVT0o79mQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T20:23:35Z",
-      "first_seen": "2026-10-25T20:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "panthers",
-      "rank": 11,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-25T18:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-25T19:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Panthers",
-      "description": "The Carolina Panthers were crushed 43-13 at home by the Tampa Bay Buccaneers in an ugly Week 7 loss featuring Baker Mayfield's return.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Panthers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.4Lu9fXOqrVIGqB7ptxhqNwHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T18:23:33Z",
-      "first_seen": "2026-10-25T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "vikings",
-      "rank": 12,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-25T19:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Vikings",
-      "description": "The Minnesota Vikings stayed undefeated with a 16-10 victory over the Indianapolis Colts, secured by Harrison Smith's 40th career interception.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Vikings",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.i+N/PWeL4iQ/YvjBK1P5rw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T19:23:33Z",
-      "first_seen": "2026-10-25T19:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aaron-glenn",
-      "rank": 13,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-25T18:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-25T19:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Aaron Glenn",
-      "description": "Scrutiny is ratcheting up on the New York Jets and Aaron Glenn after an embarrassing home loss to the previously winless Miami Dolphins.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Aaron%20Glenn",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.YmbMJvucGc_QEidvfEsnswHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T18:23:33Z",
-      "first_seen": "2026-10-25T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jj-mccarthy",
-      "rank": 14,
+      "rank": 8,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -453,12 +263,16 @@
         {
           "t": "2026-10-25T20:23:35Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": -7,
+      "rank_change": -1,
       "is_new": false,
       "topic": "JJ McCarthy",
-      "description": "J.J. McCarthy carried a four-game winning streak into his first start for the Giants, where he was sacked multiple times by Texans defensive end Danielle Hunter.",
+      "description": "J.J. McCarthy led the New York Giants to a 27-21 overtime victory over the Houston Texans, extending his winning streak in his first start for the team.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/JJ%20McCarthy",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.5lbGLMAosXLc4MD+ZvxrLA&pid=15.1",
@@ -466,7 +280,44 @@
       "started_trending": "2026-10-25T18:23:33Z",
       "first_seen": "2026-10-25T18:23:33Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "vikings",
+      "rank": 9,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-25T19:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-25T20:23:35Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Vikings",
+      "description": "The Minnesota Vikings improved to 7-0 on the season after securing a hard-fought victory against the Indianapolis Colts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Vikings",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.i+N/PWeL4iQ/YvjBK1P5rw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T19:23:33Z",
+      "first_seen": "2026-10-25T19:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -474,28 +325,118 @@
       "extra": {}
     },
     {
-      "id": "titans",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "bengals",
+      "rank": 10,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-25T17:23:31Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-25T18:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-25T19:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-25T20:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Bengals",
+      "description": "The Cincinnati Bengals rolled past the Baltimore Ravens with a 35-13 victory, fueled by a strong second-half performance.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bengals",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.wDWQBYNbI+a7RJZCpR3NJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T17:23:31Z",
+      "first_seen": "2026-10-25T17:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dolphins",
+      "rank": 11,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-25T18:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-25T19:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-25T20:23:35Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Dolphins",
+      "description": "The Miami Dolphins earned their first win of the season by defeating the New York Jets.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dolphins",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.1mbK3nDD2gVCjITDmOrQmAHaHY&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T18:23:33Z",
+      "first_seen": "2026-10-25T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "niners",
+      "rank": 12,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-10-25T20:23:35Z",
-          "r": 15
+          "r": 10
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 12
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Titans",
-      "description": "The Tennessee Titans faced the Cleveland Browns in Week 7, boosted by Tony Pollard scoring two first-quarter touchdowns.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Niners",
+      "description": "The San Francisco 49ers saw their undefeated start to the season spoiled by the Atlanta Falcons in Week 7.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Titans",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.SlCkUeVs6b_O9cglBq-aggHaLG&pid=15.1",
+      "url": "https://twstalker.com/search/Niners",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.qEMBSiY/n+V2YrVT0o79mQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-25T20:23:35Z",
       "first_seen": "2026-10-25T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
+      "last_seen": "2026-10-25T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -503,28 +444,205 @@
       "extra": {}
     },
     {
-      "id": "purdy",
+      "id": "daniel-jones",
+      "rank": 13,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-25T20:23:35Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Daniel Jones",
+      "description": "Daniel Jones and the Indianapolis Colts struggled against the Minnesota Vikings' blitz-heavy defense in a 16-10 loss.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Daniel%20Jones",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0oSiKZ5jiSHY2utvZpLywAHaI6&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T20:23:35Z",
+      "first_seen": "2026-10-25T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aaron-glenn",
+      "rank": 14,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-25T18:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-25T19:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-25T20:23:35Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Aaron Glenn",
+      "description": "New York Jets head coach Aaron Glenn faced rising scrutiny and expressed heavy disappointment following a loss to the Miami Dolphins.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Aaron%20Glenn",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.YmbMJvucGc_QEidvfEsnswHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T18:23:33Z",
+      "first_seen": "2026-10-25T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "panthers",
+      "rank": 15,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-25T18:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-25T19:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-25T20:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -13,
+      "is_new": false,
+      "topic": "Panthers",
+      "description": "The Carolina Panthers suffered an ugly 43-13 loss to the Tampa Bay Buccaneers at home, compounded by an injury to Taylor Moton.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Panthers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.4Lu9fXOqrVIGqB7ptxhqNwHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T18:23:33Z",
+      "first_seen": "2026-10-25T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bigblue",
       "rank": 16,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-25T20:23:35Z",
+          "t": "2026-10-25T21:23:34Z",
           "r": 16
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Purdy",
-      "description": "Brock Purdy and the undefeated San Francisco 49ers faced the Atlanta Falcons while dealing with a crumbling receiving corps.",
+      "topic": "#BigBlue",
+      "description": "Social media users discussed various topics under the name Big Blue, including NFL matchups and political election waves.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Purdy",
+      "url": "https://twstalker.com/search/%23BigBlue",
       "image_url": "",
       "image_source": "",
+      "started_trending": "2026-10-25T21:23:34Z",
+      "first_seen": "2026-10-25T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "titans",
+      "rank": 17,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-25T20:23:35Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Titans",
+      "description": "The Tennessee Titans fell just short against the Cleveland Browns in a close 27-24 game during Week 7.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Titans",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.SlCkUeVs6b_O9cglBq-aggHaLG&pid=15.1",
+      "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-25T20:23:35Z",
       "first_seen": "2026-10-25T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "davis-allen",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Davis Allen",
+      "description": "Davis Allen caught multiple touchdown passes from Matthew Stafford to help lead the Rams in their matchup against the Raiders.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Davis%20Allen",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.zLIMMAqcTc0vZflQsdtQjAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-25T21:23:34Z",
+      "first_seen": "2026-10-25T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-25T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -533,19 +651,23 @@
     },
     {
       "id": "colts",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-10-25T20:23:35Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-25T21:23:34Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Colts",
-      "description": "The Indianapolis Colts fell to the Vikings in Week 7 while facing big decisions regarding the NFL trade deadline and a vacant GM position.",
+      "description": "The Indianapolis Colts faced a cagey Week 7 loss to the Vikings while addressing trade deadline decisions and addressing rumors surrounding Peyton Manning.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Colts",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.gpy6wP2t44HoRn5sZItJQw&pid=15.1",
@@ -553,7 +675,7 @@
       "started_trending": "2026-10-25T20:23:35Z",
       "first_seen": "2026-10-25T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
+      "last_seen": "2026-10-25T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -561,113 +683,35 @@
       "extra": {}
     },
     {
-      "id": "skol",
-      "rank": 18,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-25T17:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-25T18:23:33Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-25T19:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#Skol",
-      "description": "Social media users are discussing the Alex Skolnick Trio's live performance at New York City's The Iridium being recorded for future release.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Skol",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.i+N/PWeL4iQ/YvjBK1P5rw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T17:23:31Z",
-      "first_seen": "2026-10-25T17:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bucs",
-      "rank": 19,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-25T18:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-25T19:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-25T20:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "Bucs",
-      "description": "The Tampa Bay Buccaneers dominated the Carolina Panthers 43-13 with 258 rushing yards, a stingy defense, and the return of Baker Mayfield.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bucs",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.i+BX3kHsEWPoKJ+FCxBlOw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T18:23:33Z",
-      "first_seen": "2026-10-25T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cam-ward",
+      "id": "purdy",
       "rank": 20,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
-          "t": "2026-10-25T19:23:33Z",
-          "r": 14
+          "t": "2026-10-25T20:23:35Z",
+          "r": 16
         },
         {
-          "t": "2026-10-25T20:23:35Z",
+          "t": "2026-10-25T21:23:34Z",
           "r": 20
         }
       ],
-      "rank_change": -6,
+      "rank_change": -4,
       "is_new": false,
-      "topic": "Cam Ward",
-      "description": "Tennessee Titans quarterback Cam Ward kept his team's hopes alive against the Browns with key passes to Carnell Tate and Elic Ayomanor.",
+      "topic": "Purdy",
+      "description": "Brock Purdy and the San Francisco 49ers suffered their first defeat of the season against the Atlanta Falcons following costly turnovers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cam%20Ward",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.U-k2aMbH45-ehFRnjIq9XQHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Purdy",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.Sno+YrDCBRxraVgo8n5WdQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-25T19:23:33Z",
-      "first_seen": "2026-10-25T19:23:33Z",
+      "started_trending": "2026-10-25T20:23:35Z",
+      "first_seen": "2026-10-25T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-25T20:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-25T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
