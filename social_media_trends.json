@@ -1,15 +1,56 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-26T20:24:55Z",
+  "updated": "2026-10-26T21:24:56Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "walter-koenig",
+      "id": "ballondor",
       "rank": 1,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-26T18:23:33Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-26T19:23:31Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-26T20:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 17,
+      "is_new": false,
+      "topic": "#BallonDor",
+      "description": "The 2026 Ballon d'Or ceremony is trending as it faces a delayed start, nomination announcements, and a website blunder naming winners early.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23BallonDor",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.FRvH/HJJjsjXIAc5KC13hw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T18:23:33Z",
+      "first_seen": "2026-10-26T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "walter-koenig",
+      "rank": 2,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -28,12 +69,16 @@
         {
           "t": "2026-10-26T20:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 2
         }
       ],
-      "rank_change": 1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Walter Koenig",
-      "description": "Walter Koenig, best known for playing Pavel Chekov on the original 'Star Trek' series, has died at age 90.",
+      "description": "Actor Walter Koenig, best known for playing Pavel Chekov on the original 'Star Trek' series, has died at the age of 90.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Walter%20Koenig",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.b/VPlnlZVoM3XlUSP9xYEw&pid=15.1",
@@ -41,16 +86,16 @@
       "started_trending": "2026-10-26T17:23:37Z",
       "first_seen": "2026-10-26T17:23:37Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "fallout76giveaway",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -69,9 +114,13 @@
         {
           "t": "2026-10-26T20:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 3
         }
       ],
-      "rank_change": 10,
+      "rank_change": 9,
       "is_new": false,
       "topic": "#Fallout76Giveaway",
       "description": "",
@@ -82,44 +131,143 @@
       "started_trending": "2026-10-26T17:23:37Z",
       "first_seen": "2026-10-26T17:23:37Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "ballondor",
-      "rank": 3,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
+      "id": "scal",
+      "rank": 4,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 13
-        },
-        {
           "t": "2026-10-26T20:23:34Z",
-          "r": 3
+          "r": 19
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 4
         }
       ],
       "rank_change": 15,
       "is_new": false,
-      "topic": "#BallonDor",
-      "description": "The 2026 Ballon d'Or award ceremony is underway following a 30-minute delay, with Harry Kane, Lamine Yamal, and Kylian Mbappé competing for the top football honor.",
+      "topic": "Scal",
+      "description": "Brian Scalabrine sparked discussion by claiming that Jaylen Brown previously demanded a trade from the Boston Celtics.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23BallonDor",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.FRvH/HJJjsjXIAc5KC13hw&pid=15.1",
+      "url": "https://twstalker.com/search/Scal",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.FbBEWTCc8xAcxZIfE5ZV8g&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T18:23:33Z",
-      "first_seen": "2026-10-26T18:23:33Z",
+      "started_trending": "2026-10-26T20:23:34Z",
+      "first_seen": "2026-10-26T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "harry-kane",
+      "rank": 5,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-26T20:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Harry Kane",
+      "description": "Harry Kane is trending on social media as a leading nominee and top odds favorite ahead of the 2026 Ballon d'Or ceremony.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Harry%20Kane",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.z8BqMOiQkWKP9bPu-6ZMkwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T20:23:34Z",
+      "first_seen": "2026-10-26T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "microsoft",
+      "rank": 6,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-26T20:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Microsoft",
+      "description": "Microsoft is offering voluntary buyouts to approximately 60,000 employees as part of an efficiency push and cost-cutting measure driven by AI investments.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Microsoft",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.cidJjwAfU984eHaZOEx1zQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T20:23:34Z",
+      "first_seen": "2026-10-26T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "verizon",
+      "rank": 7,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-26T19:23:31Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-26T20:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Verizon",
+      "description": "Verizon raised its annual forecasts, beat earnings estimates, and signed a multi-billion dollar AI infrastructure deal with AWS.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Verizon",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Y7D8RKDG8NtEMQgc2amSKAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T19:23:31Z",
+      "first_seen": "2026-10-26T19:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-26T21:23:34Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -128,7 +276,7 @@
     },
     {
       "id": "star-trek",
-      "rank": 4,
+      "rank": 8,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -139,12 +287,16 @@
         {
           "t": "2026-10-26T20:23:34Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": 1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Star Trek",
-      "description": "Fans and media are mourning the death of 'Star Trek' actor Walter Koenig, who played Pavel Chekov and died at age 90.",
+      "description": "Fans and news outlets are mourning the loss of 'Star Trek' actor Walter Koenig, who played Pavel Chekov and passed away at 90.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Star%20Trek",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.dxiNKwJHEhFzjUf4YozQHQHaHa&pid=15.1",
@@ -152,45 +304,16 @@
       "started_trending": "2026-10-26T19:23:31Z",
       "first_seen": "2026-10-26T19:23:31Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "microsoft",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Microsoft",
-      "description": "Microsoft is offering voluntary buyouts to approximately 60,000 employees as an efficiency push driven by artificial intelligence to reduce costs.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Microsoft",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.cidJjwAfU984eHaZOEx1zQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T20:23:34Z",
-      "first_seen": "2026-10-26T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "chekov",
-      "rank": 6,
+      "rank": 9,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -209,12 +332,16 @@
         {
           "t": "2026-10-26T20:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": 3,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Chekov",
-      "description": "Tributes are pouring in following the death of actor Walter Koenig, who famously portrayed the Russian crewman Chekov on the original 'Star Trek' series.",
+      "description": "Tributes pour in following the death of actor Walter Koenig, who famously portrayed the Russian crewman Pavel Chekov on 'Star Trek'.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Chekov",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.Ap2abisza+ImtrB1y895Sg&pid=15.1",
@@ -222,36 +349,36 @@
       "started_trending": "2026-10-26T17:23:37Z",
       "first_seen": "2026-10-26T17:23:37Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "harry-kane",
-      "rank": 7,
+      "id": "alex-padilla",
+      "rank": 10,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 7
+          "t": "2026-10-26T21:23:34Z",
+          "r": 10
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Harry Kane",
-      "description": "Harry Kane is among the top nominees and favorites at the 2026 Ballon d'Or ceremony, facing competition from Lamine Yamal and Kylian Mbappé.",
+      "topic": "Alex Padilla",
+      "description": "Alex Padilla is trending alongside discussions of the California midterm elections, ballot controversies, and past relationship history updates on social media.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Harry%20Kane",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.z8BqMOiQkWKP9bPu-6ZMkwHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Alex%20Padilla",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Ky0MqG2UKGf6YMDXOci03AHaJQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T20:23:34Z",
-      "first_seen": "2026-10-26T20:23:34Z",
+      "started_trending": "2026-10-26T21:23:34Z",
+      "first_seen": "2026-10-26T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
+      "last_seen": "2026-10-26T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -259,57 +386,8 @@
       "extra": {}
     },
     {
-      "id": "brazil",
-      "rank": 8,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-26T15:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-26T16:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-26T17:23:37Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Brazil",
-      "description": "Discussions surrounding Brazil's politics have resurfaced online, highlighting Lula's comeback victory over Bolsonaro and its impact on the nation's democracy.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brazil",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.m0pvw_HwWOp7K_vVyjUoIwHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T00:23:34Z",
-      "first_seen": "2026-10-26T00:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 20,
-      "volume": "20hr trend",
-      "volume_value": 20,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "gpt-6-1-terra",
-      "rank": 9,
+      "rank": 11,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -320,12 +398,16 @@
         {
           "t": "2026-10-26T20:23:34Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 11
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "GPT-6.1 Terra",
-      "description": "OpenAI has launched GPT-6.1 Terra, a new and cheaper model designed for everyday computer work that also integrates into GitHub Copilot and upgrades ChatGPT.",
+      "description": "OpenAI has officially launched GPT-6.1 Terra, a cheaper AI model for everyday computer tasks integrated into tools like GitHub Copilot and ChatGPT.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/GPT-6.1%20Terra",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.3JruDoU58LU-wY-NAzqSnAHaEK&pid=15.1",
@@ -333,246 +415,16 @@
       "started_trending": "2026-10-26T19:23:31Z",
       "first_seen": "2026-10-26T19:23:31Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "verizon",
-      "rank": 10,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Verizon",
-      "description": "Verizon raised its annual forecasts and reported strong stock performance after signing a more than $2 billion AI infrastructure deal with AWS.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Verizon",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Y7D8RKDG8NtEMQgc2amSKAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T19:23:31Z",
-      "first_seen": "2026-10-26T19:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "destinyfashion",
-      "rank": 11,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-26T17:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#DestinyFashion",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23DestinyFashion",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xIoeE5JWPbj907zXgmOaMgHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T17:23:37Z",
-      "first_seen": "2026-10-26T17:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
+      "last_seen": "2026-10-26T21:23:34Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "babylon-5",
-      "rank": 12,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Babylon 5",
-      "description": "Fans are remembering actor Walter Koenig following his death at age 90, highlighting his memorable sci-fi roles on both 'Star Trek' and 'Babylon 5'.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Babylon%205",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.5g_yDipp3YFvpLnwJ4861wHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T18:23:33Z",
-      "first_seen": "2026-10-26T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "shatner",
-      "rank": 13,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Shatner",
-      "description": "William Shatner is trending as he brings his long career to Northfield for a one-night show and movie screening, alongside tributes to his late 'Star Trek' co-star Walter Koenig.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Shatner",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.3gsxyNrpaEK7LM6Z11_QuAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T18:23:33Z",
-      "first_seen": "2026-10-26T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bester",
-      "rank": 14,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Bester",
-      "description": "Sci-fi fans are paying tribute to late actor Walter Koenig, celebrating his memorable performances as Pavel Chekov in 'Star Trek' and Alfred Bester in 'Babylon 5'.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bester",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.zvhqmCYy1ykNNdsTHZz1hQHaJ3&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T18:23:33Z",
-      "first_seen": "2026-10-26T18:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "maurene-comey",
-      "rank": 15,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-26T16:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-26T17:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Maurene Comey",
-      "description": "A federal judge ruled that the Trump administration illegally fired former federal prosecutor Maurene Comey, the daughter of the ex-FBI director, and ordered her reinstatement.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Maurene%20Comey",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.E5Kw-BuW4v3yoYD2xODVIQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T16:23:34Z",
-      "first_seen": "2026-10-26T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "anthropic",
-      "rank": 16,
+      "rank": 12,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -599,12 +451,16 @@
         {
           "t": "2026-10-26T20:23:34Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 12
         }
       ],
-      "rank_change": -11,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Anthropic",
-      "description": "Anthropic has filed for a massive initial public offering while revealing significant financial losses and surging revenue alongside AI risk warnings from its CEO.",
+      "description": "Anthropic is generating heavy financial news interest after filing for an IPO, revealing a significant loss alongside rapid revenue growth.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Anthropic",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.bnVt7e7ka7X3NzODTB8XWQAAAA&pid=15.1",
@@ -612,61 +468,180 @@
       "started_trending": "2026-10-26T15:23:35Z",
       "first_seen": "2026-10-26T15:23:35Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gronk",
-      "rank": 17,
+      "id": "destinyfashion",
+      "rank": 13,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
         {
-          "t": "2026-10-26T16:23:34Z",
+          "t": "2026-10-26T17:23:37Z",
           "r": 6
         },
         {
-          "t": "2026-10-26T17:23:37Z",
+          "t": "2026-10-26T18:23:33Z",
           "r": 4
         },
         {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 8
-        },
-        {
           "t": "2026-10-26T19:23:31Z",
-          "r": 11
+          "r": 7
         },
         {
           "t": "2026-10-26T20:23:34Z",
-          "r": 17
+          "r": 11
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 13
         }
       ],
-      "rank_change": -11,
+      "rank_change": -7,
       "is_new": false,
-      "topic": "Gronk",
-      "description": "Gronk is dominating football media coverage and reacting to NFL Week 7 alongside Julian Edelman ahead of his Patriots Hall of Fame induction.",
+      "topic": "#DestinyFashion",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23DestinyFashion",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xIoeE5JWPbj907zXgmOaMgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T17:23:37Z",
+      "first_seen": "2026-10-26T17:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mw4vinylsweepstakes",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#MW4VinylSweepstakes",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MW4VinylSweepstakes",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.qSzmZjsEjqTUR/5e69slUA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T21:23:34Z",
+      "first_seen": "2026-10-26T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "babylon-5",
+      "rank": 15,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-26T18:23:33Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-26T19:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-26T20:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Babylon 5",
+      "description": "Social media users and alumni tributes are remembering late actor Walter Koenig for his acclaimed sci-fi roles in 'Star Trek' and 'Babylon 5'.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gronk",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.E102GcwOKiGPtlRS5JCbsgHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Babylon%205",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.5g_yDipp3YFvpLnwJ4861wHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T18:23:33Z",
+      "first_seen": "2026-10-26T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "maurene-comey",
+      "rank": 16,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-26T16:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-26T17:23:37Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-26T18:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-26T19:23:31Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-26T20:23:34Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "Maurene Comey",
+      "description": "A federal judge ruled that the Trump administration and DOJ unlawfully fired former federal prosecutor Maurene Comey, daughter of the ex-FBI director.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Maurene%20Comey",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.E5Kw-BuW4v3yoYD2xODVIQHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-26T16:23:34Z",
       "first_seen": "2026-10-26T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bleach",
-      "rank": 18,
+      "rank": 17,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -689,12 +664,16 @@
         {
           "t": "2026-10-26T20:23:34Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 17
         }
       ],
-      "rank_change": 1,
+      "rank_change": 2,
       "is_new": false,
       "topic": "BLEACH",
-      "description": "The 'Bleach' anime has officially concluded after 22 years, releasing a special ending video and a series finale that drew widespread attention from fans.",
+      "description": "The 'Bleach' anime has officially concluded after 22 years, releasing a special series finale and ending video for fans.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/BLEACH",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.nmnpnS8Bwqn18t74qgkdmgHaKu&pid=15.1",
@@ -702,80 +681,121 @@
       "started_trending": "2026-10-26T16:23:34Z",
       "first_seen": "2026-10-26T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "scal",
+      "id": "bester",
+      "rank": 18,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-26T18:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-26T19:23:31Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-26T20:23:34Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Bester",
+      "description": "Fans are remembering late actor Walter Koenig for his memorable science fiction performances, including Alfred Bester on 'Babylon 5'.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bester",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.zvhqmCYy1ykNNdsTHZz1hQHaJ3&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T18:23:33Z",
+      "first_seen": "2026-10-26T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "shatner",
       "rank": 19,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-26T18:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-26T19:23:31Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-26T20:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Shatner",
+      "description": "William Shatner is trending alongside tributes to his late 'Star Trek' co-star Walter Koenig and as he brings his career show on the road.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Shatner",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.3gsxyNrpaEK7LM6Z11_QuAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T18:23:33Z",
+      "first_seen": "2026-10-26T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-26T21:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hawks",
+      "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 19
+          "t": "2026-10-26T21:23:34Z",
+          "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Scal",
-      "description": "Stem Cell Authority, Ltd. (OTC:SCAL) is trending as market watchers discuss its recent financial estimates and trading data.",
+      "topic": "Hawks",
+      "description": "The Atlanta Hawks are trending as they face the Houston Rockets in a matchup with live game updates and betting predictions.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Scal",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.FbBEWTCc8xAcxZIfE5ZV8g&pid=15.1",
+      "url": "https://twstalker.com/search/Hawks",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Boq2pRdNYjfrbUVMnfunWQHaE5&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T20:23:34Z",
-      "first_seen": "2026-10-26T20:23:34Z",
+      "started_trending": "2026-10-26T21:23:34Z",
+      "first_seen": "2026-10-26T21:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
+      "last_seen": "2026-10-26T21:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "prizepickspacks",
-      "rank": 20,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-26T17:23:37Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "#PrizePicksPacks",
-      "description": "PrizePicks is trending after launching digital card packs across the United States featuring collectibles valued at up to $8 million.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23PrizePicksPacks",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.04sheCBt9IoUcQ0bSnNSrA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T17:23:37Z",
-      "first_seen": "2026-10-26T17:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-26T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     }
