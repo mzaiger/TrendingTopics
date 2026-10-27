@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-26T23:25:18Z",
+  "updated": "2026-10-27T00:25:15Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -28,12 +28,16 @@
         {
           "t": "2026-10-26T23:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 6,
       "is_new": false,
       "topic": "Harry Kane",
-      "description": "Harry Kane is trending after winning the men's 2026 Ballon d'Or, the Striker of the Year award, and the Gerd Müller Trophy following an excellent season.",
+      "description": "Harry Kane is trending after winning the 2026 men's Ballon d'Or following an excellent season for Bayern Munich and England, becoming the first Englishman to win the award in 25 years.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Harry%20Kane",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.z8BqMOiQkWKP9bPu-6ZMkwHaEK&pid=15.1",
@@ -41,7 +45,7 @@
       "started_trending": "2026-10-26T20:23:34Z",
       "first_seen": "2026-10-26T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
+      "last_seen": "2026-10-27T00:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -49,8 +53,37 @@
       "extra": {}
     },
     {
-      "id": "ballondor",
+      "id": "wweraw",
       "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#WWERaw",
+      "description": "Fans are discussing WWE Raw following recent live updates, results, and previews featuring matches like Vaquer versus Becky Lynch and a No DQ Bayley brawl.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WWERaw",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.b0jT1mPbhwwqMxa3d4F0jgHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ballondor",
+      "rank": 3,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -77,12 +110,16 @@
         {
           "t": "2026-10-26T23:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": 11,
+      "rank_change": 10,
       "is_new": false,
       "topic": "#BallonDor",
-      "description": "Social media is buzzing with updates, rankings, and live coverage of the 2026 Ballon d'Or ceremony, featuring top football stars like Harry Kane, Lamine Yamal, and Kylian Mbappé.",
+      "description": "The Ballon d'Or is trending after an accidental website leak named Harry Kane, Lamine Yamal, and Kylian Mbappé as winners ahead of the delayed award ceremony.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23BallonDor",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.FRvH/HJJjsjXIAc5KC13hw&pid=15.1",
@@ -90,7 +127,7 @@
       "started_trending": "2026-10-26T18:23:33Z",
       "first_seen": "2026-10-26T18:23:33Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
+      "last_seen": "2026-10-27T00:23:32Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -99,19 +136,23 @@
     },
     {
       "id": "comey",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-10-26T23:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Comey",
-      "description": "Former FBI director James Comey is trending after being hit with federal charges for a third time by the Trump administration's Justice Department, following news that his daughter was also illegally fired by the DOJ.",
+      "description": "Former FBI director James Comey is trending after being hit with federal charges by the Trump administration for a third time, this time involving the alleged sharing of classified information.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Comey",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.mkkpt1VN4XnSXGzvjTslig&pid=15.1",
@@ -119,7 +160,36 @@
       "started_trending": "2026-10-26T23:23:34Z",
       "first_seen": "2026-10-26T23:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sami",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sami",
+      "description": "Sami is trending amid discussions of WWE Crown Jewel and Sami Zayn's scathing Raw promo targeting Roman Reigns and company executives.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sami",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.AQJ_82vm2pQ7FlKKl19RsgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -128,19 +198,23 @@
     },
     {
       "id": "mbappe",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 6,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-10-26T23:23:34Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Mbappe",
-      "description": "Kylian Mbappé is making waves online following his appearance at the 2026 Ballon d'Or ceremony, where he was among the top contenders for the prestigious award.",
+      "description": "Kylian Mbappé is trending following the Ballon d'Or vote results and an accidental leak that listed him alongside Harry Kane and Lamine Yamal as winners.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mbappe",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.kD9dqO9+cMgyUrhc3qz8Cg&pid=15.1",
@@ -148,7 +222,36 @@
       "started_trending": "2026-10-26T23:23:34Z",
       "first_seen": "2026-10-26T23:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "flyeaglesfly",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FlyEaglesFly",
+      "description": "Fans are using the hashtag #FlyEaglesFly as social media reacts to a football fan who reportedly didn't know the phrase during an appearance on a sports show.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23FlyEaglesFly",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.P5bGZsJMmb6-MVK5nDGm9gHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -157,7 +260,7 @@
     },
     {
       "id": "world-cup",
-      "rank": 5,
+      "rank": 8,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -168,12 +271,16 @@
         {
           "t": "2026-10-26T23:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": 4,
+      "rank_change": 1,
       "is_new": false,
       "topic": "World Cup",
-      "description": "The World Cup is generating discussion after an England under-15 match against Ireland was abandoned following racism allegations, alongside other global tournament updates.",
+      "description": "The World Cup is trending following various sports headlines, including an under-15s match where the England team walked off the pitch after an alleged racism incident.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/World%20Cup",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.9Gdp3QwYCh7_m7HnJ1HUnwHaDt&pid=15.1",
@@ -181,7 +288,7 @@
       "started_trending": "2026-10-26T22:23:34Z",
       "first_seen": "2026-10-26T22:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
+      "last_seen": "2026-10-27T00:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -189,20 +296,53 @@
       "extra": {}
     },
     {
-      "id": "messi",
-      "rank": 6,
+      "id": "go-birds",
+      "rank": 9,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 6
+          "t": "2026-10-27T00:23:32Z",
+          "r": 9
         }
       ],
       "rank_change": null,
       "is_new": true,
+      "topic": "Go Birds",
+      "description": "Philadelphia Eagles fans are posting with 'Go Birds' as the team prepares for a Week 7 Monday Night Football matchup against the Dallas Cowboys.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Go%20Birds",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.XBq_Gwf3BfMGeagSqxSDlgHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "messi",
+      "rank": 10,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-26T23:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
       "topic": "Messi",
-      "description": "Lionel Messi is drawing attention after choosing to attend the Messi Cup instead of the 2026 Ballon d'Or ceremony, alongside making an emotional admission about Barcelona.",
+      "description": "Lionel Messi is trending after opting to attend the Messi Cup rather than travel thousands of miles to attend the 2026 Ballon d'Or ceremony.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Messi",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.jUBZf8j9qCELVKbw8wFo4g&pid=15.1",
@@ -210,7 +350,197 @@
       "started_trending": "2026-10-26T23:23:34Z",
       "first_seen": "2026-10-26T23:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "meleek-thomas",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Meleek Thomas",
+      "description": "Meleek Thomas is trending as basketball fans check his recent game logs and highlights at the start of the new NBA and college season.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Meleek%20Thomas",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.mI-dZAhVcGZxk6CGpRB_OQHaIG&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "donnie-iris",
+      "rank": 12,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-26T23:23:34Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "Donnie Iris",
+      "description": "Pittsburgh rock icon and music legend Donnie Iris has died at the age of 83, prompting tributes for the 'Ah! Leah!' singer.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Donnie%20Iris",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.5m1zTAwaDjf26fhEIWXDTQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T23:23:34Z",
+      "first_seen": "2026-10-26T23:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "reimer",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Reimer",
+      "description": "James Reimer is trending after making his Rangers debut, which included a sprawling save before he was ultimately pulled following the first period.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Reimer",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.KuY4V4WccQKgzf8UDxFU5Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "alex-padilla",
+      "rank": 14,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-26T21:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-26T22:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-26T23:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Alex Padilla",
+      "description": "California U.S. Senator Alex Padilla is trending after conducting an unannounced oversight visit to a Sacramento ICE holding center following an incident involving an unmarked ICE vehicle.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Alex%20Padilla",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Ky0MqG2UKGf6YMDXOci03AHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T21:23:34Z",
+      "first_seen": "2026-10-26T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "monday-night-football",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Monday Night Football",
+      "description": "Football fans are searching for how to watch tonight's Monday Night Football game featuring a matchup between the Dallas Cowboys and the Philadelphia Eagles.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Monday%20Night%20Football",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.7KZQQSXHKUt3dYzWTQKb8A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cheesecake-factory",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cheesecake Factory",
+      "description": "The Cheesecake Factory is trending after Treasury Secretary nominee Scott Bessent dined there and politicians traded jabs sparked by a remark from Barack Obama.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cheesecake%20Factory",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.r9BEXvGgbO920NLvhd67UwHaFc&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T00:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -219,7 +549,7 @@
     },
     {
       "id": "cason",
-      "rank": 7,
+      "rank": 17,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -230,12 +560,16 @@
         {
           "t": "2026-10-26T23:23:34Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": -4,
+      "rank_change": -14,
       "is_new": false,
       "topic": "Cason",
-      "description": "OKC Thunder guard Cason Wallace is trending after it was announced he will undergo surgery for a torn labrum in his left shoulder.",
+      "description": "OKC Thunder guard Cason Wallace is trending after news broke that he will require surgery for a torn labrum in his left shoulder.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cason",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.2vP0ijqsEm1x7AAkJCSZbA&pid=15.1",
@@ -243,7 +577,7 @@
       "started_trending": "2026-10-26T22:23:34Z",
       "first_seen": "2026-10-26T22:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
+      "last_seen": "2026-10-27T00:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -251,65 +585,32 @@
       "extra": {}
     },
     {
-      "id": "alex-padilla",
-      "rank": 8,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "id": "olise",
+      "rank": 18,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
-          "t": "2026-10-26T21:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 7
-        },
-        {
           "t": "2026-10-26T23:23:34Z",
-          "r": 8
+          "r": 12
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": 2,
+      "rank_change": -6,
       "is_new": false,
-      "topic": "Alex Padilla",
-      "description": "Alex Padilla is trending in discussions surrounding internet history involving Lamine Yamal, alongside separate news regarding California midterm elections and ballot lawsuits.",
+      "topic": "Olise",
+      "description": "Michael Olise is trending after finishing 9th in the Ballon d'Or voting and securing a spot in the Bundesliga Fantasy Team of the Week for Bayern Munich.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alex%20Padilla",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Ky0MqG2UKGf6YMDXOci03AHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T21:23:34Z",
-      "first_seen": "2026-10-26T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "alexia",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Alexia",
-      "description": "Alexia Putellas is trending after winning the women's Ballon d'Or Féminin for a joint-record third time, completing an ultimate comeback.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alexia",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.cils/YUPEG8U/VEoXydLmQ&pid=15.1",
+      "url": "https://twstalker.com/search/Olise",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.96aYxxIdzrMn3XaoShVaUg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-26T23:23:34Z",
       "first_seen": "2026-10-26T23:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
+      "last_seen": "2026-10-27T00:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -318,7 +619,7 @@
     },
     {
       "id": "pat-mcafee",
-      "rank": 10,
+      "rank": 19,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -329,12 +630,16 @@
         {
           "t": "2026-10-26T23:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": 4,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Pat McAfee",
-      "description": "Pat McAfee is facing heavy backlash online after stating he \"hates\" the University of Utah and felt uncomfortable during a recent \"College GameDay\" visit.",
+      "description": "Pat McAfee is trending after publicly criticizing the University of Utah, stating he had a very uncomfortable experience and 'hates' the place following a College GameDay visit.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Pat%20McAfee",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.EqJlKV8v6EYa-6u1DWMDjQHaE7&pid=15.1",
@@ -342,7 +647,7 @@
       "started_trending": "2026-10-26T22:23:34Z",
       "first_seen": "2026-10-26T22:23:34Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
+      "last_seen": "2026-10-27T00:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -350,360 +655,31 @@
       "extra": {}
     },
     {
-      "id": "scal",
-      "rank": 11,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-26T21:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 8,
-      "is_new": false,
-      "topic": "Scal",
-      "description": "Brian Scalabrine is trending after revealing on a podcast that Jaylen Brown allegedly demanded a trade from the Boston Celtics and favored a move to Milwaukee.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Scal",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.FbBEWTCc8xAcxZIfE5ZV8g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T20:23:34Z",
-      "first_seen": "2026-10-26T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "olise",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Olise",
-      "description": "Michael Olise is trending as part of FC Bayern's arrival in London for the Ballon d'Or ceremony and stellar performances in the Bundesliga.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Olise",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.96aYxxIdzrMn3XaoShVaUg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T23:23:34Z",
-      "first_seen": "2026-10-26T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "walter-koenig",
-      "rank": 13,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-26T17:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-26T21:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Walter Koenig",
-      "description": "Tributes are pouring in on social media following the death of actor Walter Koenig, best known for playing Ensign Chekov on the original \"Star Trek\" series, at age 90.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Walter%20Koenig",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.b/VPlnlZVoM3XlUSP9xYEw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T17:23:37Z",
-      "first_seen": "2026-10-26T17:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tottenham",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tottenham",
-      "description": "Tottenham Hotspur is drawing attention following a 2-0 victory over Chelsea and rising momentum in the Premier League power rankings.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tottenham",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.jPxzH/u3Tvp6XRiB+2lcDQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T23:23:34Z",
-      "first_seen": "2026-10-26T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "espionage-act",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Espionage Act",
-      "description": "The Espionage Act is trending after the Trump Department of Justice charged former FBI director James Comey under the act for a third time, sparking political retaliation claims.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Espionage%20Act",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.lfKihQvDmdv0pC4Wz28KvgHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T23:23:34Z",
-      "first_seen": "2026-10-26T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "unai-simon",
-      "rank": 16,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Unai Simon",
-      "description": "Unai Simón is trending after winning the 2026 Yashin Trophy as the world's best goalkeeper following Spain's success.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Unai%20Simon",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.PkDLBpnvN4tpNH0vGHqkSgHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T22:23:34Z",
-      "first_seen": "2026-10-26T22:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "raya",
-      "rank": 17,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Raya",
-      "description": "David Raya is making news after being named as a nominee for the 2026 Yashin Trophy alongside other top international goalkeepers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Raya",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.p2AZokhEoA2f5eY8BubcBwHaEk&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T22:23:34Z",
-      "first_seen": "2026-10-26T22:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "presti",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Presti",
-      "description": "OKC Thunder general manager Sam Presti is trending after providing live updates confirming that both Jalen Williams and Cason Wallace will require surgery following injuries.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Presti",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.94SI+hcLBq+CYYsnVWaw4A&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T23:23:34Z",
-      "first_seen": "2026-10-26T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "donnie-iris",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Donnie Iris",
-      "description": "Tributes are spreading across social media following the death of Pittsburgh rock and music legend Donnie Iris at the age of 83.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Donnie%20Iris",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.5m1zTAwaDjf26fhEIWXDTQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T23:23:34Z",
-      "first_seen": "2026-10-26T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fallout76giveaway",
+      "id": "dru-smith",
       "rank": 20,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-26T17:23:37Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-26T20:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-26T21:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-26T23:23:34Z",
+          "t": "2026-10-27T00:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -18,
-      "is_new": false,
-      "topic": "#Fallout76Giveaway",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dru Smith",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23Fallout76Giveaway",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.aIi4jPpYst84SF8Epq9ikQHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Dru%20Smith",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.l0w083YgdaoDMLZcRn7sAwHaFZ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T17:23:37Z",
-      "first_seen": "2026-10-26T17:23:37Z",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
       "published": null,
-      "last_seen": "2026-10-26T23:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-27T00:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
