@@ -1,15 +1,106 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-27T00:25:15Z",
+  "updated": "2026-10-27T01:25:23Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "harry-kane",
+      "id": "cowboys",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cowboys",
+      "description": "The Dallas Cowboys are trending as they face the Philadelphia Eagles in a high-stakes Monday Night Football matchup.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cowboys",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.303EJ8ITC9Y6RwjEnHmMNg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wweraw",
+      "rank": 2,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "#WWERaw",
+      "description": "Fans are buzzing about the latest episode of WWE Raw, featuring major matches and dramatic results on the road to upcoming events.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WWERaw",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.b0jT1mPbhwwqMxa3d4F0jgHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bayley",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bayley",
+      "description": "Bayley is trending following her intense, highly praised No DQ match against Lyra Valkyria on WWE Raw.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bayley",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.YULiETnu6I8_8ij8PqZZLwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "harry-kane",
+      "rank": 4,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -32,12 +123,16 @@
         {
           "t": "2026-10-27T00:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": 6,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Harry Kane",
-      "description": "Harry Kane is trending after winning the 2026 men's Ballon d'Or following an excellent season for Bayern Munich and England, becoming the first Englishman to win the award in 25 years.",
+      "description": "Harry Kane is making headlines after winning the 2026 Men's Ballon d'Or, becoming the first Englishman to claim the honor in 25 years.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Harry%20Kane",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.z8BqMOiQkWKP9bPu-6ZMkwHaEK&pid=15.1",
@@ -45,36 +140,36 @@
       "started_trending": "2026-10-26T20:23:34Z",
       "first_seen": "2026-10-26T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "wweraw",
-      "rank": 2,
+      "id": "saquon",
+      "rank": 5,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 2
+          "t": "2026-10-27T01:23:32Z",
+          "r": 5
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#WWERaw",
-      "description": "Fans are discussing WWE Raw following recent live updates, results, and previews featuring matches like Vaquer versus Becky Lynch and a No DQ Bayley brawl.",
+      "topic": "Saquon",
+      "description": "Saquon Barkley is trending after being officially active for the Eagles' Monday night game against the Cowboys despite a hamstring issue.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23WWERaw",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.b0jT1mPbhwwqMxa3d4F0jgHaJQ&pid=15.1",
+      "url": "https://twstalker.com/search/Saquon",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.qmWO+OXu6LRCboWdxHZKug&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T00:23:32Z",
-      "first_seen": "2026-10-27T00:23:32Z",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
       "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
+      "last_seen": "2026-10-27T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -82,19 +177,139 @@
       "extra": {}
     },
     {
-      "id": "ballondor",
-      "rank": 3,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "id": "pickens",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-26T18:23:33Z",
-          "r": 18
+          "t": "2026-10-27T01:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pickens",
+      "description": "George Pickens is generating buzz online after scoring a highlight-reel touchdown catch to put the Cowboys back on top during Monday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Pickens",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.YWH7c48PM11WsxLjfFqm9AHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "flyeaglesfly",
+      "rank": 7,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 7
         },
         {
-          "t": "2026-10-26T19:23:31Z",
-          "r": 13
+          "t": "2026-10-27T01:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "#FlyEaglesFly",
+      "description": "Fans are rallying online with the popular team slogan as the Philadelphia Eagles prepare for their marquee matchup.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23FlyEaglesFly",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.P5bGZsJMmb6-MVK5nDGm9gHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chandler-simpson",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Chandler Simpson",
+      "description": "Chandler Simpson is trending after going viral for a spectacular, face-first crashing catch into the outfield wall during the World Series.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Chandler%20Simpson",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Kzx_p4S2FBz1e8PXsn6FLQHaFJ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "comey",
+      "rank": 9,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-26T23:23:34Z",
+          "r": 3
         },
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Comey",
+      "description": "Former FBI chief James Comey is trending after the Justice Department and Trump administration brought a third set of federal charges against him for alleged leaks.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Comey",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.mkkpt1VN4XnSXGzvjTslig&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-26T23:23:34Z",
+      "first_seen": "2026-10-26T23:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ballondor",
+      "rank": 10,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
         {
           "t": "2026-10-26T20:23:34Z",
           "r": 3
@@ -114,12 +329,16 @@
         {
           "t": "2026-10-27T00:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": 10,
+      "rank_change": -7,
       "is_new": false,
       "topic": "#BallonDor",
-      "description": "The Ballon d'Or is trending after an accidental website leak named Harry Kane, Lamine Yamal, and Kylian Mbappé as winners ahead of the delayed award ceremony.",
+      "description": "Social media is erupting with reactions and results as soccer stars like Harry Kane, Kylian Mbappé, and Lamine Yamal contend for the 2026 Ballon d'Or honors.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23BallonDor",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.FRvH/HJJjsjXIAc5KC13hw&pid=15.1",
@@ -127,40 +346,94 @@
       "started_trending": "2026-10-26T18:23:33Z",
       "first_seen": "2026-10-26T18:23:33Z",
       "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "comey",
-      "rank": 4,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "tanner-mckee",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 4
+          "t": "2026-10-27T01:23:32Z",
+          "r": 11
         }
       ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Comey",
-      "description": "Former FBI director James Comey is trending after being hit with federal charges by the Trump administration for a third time, this time involving the alleged sharing of classified information.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tanner McKee",
+      "description": "Tanner McKee is trending as analysts and fans discuss his role and performance for the Philadelphia Eagles during a crucial stretch of the season.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Comey",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.mkkpt1VN4XnSXGzvjTslig&pid=15.1",
+      "url": "https://twstalker.com/search/Tanner%20McKee",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.D8Z6iv4ybe49xMhblFSvvA&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T23:23:34Z",
-      "first_seen": "2026-10-26T23:23:34Z",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
       "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cooper-dejean",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cooper DeJean",
+      "description": "Cooper DeJean is drawing attention on social media as the Philadelphia Eagles prepare to host the Dallas Cowboys on Monday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cooper%20DeJean",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.cuFHJd7lZPMVDobyjo5wXwHaLF&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "christian-parker",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Christian Parker",
+      "description": "Christian Parker is trending as sports analysts discuss his defensive strategies and how the Cowboys' defense plans to handle the Eagles.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Christian%20Parker",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JtOATvObbcjIUCU8OC2vHgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -169,19 +442,23 @@
     },
     {
       "id": "sami",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 14,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-10-27T00:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -9,
+      "is_new": false,
       "topic": "Sami",
-      "description": "Sami is trending amid discussions of WWE Crown Jewel and Sami Zayn's scathing Raw promo targeting Roman Reigns and company executives.",
+      "description": "Sami Zayn is making waves on social media following a scathing promo on Raw and an impromptu Undisputed WWE Title defense against Je'Von Evans.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Sami",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.AQJ_82vm2pQ7FlKKl19RsgHaEK&pid=15.1",
@@ -189,7 +466,36 @@
       "started_trending": "2026-10-27T00:23:32Z",
       "first_seen": "2026-10-27T00:23:32Z",
       "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dalvsphi",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#DALvsPHI",
+      "description": "Fans are actively discussing the intense NFL rivalry game between Dallas and Philadelphia on social media under the matchup hashtag.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23DALvsPHI",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.lR5czlSolY5ckRZEQYgIHQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -197,8 +503,103 @@
       "extra": {}
     },
     {
+      "id": "meleek-thomas",
+      "rank": 16,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Meleek Thomas",
+      "description": "Meleek Thomas is trending on sports platforms after scoring his first career NBA basket as a rookie for the Cleveland Cavaliers against the Timberwolves.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Meleek%20Thomas",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.mI-dZAhVcGZxk6CGpRB_OQHaIG&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pritchard",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pritchard",
+      "description": "Payton Pritchard is drawing attention online as sports media highlights his unique evolution into Boston's key isolation scorer.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Pritchard",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.e0lsGYZnBYLBWLQg6nAGKQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T01:23:32Z",
+      "first_seen": "2026-10-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "go-birds",
+      "rank": 18,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-27T00:23:32Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "Go Birds",
+      "description": "Philadelphia Eagles fans are using the rallying cry online to support their team ahead of the high-profile Monday night game against the Cowboys.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Go%20Birds",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.XBq_Gwf3BfMGeagSqxSDlgHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T00:23:32Z",
+      "first_seen": "2026-10-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "mbappe",
-      "rank": 6,
+      "rank": 19,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -209,12 +610,16 @@
         {
           "t": "2026-10-27T00:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": -2,
+      "rank_change": -15,
       "is_new": false,
       "topic": "Mbappe",
-      "description": "Kylian Mbappé is trending following the Ballon d'Or vote results and an accidental leak that listed him alongside Harry Kane and Lamine Yamal as winners.",
+      "description": "Kylian Mbappé is trending alongside fellow soccer stars as the results and voting standings for the 2026 Ballon d'Or generate massive online discussion.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mbappe",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.kD9dqO9+cMgyUrhc3qz8Cg&pid=15.1",
@@ -222,73 +627,7 @@
       "started_trending": "2026-10-26T23:23:34Z",
       "first_seen": "2026-10-26T23:23:34Z",
       "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "flyeaglesfly",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#FlyEaglesFly",
-      "description": "Fans are using the hashtag #FlyEaglesFly as social media reacts to a football fan who reportedly didn't know the phrase during an appearance on a sports show.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23FlyEaglesFly",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.P5bGZsJMmb6-MVK5nDGm9gHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T00:23:32Z",
-      "first_seen": "2026-10-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "world-cup",
-      "rank": 8,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "World Cup",
-      "description": "The World Cup is trending following various sports headlines, including an under-15s match where the England team walked off the pitch after an alleged racism incident.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/World%20Cup",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9Gdp3QwYCh7_m7HnJ1HUnwHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T22:23:34Z",
-      "first_seen": "2026-10-26T22:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
+      "last_seen": "2026-10-27T01:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -296,99 +635,8 @@
       "extra": {}
     },
     {
-      "id": "go-birds",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Go Birds",
-      "description": "Philadelphia Eagles fans are posting with 'Go Birds' as the team prepares for a Week 7 Monday Night Football matchup against the Dallas Cowboys.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Go%20Birds",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.XBq_Gwf3BfMGeagSqxSDlgHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T00:23:32Z",
-      "first_seen": "2026-10-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "messi",
-      "rank": 10,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Messi",
-      "description": "Lionel Messi is trending after opting to attend the Messi Cup rather than travel thousands of miles to attend the 2026 Ballon d'Or ceremony.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Messi",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.jUBZf8j9qCELVKbw8wFo4g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T23:23:34Z",
-      "first_seen": "2026-10-26T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "meleek-thomas",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Meleek Thomas",
-      "description": "Meleek Thomas is trending as basketball fans check his recent game logs and highlights at the start of the new NBA and college season.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Meleek%20Thomas",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.mI-dZAhVcGZxk6CGpRB_OQHaIG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T00:23:32Z",
-      "first_seen": "2026-10-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "donnie-iris",
-      "rank": 12,
+      "rank": 20,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -399,12 +647,16 @@
         {
           "t": "2026-10-27T00:23:32Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-27T01:23:32Z",
+          "r": 20
         }
       ],
-      "rank_change": 7,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Donnie Iris",
-      "description": "Pittsburgh rock icon and music legend Donnie Iris has died at the age of 83, prompting tributes for the 'Ah! Leah!' singer.",
+      "description": "Tributes are pouring in across social media following the death of beloved Pittsburgh rock legend and 'Ah! Leah!' singer Donnie Iris at age 83.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Donnie%20Iris",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.5m1zTAwaDjf26fhEIWXDTQ&pid=15.1",
@@ -412,274 +664,10 @@
       "started_trending": "2026-10-26T23:23:34Z",
       "first_seen": "2026-10-26T23:23:34Z",
       "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "reimer",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Reimer",
-      "description": "James Reimer is trending after making his Rangers debut, which included a sprawling save before he was ultimately pulled following the first period.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Reimer",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.KuY4V4WccQKgzf8UDxFU5Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T00:23:32Z",
-      "first_seen": "2026-10-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "alex-padilla",
-      "rank": 14,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-26T21:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Alex Padilla",
-      "description": "California U.S. Senator Alex Padilla is trending after conducting an unannounced oversight visit to a Sacramento ICE holding center following an incident involving an unmarked ICE vehicle.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alex%20Padilla",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Ky0MqG2UKGf6YMDXOci03AHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T21:23:34Z",
-      "first_seen": "2026-10-26T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "monday-night-football",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Monday Night Football",
-      "description": "Football fans are searching for how to watch tonight's Monday Night Football game featuring a matchup between the Dallas Cowboys and the Philadelphia Eagles.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Monday%20Night%20Football",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.7KZQQSXHKUt3dYzWTQKb8A&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T00:23:32Z",
-      "first_seen": "2026-10-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cheesecake-factory",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cheesecake Factory",
-      "description": "The Cheesecake Factory is trending after Treasury Secretary nominee Scott Bessent dined there and politicians traded jabs sparked by a remark from Barack Obama.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cheesecake%20Factory",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.r9BEXvGgbO920NLvhd67UwHaFc&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T00:23:32Z",
-      "first_seen": "2026-10-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cason",
-      "rank": 17,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "Cason",
-      "description": "OKC Thunder guard Cason Wallace is trending after news broke that he will require surgery for a torn labrum in his left shoulder.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cason",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.2vP0ijqsEm1x7AAkJCSZbA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T22:23:34Z",
-      "first_seen": "2026-10-26T22:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
+      "last_seen": "2026-10-27T01:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "olise",
-      "rank": 18,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Olise",
-      "description": "Michael Olise is trending after finishing 9th in the Ballon d'Or voting and securing a spot in the Bundesliga Fantasy Team of the Week for Bayern Munich.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Olise",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.96aYxxIdzrMn3XaoShVaUg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T23:23:34Z",
-      "first_seen": "2026-10-26T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "pat-mcafee",
-      "rank": 19,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-26T22:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-26T23:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Pat McAfee",
-      "description": "Pat McAfee is trending after publicly criticizing the University of Utah, stating he had a very uncomfortable experience and 'hates' the place following a College GameDay visit.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Pat%20McAfee",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.EqJlKV8v6EYa-6u1DWMDjQHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-26T22:23:34Z",
-      "first_seen": "2026-10-26T22:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dru-smith",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T00:23:32Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Dru Smith",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Dru%20Smith",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.l0w083YgdaoDMLZcRn7sAwHaFZ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T00:23:32Z",
-      "first_seen": "2026-10-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
