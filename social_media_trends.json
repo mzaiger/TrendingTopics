@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-27T13:25:22Z",
+  "updated": "2026-10-27T14:26:34Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,8 +10,8 @@
     {
       "id": "good-tuesday",
       "rank": 1,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-27T09:23:32Z",
@@ -32,12 +32,16 @@
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 1
         }
       ],
-      "rank_change": 1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Good Tuesday",
-      "description": "Social media users are discussing various Tuesday events, including fall weather, CD rates, and entertainment news.",
+      "description": "Weather forecasts show warmer, drier, or milder conditions across various regions, while financial reports highlight high-yield savings rates and legal updates draw attention.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Tuesday",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.nEWPsZyzP92-QPkC0u1N8QHaFs&pid=15.1",
@@ -45,45 +49,16 @@
       "started_trending": "2026-10-27T09:23:32Z",
       "first_seen": "2026-10-27T09:23:32Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "topic",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T13:23:33Z",
-          "r": 2
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#中国北京彻查上海叠纸",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23%E4%B8%AD%E5%9B%BD%E5%8C%97%E4%BA%AC%E5%BD%BB%E6%9F%A5%E4%B8%8A%E6%B5%B7%E5%8F%A0%E7%BA%B8",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.rz7wkz7rSPnOzhIQaJvtSAHaEo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T13:23:33Z",
-      "first_seen": "2026-10-27T13:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bladerunnerlovesppgscowdung",
-      "rank": 3,
+      "rank": 2,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -94,9 +69,13 @@
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": -1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "#BladeRunnerLovesPPGsCowDung",
       "description": "",
@@ -107,10 +86,43 @@
       "started_trending": "2026-10-27T12:23:35Z",
       "first_seen": "2026-10-27T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "topic",
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-27T13:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 3
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "#中国北京彻查上海叠纸",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23%E4%B8%AD%E5%9B%BD%E5%8C%97%E4%BA%AC%E5%BD%BB%E6%9F%A5%E4%B8%8A%E6%B5%B7%E5%8F%A0%E7%BA%B8",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.rz7wkz7rSPnOzhIQaJvtSAHaEo&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T13:23:33Z",
+      "first_seen": "2026-10-27T13:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -127,6 +139,10 @@
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 4
         }
       ],
       "rank_change": -1,
@@ -140,28 +156,32 @@
       "started_trending": "2026-10-27T12:23:35Z",
       "first_seen": "2026-10-27T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "taco-tuesday",
       "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Taco Tuesday",
-      "description": "Social media users are sharing dining spots, word game hints, and reacting to financial and political news on this Tuesday.",
+      "description": "Social media users are discussing Taco Tuesday alongside reports of dining spots, taco trucks, and financial markets reacting to a political ceasefire.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Taco%20Tuesday",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.aiv9vLSz2wXwBQqzbxVrmAHaJQ&pid=15.1",
@@ -169,10 +189,10 @@
       "started_trending": "2026-10-27T13:23:33Z",
       "first_seen": "2026-10-27T13:23:33Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -197,23 +217,27 @@
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 6
         }
       ],
       "rank_change": 4,
       "is_new": false,
-      "topic": "Noah Wyle",
-      "description": "Actor Noah Wyle is trending on social media after being named People magazine's 2026 Sexiest Man Alive.",
+      "topic": "noah wyle",
+      "description": "Actor Noah Wyle, star of \"The Pitt,\" is trending after being named People magazine's 2026 Sexiest Man Alive.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Noah%20Wyle",
+      "url": "https://twstalker.com/search/noah%20wyle",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.a6ubkB_m76p30gGYidKBBQHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-27T10:23:32Z",
       "first_seen": "2026-10-27T10:23:32Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -234,12 +258,16 @@
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 7
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "$SOFI",
-      "description": "SoFi stock is soaring on social media after the company reported strong third-quarter results and raised its full-year guidance.",
+      "description": "SoFi stock is soaring after the company reported a record third quarter with $1.4 billion in net revenue, raised its full-year guidance, and lifted its outlook.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24SOFI",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.YLt90tw+0ecXo1RhcmfwFQ&pid=15.1",
@@ -247,7 +275,44 @@
       "started_trending": "2026-10-27T11:23:33Z",
       "first_seen": "2026-10-27T11:23:33Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mao-zedong",
+      "rank": 8,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-27T12:23:35Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-27T13:23:33Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Mao Zedong",
+      "description": "Soccer star Kylian Mbappé has apologized and been dropped by Chinese sponsors after making an ill-judged comment involving a Mao Zedong meme.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mao%20Zedong",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.cQJwRqsw2YHflTnpsj1STAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T12:23:35Z",
+      "first_seen": "2026-10-27T12:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T14:23:35Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -255,77 +320,11 @@
       "extra": {}
     },
     {
-      "id": "backed-by-belief",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T13:23:33Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Backed By Belief",
-      "description": "The phrase is trending as social media users discuss recent sports team updates, political comments, and statements of self-belief.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Backed%20By%20Belief",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.CK8Yo5c-PV5F433szIHbOgHaEM&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T13:23:33Z",
-      "first_seen": "2026-10-27T13:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "eagles-y-cowboys",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T13:23:33Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Eagles y Cowboys",
-      "description": "Football fans on social media are discussing the Dallas Cowboys' 38-21 win over the Philadelphia Eagles and subsequent player criticism.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Eagles%20y%20Cowboys",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.As1Klecqs8ujeZgJxKmjjA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T13:23:33Z",
-      "first_seen": "2026-10-27T13:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "jay-z",
-      "rank": 10,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "rank": 9,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-10-27T07:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-27T08:23:32Z",
-          "r": 5
-        },
         {
           "t": "2026-10-27T09:23:32Z",
           "r": 7
@@ -345,12 +344,16 @@
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 9
         }
       ],
-      "rank_change": -3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Jay-Z",
-      "description": "Jay-Z is trending on social media after news broke that he will headline the 2027 Super Bowl half-time show.",
+      "description": "Jay-Z is trending after selecting himself to perform as the headliner for the 2027 Super Bowl halftime show.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jay-Z",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.tr-SjQjMP-2mrifMM0c62wHaIp&pid=15.1",
@@ -358,40 +361,36 @@
       "started_trending": "2026-10-27T02:23:35Z",
       "first_seen": "2026-10-27T02:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "sexiest-man-alive",
-      "rank": 11,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "tuesdayvibe",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-27T12:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-27T13:23:33Z",
-          "r": 11
+          "t": "2026-10-27T14:23:35Z",
+          "r": 10
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Sexiest Man Alive",
-      "description": "Social media users are reacting to the announcement of the newly crowned Sexiest Man Alive.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sexiest%20Man%20Alive",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.a6ubkB_m76p30gGYidKBBQHaE8&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#tuesdayvibe",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23tuesdayvibe",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.w0cgvph1FZv3ScUEbTcimwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T12:23:35Z",
-      "first_seen": "2026-10-27T12:23:35Z",
+      "started_trending": "2026-10-27T14:23:35Z",
+      "first_seen": "2026-10-27T14:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
+      "last_seen": "2026-10-27T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -400,7 +399,7 @@
     },
     {
       "id": "jonathan-bailey",
-      "rank": 12,
+      "rank": 11,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -415,12 +414,16 @@
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 11
         }
       ],
-      "rank_change": -7,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Jonathan Bailey",
-      "description": "Jonathan Bailey is generating buzz on social media following first-look images from his upcoming dark thriller with Natalie Portman and theatre news.",
+      "description": "Jonathan Bailey is making headlines as he films a new dark thriller with Natalie Portman and faces a delay for his \"Sunday in the Park With George\" revival.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jonathan%20Bailey",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.a+Ig91TVPTk47nfIoeeHCw&pid=15.1",
@@ -428,7 +431,44 @@
       "started_trending": "2026-10-27T11:23:33Z",
       "first_seen": "2026-10-27T11:23:33Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sexiest-man-alive",
+      "rank": 12,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-27T12:23:35Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-27T13:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Sexiest Man Alive",
+      "description": "Noah Wyle is trending heavily across social media after being officially named People magazine's 2026 Sexiest Man Alive.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sexiest%20Man%20Alive",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.a6ubkB_m76p30gGYidKBBQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T12:23:35Z",
+      "first_seen": "2026-10-27T12:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T14:23:35Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -448,12 +488,16 @@
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 13
         }
       ],
       "rank_change": -2,
       "is_new": false,
       "topic": "Shawn Hatosy",
-      "description": "Shawn Hatosy is trending on social media alongside discussions about television photos and the latest Sexiest Man Alive announcement.",
+      "description": "Fans are reacting strongly on social media following Noah Wyle's selection as People magazine's Sexiest Man Alive.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Shawn%20Hatosy",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.obKS9_NYUqbSIUWMzok74QHaLI&pid=15.1",
@@ -461,44 +505,7 @@
       "started_trending": "2026-10-27T12:23:35Z",
       "first_seen": "2026-10-27T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gmmtvnext",
-      "rank": 14,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-27T11:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-27T12:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-27T13:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "#GMMTVNEXT",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23GMMTVNEXT",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.atCHvWlREvNHBBID+59vfQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T11:23:33Z",
-      "first_seen": "2026-10-27T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
+      "last_seen": "2026-10-27T14:23:35Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -506,61 +513,28 @@
       "extra": {}
     },
     {
-      "id": "flamengo",
-      "rank": 15,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-27T12:23:35Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-27T13:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Flamengo",
-      "description": "Football fans on social media are discussing Flamengo's recent Brazilian Serie A matches, late penalties, and tournament results.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Flamengo",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.5p7LtkCPIR/m8Nd4cj0bsA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T12:23:35Z",
-      "first_seen": "2026-10-27T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "44-yoy",
-      "rank": 16,
+      "id": "rlusd",
+      "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-27T13:23:33Z",
-          "r": 16
+          "t": "2026-10-27T14:23:35Z",
+          "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "44% YoY",
-      "description": "The metric is trending as social media users highlight strong year-over-year earnings and profit growth for companies like PCAR and Hyperion Bank.",
+      "topic": "RLUSD",
+      "description": "Ripple has secured final OCC approval to launch a national trust bank behind its $2.6 billion RLUSD stablecoin and struck a deal with Robinhood.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/44%25%20YoY",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.z_rXDh2No0xtGMtteLZrGQHaD4&pid=15.1",
+      "url": "https://twstalker.com/search/RLUSD",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.PGo_vgKnACNkQrQU-G4kEgHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T13:23:33Z",
-      "first_seen": "2026-10-27T13:23:33Z",
+      "started_trending": "2026-10-27T14:23:35Z",
+      "first_seen": "2026-10-27T14:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
+      "last_seen": "2026-10-27T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -569,7 +543,7 @@
     },
     {
       "id": "the-pitt",
-      "rank": 17,
+      "rank": 15,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -580,12 +554,16 @@
         {
           "t": "2026-10-27T13:23:33Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 15
         }
       ],
-      "rank_change": -3,
+      "rank_change": -1,
       "is_new": false,
       "topic": "The Pitt",
-      "description": "The Pitt is generating online discussion as star Noah Wyle is named Sexiest Man Alive and the show returns to Pittsburgh for season three.",
+      "description": "The show \"The Pitt\" is trending as its star, Noah Wyle, is named Sexiest Man Alive and production updates bring attention back to Pittsburgh.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/The%20Pitt",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.zgEiqXo49H4bpvlnAvKOvgHaK9&pid=15.1",
@@ -593,7 +571,69 @@
       "started_trending": "2026-10-27T12:23:35Z",
       "first_seen": "2026-10-27T12:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "eagles-y-cowboys",
+      "rank": 16,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-27T13:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Eagles y Cowboys",
+      "description": "The Dallas Cowboys defeated the Philadelphia Eagles 38-21 on Monday Night Football, leaving the Eagles' defensive line bullied and players facing criticism.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Eagles%20y%20Cowboys",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.As1Klecqs8ujeZgJxKmjjA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T13:23:33Z",
+      "first_seen": "2026-10-27T13:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nasdaq-100",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T14:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Nasdaq-100",
+      "description": "The Nasdaq-100 is in the spotlight following Janus Henderson's launch of an onchain tokenized fund licensing the index, alongside General Motors announcing a move to Nasdaq.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Nasdaq-100",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.-B5Qrlxw6AOB9pdJ5KSCfgHaEl&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T14:23:35Z",
+      "first_seen": "2026-10-27T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -601,61 +641,61 @@
       "extra": {}
     },
     {
-      "id": "brasil-y-panam",
+      "id": "backed-by-belief",
       "rank": 18,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
-          "t": "2026-10-27T12:23:35Z",
-          "r": 10
+          "t": "2026-10-27T13:23:33Z",
+          "r": 8
         },
         {
-          "t": "2026-10-27T13:23:33Z",
+          "t": "2026-10-27T14:23:35Z",
           "r": 18
         }
       ],
-      "rank_change": -8,
+      "rank_change": -10,
       "is_new": false,
-      "topic": "Brasil y Panamá",
-      "description": "The provided material does not contain enough information to explain why this topic is currently trending on social media.",
+      "topic": "Backed By Belief",
+      "description": "The phrase appears in various contexts, including political fallout in Texas, athletic programs, and business updates from Organto Foods.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brasil%20y%20Panam%C3%A1",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.qubXT2BjtJTSTPTNBmB4iAAAAA&pid=15.1",
+      "url": "https://twstalker.com/search/Backed%20By%20Belief",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.CK8Yo5c-PV5F433szIHbOgHaEM&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T12:23:35Z",
-      "first_seen": "2026-10-27T12:23:35Z",
+      "started_trending": "2026-10-27T13:23:33Z",
+      "first_seen": "2026-10-27T13:23:33Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-27T14:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "tuesdayvibes",
+      "id": "macbook-pro",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-27T13:23:33Z",
+          "t": "2026-10-27T14:23:35Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#TuesdayVibes",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23TuesdayVibes",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Ycis1elgPnSWuqMIA1HKiAHaNK&pid=15.1",
+      "topic": "MacBook Pro",
+      "description": "Apple has officially announced the new 14-inch MacBook Pro featuring the M6 chip, boasting up to a 24-hour battery life and a November release.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/MacBook%20Pro",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.UICIuSASLtaQYsW+tUCURQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T13:23:33Z",
-      "first_seen": "2026-10-27T13:23:33Z",
+      "started_trending": "2026-10-27T14:23:35Z",
+      "first_seen": "2026-10-27T14:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
+      "last_seen": "2026-10-27T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -663,32 +703,28 @@
       "extra": {}
     },
     {
-      "id": "mao-zedong",
+      "id": "unite",
       "rank": 20,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-27T12:23:35Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-27T13:23:33Z",
+          "t": "2026-10-27T14:23:35Z",
           "r": 20
         }
       ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Mao Zedong",
-      "description": "Soccer star Kylian Mbappe is facing backlash and being dropped by Chinese sponsors on social media over an ill-judged Mao Zedong meme and dictator joke.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Unite",
+      "description": "Pokémon Unite is trending after announcing that the game will be taken offline and end service in March 2027, with in-game sales suspended immediately.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mao%20Zedong",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.cQJwRqsw2YHflTnpsj1STAHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Unite",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Lu+8tILjtQ0UWLYXbCjzEQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T12:23:35Z",
-      "first_seen": "2026-10-27T12:23:35Z",
+      "started_trending": "2026-10-27T14:23:35Z",
+      "first_seen": "2026-10-27T14:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T13:23:33Z",
+      "last_seen": "2026-10-27T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
