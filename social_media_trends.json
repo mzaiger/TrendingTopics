@@ -1,47 +1,47 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-27T20:25:07Z",
+  "updated": "2026-10-27T21:25:34Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "nelson",
+      "id": "colts",
       "rank": 1,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
-          "t": "2026-10-27T17:23:37Z",
-          "r": 1
-        },
-        {
           "t": "2026-10-27T18:23:37Z",
-          "r": 1
+          "r": 2
         },
         {
           "t": "2026-10-27T19:23:36Z",
-          "r": 1
+          "r": 2
         },
         {
           "t": "2026-10-27T20:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-27T21:23:35Z",
           "r": 1
         }
       ],
-      "rank_change": 0,
+      "rank_change": 1,
       "is_new": false,
-      "topic": "Nelson",
-      "description": "Quenton Nelson is trending as the Pro Bowl guard is traded from the Colts to the Seahawks, pending a physical.",
+      "topic": "Colts",
+      "description": "The Indianapolis Colts are trending as they trade defensive end DeForest Buckner to the San Francisco 49ers and make several roster adjustments.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nelson",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.b7c3A3NbWYJpokrtpUDbdw&pid=15.1",
+      "url": "https://twstalker.com/search/Colts",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Z2UsDA2pCA-RCJrf7DJDwAHaH_&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T17:23:37Z",
-      "first_seen": "2026-10-27T17:23:37Z",
+      "started_trending": "2026-10-27T18:23:37Z",
+      "first_seen": "2026-10-27T18:23:37Z",
       "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
+      "last_seen": "2026-10-27T21:23:35Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -49,8 +49,53 @@
       "extra": {}
     },
     {
-      "id": "drenchgang",
+      "id": "buckner",
       "rank": 2,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-27T17:23:37Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-27T18:23:37Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-27T19:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-27T20:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Buckner",
+      "description": "DeForest Buckner is trending following reports and sources confirming that the Colts are trading him to the San Francisco 49ers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Buckner",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.ueWdpazKPwNAaL7Pgf2ACQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T17:23:37Z",
+      "first_seen": "2026-10-27T17:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "drenchgang",
+      "rank": 3,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -65,9 +110,13 @@
         {
           "t": "2026-10-27T20:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": 13,
+      "rank_change": 12,
       "is_new": false,
       "topic": "#drenchgang",
       "description": "",
@@ -78,192 +127,36 @@
       "started_trending": "2026-10-27T18:23:37Z",
       "first_seen": "2026-10-27T18:23:37Z",
       "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "colts",
-      "rank": 3,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-27T18:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-27T19:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 3
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Colts",
-      "description": "The Colts are trending following a major trade sending star guard Quenton Nelson to the Seattle Seahawks for draft picks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Colts",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Z2UsDA2pCA-RCJrf7DJDwAHaH_&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T18:23:37Z",
-      "first_seen": "2026-10-27T18:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "buckner",
+      "id": "ryan-poles",
       "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-27T17:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-27T18:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-27T19:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Buckner",
-      "description": "DeForest Buckner is generating trade rumors and drawing interest from teams like the 49ers and Bears after the Colts traded Quenton Nelson.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Buckner",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.ueWdpazKPwNAaL7Pgf2ACQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T17:23:37Z",
-      "first_seen": "2026-10-27T17:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "zabel",
-      "rank": 5,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-27T17:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-27T18:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-27T19:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 5
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Zabel",
-      "description": "Zabel is trending as Seahawks fans discuss their young offensive lineman potentially switching positions following the team's blockbuster trade for Quenton Nelson.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Zabel",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.b7c3A3NbWYJpokrtpUDbdw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T17:23:37Z",
-      "first_seen": "2026-10-27T17:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mike-waltz",
-      "rank": 6,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-27T18:23:37Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-27T19:23:36Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 13,
-      "is_new": false,
-      "topic": "Mike Waltz",
-      "description": "Mike Waltz is trending after getting into a heated shouting match with the Cuban foreign minister on the UN floor during a debate over the economic embargo.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mike%20Waltz",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.OC4x3y61FvTVXx1JFUerdQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T18:23:37Z",
-      "first_seen": "2026-10-27T18:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "posada",
-      "rank": 7,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 7
+          "t": "2026-10-27T21:23:35Z",
+          "r": 4
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Posada",
-      "description": "Jorge Posada is trending after revealing in a shocking interview that he does not feel welcome around the New York Yankees anymore.",
+      "topic": "Ryan Poles",
+      "description": "Chicago Bears general manager Ryan Poles is trending as trade deadline discussions heat up, alongside resurfaced player endorsements and roster moves.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Posada",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.4wPIS-AM_Hf3i3LVxo0FZgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T20:23:32Z",
-      "first_seen": "2026-10-27T20:23:32Z",
+      "url": "https://twstalker.com/search/Ryan%20Poles",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
+      "last_seen": "2026-10-27T21:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -271,28 +164,28 @@
       "extra": {}
     },
     {
-      "id": "cuban",
-      "rank": 8,
+      "id": "cuba",
+      "rank": 5,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 8
+          "t": "2026-10-27T21:23:35Z",
+          "r": 5
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Cuban",
-      "description": "Cuban and U.S. officials are trending after engaging in a heated shouting match on the United Nations General Assembly floor during a debate over the economic embargo.",
+      "topic": "Cuba",
+      "description": "Cuba is trending after U.S. and Cuban officials engaged in a heated shouting match on the floor of the United Nations General Assembly.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cuban",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.AxeJRGyQINvU2j04ZURDOQ&pid=15.1",
+      "url": "https://twstalker.com/search/Cuba",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.9PWusNYDgDb5ofpIbt8RtAHaFd&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T20:23:32Z",
-      "first_seen": "2026-10-27T20:23:32Z",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
+      "last_seen": "2026-10-27T21:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -301,7 +194,7 @@
     },
     {
       "id": "josh-downs",
-      "rank": 9,
+      "rank": 6,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -320,12 +213,16 @@
         {
           "t": "2026-10-27T20:23:32Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 6
         }
       ],
-      "rank_change": 7,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Josh Downs",
-      "description": "Josh Downs is trending as a potential trade candidate as the NFL trade deadline approaches amidst a possible Colts fire sale.",
+      "description": "Josh Downs is trending as the NFL trade deadline approaches, with analysts discussing him as a potential trade candidate amidst a Colts fire sale.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Josh%20Downs",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.2zjs8HbKv1EMOC3nXcBYhQHaE7&pid=15.1",
@@ -333,296 +230,16 @@
       "started_trending": "2026-10-27T17:23:37Z",
       "first_seen": "2026-10-27T17:23:37Z",
       "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "genie-4",
-      "rank": 10,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-27T17:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-27T18:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-27T19:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Genie 4",
-      "description": "Google DeepMind is trending with the announcement of Genie 4, a new world model featuring real-time interactive simulation, audio, and more realistic physics.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Genie%204",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.cS1J4V8zvvwwBwLcxjukewHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T17:23:37Z",
-      "first_seen": "2026-10-27T17:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bluewavein7days",
-      "rank": 11,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-27T17:23:37Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-27T18:23:37Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-27T19:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "#BlueWaveIn7Days",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23BlueWaveIn7Days",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.fTEiVpE0V661pqSCxv6ZHQHaEv&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T17:23:37Z",
-      "first_seen": "2026-10-27T17:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dune",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Dune",
-      "description": "Dune is trending following the release of the final trailer for Dune: Part Three, which reveals key changes from Frank Herbert's books.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dune",
-      "image_url": "https://ts4.explicit.bing.net/th?id=OIP.ep5FVqAdiOpxF01dg62qzwHaLK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T20:23:32Z",
-      "first_seen": "2026-10-27T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "210-gb",
-      "rank": 13,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-10-27T18:23:37Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-27T19:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "210 GB",
-      "description": "Grand Theft Auto VI is trending as reports indicate the game will require a massive 210 GB file size on the PlayStation 5.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/210%20GB",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.FLOKoByEcrocL7RgNMBtxwHaEp&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T18:23:37Z",
-      "first_seen": "2026-10-27T18:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "artificial-intelligence",
-      "rank": 14,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-27T19:23:36Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Artificial Intelligence",
-      "description": "Artificial intelligence is trending after Donald Trump announced plans to ban the term in a push for super intelligence.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Artificial%20Intelligence",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.rLkxBFjMXN6YJBryJ-FM2wHaEO&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T19:23:36Z",
-      "first_seen": "2026-10-27T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "muggsy",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Muggsy",
-      "description": "Muggsy Bogues is trending as the Charlotte Hornets announced plans to retire his No. 1 jersey in February.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Muggsy",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.i4YkMS6Ka3aSSqXr3H6jYwHaKs&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T20:23:32Z",
-      "first_seen": "2026-10-27T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bradford",
-      "rank": 16,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-10-27T17:23:37Z",
-          "r": 18
-        },
-        {
-          "t": "2026-10-27T18:23:37Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-27T19:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Bradford",
-      "description": "Bradford is trending in sports discussions as fans debate whether the Seahawks should prioritize extending offensive lineman Anthony Bradford.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bradford",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.wNtj0UcAGumxbyrcVYolpAAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T17:23:37Z",
-      "first_seen": "2026-10-27T17:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "swalwell",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Swalwell",
-      "description": "Eric Swalwell is trending following an FBI raid on a Beverly Hills billionaire's mansion connected to an investigation involving the former congressman.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Swalwell",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.qmM+KmbiNqB9g3QyEl1JkA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T20:23:32Z",
-      "first_seen": "2026-10-27T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jonathan-taylor",
-      "rank": 18,
+      "rank": 7,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -641,12 +258,16 @@
         {
           "t": "2026-10-27T20:23:32Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": -10,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Jonathan Taylor",
-      "description": "Jonathan Taylor is generating trade rumors ahead of the NFL deadline, with teams like the Vikings, Broncos, and Seahawks reportedly in the mix.",
+      "description": "Jonathan Taylor is trending due to swirling trade rumors regarding the Colts running back and conflicting reports about the team's willingness to deal him.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jonathan%20Taylor",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.NXNWvewQL6fAHztO9uegUA&pid=15.1",
@@ -654,36 +275,36 @@
       "started_trending": "2026-10-27T17:23:37Z",
       "first_seen": "2026-10-27T17:23:37Z",
       "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "la-granja-capataz",
-      "rank": 19,
+      "id": "indy",
+      "rank": 8,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-27T20:23:32Z",
-          "r": 19
+          "t": "2026-10-27T21:23:35Z",
+          "r": 8
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "La Granja Capataz",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/La%20Granja%20Capataz",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.BzR1BWBS2NUirewnynGxOgHaEL&pid=15.1",
+      "topic": "Indy",
+      "description": "Indy is trending following local police investigating a south side bank robbery, alongside ongoing sports rumors about the Indianapolis Colts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Indy",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.8k5YCaONBE-mWIoImg-rJgHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T20:23:32Z",
-      "first_seen": "2026-10-27T20:23:32Z",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
+      "last_seen": "2026-10-27T21:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -691,28 +312,379 @@
       "extra": {}
     },
     {
-      "id": "zverev",
+      "id": "wowforever",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#WoWForever",
+      "description": "WoW Forever is trending as players can now reserve their character names and prepare for the upcoming launch.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WoWForever",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.zlBAClAVUu+VecFiDCRc5Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mike-waltz",
+      "rank": 10,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-27T18:23:37Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-27T19:23:36Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-27T20:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Mike Waltz",
+      "description": "Mike Waltz is trending following a heated shouting match with a Cuban delegate on the floor of the United Nations.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mike%20Waltz",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.OC4x3y61FvTVXx1JFUerdQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T18:23:37Z",
+      "first_seen": "2026-10-27T18:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "zabel",
+      "rank": 11,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-10-27T17:23:37Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-27T18:23:37Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-27T19:23:36Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-27T20:23:32Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Zabel",
+      "description": "Zabel is trending as internet users discuss political candidates, memorials, and player position changes following recent sports trades.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Zabel",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.b7c3A3NbWYJpokrtpUDbdw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T17:23:37Z",
+      "first_seen": "2026-10-27T17:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mack",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mack",
+      "description": "Mack is trending after college athlete Cardae Mack won freshman of the week honors, alongside other regional news and events.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mack",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nfc-west",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "NFC West",
+      "description": "The NFC West is heating up on social media as blockbuster divisional trades, including the Seahawks acquiring Quenton Nelson, shake up power rankings.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/NFC%20West",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.42HHpzQRDi7qP3bZj_SS9AHaEM&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "posada",
+      "rank": 14,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-27T20:23:32Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Posada",
+      "description": "Jorge Posada is trending after revealing in an interview that he does not feel welcome around the New York Yankees organization anymore.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Posada",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.4wPIS-AM_Hf3i3LVxo0FZgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T20:23:32Z",
+      "first_seen": "2026-10-27T20:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "netanyahu",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Netanyahu",
+      "description": "Benjamin Netanyahu is trending as exit polls show no clear winner in a pivotal Israeli election, leaving his political fate hanging in the balance.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Netanyahu",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.8m1b9teqVH14+gUMtUGMMQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hood",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "$HOOD",
+      "description": "Robinhood ($HOOD) is trending after releasing its latest earnings report, which showed slumping crypto revenue that still managed to top diminished forecasts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%24HOOD",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Icph3owQD54nQMkTZD8VhQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lynch",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lynch",
+      "description": "John Lynch is trending as the 49ers general manager expresses strong backing for kicker Eddy Piñeiro amidst potential roster change discussions.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Lynch",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Ayunw6lFbZXj5Yt70VVq9wHaK-&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "baseless",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Baseless",
+      "description": "Baseless claims are trending following news reports about legal filings, political accusations of election fraud, and court disputes.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Baseless",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.koY1mzSiYfVftnrPckzNJw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bibi",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-27T21:23:35Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bibi",
+      "description": "Bibi is trending as Israelis turn out in record numbers for a pivotal election that serves as a referendum on Prime Minister Benjamin Netanyahu.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bibi",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.8m1b9teqVH14+gUMtUGMMQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-27T21:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "arabs",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-27T20:23:32Z",
+          "t": "2026-10-27T21:23:35Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Zverev",
-      "description": "Alexander Zverev is trending as tennis fans search for live streams and coverage of his match against Martin Landaluce at the Vienna Open.",
+      "topic": "Arabs",
+      "description": "Arabs are trending on social media following widespread backlash against Robert F. Kennedy Jr. for making false and bigoted remarks about science and literature production.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Zverev",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.fTZn8WGaO-SQfa8EjzYLNQHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Arabs",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.BNPyuF1UTvudBzVFZmD9UQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-27T20:23:32Z",
-      "first_seen": "2026-10-27T20:23:32Z",
+      "started_trending": "2026-10-27T21:23:35Z",
+      "first_seen": "2026-10-27T21:23:35Z",
       "published": null,
-      "last_seen": "2026-10-27T20:23:32Z",
+      "last_seen": "2026-10-27T21:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
