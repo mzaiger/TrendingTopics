@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-28T19:27:11Z",
+  "updated": "2026-10-28T20:24:59Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Ernie",
-      "description": "Ernie Johnson announced in a video that this will be his final season hosting 'Inside the NBA' and updated his retirement plans.",
+      "description": "Ernie Johnson announced that the 2026-27 season will be his final year as host of 'Inside the NBA'.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ernie",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.L1j7YKh0eNQG-nPlkn88fwHaE8&pid=15.1",
@@ -33,16 +37,53 @@
       "started_trending": "2026-10-28T18:23:32Z",
       "first_seen": "2026-10-28T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dan-sullivan",
+      "rank": 2,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-28T18:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-28T19:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Dan Sullivan",
+      "description": "Reports have revealed that Democratic campaign aides and officials secretly helped recruit a second Dan Sullivan as a spoiler in the Alaska Senate race.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dan%20Sullivan",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.h00bR17l2hg3mCxE1q6HCA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T18:23:32Z",
+      "first_seen": "2026-10-28T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "inside-the-nba",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -53,12 +94,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": 3,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Inside the NBA",
-      "description": "Ernie Johnson announced his upcoming final season hosting 'Inside the NBA', while Draymond Green opened up about potentially replacing Charles Barkley on the show.",
+      "description": "The show is making headlines after host Ernie Johnson announced that he will step away from 'Inside the NBA' after the 2026-27 season.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Inside%20the%20NBA",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.0p6sets5z7jQU2wb/2jKDg&pid=15.1",
@@ -66,16 +111,16 @@
       "started_trending": "2026-10-28T18:23:32Z",
       "first_seen": "2026-10-28T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dolores-huerta",
-      "rank": 3,
+      "rank": 4,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -94,12 +139,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 4
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Dolores Huerta",
-      "description": "Dolores Huerta, the influential labor leader, feminist, and civil rights icon who co-founded the United Farm Workers with Cesar Chavez, has died at the age of 96.",
+      "description": "Dolores Huerta, the influential civil rights icon, feminist, and labor leader who co-founded the United Farm Workers with Cesar Chavez, has died at 96.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dolores%20Huerta",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.KsOQGLrhRxHeEZZncM6AJQ&pid=15.1",
@@ -107,49 +156,53 @@
       "started_trending": "2026-10-28T16:23:34Z",
       "first_seen": "2026-10-28T16:23:34Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "dan-sullivan",
-      "rank": 4,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "id": "peltola",
+      "rank": 5,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-28T18:23:32Z",
-          "r": 4
+          "r": 15
         },
         {
           "t": "2026-10-28T19:23:35Z",
-          "r": 4
+          "r": 9
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 5
         }
       ],
-      "rank_change": 0,
+      "rank_change": 10,
       "is_new": false,
-      "topic": "Dan Sullivan",
-      "description": "Reports allege that Democratic campaign aides and officials helped recruit a second candidate named Dan Sullivan to stack Alaska's midterm ballot, though Peltola has denied involvement.",
+      "topic": "Peltola",
+      "description": "Democratic campaign aides and officials reportedly helped recruit a second Dan Sullivan to serve as a spoiler candidate in the Alaska Senate race.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dan%20Sullivan",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.h00bR17l2hg3mCxE1q6HCA&pid=15.1",
+      "url": "https://twstalker.com/search/Peltola",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.zOo3dJs+GPY6n7rb6EeP6w&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-28T18:23:32Z",
       "first_seen": "2026-10-28T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gemini-4-carbon",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -164,12 +217,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 6
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Gemini 4 Carbon",
-      "description": "Google announced its new Gemini 4 Carbon frontier AI model, featuring a cybersecurity focus and significant gains across coding and agentic tasks.",
+      "description": "Google has announced Gemini 4 Carbon, its latest frontier artificial intelligence model focused on cybersecurity and coding tasks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Gemini%204%20Carbon",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.s9Vc-P9Y7IjsMGUUkcVDQwHaEK&pid=15.1",
@@ -177,16 +234,45 @@
       "started_trending": "2026-10-28T17:23:34Z",
       "first_seen": "2026-10-28T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "msft",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "$MSFT",
+      "description": "Microsoft is trending as it prepares to post its quarterly earnings amid recent job cuts and cash-flow tests.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%24MSFT",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.0Eb1VUFSOSpcwYlahbfHLAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T20:23:35Z",
+      "first_seen": "2026-10-28T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "macbook-pro",
-      "rank": 6,
+      "rank": 8,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -197,12 +283,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 8
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "MacBook Pro",
-      "description": "Apple has unveiled its first MacBook Pro featuring an OLED touchscreen, bringing touch to the Mac and resurrecting the glowing Apple logo.",
+      "description": "Apple has unveiled its first-ever MacBook Pro featuring an OLED touchscreen and a thinner, lighter design.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/MacBook%20Pro",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.DD-urvOCjVzDRqsH1b69-QHaEH&pid=15.1",
@@ -210,49 +300,16 @@
       "started_trending": "2026-10-28T18:23:32Z",
       "first_seen": "2026-10-28T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "warsh",
-      "rank": 7,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-10-28T18:23:32Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-28T19:23:35Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 13,
-      "is_new": false,
-      "topic": "Warsh",
-      "description": "Fed Chair Warsh held a live briefing following the central bank's decision to keep interest rates steady while navigating inflation and growth challenges.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Warsh",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.NeU1Dcf1o9zgf0iKn22Wfw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T18:23:32Z",
-      "first_seen": "2026-10-28T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "the-fed",
-      "rank": 8,
+      "rank": 9,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -263,12 +320,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 9
         }
       ],
-      "rank_change": 6,
+      "rank_change": 5,
       "is_new": false,
       "topic": "The Fed",
-      "description": "The Federal Reserve held interest rates steady despite stubborn inflation, leading Fed Chair Warsh to hold a press briefing on the decision.",
+      "description": "The Federal Reserve decided to leave interest rates unchanged despite stubborn inflation as it awaits more economic data ahead of the midterms.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/The%20Fed",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.2kkOkmgttEEmUo1-S_-kKQHaFf&pid=15.1",
@@ -276,43 +337,10 @@
       "started_trending": "2026-10-28T18:23:32Z",
       "first_seen": "2026-10-28T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "peltola",
-      "rank": 9,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-28T18:23:32Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-28T19:23:35Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Peltola",
-      "description": "Peltola's campaign aides are facing scrutiny over a reported secret Democratic effort to recruit a second Dan Sullivan for the Alaska Senate race, though Peltola has denied the allegations.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Peltola",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.zOo3dJs+GPY6n7rb6EeP6w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T18:23:32Z",
-      "first_seen": "2026-10-28T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -333,12 +361,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 10
         }
       ],
       "rank_change": 3,
       "is_new": false,
       "topic": "Cam Higby",
-      "description": "Conservative influencers James O'Keefe and Cam Higby have been charged with felony voter fraud and identity theft in Minnesota following a hidden-camera operation at the polls.",
+      "description": "Conservative influencer Cam Higby and fellow right-wing provocateur James O'Keefe are facing election-related and voter fraud charges in Minnesota following a hidden-camera operation.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cam%20Higby",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.mLujkDIVEV3i8tGx-uGjbQHaIo&pid=15.1",
@@ -346,7 +378,44 @@
       "started_trending": "2026-10-28T17:23:34Z",
       "first_seen": "2026-10-28T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "warsh",
+      "rank": 11,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-28T18:23:32Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-28T19:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Warsh",
+      "description": "Fed Chair Warsh held a briefing following the central bank's decision to hold interest rates steady and announced changes to the FOMC meeting schedule.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Warsh",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.NeU1Dcf1o9zgf0iKn22Wfw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T18:23:32Z",
+      "first_seen": "2026-10-28T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-28T20:23:35Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -354,19 +423,44 @@
       "extra": {}
     },
     {
+      "id": "estevao",
+      "rank": 12,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-28T19:23:35Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Estevao",
+      "description": "Chelsea fans and pundits are discussing manager Xabi Alonso's lineup decisions regarding Brazilian wonderkid Estevao Willian ahead of upcoming matches.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Estevao",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.vVTPXvrFu-yXYKo5GNtqIwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T19:23:35Z",
+      "first_seen": "2026-10-28T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "fomc",
-      "rank": 11,
+      "rank": 13,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-10-28T13:23:40Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 5
-        },
         {
           "t": "2026-10-28T15:23:35Z",
           "r": 4
@@ -386,12 +480,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 13
         }
       ],
-      "rank_change": -7,
+      "rank_change": -9,
       "is_new": false,
       "topic": "FOMC",
-      "description": "The Federal Reserve's FOMC is holding interest rate meetings and decisions ahead of the upcoming U.S. midterm elections amidst unavoidable political scrutiny.",
+      "description": "The FOMC voted to leave interest rates unchanged ahead of the midterms, with the Fed announcing that its meeting schedule will change starting next fall.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/FOMC",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.9Noj02+IP1MhwNARiBxv5A&pid=15.1",
@@ -399,16 +497,78 @@
       "started_trending": "2026-10-28T13:23:40Z",
       "first_seen": "2026-10-28T13:23:40Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "orcl",
+      "rank": 14,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-28T19:23:35Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "$ORCL",
+      "description": "Oracle shares jumped after the company provided strong long-term guidance and revenue targets during its analyst and investor day.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%24ORCL",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.vXIAZ4zCPhcP2sJk7Gdnig&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T19:23:35Z",
+      "first_seen": "2026-10-28T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "new-york-times",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "New York Times",
+      "description": "The New York Times is trending due to recent investigative reports and articles, including coverage of an Alaska Senate race effort and the death of Dolores Huerta.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/New%20York%20Times",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.FDY1CYEFPUmBFaeTgpr4fAHaHC&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T20:23:35Z",
+      "first_seen": "2026-10-28T20:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "argon",
-      "rank": 12,
+      "rank": 16,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -419,12 +579,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 16
         }
       ],
-      "rank_change": -3,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Argon",
-      "description": "Mentions of Gemini 4 Argon are trending alongside Google's new AI model announcements and discussions of advanced task-solving capabilities.",
+      "description": "Google DeepMind released the Gemini 4 Carbon AI model just two weeks after introducing Argon, taking the top spot on artificial intelligence benchmarks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Argon",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.htSvDJ2g85X4z9bvlJa2AwHaHa&pid=15.1",
@@ -432,16 +596,16 @@
       "started_trending": "2026-10-28T18:23:32Z",
       "first_seen": "2026-10-28T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "selena",
-      "rank": 13,
+      "rank": 17,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -456,9 +620,13 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 17
         }
       ],
-      "rank_change": -10,
+      "rank_change": -14,
       "is_new": false,
       "topic": "Selena",
       "description": "Selena Gomez and Demi Lovato are trending after reuniting for a nostalgic Rare Beauty campaign celebrating nearly 25 years of friendship.",
@@ -469,56 +637,19 @@
       "started_trending": "2026-10-28T17:23:34Z",
       "first_seen": "2026-10-28T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "alaska",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-28T19:23:35Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Alaska",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Alaska",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.QJjzA6j56bpklYO5JudAAgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T19:23:35Z",
-      "first_seen": "2026-10-28T19:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "justin-tucker",
-      "rank": 15,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "rank": 18,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-10-28T13:23:40Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 1
-        },
         {
           "t": "2026-10-28T15:23:35Z",
           "r": 1
@@ -538,12 +669,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 18
         }
       ],
-      "rank_change": -14,
+      "rank_change": -16,
       "is_new": false,
       "topic": "Justin Tucker",
-      "description": "The Chiefs have reportedly signed veteran kicker Justin Tucker to their practice squad following struggles and missed field goals by Harrison Butker.",
+      "description": "The Kansas City Chiefs signed kicker Justin Tucker to their practice squad following previous sexual misconduct allegations and struggles by Harrison Butker.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Justin%20Tucker",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.MVGRm4jexIBHd+zElHmEmg&pid=15.1",
@@ -551,16 +686,16 @@
       "started_trending": "2026-10-28T13:23:40Z",
       "first_seen": "2026-10-28T13:23:40Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-28T20:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lisa-cook",
-      "rank": 16,
+      "rank": 19,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -571,12 +706,16 @@
         {
           "t": "2026-10-28T19:23:35Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-28T20:23:35Z",
+          "r": 19
         }
       ],
-      "rank_change": -3,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Lisa Cook",
-      "description": "Federal Reserve Governor Lisa Cook dissented as the central bank held interest rates on hold, amid Trump's ongoing push to target and fire her.",
+      "description": "Federal Reserve Governor Lisa Cook dissented as the central bank held interest rates steady, amid a looming push by Donald Trump to remove her.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Lisa%20Cook",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.I2XLqqEHtBB+uTNYSHJWvw&pid=15.1",
@@ -584,102 +723,7 @@
       "started_trending": "2026-10-28T18:23:32Z",
       "first_seen": "2026-10-28T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "estevao",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-28T19:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Estevao",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Estevao",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.vVTPXvrFu-yXYKo5GNtqIwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T19:23:35Z",
-      "first_seen": "2026-10-28T19:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "orcl",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-28T19:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "$ORCL",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%24ORCL",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.vXIAZ4zCPhcP2sJk7Gdnig&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T19:23:35Z",
-      "first_seen": "2026-10-28T19:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "spooktacular26",
-      "rank": 19,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-28T17:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-28T18:23:32Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-28T19:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "#Spooktacular26",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23Spooktacular26",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP._yZQjK47hgTtn7y4voS0PAHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T17:23:34Z",
-      "first_seen": "2026-10-28T17:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
+      "last_seen": "2026-10-28T20:23:35Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -687,28 +731,28 @@
       "extra": {}
     },
     {
-      "id": "karty",
+      "id": "googl",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-28T19:23:35Z",
+          "t": "2026-10-28T20:23:35Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Karty",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Karty",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.vVhaahCueNaPKoul8bV-LwHaEK&pid=15.1",
+      "topic": "$GOOGL",
+      "description": "Alphabet is trending on social media as investors look for signs of strength in the shaky artificial intelligence trade ahead of its third-quarter earnings report.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%24GOOGL",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP._UvDHP9mLc8AZ3E2G1CM1wHaBz&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T19:23:35Z",
-      "first_seen": "2026-10-28T19:23:35Z",
+      "started_trending": "2026-10-28T20:23:35Z",
+      "first_seen": "2026-10-28T20:23:35Z",
       "published": null,
-      "last_seen": "2026-10-28T19:23:35Z",
+      "last_seen": "2026-10-28T20:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
