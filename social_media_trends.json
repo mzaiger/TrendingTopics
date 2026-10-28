@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-28T14:25:32Z",
+  "updated": "2026-10-28T15:25:06Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-28T14:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Justin Tucker",
-      "description": "The Kansas City Chiefs have reportedly agreed to sign kicker Justin Tucker to their practice squad amid struggles from Harrison Butker.",
+      "description": "The Kansas City Chiefs are reportedly signing former Ravens kicker Justin Tucker to their practice squad following recent struggles by Harrison Butker.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Justin%20Tucker",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.MVGRm4jexIBHd+zElHmEmg&pid=15.1",
@@ -33,16 +37,49 @@
       "started_trending": "2026-10-28T13:23:40Z",
       "first_seen": "2026-10-28T13:23:40Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "butker",
+      "rank": 2,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-28T14:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Butker",
+      "description": "Harrison Butker is facing ongoing kicking struggles, including missing two field goals in Week 7, leading to reports that the Chiefs are signing Justin Tucker.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Butker",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.zjsu67LVZLxfjNfmb8cqJA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T14:23:33Z",
+      "first_seen": "2026-10-28T14:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "good-wednesday",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -65,12 +102,16 @@
         {
           "t": "2026-10-28T14:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Good Wednesday",
-      "description": "Social media users are discussing regional weather patterns, including warm stretches, rain chances, and cool temperatures on Wednesday.",
+      "description": "Social media users are sharing local weather forecasts, newsletters, and daily positive stories as a warm stretch continues across parts of the country.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Wednesday",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP._ctps41BR2452wImn8J0AwHaEK&pid=15.1",
@@ -78,16 +119,53 @@
       "started_trending": "2026-10-28T10:23:38Z",
       "first_seen": "2026-10-28T10:23:38Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fomc",
+      "rank": 4,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-10-28T13:23:40Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-28T14:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "FOMC",
+      "description": "Investors and market watchers are closely tracking the upcoming Federal Reserve FOMC rate decision, upcoming tech earnings, and political factors ahead of the midterms.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/FOMC",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.9Noj02+IP1MhwNARiBxv5A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T13:23:40Z",
+      "first_seen": "2026-10-28T13:23:40Z",
+      "published": null,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hump-day",
-      "rank": 3,
+      "rank": 5,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -106,12 +184,16 @@
         {
           "t": "2026-10-28T14:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 5
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Hump Day",
-      "description": "Social media users are sharing Wednesday updates, discussing mid-week weather conditions, and planning for upcoming Halloween weekend events.",
+      "description": "Users are discussing mid-week updates, morning weather conditions, and travel warnings as people prepare for Halloween weekend storms and events.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hump%20Day",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.Q6ArMbJv4MpJ0HQkD4eRyQHaHa&pid=15.1",
@@ -119,36 +201,69 @@
       "started_trending": "2026-10-28T11:23:36Z",
       "first_seen": "2026-10-28T11:23:36Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "butker",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "toledo",
+      "rank": 6,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-28T14:23:33Z",
-          "r": 4
+          "r": 7
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Butker",
-      "description": "Kansas City Chiefs kicker Harrison Butker is drawing social media attention following missed field goals and subsequent reports that the team is signing Justin Tucker.",
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Toledo",
+      "description": "Social media is reacting to a tragic high-speed train collision in Toledo, Spain, which has left dozens dead and prompted the postponement of soccer matches.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Butker",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.zjsu67LVZLxfjNfmb8cqJA&pid=15.1",
+      "url": "https://twstalker.com/search/Toledo",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.PHq7xtTUAcxAurBIgFBQAwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-28T14:23:33Z",
       "first_seen": "2026-10-28T14:23:33Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cardcrush",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#CARDCRUSH",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23CARDCRUSH",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.E5281VeQ8GJJMEqzAWLViAHaDw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T15:23:35Z",
+      "first_seen": "2026-10-28T15:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-28T15:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -156,41 +271,74 @@
       "extra": {}
     },
     {
-      "id": "fomc",
-      "rank": 5,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "id": "nationalfirstrespondersday",
+      "rank": 8,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
-          "t": "2026-10-28T13:23:40Z",
-          "r": 12
+          "t": "2026-10-28T14:23:33Z",
+          "r": 9
         },
         {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 5
+          "t": "2026-10-28T15:23:35Z",
+          "r": 8
         }
       ],
-      "rank_change": 7,
+      "rank_change": 1,
       "is_new": false,
-      "topic": "FOMC",
-      "description": "Financial analysts and social media users are discussing the Federal Open Market Committee as the U.S. Fed is expected to hold interest rates steady ahead of midterm elections.",
+      "topic": "#NationalFirstRespondersDay",
+      "description": "People across social media are observing National First Responders Day by thanking police, firefighters, and emergency personnel for saving lives.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/FOMC",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.9Noj02+IP1MhwNARiBxv5A&pid=15.1",
+      "url": "https://twstalker.com/search/%23NationalFirstRespondersDay",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.bgcfKlKzgm026dpN0vDa0g&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T13:23:40Z",
-      "first_seen": "2026-10-28T13:23:40Z",
+      "started_trending": "2026-10-28T14:23:33Z",
+      "first_seen": "2026-10-28T14:23:33Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nico-robin",
+      "rank": 9,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-10-28T14:23:33Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Nico Robin",
+      "description": "Fans are celebrating the anniversary of Nico Robin joining the Straw Hat Pirates after Toei Animation shared a commemorative clip of the character.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Nico%20Robin",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.nDnXMXvIilZhyw7tGJbG5AHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T14:23:33Z",
+      "first_seen": "2026-10-28T14:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wednesdaymotivation",
-      "rank": 6,
+      "rank": 10,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -205,9 +353,13 @@
         {
           "t": "2026-10-28T14:23:33Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 10
         }
       ],
-      "rank_change": 1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "#WednesdayMotivation",
       "description": "",
@@ -218,115 +370,16 @@
       "started_trending": "2026-10-28T12:23:34Z",
       "first_seen": "2026-10-28T12:23:34Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "toledo",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Toledo",
-      "description": "A deadly high-speed train collision in Toledo, Spain, has left dozens dead, prompting the postponement of Wednesday's Copa Del Rey matches and widespread reactions online.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Toledo",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.PHq7xtTUAcxAurBIgFBQAwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T14:23:33Z",
-      "first_seen": "2026-10-28T14:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "happy-hump",
-      "rank": 8,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-28T11:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-28T12:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-28T13:23:40Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Happy Hump",
-      "description": "Social media users are sharing mid-week greetings, discussing Wednesday weather forecasts, and engaging with online games and entertainment news.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Happy%20Hump",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Q6ArMbJv4MpJ0HQkD4eRyQHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T11:23:36Z",
-      "first_seen": "2026-10-28T11:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nationalfirstrespondersday",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#NationalFirstRespondersDay",
-      "description": "Users across social media are celebrating National First Responders Day to honor police, firefighters, and emergency workers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23NationalFirstRespondersDay",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.bgcfKlKzgm026dpN0vDa0g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T14:23:33Z",
-      "first_seen": "2026-10-28T14:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "alconentfailshumanity",
-      "rank": 10,
+      "rank": 11,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -341,9 +394,13 @@
         {
           "t": "2026-10-28T14:23:33Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 11
         }
       ],
-      "rank_change": -7,
+      "rank_change": -8,
       "is_new": false,
       "topic": "#AlconEntFailsHumanity",
       "description": "",
@@ -354,156 +411,32 @@
       "started_trending": "2026-10-28T12:23:34Z",
       "first_seen": "2026-10-28T12:23:34Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "topic",
-      "rank": 11,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-28T12:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-28T13:23:40Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "#中国北京应立刻追查姚润昊",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23%E4%B8%AD%E5%9B%BD%E5%8C%97%E4%BA%AC%E5%BA%94%E7%AB%8B%E5%88%BB%E8%BF%BD%E6%9F%A5%E5%A7%9A%E6%B6%A6%E6%98%8A",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.JcflYCEi-QQz0PSRd2U5_QHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T12:23:34Z",
-      "first_seen": "2026-10-28T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "araiza",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Araiza",
-      "description": "The material does not provide a clear description for why this topic is currently trending on social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Araiza",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.XDPUYZ41dQxvnGmjQXPN9QHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T14:23:33Z",
-      "first_seen": "2026-10-28T14:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "borntobebynunew",
-      "rank": 13,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-28T13:23:40Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#BORNTOBEByNuNew",
-      "description": "Fans are sharing and discussing the official music video for NuNew's 'BORN TO BE' on social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23BORNTOBEByNuNew",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.ZvNxtokA0Fih3Ni83hCj/Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T13:23:40Z",
-      "first_seen": "2026-10-28T13:23:40Z",
-      "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nico-robin",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Nico Robin",
-      "description": "Fans are celebrating the anniversary of Nico Robin joining the Straw Hat Pirates on social media after Toei Animation shared a clip of her first appearance.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nico%20Robin",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.nDnXMXvIilZhyw7tGJbG5AHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T14:23:33Z",
-      "first_seen": "2026-10-28T14:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "the-chiefs",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 12,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-28T14:23:33Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 12
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 3,
+      "is_new": false,
       "topic": "The Chiefs",
-      "description": "The Kansas City Chiefs are trending on social media following reports that the team is signing veteran kicker Justin Tucker to the practice squad after Harrison Butker's recent struggles.",
+      "description": "The Kansas City Chiefs are making headlines following offensive struggles in Seattle and reports that the team is signing kicker Justin Tucker.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/The%20Chiefs",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.mksv2eQKsOZx/uqfecLCKw&pid=15.1",
@@ -511,44 +444,7 @@
       "started_trending": "2026-10-28T14:23:33Z",
       "first_seen": "2026-10-28T14:23:33Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "urda",
-      "rank": 16,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-10-28T12:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-28T13:23:40Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-28T14:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Urda",
-      "description": "Social media users are reacting to a fatal railway tragedy in Urda, Spain, where a collision between high-speed trains has left dozens dead and hundreds injured.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Urda",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.7gVoruUbb7c91ylLnHpjxQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T12:23:34Z",
-      "first_seen": "2026-10-28T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
+      "last_seen": "2026-10-28T15:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -557,7 +453,7 @@
     },
     {
       "id": "jennifer-lawrence",
-      "rank": 17,
+      "rank": 13,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -576,12 +472,16 @@
         {
           "t": "2026-10-28T14:23:33Z",
           "r": 17
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 13
         }
       ],
-      "rank_change": -8,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Jennifer Lawrence",
-      "description": "Jennifer Lawrence is generating social media buzz after addressing her 'Hunger Games' return, sharing personal acting feedback, and discussing plastic surgery rumors.",
+      "description": "Jennifer Lawrence is trending after confirming her return as Katniss Everdeen in the upcoming Hunger Games project, 'Sunrise on the Reaping.'",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jennifer%20Lawrence",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.3G05nZEKqUzLXPiC0IxOiQ&pid=15.1",
@@ -589,10 +489,158 @@
       "started_trending": "2026-10-28T11:23:36Z",
       "first_seen": "2026-10-28T11:23:36Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "topic",
+      "rank": 14,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-28T12:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-28T13:23:40Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-28T14:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "#中国北京应立刻追查姚润昊",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23%E4%B8%AD%E5%9B%BD%E5%8C%97%E4%BA%AC%E5%BA%94%E7%AB%8B%E5%88%BB%E8%BF%BD%E6%9F%A5%E5%A7%9A%E6%B6%A6%E6%98%8A",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.JcflYCEi-QQz0PSRd2U5_QHaJ4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T12:23:34Z",
+      "first_seen": "2026-10-28T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-hump",
+      "rank": 15,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-28T11:23:36Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-28T12:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-28T13:23:40Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-28T14:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Happy Hump",
+      "description": "Social media is discussing weekend weather updates, word puzzles, and local events as users mark the middle of the work week.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Happy%20Hump",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Q6ArMbJv4MpJ0HQkD4eRyQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T11:23:36Z",
+      "first_seen": "2026-10-28T11:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rolling-stone",
+      "rank": 16,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-28T14:23:33Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Rolling Stone",
+      "description": "Music fans are discussing Rolling Stone's latest features, including BTS, top rock songs of the 21st century, and Bob Dylan's recent performances.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rolling%20Stone",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.cw_kqVR-xgR-5YjvU0Q8rQHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T14:23:33Z",
+      "first_seen": "2026-10-28T14:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "warsh",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Warsh",
+      "description": "Social media users are discussing Federal Reserve Chair Kevin Warsh as he holds briefings following the latest interest rate decisions and economic developments.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Warsh",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Vv7M0Bg8riEdjJ3EN8Tciw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-28T15:23:35Z",
+      "first_seen": "2026-10-28T15:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -617,12 +665,16 @@
         {
           "t": "2026-10-28T14:23:33Z",
           "r": 18
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
+          "r": 18
         }
       ],
       "rank_change": -13,
       "is_new": false,
       "topic": "Iryo",
-      "description": "Social media users are discussing a tragic high-speed train crash in Spain involving an Iryo train and a Renfe AVE train near Toledo.",
+      "description": "Social media users are sharing tragic footage and updates following a high-speed collision in Spain involving a Renfe train and a stationary Iryo train.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Iryo",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.BcnO0aheY1OItvc8Ltkvcg&pid=15.1",
@@ -630,65 +682,69 @@
       "started_trending": "2026-10-28T11:23:36Z",
       "first_seen": "2026-10-28T11:23:36Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "rolling-stone",
+      "id": "araiza",
       "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
           "t": "2026-10-28T14:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-10-28T15:23:35Z",
           "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rolling Stone",
-      "description": "Rolling Stone is sparking online debate and discussion after releasing its new list ranking the top 200 greatest rock songs of the 21st century.",
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Araiza",
+      "description": "Discussion surrounds the Kansas City Chiefs evaluating in-house options as kicker Harrison Butker faces mounting pressure after recent performance struggles.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rolling%20Stone",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.cw_kqVR-xgR-5YjvU0Q8rQHaJQ&pid=15.1",
+      "url": "https://twstalker.com/search/Araiza",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.XDPUYZ41dQxvnGmjQXPN9QHaFj&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-28T14:23:33Z",
       "first_seen": "2026-10-28T14:23:33Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-28T15:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "national-chocolate-day",
+      "id": "markey",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-28T14:23:33Z",
+          "t": "2026-10-28T15:23:35Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "National Chocolate Day",
-      "description": "Social media users are celebrating National Chocolate Day by sharing sweet treats, discussing deals, and debating their love for chocolate.",
+      "topic": "Markey",
+      "description": "Senator Ed Markey is trending as he campaigns in Massachusetts' midterm elections, facing Republican challenger John Deaton amidst political debates.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/National%20Chocolate%20Day",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.dij5QNXC8BSq_xxhWCzaFgHaHa&pid=15.1",
+      "url": "https://twstalker.com/search/Markey",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.HEfN-3XvpJEXlI5kvNTKVgHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T14:23:33Z",
-      "first_seen": "2026-10-28T14:23:33Z",
+      "started_trending": "2026-10-28T15:23:35Z",
+      "first_seen": "2026-10-28T15:23:35Z",
       "published": null,
-      "last_seen": "2026-10-28T14:23:33Z",
+      "last_seen": "2026-10-28T15:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
