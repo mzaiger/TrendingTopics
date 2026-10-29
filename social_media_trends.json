@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-29T03:25:37Z",
+  "updated": "2026-10-29T04:25:16Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "brewers",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-29T03:23:39Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Brewers",
-      "description": "The Milwaukee Brewers won their first World Series title in franchise history by defeating the Tampa Bay Rays.",
+      "description": "The Milwaukee Brewers won their first-ever World Series title in franchise history after defeating the Tampa Bay Rays in Game 5.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Brewers",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.YXlqSaGIwCu3qCyVwf5HDQ&pid=15.1",
@@ -29,7 +33,106 @@
       "started_trending": "2026-10-29T03:23:39Z",
       "first_seen": "2026-10-29T03:23:39Z",
       "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "winourway",
+      "rank": 2,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-29T03:23:39Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "#WinOurWay",
+      "description": "Fans and commentators are celebrating the Milwaukee Brewers' first World Series title with the \"Win Our Way\" slogan following their victory over Tampa Bay.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23WinOurWay",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.BvCtzWYJVoa9U4BuX1s1Vg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T03:23:39Z",
+      "first_seen": "2026-10-29T03:23:39Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "thisismycrew",
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-29T03:23:39Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "#ThisIsMyCrew",
+      "description": "Rookie Cooper Pratt's breakout performance during the World Series has validated the Brewers' confidence in him.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23ThisIsMyCrew",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.P/Kse5I96mg/9dg3MDIVsg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T03:23:39Z",
+      "first_seen": "2026-10-29T03:23:39Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bob-uecker",
+      "rank": 4,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-29T03:23:39Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Bob Uecker",
+      "description": "The Milwaukee Brewers and players like Christian Yelich dedicated their World Series win to the late franchise legend Bob Uecker.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bob%20Uecker",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.FdaFc0FwyasxFxBxOTcioQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T03:23:39Z",
+      "first_seen": "2026-10-29T03:23:39Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -38,7 +141,7 @@
     },
     {
       "id": "aewdynamite",
-      "rank": 2,
+      "rank": 5,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -53,12 +156,16 @@
         {
           "t": "2026-10-29T03:23:39Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 5
         }
       ],
-      "rank_change": -1,
+      "rank_change": -4,
       "is_new": false,
       "topic": "#AEWDynamite",
-      "description": "Fans are discussing the latest 'Fright Night' episode of AEW Dynamite, featuring title matches including Darby Allin vs. Josh Alexander and Queen Aminata vs. Persephone.",
+      "description": "Wrestling fans are buzzing about the Fright Night episode of AEW Dynamite, featuring title matches including Darby Allin vs. Josh Alexander and Queen Aminata vs. Persephone.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23AEWDynamite",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.f9F2Fe0tdcs6irGWi-dlnAHaEK&pid=15.1",
@@ -66,16 +173,45 @@
       "started_trending": "2026-10-29T01:23:33Z",
       "first_seen": "2026-10-29T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "william-contreras",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "William Contreras",
+      "description": "William Contreras was named World Series MVP after leading the Milwaukee Brewers to their first title with his stellar play behind the plate.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/William%20Contreras",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.oyEhRMl8ntSKdxC2tUT5gg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T04:23:34Z",
+      "first_seen": "2026-10-29T04:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mitchjones25mgiveway",
-      "rank": 3,
+      "rank": 7,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -86,20 +222,24 @@
         {
           "t": "2026-10-29T03:23:39Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 7
         }
       ],
-      "rank_change": 0,
+      "rank_change": -4,
       "is_new": false,
       "topic": "#MitchJones25mGiveway",
       "description": "",
       "description_source": "",
       "url": "https://twstalker.com/search/%23MitchJones25mGiveway",
-      "image_url": "",
-      "image_source": "",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.fxRs3N-MkVoZ6dF0_yBfnQHaDt&pid=15.1",
+      "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-29T02:23:37Z",
       "first_seen": "2026-10-29T02:23:37Z",
       "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
+      "last_seen": "2026-10-29T04:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -107,57 +247,32 @@
       "extra": {}
     },
     {
-      "id": "thisismycrew",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "gary-sanchez",
+      "rank": 8,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-10-29T03:23:39Z",
-          "r": 4
+          "r": 9
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ThisIsMyCrew",
-      "description": "Rookie Cooper Pratt's standout performance in the World Series has highlighted the Brewers' confidence in him.",
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Gary Sanchez",
+      "description": "The provided material does not contain enough information to write a description.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23ThisIsMyCrew",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.P/Kse5I96mg/9dg3MDIVsg&pid=15.1",
+      "url": "https://twstalker.com/search/Gary%20Sanchez",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.1E0zcnx1w7qJnB4ZbhJj-AHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-29T03:23:39Z",
       "first_seen": "2026-10-29T03:23:39Z",
       "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "winourway",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#WinOurWay",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23WinOurWay",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.BvCtzWYJVoa9U4BuX1s1Vg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T03:23:39Z",
-      "first_seen": "2026-10-29T03:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
+      "last_seen": "2026-10-29T04:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -166,19 +281,23 @@
     },
     {
       "id": "queen-aminata",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-10-29T03:23:39Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "Queen Aminata",
-      "description": "Queen Aminata defeated Persephone to win the TBS Championship in the main event of AEW Fright Night Dynamite.",
+      "description": "Queen Aminata defeated Persephone to claim the AEW TBS Championship during the main event of AEW Fright Night Dynamite.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Queen%20Aminata",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.xjisF96RYGxY7PA7g_gUoQHaE7&pid=15.1",
@@ -186,102 +305,7 @@
       "started_trending": "2026-10-29T03:23:39Z",
       "first_seen": "2026-10-29T03:23:39Z",
       "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "survivor51",
-      "rank": 7,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-29T02:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#Survivor51",
-      "description": "Viewers are reacting to the latest episode of Survivor 51, which featured new alliance tests, challenges, and Jeff Probst praising strong players before the merge.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Survivor51",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.9YoZP+as1iS63kTWW6oLbA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T01:23:33Z",
-      "first_seen": "2026-10-29T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bob-uecker",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bob Uecker",
-      "description": "The late broadcaster Bob Uecker has been widely honored and remembered during the Brewers' historic World Series run.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bob%20Uecker",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.FdaFc0FwyasxFxBxOTcioQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T03:23:39Z",
-      "first_seen": "2026-10-29T03:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gary-sanchez",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Gary Sanchez",
-      "description": "The Milwaukee Brewers are celebrating their historic World Series championship after a remarkable season.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gary%20Sanchez",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.1E0zcnx1w7qJnB4ZbhJj-AHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T03:23:39Z",
-      "first_seen": "2026-10-29T03:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
+      "last_seen": "2026-10-29T04:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -305,12 +329,16 @@
         {
           "t": "2026-10-29T03:23:39Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 10
         }
       ],
       "rank_change": -3,
       "is_new": false,
       "topic": "Naz Reid",
-      "description": "Hornets veteran Naz Reid was benched for the entire second half against the Pistons because head coach Charles Lee said he did not meet team standards.",
+      "description": "Hornets veteran Naz Reid was benched for the entire second half of a loss to the Pistons for not meeting team standards.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Naz%20Reid",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.lLdrRFpFlTy9_pQIRgP8JQHaE8&pid=15.1",
@@ -318,61 +346,32 @@
       "started_trending": "2026-10-29T01:23:33Z",
       "first_seen": "2026-10-29T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nembhard",
-      "rank": 11,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-29T02:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Nembhard",
-      "description": "Andrew Nembhard is available to play for the Pacers against the 76ers despite a neck injury.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nembhard",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.gpcI3NEm3hA8mF8SZOyc0w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T02:23:37Z",
-      "first_seen": "2026-10-29T02:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "christian-yelich",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 11,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
           "t": "2026-10-29T03:23:39Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Christian Yelich",
-      "description": "Christian Yelich and the Milwaukee Brewers addressed the media ahead of Game 5 of the World Series following a Game 4 loss.",
+      "description": "Captain Christian Yelich and the Milwaukee Brewers are celebrating their first World Series championship following a Game 5 victory.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Christian%20Yelich",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.hreWC29evPaT7RqlOQbz2w&pid=15.1",
@@ -380,7 +379,226 @@
       "started_trending": "2026-10-29T03:23:39Z",
       "first_seen": "2026-10-29T03:23:39Z",
       "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "survivor51",
+      "rank": 12,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-29T01:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-29T03:23:39Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "#Survivor51",
+      "description": "Social media is buzzing with episode recaps and discussions as alliances are tested and players are eliminated on Survivor 51.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23Survivor51",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.9YoZP+as1iS63kTWW6oLbA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T01:23:33Z",
+      "first_seen": "2026-10-29T01:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "world-champs",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "World Champs",
+      "description": "Fans and news outlets are celebrating the Milwaukee Brewers as World Series champions following their historic first title win.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/World%20Champs",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.p45kdxKtxSV3TLBLhRUEHwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T04:23:34Z",
+      "first_seen": "2026-10-29T04:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hardy",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hardy",
+      "description": "Missouri running back Ahmad Hardy's injury status is a major talking point ahead of the team's game against Arkansas after he was left off the availability report.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hardy",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.KgCKHEXnw0AhAHVKA4oIqQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T04:23:34Z",
+      "first_seen": "2026-10-29T04:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "caleb-martin",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Caleb Martin",
+      "description": "Dallas Mavericks player Caleb Martin has been upgraded to available for Wednesday's game after dealing with a right thumb sprain.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Caleb%20Martin",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.04RspOsFtUY03JxFicKGlAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T04:23:34Z",
+      "first_seen": "2026-10-29T04:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "seattle-pilots",
+      "rank": 16,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-10-29T03:23:39Z",
+          "r": 16
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Seattle Pilots",
+      "description": "Social media users are noting the historical connection that the Milwaukee Brewers franchise was originally the Seattle Pilots before winning their first World Series.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Seattle%20Pilots",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.j9PfH8gaUAu3w3eVDyuYWw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T03:23:39Z",
+      "first_seen": "2026-10-29T03:23:39Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wild-bill",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Wild Bill",
+      "description": "Milwaukee World Series standout William Contreras, often called \"Wild Bill,\" is dominating sports headlines alongside Minnesota Wild GM Bill Guerin.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Wild%20Bill",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.d8CCSrJ9k7-TVD8y0eR2nAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T04:23:34Z",
+      "first_seen": "2026-10-29T04:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pat-murphy",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pat Murphy",
+      "description": "Manager Pat Murphy led the Milwaukee Brewers to their first-ever World Series title at age 67, capping off a long baseball journey.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Pat%20Murphy",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.bRRIiK9_cj1xlVuUDB02uwHaD8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T04:23:34Z",
+      "first_seen": "2026-10-29T04:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-29T04:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -389,7 +607,7 @@
     },
     {
       "id": "charles-lee",
-      "rank": 13,
+      "rank": 19,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -400,12 +618,16 @@
         {
           "t": "2026-10-29T03:23:39Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-29T04:23:34Z",
+          "r": 19
         }
       ],
-      "rank_change": -1,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Charles Lee",
-      "description": "Hornets coach Charles Lee explained his decision to bench Naz Reid at halftime for failing to meet team standards.",
+      "description": "Hornets coach Charles Lee explained his decision to bench Naz Reid at halftime for failing to meet team standards during their loss to the Pistons.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Charles%20Lee",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.l1xnXJ2A3qVM7GlgyrOK9AHaJ7&pid=15.1",
@@ -413,7 +635,7 @@
       "started_trending": "2026-10-29T02:23:37Z",
       "first_seen": "2026-10-29T02:23:37Z",
       "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
+      "last_seen": "2026-10-29T04:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -421,221 +643,31 @@
       "extra": {}
     },
     {
-      "id": "clarkson",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Clarkson",
-      "description": "Jordan Clarkson is trending as he shows off his three-point range in recent NBA action, alongside other entertainment figures sharing his last name.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Clarkson",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.DNtM-wjmY8JlU-MLIU-4PwHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T03:23:39Z",
-      "first_seen": "2026-10-29T03:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tyrese-maxey",
-      "rank": 15,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-10-29T02:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Tyrese Maxey",
-      "description": "Tyrese Maxey delivered fourth-quarter heroics to lead the Philadelphia 76ers to a victory over the Pacers, bringing their record to 4-1.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tyrese%20Maxey",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.0cZzP14degePhdokOBPzuQHaLH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T02:23:37Z",
-      "first_seen": "2026-10-29T02:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "seattle-pilots",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Seattle Pilots",
-      "description": "The Milwaukee Brewers ended a 57-year franchise wait by winning their first World Series title, putting a historic end to a long drought.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Seattle%20Pilots",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.j9PfH8gaUAu3w3eVDyuYWw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T03:23:39Z",
-      "first_seen": "2026-10-29T03:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "claudio",
-      "rank": 17,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-29T02:23:37Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Claudio",
-      "description": "Claudio Braga is trending following his goal that leveled the score for Hearts against Rangers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Claudio",
-      "image_url": "",
-      "image_source": "",
-      "started_trending": "2026-10-29T02:23:37Z",
-      "first_seen": "2026-10-29T02:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jacob-misiorowski",
-      "rank": 18,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-29T02:23:37Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Jacob Misiorowski",
-      "description": "Jacob Misiorowski exited Game 5 of the World Series for the Brewers due to apparent cramps after a scoreless outing.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jacob%20Misiorowski",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.f++Vn8mtRibT8o7IPKeCQg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T02:23:37Z",
-      "first_seen": "2026-10-29T02:23:37Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chandler-simpson",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T03:23:39Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Chandler Simpson",
-      "description": "Chandler Simpson is drawing attention following his strong performances and energy for the Tampa Bay Rays during the World Series.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chandler%20Simpson",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Kzx_p4S2FBz1e8PXsn6FLQHaFJ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T03:23:39Z",
-      "first_seen": "2026-10-29T03:23:39Z",
-      "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "haley-stevens",
+      "id": "vando",
       "rank": 20,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T02:23:37Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-29T03:23:39Z",
+          "t": "2026-10-29T04:23:34Z",
           "r": 20
         }
       ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Haley Stevens",
-      "description": "Representative Haley Stevens responded after her fiancé publicly stated he is voting for Republican candidate Mike Rogers in the Michigan Senate race.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Haley%20Stevens",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.QpF94rDzaVD43UyGYeqEvgHaLH&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Vando",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Vando",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.kneBEbmmypZ2bAKI/PO7Kg&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T02:23:37Z",
-      "first_seen": "2026-10-29T02:23:37Z",
+      "started_trending": "2026-10-29T04:23:34Z",
+      "first_seen": "2026-10-29T04:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T03:23:39Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T04:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
