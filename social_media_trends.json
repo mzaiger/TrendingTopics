@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-29T01:25:40Z",
+  "updated": "2026-10-29T02:25:41Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "aewdynamite",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-29T01:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "#AEWDynamite",
-      "description": "AEW Dynamite is trending due to its latest episode and match results, including Darby Allin vs. Josh Alexander and FTR vs. Machine Guns.",
+      "description": "AEW Dynamite is trending following its Fright Night episode, which featured Darby Allin defending the TNT Title against Josh Alexander, Persephone versus Queen Aminata for the TBS Title, and FTR taking on the Machine Guns.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23AEWDynamite",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.f9F2Fe0tdcs6irGWi-dlnAHaEK&pid=15.1",
@@ -29,28 +33,32 @@
       "started_trending": "2026-10-29T01:23:33Z",
       "first_seen": "2026-10-29T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "survivor51",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-29T01:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "#Survivor51",
-      "description": "Survivor 51 is trending as fans and contestants discuss the new season, with Episode 6 airing and players like Mike questioning alliances.",
+      "description": "Survivor 51 is generating buzz as fans discuss the latest episode recap, alliance tests right before the merge, and Jeff Probst's praise for formidable players.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Survivor51",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.9YoZP+as1iS63kTWW6oLbA&pid=15.1",
@@ -58,7 +66,36 @@
       "started_trending": "2026-10-29T01:23:33Z",
       "first_seen": "2026-10-29T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mitchjones25mgiveway",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#MitchJones25mGiveway",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MitchJones25mGiveway",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-29T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -66,175 +103,57 @@
       "extra": {}
     },
     {
-      "id": "ernie",
-      "rank": 3,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-28T19:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-28T20:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-28T21:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-28T22:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-28T23:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-29T00:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 3
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Ernie",
-      "description": "Ernie Johnson is trending after announcing that he is stepping away from hosting 'Inside the NBA' after the conclusion of this season.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ernie",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.L1j7YKh0eNQG-nPlkn88fwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T18:23:32Z",
-      "first_seen": "2026-10-28T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dan-sullivan",
+      "id": "nembhard",
       "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-28T19:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-28T20:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-28T21:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-28T22:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-28T23:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-29T00:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Dan Sullivan",
-      "description": "Dan Sullivan is trending following a New York Times report that Democratic campaign associates recruited a second Dan Sullivan as a spoiler in Alaska's Senate race.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dan%20Sullivan",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.h00bR17l2hg3mCxE1q6HCA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T18:23:32Z",
-      "first_seen": "2026-10-28T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "alaska",
-      "rank": 5,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-28T22:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-28T23:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-29T00:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 5
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Alaska",
-      "description": "Alaska is trending following a report about a secret Democratic effort to stack the state's ballot with spoiler candidates in the U.S. Senate race.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alaska",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.S5F03jEBKmTf6-4hkRhZ_QHaE9&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T22:23:34Z",
-      "first_seen": "2026-10-28T22:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "abbottelementary",
-      "rank": 6,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 6
+          "t": "2026-10-29T02:23:37Z",
+          "r": 4
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#AbbottElementary",
-      "description": "Abbott Elementary is trending as viewers discuss its newest season episodes, including Gregory's ruined romantic surprise in the Halloween episode.",
+      "topic": "Nembhard",
+      "description": "Indiana Pacers player Andrew Nembhard is trending after appearing on the injury report with a neck issue and subsequently being listed as available to return against the 76ers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23AbbottElementary",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xZwrybGWVpmm48YXRXhbkAHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T01:23:33Z",
-      "first_seen": "2026-10-29T01:23:33Z",
+      "url": "https://twstalker.com/search/Nembhard",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tyrese-maxey",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tyrese Maxey",
+      "description": "Tyrese Maxey is making headlines after scoring 27 points, sinking an impressive and-1 circus scoop shot, and leading a fourth-quarter comeback to help the 76ers beat the Pacers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tyrese%20Maxey",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.0cZzP14degePhdokOBPzuQHaLH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-29T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -243,19 +162,23 @@
     },
     {
       "id": "naz-reid",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 6,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-29T01:23:33Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Naz Reid",
-      "description": "Naz Reid is trending after strong performances on the court, including scoring an 18-point and 12-rebound double-double and making key 3-pointers.",
+      "description": "Naz Reid is trending following a controversial second-half benching by the Hornets coach during a loss against the Pistons, despite no reported injury.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Naz%20Reid",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.lLdrRFpFlTy9_pQIRgP8JQHaE8&pid=15.1",
@@ -263,7 +186,36 @@
       "started_trending": "2026-10-29T01:23:33Z",
       "first_seen": "2026-10-29T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "claudio",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Claudio",
+      "description": "Claudio Braga is trending in sports news after scoring a leveller for Hearts against Rangers, while other figures named Claudio make news in music and athletics.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Claudio",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-29T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -271,86 +223,122 @@
       "extra": {}
     },
     {
-      "id": "anarchy-in-the-arena",
+      "id": "alaska",
       "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
+          "t": "2026-10-28T22:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-28T23:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-29T00:23:34Z",
+          "r": 3
+        },
+        {
           "t": "2026-10-29T01:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-29T02:23:37Z",
           "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Anarchy in the Arena",
-      "description": "Anarchy in the Arena is trending after Jon Moxley issued a hardcore stipulation challenge for a match at AEW Full Gear.",
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Alaska",
+      "description": "Alaska's U.S. Senate race is drawing heavy attention following a New York Times report regarding a secret Democratic effort to stack the ballot with spoiler candidates, drawing sharp criticism from Donald Trump.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Anarchy%20in%20the%20Arena",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.eOgXlGV3NTNiwiHeuynEOgHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Alaska",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.S5F03jEBKmTf6-4hkRhZ_QHaE9&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T01:23:33Z",
-      "first_seen": "2026-10-29T01:23:33Z",
+      "started_trending": "2026-10-28T22:23:34Z",
+      "first_seen": "2026-10-28T22:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jack-perry",
+      "id": "dan-sullivan",
       "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
+          "t": "2026-10-28T21:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-28T22:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-28T23:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-29T00:23:34Z",
+          "r": 2
+        },
+        {
           "t": "2026-10-29T01:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-29T02:23:37Z",
           "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jack Perry",
-      "description": "Jack Perry is trending after narrowly surviving a match against Kyle Fletcher, who advanced to an AEW world title match at Full Gear.",
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Dan Sullivan",
+      "description": "Dan Sullivan is trending following a New York Times report that Democratic campaign associates recruited a second Dan Sullivan as a spoiler candidate in Alaska's Senate race, prompting accusations from Donald Trump.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jack%20Perry",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.bY0IGyz-uAcJVbpZFCvILAHaIF&pid=15.1",
+      "url": "https://twstalker.com/search/Dan%20Sullivan",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.h00bR17l2hg3mCxE1q6HCA&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T01:23:33Z",
-      "first_seen": "2026-10-29T01:23:33Z",
+      "started_trending": "2026-10-28T18:23:32Z",
+      "first_seen": "2026-10-28T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "kingston-flemings",
+      "id": "ciampa",
       "rank": 10,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T01:23:33Z",
+          "t": "2026-10-29T02:23:37Z",
           "r": 10
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Kingston Flemings",
-      "description": "Kingston Flemings is trending after making notable defensive plays, including fighting off a defender for an and-1 and blocking the Miami Heat.",
+      "topic": "Ciampa",
+      "description": "Wrestling fans are discussing upcoming matches and news surrounding AEW Fright Night Collision, featuring bouts like Ilja Dragunov versus The Beast Mortos.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kingston%20Flemings",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.AvNutn31jOBQF0X1rUS7vAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T01:23:33Z",
-      "first_seen": "2026-10-29T01:23:33Z",
+      "url": "https://twstalker.com/search/Ciampa",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
+      "last_seen": "2026-10-29T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -358,57 +346,77 @@
       "extra": {}
     },
     {
-      "id": "kyle-fletcher",
+      "id": "ernie",
       "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
+          "t": "2026-10-28T21:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-28T22:23:34Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-28T23:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-29T00:23:34Z",
+          "r": 1
+        },
+        {
           "t": "2026-10-29T01:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-29T02:23:37Z",
           "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kyle Fletcher",
-      "description": "Kyle Fletcher is trending after defeating Jack Perry to secure an AEW world title match against Will Ospreay at Full Gear.",
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "Ernie",
+      "description": "Ernie Johnson is trending after announcing that the current season of Inside the NBA will be his final one as host before stepping away from the show.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kyle%20Fletcher",
-      "image_url": "https://ts3.explicit.bing.net/th?id=OIP.semAp65sD2BAE-lumXAIdwHaJ3&pid=15.1",
+      "url": "https://twstalker.com/search/Ernie",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.L1j7YKh0eNQG-nPlkn88fwHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T01:23:33Z",
-      "first_seen": "2026-10-29T01:23:33Z",
+      "started_trending": "2026-10-28T18:23:32Z",
+      "first_seen": "2026-10-28T18:23:32Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "full-gear",
+      "id": "charles-lee",
       "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T01:23:33Z",
+          "t": "2026-10-29T02:23:37Z",
           "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Full Gear",
-      "description": "Full Gear is trending as matches are announced for the upcoming AEW pay-per-view event, including Kyle Fletcher's title match and Jon Moxley's challenge.",
+      "topic": "Charles Lee",
+      "description": "Hornets coach Charles Lee is drawing attention following his team's game against the Pistons and the controversial decision to bench Naz Reid in the second half.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Full%20Gear",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.nI6O/c0AuLqNBgjFmvT+bQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T01:23:33Z",
-      "first_seen": "2026-10-29T01:23:33Z",
+      "url": "https://twstalker.com/search/Charles%20Lee",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
+      "last_seen": "2026-10-29T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -416,81 +424,206 @@
       "extra": {}
     },
     {
-      "id": "peltola",
+      "id": "haley-stevens",
       "rank": 13,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-28T19:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-28T20:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-28T21:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-28T22:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-28T23:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-29T00:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-29T01:23:33Z",
+          "t": "2026-10-29T02:23:37Z",
           "r": 13
         }
       ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Peltola",
-      "description": "Peltola is trending after a New York Times report alleged her campaign helped recruit a spoiler candidate, drawing accusations and calls to drop out from Donald Trump.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Haley Stevens",
+      "description": "Democrat Haley Stevens is trending after her fiancé publicly announced he is voting for Republican Mike Rogers in Michigan's Senate election instead of El-Sayed.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Peltola",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.zOo3dJs+GPY6n7rb6EeP6w&pid=15.1",
+      "url": "https://twstalker.com/search/Haley%20Stevens",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.QpF94rDzaVD43UyGYeqEvgHaLH&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T18:23:32Z",
-      "first_seen": "2026-10-28T18:23:32Z",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "bandido",
+      "id": "jacob-misiorowski",
       "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T01:23:33Z",
+          "t": "2026-10-29T02:23:37Z",
           "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Bandido",
-      "description": "Bandido is trending as part of discussions surrounding Ring of Honor and AEW storylines, including Bishop Kaun's pursuit of the ROH World Title.",
+      "topic": "Jacob Misiorowski",
+      "description": "Jacob Misiorowski is trending as the Milwaukee Brewers pitcher prepares for a pivotal World Series Game 5 appearance against the Tampa Rays.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bandido",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.WiPIAHH56bS8l0T3hWuEqQHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Jacob%20Misiorowski",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.f++Vn8mtRibT8o7IPKeCQg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "abbottelementary",
+      "rank": 15,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-29T01:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "#AbbottElementary",
+      "description": "Abbott Elementary is trending on social media following its new Halloween episode, which features a major turn in Janine and Gregory's romance and disrupts a surprise.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23AbbottElementary",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xZwrybGWVpmm48YXRXhbkAHaJQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-29T01:23:33Z",
       "first_seen": "2026-10-29T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kevin-cash",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kevin Cash",
+      "description": "Tampa Bay Rays manager Kevin Cash is making news during the World Series as he manages his bullpen and prepares the team to face the Milwaukee Brewers in Game 5.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kevin%20Cash",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "keefe",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Keefe",
+      "description": "Conservative influencer James O’Keefe is trending after being charged with unlawful voting and identity theft during a Minnesota primary election stunt.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Keefe",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.CTmRn50NtNX34v7oZaQgmQHaIl&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "darby",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Darby",
+      "description": "Darby Allin is drawing attention after successfully defending his TNT Title against Josh Alexander during the AEW Fright Night Dynamite event.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Darby",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cooper-pratt",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cooper Pratt",
+      "description": "Cooper Pratt is trending after setting a World Series rookie record with hits in six consecutive at-bats, helping give the Brewers an early lead over the Rays.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cooper%20Pratt",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.P/Kse5I96mg/9dg3MDIVsg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T02:23:37Z",
+      "first_seen": "2026-10-29T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-10-29T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -499,19 +632,23 @@
     },
     {
       "id": "chicagofire",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-29T01:23:33Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-29T02:23:37Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -5,
+      "is_new": false,
       "topic": "#ChicagoFire",
-      "description": "Chicago Fire FC is trending due to their live-coverage soccer match against Orlando City SC.",
+      "description": "Chicago Fire FC is trending as fans search for live TV coverage and streaming options for their match against Orlando City SC.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23ChicagoFire",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.5ZQ80XsWqhZAxAOMJqc-HQHaEK&pid=15.1",
@@ -519,183 +656,10 @@
       "started_trending": "2026-10-29T01:23:33Z",
       "first_seen": "2026-10-29T01:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mason-williams",
-      "rank": 16,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-28T23:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-29T00:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Mason Williams",
-      "description": "Mason Williams is trending following college basketball coverage of Kentucky's overtime preseason win against UCF.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mason%20Williams",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.q1ZesLXaGj6bkkCBt66o_QHaFP&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T23:23:32Z",
-      "first_seen": "2026-10-28T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fofana",
-      "rank": 17,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-28T21:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-28T22:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-28T23:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-29T00:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Fofana",
-      "description": "Fofana is trending after a costly penalty shootout miss by Wesley Fofana resulted in Chelsea's elimination from the Carabao Cup by Liverpool.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fofana",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.73sYaImbHyWGiddJZKVDRgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-28T21:23:33Z",
-      "first_seen": "2026-10-28T21:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "middleton",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Middleton",
-      "description": "Kate Middleton is trending following reports of her quiet meeting with Melinda French Gates in London and public interest in her royal style choices.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Middleton",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.M80rvi7M5Yw51-0MCGDCQAHaKE&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T01:23:33Z",
-      "first_seen": "2026-10-29T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "swerve",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Swerve",
-      "description": "Swerve is trending following news that the MeidasTouch Network is launching a 24/7 news channel in partnership with Swerve TV.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Swerve",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.IW_eBQ-IqEyZT6nICbfkGAHaDg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T01:23:33Z",
-      "first_seen": "2026-10-29T01:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chillicothe",
-      "rank": 20,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-29T00:23:34Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-29T01:23:33Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Chillicothe",
-      "description": "Chillicothe is trending after Donald Trump held a midterm campaign rally in the Ohio city to support local Republican candidates.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chillicothe",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.LNj_ItWt4t0u1yCHzKqxXgHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T00:23:34Z",
-      "first_seen": "2026-10-29T00:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-29T01:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-29T02:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
