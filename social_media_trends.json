@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-29T16:25:35Z",
+  "updated": "2026-10-29T17:25:08Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-29T16:23:41Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Simmons",
-      "description": "The Chicago Bears are reportedly acquiring All-Pro defensive tackle Jeffery Simmons in a blockbuster trade with the Tennessee Titans.",
+      "description": "The Tennessee Titans traded defensive tackle Jeffery Simmons to the Chicago Bears in exchange for two first-round picks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Simmons",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.ewFIpmK/SkfPLZIYJwpUkA&pid=15.1",
@@ -33,10 +37,10 @@
       "started_trending": "2026-10-29T15:23:33Z",
       "first_seen": "2026-10-29T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -53,12 +57,16 @@
         {
           "t": "2026-10-29T16:23:41Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 2
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Titans",
-      "description": "The Tennessee Titans are reportedly trading All-Pro defensive tackle Jeffery Simmons to the Chicago Bears in a blockbuster deal.",
+      "description": "The Tennessee Titans are trading All-Pro defensive tackle Jeffery Simmons to the Chicago Bears in a blockbuster deal for two first-round picks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Titans",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.kFiw3XmBQGrHnl7IY5D7yA&pid=15.1",
@@ -66,16 +74,98 @@
       "started_trending": "2026-10-29T15:23:33Z",
       "first_seen": "2026-10-29T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nationalcatday",
+      "rank": 3,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-29T12:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-29T13:23:37Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-29T14:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-29T15:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-29T16:23:41Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "#NationalCatDay",
+      "description": "Social media users are celebrating National Cat Day by sharing photos of their cats and supporting local animal shelters.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23NationalCatDay",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.4y5BUfYEwRhCpF-OFAIN-QHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T11:23:33Z",
+      "first_seen": "2026-10-29T11:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-bears",
+      "rank": 4,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-29T16:23:41Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "The Bears",
+      "description": "The Chicago Bears are trending after acquiring All-Pro defensive tackle Jeffery Simmons in a blockbuster trade with the Tennessee Titans.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20Bears",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.xLTG8i0NIQ6eTWmZVRToFA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T16:23:41Z",
+      "first_seen": "2026-10-29T16:23:41Z",
+      "published": null,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "big-jeff",
-      "rank": 3,
+      "rank": 5,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -86,12 +176,16 @@
         {
           "t": "2026-10-29T16:23:41Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 5
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Big Jeff",
-      "description": "Tennessee Titans defensive tackle Jeffery Simmons is trending following news of his blockbuster trade to the Chicago Bears.",
+      "description": "Jeffery Simmons is trending following a blockbuster trade that sends the defensive tackle from the Tennessee Titans to the Chicago Bears.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Big%20Jeff",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.ewFIpmK/SkfPLZIYJwpUkA&pid=15.1",
@@ -99,36 +193,36 @@
       "started_trending": "2026-10-29T15:23:33Z",
       "first_seen": "2026-10-29T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "the-bears",
-      "rank": 4,
+      "id": "larkin",
+      "rank": 6,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T16:23:41Z",
-          "r": 4
+          "t": "2026-10-29T17:23:34Z",
+          "r": 6
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "The Bears",
-      "description": "The Chicago Bears are making headlines after acquiring All-Pro defensive tackle Jeffery Simmons from the Tennessee Titans in a blockbuster trade.",
+      "topic": "Larkin",
+      "description": "Dylan Larkin was absent from the Red Wings lineup against the Blackhawks, with an imminent trade reportedly possible as management addresses the situation.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20Bears",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.xLTG8i0NIQ6eTWmZVRToFA&pid=15.1",
+      "url": "https://twstalker.com/search/Larkin",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.0OwBGVIVZxeMlxHWDIhKSg&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T16:23:41Z",
-      "first_seen": "2026-10-29T16:23:41Z",
+      "started_trending": "2026-10-29T17:23:34Z",
+      "first_seen": "2026-10-29T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
+      "last_seen": "2026-10-29T17:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -137,7 +231,7 @@
     },
     {
       "id": "ryan-poles",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -148,12 +242,16 @@
         {
           "t": "2026-10-29T16:23:41Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 7
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Ryan Poles",
-      "description": "Chicago Bears general manager Ryan Poles is receiving attention on social media for executing a blockbuster trade to acquire star defensive tackle Jeffery Simmons.",
+      "description": "Bears general manager Ryan Poles is receiving attention for trading two first-round picks to acquire defensive tackle Jeffery Simmons from the Titans.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ryan%20Poles",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.xGjJpDzurMVeUwomOHR26wHaE8&pid=15.1",
@@ -161,49 +259,53 @@
       "started_trending": "2026-10-29T15:23:33Z",
       "first_seen": "2026-10-29T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mack",
-      "rank": 6,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "id": "istandwithtaylor",
+      "rank": 8,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-10-29T15:23:33Z",
-          "r": 13
+          "r": 16
         },
         {
           "t": "2026-10-29T16:23:41Z",
-          "r": 6
+          "r": 11
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": 7,
+      "rank_change": 8,
       "is_new": false,
-      "topic": "Mack",
-      "description": "The Chicago Bears' aggressive trade for Jeffery Simmons is drawing comparisons on social media to their past acquisition of Khalil Mack.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mack",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.xKJ1lCMiVQXzNj1uEQFfyg&pid=15.1",
+      "topic": "#IStandWithTaylor",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23IStandWithTaylor",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.X1odYU3g1TITviCLPDwPpQHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-29T15:23:33Z",
       "first_seen": "2026-10-29T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hyperliquid",
-      "rank": 7,
+      "rank": 9,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -226,12 +328,16 @@
         {
           "t": "2026-10-29T16:23:41Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": 5,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Hyperliquid",
-      "description": "Hyperliquid's HYPE token is surging after the owner of the NYSE announced plans to bring Hyperliquid perpetual futures to the United States.",
+      "description": "Hyperliquid's HYPE token rallied after the NYSE owner announced plans to bring Hyperliquid-based perpetual futures to the United States.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hyperliquid",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.f3vCIBNrGOSWWcrsvYQdZw&pid=15.1",
@@ -239,56 +345,7 @@
       "started_trending": "2026-10-29T12:23:33Z",
       "first_seen": "2026-10-29T12:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nationalcatday",
-      "rank": 8,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-29T11:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-29T12:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-29T13:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-29T14:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-29T15:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-29T16:23:41Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#NationalCatDay",
-      "description": "Social media users are celebrating National Cat Day by sharing photos of their feline friends and supporting local animal shelters.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23NationalCatDay",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.4y5BUfYEwRhCpF-OFAIN-QHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T11:23:33Z",
-      "first_seen": "2026-10-29T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
+      "last_seen": "2026-10-29T17:23:34Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -296,8 +353,107 @@
       "extra": {}
     },
     {
+      "id": "parsons",
+      "rank": 10,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-29T16:23:41Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Parsons",
+      "description": "Micah Parsons' ongoing ACL recovery and potential return to the Packers are drawing attention following recent updates and trade discussions.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Parsons",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.lPEkYOWRfFMiFxiguMHcWwHaIm&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T16:23:41Z",
+      "first_seen": "2026-10-29T16:23:41Z",
+      "published": null,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mack",
+      "rank": 11,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-29T15:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-29T16:23:41Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Mack",
+      "description": "Khalil Mack is drawing trade speculation following the Chicago Bears' blockbuster acquisition of defensive tackle Jeffery Simmons.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mack",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.xKJ1lCMiVQXzNj1uEQFfyg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T15:23:33Z",
+      "first_seen": "2026-10-29T15:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jonestown",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jonestown",
+      "description": "A Trump rally attendee went viral after giving a candid reason for attending the event, drawing widespread reaction on social media.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jonestown",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.3hbOU/mbNiHtXeDtyD7Jvg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T17:23:34Z",
+      "first_seen": "2026-10-29T17:23:34Z",
+      "published": null,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "dexter-lawrence",
-      "rank": 9,
+      "rank": 13,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -308,12 +464,16 @@
         {
           "t": "2026-10-29T16:23:41Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 13
         }
       ],
-      "rank_change": -1,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Dexter Lawrence",
-      "description": "Cincinnati Bengals defensive tackle Dexter Lawrence is drawing social media attention as commentators compare his contract favorably to Jeffery Simmons' recent trade.",
+      "description": "Dexter Lawrence's contract with the Bengals is drawing comparisons and being viewed as a bargain following the blockbuster Jeffery Simmons trade.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dexter%20Lawrence",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.T9qAk5SHKKcWNUm9MMTyiwEsDI&pid=15.1",
@@ -321,78 +481,16 @@
       "started_trending": "2026-10-29T15:23:33Z",
       "first_seen": "2026-10-29T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "parsons",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T16:23:41Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Parsons",
-      "description": "Colorado State University President Amy Parsons is trending after announcing her plans to resign from her position.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Parsons",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.lPEkYOWRfFMiFxiguMHcWwHaIm&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T16:23:41Z",
-      "first_seen": "2026-10-29T16:23:41Z",
-      "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "istandwithtaylor",
-      "rank": 11,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-10-29T15:23:33Z",
-          "r": 16
-        },
-        {
-          "t": "2026-10-29T16:23:41Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "#IStandWithTaylor",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23IStandWithTaylor",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.X1odYU3g1TITviCLPDwPpQHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T15:23:33Z",
-      "first_seen": "2026-10-29T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "barry-sanders",
-      "rank": 12,
+      "rank": 14,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -407,12 +505,16 @@
         {
           "t": "2026-10-29T16:23:41Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": -9,
+      "rank_change": -11,
       "is_new": false,
       "topic": "Barry Sanders",
-      "description": "The material does not contain enough information to explain why this topic is trending.",
+      "description": "NFL fans are discussing upcoming matchups and league storylines as Week 8 games approach.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Barry%20Sanders",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.adDh0Vbda1p_DzwsFX6JwQHaEK&pid=15.1",
@@ -420,73 +522,7 @@
       "started_trending": "2026-10-29T14:23:35Z",
       "first_seen": "2026-10-29T14:23:35Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "yankees",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-29T16:23:41Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Yankees",
-      "description": "The New York Yankees are trending on social media after Milwaukee Brewers manager Pat Murphy reportedly took shots at the team during a World Series celebration.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Yankees",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Vg5M/66wRZzXqmeUUOXP/w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T16:23:41Z",
-      "first_seen": "2026-10-29T16:23:41Z",
-      "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jim-brown",
-      "rank": 14,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-29T14:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-29T15:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-29T16:23:41Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Jim Brown",
-      "description": "The material does not contain enough information to explain why this topic is trending.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jim%20Brown",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.EiMsH-iIu25h_hfjHg3GgwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T14:23:35Z",
-      "first_seen": "2026-10-29T14:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
+      "last_seen": "2026-10-29T17:23:34Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -506,12 +542,16 @@
         {
           "t": "2026-10-29T16:23:41Z",
           "r": 15
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 15
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "Buttons",
-      "description": "The material does not contain enough information to explain why this topic is trending.",
+      "description": "A mix of topics including vintage fashion, panic buttons in schools, and new product reviews are trending across various news outlets.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Buttons",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.3GrYZ8zRof5q9t8Fg1SzEgHaG6&pid=15.1",
@@ -519,36 +559,81 @@
       "started_trending": "2026-10-29T15:23:33Z",
       "first_seen": "2026-10-29T15:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "1sts",
+      "id": "jim-brown",
       "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
+          "t": "2026-10-29T14:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-29T15:23:33Z",
+          "r": 7
+        },
+        {
           "t": "2026-10-29T16:23:41Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
           "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "1sts",
-      "description": "The Chicago Bears are trading for Jeffrey Simmons in exchange for a massive haul of draft picks, including two first-round selections.",
+      "rank_change": -12,
+      "is_new": false,
+      "topic": "Jim Brown",
+      "description": "The sports world is mourning the passing of former LSU basketball coach Dale Brown.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/1sts",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.eq7cMJUjQNXbE4CbHGoH1gHaHa&pid=15.1",
+      "url": "https://twstalker.com/search/Jim%20Brown",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.EiMsH-iIu25h_hfjHg3GgwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T14:23:35Z",
+      "first_seen": "2026-10-29T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "yankees",
+      "rank": 17,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-10-29T16:23:41Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-29T17:23:34Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Yankees",
+      "description": "Milwaukee Brewers manager Pat Murphy went viral for sharply criticizing the Yankees during a World Series celebration.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Yankees",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Vg5M/66wRZzXqmeUUOXP/w&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-29T16:23:41Z",
       "first_seen": "2026-10-29T16:23:41Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
+      "last_seen": "2026-10-29T17:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -556,170 +641,89 @@
       "extra": {}
     },
     {
-      "id": "good-thursday",
-      "rank": 17,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-29T11:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-29T12:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-29T13:23:37Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-29T14:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-29T15:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-29T16:23:41Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -16,
-      "is_new": false,
-      "topic": "Good Thursday",
-      "description": "Sports fans are discussing Thursday Night Football matchups and injury updates ahead of Thursday's games.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Thursday",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.y2iFI6gElAdn8lUbbbgrIgHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T10:23:33Z",
-      "first_seen": "2026-10-29T10:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "best-dt",
+      "id": "game-7",
       "rank": 18,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T15:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-29T16:23:41Z",
+          "t": "2026-10-29T17:23:34Z",
           "r": 18
         }
       ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Best DT",
-      "description": "Discussions are trending around star defensive tackle Jeffery Simmons following his blockbuster trade from the Titans to the Bears.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Game 7",
+      "description": "The WNBA Finals are drawing intense attention as the Atlanta Dream look to force a Game 6 against the Golden State Valkyries into a Game 7.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Best%20DT",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.IGvW5_5CWn8DAMd-DZsKUQHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Game%207",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.6PrVUvgW0DYi2gtb7UFo+g&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T15:23:33Z",
-      "first_seen": "2026-10-29T15:23:33Z",
+      "started_trending": "2026-10-29T17:23:34Z",
+      "first_seen": "2026-10-29T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "thursdayvibes",
+      "id": "huckabee",
       "rank": 19,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T12:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-29T13:23:37Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-29T14:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-29T15:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-29T16:23:41Z",
+          "t": "2026-10-29T17:23:34Z",
           "r": 19
         }
       ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "#thursdayvibes",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23thursdayvibes",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.7sar9irzo4TwQsRrtHIMAAHaEK&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Huckabee",
+      "description": "Arkansas Governor Sarah Huckabee Sanders recently teamed up with Usha Vance to promote childhood literacy in the state.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Huckabee",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.GK9EB-Qy9uJYV7YV3jZ0cQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T12:23:33Z",
-      "first_seen": "2026-10-29T12:23:33Z",
+      "started_trending": "2026-10-29T17:23:34Z",
+      "first_seen": "2026-10-29T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "instacart",
+      "id": "bluewavein5days",
       "rank": 20,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T13:23:37Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-29T14:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-29T15:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-29T16:23:41Z",
+          "t": "2026-10-29T17:23:34Z",
           "r": 20
         }
       ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Instacart",
-      "description": "Instacart is trending after DoorDash announced a $17 billion deal to acquire the grocery delivery rival.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Instacart",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.O48Lc8VW6sCH+P5pi2BEzQ&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BlueWaveIn5Days",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23BlueWaveIn5Days",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.HCUJd4QbPh8ySXFyKRrOtgHaEu&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T13:23:37Z",
-      "first_seen": "2026-10-29T13:23:37Z",
+      "started_trending": "2026-10-29T17:23:34Z",
+      "first_seen": "2026-10-29T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T16:23:41Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-10-29T17:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
