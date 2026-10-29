@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-29T22:24:56Z",
+  "updated": "2026-10-29T23:25:08Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-10-29T22:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Patrick Stewart",
-      "description": "Renowned actor Patrick Stewart, famous for his iconic roles in 'Star Trek' and 'X-Men', has died at the age of 86, prompting widespread tributes on social media.",
+      "description": "Legendary actor Patrick Stewart, renowned for his iconic roles in 'Star Trek' and 'X-Men,' has died at the age of 86, prompting widespread mourning across Hollywood.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Patrick%20Stewart",
       "image_url": "https://ts2.explicit.bing.net/th?id=OIP.SvRonkw1LT9xBShQSnLBNwHaJo&pid=15.1",
@@ -37,7 +41,44 @@
       "started_trending": "2026-10-29T20:23:34Z",
       "first_seen": "2026-10-29T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "binance",
+      "rank": 2,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-29T21:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-29T22:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Binance",
+      "description": "Binance is facing a major security incident and a potential multi-billion dollar crypto heist, causing widespread concern across cryptocurrency markets.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Binance",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.4oJ5nWWqtyS905VJbDty8QHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T21:23:35Z",
+      "first_seen": "2026-10-29T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-29T23:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -46,7 +87,7 @@
     },
     {
       "id": "star-trek",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -61,12 +102,16 @@
         {
           "t": "2026-10-29T22:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Star Trek",
-      "description": "Fans and co-stars like William Shatner are paying tribute on social media following the death of 'Star Trek' star Patrick Stewart at age 86.",
+      "description": "Fans and co-stars are paying tribute following the death of actor Patrick Stewart at age 86, remembering his iconic role as the captain of 'Star Trek'.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Star%20Trek",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.Wl__dikcqzZmO3fLSHZ_6AHaKe&pid=15.1",
@@ -74,40 +119,40 @@
       "started_trending": "2026-10-29T20:23:34Z",
       "first_seen": "2026-10-29T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "binance",
-      "rank": 3,
+      "id": "red-baron",
+      "rank": 4,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
         {
-          "t": "2026-10-29T21:23:35Z",
+          "t": "2026-10-29T22:23:33Z",
           "r": 6
         },
         {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 3
+          "t": "2026-10-29T23:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": 3,
+      "rank_change": 2,
       "is_new": false,
-      "topic": "Binance",
-      "description": "Binance is trending on social media as the cryptocurrency exchange faces a potential multi-billion-dollar hack, prompting reassurance from leadership and emergency fund freezes.",
+      "topic": "Red Baron",
+      "description": "A hardworking Red Baron grocery vendor in Michigan has received over $250,000 in GoFundMe donations after being cruelly harassed by a TikToker in a viral prank video.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Binance",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.4oJ5nWWqtyS905VJbDty8QHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/Red%20Baron",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.IfmuxuGyiZOKq-gl1LCKuAHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T21:23:35Z",
-      "first_seen": "2026-10-29T21:23:35Z",
+      "started_trending": "2026-10-29T22:23:33Z",
+      "first_seen": "2026-10-29T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
+      "last_seen": "2026-10-29T23:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -115,47 +160,39 @@
       "extra": {}
     },
     {
-      "id": "doomsday",
-      "rank": 4,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "id": "professor-x",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T20:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-29T21:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 4
+          "t": "2026-10-29T23:23:32Z",
+          "r": 5
         }
       ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Doomsday",
-      "description": "Social media is buzzing following reports that the late Patrick Stewart's final film role will be as Professor X in 'Avengers: Doomsday'.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Professor X",
+      "description": "Marvel Studios and fans are remembering Patrick Stewart following his death at 86, with his final film role featuring a posthumous return as Professor X in 'Avengers: Doomsday'.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Doomsday",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.OPqKjxs7lcWH3TOVTKpwRwHaDt&pid=15.1",
+      "url": "https://twstalker.com/search/Professor%20X",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.tq98dPz9p8TnqQwEMU7WUAHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T20:23:34Z",
-      "first_seen": "2026-10-29T20:23:34Z",
+      "started_trending": "2026-10-29T23:23:32Z",
+      "first_seen": "2026-10-29T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "larkin",
-      "rank": 5,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "rank": 6,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-10-29T17:23:34Z",
@@ -180,12 +217,16 @@
         {
           "t": "2026-10-29T22:23:33Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": 1,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Larkin",
-      "description": "Detroit Red Wings player Dylan Larkin has been suspended and chosen to sit out as a trade stalemate escalates, sparking major discussion on social media.",
+      "description": "Detroit Red Wings player Dylan Larkin has been suspended without pay and has decided to sit out until the team completes a trade.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Larkin",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.0OwBGVIVZxeMlxHWDIhKSg&pid=15.1",
@@ -193,36 +234,36 @@
       "started_trending": "2026-10-29T17:23:34Z",
       "first_seen": "2026-10-29T17:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "red-baron",
-      "rank": 6,
+      "id": "x-men",
+      "rank": 7,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 6
+          "t": "2026-10-29T23:23:32Z",
+          "r": 7
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Red Baron",
-      "description": "A GoFundMe for a Red Baron employee who was harassed by a prankster in a viral video has raised over $250,000, drawing widespread support on social media.",
+      "topic": "X-Men",
+      "description": "Marvel and fans are mourning 'X-Men' icon Patrick Stewart after his death at age 86, remembering his legendary portrayal of Charles Xavier.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Red%20Baron",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.IfmuxuGyiZOKq-gl1LCKuAHaHa&pid=15.1",
+      "url": "https://twstalker.com/search/X-Men",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.9Bi1iXnxqE-ONqDoeMbFOQHaJ4&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T22:23:33Z",
-      "first_seen": "2026-10-29T22:23:33Z",
+      "started_trending": "2026-10-29T23:23:32Z",
+      "first_seen": "2026-10-29T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
+      "last_seen": "2026-10-29T23:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -230,45 +271,78 @@
       "extra": {}
     },
     {
-      "id": "vetclaimsai",
-      "rank": 7,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "doomsday",
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-10-29T20:23:34Z",
-          "r": 3
+          "r": 6
         },
         {
           "t": "2026-10-29T21:23:35Z",
-          "r": 3
+          "r": 4
         },
         {
           "t": "2026-10-29T22:23:33Z",
-          "r": 7
+          "r": 4
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": -4,
+      "rank_change": -2,
       "is_new": false,
-      "topic": "#VetClaimsAI",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23VetClaimsAI",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.mll738lWOzsR3gixrl7h8AHaE7&pid=15.1",
+      "topic": "Doomsday",
+      "description": "Patrick Stewart's final film role will be in 'Avengers: Doomsday,' with co-stars reacting to his death at age 86 and remembering his enduring legacy.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Doomsday",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.OPqKjxs7lcWH3TOVTKpwRwHaDt&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-29T20:23:34Z",
       "first_seen": "2026-10-29T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-next-generation",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "The Next Generation",
+      "description": "Fans are remembering Patrick Stewart, who gracefully steered 'Star Trek: The Next Generation' as Captain Jean-Luc Picard, following his death at age 86.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20Next%20Generation",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.xQAGuv1H39IDCtG5c4dNFgHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T23:23:32Z",
+      "first_seen": "2026-10-29T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "american-dad",
-      "rank": 8,
+      "rank": 10,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -283,12 +357,16 @@
         {
           "t": "2026-10-29T22:23:33Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": 2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "American Dad",
-      "description": "Social media users are mourning the death of Patrick Stewart at age 86, remembering his celebrated career spanning Star Trek, X-Men, and American Dad.",
+      "description": "Hollywood and fans are mourning the death of acclaimed actor Patrick Stewart at age 86, reflecting on his celebrated career across stage, film, and television.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/American%20Dad",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.rAneMo1ITCERjbsVNW6ovQ&pid=15.1",
@@ -296,65 +374,119 @@
       "started_trending": "2026-10-29T20:23:34Z",
       "first_seen": "2026-10-29T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "game-7",
-      "rank": 9,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
+      "id": "safu",
+      "rank": 11,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
-          "t": "2026-10-29T17:23:34Z",
-          "r": 18
+          "t": "2026-10-29T22:23:33Z",
+          "r": 16
         },
         {
-          "t": "2026-10-29T18:23:34Z",
-          "r": 8
-        },
+          "t": "2026-10-29T23:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "SAFU",
+      "description": "Binance hot wallets were reportedly hit by a massive exploit resulting in billions in outflows, prompting firms like Tether and Circle to freeze funds.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/SAFU",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.O9xyhLImaQqP-hkaXhmLvwHaE1&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T22:23:33Z",
+      "first_seen": "2026-10-29T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "walt",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-10-29T19:23:34Z",
-          "r": 1
-        },
+          "t": "2026-10-29T23:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Walt",
+      "description": "Walt Disney World and Disney operations are trending as they navigate leadership changes, construction permits, and ongoing park refurbishments.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Walt",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.gzx64KuApAxdyIV2E91BygHaEu&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T23:23:32Z",
+      "first_seen": "2026-10-29T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "vetclaimsai",
+      "rank": 13,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
         {
           "t": "2026-10-29T20:23:34Z",
-          "r": 4
+          "r": 3
         },
         {
           "t": "2026-10-29T21:23:35Z",
-          "r": 5
+          "r": 3
         },
         {
           "t": "2026-10-29T22:23:33Z",
-          "r": 9
+          "r": 7
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 13
         }
       ],
-      "rank_change": 9,
+      "rank_change": -10,
       "is_new": false,
-      "topic": "Game 7",
-      "description": "The Atlanta Dream defeated the Golden State Valkyries to force the first-ever WNBA Finals Game 7, creating a major buzz on social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Game%207",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.6PrVUvgW0DYi2gtb7UFo+g&pid=15.1",
+      "topic": "#VetClaimsAI",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23VetClaimsAI",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.mll738lWOzsR3gixrl7h8AHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T17:23:34Z",
-      "first_seen": "2026-10-29T17:23:34Z",
+      "started_trending": "2026-10-29T20:23:34Z",
+      "first_seen": "2026-10-29T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ian-mckellen",
-      "rank": 10,
+      "rank": 14,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -369,12 +501,16 @@
         {
           "t": "2026-10-29T22:23:33Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": -1,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Ian McKellen",
-      "description": "Social media users are sharing memories of Patrick Stewart following his death at 86, including tributes and throwback photos alongside longtime friend Ian McKellen.",
+      "description": "Fans are sharing emotional reactions and remembering the deep, enduring bond between Patrick Stewart and longtime friend Ian McKellen following Stewart's death.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ian%20McKellen",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.jThK7_knfxnaGbxDR442ewHaKn&pid=15.1",
@@ -382,16 +518,49 @@
       "started_trending": "2026-10-29T20:23:34Z",
       "first_seen": "2026-10-29T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tether-and-circle",
+      "rank": 15,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-29T22:23:33Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Tether and Circle",
+      "description": "Tether and Circle have frozen billions of dollars in funds following a reported security incident and massive exploit affecting Binance.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tether%20and%20Circle",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.xS2h4rGuQfCU3qZgCCp1dwHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T22:23:33Z",
+      "first_seen": "2026-10-29T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "intc",
-      "rank": 11,
+      "rank": 16,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -406,12 +575,16 @@
         {
           "t": "2026-10-29T22:23:33Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": 5,
+      "rank_change": 0,
       "is_new": false,
       "topic": "$INTC",
-      "description": "Intel stock plunged 20% after the chipmaker reported third-quarter earnings but missed fourth-quarter guidance due to sluggish PC sales, sparking heavy discussion on social media.",
+      "description": "Intel stock plunged over 20% after the chipmaker issued weaker-than-expected fourth-quarter guidance due to a persistent slowdown in PC sales.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%24INTC",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.u1Z6jHNw2STCM8SQNPdexwHaC3&pid=15.1",
@@ -419,196 +592,36 @@
       "started_trending": "2026-10-29T20:23:34Z",
       "first_seen": "2026-10-29T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "simmons",
-      "rank": 12,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-29T16:23:41Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-29T17:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-29T18:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-29T19:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-29T20:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-29T21:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Simmons",
-      "description": "The Tennessee Titans traded defensive tackle Jeffery Simmons to the Chicago Bears for two first-round picks, sending shockwaves through social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Simmons",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.ewFIpmK/SkfPLZIYJwpUkA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T15:23:33Z",
-      "first_seen": "2026-10-29T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "alzheimer",
-      "rank": 13,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-29T21:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Alzheimer",
-      "description": "Reports that Patrick Stewart privately battled Alzheimer's disease and Lewy body dementia before his death at 86 are drawing widespread attention and discussion on social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alzheimer",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.2ySwIXkhnkKFREEg_ADWfAHaC-&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T21:23:35Z",
-      "first_seen": "2026-10-29T21:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "avery-bullock",
-      "rank": 14,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-10-29T20:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-29T21:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Avery Bullock",
-      "description": "Fans are mourning the death of Patrick Stewart at 86 on social media, remembering his iconic voice work alongside his beloved roles in 'Star Trek' and 'X-Men'.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Avery%20Bullock",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.SvRonkw1LT9xBShQSnLBNwHaJo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T20:23:34Z",
-      "first_seen": "2026-10-29T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "amzn",
-      "rank": 15,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-29T20:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-29T21:23:35Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "$AMZN",
-      "description": "Amazon stock slid following the company's third-quarter earnings report, drawing intense reaction and discussion across social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24AMZN",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ewfqev17mBzzTBjPmZYSKwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T20:23:34Z",
-      "first_seen": "2026-10-29T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "safu",
-      "rank": 16,
+      "id": "addictedtojisoo",
+      "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 16
+          "t": "2026-10-29T23:23:32Z",
+          "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "SAFU",
-      "description": "Binance and user fund security are drawing intense scrutiny on social media following a major security issue and subsequent asset freezing.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/SAFU",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.O9xyhLImaQqP-hkaXhmLvwHaE1&pid=15.1",
+      "topic": "#ADDICTEDtoJISOO",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23ADDICTEDtoJISOO",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Cc5GbUV_3jLtY12W0kLF5gHaLH&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T22:23:33Z",
-      "first_seen": "2026-10-29T22:23:33Z",
+      "started_trending": "2026-10-29T23:23:32Z",
+      "first_seen": "2026-10-29T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
+      "last_seen": "2026-10-29T23:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -616,61 +629,28 @@
       "extra": {}
     },
     {
-      "id": "earl-grey",
-      "rank": 17,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-29T21:23:35Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Earl Grey",
-      "description": "Social media users are paying tribute to the late Patrick Stewart, celebrating his legendary career across sci-fi, stage, and film.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Earl%20Grey",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.xzeVZvUCMqnZ+Rw/tCcOEg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T21:23:35Z",
-      "first_seen": "2026-10-29T21:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tether-and-circle",
+      "id": "ben-shelton",
       "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T22:23:33Z",
+          "t": "2026-10-29T23:23:32Z",
           "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Tether and Circle",
-      "description": "Circle and Tether have frozen billions in funds following a potential security issue and massive drain at Binance, causing a stir across social media.",
+      "topic": "Ben Shelton",
+      "description": "American tennis star Ben Shelton is making headlines for his recent tournament matches and his recent comments rejecting claims that top players' dominance is fading.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tether%20and%20Circle",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.xS2h4rGuQfCU3qZgCCp1dwHaFj&pid=15.1",
+      "url": "https://twstalker.com/search/Ben%20Shelton",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.pYMY7g2sHVE4L3X-PuYdMwHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T22:23:33Z",
-      "first_seen": "2026-10-29T22:23:33Z",
+      "started_trending": "2026-10-29T23:23:32Z",
+      "first_seen": "2026-10-29T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
+      "last_seen": "2026-10-29T23:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -678,32 +658,28 @@
       "extra": {}
     },
     {
-      "id": "the-inner-light",
+      "id": "red-wings",
       "rank": 19,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T21:23:35Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-29T22:23:33Z",
+          "t": "2026-10-29T23:23:32Z",
           "r": 19
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "The Inner Light",
-      "description": "Fans are taking to social media to remember Patrick Stewart, celebrating his iconic performances as Jean-Luc Picard in 'Star Trek'.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Red Wings",
+      "description": "The Detroit Red Wings have suspended Dylan Larkin without pay as the team actively explores trade opportunities for the player.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20Inner%20Light",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.EwW9YL5SAwWQXW6Z0XJYjAHaFj&pid=15.1",
+      "url": "https://twstalker.com/search/Red%20Wings",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.ladi/ZOO9KpN/9WAwOLD1w&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T21:23:35Z",
-      "first_seen": "2026-10-29T21:23:35Z",
+      "started_trending": "2026-10-29T23:23:32Z",
+      "first_seen": "2026-10-29T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
+      "last_seen": "2026-10-29T23:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -711,39 +687,31 @@
       "extra": {}
     },
     {
-      "id": "green-room",
+      "id": "topic",
       "rank": 20,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-29T20:23:34Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-29T21:23:35Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-29T22:23:33Z",
+          "t": "2026-10-29T23:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Green Room",
-      "description": "Social media users are recalling Patrick Stewart's diverse filmography, including his role in the horror thriller 'Green Room', following his death at 86.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Green%20Room",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.SvRonkw1LT9xBShQSnLBNwHaJo&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#지수솔로_어딕티드에_중독",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23%EC%A7%80%EC%88%98%EC%86%94%EB%A1%9C_%EC%96%B4%EB%94%95%ED%8B%B0%EB%93%9C%EC%97%90_%EC%A4%91%EB%8F%85",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.4VM1sLpZCh54YXwHMhqJvgHaLH&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T20:23:34Z",
-      "first_seen": "2026-10-29T20:23:34Z",
+      "started_trending": "2026-10-29T23:23:32Z",
+      "first_seen": "2026-10-29T23:23:32Z",
       "published": null,
-      "last_seen": "2026-10-29T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-29T23:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
