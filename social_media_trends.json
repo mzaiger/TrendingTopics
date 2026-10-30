@@ -1,15 +1,44 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-30T10:24:58Z",
+  "updated": "2026-10-30T11:25:00Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "red-friday",
+      "id": "good-friday",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Good Friday",
+      "description": "The material doesn't make a description clear, so it cannot be explained why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Good%20Friday",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.nS8WrIrq9NM0GNH+yyp5Vg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T11:23:36Z",
+      "first_seen": "2026-10-30T11:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "red-friday",
+      "rank": 2,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -20,12 +49,16 @@
         {
           "t": "2026-10-30T10:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 2
         }
       ],
-      "rank_change": 6,
+      "rank_change": 5,
       "is_new": false,
       "topic": "RED Friday",
-      "description": "The material does not make a description clear.",
+      "description": "The material doesn't make a description clear, so it cannot be explained why this topic is trending.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/RED%20Friday",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.4acJcqODNSSqrHT1HtODowHaEK&pid=15.1",
@@ -33,59 +66,10 @@
       "started_trending": "2026-10-30T09:23:33Z",
       "first_seen": "2026-10-30T09:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "binance",
-      "rank": 2,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-30T05:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-30T06:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-30T07:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-30T08:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-30T09:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-30T10:23:36Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Binance",
-      "description": "Binance is trending after suffering a suspected record crypto hack resulting in an estimated $6.3 billion in losses.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Binance",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.4oJ5nWWqtyS905VJbDty8QHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T21:23:35Z",
-      "first_seen": "2026-10-29T21:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 13,
-      "volume": "13hr trend",
-      "volume_value": 13,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -102,6 +86,10 @@
         {
           "t": "2026-10-30T10:23:36Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 3
         }
       ],
       "rank_change": 0,
@@ -115,10 +103,10 @@
       "started_trending": "2026-10-30T09:23:33Z",
       "first_seen": "2026-10-30T09:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -135,6 +123,10 @@
         {
           "t": "2026-10-30T10:23:36Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 4
         }
       ],
       "rank_change": -2,
@@ -148,39 +140,59 @@
       "started_trending": "2026-10-30T09:23:33Z",
       "first_seen": "2026-10-30T09:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "avatarsevenhavens",
+      "id": "binance",
       "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
+          "t": "2026-10-30T06:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-30T07:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-30T08:23:35Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-30T09:23:33Z",
+          "r": 1
+        },
+        {
           "t": "2026-10-30T10:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
           "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#Avatarsevenhavens",
-      "description": "Fans are discussing the first-season finale of Avatar: Seven Havens, which takes a very dark turn as character Pavi goes on the run.",
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Binance",
+      "description": "Binance is trending on social media following the largest crypto hack in history, in which $6.3 billion was reportedly stolen, forcing the platform to suspend withdrawals and transactions.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Avatarsevenhavens",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.g3DH1ZywCuCBDGT1cCs--AHaDK&pid=15.1",
+      "url": "https://twstalker.com/search/Binance",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.4oJ5nWWqtyS905VJbDty8QHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T10:23:36Z",
-      "first_seen": "2026-10-30T10:23:36Z",
+      "started_trending": "2026-10-29T21:23:35Z",
+      "first_seen": "2026-10-29T21:23:35Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 14,
+      "volume": "14hr trend",
+      "volume_value": 14,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -197,12 +209,16 @@
         {
           "t": "2026-10-30T10:23:36Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 6
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "Happy Halloween Eve",
-      "description": "Social media users are sharing spooky science facts, holiday fun, and word games as they celebrate Halloween Eve.",
+      "description": "The material doesn't make a description clear, so it cannot be explained why this topic is trending.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Happy%20Halloween%20Eve",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.-2bmI8L7h4ZqHcVEDEYK5QHaHa&pid=15.1",
@@ -210,7 +226,40 @@
       "started_trending": "2026-10-30T09:23:33Z",
       "first_seen": "2026-10-30T09:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "avatarsevenhavens",
+      "rank": 7,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-10-30T10:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "#Avatarsevenhavens",
+      "description": "Avatar: Seven Havens is trending as fans and critics discuss the dark season 1 finale and Pavi's journey in the final episode.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23Avatarsevenhavens",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.g3DH1ZywCuCBDGT1cCs--AHaDK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T10:23:36Z",
+      "first_seen": "2026-10-30T10:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-30T11:23:36Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -219,7 +268,7 @@
     },
     {
       "id": "orm-kornnaphat",
-      "rank": 7,
+      "rank": 8,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -230,12 +279,16 @@
         {
           "t": "2026-10-30T10:23:36Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 8
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Orm Kornnaphat",
-      "description": "The material does not make a description clear.",
+      "description": "The material doesn't make a description clear, so it cannot be explained why this topic is trending.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Orm%20Kornnaphat",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.pWl4fGvXTCXZgKXtFXj7IAHaLG&pid=15.1",
@@ -243,16 +296,74 @@
       "started_trending": "2026-10-30T09:23:33Z",
       "first_seen": "2026-10-30T09:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-friyay",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy Friyay",
+      "description": "The material doesn't make a description clear, so it cannot be explained why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Happy%20Friyay",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.A50sJPnpUhF3m0MTJoUj-gHaG2&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T11:23:36Z",
+      "first_seen": "2026-10-30T11:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "remember-everyone-deployed",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Remember Everyone Deployed",
+      "description": "The material doesn't make a description clear, so it cannot be explained why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Remember%20Everyone%20Deployed",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.G-4Q3fxHbak2YvDIi5IsBwHaFG&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T11:23:36Z",
+      "first_seen": "2026-10-30T11:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "topic",
-      "rank": 8,
+      "rank": 11,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -263,9 +374,13 @@
         {
           "t": "2026-10-30T10:23:36Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 11
         }
       ],
-      "rank_change": 6,
+      "rank_change": 3,
       "is_new": false,
       "topic": "#ออมกรณ์นภัส",
       "description": "",
@@ -276,285 +391,7 @@
       "started_trending": "2026-10-30T09:23:33Z",
       "first_seen": "2026-10-30T09:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "panthers",
-      "rank": 9,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-30T05:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-30T06:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-30T07:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-30T08:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-30T09:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-30T10:23:36Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Panthers",
-      "description": "The Carolina Panthers are trending following their 27-19 road defeat against the Green Bay Packers on Thursday Night Football.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Panthers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.lWtwd7yBMBCSHF/HSOqfYQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T00:23:33Z",
-      "first_seen": "2026-10-30T00:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ahs13",
-      "rank": 10,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-10-30T05:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-30T06:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-30T07:23:35Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-30T08:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-30T09:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-30T10:23:36Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#AHS13",
-      "description": "Viewers are reacting to the American Horror Story Season 13 finale, which featured an ultimate sacrifice to defeat the devil.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23AHS13",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.hNd+Jc1IbsZcHKLZ85NsmA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T05:23:33Z",
-      "first_seen": "2026-10-30T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "christian-watson",
-      "rank": 11,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-10-30T05:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-30T06:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-30T07:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-10-30T08:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-30T09:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-30T10:23:36Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Christian Watson",
-      "description": "Green Bay Packers wide receiver Christian Watson is trending after spitting up blood and visiting the hospital for a chest injury before remarkably returning to the game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Christian%20Watson",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ra7k1Tnr2MZR7Sqzy8DmOwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T01:23:31Z",
-      "first_seen": "2026-10-30T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "red-baron",
-      "rank": 12,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-10-30T05:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-30T06:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-30T07:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-30T08:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-30T09:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-30T10:23:36Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Red Baron",
-      "description": "A Red Baron worker in Michigan is receiving widespread support after a fundraiser was launched following a mean viral prank by influencers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Red%20Baron",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.IfmuxuGyiZOKq-gl1LCKuAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T22:23:33Z",
-      "first_seen": "2026-10-29T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 12,
-      "volume": "12hr trend",
-      "volume_value": 12,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "devops",
-      "rank": 13,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-30T06:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-30T07:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-10-30T08:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-30T09:23:33Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-30T10:23:36Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "DevOps",
-      "description": "DevOps is trending following reports that a compromised DevOps laptop may have served as the entry point for a massive $6.3 billion Binance crypto theft.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/DevOps",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.HTrlGB5DsITMaxOsr1jV0gHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T06:23:33Z",
-      "first_seen": "2026-10-30T06:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "safu",
-      "rank": 14,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-10-30T08:23:35Z",
-          "r": 19
-        },
-        {
-          "t": "2026-10-30T09:23:33Z",
-          "r": 20
-        },
-        {
-          "t": "2026-10-30T10:23:36Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "SAFU",
-      "description": "Binance's SAFU fund is drawing heavy attention amid warnings that it will not fully cover the exchange's massive $6.3 billion hack.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/SAFU",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.LV1keI25BFlpDx9gCcgRPAHaFo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T08:23:35Z",
-      "first_seen": "2026-10-30T08:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
+      "last_seen": "2026-10-30T11:23:36Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -562,28 +399,57 @@
       "extra": {}
     },
     {
-      "id": "bryce",
-      "rank": 15,
+      "id": "fridayvibes",
+      "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-30T10:23:36Z",
-          "r": 15
+          "t": "2026-10-30T11:23:36Z",
+          "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Bryce",
-      "description": "Panthers quarterback Bryce Young is facing discussion after taking six sacks and injuring his knee during the team's loss to the Packers.",
+      "topic": "#FridayVibes",
+      "description": "The material doesn't make a description clear, so it cannot be explained why this topic is trending.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bryce",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.TEasm-YxQ716wzYjlEks0QHaFc&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T10:23:36Z",
-      "first_seen": "2026-10-30T10:23:36Z",
+      "url": "https://twstalker.com/search/%23FridayVibes",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-30T11:23:36Z",
+      "first_seen": "2026-10-30T11:23:36Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "datu",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Datu",
+      "description": "The material doesn't make a description clear, so it cannot be explained why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Datu",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-30T11:23:36Z",
+      "first_seen": "2026-10-30T11:23:36Z",
+      "published": null,
+      "last_seen": "2026-10-30T11:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -592,7 +458,7 @@
     },
     {
       "id": "trm-labs",
-      "rank": 16,
+      "rank": 14,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -611,12 +477,16 @@
         {
           "t": "2026-10-30T10:23:36Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 14
         }
       ],
-      "rank_change": 0,
+      "rank_change": 2,
       "is_new": false,
       "topic": "TRM Labs",
-      "description": "TRM Labs is trending after reporting that North Korean actors stole $6.36 billion from Binance in the largest crypto theft in history.",
+      "description": "TRM Labs is trending on social media after reporting that North Korean actors stole $6.36 billion from Binance in the largest crypto heist in history.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/TRM%20Labs",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.EEu_MqcDNQl33Z9vTQFrVAHaHa&pid=15.1",
@@ -624,7 +494,97 @@
       "started_trending": "2026-10-30T07:23:35Z",
       "first_seen": "2026-10-30T07:23:35Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "christian-watson",
+      "rank": 15,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-10-30T06:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-30T07:23:35Z",
+          "r": 1
+        },
+        {
+          "t": "2026-10-30T08:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-30T09:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-30T10:23:36Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -14,
+      "is_new": false,
+      "topic": "Christian Watson",
+      "description": "Packers wide receiver Christian Watson is trending after he broke a rib and spat up blood, went to the hospital in an ambulance, and remarkably returned to play in the game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Christian%20Watson",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ra7k1Tnr2MZR7Sqzy8DmOwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T01:23:31Z",
+      "first_seen": "2026-10-30T01:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "safu",
+      "rank": 16,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-10-30T08:23:35Z",
+          "r": 19
+        },
+        {
+          "t": "2026-10-30T09:23:33Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-30T10:23:36Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "SAFU",
+      "description": "SAFU is trending on social media as experts warn that the Binance SAFU fund will not fully reimburse investors following a massive $6.3 billion security breach.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/SAFU",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.LV1keI25BFlpDx9gCcgRPAHaFo&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T08:23:35Z",
+      "first_seen": "2026-10-30T08:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-30T11:23:36Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -632,146 +592,146 @@
       "extra": {}
     },
     {
-      "id": "grizzlies",
+      "id": "red-baron",
       "rank": 17,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
-          "t": "2026-10-30T05:23:33Z",
-          "r": 6
-        },
-        {
           "t": "2026-10-30T06:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-30T07:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-30T08:23:35Z",
           "r": 7
         },
         {
-          "t": "2026-10-30T09:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-30T10:23:36Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Grizzlies",
-      "description": "The Memphis Grizzlies are trending following a 124-103 victory over the Portland Trail Blazers that extended their win streak.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Grizzlies",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Snjo0FnNv1ryIXceZlTdzA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T04:23:34Z",
-      "first_seen": "2026-10-30T04:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "josh-jacobs",
-      "rank": 18,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-10-30T05:23:33Z",
+          "t": "2026-10-30T07:23:35Z",
           "r": 8
         },
         {
-          "t": "2026-10-30T06:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-10-30T07:23:35Z",
-          "r": 10
-        },
-        {
           "t": "2026-10-30T08:23:35Z",
-          "r": 10
+          "r": 8
         },
         {
           "t": "2026-10-30T09:23:33Z",
-          "r": 18
+          "r": 11
         },
         {
           "t": "2026-10-30T10:23:36Z",
-          "r": 18
+          "r": 12
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 17
         }
       ],
-      "rank_change": -8,
+      "rank_change": -9,
       "is_new": false,
-      "topic": "Josh Jacobs",
-      "description": "Green Bay Packers running back Josh Jacobs is drawing attention after scoring two touchdowns in a win against the Panthers.",
+      "topic": "Red Baron",
+      "description": "A Red Baron employee is trending after strangers raised more than $446,000 for him following a mean viral prank by influencers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Josh%20Jacobs",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.WAlCEBVVKntEVwwJgZSpcQ&pid=15.1",
+      "url": "https://twstalker.com/search/Red%20Baron",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.IfmuxuGyiZOKq-gl1LCKuAHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T01:23:31Z",
-      "first_seen": "2026-10-30T01:23:31Z",
+      "started_trending": "2026-10-29T22:23:33Z",
+      "first_seen": "2026-10-29T22:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 13,
+      "volume": "13hr trend",
+      "volume_value": 13,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "cam-boozer",
-      "rank": 19,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "devops",
+      "rank": 18,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
-          "t": "2026-10-30T05:23:33Z",
-          "r": 10
-        },
-        {
           "t": "2026-10-30T06:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-30T07:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-30T08:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-30T09:23:33Z",
           "r": 15
         },
         {
+          "t": "2026-10-30T07:23:35Z",
+          "r": 14
+        },
+        {
+          "t": "2026-10-30T08:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-10-30T09:23:33Z",
+          "r": 17
+        },
+        {
           "t": "2026-10-30T10:23:36Z",
+          "r": 13
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "DevOps",
+      "description": "DevOps is trending on social media after Binance reported that a compromised DevOps laptop may have served as the entry point for a massive $6.3 billion crypto theft.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/DevOps",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.HTrlGB5DsITMaxOsr1jV0gHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T06:23:33Z",
+      "first_seen": "2026-10-30T06:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ahs13",
+      "rank": 19,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-10-30T06:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-30T07:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-30T08:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-30T09:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-30T10:23:36Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
           "r": 19
         }
       ],
-      "rank_change": -10,
+      "rank_change": -12,
       "is_new": false,
-      "topic": "Cam Boozer",
-      "description": "Grizzlies rookie Cameron Boozer is trending after recording a historic triple-double that made him the second-youngest player in NBA history to achieve the feat.",
+      "topic": "#AHS13",
+      "description": "American Horror Story Season 13 is trending as viewers discuss the dramatic season finale and its puzzling ending involving the devil.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cam%20Boozer",
-      "image_url": "https://ts4.explicit.bing.net/th?id=OIF.7fpteMp3SJ1db3kj6fGm5w&pid=15.1",
+      "url": "https://twstalker.com/search/%23AHS13",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.hNd+Jc1IbsZcHKLZ85NsmA&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T04:23:34Z",
-      "first_seen": "2026-10-30T04:23:34Z",
+      "started_trending": "2026-10-30T05:23:33Z",
+      "first_seen": "2026-10-30T05:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
+      "last_seen": "2026-10-30T11:23:36Z",
       "hours_trending": 6,
       "volume": "6hr trend",
       "volume_value": 6,
@@ -779,31 +739,35 @@
       "extra": {}
     },
     {
-      "id": "criticalrolespoilers",
+      "id": "bryce",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-10-30T10:23:36Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-30T11:23:36Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#criticalrolespoilers",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23criticalrolespoilers",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.XWfsjagXm5F1DAJcj5SdwgHaKc&pid=15.1",
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Bryce",
+      "description": "Panthers quarterback Bryce Young is trending on social media after taking six sacks and dealing with an injured knee following a loss to the Packers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bryce",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.TEasm-YxQ716wzYjlEks0QHaFc&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-30T10:23:36Z",
       "first_seen": "2026-10-30T10:23:36Z",
       "published": null,
-      "last_seen": "2026-10-30T10:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-30T11:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
