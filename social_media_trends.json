@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-30T02:27:31Z",
+  "updated": "2026-10-30T03:25:25Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 6,
       "is_new": false,
       "topic": "Christian Watson",
-      "description": "Green Bay Packers wide receiver Christian Watson is trending during the Week 8 game against the Carolina Panthers after leaving early due to a chest injury following a collision and a fumble.",
+      "description": "Green Bay Packers wide receiver Christian Watson is trending after being taken to the hospital with a chest injury during a Thursday Night Football game against the Carolina Panthers, though he later returned to Lambeau Field.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Christian%20Watson",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.ra7k1Tnr2MZR7Sqzy8DmOwHaE8&pid=15.1",
@@ -33,10 +37,10 @@
       "started_trending": "2026-10-30T01:23:31Z",
       "first_seen": "2026-10-30T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -57,12 +61,16 @@
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 2
         }
       ],
       "rank_change": 3,
       "is_new": false,
       "topic": "Panthers",
-      "description": "The Carolina Panthers are trending as they face the Green Bay Packers on Thursday Night Football in Week 8, playing down three starters and placing Akayleb Evans on injured reserve.",
+      "description": "The Carolina Panthers are trending due to various roster moves and injuries ahead of their Week 8 Thursday Night Football matchup against the Green Bay Packers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Panthers",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.lWtwd7yBMBCSHF/HSOqfYQ&pid=15.1",
@@ -70,7 +78,7 @@
       "started_trending": "2026-10-30T00:23:33Z",
       "first_seen": "2026-10-30T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
+      "last_seen": "2026-10-30T03:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -78,8 +86,37 @@
       "extra": {}
     },
     {
-      "id": "packers",
+      "id": "bryce-young",
       "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bryce Young",
+      "description": "Carolina Panthers quarterback Bryce Young is trending as social media and sports outlets discuss his performance, fantasy football outlook, and his arrival ahead of the Week 8 game against the Green Bay Packers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bryce%20Young",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Y-v1xQFTlMgqh4Ajwrr64gHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T03:23:32Z",
+      "first_seen": "2026-10-30T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "packers",
+      "rank": 4,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -90,12 +127,16 @@
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": 8,
+      "rank_change": 7,
       "is_new": false,
       "topic": "Packers",
-      "description": "Fans are following the Green Bay Packers as they host the Carolina Panthers in a Week 8 Thursday Night Football primetime matchup at Lambeau Field.",
+      "description": "The Green Bay Packers are trending during their Thursday Night Football game against the Carolina Panthers, which featured a rogue drone interruption and a surprise appearance by the Milwaukee Brewers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Packers",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.pU31wjxHpGWhLARwWK76Og&pid=15.1",
@@ -103,63 +144,18 @@
       "started_trending": "2026-10-30T01:23:31Z",
       "first_seen": "2026-10-30T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "red-baron",
-      "rank": 4,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-29T23:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-30T00:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-30T01:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-30T02:23:33Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Red Baron",
-      "description": "A Michigan Red Baron grocery store employee who was harassed by a TikTok prankster has received over $280,000 in donations through a GoFundMe fundraiser started by supporters.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Red%20Baron",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.IfmuxuGyiZOKq-gl1LCKuAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T22:23:33Z",
-      "first_seen": "2026-10-29T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "binance",
       "rank": 5,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-10-29T21:23:35Z",
@@ -184,12 +180,16 @@
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 5
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Binance",
-      "description": "Cryptocurrency markets and platforms are reacting after Binance reported a potential security incident, leading to billions in crypto funds being frozen and a drop in Bitcoin's price.",
+      "description": "Binance is trending after reporting a potential security issue that resulted in billions of dollars in cryptocurrency being frozen, causing crypto prices to fall.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Binance",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.4oJ5nWWqtyS905VJbDty8QHaE7&pid=15.1",
@@ -197,7 +197,56 @@
       "started_trending": "2026-10-29T21:23:35Z",
       "first_seen": "2026-10-29T21:23:35Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "red-baron",
+      "rank": 6,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-29T22:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-29T23:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-30T00:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-30T01:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-30T02:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Red Baron",
+      "description": "A Michigan Red Baron worker is trending on social media after a fundraiser raised over $250,000 following a viral prank by an influencer at a grocery store.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Red%20Baron",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.IfmuxuGyiZOKq-gl1LCKuAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-29T22:23:33Z",
+      "first_seen": "2026-10-29T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-30T03:23:32Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -205,15 +254,44 @@
       "extra": {}
     },
     {
+      "id": "jordan-love",
+      "rank": 7,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-30T02:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Jordan Love",
+      "description": "Green Bay Packers quarterback Jordan Love is trending following his performance and touchdown passes during the Thursday Night Football game against the Carolina Panthers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jordan%20Love",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.cDoUVPJ18ZTEcqKCqp7QVAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T02:23:33Z",
+      "first_seen": "2026-10-30T02:23:33Z",
+      "published": null,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "patrick-stewart",
-      "rank": 6,
+      "rank": 8,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-29T20:23:34Z",
-          "r": 1
-        },
         {
           "t": "2026-10-29T21:23:35Z",
           "r": 1
@@ -237,12 +315,16 @@
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 6
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": -5,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Patrick Stewart",
-      "description": "Legendary actor Patrick Stewart, renowned for his iconic roles as Captain Jean-Luc Picard in 'Star Trek' and Professor X in 'X-Men', has died at the age of 86, prompting tributes from across the entertainment world.",
+      "description": "Legendary actor Patrick Stewart, renowned for his roles as a Star Trek captain and Professor X in X-Men, is trending following news of his death at age 86, prompting widespread tributes.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Patrick%20Stewart",
       "image_url": "https://ts2.explicit.bing.net/th?id=OIP.SvRonkw1LT9xBShQSnLBNwHaJo&pid=15.1",
@@ -250,45 +332,53 @@
       "started_trending": "2026-10-29T20:23:34Z",
       "first_seen": "2026-10-29T20:23:34Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "bryce",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "josh-jacobs",
+      "rank": 9,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
+          "t": "2026-10-30T01:23:31Z",
+          "r": 9
+        },
+        {
           "t": "2026-10-30T02:23:33Z",
-          "r": 7
+          "r": 12
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bryce",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Bryce",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.m2PK8_7is_brm2Ej3eyZlQHaDv&pid=15.1",
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Josh Jacobs",
+      "description": "Green Bay Packers running back Josh Jacobs is trending after scoring his first rushing touchdown of the 2026 season during the Thursday Night Football game against the Carolina Panthers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Josh%20Jacobs",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.WAlCEBVVKntEVwwJgZSpcQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T02:23:33Z",
-      "first_seen": "2026-10-30T02:23:33Z",
+      "started_trending": "2026-10-30T01:23:31Z",
+      "first_seen": "2026-10-30T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "matthew-golden",
-      "rank": 8,
+      "rank": 10,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -299,12 +389,16 @@
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": 9,
+      "rank_change": 7,
       "is_new": false,
       "topic": "Matthew Golden",
-      "description": "Green Bay Packers wide receiver Matthew Golden is active and playing for Thursday Night Football against the Carolina Panthers after appearing on injury reports and pre-game status lists.",
+      "description": "Green Bay Packers wide receiver Matthew Golden is trending after being officially active for the Thursday Night Football game against the Carolina Panthers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Matthew%20Golden",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.zFp2EWdQckhzDiHj5WpzhQHaE7&pid=15.1",
@@ -312,72 +406,10 @@
       "started_trending": "2026-10-30T01:23:31Z",
       "first_seen": "2026-10-30T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "trey-smack",
-      "rank": 9,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-30T01:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-30T02:23:33Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Trey Smack",
-      "description": "Green Bay Packers kicker Trey Smack is trending during their Thursday Night Football game against the Carolina Panthers after missing another point-after attempt.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Trey%20Smack",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.mdrF2mIcKUQ7rjQ2TYJrKA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T01:23:31Z",
-      "first_seen": "2026-10-30T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jordan-love",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-30T02:23:33Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jordan Love",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Jordan%20Love",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.cDoUVPJ18ZTEcqKCqp7QVAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T02:23:33Z",
-      "first_seen": "2026-10-30T02:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -394,6 +426,10 @@
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 11
         }
       ],
       "rank_change": -1,
@@ -407,49 +443,82 @@
       "started_trending": "2026-10-30T01:23:31Z",
       "first_seen": "2026-10-30T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "josh-jacobs",
+      "id": "coker",
       "rank": 12,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-30T01:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-30T02:23:33Z",
+          "t": "2026-10-30T03:23:32Z",
           "r": 12
         }
       ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Josh Jacobs",
-      "description": "Green Bay Packers running back Josh Jacobs is drawing heavy attention from analysts, fantasy football players, and sports bettors ahead of the team's Thursday Night Football matchup against the Panthers.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Coker",
+      "description": "Carolina Panthers wide receiver Jalen Coker is trending due to discussions surrounding his playing status, fantasy football outlook, and performance in the game against the Packers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Josh%20Jacobs",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.WAlCEBVVKntEVwwJgZSpcQ&pid=15.1",
+      "url": "https://twstalker.com/search/Coker",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.HU4O7rkFvzkGs7n23A4LvQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T03:23:32Z",
+      "first_seen": "2026-10-30T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "trey-smack",
+      "rank": 13,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-30T01:23:31Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-30T02:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Trey Smack",
+      "description": "Green Bay Packers kicker Trey Smack is trending after missing multiple extra point attempts, including a loud doink, during the game against the Carolina Panthers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Trey%20Smack",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.mdrF2mIcKUQ7rjQ2TYJrKA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-30T01:23:31Z",
       "first_seen": "2026-10-30T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lambeau",
-      "rank": 13,
+      "rank": 14,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -460,12 +529,16 @@
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 13
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": 1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Lambeau",
-      "description": "Lambeau Field is trending as fans gather for the Thursday Night Football game between the Packers and Panthers, which also features the World Series champion Milwaukee Brewers celebrating with Lambeau Leaps.",
+      "description": "Lambeau Field is trending after Milwaukee Brewers players made a surprise appearance during Thursday Night Football to celebrate their World Series win with Lambeau Leaps.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Lambeau",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.Bxrlrr1ZptnluZTU-NMeDQHaEO&pid=15.1",
@@ -473,44 +546,7 @@
       "started_trending": "2026-10-30T01:23:31Z",
       "first_seen": "2026-10-30T01:23:31Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "911onabc",
-      "rank": 14,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-30T00:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-30T01:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-30T02:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "#911onABC",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23911onABC",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.MoNPg361mwGaKQu19nVbhQHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T00:23:33Z",
-      "first_seen": "2026-10-30T00:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
+      "last_seen": "2026-10-30T03:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -518,61 +554,8 @@
       "extra": {}
     },
     {
-      "id": "star-trek",
-      "rank": 15,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-29T20:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-29T21:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-29T22:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-29T23:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-30T00:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-30T01:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-30T02:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Star Trek",
-      "description": "Fans and creators are honoring the legacy of Star Trek captain actor Patrick Stewart following his death at age 86, alongside new tabletop gaming announcements for the franchise.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Star%20Trek",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Wl__dikcqzZmO3fLSHZ_6AHaKe&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-29T20:23:34Z",
-      "first_seen": "2026-10-29T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "keeppounding",
-      "rank": 16,
+      "rank": 15,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -587,12 +570,16 @@
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 16
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": -7,
+      "rank_change": -6,
       "is_new": false,
       "topic": "#KeepPounding",
-      "description": "Carolina Panthers fans are using the team slogan as quarterback Bryce Young prepares for his 50th NFL start and the team looks forward under coach Dave Canales.",
+      "description": "The hashtag #KeepPounding is trending as fans and reporters discuss the Carolina Panthers' ongoing season storylines, trade deadline hurdles, and preparations under head coach Dave Canales.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23KeepPounding",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.uPS9QNIgHSrJaV5yCSiRMAHaHa&pid=15.1",
@@ -600,7 +587,7 @@
       "started_trending": "2026-10-30T00:23:33Z",
       "first_seen": "2026-10-30T00:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
+      "last_seen": "2026-10-30T03:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -608,18 +595,109 @@
       "extra": {}
     },
     {
-      "id": "tnfonprime",
+      "id": "green-bay",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Green Bay",
+      "description": "Green Bay is trending as the location for the Thursday Night Football matchup between the Packers and the Panthers, which also featured a surprise visit from the Milwaukee Brewers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Green%20Bay",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.nGlAOVyzlPrYno0+La67DA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T03:23:32Z",
+      "first_seen": "2026-10-30T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rasheed-walker",
       "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-30T02:23:33Z",
+          "t": "2026-10-30T03:23:32Z",
           "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
+      "topic": "Rasheed Walker",
+      "description": "Rasheed Walker is trending as sports analysts and fans preview the Green Bay Packers' matchup against the Carolina Panthers and look to avoid previous penalties.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rasheed%20Walker",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.o8DGsLhEPbJYYEfRV4k7Nw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T03:23:32Z",
+      "first_seen": "2026-10-30T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dave-canales",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dave Canales",
+      "description": "Carolina Panthers head coach Dave Canales is trending as media outlets discuss his contract details and team storylines ahead of their prime-time game against the Packers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dave%20Canales",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.ANZj_RL6IsrmXfxA0M--owHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T03:23:32Z",
+      "first_seen": "2026-10-30T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-30T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tnfonprime",
+      "rank": 19,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-10-30T02:23:33Z",
+          "r": 17
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
       "topic": "#TNFonPrime",
       "description": "",
       "description_source": "",
@@ -629,36 +707,7 @@
       "started_trending": "2026-10-30T02:23:33Z",
       "first_seen": "2026-10-30T02:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hopper",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-30T02:23:33Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Hopper",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Hopper",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.4MyJOUqrUGV0jobLUqh6-QHaEG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T02:23:33Z",
-      "first_seen": "2026-10-30T02:23:33Z",
-      "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
+      "last_seen": "2026-10-30T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -667,63 +716,34 @@
     },
     {
       "id": "carvsgb",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-10-30T02:23:33Z",
           "r": 19
+        },
+        {
+          "t": "2026-10-30T03:23:32Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "#CARvsGB",
-      "description": "",
-      "description_source": "",
+      "description": "The hashtag #CARvsGB is trending on social media during the Thursday Night Football matchup between the Carolina Panthers and the Green Bay Packers, which included a visit from the World Series-winning Milwaukee Brewers.",
+      "description_source": "gemini",
       "url": "https://twstalker.com/search/%23CARvsGB",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.Ho0EZKW2sGvVQgYzRNZ6jwHaEJ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "started_trending": "2026-10-30T02:23:33Z",
       "first_seen": "2026-10-30T02:23:33Z",
       "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
+      "last_seen": "2026-10-30T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "picard",
-      "rank": 20,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-10-30T01:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-10-30T02:23:33Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Picard",
-      "description": "Tributes pour in for actor Patrick Stewart, who is widely remembered for bringing elegance and emotional depth to Captain Jean-Luc Picard in the 'Star Trek' franchise.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Picard",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.0qLY6jVqMS-vC2H5F4z1LQHaMC&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T01:23:31Z",
-      "first_seen": "2026-10-30T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-30T02:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
