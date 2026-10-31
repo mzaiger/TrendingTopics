@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-31T17:26:12Z",
+  "updated": "2026-10-31T18:24:58Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "halloween",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-31T17:23:30Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Halloween",
-      "description": "A shooting at a Spirit Halloween store in California left one person dead and six others wounded, while a surprise Halloween episode of 'It: Welcome to Derry' dropped on HBO Max.",
+      "description": "A deadly shooting at a Spirit Halloween store in Fairfield, California, left one person dead and six others injured, sparking a police manhunt.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Halloween",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.Ck-q0nm38DitdkPyBibFXAHaEK&pid=15.1",
@@ -29,45 +33,16 @@
       "started_trending": "2026-10-31T17:23:30Z",
       "first_seen": "2026-10-31T17:23:30Z",
       "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "brighton",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 2
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Brighton",
-      "description": "Brighton stunned Manchester City with an away victory at the Etihad Stadium in their Premier League match, keeping Erling Haaland quiet.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brighton",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.S7C4CykkPTZTyCZ8WDeMkw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T17:23:30Z",
-      "first_seen": "2026-10-31T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "navy",
-      "rank": 3,
+      "rank": 2,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -78,12 +53,16 @@
         {
           "t": "2026-10-31T17:23:30Z",
           "r": 3
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 2
         }
       ],
-      "rank_change": 6,
+      "rank_change": 7,
       "is_new": false,
       "topic": "Navy",
-      "description": "No. 5 Notre Dame and Navy are facing off in a college football clash at Gillette Stadium.",
+      "description": "Notre Dame and Navy are preparing to face off in a college football matchup at Gillette Stadium, accompanied by police warnings about a scheduled flyover.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Navy",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.s4euS0TX0rQH4L5+GDFexg&pid=15.1",
@@ -91,7 +70,69 @@
       "started_trending": "2026-10-31T16:23:30Z",
       "first_seen": "2026-10-31T16:23:30Z",
       "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "iowa",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Iowa",
+      "description": "College football fans are following upcoming matchups and betting odds for teams like Iowa and Iowa State, alongside recent athletic championship results.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Iowa",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.fRlCQkz+uPbHitsoVflZAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T18:23:31Z",
+      "first_seen": "2026-10-31T18:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rutgers",
+      "rank": 4,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-10-31T17:23:30Z",
+          "r": 10
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Rutgers",
+      "description": "College football coverage highlights the upcoming matchup between Rutgers and Michigan, alongside speculation regarding the future of Rutgers coach Greg Schiano.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rutgers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.McOBxE4bDcPnDMRAxQWfQQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T17:23:30Z",
+      "first_seen": "2026-10-31T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -100,19 +141,23 @@
     },
     {
       "id": "chris-ash",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 5,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-10-31T17:23:30Z",
           "r": 4
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Chris Ash",
-      "description": "The material does not make the description for Chris Ash clear.",
+      "description": "The material does not provide enough information to write a clear description.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Chris%20Ash",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.rLyflDHSiobFRmmJP_uVxgHaEK&pid=15.1",
@@ -120,7 +165,193 @@
       "started_trending": "2026-10-31T17:23:30Z",
       "first_seen": "2026-10-31T17:23:30Z",
       "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brighton",
+      "rank": 6,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-31T17:23:30Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Brighton",
+      "description": "Brighton pulled off a stunning upset victory against Manchester City in the Premier League, keeping Erling Haaland quiet and closing the gap on league leaders.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Brighton",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.S7C4CykkPTZTyCZ8WDeMkw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T17:23:30Z",
+      "first_seen": "2026-10-31T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wisconsin",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Wisconsin",
+      "description": "Wisconsin is trending as the No. 25 football team prepares to face Iowa and following a recent 7-1 hockey victory over Notre Dame.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Wisconsin",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.24qShKvknTKYMJnk1m/Cdg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T18:23:31Z",
+      "first_seen": "2026-10-31T18:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "arizona",
+      "rank": 8,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-10-31T17:23:30Z",
+          "r": 8
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Arizona",
+      "description": "The Arizona Governor declared a state of emergency for Navajo and Coconino counties due to extreme weather, while the state's college football teams prepare for weekend matchups.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Arizona",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Pb89gHoEJrSyC_t-pucIAwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T17:23:30Z",
+      "first_seen": "2026-10-31T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fickell",
+      "rank": 9,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-10-31T17:23:30Z",
+          "r": 18
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Fickell",
+      "description": "Wisconsin football coach Luke Fickell is drawing media attention following the team's resurgence and as they prepare to face rival Iowa.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Fickell",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.xf4NxyiFduJxy2eANtHTPQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T17:23:30Z",
+      "first_seen": "2026-10-31T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "persona-1",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Persona 1",
+      "description": "Gaming news features leaked gameplay footage of an unannounced Persona remake, generating discussion online.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Persona%201",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Nozdl-rTADfLmvyXvfjh0AHaB7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T18:23:31Z",
+      "first_seen": "2026-10-31T18:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "freeman",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Freeman",
+      "description": "Los Angeles Dodgers star Freddie Freeman is making headlines following the conclusion of the baseball postseason.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Freeman",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.yZ2VHWOS0hKdGX06xuB2FwHaKf&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T18:23:31Z",
+      "first_seen": "2026-10-31T18:23:31Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -129,18 +360,10 @@
     },
     {
       "id": "poland",
-      "rank": 5,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "rank": 12,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
-        {
-          "t": "2026-10-31T11:23:38Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-31T12:23:31Z",
-          "r": 3
-        },
         {
           "t": "2026-10-31T13:23:31Z",
           "r": 6
@@ -160,12 +383,16 @@
         {
           "t": "2026-10-31T17:23:30Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 12
         }
       ],
-      "rank_change": -2,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Poland",
-      "description": "Poland has deployed riot police amid a tense political standoff and physical confrontations over the country's top constitutional court and a power struggle involving the president and judges.",
+      "description": "Protests and a political standoff erupted in Poland after the president suspended the country's top court president, leading to a physical confrontation with judges and the deployment of riot police.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Poland",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.8EsXi_J8tkLoGjBoZ79INgHaFc&pid=15.1",
@@ -173,57 +400,32 @@
       "started_trending": "2026-10-30T22:23:36Z",
       "first_seen": "2026-10-30T22:23:36Z",
       "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 18,
-      "volume": "18hr trend",
-      "volume_value": 18,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jj-buchanan",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "JJ Buchanan",
-      "description": "JJ Buchanan caught a 6-yard touchdown pass from Tommy Carr to give Michigan an early lead against Rutgers in their Halloween matchup.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/JJ%20Buchanan",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.zIKrwA1i6Tpe6TOSqYU+HQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T17:23:30Z",
-      "first_seen": "2026-10-31T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 19,
+      "volume": "19hr trend",
+      "volume_value": 19,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "noah-fifita",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 13,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-10-31T17:23:30Z",
           "r": 7
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "Noah Fifita",
-      "description": "Noah Fifita revealed to Nick Saban why he stayed at Arizona, as the Wildcats prepare for a matchup against Texas Tech.",
+      "description": "Arizona quarterback Noah Fifita is drawing attention for his standout performances and impressive plays on the field despite playing through a previous injury.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Noah%20Fifita",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.YezPMNvVET9mN19QC0B2CAHaE8&pid=15.1",
@@ -231,45 +433,16 @@
       "started_trending": "2026-10-31T17:23:30Z",
       "first_seen": "2026-10-31T17:23:30Z",
       "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "arizona",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Arizona",
-      "description": "The Arizona Governor declared a state of emergency for Navajo and Coconino counties following extreme weather, while the state's college football teams prepare for weekend matchups.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Arizona",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Pb89gHoEJrSyC_t-pucIAwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T17:23:30Z",
-      "first_seen": "2026-10-31T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mrfanboyep10",
-      "rank": 9,
+      "rank": 14,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -284,9 +457,13 @@
         {
           "t": "2026-10-31T17:23:30Z",
           "r": 9
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 14
         }
       ],
-      "rank_change": 3,
+      "rank_change": -2,
       "is_new": false,
       "topic": "#MrFanboyEP10",
       "description": "",
@@ -297,36 +474,36 @@
       "started_trending": "2026-10-31T15:23:31Z",
       "first_seen": "2026-10-31T15:23:31Z",
       "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "rutgers",
-      "rank": 10,
+      "id": "badgers",
+      "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 10
+          "t": "2026-10-31T18:23:31Z",
+          "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Rutgers",
-      "description": "Rutgers prepares to face Michigan in a Halloween college football matchup as discussions swirl around the program's coaching future.",
+      "topic": "Badgers",
+      "description": "The Wisconsin Badgers are trending as they prepare for a football matchup against the Iowa Hawkeyes and following a dominant 7-1 hockey win over Notre Dame.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rutgers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.McOBxE4bDcPnDMRAxQWfQQHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Badgers",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.w137bOwuZxlGKr7mOCInbwHaE1&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T17:23:30Z",
-      "first_seen": "2026-10-31T17:23:30Z",
+      "started_trending": "2026-10-31T18:23:31Z",
+      "first_seen": "2026-10-31T18:23:31Z",
       "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
+      "last_seen": "2026-10-31T18:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -334,8 +511,107 @@
       "extra": {}
     },
     {
+      "id": "deuce-alexander",
+      "rank": 16,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-10-31T17:23:30Z",
+          "r": 20
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Deuce Alexander",
+      "description": "The material does not provide enough information to write a clear description.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Deuce%20Alexander",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.8x929S1RNhexgogkBStimg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T17:23:30Z",
+      "first_seen": "2026-10-31T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "castellanos",
+      "rank": 17,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-10-31T17:23:30Z",
+          "r": 15
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Castellanos",
+      "description": "Texas Tech is making a change at quarterback, benching Will Hammond in favor of Tommy Castellanos for their upcoming game against Arizona.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Castellanos",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.4PYN9nhqTh4UCAORN9Escg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T17:23:30Z",
+      "first_seen": "2026-10-31T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jj-buchanan",
+      "rank": 18,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-31T17:23:30Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -12,
+      "is_new": false,
+      "topic": "JJ Buchanan",
+      "description": "College football highlights feature early scoring plays, including a touchdown pass from Tommy Carr to JJ Buchanan during the Michigan versus Rutgers game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/JJ%20Buchanan",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.zIKrwA1i6Tpe6TOSqYU+HQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T17:23:30Z",
+      "first_seen": "2026-10-31T17:23:30Z",
+      "published": null,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "mr-fanboy-chapter-10",
-      "rank": 11,
+      "rank": 19,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -350,9 +626,13 @@
         {
           "t": "2026-10-31T17:23:30Z",
           "r": 11
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 19
         }
       ],
-      "rank_change": 3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "MR FANBOY CHAPTER 10",
       "description": "",
@@ -363,102 +643,32 @@
       "started_trending": "2026-10-31T15:23:31Z",
       "first_seen": "2026-10-31T15:23:31Z",
       "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "manchester-united",
-      "rank": 12,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-10-31T15:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-31T16:23:30Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Manchester United",
-      "description": "Manchester United fell to a 2-0 defeat against 10-man Chelsea at Stamford Bridge, plunging the team into a Premier League relegation battle and increasing pressure on Michael Carrick.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Manchester%20United",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.Z/cW19fk+q+Fa7fK3zK3Fw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T15:23:31Z",
-      "first_seen": "2026-10-31T15:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ocon",
-      "rank": 13,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-10-31T15:23:31Z",
-          "r": 17
-        },
-        {
-          "t": "2026-10-31T16:23:30Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Ocon",
-      "description": "Esteban Ocon was pulled from the Mexico City Grand Prix weekend by Haas without an explanation, with Ryo Hirakawa stepping in to replace him.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ocon",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.uSgmuOVN-XfgoreoIU9JEQAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T15:23:31Z",
-      "first_seen": "2026-10-31T15:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-31T18:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ways-and-means",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-10-31T17:23:30Z",
           "r": 14
+        },
+        {
+          "t": "2026-10-31T18:23:31Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "Ways and Means",
-      "description": "Ways and Means is trending as a heavy favorite facing multiple challenges, alongside political races and tax rule updates.",
+      "description": "Ways and Means dominated the competition to win the Breeders' Cup Filly and Mare Sprint.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ways%20and%20Means",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.i-Kk-ft50zDI4uxxkFj69gAAAA&pid=15.1",
@@ -466,196 +676,10 @@
       "started_trending": "2026-10-31T17:23:30Z",
       "first_seen": "2026-10-31T17:23:30Z",
       "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "castellanos",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Castellanos",
-      "description": "Texas Tech is making a quarterback change, starting Thomas Castellanos over Will Hammond as the team faces Arizona following its first loss.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Castellanos",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.4PYN9nhqTh4UCAORN9Escg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T17:23:30Z",
-      "first_seen": "2026-10-31T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "pikmin",
-      "rank": 16,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-31T15:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-31T16:23:30Z",
-          "r": 7
-        },
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Pikmin",
-      "description": "Nintendo dropped a surprise Pikmin Day Direct presentation, revealing new announcements and projects including Hello! Pikmin.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Pikmin",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.wHUiBkZyaNUaLxa_8cQIsQHaL_&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T15:23:31Z",
-      "first_seen": "2026-10-31T15:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
+      "last_seen": "2026-10-31T18:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hank-brown",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Hank Brown",
-      "description": "Hank Brown connected with DJ Vonnahme for a touchdown to extend Iowa's lead over Wisconsin in a critical clash for the Hawkeyes.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hank%20Brown",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.5CBb35eovRFeuAx1PSg0VAHaJj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T17:23:30Z",
-      "first_seen": "2026-10-31T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fickell",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Fickell",
-      "description": "Wisconsin coach Luke Fickell is reportedly off the hot seat as No. 25 Wisconsin prepares to face Iowa to take back the Heartland Trophy.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fickell",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.xf4NxyiFduJxy2eANtHTPQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T17:23:30Z",
-      "first_seen": "2026-10-31T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "trick-or-treat",
-      "rank": 19,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-10-31T16:23:30Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Trick or Treat",
-      "description": "Communities across the United States are posting their official trick-or-treating hours and events for Halloween night.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Trick%20or%20Treat",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.FdrS6X64eFntMqsHq-iRpQHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T16:23:30Z",
-      "first_seen": "2026-10-31T16:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "deuce-alexander",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T17:23:30Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Deuce Alexander",
-      "description": "Ole Miss and Auburn are facing off in a football matchup while midseason 2027 NFL Draft rankings circulate online.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Deuce%20Alexander",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.8x929S1RNhexgogkBStimg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T17:23:30Z",
-      "first_seen": "2026-10-31T17:23:30Z",
-      "published": null,
-      "last_seen": "2026-10-31T17:23:30Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
