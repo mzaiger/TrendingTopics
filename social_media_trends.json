@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-10-31T03:25:17Z",
+  "updated": "2026-10-31T04:25:15Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "luka",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-10-31T03:23:41Z",
           "r": 1
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Luka",
-      "description": "Luka Doncic is trending following injury status updates and discussions regarding an upcoming matchup against the Golden State Warriors.",
+      "description": "Lakers star Luka Doncic is trending following injury updates and status reports regarding upcoming matchups against the Warriors and Clippers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Luka",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.1oz0Ldxlcygvzn3H4mXjRQHaE7&pid=15.1",
@@ -29,7 +33,114 @@
       "started_trending": "2026-10-31T03:23:41Z",
       "first_seen": "2026-10-31T03:23:41Z",
       "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "halloween",
+      "rank": 2,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-10-30T23:23:37Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-31T00:23:47Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-31T01:23:31Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-31T02:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-31T03:23:41Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Halloween",
+      "description": "Halloween is trending as athletes debut their costumes across the sports world, while a fatal shooting at a Spirit Halloween store in Michigan makes news.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Halloween",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.V7oKgrfxMC24p5COEI2aiwHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-30T16:23:35Z",
+      "first_seen": "2026-10-30T16:23:35Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "warriors",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Warriors",
+      "description": "The Golden State Warriors are trending as they prepare for an NBA Cup game and rematch against the Los Angeles Lakers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Warriors",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-31T04:23:43Z",
+      "first_seen": "2026-10-31T04:23:43Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "steph",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Steph",
+      "description": "Steph Curry is trending after strong back-to-back wins for the Warriors, a new nickname for his wife Ayesha, and his appearance at Coachella.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Steph",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.SGIaA7xMaaCZ7o1PO2mSiwHaHZ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T04:23:43Z",
+      "first_seen": "2026-10-31T04:23:43Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -38,14 +149,10 @@
     },
     {
       "id": "poland",
-      "rank": 2,
+      "rank": 5,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-10-30T22:23:36Z",
-          "r": 1
-        },
         {
           "t": "2026-10-30T23:23:37Z",
           "r": 1
@@ -65,12 +172,16 @@
         {
           "t": "2026-10-31T03:23:41Z",
           "r": 2
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 5
         }
       ],
-      "rank_change": -1,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Poland",
-      "description": "Poland is trending due to escalating political tensions and protests after the suspension of top court judges and the court chief, sparking a constitutional crisis.",
+      "description": "Poland is trending as the ousting of a top court chief sparks protests, clashes with riot police, and a political crisis over the rule of law.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Poland",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.8EsXi_J8tkLoGjBoZ79INgHaFc&pid=15.1",
@@ -78,118 +189,32 @@
       "started_trending": "2026-10-30T22:23:36Z",
       "first_seen": "2026-10-30T22:23:36Z",
       "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "smackdown",
-      "rank": 3,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-31T00:23:47Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-31T01:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-31T02:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "#SmackDown",
-      "description": "WWE SmackDown is trending following a special themed episode featuring Sami Zayn defending his WWE title and various high-profile matches.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23SmackDown",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.nONgyAfLTfY2_lLhp0HoQAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T00:23:47Z",
-      "first_seen": "2026-10-31T00:23:47Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "halloween",
-      "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-10-30T22:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-30T23:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-10-31T00:23:47Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-31T01:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-31T02:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Halloween",
-      "description": "Halloween is trending as athletes debut festive costumes and tragic news emerges from a fatal shooting at a Spirit Halloween store in Michigan.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Halloween",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.V7oKgrfxMC24p5COEI2aiwHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T16:23:35Z",
-      "first_seen": "2026-10-30T16:23:35Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "yaxel",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 6,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-10-31T03:23:41Z",
           "r": 5
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Yaxel",
-      "description": "Yaxel Lendeborg is trending on social media after wearing a Michael Myers costume to a rematch against Luka Doncic and following his transition to the Warriors.",
+      "description": "Yaxel Lendeborg is trending following a viral video of him wearing a Michael Myers costume ahead of a matchup against Luka Doncic and the Lakers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Yaxel",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.d6+q2MTS3SBaInGJQcthnw&pid=15.1",
@@ -197,7 +222,36 @@
       "started_trending": "2026-10-31T03:23:41Z",
       "first_seen": "2026-10-31T03:23:41Z",
       "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "podz",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Podz",
+      "description": "Brandin Podziemski is trending after being named in the Warriors' starting lineup alongside Curry, Santos, Yaxel, and Green.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Podz",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-31T04:23:43Z",
+      "first_seen": "2026-10-31T04:23:43Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -205,20 +259,98 @@
       "extra": {}
     },
     {
-      "id": "kyrie",
-      "rank": 6,
+      "id": "reaves",
+      "rank": 8,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 6
+          "t": "2026-10-31T04:23:43Z",
+          "r": 8
         }
       ],
       "rank_change": null,
       "is_new": true,
+      "topic": "Reaves",
+      "description": "Austin Reaves is trending as he and Luka Doncic establish themselves as a top NBA duo following a victory over the Clippers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Reaves",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-31T04:23:43Z",
+      "first_seen": "2026-10-31T04:23:43Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "smackdown",
+      "rank": 9,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-31T00:23:47Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-31T01:23:31Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-31T02:23:32Z",
+          "r": 2
+        },
+        {
+          "t": "2026-10-31T03:23:41Z",
+          "r": 3
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "#SmackDown",
+      "description": "WWE SmackDown is trending as fans discuss the Halloween special episode featuring Sami Zayn defending his title and Danhausen's special presentation.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23SmackDown",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.nONgyAfLTfY2_lLhp0HoQAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T00:23:47Z",
+      "first_seen": "2026-10-31T00:23:47Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kyrie",
+      "rank": 10,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-10-31T03:23:41Z",
+          "r": 6
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
       "topic": "Kyrie",
-      "description": "Kyrie Irving is trending after scoring 35 points and teaming up with Cooper Flagg to rally the Mavericks past the Rockets.",
+      "description": "Kyrie Irving is trending after combining with Cooper Flagg for 68 points to lead the Mavericks to a victory over the Rockets.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Kyrie",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.cMhL8GqEDY0C1Sap8xp7_wHaEK&pid=15.1",
@@ -226,40 +358,7 @@
       "started_trending": "2026-10-31T03:23:41Z",
       "first_seen": "2026-10-31T03:23:41Z",
       "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "brunson",
-      "rank": 7,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-10-31T02:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Brunson",
-      "description": "Jalen Brunson is trending after a stellar performance for the Knicks, a newly announced guest role on Law & Order: SVU, and receiving top honors from the Philadelphia Sports Writers Association.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brunson",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.3C2EoscJvAX64F2oKdMf-wHaFV&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T02:23:32Z",
-      "first_seen": "2026-10-31T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
+      "last_seen": "2026-10-31T04:23:43Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -268,14 +367,10 @@
     },
     {
       "id": "tusk",
-      "rank": 8,
+      "rank": 11,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-10-30T22:23:36Z",
-          "r": 4
-        },
         {
           "t": "2026-10-30T23:23:37Z",
           "r": 4
@@ -295,12 +390,16 @@
         {
           "t": "2026-10-31T03:23:41Z",
           "r": 8
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 11
         }
       ],
-      "rank_change": -4,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Tusk",
-      "description": "Donald Tusk is trending as a fierce constitutional clash and 'coup' accusations unfold in Poland following the ousting of the top court's chief judge.",
+      "description": "Donald Tusk is trending as a fierce political battle and court showdown in Poland intensifies, leading to protests and coup accusations.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tusk",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.cbQ2rnSXawMcaoTxHaqWxwHaK7&pid=15.1",
@@ -308,45 +407,16 @@
       "started_trending": "2026-10-30T20:23:32Z",
       "first_seen": "2026-10-30T20:23:32Z",
       "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mavs",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Mavs",
-      "description": "The Mavericks are trending after handing the Rockets their first loss of the season behind strong performances from Kyrie Irving and Cooper Flagg.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mavs",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JyN1qZC7ekuh1QSqXihBbgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T03:23:41Z",
-      "first_seen": "2026-10-31T03:23:41Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "oplive",
-      "rank": 10,
+      "rank": 12,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -365,12 +435,16 @@
         {
           "t": "2026-10-31T03:23:41Z",
           "r": 10
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 12
         }
       ],
-      "rank_change": 3,
+      "rank_change": 1,
       "is_new": false,
       "topic": "#OPLive",
-      "description": "The hashtag is trending due to a surge of automated and spam-like live-streaming links for high school athletic matchups across various platforms.",
+      "description": "This topic is trending due to automated spam posts on social media sharing unverified live stream links for various high school sports co-op games.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23OPLive",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.b_xvgWYH7KMQfgQyssgl_wHaEK&pid=15.1",
@@ -378,7 +452,106 @@
       "started_trending": "2026-10-31T00:23:47Z",
       "first_seen": "2026-10-31T00:23:47Z",
       "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mavs",
+      "rank": 13,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-10-31T03:23:41Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Mavs",
+      "description": "The Mavericks are trending after handing the Rockets their first loss of the season behind strong performances from Kyrie Irving and Cooper Flagg.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mavs",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JyN1qZC7ekuh1QSqXihBbgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T03:23:41Z",
+      "first_seen": "2026-10-31T03:23:41Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dillon-brooks",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dillon Brooks",
+      "description": "Suns player Dillon Brooks is trending after being ejected from a game against the Nuggets for kicking Jamal Murray in the groin.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dillon%20Brooks",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-31T04:23:43Z",
+      "first_seen": "2026-10-31T04:23:43Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brunson",
+      "rank": 15,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-10-31T02:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-10-31T03:23:41Z",
+          "r": 7
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Brunson",
+      "description": "Jalen Brunson is trending after a stellar scoring run for the Knicks and the reveal of his upcoming guest star role on Law and Order SVU.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Brunson",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.3C2EoscJvAX64F2oKdMf-wHaFV&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T02:23:32Z",
+      "first_seen": "2026-10-31T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -386,49 +559,74 @@
       "extra": {}
     },
     {
-      "id": "daytimeemmys",
-      "rank": 11,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "haley-stevens",
+      "rank": 16,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
-          "t": "2026-10-31T00:23:47Z",
-          "r": 9
+          "t": "2026-10-31T03:23:41Z",
+          "r": 17
         },
         {
-          "t": "2026-10-31T01:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-10-31T02:23:32Z",
-          "r": 9
-        },
+          "t": "2026-10-31T04:23:43Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Haley Stevens",
+      "description": "Haley Stevens is trending amid a reopened feud and clashes with Abdul El-Sayed ahead of a planned joint appearance in the Michigan Senate race.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Haley%20Stevens",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.XFiezTveojIOwa/6/HXDBA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "started_trending": "2026-10-31T03:23:41Z",
+      "first_seen": "2026-10-31T03:23:41Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cooper-flagg",
+      "rank": 17,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
         {
           "t": "2026-10-31T03:23:41Z",
-          "r": 11
+          "r": 15
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 17
         }
       ],
       "rank_change": -2,
       "is_new": false,
-      "topic": "#DaytimeEmmys",
-      "description": "The Daytime Emmys are trending following the 2026 winners list announcements, emotional tributes, and notable category wins.",
+      "topic": "Cooper Flagg",
+      "description": "Cooper Flagg is trending after scoring 33 points alongside Kyrie Irving to help the Mavericks hand the Rockets their first loss.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23DaytimeEmmys",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.uRkjInK6BgqZBp-kewNl2wHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/Cooper%20Flagg",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.eRQYSqeC5E26taXNgJ5kLQAAAA&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T00:23:47Z",
-      "first_seen": "2026-10-31T00:23:47Z",
+      "started_trending": "2026-10-31T03:23:41Z",
+      "first_seen": "2026-10-31T03:23:41Z",
       "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "kucherov",
-      "rank": 12,
+      "rank": 18,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -451,12 +649,16 @@
         {
           "t": "2026-10-31T03:23:41Z",
           "r": 12
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 18
         }
       ],
-      "rank_change": -9,
+      "rank_change": -15,
       "is_new": false,
       "topic": "Kucherov",
-      "description": "Nikita Kucherov is trending after the reigning NHL MVP reportedly informed the Tampa Bay Lightning that he will not re-sign and has requested a trade.",
+      "description": "Nikita Kucherov is trending after reportedly informing the Lightning that he will not re-sign and asking the team for a trade.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Kucherov",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.61L0iEu-jS3XQxXa59jERAHaE8&pid=15.1",
@@ -464,217 +666,7 @@
       "started_trending": "2026-10-30T23:23:37Z",
       "first_seen": "2026-10-30T23:23:37Z",
       "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "baylor",
-      "rank": 13,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-10-31T01:23:31Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-31T02:23:32Z",
-          "r": 15
-        },
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Baylor",
-      "description": "Baylor is trending following the fallout from Dave Aranda's departure and as the football team prepares to face UCF under new circumstances.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Baylor",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.PXlZrd7f4DmKxN9VYN5EjA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T01:23:31Z",
-      "first_seen": "2026-10-31T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "simons",
-      "rank": 14,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-31T02:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Simons",
-      "description": "Anfernee Simons is trending after scoring 21 points off the bench with five three-pointers to help lead his team to victory.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Simons",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.otcDxzxwe4exBh7c7RkL5AHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T02:23:32Z",
-      "first_seen": "2026-10-31T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cooper-flagg",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cooper Flagg",
-      "description": "Cooper Flagg is trending after recording a massive 33 points alongside Kyrie Irving to help the Mavericks rally past the Rockets.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cooper%20Flagg",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.eRQYSqeC5E26taXNgJ5kLQAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T03:23:41Z",
-      "first_seen": "2026-10-31T03:23:41Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gafford",
-      "rank": 16,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-10-31T02:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Gafford",
-      "description": "Daniel Gafford is trending following strong statistical contributions and high-flying dunks in the Mavericks' recent win over the Rockets.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gafford",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.dwnSOUYr8AevOO_YVDPq-QEsCo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T02:23:32Z",
-      "first_seen": "2026-10-31T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "haley-stevens",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Haley Stevens",
-      "description": "Haley Stevens is trending following public clashes and sniping with former primary rival Abdul El-Sayed over a joint appearance and political ads in the Michigan Senate race.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Haley%20Stevens",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.XFiezTveojIOwa/6/HXDBA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T03:23:41Z",
-      "first_seen": "2026-10-31T03:23:41Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "polish",
-      "rank": 18,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-10-30T22:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-10-30T23:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-31T00:23:47Z",
-          "r": 6
-        },
-        {
-          "t": "2026-10-31T01:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-10-31T02:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Polish",
-      "description": "Polish authorities and the president are trending after a dramatic return from an overseas trip, police deployments, and clashes following the suspension of the high court chief.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Polish",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.2BBAKAHHISUI5iPA-iQTUAHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-30T22:23:36Z",
-      "first_seen": "2026-10-30T22:23:36Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
+      "last_seen": "2026-10-31T04:23:43Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -682,64 +674,76 @@
       "extra": {}
     },
     {
-      "id": "tulane",
+      "id": "daytimeemmys",
       "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
-          "t": "2026-10-31T03:23:41Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tulane",
-      "description": "Tulane is trending after securing a 38-31 victory over Charlotte in a hard-fought college football matchup.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tulane",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.txgA0IkiiJEa05-0BPJZ5QHaE6&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T03:23:41Z",
-      "first_seen": "2026-10-31T03:23:41Z",
-      "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bona",
-      "rank": 20,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
+          "t": "2026-10-31T00:23:47Z",
+          "r": 9
+        },
+        {
+          "t": "2026-10-31T01:23:31Z",
+          "r": 9
+        },
         {
           "t": "2026-10-31T02:23:32Z",
-          "r": 10
+          "r": 9
         },
         {
           "t": "2026-10-31T03:23:41Z",
-          "r": 20
+          "r": 11
+        },
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 19
         }
       ],
       "rank_change": -10,
       "is_new": false,
-      "topic": "Bona",
-      "description": "Bona is trending on social media following the announcement of winners at the Samsung Galaxy Content Creator Awards and lifestyle articles on holiday burnout.",
+      "topic": "#DaytimeEmmys",
+      "description": "The Daytime Emmys are trending following their 2026 winners list, with top honors going to shows like General Hospital and The Kelly Clarkson Show.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bona",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Gkz5H-vXJth2h53hgMt8ggHaHc&pid=15.1",
+      "url": "https://twstalker.com/search/%23DaytimeEmmys",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.uRkjInK6BgqZBp-kewNl2wHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
-      "started_trending": "2026-10-31T02:23:32Z",
-      "first_seen": "2026-10-31T02:23:32Z",
+      "started_trending": "2026-10-31T00:23:47Z",
+      "first_seen": "2026-10-31T00:23:47Z",
       "published": null,
-      "last_seen": "2026-10-31T03:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "vando",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-10-31T04:23:43Z",
+          "r": 20
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Vando",
+      "description": "Jarred Vanderbilt is trending as analysts discuss his newfound role as the backup center and whether he deserves more playing time for the Lakers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Vando",
+      "image_url": "",
+      "image_source": "",
+      "started_trending": "2026-10-31T04:23:43Z",
+      "first_seen": "2026-10-31T04:23:43Z",
+      "published": null,
+      "last_seen": "2026-10-31T04:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
