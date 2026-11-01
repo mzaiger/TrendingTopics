@@ -295,6 +295,7 @@ def finalize(raw_items: list[dict], previous_doc: dict, *, rank_mode: str,
             "url": it.get("url") or "",
             "image_url": "",
             "image_source": "",
+            "image_verified": False,
             "started_trending": iso(added),
             "first_seen": iso(added),
             "published": iso(min(published, now)) if published else None,
@@ -458,13 +459,25 @@ def heuristic_query(topic: str, description: str = "") -> str:
 
 
 def items_needing_images(raw_items: list[dict], previous_doc: dict, limit: int) -> list[dict]:
-    """Items that still need a picture (no DuckDuckGo preview image saved from an earlier run)."""
+    """Items that still need a picture: none saved yet, or the saved DuckDuckGo/Bing preview is
+    broken (download fails, not an image, or Bing's grey 80x80 "no image" placeholder).
+    Saved pictures that were never verified are downloaded and checked first (see ThumbChecker)."""
     prev = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
+    unverified = [
+        old["image_url"] for it in raw_items
+        for old in [prev.get(it["id"])]
+        if old and old.get("image_url") and old.get("image_source") == DDG_SOURCE
+        and not old.get("image_verified")
+    ]
+    if unverified:
+        CHECKER.audit(unverified)
     out = []
     for it in raw_items:
         old = prev.get(it["id"])
         if old and old.get("image_url") and old.get("image_source") == DDG_SOURCE:
-            continue
+            if old.get("image_verified") or CHECKER.status(old["image_url"]) is not False:
+                continue
+            info(f"  bad saved image for {it['topic']!r} - will look it up again")
         out.append(it)
         if len(out) >= limit:
             break
@@ -568,8 +581,8 @@ def _tokens(text: str) -> set[str]:
             if len(t) > 1 and t not in _TITLE_STOP}
 
 
-def pick_best_image(results: list[dict], topic: str, query: str) -> Optional[str]:
-    """Choose the most relevant of DuckDuckGo's candidates and return its search-engine preview.
+def rank_images(results: list[dict], topic: str, query: str) -> list[str]:
+    """DuckDuckGo's candidates, best first, as their search-engine previews.
 
     The search engine only matches keywords, so we check each candidate's own title/source against
     the topic (weighted most) and the query, prefer decent-sized, normal-shaped pictures, and avoid
@@ -578,7 +591,7 @@ def pick_best_image(results: list[dict], topic: str, query: str) -> Optional[str
     """
     topic_t = _tokens(topic)
     extra_t = _tokens(query) - topic_t
-    best_url, best_score, best_hit = None, -1e9, False
+    scored: list[tuple[float, str]] = []
     for idx, r in enumerate(results):
         url = r.get("image") or ""            # original picture: only used to judge the candidate
         thumb = r.get("thumbnail") or ""      # DuckDuckGo's own preview: this is what we keep
@@ -604,9 +617,16 @@ def pick_best_image(results: list[dict], topic: str, query: str) -> Optional[str
         if any(hst in url.lower() for hst in _WATERMARK_HOSTS):
             score -= 0.5
         score -= idx * 0.05            # DuckDuckGo's own order breaks ties
-        if score > best_score:
-            best_url, best_score, best_hit = thumb, score, (topic_cov > 0 or extra_cov > 0)
-    return best_url if best_hit else None
+        if topic_cov > 0 or extra_cov > 0:       # must share a word with the topic / query
+            scored.append((score, thumb))
+    scored.sort(key=lambda x: -x[0])
+    seen: set[str] = set()
+    return [t for _, t in scored if not (t in seen or seen.add(t))]
+
+
+def pick_best_image(results: list[dict], topic: str, query: str) -> Optional[str]:
+    ranked = rank_images(results, topic, query)
+    return ranked[0] if ranked else None
 
 
 def _retryable(msg: str) -> bool:
@@ -616,6 +636,139 @@ def _retryable(msg: str) -> bool:
         "readerror", "remoteprotocolerror", "temporarily unavailable", "timeout",
         "502", "503", "504",
     ))
+
+
+# ------------------------------------------------------------ verifying the picture itself
+
+def _image_size(data: bytes) -> Optional[tuple[int, int]]:
+    """(width, height) from the first bytes of a PNG / GIF / JPEG / WebP, or None."""
+    try:
+        if data[:8] == b"\x89PNG\r\n\x1a\n" and len(data) >= 24:
+            return int.from_bytes(data[16:20], "big"), int.from_bytes(data[20:24], "big")
+        if data[:4] == b"GIF8" and len(data) >= 10:
+            return int.from_bytes(data[6:8], "little"), int.from_bytes(data[8:10], "little")
+        if data[:2] == b"\xff\xd8":                       # JPEG: walk the segments to a SOFn
+            i = 2
+            while i + 9 < len(data):
+                if data[i] != 0xFF:
+                    i += 1
+                    continue
+                marker = data[i + 1]
+                if marker in (0xD8, 0x01) or 0xD0 <= marker <= 0xD7:
+                    i += 2
+                    continue
+                seg = int.from_bytes(data[i + 2:i + 4], "big")
+                if marker in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+                    return int.from_bytes(data[i + 7:i + 9], "big"), int.from_bytes(data[i + 5:i + 7], "big")
+                i += 2 + seg
+        if data[:4] == b"RIFF" and data[8:12] == b"WEBP":
+            kind = data[12:16]
+            if kind == b"VP8X" and len(data) >= 30:
+                return (int.from_bytes(data[24:27], "little") + 1,
+                        int.from_bytes(data[27:30], "little") + 1)
+            if kind == b"VP8L" and len(data) >= 25:
+                b = int.from_bytes(data[21:25], "little")
+                return (b & 0x3FFF) + 1, ((b >> 14) & 0x3FFF) + 1
+            if kind == b"VP8 " and len(data) >= 30:
+                return (int.from_bytes(data[26:28], "little") & 0x3FFF,
+                        int.from_bytes(data[28:30], "little") & 0x3FFF)
+    except (IndexError, ValueError):
+        pass
+    return None
+
+
+class ThumbChecker:
+    """Downloads a picture URL and decides whether it is a real picture.
+
+    Bing's preview server (what DuckDuckGo hands back) sometimes answers 200 with its grey
+    80x80 "no image" icon, so a URL that merely loads is not good enough. A picture is BAD when the
+    download fails (HTTP error, not an image) or when it is tiny: both sides under IMAGE_MIN_SIDE
+    (default 100 px, which catches the 80x80 placeholder) or fewer than 1.2 KB.
+    Temporary trouble (timeouts, 5xx, connection errors) is retried and, if it keeps failing, the
+    answer is "unknown" (None) - nothing is thrown away on a flaky connection.
+    """
+
+    def __init__(self) -> None:
+        self.enabled = os.environ.get("IMAGE_VERIFY", "1") != "0"
+        self.min_side = int(os.environ.get("IMAGE_MIN_SIDE", "100"))
+        self.max_audit = int(os.environ.get("IMAGE_MAX_VERIFY", "250"))   # old pictures per run
+        self.retries = int(os.environ.get("IMAGE_VERIFY_RETRIES", "3"))
+        self.cache: dict[str, bool] = {}
+        self.audited = 0
+        self._session = None
+
+    def _sess(self):
+        if self._session is None:
+            self._session = requests.Session()
+            self._session.headers.update({"User-Agent": UA, "Accept": "image/*,*/*;q=0.8"})
+        return self._session
+
+    def status(self, url: str) -> Optional[bool]:
+        """True / False if this URL has been checked this run, None if not (or inconclusive)."""
+        if not self.enabled:
+            return True
+        return self.cache.get(url)
+
+    def check(self, url: str) -> tuple[Optional[bool], str]:
+        """(True, '') good; (False, why) bad; (None, why) couldn't tell."""
+        if not self.enabled:
+            return True, ""
+        if url in self.cache:
+            return self.cache[url], "" if self.cache[url] else "cached bad"
+        why = "unreachable"
+        for attempt in range(self.retries):
+            try:
+                with self._sess().get(url, timeout=15, stream=True) as r:
+                    code = r.status_code
+                    if code >= 500 or code == 429:
+                        why = f"http {code}"
+                    elif code >= 400:
+                        self.cache[url] = False
+                        return False, f"http {code}"
+                    else:
+                        ctype = (r.headers.get("content-type") or "").lower()
+                        data = b""
+                        for chunk in r.iter_content(16384):
+                            data += chunk
+                            if len(data) >= 262144:
+                                break
+                        if not ctype.startswith("image/"):
+                            self.cache[url] = False
+                            return False, f"not an image ({ctype or 'no type'})"
+                        size = _image_size(data)
+                        if size and max(size) < self.min_side:
+                            self.cache[url] = False
+                            return False, f"placeholder-size {size[0]}x{size[1]}"
+                        if len(data) < 1200:
+                            self.cache[url] = False
+                            return False, f"tiny file ({len(data)} bytes)"
+                        self.cache[url] = True
+                        return True, ""
+            except requests.RequestException as e:
+                why = f"error ({type(e).__name__})"
+            if attempt + 1 < self.retries:
+                time.sleep(1.5 * 2 ** attempt + random.uniform(0, 1))
+        return None, why
+
+    def audit(self, urls: list[str]) -> None:
+        """Check saved pictures (not yet verified) in parallel, within the per-run budget."""
+        if not self.enabled:
+            return
+        todo = [u for u in dict.fromkeys(urls) if u not in self.cache][:max(0, self.max_audit - self.audited)]
+        if not todo:
+            return
+        from concurrent.futures import ThreadPoolExecutor
+        info(f"Checking {len(todo)} saved image(s) for broken / placeholder pictures...")
+        with ThreadPoolExecutor(max_workers=8) as pool:
+            results = list(pool.map(self.check, todo))
+        self.audited += len(todo)
+        bad = [(u, w) for u, (ok, w) in zip(todo, results) if ok is False]
+        for u, w in bad[:10]:
+            info(f"  bad image: {w}  {u[:90]}")
+        info(f"  {len(todo) - len(bad)} fine/unknown, {len(bad)} bad")
+
+
+CHECKER = ThumbChecker()
 
 
 class ImageFinder:
@@ -642,6 +795,7 @@ class ImageFinder:
             self.safesearch = "on"
         self.timeout = 20
         self.candidates = int(os.environ.get("IMAGE_CANDIDATES", "12"))
+        self.verify_candidates = int(os.environ.get("IMAGE_VERIFY_CANDIDATES", "6"))
         self.lookups = 0
         self.failures_in_a_row = 0
         self.blocked = False
@@ -682,6 +836,8 @@ class ImageFinder:
         return [], reason
 
     def find(self, query: str, topic: Optional[str] = None) -> Optional[str]:
+        """A verified picture for the topic, or None. Tries the best-ranked candidates in turn
+        (each is downloaded and checked), then a plainer search with just the topic."""
         q = re.sub(r"\s+", " ", query or "").replace('"', "").strip()[:200]
         if not q or not self.enabled or self.blocked:
             return None
@@ -691,14 +847,42 @@ class ImageFinder:
         if self.lookups >= self.max_lookups:
             return None
         self.lookups += 1
-        results, reason = self._search(q)
-        url = pick_best_image(results, topic or q, q) if results else None
-        if results and not url:
-            reason = "no_match"
-        if results or reason == "no_results":
+        queries = [q]
+        plain = re.sub(r"\s+", " ", (topic or "").lstrip("#").replace('"', "")).strip()[:200]
+        if plain and plain.lower() != q.lower():
+            queries.append(plain)
+
+        url, reason, searched = None, "no_results", False
+        for n, qq in enumerate(queries):
+            if n:
+                time.sleep(random.uniform(self.min_delay, self.max_delay))
+            results, why = self._search(qq)
+            searched = True
+            if not results:
+                if why != "no_results":
+                    reason = why
+                continue
+            ranked = rank_images(results, topic or qq, qq)
+            if not ranked:
+                reason = "no_match"
+                continue
+            bad = 0
+            for thumb in ranked[:self.verify_candidates]:
+                ok, ck = CHECKER.check(thumb)
+                if ok:
+                    url = thumb
+                    break
+                bad += 1
+                warn(f"    skipped candidate: {ck}")
+            if url:
+                reason = "ok"
+                break
+            reason = f"all_{bad}_candidates_bad"
+
+        if url or reason in ("no_results", "no_match") or reason.startswith("all_"):
             self.failures_in_a_row = 0
             self.cache[key] = url
-        else:
+        elif searched:
             self.failures_in_a_row += 1
             if self.failures_in_a_row >= self.abort_after:
                 self.blocked = True
@@ -710,21 +894,31 @@ class ImageFinder:
 
 
 def apply_images(items: list[dict], previous_doc: dict, finder: ImageFinder) -> None:
-    """image_url for each item: reuse last run's DuckDuckGo image, else look one up, else fall
-    back to an image the feed itself provided ("_image_hint")."""
+    """image_url for each item: keep last run's DuckDuckGo image if it is still a real picture,
+    else look one up (verified), else use an image the feed itself provided ("_image_hint"),
+    else leave it empty so the next run tries again. Broken / placeholder pictures are never kept."""
     prev = {x.get("id"): x for x in (previous_doc.get("items") or []) if isinstance(x, dict)}
     for it in items:
         old = prev.get(it["id"])
-        if old and old.get("image_url") and old.get("image_source") == DDG_SOURCE:
-            it["image_url"], it["image_source"] = old["image_url"], DDG_SOURCE
-            continue
+        old_url = (old or {}).get("image_url") or ""
+        if old_url and old.get("image_source") == DDG_SOURCE:
+            st = True if old.get("image_verified") else CHECKER.status(old_url)
+            if st is not False:      # good, or not checked this run (budget / flaky network)
+                it["image_url"], it["image_source"] = old_url, DDG_SOURCE
+                it["image_verified"] = st is True
+                continue
         query = it.get("_image_query") or heuristic_query(it["topic"], it.get("description", ""))
         url = finder.find(query, topic=it["topic"])
         if url:
-            it["image_url"], it["image_source"] = url, DDG_SOURCE
-        elif it.get("_image_hint"):
-            it["image_url"], it["image_source"] = it["_image_hint"], "feed"
-        elif old and old.get("image_url"):
-            it["image_url"], it["image_source"] = old["image_url"], old.get("image_source") or "feed"
+            it["image_url"], it["image_source"], it["image_verified"] = url, DDG_SOURCE, True
+            continue
+        hint = it.get("_image_hint")
+        if hint:
+            ok, _ = CHECKER.check(hint)
+            if ok is not False:
+                it["image_url"], it["image_source"], it["image_verified"] = hint, "feed", ok is True
+                continue
+        if old_url and old.get("image_source") != DDG_SOURCE and CHECKER.status(old_url) is not False:
+            it["image_url"], it["image_source"] = old_url, old.get("image_source") or "feed"
     info(f"Images: {sum(1 for i in items if i['image_url'])}/{len(items)} topics have one "
          f"({finder.lookups} DuckDuckGo lookup(s) this run).")
