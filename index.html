@@ -421,13 +421,13 @@ function changeHtml(it) {
 function thumbHtml(it) {
   const url = safeUrl(it.image_url);
   return url
-    ? `<img src="${esc(url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;thumb-fallback&quot;>No Image</div>'">`
+    ? `<img src="${esc(url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onload="if(this.naturalWidth&lt;100&amp;&amp;this.naturalHeight&lt;100)this.onerror()" onerror="this.outerHTML='<div class=&quot;thumb-fallback&quot;>No Image</div>'">`
     : '<div class="thumb-fallback">No Image</div>';
 }
 function rowThumbHtml(it) {
   const url = safeUrl(it.image_url);
   return url
-    ? `<img src="${esc(url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.innerHTML='<div class=&quot;row-thumb-fallback&quot;>No Img</div>'">`
+    ? `<img src="${esc(url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onload="if(this.naturalWidth&lt;100&amp;&amp;this.naturalHeight&lt;100)this.onerror()" onerror="this.parentElement.innerHTML='<div class=&quot;row-thumb-fallback&quot;>No Img</div>'">`
     : '<div class="row-thumb-fallback">No Img</div>';
 }
 function favToggleHtml(it, cls) {
