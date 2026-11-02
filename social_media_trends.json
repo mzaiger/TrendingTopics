@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-02T11:25:39Z",
+  "updated": "2026-11-02T12:25:18Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-11-02T11:24:04Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Good Monday",
-      "description": "Social media users are discussing Monday morning weather forecasts, game day prop bets for Monday Night Football, and the start of a new week.",
+      "description": "Social media users are discussing Monday game matchups, weekly horoscopes, and morning weather updates across the country.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Monday",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.mhKwSc8_YZT8-Cgz8KD42QHaJt&pid=15.1",
@@ -34,7 +38,7 @@
       "started_trending": "2026-11-02T10:23:34Z",
       "first_seen": "2026-11-02T10:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
+      "last_seen": "2026-11-02T12:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -42,8 +46,38 @@
       "extra": {}
     },
     {
-      "id": "tucker",
+      "id": "la-granja-vip",
       "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "La Granja VIP",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/La%20Granja%20VIP",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.SeZfamtQhvXkruv7SpACxAHaD4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T12:23:32Z",
+      "first_seen": "2026-11-02T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tucker",
+      "rank": 3,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -70,9 +104,13 @@
         {
           "t": "2026-11-02T11:24:04Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Tucker",
       "description": "Tucker Carlson is trending online after claiming that Israeli Prime Minister Benjamin Netanyahu is pushing President Trump toward a nuclear strike on Iran.",
@@ -84,7 +122,7 @@
       "started_trending": "2026-11-02T04:23:34Z",
       "first_seen": "2026-11-02T04:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
+      "last_seen": "2026-11-02T12:23:32Z",
       "hours_trending": 7,
       "volume": "7hr trend",
       "volume_value": 7,
@@ -92,8 +130,230 @@
       "extra": {}
     },
     {
+      "id": "topic",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#姚润昊骗取中国政府出海补贴",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23%E5%A7%9A%E6%B6%A6%E6%98%8A%E9%AA%97%E5%8F%96%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%87%BA%E6%B5%B7%E8%A1%A5%E8%B4%B4",
+      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.H8IjNKxEaGqXo62X4sSHGAAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T12:23:32Z",
+      "first_seen": "2026-11-02T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "alconentunderminesglobaltrust",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#AlconEntUnderminesGlobalTrust",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23AlconEntUnderminesGlobalTrust",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.qGeJISjVqYODhB6VmYCMGgHaDF&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T12:23:32Z",
+      "first_seen": "2026-11-02T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mondaymotivation",
+      "rank": 6,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-02T11:24:04Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "#MondayMotivation",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MondayMotivation",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.5ZFzAwjfemmk7yDh0SV2BgHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T11:24:04Z",
+      "first_seen": "2026-11-02T11:24:04Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "victory-monday",
+      "rank": 7,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-02T11:24:04Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Victory Monday",
+      "description": "Sports fans are celebrating recent victories across professional and college basketball and hockey leagues.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Victory%20Monday",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.o-fcG1F6vb1eDwAMZsrBtwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T11:24:04Z",
+      "first_seen": "2026-11-02T11:24:04Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "boost-mobile",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Boost Mobile",
+      "description": "Boost Mobile is trending following reports that SpaceX is in talks to acquire the company or utilize its network.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Boost%20Mobile",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.prP8Ic1Dt1Ahx6knVjrEBgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T12:23:32Z",
+      "first_seen": "2026-11-02T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "merrimack",
+      "rank": 9,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-02T11:24:04Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Merrimack",
+      "description": "Merrimack is drawing attention as college basketball fans anticipate the upcoming matchup against App State.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Merrimack",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.l5Ro4saIxPPPCZ1BKvJ4hAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T11:24:04Z",
+      "first_seen": "2026-11-02T11:24:04Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pablo-montero",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pablo Montero",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Pablo%20Montero",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.cu1LQGqG6XZRAmrtkm-6mgHaEo&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T12:23:32Z",
+      "first_seen": "2026-11-02T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "grambling",
-      "rank": 3,
+      "rank": 11,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -112,12 +372,16 @@
         {
           "t": "2026-11-02T11:24:04Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 11
         }
       ],
-      "rank_change": 5,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Grambling",
-      "description": "Grambling State basketball is trending due to their unusual 3 a.m. Eastern Time season opener matchup against Northern Illinois.",
+      "description": "Grambling State is trending due to early-season college basketball action, including a matchup against Northern Illinois.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Grambling",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.bQu9TK6GPgD63EnmsbCbvQHaEK&pid=15.1",
@@ -126,28 +390,62 @@
       "started_trending": "2026-11-02T08:23:30Z",
       "first_seen": "2026-11-02T08:23:30Z",
       "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sassuolo",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sassuolo",
+      "description": "Football fans are following the Italian Serie A match and relegation battle between Sassuolo and Fiorentina.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sassuolo",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.ahEcs6YObZBfWVPBTqQRQw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T12:23:32Z",
+      "first_seen": "2026-11-02T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "peace-coin",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 13,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-02T11:24:04Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -9,
+      "is_new": false,
       "topic": "Peace Coin",
-      "description": "Cryptocurrency and gaming terms are trending as Bitcoin and Ethereum prices hit new 2026 lows amid a wider sell-off in big tech and AI stocks.",
+      "description": "The material does not make the description clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Peace%20Coin",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.8VD7p2koFAiyQxUWd83yRw&pid=15.1",
@@ -156,7 +454,67 @@
       "started_trending": "2026-11-02T11:24:04Z",
       "first_seen": "2026-11-02T11:24:04Z",
       "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mondayvibes",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#MondayVibes",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MondayVibes",
+      "image_url": "https://ts4.explicit.bing.net/th?id=OIP.97iaBu_mRS1KT3N7kKYTbgHaJG&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T12:23:32Z",
+      "first_seen": "2026-11-02T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fiorentina",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Fiorentina",
+      "description": "Fiorentina is trending due to coverage of their Italian Serie A match against Sassuolo.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Fiorentina",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.4ubu-i1WCBsHucrRPq30sgHaFc&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T12:23:32Z",
+      "first_seen": "2026-11-02T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -165,7 +523,7 @@
     },
     {
       "id": "isaiah-miranda",
-      "rank": 5,
+      "rank": 16,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -180,199 +538,25 @@
         {
           "t": "2026-11-02T11:24:04Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": -2,
+      "rank_change": -13,
       "is_new": false,
-      "topic": "isaiah miranda",
-      "description": "The material does not contain enough information to write a clear description.",
+      "topic": "Isaiah Miranda",
+      "description": "Isaiah Miranda is trending after delivering a career-best performance in a recent college basketball game.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/isaiah%20miranda",
+      "url": "https://twstalker.com/search/Isaiah%20Miranda",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP._8cFD6_KM02bLRu6y1QrUQHaNF&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-02T09:23:34Z",
       "first_seen": "2026-11-02T09:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mondaymotivation",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#MondayMotivation",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23MondayMotivation",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.5ZFzAwjfemmk7yDh0SV2BgHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T11:24:04Z",
-      "first_seen": "2026-11-02T11:24:04Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "merrimack",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Merrimack",
-      "description": "Merrimack is drawing online attention as college sports fans follow live scores and game previews for upcoming matchups against teams like App State and Florida State.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Merrimack",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-02T11:24:04Z",
-      "first_seen": "2026-11-02T11:24:04Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "victory-monday",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Victory Monday",
-      "description": "Sports fans are celebrating Victory Monday across social media following recent basketball wins by the Nets and Grizzlies, alongside a WNBA victory parade.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Victory%20Monday",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.o-fcG1F6vb1eDwAMZsrBtwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T11:24:04Z",
-      "first_seen": "2026-11-02T11:24:04Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "anderson-cooper",
-      "rank": 9,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-02T06:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-02T07:23:39Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-02T08:23:30Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-02T09:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-02T10:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Anderson Cooper",
-      "description": "Anderson Cooper is generating heavy online discussion following a tense CNN interview where he repeatedly pressed Representative Haley Stevens over her political endorsements.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Anderson%20Cooper",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.jA8YezjTqP5ZWxAqCSunsQHaLD&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T04:23:34Z",
-      "first_seen": "2026-11-02T04:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "northern-illinois",
-      "rank": 10,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-02T09:23:34Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-02T10:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Northern Illinois",
-      "description": "Northern Illinois University is trending as sports fans discuss their upcoming college basketball game against Grambling and reflect on recent football results.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Northern%20Illinois",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Ar/q6CJ/XEudSiVLYzHpHg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T09:23:34Z",
-      "first_seen": "2026-11-02T09:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
+      "last_seen": "2026-11-02T12:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -381,7 +565,7 @@
     },
     {
       "id": "learjet",
-      "rank": 11,
+      "rank": 17,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -408,12 +592,16 @@
         {
           "t": "2026-11-02T11:24:04Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": 0,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Learjet",
-      "description": "Social media users are reacting to the devastating aftermath and final distress calls following a fatal Learjet crash in Florida that killed nine people.",
+      "description": "A deadly private jet crash in West Palm Beach County, Florida, involving a Learjet has drawn widespread media coverage and an NTSB investigation.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Learjet",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.f6ZePIA4BH6PtmYpVOtVNg&pid=15.1",
@@ -422,18 +610,18 @@
       "started_trending": "2026-11-01T23:23:32Z",
       "first_seen": "2026-11-01T23:23:32Z",
       "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 12,
-      "volume": "12hr trend",
-      "volume_value": 12,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 13,
+      "volume": "13hr trend",
+      "volume_value": 13,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "halligan",
-      "rank": 12,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
+      "rank": 18,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-11-02T07:23:39Z",
@@ -454,12 +642,16 @@
         {
           "t": "2026-11-02T11:24:04Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": 6,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Halligan",
-      "description": "Online commentators are sharing viral footage from Chicago showing a firefighter using a Halligan tool to subdue a man who charged an active emergency scene.",
+      "description": "Social media users are sharing and discussing a video from Chicago showing a firefighter using a Halligan tool to drop a man who charged at him during an active emergency.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Halligan",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.blXbbuRRFDg-DsqrvwBxzwHaHa&pid=15.1",
@@ -468,7 +660,7 @@
       "started_trending": "2026-11-02T07:23:39Z",
       "first_seen": "2026-11-02T07:23:39Z",
       "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
+      "last_seen": "2026-11-02T12:23:32Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -476,342 +668,86 @@
       "extra": {}
     },
     {
-      "id": "2chainz",
-      "rank": 13,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-02T09:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-02T10:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "2chainz",
-      "description": "2 Chainz is trending after debating food critic Keith Lee on social media about restaurant reviews and whether celebrities deserve special treatment at dining establishments.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/2chainz",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.byt6n0knUa3jHFTdQ54oKgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T09:23:34Z",
-      "first_seen": "2026-11-02T09:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "high-point",
-      "rank": 14,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-02T06:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-02T07:23:39Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-02T08:23:30Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-02T09:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-02T10:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "High Point",
-      "description": "High Point University's basketball team is generating online buzz following their midnight season-opening victory over Liberty.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/High%20Point",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.BgUAEYxb5y3EmHDDDNXBHAHaEj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T06:23:34Z",
-      "first_seen": "2026-11-02T06:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "keith-lee",
-      "rank": 15,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-02T09:23:34Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-02T10:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Keith Lee",
-      "description": "Keith Lee is sparking online discussions after a debate with rapper 2 Chainz regarding a critical restaurant review and preferential treatment for celebrity diners.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Keith%20Lee",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.rUtyaGb30eMJTKU8N3r-UwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T09:23:34Z",
-      "first_seen": "2026-11-02T09:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "raisehail",
-      "rank": 16,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-02T06:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-02T07:23:39Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-02T08:23:30Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-02T09:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-02T10:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "#RaiseHail",
-      "description": "Fans are using the hashtag #RaiseHail on social media ahead of the NFL matchup between the Washington Commanders and the Philadelphia Eagles.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23RaiseHail",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.iJIfdctmxxVPW84wHOdxRg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T02:23:32Z",
-      "first_seen": "2026-11-02T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "carville",
-      "rank": 17,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-02T10:23:34Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Carville",
-      "description": "James Carville is facing sharp online backlash after making vulgar remarks comparing Representative Haley Stevens to a used condom following her endorsement of a GOP candidate.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Carville",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ODmqvlNNrGFCO8WJte9LkwHaKo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T10:23:34Z",
-      "first_seen": "2026-11-02T10:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tanner-mckee",
-      "rank": 18,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-02T06:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-02T07:23:39Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-02T08:23:30Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-02T09:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-02T10:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -16,
-      "is_new": false,
-      "topic": "Tanner McKee",
-      "description": "Philadelphia Eagles quarterback Tanner McKee is drawing criticism online after the team's offense struggled and suffered a loss following a late interception.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tanner%20McKee",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.qzjjZSdBVK-I3qytTkZGjgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T03:23:33Z",
-      "first_seen": "2026-11-02T03:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nick-sirianni",
+      "id": "anderson-cooper",
       "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Nick Sirianni",
-      "description": "Philadelphia Eagles head coach Nick Sirianni is trending as fans and analysts question his job security following the team's recent struggles and losses.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nick%20Sirianni",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-02T11:24:04Z",
-      "first_seen": "2026-11-02T11:24:04Z",
-      "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "eagles",
-      "rank": 20,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-02T06:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-02T07:23:39Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-02T08:23:30Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-02T09:23:34Z",
           "r": 12
         },
         {
+          "t": "2026-11-02T07:23:39Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-02T08:23:30Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-02T09:23:34Z",
+          "r": 5
+        },
+        {
           "t": "2026-11-02T10:23:34Z",
-          "r": 14
+          "r": 5
         },
         {
           "t": "2026-11-02T11:24:04Z",
-          "r": 20
+          "r": 9
+        },
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": -15,
+      "rank_change": -14,
       "is_new": false,
-      "topic": "#Eagles",
-      "description": "The #Eagles are trending on social media as despondent fans react to their sixth straight defeat and reports of impending team changes.",
+      "topic": "Anderson Cooper",
+      "description": "Anderson Cooper is generating online buzz following a tense CNN interview where he questioned Haley Stevens about her political endorsements and shifts.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Eagles",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.XBq_Gwf3BfMGeagSqxSDlgHaFj&pid=15.1",
+      "url": "https://twstalker.com/search/Anderson%20Cooper",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.jA8YezjTqP5ZWxAqCSunsQHaLD&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-02T04:23:34Z",
       "first_seen": "2026-11-02T04:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T11:24:04Z",
+      "last_seen": "2026-11-02T12:23:32Z",
       "hours_trending": 7,
       "volume": "7hr trend",
       "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chainz",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T12:23:32Z",
+          "r": 20
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Chainz",
+      "description": "2 Chainz is trending following a debate with food reviewer Keith Lee over celebrity special treatment at restaurants.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Chainz",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.byt6n0knUa3jHFTdQ54oKgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T12:23:32Z",
+      "first_seen": "2026-11-02T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-02T12:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
