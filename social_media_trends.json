@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-02T17:25:11Z",
+  "updated": "2026-11-02T18:25:22Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -13,14 +13,6 @@
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-02T12:23:32Z",
-          "r": 3
-        },
         {
           "t": "2026-11-02T13:23:34Z",
           "r": 5
@@ -40,12 +32,16 @@
         {
           "t": "2026-11-02T17:23:41Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 1
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "Tucker",
-      "description": "Tucker Carlson is trending after claiming that Donald Trump could launch a nuclear strike on Iran under pressure from Netanyahu, drawing widespread debate and criticism.",
+      "description": "Tucker Carlson is trending after claiming that Prime Minister Netanyahu is pressuring Trump to launch a nuclear strike on Iran's Pickax Mountain.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tucker",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.ozp_MayxJMUvN_2_wdvpCAHaE8&pid=15.1",
@@ -54,7 +50,7 @@
       "started_trending": "2026-11-02T04:23:34Z",
       "first_seen": "2026-11-02T04:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
+      "last_seen": "2026-11-02T18:23:33Z",
       "hours_trending": 13,
       "volume": "13hr trend",
       "volume_value": 13,
@@ -62,8 +58,38 @@
       "extra": {}
     },
     {
-      "id": "idontwanttooverreactbut",
+      "id": "audacity",
       "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#AudaCity",
+      "description": "Audacity is trending after releasing version 4.0.2, which restores automatic saving during recording and fixes project corruption issues.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23AudaCity",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.opEVkvxBLjV3l6b43Htk0gHaHM&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "idontwanttooverreactbut",
+      "rank": 3,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -78,9 +104,13 @@
         {
           "t": "2026-11-02T17:23:41Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 3
         }
       ],
-      "rank_change": 10,
+      "rank_change": 9,
       "is_new": false,
       "topic": "#IDontWantToOverreactBUT",
       "description": "",
@@ -92,48 +122,10 @@
       "started_trending": "2026-11-02T15:23:33Z",
       "first_seen": "2026-11-02T15:23:33Z",
       "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hometown-remix",
-      "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-02T15:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Hometown Remix",
-      "description": "NHL fans are discussing the new 'Hometown Remix' jerseys and merchandise unveiled for all 32 teams, which have seen a massive jump in advance orders.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hometown%20Remix",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.J0/AASDtRGTQiqrIcb0zkg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T15:23:33Z",
-      "first_seen": "2026-11-02T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -162,12 +154,16 @@
         {
           "t": "2026-11-02T17:23:41Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 4
         }
       ],
       "rank_change": 9,
       "is_new": false,
       "topic": "Tomorrow is Election Day",
-      "description": "Voters across the U.S. are sharing guides and checking voting locations as Election Day for the 2026 general and midterm elections arrives.",
+      "description": "Tomorrow is Election Day is trending as voters and local governments prepare for the 2026 general and midterm elections.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tomorrow%20is%20Election%20Day",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.cJq4GbqYmUOLDExKRR/n6g&pid=15.1",
@@ -176,7 +172,7 @@
       "started_trending": "2026-11-02T13:23:34Z",
       "first_seen": "2026-11-02T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
+      "last_seen": "2026-11-02T18:23:33Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -184,8 +180,446 @@
       "extra": {}
     },
     {
-      "id": "nathalia-gadelha",
+      "id": "wilbon",
       "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Wilbon",
+      "description": "Michael Wilbon is trending after announcing an indefinite leave of absence from ESPN's 'PTI' due to multiple health issues.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Wilbon",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.WXtJxWaACbFRqfeDjjB3CA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hometown-remix",
+      "rank": 6,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-02T15:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-02T16:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-02T17:23:41Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Hometown Remix",
+      "description": "Hometown Remix is trending after the NHL and Fanatics released new hyperlocal jerseys and merchandise for all 32 teams.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hometown%20Remix",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.J0/AASDtRGTQiqrIcb0zkg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T15:23:33Z",
+      "first_seen": "2026-11-02T15:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "co-pilot",
+      "rank": 7,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-02T16:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-02T17:23:41Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Co-pilot",
+      "description": "Co-pilot is trending following the identification of 20-year-old Nathalia Filgueiras as the co-pilot killed in a fatal Learjet crash in Florida.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Co-pilot",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.wm3j3iMk0vIjv3deAnf5TAHaKf&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T16:23:34Z",
+      "first_seen": "2026-11-02T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "maricopa-county",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Maricopa County",
+      "description": "Maricopa County is trending as officials prepare for the 2026 midterm elections, including setting up church polling site rules and monitoring disruptions.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Maricopa%20County",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.-aGndo4fzSN3uovoy2hcqAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ben-arbuckle",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ben Arbuckle",
+      "description": "Ben Arbuckle is trending following reports that he has been fired as Oklahoma's offensive coordinator amid ongoing scoring struggles.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ben%20Arbuckle",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.xDKtdmcGinN0UTobIE5/3w&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "2chainz",
+      "rank": 10,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-02T17:23:41Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "2chainz",
+      "description": "2 Chainz is trending after debating food critic Keith Lee on social media about celebrity privilege and special treatment at restaurants.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/2chainz",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.-I4gdBsYtmUY08QW5slxZwHaJ4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T17:23:41Z",
+      "first_seen": "2026-11-02T17:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "panam",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Panamá",
+      "description": "Panama is trending after launching a renewable energy power tender with batteries and making adjustments to Panama Canal bookings and port management.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Panam%C3%A1",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.IffZyryeT/UM6bZiOSBtiQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bluewaveinoneday",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BlueWaveInOneDay",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23BlueWaveInOneDay",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.RrSj6ycp-kECMoPhUoNLEQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kevin-wilson",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kevin Wilson",
+      "description": "The material does not contain enough information to write a description.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kevin%20Wilson",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Z2qwamKZCbz69ki6NPTHzAHaLG&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "marie-harf",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Marie Harf",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Marie%20Harf",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.f3MaS1ypGIpWr9Nm4EmGNgHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jerzy",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jerzy",
+      "description": "The material does not contain enough information to write a description.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jerzy",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.vwxNMWtIboQdsfgQd5QPgwHaFA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "learjet",
+      "rank": 16,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-02T16:23:34Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-02T17:23:41Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Learjet",
+      "description": "Learjet is trending following a fatal, fiery crash in a Florida neighborhood that claimed nine lives, including a 20-year-old co-pilot.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Learjet",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.WigQA_b3RFgpcZR75DM0xQHaEv&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T16:23:34Z",
+      "first_seen": "2026-11-02T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "keith-lee",
+      "rank": 17,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-02T14:23:35Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-02T15:23:33Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-02T16:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-02T17:23:41Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 17
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Keith Lee",
+      "description": "Keith Lee is trending after engaging in a public debate with rapper 2 Chainz regarding restaurant reviews and special perks for celebrities.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Keith%20Lee",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.rUtyaGb30eMJTKU8N3r-UwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T14:23:35Z",
+      "first_seen": "2026-11-02T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nathalia-gadelha",
+      "rank": 18,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -200,12 +634,16 @@
         {
           "t": "2026-11-02T17:23:41Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 18
         }
       ],
-      "rank_change": 5,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Nathalia Gadelha",
-      "description": "Twenty-year-old co-pilot Nathalia Gadelha is being remembered after tragically dying in a fiery Learjet crash in Florida.",
+      "description": "Nathalia Gadelha is trending after being identified as the 20-year-old co-pilot who died in a fiery Learjet plane crash in Florida.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Nathalia%20Gadelha",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.wm3j3iMk0vIjv3deAnf5TAHaKf&pid=15.1",
@@ -214,71 +652,37 @@
       "started_trending": "2026-11-02T15:23:33Z",
       "first_seen": "2026-11-02T15:23:33Z",
       "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-02T18:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "co-pilot",
-      "rank": 6,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Co-pilot",
-      "description": "Social media users are discussing the tragic Florida plane crash after reports confirmed a 20-year-old served as the co-pilot of the fatal Learjet.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Co-pilot",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.wm3j3iMk0vIjv3deAnf5TAHaKf&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T16:23:34Z",
-      "first_seen": "2026-11-02T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "2chainz",
-      "rank": 7,
+      "id": "jordan-lee",
+      "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 7
+          "t": "2026-11-02T18:23:33Z",
+          "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "2chainz",
-      "description": "2 Chainz is trending after debating food critic Keith Lee over whether celebrities deserve special treatment and perks at restaurants.",
+      "topic": "Jordan Lee",
+      "description": "The material does not contain enough information to write a description.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/2chainz",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.-I4gdBsYtmUY08QW5slxZwHaJ4&pid=15.1",
+      "url": "https://twstalker.com/search/Jordan%20Lee",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.-BXoLQ5gfpeofh83-_m-AAEsCo&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-02T17:23:41Z",
-      "first_seen": "2026-11-02T17:23:41Z",
+      "started_trending": "2026-11-02T18:23:33Z",
+      "first_seen": "2026-11-02T18:23:33Z",
       "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
+      "last_seen": "2026-11-02T18:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -287,19 +691,23 @@
     },
     {
       "id": "bochy",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-02T17:23:41Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-02T18:23:33Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -12,
+      "is_new": false,
       "topic": "Bochy",
-      "description": "Bruce Bochy and Dusty Baker are trending after being named headliners on the Baseball Hall of Fame's Contemporary Era ballot.",
+      "description": "Bruce Bochy is trending after being named alongside Dusty Baker and Brian Sabean as a candidate on the Baseball Hall of Fame's Contemporary Era ballot.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bochy",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.gRC2tAZzN_oZVcBWfZRnMwEsCo&pid=15.1",
@@ -308,507 +716,7 @@
       "started_trending": "2026-11-02T17:23:41Z",
       "first_seen": "2026-11-02T17:23:41Z",
       "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "good-monday",
-      "rank": 9,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-02T12:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-02T13:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-02T14:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-02T15:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Good Monday",
-      "description": "Sports fans are discussing the latest betting odds, player props, and predictions for tonight's Monday Night Football matchup between the Bears and Seahawks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Monday",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.mhKwSc8_YZT8-Cgz8KD42QHaJt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T10:23:34Z",
-      "first_seen": "2026-11-02T10:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "keith-lee",
-      "rank": 10,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-02T14:23:35Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-02T15:23:33Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Keith Lee",
-      "description": "Keith Lee is trending following a debate with rapper 2 Chainz regarding a critical restaurant review and special treatment for celebrities.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Keith%20Lee",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.rUtyaGb30eMJTKU8N3r-UwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T14:23:35Z",
-      "first_seen": "2026-11-02T14:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "victory-monday",
-      "rank": 11,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-02T11:24:04Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-02T12:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-02T13:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-02T14:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-02T15:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Victory Monday",
-      "description": "Football fans are celebrating 'Victory Monday' following notable wins, including the Lions pounding the Vikings and the Buccaneers' shutout victory.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Victory%20Monday",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.o-fcG1F6vb1eDwAMZsrBtwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T11:24:04Z",
-      "first_seen": "2026-11-02T11:24:04Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "reddington",
-      "rank": 12,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Reddington",
-      "description": "Attorney Kevin Reddington is making headlines after returning to court in an effort to dismiss murder charges against Lindsay Clancy and demanding a trial this spring.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Reddington",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.NZpwbIlZOOceLsQuFep7JAHaFr&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T16:23:34Z",
-      "first_seen": "2026-11-02T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "learjet",
-      "rank": 13,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Learjet",
-      "description": "A fatal Learjet crash in Florida that killed nine people has sparked intense investigation and media coverage after the plane nosedived into a road.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Learjet",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.WigQA_b3RFgpcZR75DM0xQHaEv&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T16:23:34Z",
-      "first_seen": "2026-11-02T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "la-granja",
-      "rank": 14,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-02T15:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "La Granja",
-      "description": "The description is not clear from the provided material.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/La%20Granja",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Efu2zYNLJ06eD18ZpBvjuQHaKj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T15:23:33Z",
-      "first_seen": "2026-11-02T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lumentum",
-      "rank": 15,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-02T13:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-02T14:23:35Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-02T15:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Lumentum",
-      "description": "Marvell Technology is making major tech news headlines after reaching a massive $115 billion deal to buy Lumentum in an AI data-center bet.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Lumentum",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.HlOjIqzXYkSjvYkyvVaMuw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T13:23:34Z",
-      "first_seen": "2026-11-02T13:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "boost-mobile",
-      "rank": 16,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-02T12:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-02T13:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-02T14:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-02T15:23:33Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Boost Mobile",
-      "description": "SpaceX is reportedly in talks to buy Boost Mobile or utilize its network as part of Elon Musk's plans to expand mobile carrier and Starlink phone services.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Boost%20Mobile",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.prP8Ic1Dt1Ahx6knVjrEBgHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T12:23:32Z",
-      "first_seen": "2026-11-02T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "foggy-bottom",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Foggy Bottom",
-      "description": "Residents in Washington, D.C.'s Foggy Bottom neighborhood experienced power outages and campus disruptions as crews investigated smoke coming from manholes.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Foggy%20Bottom",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.6aPUu2DRBvM5IhZl18vucAHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T17:23:41Z",
-      "first_seen": "2026-11-02T17:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mondaymotivation",
-      "rank": 18,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-02T14:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-02T15:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "#MondayMotivation",
-      "description": "Bollywood star Shah Rukh Khan is receiving an outpouring of birthday wishes from celebrities across social media as he turns 61.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23MondayMotivation",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.hMhgXcIB3HzVD-2LoQjMIwHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T14:23:35Z",
-      "first_seen": "2026-11-02T14:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lite",
-      "rank": 19,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-02T13:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-02T14:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-02T15:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-02T16:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "$LITE",
-      "description": "Lumentum stock ($LITE) is drawing investor attention following Marvell's massive $115 billion all-stock acquisition deal.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24LITE",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.uO7wd3rxkpa_TcvwNfpH7wHaDn&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T13:23:34Z",
-      "first_seen": "2026-11-02T13:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mrvl",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T17:23:41Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "$MRVL",
-      "description": "Marvell Technology ($MRVL) stock is surging in discussions following its record-breaking $115 billion all-stock deal to purchase Lumentum for AI connectivity.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24MRVL",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.gqZtwnh3kpCRuP0Fx0Rk-gHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T17:23:41Z",
-      "first_seen": "2026-11-02T17:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-02T17:23:41Z",
+      "last_seen": "2026-11-02T18:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
