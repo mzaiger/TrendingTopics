@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-03T15:25:49Z",
+  "updated": "2026-11-03T16:25:18Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-03T15:23:45Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Election Day",
-      "description": "Voters are heading to the polls for Election Day 2026 amid rainy weather in some areas and close monitoring by observers.",
+      "description": "Voters across the United States head to the polls for Election Day in the 2026 midterms. Observers are closely watching key races as investors anticipate potential shifts in Congress.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Election%20Day",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.NwIK6YpVmGqFLH9hnGoc/w&pid=15.1",
@@ -38,18 +42,18 @@
       "started_trending": "2026-11-03T13:23:33Z",
       "first_seen": "2026-11-03T13:23:33Z",
       "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "go-vote",
       "rank": 2,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-03T11:23:32Z",
@@ -70,12 +74,16 @@
         {
           "t": "2026-11-03T15:23:45Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 2
         }
       ],
-      "rank_change": 16,
+      "rank_change": 3,
       "is_new": false,
       "topic": "GO VOTE",
-      "description": "Voters across the country are seeking key information on polling locations, identification requirements, and registration rules as midterm voting takes place.",
+      "description": "Voters across multiple states are heading to the polls as Election Day arrives for the 2026 midterms, with local outlets providing essential guidelines on requirements and polling locations.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/GO%20VOTE",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.Lypccd9KbPMvKn1KQtOpxAEsCo&pid=15.1",
@@ -84,10 +92,10 @@
       "started_trending": "2026-11-03T11:23:32Z",
       "first_seen": "2026-11-03T11:23:32Z",
       "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -108,12 +116,16 @@
         {
           "t": "2026-11-03T15:23:45Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 3
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "Westchester County",
-      "description": "Voters in Westchester County are experiencing polling disruptions as ballot scanners have gone down and machines are rejecting paper ballots.",
+      "description": "Polling sites across Westchester County experienced widespread disruptions on Election Day after ballot scanners malfunctioned, forcing officials to place paper ballots into bags.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Westchester%20County",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.gAQq-9e8WVejspKpbY58HgHaI2&pid=15.1",
@@ -122,23 +134,177 @@
       "started_trending": "2026-11-03T13:23:33Z",
       "first_seen": "2026-11-03T13:23:33Z",
       "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "skyrim",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Skyrim",
+      "description": "Bethesda has officially revealed the title of Skyrim's successor as The Elder Scrolls 6: Sentinel, marking the 40th anniversary of Bethesda Game Studios.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Skyrim",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.IQgAq-Q1okRUWcbBGxebvwHaDr&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T16:23:38Z",
+      "first_seen": "2026-11-03T16:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bethesda",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bethesda",
+      "description": "Bethesda Game Studios is celebrating its 40th anniversary by officially confirming that The Elder Scrolls 6 is titled Sentinel.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bethesda",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.aRynP5qTfOXOkyph3NU1SgHaDt&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T16:23:38Z",
+      "first_seen": "2026-11-03T16:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "broward",
+      "rank": 6,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-03T15:23:45Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Broward",
+      "description": "Midterm voting in Broward County faced brief technical issues and a precinct relocation due to flooding, though officials confirmed systems were fixed.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Broward",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.9VWDEMQZ-Y_mWv5CtYAQpAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T15:23:45Z",
+      "first_seen": "2026-11-03T15:23:45Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "marcel",
+      "rank": 7,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-11-03T15:23:45Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 13,
+      "is_new": false,
+      "topic": "Marcel",
+      "description": "Marcel Duchamp is trending due to a new book examining his love for sculptor Maria Martins, alongside other regional news involving individuals named Marcel.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Marcel",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.NhopM8PSH3XZ1_dxNPV0tgHaFc&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T15:23:45Z",
+      "first_seen": "2026-11-03T15:23:45Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "teamily-ai",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#Teamily_AI",
+      "description": "Teamily AI is gaining attention on social media after reporting rapid quarterly user growth and highlighting its vision for an agentic, appless internet ecosystem.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23Teamily_AI",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.PzAU4o7bozfjkHpH1C3MWA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T16:23:38Z",
+      "first_seen": "2026-11-03T16:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gmmtvnext",
-      "rank": 4,
+      "rank": 9,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-11-03T09:23:50Z",
-          "r": 1
-        },
         {
           "t": "2026-11-03T10:23:43Z",
           "r": 1
@@ -162,12 +328,16 @@
         {
           "t": "2026-11-03T15:23:45Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 9
         }
       ],
-      "rank_change": -3,
+      "rank_change": -8,
       "is_new": false,
       "topic": "#GMMTVNEXT",
-      "description": "Fans online are discussing recent updates and events under the GMMTV banner, including the latest teaser for the Shooting Stars remake.",
+      "description": "Fans are sharing updates and posts on social media under the hashtag #GMMTVNEXT, discussing upcoming projects and casting news from GMMTV.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23GMMTVNEXT",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.zg2c0Uo98-Ocp28mADZxQgHaJQ&pid=15.1",
@@ -176,147 +346,37 @@
       "started_trending": "2026-11-03T08:23:33Z",
       "first_seen": "2026-11-03T08:23:33Z",
       "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "teamily",
-      "rank": 5,
+      "id": "elder-scrolls",
+      "rank": 10,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 5
+          "t": "2026-11-03T16:23:38Z",
+          "r": 10
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Teamily",
-      "description": "Teamily AI is trending as it reports massive quarterly user growth and envisions an appless world driven by human-agent collaboration.",
+      "topic": "Elder Scrolls",
+      "description": "Bethesda has officially announced that the next installment in the Elder Scrolls series is titled The Elder Scrolls 6: Sentinel, revealing its location.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Teamily",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.hGkNVu3pxLGNcYiT90PY0gAAAA&pid=15.1",
+      "url": "https://twstalker.com/search/Elder%20Scrolls",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.TuuoVhOeXdiGBtkQpiT3NA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-03T15:23:45Z",
-      "first_seen": "2026-11-03T15:23:45Z",
+      "started_trending": "2026-11-03T16:23:38Z",
+      "first_seen": "2026-11-03T16:23:38Z",
       "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "agentic-internet",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Agentic Internet",
-      "description": "Discussions about the agentic internet and agentic AI are growing online as companies showcase new tools, platforms, and investment terminals.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Agentic%20Internet",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.JWOlyvaUUsUOkTPffkge-wHaFl&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T15:23:45Z",
-      "first_seen": "2026-11-03T15:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "good-tuesday",
-      "rank": 7,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-03T10:23:43Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-03T11:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-03T12:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-03T13:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-03T14:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Good Tuesday",
-      "description": "Social media users are discussing a busy Tuesday featuring Election Day voting, Champions League matches, and major media releases.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Tuesday",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.gni/yMjGOZ7N4gvo7sdm1w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T10:23:43Z",
-      "first_seen": "2026-11-03T10:23:43Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "broward",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Broward",
-      "description": "Broward County voters faced brief technical delays and a relocated polling place due to flooding on Election Day.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Broward",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.9VWDEMQZ-Y_mWv5CtYAQpAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T15:23:45Z",
-      "first_seen": "2026-11-03T15:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
+      "last_seen": "2026-11-03T16:23:38Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -325,7 +385,7 @@
     },
     {
       "id": "midterms2026",
-      "rank": 9,
+      "rank": 11,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -336,12 +396,16 @@
         {
           "t": "2026-11-03T15:23:45Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 11
         }
       ],
-      "rank_change": -2,
+      "rank_change": -4,
       "is_new": false,
       "topic": "#Midterms2026",
-      "description": "Social media users are closely following the 2026 midterms as results come in and analysts watch key races to see which party will control Congress.",
+      "description": "Social media users and analysts are closely following the 2026 US midterms to see whether Republicans or Democrats will win control of the House.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Midterms2026",
       "image_url": "https://ts2.explicit.bing.net/th?id=OIP.YZd6p7EowgiO56ITZ_sl3QAAAA&pid=15.1",
@@ -350,37 +414,37 @@
       "started_trending": "2026-11-03T14:23:34Z",
       "first_seen": "2026-11-03T14:23:34Z",
       "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "agentic-loops",
-      "rank": 10,
+      "id": "hammerfell",
+      "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 10
+          "t": "2026-11-03T16:23:38Z",
+          "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Agentic Loops",
-      "description": "Tech discussions are highlighting agentic loops and AI trust as enterprises focus on automated security testing and cost control for AI agents.",
+      "topic": "Hammerfell",
+      "description": "A new teaser for The Elder Scrolls VI has confirmed its title as Sentinel and all but confirmed a Hammerfell setting, set five years after Skyrim.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Agentic%20Loops",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xA2vykLjE-7wSdI_Ioks2gHaJQ&pid=15.1",
+      "url": "https://twstalker.com/search/Hammerfell",
+      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.JJ4PNzls-K48pe4q-8632wHaDt&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-03T15:23:45Z",
-      "first_seen": "2026-11-03T15:23:45Z",
+      "started_trending": "2026-11-03T16:23:38Z",
+      "first_seen": "2026-11-03T16:23:38Z",
       "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
+      "last_seen": "2026-11-03T16:23:38Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -388,8 +452,204 @@
       "extra": {}
     },
     {
+      "id": "ndaa",
+      "rank": 13,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-03T15:23:45Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "NDAA",
+      "description": "Lawmakers and business groups are actively discussing the 2027 National Defense Authorization Act (NDAA), highlighting urgent cybersecurity and information-sharing needs amid rising AI threats.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/NDAA",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0Uys-bmzLHghCncNiozX2wHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T15:23:45Z",
+      "first_seen": "2026-11-03T15:23:45Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sentinel",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sentinel",
+      "description": "Bethesda officially revealed that the next Elder Scrolls game is titled The Elder Scrolls 6: Sentinel, showing off its new logo and setting.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sentinel",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.TuuoVhOeXdiGBtkQpiT3NA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T16:23:38Z",
+      "first_seen": "2026-11-03T16:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "voting",
+      "rank": 15,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-11-03T15:23:45Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Voting",
+      "description": "Voters across the country are casting ballots in the state elections, while reports highlight voting machine challenges in key battleground areas.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Voting",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.g-bV-mHnsNpkBcD1gRRcRgAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T15:23:45Z",
+      "first_seen": "2026-11-03T15:23:45Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "guam",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Guam",
+      "description": "Guam voters are closely monitoring tight early election results in the governor's race, alongside major military construction contracts and key local concerns.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Guam",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.BiChLzW17Xqju9jbRURLmgHaFA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T16:23:38Z",
+      "first_seen": "2026-11-03T16:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "starfield",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Starfield",
+      "description": "Starfield is trending following the pre-order launch of its Colony War action figure series and news surrounding a retail venue in South Korea.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Starfield",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.1WhbHNbUYGUZ0NIT2V_IzwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T16:23:38Z",
+      "first_seen": "2026-11-03T16:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jack-mehoff",
+      "rank": 18,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-03T14:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-03T15:23:45Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "Jack Mehoff",
+      "description": "Social media discussion focuses on a controversial New York Times list of Jewish supporters backing Abdul El-Sayed.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jack%20Mehoff",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.BJxjSHH6sH1ddyv7hUrwcwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T14:23:34Z",
+      "first_seen": "2026-11-03T14:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "jes-s-de-miguel",
-      "rank": 11,
+      "rank": 19,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -416,12 +676,16 @@
         {
           "t": "2026-11-03T15:23:45Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-03T16:23:38Z",
+          "r": 19
         }
       ],
-      "rank_change": -3,
+      "rank_change": -11,
       "is_new": false,
       "topic": "Jesús de Miguel",
-      "description": "Tenerife striker Jesús de Miguel has tragically died following an on-pitch collision during a match, prompting a police investigation.",
+      "description": "Tenerife striker Jesús de Miguel has tragically died at age 30 following an on-pitch collision during a match, prompting an investigation by Spanish police.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jes%C3%BAs%20de%20Miguel",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.7p8IY6WYZMFwoydi5a9Qag&pid=15.1",
@@ -430,7 +694,7 @@
       "started_trending": "2026-11-03T10:23:43Z",
       "first_seen": "2026-11-03T10:23:43Z",
       "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
+      "last_seen": "2026-11-03T16:23:38Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -438,308 +702,56 @@
       "extra": {}
     },
     {
-      "id": "ndaa",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "good-tuesday",
+      "rank": 20,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "NDAA",
-      "description": "Advocacy groups and industries are pushing for priorities within the upcoming defense bill, including funding, UAV motors, and information-sharing laws.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/NDAA",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0Uys-bmzLHghCncNiozX2wHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T15:23:45Z",
-      "first_seen": "2026-11-03T15:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jack-mehoff",
-      "rank": 13,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-03T14:23:34Z",
+          "t": "2026-11-03T10:23:43Z",
           "r": 9
         },
         {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Jack Mehoff",
-      "description": "Social media is discussing a controversial name appearing on a New York Times list of Jewish supporters backing Abdul El-Sayed.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jack%20Mehoff",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.BJxjSHH6sH1ddyv7hUrwcwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T14:23:34Z",
-      "first_seen": "2026-11-03T14:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "voting",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Voting",
-      "description": "Voters are sharing updates and asking FAQs about midterm election voting, ID requirements, and live results.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Voting",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.g-bV-mHnsNpkBcD1gRRcRgAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T15:23:45Z",
-      "first_seen": "2026-11-03T15:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "today-is-the-day",
-      "rank": 15,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
+          "t": "2026-11-03T11:23:32Z",
+          "r": 3
+        },
         {
           "t": "2026-11-03T12:23:34Z",
-          "r": 20
+          "r": 3
         },
         {
           "t": "2026-11-03T13:23:33Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-03T14:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "TODAY IS THE DAY",
-      "description": "Communities are urging residents to head to the polls as Election Day arrives and control of Congress hangs in the balance.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/TODAY%20IS%20THE%20DAY",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.7LOACvzwJfDst0HsYmwUYgHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T12:23:34Z",
-      "first_seen": "2026-11-03T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "taco-tuesday",
-      "rank": 16,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-03T14:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Taco Tuesday",
-      "description": "Social media is discussing Taco Tuesday alongside financial market shifts, restaurant news, and local election day menus.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Taco%20Tuesday",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Njy-lLsZNZEOaPu-sKcysAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T14:23:34Z",
-      "first_seen": "2026-11-03T14:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-elder-scrolls-vi",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "The Elder Scrolls VI",
-      "description": "Bethesda has officially revealed the subtitle and location teaser for The Elder Scrolls VI as Sentinel, marking the company's 40th anniversary.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20Elder%20Scrolls%20VI",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.bJvLLTYSK1jVEhUJygBCbQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T15:23:45Z",
-      "first_seen": "2026-11-03T15:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nomoneyforpapergames",
-      "rank": 18,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-03T12:23:34Z",
           "r": 4
         },
         {
-          "t": "2026-11-03T13:23:33Z",
+          "t": "2026-11-03T14:23:34Z",
           "r": 5
         },
         {
-          "t": "2026-11-03T14:23:34Z",
-          "r": 8
+          "t": "2026-11-03T15:23:45Z",
+          "r": 7
         },
         {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "#NoMoneyForPapergames",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23NoMoneyForPapergames",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.XWDO2N0qYFz-DyImXiMIowAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T12:23:34Z",
-      "first_seen": "2026-11-03T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "get-out-and-vote",
-      "rank": 19,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-03T14:23:34Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-03T15:23:45Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "GET OUT AND VOTE",
-      "description": "Public figures, organizations, and media outlets are heavily pushing get-out-the-vote campaigns as polls remain open for Election Day.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/GET%20OUT%20AND%20VOTE",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.uypfYHRlHokYVpAGfe2f_wHaLG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T14:23:34Z",
-      "first_seen": "2026-11-03T14:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "marcel",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-03T15:23:45Z",
+          "t": "2026-11-03T16:23:38Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Marcel",
-      "description": "Sports fans are discussing Texas A&M quarterback Marcel Reed as he prepares to face a tough South Carolina defense.",
+      "rank_change": -17,
+      "is_new": false,
+      "topic": "Good Tuesday",
+      "description": "Social media users are welcoming Election Day and other major sports and entertainment events scheduled for Tuesday.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Marcel",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.NhopM8PSH3XZ1_dxNPV0tgHaFc&pid=15.1",
+      "url": "https://twstalker.com/search/Good%20Tuesday",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.gni/yMjGOZ7N4gvo7sdm1w&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-03T15:23:45Z",
-      "first_seen": "2026-11-03T15:23:45Z",
+      "started_trending": "2026-11-03T10:23:43Z",
+      "first_seen": "2026-11-03T10:23:43Z",
       "published": null,
-      "last_seen": "2026-11-03T15:23:45Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-03T16:23:38Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     }
