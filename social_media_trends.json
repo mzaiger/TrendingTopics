@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-02T23:26:11Z",
+  "updated": "2026-11-03T00:25:14Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "wweraw",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-02T23:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "#WWERaw",
-      "description": "WWE Raw is trending as fans anticipate the go-home show for Crown Jewel 2026, featuring major appearances by John Cena and Roman Reigns.",
+      "description": "Fans are buzzing on social media about WWE Raw as John Cena returns for a special broadcast and the roster prepares for Crown Jewel 2026.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23WWERaw",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.Xk4HrjtlSXD9oWnvzj-o2wHaEK&pid=15.1",
@@ -30,7 +34,67 @@
       "started_trending": "2026-11-02T23:23:32Z",
       "first_seen": "2026-11-02T23:23:32Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ethan-page",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ethan Page",
+      "description": "Ethan Page is trending after defeating Chad Gable to win the WWE Men's Intercontinental Championship during WWE Raw in Brooklyn.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ethan%20Page",
+      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.nNq5LApRSgEw92FMQhMRJAHaFP&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T00:23:34Z",
+      "first_seen": "2026-11-03T00:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sami",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sami",
+      "description": "Sami Zayn is drawing heavy discussion on social media regarding his WWE championship reign and upcoming Champion vs. Champion match against Roman Reigns at Crown Jewel.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sami",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.MFu6G82rP1j7noBHx1Uv8QHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T00:23:34Z",
+      "first_seen": "2026-11-03T00:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-03T00:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -39,7 +103,7 @@
     },
     {
       "id": "bruce",
-      "rank": 2,
+      "rank": 4,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -58,12 +122,16 @@
         {
           "t": "2026-11-02T23:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 4
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Bruce",
-      "description": "Bruce Springsteen is trending after endorsing Michigan Senate candidate Abdul El-Sayed, praising his platform and leadership.",
+      "description": "Bruce Springsteen is trending after endorsing Michigan Senate candidate Abdul El-Sayed, praising him as a fighter against corrupt leadership.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bruce",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.thxPzFc4Zt4HBaac0GXcVAHaE7&pid=15.1",
@@ -72,16 +140,76 @@
       "started_trending": "2026-11-02T20:23:34Z",
       "first_seen": "2026-11-02T20:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chad-gable",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Chad Gable",
+      "description": "Chad Gable is receiving attention on social media following his Intercontinental Title match against Ethan Page on WWE Raw.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Chad%20Gable",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.dBsAwNN2D8sgBqIHR9L1GQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T00:23:34Z",
+      "first_seen": "2026-11-03T00:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cfdaawards",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#CFDAAwards",
+      "description": "Social media users are sharing red carpet looks and updates from the 2026 CFDA Awards, featuring appearances by Cole Escola, Vera Wang, and other stars.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23CFDAAwards",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.zeszS5jT-Lh5Ngyx6igj9wHaLH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T00:23:34Z",
+      "first_seen": "2026-11-03T00:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jeff-gregory",
-      "rank": 3,
+      "rank": 7,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -96,12 +224,16 @@
         {
           "t": "2026-11-02T23:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 7
         }
       ],
-      "rank_change": 0,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Jeff Gregory",
-      "description": "Jeff Gregory is trending following reports identifying him as the captain who died in a fatal Palm Beach Learjet crash.",
+      "description": "Jeff Gregory is being discussed on social media following reports identifying him as one of the victims in a deadly Palm Beach Learjet crash.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jeff%20Gregory",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.FOwcUnxtdtm2bZYegu/Qlw&pid=15.1",
@@ -110,16 +242,16 @@
       "started_trending": "2026-11-02T21:23:31Z",
       "first_seen": "2026-11-02T21:23:31Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "adam-robinson",
-      "rank": 4,
+      "rank": 8,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -138,12 +270,16 @@
         {
           "t": "2026-11-02T23:23:32Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": 10,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Adam Robinson",
-      "description": "Adam Robinson is trending after he, his wife, and young children were identified among the victims of a tragic Florida jet crash.",
+      "description": "Adam Robinson is trending on social media after being identified as one of the tech entrepreneurs killed in a fatal Florida plane crash along with his family.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Adam%20Robinson",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.C0_vsyauQG7CNBWypV4aKwHaE7&pid=15.1",
@@ -152,37 +288,189 @@
       "started_trending": "2026-11-02T20:23:34Z",
       "first_seen": "2026-11-02T20:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "olandriaxcfdaawards",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "emerson",
+      "rank": 9,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-02T22:23:37Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-02T23:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Emerson",
+      "description": "Emerson College is generating buzz online after announcing the launch of a new content creation major.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Emerson",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ZArwzltRFRMY6GS6DNZF1AHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T22:23:37Z",
+      "first_seen": "2026-11-02T22:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "born-in-the-usa",
+      "rank": 10,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-02T19:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-02T20:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-02T21:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-02T22:23:37Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-02T23:23:32Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Born in the USA",
+      "description": "Social media is discussing Bruce Springsteen and his recent political endorsements and music projects, tying into his enduring cultural footprint.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Born%20in%20the%20USA",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.V7yOIdfoi_2aZcameibIogHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-02T19:23:34Z",
+      "first_seen": "2026-11-02T19:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "monday-night-football",
+      "rank": 11,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-02T23:23:32Z",
-          "r": 5
+          "r": 19
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#OlandriaxCFDAAwards",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23OlandriaxCFDAAwards",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.-a2omlnYuQMJxd5G63nquQHaLE&pid=15.1",
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Monday Night Football",
+      "description": "NFL fans on social media are tuning in and discussing tonight's Monday Night Football matchup between the Chicago Bears and the Seattle Seahawks.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Monday%20Night%20Football",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.yboZPxOp613oC/EhySgRTw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-02T23:23:32Z",
       "first_seen": "2026-11-02T23:23:32Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "haugh",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Haugh",
+      "description": "Thomas Haugh is trending after shining for the Florida Gators in their college basketball season opener.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Haugh",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Ll3tuDjTFyA3usjMxdxAsgHaFF&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T00:23:34Z",
+      "first_seen": "2026-11-03T00:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "all-ego",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "All Ego",
+      "description": "Ethan Page, also known by his nickname, is trending across social media following his Intercontinental Championship victory on WWE Raw.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/All%20Ego",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.jeP8mIOHBmi8GLq2xjdfswHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T00:23:34Z",
+      "first_seen": "2026-11-03T00:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-03T00:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -191,9 +479,9 @@
     },
     {
       "id": "fallout76giveaway",
-      "rank": 6,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "rank": 14,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-02T19:23:34Z",
@@ -214,9 +502,13 @@
         {
           "t": "2026-11-02T23:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": -4,
+      "rank_change": -13,
       "is_new": false,
       "topic": "#Fallout76Giveaway",
       "description": "",
@@ -228,87 +520,37 @@
       "started_trending": "2026-11-02T19:23:34Z",
       "first_seen": "2026-11-02T19:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "born-in-the-usa",
-      "rank": 7,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "id": "andnew",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-02T19:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-02T20:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-02T21:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-02T22:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-02T23:23:32Z",
-          "r": 7
+          "t": "2026-11-03T00:23:34Z",
+          "r": 15
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Born in the USA",
-      "description": "Born in the USA is trending as musician Bruce Springsteen makes political headlines by endorsing Michigan Senate candidate Abdul El-Sayed.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#ANDNEW",
+      "description": "Social media users are sharing updates and reacting to the latest midterms and entertainment news under the hashtag.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Born%20in%20the%20USA",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.V7yOIdfoi_2aZcameibIogHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/%23ANDNEW",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.1v1jmA6HFqd8bLs4UCZ0VQHaD_&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-02T19:23:34Z",
-      "first_seen": "2026-11-02T19:23:34Z",
+      "started_trending": "2026-11-03T00:23:34Z",
+      "first_seen": "2026-11-03T00:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "emerson",
-      "rank": 8,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-02T22:23:37Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-02T23:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Emerson",
-      "description": "Emerson College is trending on social media after announcing the launch of a new content creation major.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Emerson",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ZArwzltRFRMY6GS6DNZF1AHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T22:23:37Z",
-      "first_seen": "2026-11-02T22:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
+      "last_seen": "2026-11-03T00:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -316,79 +558,59 @@
       "extra": {}
     },
     {
-      "id": "reflecting-pool",
-      "rank": 9,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "id": "john-cena",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-02T19:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-02T20:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-02T21:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-02T22:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-02T23:23:32Z",
-          "r": 9
+          "t": "2026-11-03T00:23:34Z",
+          "r": 16
         }
       ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Reflecting Pool",
-      "description": "The Lincoln Memorial Reflecting Pool is trending following its official reopening and a makeover unveiled on the eve of the midterm elections.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "John Cena",
+      "description": "John Cena is trending as he returns to Monday Night Raw for a special announcement and schedule change ahead of Crown Jewel.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Reflecting%20Pool",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.WPBp0tGJIP1nyeTaaa6SkAHaLG&pid=15.1",
+      "url": "https://twstalker.com/search/John%20Cena",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.TuzIsVJWsJVAJ6CYUwJegQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-02T19:23:34Z",
-      "first_seen": "2026-11-02T19:23:34Z",
+      "started_trending": "2026-11-03T00:23:34Z",
+      "first_seen": "2026-11-03T00:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "aapl",
-      "rank": 10,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "id": "kagan",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-02T22:23:37Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-02T23:23:32Z",
-          "r": 10
+          "t": "2026-11-03T00:23:34Z",
+          "r": 17
         }
       ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "$AAPL",
-      "description": "Apple stock ($AAPL) is trending after reporting fiscal Q4 earnings that beat Wall Street expectations despite slowing China sales growth.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kagan",
+      "description": "Justice Kagan is drawing online commentary after sounding an alarm about the Supreme Court during a recent case.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24AAPL",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.dl9Kdz8EOOOXbsfy8WMfdQHaFj&pid=15.1",
+      "url": "https://twstalker.com/search/Kagan",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.0pNigX4z0LlykhhAePybTQHaGC&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-02T22:23:37Z",
-      "first_seen": "2026-11-02T22:23:37Z",
+      "started_trending": "2026-11-03T00:23:34Z",
+      "first_seen": "2026-11-03T00:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
+      "last_seen": "2026-11-03T00:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -397,14 +619,10 @@
     },
     {
       "id": "bluewaveinoneday",
-      "rank": 11,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "rank": 18,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
-        {
-          "t": "2026-11-02T18:23:33Z",
-          "r": 12
-        },
         {
           "t": "2026-11-02T19:23:34Z",
           "r": 10
@@ -424,9 +642,13 @@
         {
           "t": "2026-11-02T23:23:32Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 18
         }
       ],
-      "rank_change": 1,
+      "rank_change": -11,
       "is_new": false,
       "topic": "#BlueWaveInOneDay",
       "description": "",
@@ -438,58 +660,32 @@
       "started_trending": "2026-11-02T18:23:33Z",
       "first_seen": "2026-11-02T18:23:33Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "maricopa-county",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T23:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Maricopa County",
-      "description": "Maricopa County officials are trending as they preview Election Day operations and prepare for the 2026 midterm elections.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Maricopa%20County",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.SJGxad_r_yvxx0rIFrCqyAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T23:23:32Z",
-      "first_seen": "2026-11-02T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "juju-watkins",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-11-02T23:23:32Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-03T00:23:34Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "JuJu Watkins",
-      "description": "USC star JuJu Watkins is trending after returning to the court for the women's basketball season opener following a 588-day layoff due to an ACL injury.",
+      "description": "JuJu Watkins is trending after making a triumphant return from injury to score 21 points in USC's season-opening win over UNLV.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/JuJu%20Watkins",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.mMN05tiLkMwUzHFQO5B3gg&pid=15.1",
@@ -498,248 +694,60 @@
       "started_trending": "2026-11-02T23:23:32Z",
       "first_seen": "2026-11-02T23:23:32Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "pltr",
-      "rank": 14,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "id": "reflecting-pool",
+      "rank": 20,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
-          "t": "2026-11-02T22:23:37Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-02T23:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "$PLTR",
-      "description": "Palantir ($PLTR) is trending after reporting strong Q3 earnings that topped analyst estimates and showed booming U.S. commercial revenue growth.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24PLTR",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.YFLrBUdONyFg2sTSxjYBLgHaDA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T22:23:37Z",
-      "first_seen": "2026-11-02T22:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jovana",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T23:23:32Z",
+          "t": "2026-11-02T19:23:34Z",
           "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jovana",
-      "description": "Jovana is trending alongside UConn women's basketball as the team opens its regular season with a doubleheader against Cornell.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jovana",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.0Jzian_D9ACs4cDOghZRoQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T23:23:32Z",
-      "first_seen": "2026-11-02T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "don-jr",
-      "rank": 16,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
+        },
         {
           "t": "2026-11-02T20:23:34Z",
-          "r": 13
+          "r": 5
         },
         {
           "t": "2026-11-02T21:23:31Z",
-          "r": 15
+          "r": 7
         },
         {
           "t": "2026-11-02T22:23:37Z",
-          "r": 20
+          "r": 6
         },
         {
           "t": "2026-11-02T23:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Don Jr",
-      "description": "Donald Trump Jr. is trending after campaigning alongside Vice President JD Vance at an election eve rally in Rome.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Don%20Jr",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.8Lrcs6kcEz6TzvQfQTMTwgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T20:23:34Z",
-      "first_seen": "2026-11-02T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "saniyah-hall",
-      "rank": 17,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-02T22:23:37Z",
-          "r": 17
+          "r": 9
         },
         {
-          "t": "2026-11-02T23:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Saniyah Hall",
-      "description": "Saniyah Hall is trending after scoring 22 points in her debut as USC dominanty defeated UNLV in their season opener.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Saniyah%20Hall",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.HSQb3FGX8g7nNnkqBiJRIwHaGW&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T22:23:37Z",
-      "first_seen": "2026-11-02T22:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "iceman",
-      "rank": 18,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-02T21:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-02T22:23:37Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-02T23:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Iceman",
-      "description": "Iceman is trending as actor Ben Wang is reportedly in talks to play the character in Marvel's upcoming X-Men reboot.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Iceman",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.qh6nkslrMEZtlNfE9c0HBQHaLP&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T21:23:31Z",
-      "first_seen": "2026-11-02T21:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "monday-night-football",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T23:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Monday Night Football",
-      "description": "Monday Night Football is trending as fans tune in for the Week 8 matchup between the Chicago Bears and the Seattle Seahawks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Monday%20Night%20Football",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.yboZPxOp613oC/EhySgRTw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-02T23:23:32Z",
-      "first_seen": "2026-11-02T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tomorrow-is-election-day",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-02T23:23:32Z",
+          "t": "2026-11-03T00:23:34Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tomorrow is Election Day",
-      "description": "Tomorrow is Election Day is trending as election officials across the country finalize preparations and urge voters to make a plan for the 2026 general election.",
+      "rank_change": -15,
+      "is_new": false,
+      "topic": "Reflecting Pool",
+      "description": "Donald Trump is drawing attention on social media for officially reopening the Lincoln Memorial Reflecting Pool during his final public speech before the midterm elections.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tomorrow%20is%20Election%20Day",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.JfMjasKltXibqy2ulGiSKAHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Reflecting%20Pool",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.WPBp0tGJIP1nyeTaaa6SkAHaLG&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-02T23:23:32Z",
-      "first_seen": "2026-11-02T23:23:32Z",
+      "started_trending": "2026-11-02T19:23:34Z",
+      "first_seen": "2026-11-02T19:23:34Z",
       "published": null,
-      "last_seen": "2026-11-02T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-03T00:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     }
