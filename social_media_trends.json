@@ -1,621 +1,31 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-03T08:24:52Z",
+  "updated": "2026-11-03T09:25:22Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "bears",
+      "id": "gmmtvnext",
       "rank": 1,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-03T03:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 1
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Bears",
-      "description": "The Chicago Bears defeated the Seattle Seahawks 34-17 on 'Monday Night Football,' cementing their status as a contender.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bears",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.NHi5FGZVsUZvlZW8CNxZvw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T02:23:32Z",
-      "first_seen": "2026-11-03T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "draymond",
-      "rank": 2,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Draymond",
-      "description": "Golden State Warriors player Draymond Green was ejected from a game following a heated altercation and shove match with Dillon Brooks of the Suns.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Draymond",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.yhhKxdphYYP7pUALeCyCQwHaKX&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T05:23:31Z",
-      "first_seen": "2026-11-03T05:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "seahawks",
-      "rank": 3,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-03T03:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Seahawks",
-      "description": "The Seattle Seahawks suffered a disappointing 34-17 home loss to the Chicago Bears on 'Monday Night Football,' hurting their playoff picture.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Seahawks",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.2yaVWcSQ6Lo2ePtDDwhF7w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T01:23:32Z",
-      "first_seen": "2026-11-03T01:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sam-darnold",
-      "rank": 4,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-03T03:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Sam Darnold",
-      "description": "Quarterback Sam Darnold and the Seattle Seahawks struggled in their Week 8 loss to the Chicago Bears, facing heavy backlash after a controversial hit on Darnold went unpunished.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sam%20Darnold",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.SDfwtMDlMCtb_S6GpD05gQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T02:23:32Z",
-      "first_seen": "2026-11-03T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "seattle",
-      "rank": 5,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Seattle",
-      "description": "Seattle is trending as the city hosted the 'Monday Night Football' matchup between the Chicago Bears and the Seattle Seahawks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Seattle",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.a6dYk8Gn9_NCA3aIf9qb5wHaE6&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T06:23:31Z",
-      "first_seen": "2026-11-03T06:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "caleb",
-      "rank": 6,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Caleb",
-      "description": "Caleb Williams led the Chicago Bears to an efficient road victory over Seattle on 'Monday Night Football' and addressed footwear controversy.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Caleb",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.lTCLU3j/Bc29JA11otG1pw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T04:23:44Z",
-      "first_seen": "2026-11-03T04:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ben-johnson",
-      "rank": 7,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-03T03:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Ben Johnson",
-      "description": "Chicago Bears coach Ben Johnson is trending after delivering a postgame speech following their prime-time victory over the Seattle Seahawks and addressing trade talk surrounding Jaylon Johnson.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ben%20Johnson",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.mI3lHKDSUUbOlTh0Ma34ZAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T03:23:35Z",
-      "first_seen": "2026-11-03T03:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fleury",
-      "rank": 8,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
         {
-          "t": "2026-11-03T03:23:35Z",
+          "t": "2026-11-03T08:23:33Z",
           "r": 14
         },
         {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Fleury",
-      "description": "Fans on social media are questioning whether Seahawks offensive coordinator Brian Fleury should be fired following the team's Week 8 loss to the Bears.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fleury",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.7JaP9vnz9Kq0UOcQAUK08wAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T02:23:32Z",
-      "first_seen": "2026-11-03T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dwts",
-      "rank": 9,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-03T03:23:35Z",
+          "t": "2026-11-03T09:23:50Z",
           "r": 1
-        },
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 9
         }
       ],
-      "rank_change": -8,
+      "rank_change": 13,
       "is_new": false,
-      "topic": "#dwts",
-      "description": "Fans are discussing the latest elimination, scores, and group dances from Disney Night on Week 8 of 'Dancing with the Stars'.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23dwts",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.nbwQluFwFeeqnMcri55FaAHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T02:23:32Z",
-      "first_seen": "2026-11-03T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "beardown",
-      "rank": 10,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "#BearDown",
-      "description": "Economic woes and a technology sell-off are putting heavy pressure on Chinese stock markets.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23BearDown",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.sC0Uao1n53I8QCL7V6YOPAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T04:23:44Z",
-      "first_seen": "2026-11-03T04:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "simmons",
-      "rank": 11,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Simmons",
-      "description": "Jeffery Simmons made a massive impact in his Chicago debut, recording a key sack and helping the Bears' defense handle the Seahawks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Simmons",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.Wzbxph6YPgVgMAAEgwaXxw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T04:23:44Z",
-      "first_seen": "2026-11-03T04:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ty-jerome",
-      "rank": 12,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Ty Jerome",
-      "description": "Ty Jerome scored 40 points in a stellar performance, though the Grizzlies suffered their first loss of the season.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ty%20Jerome",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.cDJo9jT1RyRqedSSs0Y7RA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T04:23:44Z",
-      "first_seen": "2026-11-03T04:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "njpst",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#njpst",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23njpst",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.eLXHkfnqEr2GOPt3Y0sT1AHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T08:23:33Z",
-      "first_seen": "2026-11-03T08:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gmmtvnext",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
       "topic": "#GMMTVNEXT",
-      "description": "The material provided is not clear enough to explain why this topic is trending right now.",
+      "description": "Fans on social media are discussing upcoming GMMTV announcements and sharing posts related to the agency's talent and events.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23GMMTVNEXT",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.zg2c0Uo98-Ocp28mADZxQgHaJQ&pid=15.1",
@@ -624,57 +34,103 @@
       "started_trending": "2026-11-03T08:23:33Z",
       "first_seen": "2026-11-03T08:23:33Z",
       "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "swift",
-      "rank": 15,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "id": "bears",
+      "rank": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
-          "t": "2026-11-03T03:23:35Z",
-          "r": 17
-        },
-        {
           "t": "2026-11-03T04:23:44Z",
-          "r": 11
+          "r": 1
         },
         {
           "t": "2026-11-03T05:23:31Z",
-          "r": 12
+          "r": 1
         },
         {
           "t": "2026-11-03T06:23:31Z",
-          "r": 13
+          "r": 1
         },
         {
           "t": "2026-11-03T07:23:34Z",
-          "r": 13
+          "r": 1
         },
         {
           "t": "2026-11-03T08:23:33Z",
-          "r": 15
+          "r": 1
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 2
         }
       ],
-      "rank_change": 2,
+      "rank_change": -1,
       "is_new": false,
-      "topic": "Swift",
-      "description": "D'Andre Swift scored three touchdowns to boost the Chicago Bears past the Seahawks, while NASA's Swift observatory prepares for a fiery atmospheric reentry.",
+      "topic": "Bears",
+      "description": "The Chicago Bears are trending after securing a dominant 34-17 prime-time victory against the Seattle Seahawks on Monday Night Football.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Swift",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.tM6UGr521eElwq9T9gsnDwHaK6&pid=15.1",
+      "url": "https://twstalker.com/search/Bears",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.NHi5FGZVsUZvlZW8CNxZvw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-03T03:23:35Z",
-      "first_seen": "2026-11-03T03:23:35Z",
+      "started_trending": "2026-11-03T02:23:32Z",
+      "first_seen": "2026-11-03T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "draymond",
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Draymond",
+      "description": "Golden State Warriors player Draymond Green is trending after being ejected following a heated altercation and technical fouls involving Dillon Brooks of the Suns.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Draymond",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.yhhKxdphYYP7pUALeCyCQwHaKX&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T05:23:31Z",
+      "first_seen": "2026-11-03T05:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -682,8 +138,522 @@
       "extra": {}
     },
     {
+      "id": "seahawks",
+      "rank": 4,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 4
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Seahawks",
+      "description": "The Seattle Seahawks are trending following a disappointing 34-17 defeat against the Chicago Bears on Monday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Seahawks",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.2yaVWcSQ6Lo2ePtDDwhF7w&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T01:23:32Z",
+      "first_seen": "2026-11-03T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "njpst",
+      "rank": 5,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "#njpst",
+      "description": "Wrestling fans are discussing New Japan Pro-Wrestling after dual stipulations were announced for an IWGP Junior Heavyweight Title bout at Wrestle Kingdom 21.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23njpst",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.eLXHkfnqEr2GOPt3Y0sT1AHaJ4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T08:23:33Z",
+      "first_seen": "2026-11-03T08:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sam-darnold",
+      "rank": 6,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Sam Darnold",
+      "description": "Quarterback Sam Darnold is drawing social media attention following an uninspired performance and a tough loss for his team against the Chicago Bears.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sam%20Darnold",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.SDfwtMDlMCtb_S6GpD05gQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T02:23:32Z",
+      "first_seen": "2026-11-03T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "caleb",
+      "rank": 7,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Caleb",
+      "description": "Chicago Bears quarterback Caleb Williams is making headlines after leading his team to a prime-time victory over the Seahawks and altering his cleats to avoid NFL fines.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Caleb",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.lTCLU3j/Bc29JA11otG1pw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T04:23:44Z",
+      "first_seen": "2026-11-03T04:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ben-johnson",
+      "rank": 8,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Ben Johnson",
+      "description": "Ben Johnson is trending on social media as discussions continue around his coaching leadership and recent comments following the Bears' victory over Seattle.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ben%20Johnson",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.mI3lHKDSUUbOlTh0Ma34ZAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T03:23:35Z",
+      "first_seen": "2026-11-03T03:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fleury",
+      "rank": 9,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Fleury",
+      "description": "Seahawks offensive coordinator Brian Fleury is facing heavy criticism on social media following the team's damaging Monday night defeat to the Bears.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Fleury",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.7JaP9vnz9Kq0UOcQAUK08wAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T02:23:32Z",
+      "first_seen": "2026-11-03T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dwts",
+      "rank": 10,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "#dwts",
+      "description": "Fans are reacting online to Dancing with the Stars' Disney Night, which featured perfect scores, group dance-offs, and an emotional celebrity elimination.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23dwts",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.nbwQluFwFeeqnMcri55FaAHaD4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T02:23:32Z",
+      "first_seen": "2026-11-03T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "beardown",
+      "rank": 11,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "#BearDown",
+      "description": "Financial markets are discussing economic pressures and a technology sell-off that are heavily impacting Chinese stocks.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23BearDown",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.sC0Uao1n53I8QCL7V6YOPAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T04:23:44Z",
+      "first_seen": "2026-11-03T04:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "simmons",
+      "rank": 12,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Simmons",
+      "description": "Defensive tackle Jeffery Simmons is trending after a standout performance and a major sack in his Chicago debut to help defeat the Seattle Seahawks.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Simmons",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.Wzbxph6YPgVgMAAEgwaXxw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T04:23:44Z",
+      "first_seen": "2026-11-03T04:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ty-jerome",
+      "rank": 13,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Ty Jerome",
+      "description": "Memphis Grizzlies guard Ty Jerome is drawing attention online after scoring 40 points and hitting a clutch basket in a hard-fought game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ty%20Jerome",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.cDJo9jT1RyRqedSSs0Y7RA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T04:23:44Z",
+      "first_seen": "2026-11-03T04:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "today-is-election-day",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Today is Election Day",
+      "description": "Voters across the United States are discussing Election Day as polls open and citizens head to the ballot boxes for the general election.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Today%20is%20Election%20Day",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.I4gtHK8G1UEL3FYycxNlng&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T09:23:50Z",
+      "first_seen": "2026-11-03T09:23:50Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "dillon-brooks",
-      "rank": 16,
+      "rank": 15,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -702,12 +672,16 @@
         {
           "t": "2026-11-03T08:23:33Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 15
         }
       ],
-      "rank_change": 2,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Dillon Brooks",
-      "description": "Dillon Brooks was involved in a heated altercation and shove match with Draymond Green during a game between the Suns and Warriors, resulting in Green's ejection.",
+      "description": "Dillon Brooks is making headlines following a heated altercation on the court that resulted in Draymond Green's ejection during a game against the Warriors.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dillon%20Brooks",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.wEy53nV3CnE1KGhlaJj1sw&pid=15.1",
@@ -716,10 +690,60 @@
       "started_trending": "2026-11-03T05:23:31Z",
       "first_seen": "2026-11-03T05:23:31Z",
       "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "swift",
+      "rank": 16,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-03T04:23:44Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-03T05:23:31Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-03T06:23:31Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-03T07:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-03T08:23:33Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Swift",
+      "description": "Running back D'Andre Swift is trending after scoring multiple touchdowns in the Bears' win over Seattle, alongside discussions about NASA's incoming Swift spacecraft reentry.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Swift",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.tM6UGr521eElwq9T9gsnDwHaK6&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T03:23:35Z",
+      "first_seen": "2026-11-03T03:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -740,12 +764,16 @@
         {
           "t": "2026-11-03T08:23:33Z",
           "r": 17
+        },
+        {
+          "t": "2026-11-03T09:23:50Z",
+          "r": 17
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Bassey",
-      "description": "Charles Bassey is trending after scoring a career-high 19 points and making a strong impact on the Warriors' center rotation.",
+      "description": "Charles Bassey is receiving attention on social media after scoring a career-high 19 points to help power the Warriors to a victory.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bassey",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.rPdfHM7Nvs5wQe2qc7MJJAHaFa&pid=15.1",
@@ -754,91 +782,37 @@
       "started_trending": "2026-11-03T06:23:31Z",
       "first_seen": "2026-11-03T06:23:31Z",
       "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jaylon-johnson",
+      "id": "novalkonomoney",
       "rank": 18,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-03T03:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
+          "t": "2026-11-03T09:23:50Z",
           "r": 18
         }
       ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Jaylon Johnson",
-      "description": "Chicago Bears cornerback Jaylon Johnson is facing outside trade noise and criticism while making candid admissions about his recent performances.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jaylon%20Johnson",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.nke4qKp8/CQ0JcsqtDkdLQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-03T02:23:32Z",
-      "first_seen": "2026-11-03T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ppxpaperclip",
-      "rank": 19,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-03T07:23:34Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-03T08:23:33Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "#PPxPAPERCLIP",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#NoValkoNoMoney",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23PPxPAPERCLIP",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JUQJLCc9orbK1h4KcygqcgHaHa&pid=15.1",
+      "url": "https://twstalker.com/search/%23NoValkoNoMoney",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.mcUXtDtRzQHgnX9qQu1-FgHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-03T07:23:34Z",
-      "first_seen": "2026-11-03T07:23:34Z",
+      "started_trending": "2026-11-03T09:23:50Z",
+      "first_seen": "2026-11-03T09:23:50Z",
       "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
+      "last_seen": "2026-11-03T09:23:50Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -846,48 +820,62 @@
       "extra": {}
     },
     {
-      "id": "east-texas-a-m",
-      "rank": 20,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
+      "id": "qeshm-island",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-03T04:23:44Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-03T05:23:31Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-03T06:23:31Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-03T07:23:34Z",
+          "t": "2026-11-03T09:23:50Z",
           "r": 19
-        },
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Qeshm Island",
+      "description": "Qeshm Island is trending in international news after the U.S. military carried out targeted strikes on the Iranian island, which officials described as a defensive measure.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Qeshm%20Island",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.AD6U-t5xpuX-9gam4e_mSAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-03T09:23:50Z",
+      "first_seen": "2026-11-03T09:23:50Z",
+      "published": null,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ninth-circuit",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-11-03T08:23:33Z",
+          "t": "2026-11-03T09:23:50Z",
           "r": 20
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "East Texas A&M",
-      "description": "East Texas A&M pulled off a historic season-opening road upset against Oklahoma, stunning the Sooners in Norman.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ninth Circuit",
+      "description": "The Ninth Circuit Court of Appeals is making news as it prepares to reconsider the Justice Department's election worker threats case and handles ongoing election integrity litigation.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/East%20Texas%20A%26M",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.oFWmAPbLaIsAaDf15Ssx5AHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/Ninth%20Circuit",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.UHgpvMBRFRNx7KfNhl2lGgAAAA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-03T04:23:44Z",
-      "first_seen": "2026-11-03T04:23:44Z",
+      "started_trending": "2026-11-03T09:23:50Z",
+      "first_seen": "2026-11-03T09:23:50Z",
       "published": null,
-      "last_seen": "2026-11-03T08:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-03T09:23:50Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
