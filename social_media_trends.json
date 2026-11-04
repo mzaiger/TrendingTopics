@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-04T12:25:26Z",
+  "updated": "2026-11-04T13:25:16Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -36,12 +36,16 @@
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Texas",
-      "description": "Texas is trending after a historic midterm election night that saw Democrats flip key seats, including the attorney general race and the governor's office.",
+      "description": "Democrats achieved a historic political rout in Texas during the midterm elections, seizing power, breaking decades of GOP dominance, and winning key races.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Texas",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.JuiTwYvGJIvJogy6N3cevQ&pid=15.1",
@@ -50,18 +54,48 @@
       "started_trending": "2026-11-04T02:23:36Z",
       "first_seen": "2026-11-04T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "republicans",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Republicans",
+      "description": "Republicans suffered severe midterm election losses, losing governorships and key congressional races as critics and party members pointed fingers at Trump.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Republicans",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP._LYPZHdCwaY8TxRJub9ikwHaEp&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T13:23:31Z",
+      "first_seen": "2026-11-04T13:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "thune",
-      "rank": 2,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "rank": 3,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-04T07:23:33Z",
@@ -86,12 +120,16 @@
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 3
         }
       ],
-      "rank_change": 7,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Thune",
-      "description": "John Thune is trending as he plans to run for Republican minority leader following significant midterm losses and a Democratic takeover of Congress.",
+      "description": "Following major midterm election losses for Republicans, John Thune plans to run for Senate minority leader under the new Democratic majority.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Thune",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.BRSqdHBzxu7m6-1NWZPVeQHaHa&pid=15.1",
@@ -100,16 +138,46 @@
       "started_trending": "2026-11-04T03:23:36Z",
       "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rubio",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Rubio",
+      "description": "Secretary of State Marco Rubio made news while traveling abroad in Greece and Germany, while Republican Ashley Moody won the special election for his former Senate seat.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rubio",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.yG6OzY4IJuj8Cjp_0AW7EQHaJb&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T13:23:31Z",
+      "first_seen": "2026-11-04T13:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mississippi",
-      "rank": 3,
+      "rank": 5,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -136,12 +204,16 @@
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 5
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Mississippi",
-      "description": "Mississippi is trending because its U.S. Senate race remains too close to call amidst a broader wave of voter frustration and Democratic gains.",
+      "description": "The Mississippi U.S. Senate race between Colom and Hyde-Smith remains too close to call as votes continue to be counted amid a broader Democratic wave.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mississippi",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.yzdcDBRcrnF5buojPLZSbQHaEK&pid=15.1",
@@ -150,7 +222,7 @@
       "started_trending": "2026-11-04T06:23:32Z",
       "first_seen": "2026-11-04T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
+      "last_seen": "2026-11-04T13:23:31Z",
       "hours_trending": 6,
       "volume": "6hr trend",
       "volume_value": 6,
@@ -158,58 +230,8 @@
       "extra": {}
     },
     {
-      "id": "dems",
-      "rank": 4,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-04T07:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-04T08:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-04T09:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-04T10:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Dems",
-      "description": "Democrats are trending across social media following a major midterm wave that secured them control of both the U.S. House and Senate.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dems",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.nZs50o8my1yxY291mIBylAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T02:23:36Z",
-      "first_seen": "2026-11-04T02:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "good-wednesday",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -220,12 +242,16 @@
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 6
         }
       ],
-      "rank_change": 9,
+      "rank_change": 8,
       "is_new": false,
       "topic": "Good Wednesday",
-      "description": "Good Wednesday is trending as users discuss local weather updates, including post-cold front rain chances and cooling temperatures across various regions.",
+      "description": "Social media users discuss the weather following a cold front bringing rain and windy conditions, alongside reactions to the Democratic midterm victories.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Wednesday",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.V2H_pKLc6IqxHq0nR7R_NAHaEK&pid=15.1",
@@ -234,16 +260,16 @@
       "started_trending": "2026-11-04T11:23:35Z",
       "first_seen": "2026-11-04T11:23:35Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "save-act",
-      "rank": 6,
+      "rank": 7,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -266,12 +292,16 @@
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 7
         }
       ],
-      "rank_change": 14,
+      "rank_change": 13,
       "is_new": false,
       "topic": "Save Act",
-      "description": "The SAVE Act is trending following midterm election results, with politicians debating the Trump-backed voter ID legislation amid broader Republican losses.",
+      "description": "The Republican-backed SAVE Act requiring voter ID and proof of citizenship sparked widespread debate as civil rights groups sued and voters rejected similar state measures.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Save%20Act",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.16foGmmzsEmKVJOvdvXyFAHaE8&pid=15.1",
@@ -280,94 +310,18 @@
       "started_trending": "2026-11-04T08:23:36Z",
       "first_seen": "2026-11-04T08:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "desantis",
-      "rank": 7,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-04T08:23:36Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-04T09:23:36Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-04T10:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 11,
-      "is_new": false,
-      "topic": "DeSantis",
-      "description": "Ron DeSantis is making headlines after Republican Byron Donalds won the Florida gubernatorial race, while outgoing reactions to state amendments circulated online.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/DeSantis",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9tIqHPW-n_3-cs4JXD1M1gHaKO&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T08:23:36Z",
-      "first_seen": "2026-11-04T08:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "senate",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Senate",
-      "description": "The U.S. Senate is trending after Democrats won control of the chamber following major midterm election victories and close races.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Senate",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.x5J0kN0ywpeq3SGg0d5tnA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T12:23:32Z",
-      "first_seen": "2026-11-04T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "the-gop",
-      "rank": 9,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "rank": 8,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-04T07:23:33Z",
@@ -392,12 +346,16 @@
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 8
         }
       ],
-      "rank_change": 7,
+      "rank_change": 9,
       "is_new": false,
       "topic": "The GOP",
-      "description": "The GOP is trending as political analysts review major congressional losses and failed gerrymandering efforts during the midterm elections.",
+      "description": "The GOP faced major setbacks in the midterm elections following Democratic House gains, redistricting challenges, and significant losses across Republican-controlled states.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/The%20GOP",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.Cl4Mvo6F0diIwJLt8lCLCwHaFU&pid=15.1",
@@ -406,28 +364,32 @@
       "started_trending": "2026-11-04T03:23:36Z",
       "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rinos",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "RINOs",
-      "description": "RINOs are trending after Donald Trump publicly labeled Texas figures like Greg Abbott with the term following a stunning election loss.",
+      "description": "Donald Trump labeled Texas Governor Greg Abbott a 'RINO' following a stunning election loss that saw Democrats flip the governor's seat.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/RINOs",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.n5bu8Vuw8rOrqe2TEzLMAw&pid=15.1",
@@ -436,7 +398,7 @@
       "started_trending": "2026-11-04T12:23:32Z",
       "first_seen": "2026-11-04T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
+      "last_seen": "2026-11-04T13:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -444,58 +406,8 @@
       "extra": {}
     },
     {
-      "id": "jeffries",
-      "rank": 11,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-04T07:23:33Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-04T08:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-04T09:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-04T10:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 8,
-      "is_new": false,
-      "topic": "Jeffries",
-      "description": "Hakeem Jeffries is trending as he is poised to become the first Black speaker of the House following projected Democratic victories.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jeffries",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.UIlqWW889PhW8/nzYmXv1Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T07:23:33Z",
-      "first_seen": "2026-11-04T07:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "vance",
-      "rank": 12,
+      "rank": 10,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -518,12 +430,16 @@
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 10
         }
       ],
-      "rank_change": 7,
+      "rank_change": 9,
       "is_new": false,
       "topic": "Vance",
-      "description": "JD Vance is trending following midterm election fallout, campaign remarks, and reports regarding upcoming administration responsibilities.",
+      "description": "JD Vance made headlines after joking about the cost of living during a campaign exchange, while also facing criticism and election victory mocks from opponents.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Vance",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.N6QtIWWxtAmY4F5WJED/Mg&pid=15.1",
@@ -532,45 +448,99 @@
       "started_trending": "2026-11-04T08:23:36Z",
       "first_seen": "2026-11-04T08:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "republican-party",
-      "rank": 13,
+      "id": "jeffries",
+      "rank": 11,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-04T08:23:36Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-04T09:23:36Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-04T10:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-04T11:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-04T12:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Jeffries",
+      "description": "Hakeem Jeffries is trending as Democrats are projected to win the House, positioning him to potentially become the first Black speaker of the House.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jeffries",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.UIlqWW889PhW8/nzYmXv1Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T07:23:33Z",
+      "first_seen": "2026-11-04T07:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "veto",
+      "rank": 12,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
         {
-          "t": "2026-11-04T10:23:33Z",
+          "t": "2026-11-04T11:23:35Z",
           "r": 19
         },
         {
-          "t": "2026-11-04T11:23:35Z",
+          "t": "2026-11-04T12:23:32Z",
           "r": 16
         },
         {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 13
+          "t": "2026-11-04T13:23:31Z",
+          "r": 12
         }
       ],
-      "rank_change": 6,
+      "rank_change": 7,
       "is_new": false,
-      "topic": "Republican Party",
-      "description": "The Republican Party is trending as voters deliver a strong rebuke and widespread midterm losses prompt extensive takeaways nationwide.",
+      "topic": "Veto",
+      "description": "Following severe midterm election losses, Donald Trump posted a VETO hat and pledged to veto upcoming Democratic bills while blaming high gas prices.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Republican%20Party",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.eTXrJ3_I4yyZeGoGMnip5QHaC4&pid=15.1",
+      "url": "https://twstalker.com/search/Veto",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.60naZlMs5nVPyv9lfc/NJg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T10:23:33Z",
-      "first_seen": "2026-11-04T10:23:33Z",
+      "started_trending": "2026-11-04T11:23:35Z",
+      "first_seen": "2026-11-04T11:23:35Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
+      "last_seen": "2026-11-04T13:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -578,29 +548,33 @@
       "extra": {}
     },
     {
-      "id": "tiafoe",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "the-american",
+      "rank": 13,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-04T12:23:32Z",
-          "r": 14
+          "r": 17
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tiafoe",
-      "description": "Frances Tiafoe is trending following his tennis matches, including action at the Paris Masters and recent tournament highlights.",
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "The American",
+      "description": "Recent opinion pieces and news headlines discuss how the American public heavily repudiated Trump in a historic wave during the midterm elections.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tiafoe",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "url": "https://twstalker.com/search/The%20American",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.QcqOXbtnbIxK-C56-wvTzwHaE5&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-04T12:23:32Z",
       "first_seen": "2026-11-04T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
+      "last_seen": "2026-11-04T13:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -609,7 +583,7 @@
     },
     {
       "id": "save-america-act",
-      "rank": 15,
+      "rank": 14,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -620,12 +594,16 @@
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 14
         }
       ],
-      "rank_change": 3,
+      "rank_change": 4,
       "is_new": false,
       "topic": "Save America Act",
-      "description": "The SAVE America Act is trending as lawmakers debate the Trump-backed voter ID and citizenship legislation in the wake of midterm elections.",
+      "description": "The Trump-backed SAVE America Act, which requires voter ID and proof of citizenship to register, drew national attention amid midterm election fallout.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Save%20America%20Act",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.qg7XTjwzy8yIe3QRkNAczgHaEK&pid=15.1",
@@ -634,92 +612,32 @@
       "started_trending": "2026-11-04T11:23:35Z",
       "first_seen": "2026-11-04T11:23:35Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "veto",
-      "rank": 16,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Veto",
-      "description": "Trump's vow to use a veto is trending on social media after he posted about a VETO hat and pledged to block upcoming Democratic bills following midterm losses.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Veto",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.60naZlMs5nVPyv9lfc/NJg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T11:23:35Z",
-      "first_seen": "2026-11-04T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-american",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "The American",
-      "description": "The American people have repudiated Trump, according to prominent opinion pieces circulating online following significant midterm election shifts.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20American",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-04T12:23:32Z",
-      "first_seen": "2026-11-04T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "america-first",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 15,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 18
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 3,
+      "is_new": false,
       "topic": "America First",
-      "description": "America First is trending as social media highlights historic milestones from the midterm elections, including the first Black governors and Black House speaker.",
+      "description": "Candidates made history in the 2026 midterm elections, bringing firsts for Black governors and positioning Hakeem Jeffries to become America's first Black Speaker of the House.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/America%20First",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.SULQjoNHgcURlWE5lYFlRg&pid=15.1",
@@ -728,37 +646,7 @@
       "started_trending": "2026-11-04T12:23:32Z",
       "first_seen": "2026-11-04T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "resign",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Resign",
-      "description": "Resign is trending after Spain's transport minister announced his resignation following a deadly train crash, alongside local political calls for resignation in Utah.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Resign",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP._Gt7nk2jkPXMUWeTQX3_0QHaIn&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T12:23:32Z",
-      "first_seen": "2026-11-04T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
+      "last_seen": "2026-11-04T13:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -767,19 +655,23 @@
     },
     {
       "id": "hump-day",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 20
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 4,
+      "is_new": false,
       "topic": "Hump Day",
-      "description": "Hump Day is trending as social media users share mid-week weather forecasts, comedy events, and temperature changes across different cities.",
+      "description": "Social media users shared weekly memes and weather forecasts highlighting a sunny, summer-like Wednesday followed by a cooler second half of the week.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hump%20Day",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.VriPwGs1KytKtfnDzgW7bwAAAA&pid=15.1",
@@ -788,7 +680,135 @@
       "started_trending": "2026-11-04T12:23:32Z",
       "first_seen": "2026-11-04T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T12:23:32Z",
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "resign",
+      "rank": 17,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-04T12:23:32Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 17
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Resign",
+      "description": "Several officials made headlines by announcing resignations, including Spain's transport minister after a train crash and Army Secretary Dan Driscoll amid tensions.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Resign",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP._Gt7nk2jkPXMUWeTQX3_0QHaIn&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T12:23:32Z",
+      "first_seen": "2026-11-04T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-democrats",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "The Democrats",
+      "description": "Democrats achieved a massive blue wave in the midterm elections, winning key governorships and congressional seats in a major rebuke to Trump.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20Democrats",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.t8hq3TAhiPpJ9ROTNYko3QHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T13:23:31Z",
+      "first_seen": "2026-11-04T13:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "trumps",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Trumps",
+      "description": "Donald Trump reacted to the midterm election results by acknowledging Republican losses, blaming candidates, and stating he would accept the outcome.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Trumps",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.CUJDsXX1ZctfkfeNoEWPSA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T13:23:31Z",
+      "first_seen": "2026-11-04T13:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-04T13:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tiafoe",
+      "rank": 20,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-11-04T12:23:32Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-04T13:23:31Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Tiafoe",
+      "description": "Frances Tiafoe made tennis headlines after executing a textbook lob against Quentin Halys at the Paris Masters before being stunned in an early-round match.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tiafoe",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.E-IjNpJws-dVzmoP8ZxqWwHaF0&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T12:23:32Z",
+      "first_seen": "2026-11-04T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-04T13:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
