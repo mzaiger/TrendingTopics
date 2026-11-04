@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-04T06:24:56Z",
+  "updated": "2026-11-04T07:24:48Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -32,12 +32,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Texas",
-      "description": "Texas is trending after a historic election sweep by Democrats, including James Talarico winning a U.S. Senate seat and Gina Hinojosa defeating Governor Greg Abbott to end decades of Republican control.",
+      "description": "Texas is trending as Democrats sweep major statewide races, including the U.S. Senate and governor's office, ending decades of Republican control.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Texas",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.JuiTwYvGJIvJogy6N3cevQ&pid=15.1",
@@ -46,10 +50,10 @@
       "started_trending": "2026-11-04T02:23:36Z",
       "first_seen": "2026-11-04T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -78,12 +82,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 2
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Republicans",
-      "description": "Republicans are making news after losing control of the U.S. Senate and suffering midterm losses, prompting Donald Trump to blame GOP candidates despite Florida electing its first Black governor.",
+      "description": "Republicans are trending following heavy midterm losses, including losing control of the U.S. House and facing key defeats in state elections.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Republicans",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.uJDHopveMmVAl4md5Y4FbAHaE8&pid=15.1",
@@ -92,28 +100,32 @@
       "started_trending": "2026-11-04T02:23:36Z",
       "first_seen": "2026-11-04T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mississippi",
       "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Mississippi",
-      "description": "Mississippi's midterm election race is drawing national attention as the U.S. Senate election remains too close to call, while Republican Mike Ezell won the 4th Congressional District.",
+      "description": "Mississippi is trending as the U.S. Senate race remains exceptionally close and uncalled, while Democrats win control of the Senate amid voter frustration.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mississippi",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.yzdcDBRcrnF5buojPLZSbQHaEK&pid=15.1",
@@ -122,16 +134,54 @@
       "started_trending": "2026-11-04T06:23:32Z",
       "first_seen": "2026-11-04T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "democrats",
+      "rank": 4,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-04T05:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-04T06:23:32Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Democrats",
+      "description": "Democrats are trending after winning control of the U.S. House, securing major governorships, and taking full control of Congress in a rebuke to Trump.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Democrats",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.F4Dv2Vr6q4w9zT6JWJ0cCwHaFc&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T05:23:36Z",
+      "first_seen": "2026-11-04T05:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dems",
-      "rank": 4,
+      "rank": 5,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -154,12 +204,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 5
         }
       ],
-      "rank_change": 6,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Dems",
-      "description": "Democrats are trending after winning control of the Senate and House in the 2026 midterm elections, securing full control of Congress and breaking state-level Republican majorities.",
+      "description": "Dems are trending following major midterm election victories, including winning control of the U.S. House, Congress, and numerous governorships.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dems",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.nZs50o8my1yxY291mIBylAHaEK&pid=15.1",
@@ -168,44 +222,10 @@
       "started_trending": "2026-11-04T02:23:36Z",
       "first_seen": "2026-11-04T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "democrats",
-      "rank": 5,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-04T05:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-04T06:23:32Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Democrats",
-      "description": "Democrats are dominating social media following major midterm victories, including winning the U.S. Senate and flipping the Iowa governorship, as Donald Trump acknowledges the election results.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Democrats",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.F4Dv2Vr6q4w9zT6JWJ0cCwHaFc&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T05:23:36Z",
-      "first_seen": "2026-11-04T05:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -222,12 +242,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 6
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Iran",
-      "description": "Iran is trending as a potential war showdown looms following the Democrats' Senate victory, while Trump denies immediate plans for U.S. strikes and discussions on a potential deal continue.",
+      "description": "Iran is trending as potential U.S. Senate control shifts and President Trump confirms strikes on Qeshm, sparking discussions over a possible war showdown.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Iran",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.TheyBmsKzRciR9Aj19h4MAHaEK&pid=15.1",
@@ -236,10 +260,10 @@
       "started_trending": "2026-11-04T05:23:36Z",
       "first_seen": "2026-11-04T05:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -256,12 +280,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 7
         }
       ],
       "rank_change": 3,
       "is_new": false,
       "topic": "#Midterms2026",
-      "description": "The 2026 midterms are trending as preliminary election results roll in, highlighting Democratic victories in Senate and House races alongside discussions on climate and democracy.",
+      "description": "#Midterms2026 is trending as social media shares preliminary election results, voter turnout updates, and major legislative race outcomes.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Midterms2026",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.iSwkmhlfsjIxQ0mJRe04Ww&pid=15.1",
@@ -270,16 +298,142 @@
       "started_trending": "2026-11-04T05:23:36Z",
       "first_seen": "2026-11-04T05:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "maga",
+      "rank": 8,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-04T05:23:36Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-04T06:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "MAGA",
+      "description": "MAGA is trending following severe midterm election defeats and losses for Republican candidates, with commentators declaring the coalition effectively wiped out.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/MAGA",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.xPUH3dlVt6-6ypHYgTyw3QHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T05:23:36Z",
+      "first_seen": "2026-11-04T05:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "thune",
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-04T04:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-04T05:23:36Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-04T06:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Thune",
+      "description": "Thune is trending as he is expected to run for Republican Leader despite heavy midterm losses that cost his party control of the Senate.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Thune",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.BRSqdHBzxu7m6-1NWZPVeQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kansas",
+      "rank": 10,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-04T04:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-04T05:23:36Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-04T06:23:32Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Kansas",
+      "description": "Kansas is trending after Adam Hamilton won a historic U.S. Senate victory over the Republican incumbent, ending a nearly century-long Democratic drought.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kansas",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.sU7DJKnmKQEnKx7lSggeEQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T04:23:33Z",
+      "first_seen": "2026-11-04T04:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "florida",
-      "rank": 8,
+      "rank": 11,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -306,12 +460,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 11
         }
       ],
-      "rank_change": -7,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Florida",
-      "description": "Florida is making headlines after Republican Byron Donalds won the gubernatorial election to become the state's first Black governor, alongside property tax cuts and tight legislative races.",
+      "description": "Florida is trending as Republican Byron Donalds is elected the state's first Black governor and voters approve a property tax reduction.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Florida",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.ZkI4GWv1NNJXTVmZqLgSJQ&pid=15.1",
@@ -320,54 +478,16 @@
       "started_trending": "2026-11-04T00:23:31Z",
       "first_seen": "2026-11-04T00:23:31Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kansas",
-      "rank": 9,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-04T04:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-04T05:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-04T06:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Kansas",
-      "description": "Kansas is trending after Adam Hamilton won a Senate seat, becoming the state's first Democratic senator in nearly a century and ending a 94-year drought.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kansas",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.sU7DJKnmKQEnKx7lSggeEQHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T04:23:33Z",
-      "first_seen": "2026-11-04T04:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "susan-collins",
-      "rank": 10,
+      "rank": 12,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -378,12 +498,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 12
         }
       ],
-      "rank_change": 7,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Susan Collins",
-      "description": "Susan Collins is trending after conceding her Maine Senate seat to Democrat Troy Jackson, ending her 30-year reign in the Senate.",
+      "description": "Susan Collins is trending after losing her Maine U.S. Senate seat to Democrat Troy Jackson, ending her nearly 30-year career in the Senate.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Susan%20Collins",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.6LzYNY9wu9gAJDAG3Nsxkg&pid=15.1",
@@ -392,86 +516,10 @@
       "started_trending": "2026-11-04T05:23:36Z",
       "first_seen": "2026-11-04T05:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "maga",
-      "rank": 11,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-04T05:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-04T06:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "MAGA",
-      "description": "MAGA is a major topic after candidates faced heavy losses in a blue wave election night, leading to widespread discussion about the movement's political future.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/MAGA",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.xPUH3dlVt6-6ypHYgTyw3QHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T05:23:36Z",
-      "first_seen": "2026-11-04T05:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "thune",
-      "rank": 12,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-04T03:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-04T04:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-04T05:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-04T06:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Thune",
-      "description": "Thune is trending in the context of the Senate shifting to Democratic control following major midterm election losses for Republicans during Trump's term.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Thune",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.BRSqdHBzxu7m6-1NWZPVeQHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T03:23:36Z",
-      "first_seen": "2026-11-04T03:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -492,12 +540,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 13
         }
       ],
       "rank_change": -7,
       "is_new": false,
       "topic": "Greg Abbott",
-      "description": "Greg Abbott is trending after losing the Texas gubernatorial race to Democrat Gina Hinojosa, ending decades of Republican leadership in the state's governor office.",
+      "description": "Greg Abbott is trending after losing the Texas governor's seat to Democrat Gina Hinojosa in a stunning upset that flipped the office blue.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Greg%20Abbott",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.n5bu8Vuw8rOrqe2TEzLMAw&pid=15.1",
@@ -506,7 +558,41 @@
       "started_trending": "2026-11-04T04:23:33Z",
       "first_seen": "2026-11-04T04:23:33Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bluewave",
+      "rank": 14,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-04T06:23:32Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "#BlueWave",
+      "description": "#BlueWave is trending as social media reacts to a massive wave of Democratic victories that handed them control of Congress and flipped key state offices.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23BlueWave",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.P6q9ronwNfAx88HmOggZFQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T06:23:32Z",
+      "first_seen": "2026-11-04T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-04T07:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -515,7 +601,7 @@
     },
     {
       "id": "georgia",
-      "rank": 14,
+      "rank": 15,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -534,12 +620,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 15
         }
       ],
-      "rank_change": -11,
+      "rank_change": -12,
       "is_new": false,
       "topic": "Georgia",
-      "description": "Georgia is trending after Keisha Lance Bottoms won the gubernatorial race, making history as the nation's first Black female governor.",
+      "description": "Georgia is trending following historic election results, including Keisha Lance Bottoms winning the governorship and Jon Ossoff winning reelection.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Georgia",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.65hE5OTtfL9/EvW3vwByXw&pid=15.1",
@@ -548,116 +638,86 @@
       "started_trending": "2026-11-04T03:23:36Z",
       "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "bluewave",
-      "rank": 15,
+      "id": "the-gop",
+      "rank": 16,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-04T04:23:33Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-04T05:23:36Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-04T06:23:32Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "The GOP",
+      "description": "The GOP is trending as the party suffers major midterm setbacks, including losing control of the U.S. House and major state races like the Texas Senate.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20GOP",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Cl4Mvo6F0diIwJLt8lCLCwHaFU&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rubio",
+      "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T06:23:32Z",
-          "r": 15
+          "t": "2026-11-04T07:23:33Z",
+          "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#BlueWave",
-      "description": "A massive blue wave is trending across social media as voters hand control of Congress to Democrats and push Republicans out of power in a sharp rebuke of Trump.",
+      "topic": "Rubio",
+      "description": "Rubio is trending as Republican Ashley Moody wins the special Senate election for his former seat in Florida, while his political ambitions draw attention.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23BlueWave",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.P6q9ronwNfAx88HmOggZFQHaHa&pid=15.1",
+      "url": "https://twstalker.com/search/Rubio",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.yG6OzY4IJuj8Cjp_0AW7EQHaJb&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T06:23:32Z",
-      "first_seen": "2026-11-04T06:23:32Z",
+      "started_trending": "2026-11-04T07:23:33Z",
+      "first_seen": "2026-11-04T07:23:33Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
+      "last_seen": "2026-11-04T07:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ohio",
-      "rank": 16,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-04T04:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-04T05:23:36Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-04T06:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Ohio",
-      "description": "Ohio is trending following key Democratic victories, including Sherrod Brown winning his U.S. Senate race and Amy Acton defeating Vivek Ramaswamy for the governorship.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ohio",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.wiPMy6CHccWjjEFYZRvCIQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T04:23:33Z",
-      "first_seen": "2026-11-04T04:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gina",
-      "rank": 17,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-04T04:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-04T05:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-04T06:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Gina",
-      "description": "Gina Hinojosa is trending after pulling off a stunning upset to defeat Texas Governor Greg Abbott, becoming the state's first Latina governor and ending decades of Republican control.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gina",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.ogjMqm2lasqLvlMpXDVb/g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T04:23:33Z",
-      "first_seen": "2026-11-04T04:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -682,12 +742,16 @@
         {
           "t": "2026-11-04T06:23:32Z",
           "r": 18
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
+          "r": 18
         }
       ],
       "rank_change": -6,
       "is_new": false,
       "topic": "Talarico",
-      "description": "James Talarico is trending after winning a U.S. Senate seat in Texas, ending the GOP's 32-year statewide winning streak and becoming the first Democrat to win the seat since 1988.",
+      "description": "James Talarico is trending after winning a U.S. Senate seat in Texas, ending the GOP's 32-year statewide winning streak.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Talarico",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.RU1jgySnPxt7hkB_D2z35gHaE7&pid=15.1",
@@ -696,53 +760,7 @@
       "started_trending": "2026-11-04T03:23:36Z",
       "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "south-carolina",
-      "rank": 19,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-04T03:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-04T04:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-04T05:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-04T06:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "South Carolina",
-      "description": "South Carolina is trending after Democrat Annie Andrews pulled off a monumental upset to flip a U.S. Senate seat held by Republicans since 1998.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/South%20Carolina",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.bnXxQDJUC3die4Rpf_R7awHaFS&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T02:23:36Z",
-      "first_seen": "2026-11-04T02:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
+      "last_seen": "2026-11-04T07:23:33Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -750,44 +768,74 @@
       "extra": {}
     },
     {
-      "id": "the-gop",
-      "rank": 20,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "id": "jeffries",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T03:23:36Z",
-          "r": 17
-        },
+          "t": "2026-11-04T07:23:33Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jeffries",
+      "description": "Jeffries is trending as House Democratic Leader Hakeem Jeffries is poised to become the Speaker of the House following projected Democratic victories.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jeffries",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.UIlqWW889PhW8/nzYmXv1Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T07:23:33Z",
+      "first_seen": "2026-11-04T07:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ohio",
+      "rank": 20,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
         {
           "t": "2026-11-04T04:23:33Z",
-          "r": 19
+          "r": 8
         },
         {
           "t": "2026-11-04T05:23:36Z",
-          "r": 20
+          "r": 15
         },
         {
           "t": "2026-11-04T06:23:32Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-04T07:23:33Z",
           "r": 20
         }
       ],
-      "rank_change": -3,
+      "rank_change": -12,
       "is_new": false,
-      "topic": "The GOP",
-      "description": "The GOP is facing heavy scrutiny on social media after losing control of Congress and suffering significant losses as young and Hispanic voters shifted away from the party.",
+      "topic": "Ohio",
+      "description": "Ohio is trending after Democrat Amy Acton won the governor's race as the first elected woman governor and Sherrod Brown won his Senate race.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20GOP",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Cl4Mvo6F0diIwJLt8lCLCwHaFU&pid=15.1",
+      "url": "https://twstalker.com/search/Ohio",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.wiPMy6CHccWjjEFYZRvCIQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T03:23:36Z",
-      "first_seen": "2026-11-04T03:23:36Z",
+      "started_trending": "2026-11-04T04:23:33Z",
+      "first_seen": "2026-11-04T04:23:33Z",
       "published": null,
-      "last_seen": "2026-11-04T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-04T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     }
