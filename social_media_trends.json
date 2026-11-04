@@ -1,15 +1,49 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-04T02:25:41Z",
+  "updated": "2026-11-04T03:25:25Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "florida",
+      "id": "texas",
       "rank": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-04T02:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Texas",
+      "description": "Texas is trending as voters watch early midterm election results roll in, showing competitive races for governor, lieutenant governor, and the U.S. Senate.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Texas",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.JuiTwYvGJIvJogy6N3cevQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T02:23:36Z",
+      "first_seen": "2026-11-04T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "florida",
+      "rank": 2,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -24,12 +58,16 @@
         {
           "t": "2026-11-04T02:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 2
         }
       ],
-      "rank_change": 2,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Florida",
-      "description": "Florida is trending as election results unfold, including Byron Donalds winning the governor's race and various legislative outcomes, alongside reports of historic flooding in Central Florida.",
+      "description": "Florida is trending on social media following election night results, including Republican Byron Donalds winning the governor's race and a property tax cut crossing the approval threshold.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Florida",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.ZkI4GWv1NNJXTVmZqLgSJQ&pid=15.1",
@@ -38,191 +76,37 @@
       "started_trending": "2026-11-04T00:23:31Z",
       "first_seen": "2026-11-04T00:23:31Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "texas",
-      "rank": 2,
+      "id": "georgia",
+      "rank": 3,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 2
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Texas",
-      "description": "Texas is trending as voters watch early election results roll in for key matchups, including the U.S. Senate race between James Talarico and Ken Paxton, alongside the lieutenant governor and gubernatorial races.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Texas",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.JuiTwYvGJIvJogy6N3cevQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T02:23:36Z",
-      "first_seen": "2026-11-04T02:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "angie-nixon",
-      "rank": 3,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-04T01:23:38Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-04T02:23:36Z",
+          "t": "2026-11-04T03:23:36Z",
           "r": 3
         }
       ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Angie Nixon",
-      "description": "Progressive candidate Angie Nixon is trending following her close contest and subsequent defeat against Republican Ashley Moody in Florida's special U.S. Senate race.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Angie%20Nixon",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.1JbnHBIIYjhpl9VYtP88wA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T01:23:38Z",
-      "first_seen": "2026-11-04T01:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "republicans",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 4
-        }
-      ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Republicans",
-      "description": "Republicans are drawing widespread attention as polls close in the midterm elections, with commentators assessing the party's position amid competitive congressional and Senate races.",
+      "topic": "Georgia",
+      "description": "Keisha Lance Bottoms is trending after winning the Georgia governor's race, making U.S. history as the first Black woman to be elected state governor.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Republicans",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.uJDHopveMmVAl4md5Y4FbAHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Georgia",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.65hE5OTtfL9/EvW3vwByXw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T02:23:36Z",
-      "first_seen": "2026-11-04T02:23:36Z",
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bama",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bama",
-      "description": "Alabama football is trending on social media after coming in at number 5 in the season's first College Football Playoff rankings, alongside injury updates ahead of the LSU game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bama",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.2t5ibESoKFeivcJghB5E9wHaHe&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T02:23:36Z",
-      "first_seen": "2026-11-04T02:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "keisha-lance-bottoms",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Keisha Lance Bottoms",
-      "description": "Keisha Lance Bottoms is trending as NBC projects her victory in the Georgia gubernatorial race against billionaire challenger Rick Jackson.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Keisha%20Lance%20Bottoms",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.7yfMoMMmpeB7Zu6yPuQoqA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T02:23:36Z",
-      "first_seen": "2026-11-04T02:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "roy-cooper",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Roy Cooper",
-      "description": "Roy Cooper is trending after flipping a North Carolina U.S. Senate seat for the Democrats, becoming the state's first Democratic senator in 10 years.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Roy%20Cooper",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.voNDVbjXo3wDXjUAL542Ww&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T02:23:36Z",
-      "first_seen": "2026-11-04T02:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
+      "last_seen": "2026-11-04T03:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -231,19 +115,23 @@
     },
     {
       "id": "south-carolina",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-04T02:23:36Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 4,
+      "is_new": false,
       "topic": "South Carolina",
-      "description": "South Carolina is trending as voters turn out in record numbers for the midterm elections and track competitive races like the U.S. Senate contest.",
+      "description": "Annie Andrews is trending on social media after pulling off a monumental upset to flip a South Carolina U.S. Senate seat for the Democrats.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/South%20Carolina",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.bnXxQDJUC3die4Rpf_R7awHaFS&pid=15.1",
@@ -252,58 +140,66 @@
       "started_trending": "2026-11-04T02:23:36Z",
       "first_seen": "2026-11-04T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "ossoff",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "republicans",
+      "rank": 5,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-04T02:23:36Z",
-          "r": 9
+          "r": 4
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ossoff",
-      "description": "Jon Ossoff is trending after easily winning reelection to secure a second term in the U.S. Senate for Georgia, defeating Republican challenger Mike Collins.",
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Republicans",
+      "description": "Republicans are trending on social media as midterm election results show Democrats flipping key House and Senate seats, including in North Carolina and Florida.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ossoff",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.k8pgfjWMJcyj6p15Cy6vlQ&pid=15.1",
+      "url": "https://twstalker.com/search/Republicans",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.uJDHopveMmVAl4md5Y4FbAHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-04T02:23:36Z",
       "first_seen": "2026-11-04T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dems",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 6,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-11-04T02:23:36Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 4,
+      "is_new": false,
       "topic": "Dems",
-      "description": "Democrats are trending as early midterm election results arrive, with predictions pointing toward potential House control and efforts to retake the Senate following turbulent years.",
+      "description": "Dems are trending on social media as midterm election results show them overperforming, snatching key House and Senate seats across the map.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dems",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.nZs50o8my1yxY291mIBylAHaEK&pid=15.1",
@@ -312,7 +208,147 @@
       "started_trending": "2026-11-04T02:23:36Z",
       "first_seen": "2026-11-04T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "keisha-lance-bottoms",
+      "rank": 7,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-04T02:23:36Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Keisha Lance Bottoms",
+      "description": "Keisha Lance Bottoms is trending after winning the Georgia governor's race, making U.S. history as the first Black woman elected as a state governor.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Keisha%20Lance%20Bottoms",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.7yfMoMMmpeB7Zu6yPuQoqA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T02:23:36Z",
+      "first_seen": "2026-11-04T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "annie-andrews",
+      "rank": 8,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-04T02:23:36Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Annie Andrews",
+      "description": "Annie Andrews is trending following her victory in the South Carolina U.S. Senate race, flipping the seat blue in a major midterm upset.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Annie%20Andrews",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.B65FCjGNjIcsliFpPbDd7g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T02:23:36Z",
+      "first_seen": "2026-11-04T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "midterms2026",
+      "rank": 9,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-04T00:23:31Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-04T01:23:38Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-04T02:23:36Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "#Midterms2026",
+      "description": "Users across social media are following live results, maps, and updates as voters head to the polls for the 2026 midterm elections.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23Midterms2026",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.2GGcB_W_flfe20TOiShpcgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T00:23:31Z",
+      "first_seen": "2026-11-04T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "thune",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Thune",
+      "description": "Thune is trending as social media users discuss recent news headlines, including former President Trump's eulogy for Senator Lindsey Graham and various congressional developments.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Thune",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.BRSqdHBzxu7m6-1NWZPVeQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T03:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -332,12 +368,16 @@
         {
           "t": "2026-11-04T02:23:36Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 11
         }
       ],
       "rank_change": 3,
       "is_new": false,
       "topic": "#Elections2026",
-      "description": "#Elections2026 is trending as social media users monitor live results maps and updates as polls close across the United States for the midterm elections.",
+      "description": "Social media users are closely following live results maps and updates as polls close across the country for the midterm elections.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Elections2026",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.pOTWEOy-Q8g5A6ujEskHVQHaFj&pid=15.1",
@@ -346,37 +386,37 @@
       "started_trending": "2026-11-04T01:23:38Z",
       "first_seen": "2026-11-04T01:23:38Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "ashley-moody",
+      "id": "talarico",
       "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T02:23:36Z",
+          "t": "2026-11-04T03:23:36Z",
           "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Ashley Moody",
-      "description": "Ashley Moody is trending after defeating progressive Democrat Angie Nixon to win Florida's special U.S. Senate election for Marco Rubio's former seat.",
+      "topic": "Talarico",
+      "description": "James Talarico is trending on social media as early returns show him leading Ken Paxton in a highly competitive Texas U.S. Senate race.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ashley%20Moody",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.1BsTDgLrLKUhxJPmP5RzoQ&pid=15.1",
+      "url": "https://twstalker.com/search/Talarico",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.RU1jgySnPxt7hkB_D2z35gHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T02:23:36Z",
-      "first_seen": "2026-11-04T02:23:36Z",
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
+      "last_seen": "2026-11-04T03:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -384,87 +424,59 @@
       "extra": {}
     },
     {
-      "id": "xbitesweepstakes",
+      "id": "byron-donalds",
       "rank": 13,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-03T20:23:43Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-03T21:23:38Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-03T22:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-03T23:23:41Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-04T00:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-04T01:23:38Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-04T02:23:36Z",
+          "t": "2026-11-04T03:23:36Z",
           "r": 13
         }
       ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "#XbiteSweepstakes",
-      "description": "#XbiteSweepstakes is trending as social media users share a promotional Xbox sweepstakes featuring an Xbox Series X console stuffed inside a giant five-foot alligator.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Byron Donalds",
+      "description": "Byron Donalds is trending after winning the Florida governor's race, making history as the state's first Black governor.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23XbiteSweepstakes",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.xpPo1LzXx_K5_774a1rzHQHaDp&pid=15.1",
+      "url": "https://twstalker.com/search/Byron%20Donalds",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.DeLUezCoc2lHZN3gjVCL_gHaGb&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-03T17:23:37Z",
-      "first_seen": "2026-11-03T17:23:37Z",
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "panhandle",
+      "id": "bluewave",
       "rank": 14,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T01:23:38Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-04T02:23:36Z",
+          "t": "2026-11-04T03:23:36Z",
           "r": 14
         }
       ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Panhandle",
-      "description": "The Panhandle is trending as voters head to the polls for local and state midterm races, alongside regional high school football standings and reports of storm damage in Oklahoma.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BlueWave",
+      "description": "Social media users are discussing the possibility and potential impacts of a Democratic 'blue wave' during the midterm elections.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Panhandle",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ondg9iAmQEC5O3r0qCsk-gHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/%23BlueWave",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.HAd9pg30W7EN0RCO-SMLoQHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T01:23:38Z",
-      "first_seen": "2026-11-04T01:23:38Z",
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
+      "last_seen": "2026-11-04T03:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -474,18 +486,22 @@
     {
       "id": "desantis",
       "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-11-04T02:23:36Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "DeSantis",
-      "description": "Ron DeSantis is trending as voters decide the Florida governor's race following his endorsement of winner Byron Donalds and his opposition to a defeated state amendment.",
+      "description": "Ron DeSantis is trending because Florida's constitution bars him from running for a third straight term, paving the way for newly projected governor Byron Donalds.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/DeSantis",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.ekkFaqAXFAzDNIVpE3XNswHaEK&pid=15.1",
@@ -494,7 +510,37 @@
       "started_trending": "2026-11-04T02:23:36Z",
       "first_seen": "2026-11-04T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lindsey-graham",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lindsey Graham",
+      "description": "Lindsey Graham is trending on social media following a Washington funeral where Donald Trump delivered a eulogy, alongside news surrounding South Carolina's Senate race.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Lindsey%20Graham",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.XcH9nDExudM7uxkEc6mFRQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T03:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -502,176 +548,126 @@
       "extra": {}
     },
     {
-      "id": "midterms2026",
-      "rank": 16,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-04T00:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-04T01:23:38Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#Midterms2026",
-      "description": "#Midterms2026 is trending as voters and commentators across social media share live results, maps, and updates for House, Senate, and gubernatorial races nationwide.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Midterms2026",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.2GGcB_W_flfe20TOiShpcgHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T00:23:31Z",
-      "first_seen": "2026-11-04T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "annie-andrews",
+      "id": "the-gop",
       "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T02:23:36Z",
+          "t": "2026-11-04T03:23:36Z",
           "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Annie Andrews",
-      "description": "Dr. Annie Andrews is trending as election results come in for her high-profile U.S. Senate race in South Carolina against incumbent Darline Graham.",
+      "topic": "The GOP",
+      "description": "The GOP is trending as social media users and opinion writers assess the party's perilous position following midterm election results and seat flips.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Annie%20Andrews",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.B65FCjGNjIcsliFpPbDd7g&pid=15.1",
+      "url": "https://twstalker.com/search/The%20GOP",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Cl4Mvo6F0diIwJLt8lCLCwHaFU&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "alabama",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Alabama",
+      "description": "Alabama is trending as social media users follow general election results and react to the state's initial College Football Playoff committee ranking.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Alabama",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.iLCym6_0xCm1pBCOKQEWQQHaEO&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "paxton",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Paxton",
+      "description": "Ken Paxton is trending as early returns in the costly Texas U.S. Senate race show him trailing behind James Talarico.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Paxton",
+      "image_url": "https://ts4.explicit.bing.net/th?id=OIP.8hAqZRL9jWKTy2K7qZ7XhAHaJa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ossoff",
+      "rank": 20,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-04T02:23:36Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-04T03:23:36Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Ossoff",
+      "description": "Jon Ossoff is trending after winning reelection in Georgia, easily defeating Republican challenger Mike Collins to secure a second term in the U.S. Senate.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ossoff",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.k8pgfjWMJcyj6p15Cy6vlQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-04T02:23:36Z",
       "first_seen": "2026-11-04T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "indiana",
-      "rank": 18,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-04T01:23:38Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Indiana",
-      "description": "Indiana is trending as social media users track live election day coverage and results coming in for the state's congressional races and secretary of state contest.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Indiana",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ZjrxSyoyiGTYffMd0gcoBAHaFN&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T01:23:38Z",
-      "first_seen": "2026-11-04T01:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "new-hampshire",
-      "rank": 19,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-04T00:23:31Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-04T01:23:38Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "New Hampshire",
-      "description": "New Hampshire is trending after Democrat Chris Pappas won the state's U.S. Senate race, holding the seat for Democrats and avoiding a Republican flip.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/New%20Hampshire",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Xl2oajaMRsELtsSoxh7UOQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T00:23:31Z",
-      "first_seen": "2026-11-04T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jolly",
-      "rank": 20,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-04T01:23:38Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-04T02:23:36Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Jolly",
-      "description": "David Jolly is trending following one of the country's most closely watched gubernatorial races in Florida, where he narrowly lost to Republican Byron Donalds.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jolly",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.tpmn9h6xceUQNDYY2jqoYg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T01:23:38Z",
-      "first_seen": "2026-11-04T01:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-04T02:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T03:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
