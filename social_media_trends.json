@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-04T19:25:00Z",
+  "updated": "2026-11-04T20:25:16Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,13 +10,9 @@
     {
       "id": "vance",
       "rank": 1,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 11
-        },
         {
           "t": "2026-11-04T15:23:39Z",
           "r": 11
@@ -36,12 +32,16 @@
         {
           "t": "2026-11-04T19:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 1
         }
       ],
-      "rank_change": 10,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Vance",
-      "description": "Vance is trending after blaming the Iran war for Republican losses in the 2026 midterm elections, breaking with Trump following the electoral defeat.",
+      "description": "JD Vance is trending after blaming the US war on Iran for the Republican party's losses in the 2026 midterm elections.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Vance",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.N6QtIWWxtAmY4F5WJED/Mg&pid=15.1",
@@ -50,18 +50,18 @@
       "started_trending": "2026-11-04T08:23:36Z",
       "first_seen": "2026-11-04T08:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jim-jordan",
       "rank": 2,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-04T15:23:39Z",
@@ -82,12 +82,16 @@
         {
           "t": "2026-11-04T19:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 2
         }
       ],
-      "rank_change": 10,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Jim Jordan",
-      "description": "Jim Jordan is trending on social media as he launches a bid for House minority leader following Mike Johnson stepping aside after the GOP's midterm losses.",
+      "description": "Jim Jordan is trending after launching his bid for House minority leader following Mike Johnson stepping aside after the GOP's midterm losses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jim%20Jordan",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.S0WXRIBB3lblFo2VX8OZwwHaE7&pid=15.1",
@@ -96,23 +100,83 @@
       "started_trending": "2026-11-04T15:23:39Z",
       "first_seen": "2026-11-04T15:23:39Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "joe-milton",
+      "rank": 3,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-04T19:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Joe Milton",
+      "description": "Joe Milton is trending after reports that the slumping Eagles are starting him at quarterback against the Giants in Week 9.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Joe%20Milton",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.E2GLVQCdhRfMHLsmxOUmCw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T19:23:35Z",
+      "first_seen": "2026-11-04T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "valverde",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Valverde",
+      "description": "Federico Valverde is trending after scoring a thunderous stoppage-time strike to seal Real Madrid's 3-2 comeback victory over AEK Athens.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Valverde",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-04T20:23:39Z",
+      "first_seen": "2026-11-04T20:23:39Z",
+      "published": null,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jeffries",
-      "rank": 3,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "rank": 5,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 10
-        },
         {
           "t": "2026-11-04T15:23:39Z",
           "r": 6
@@ -132,12 +196,16 @@
         {
           "t": "2026-11-04T19:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 5
         }
       ],
-      "rank_change": 7,
+      "rank_change": 4,
       "is_new": false,
       "topic": "Jeffries",
-      "description": "Hakeem Jeffries is trending as he is poised to become the first Black speaker of the House after Democrats claimed a majority in the House and Senate.",
+      "description": "Hakeem Jeffries is trending as he is poised to become the first Black speaker of the House after Democrats won majorities in Congress.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jeffries",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.UIlqWW889PhW8/nzYmXv1Q&pid=15.1",
@@ -146,23 +214,19 @@
       "started_trending": "2026-11-04T07:23:33Z",
       "first_seen": "2026-11-04T07:23:33Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 12,
-      "volume": "12hr trend",
-      "volume_value": 12,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 13,
+      "volume": "13hr trend",
+      "volume_value": 13,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "thune",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 3
-        },
         {
           "t": "2026-11-04T15:23:39Z",
           "r": 3
@@ -182,12 +246,16 @@
         {
           "t": "2026-11-04T19:23:35Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 6
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Thune",
-      "description": "Senate Majority Leader Thune is trending after facing blame for massive GOP midterm losses, with plans to run for minority leader amid conservative calls for his resignation.",
+      "description": "John Thune is trending as he plans to run for minority leader after Senate Republicans lost their majority in the midterms.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Thune",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.BRSqdHBzxu7m6-1NWZPVeQHaHa&pid=15.1",
@@ -196,16 +264,16 @@
       "started_trending": "2026-11-04T03:23:36Z",
       "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 15,
-      "volume": "15hr trend",
-      "volume_value": 15,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 17,
+      "volume": "17hr trend",
+      "volume_value": 17,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rubio",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -224,12 +292,16 @@
         {
           "t": "2026-11-04T19:23:35Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 7
         }
       ],
-      "rank_change": 3,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Rubio",
-      "description": "Marco Rubio is trending on social media following his remarks reassuring foreign allies in Munich and Athens, alongside discussions of his 2028 presidential contention.",
+      "description": "Marco Rubio is trending due to his diplomatic remarks abroad and as speculation grows about his potential 2028 presidential run.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Rubio",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.wG60saVYeHNwvPbMM7o59Q&pid=15.1",
@@ -238,28 +310,32 @@
       "started_trending": "2026-11-04T16:23:37Z",
       "first_seen": "2026-11-04T16:23:37Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "desantis",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-04T19:23:35Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "DeSantis",
-      "description": "DeSantis is trending after calling the GOP's midterm election wipeout an extinction-level event and a meteor strike, warning of a deep hole for Republicans nationally.",
+      "description": "Ron DeSantis is trending after describing the Republican midterm election losses as an extinction-level event and a meteor strike.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/DeSantis",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.2iIiO0hVFCBWqfvbMb2laQHaJG&pid=15.1",
@@ -268,46 +344,50 @@
       "started_trending": "2026-11-04T19:23:35Z",
       "first_seen": "2026-11-04T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "joe-milton",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "vini",
+      "rank": 9,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
           "t": "2026-11-04T19:23:35Z",
-          "r": 7
+          "r": 12
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Joe Milton",
-      "description": "Joe Milton is trending on social media as sources report the slumping Eagles have named him the starting quarterback for Week 9 against the Giants.",
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Vini",
+      "description": "Vinicius Jr. is trending amid discussions over his recent form for Real Madrid and questions surrounding squad competition.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Joe%20Milton",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.E2GLVQCdhRfMHLsmxOUmCw&pid=15.1",
+      "url": "https://twstalker.com/search/Vini",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9f64z1mECwYMW6EgMT9yUwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-04T19:23:35Z",
       "first_seen": "2026-11-04T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hegseth",
-      "rank": 8,
+      "rank": 10,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -322,12 +402,16 @@
         {
           "t": "2026-11-04T19:23:35Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 10
         }
       ],
-      "rank_change": 4,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Hegseth",
-      "description": "Pete Hegseth is trending as Trump asks advisers if he should stay following midterm losses, while facing impeachment calls over the Iran war and potential Senate appointment rumors.",
+      "description": "Pete Hegseth is trending as advisers reportedly discuss his future as Defense Secretary following midterm losses and face impeachment calls over the Iran war.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hegseth",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.5HaxMG8sXjGeH1g73_XgjgHaE2&pid=15.1",
@@ -336,7 +420,41 @@
       "started_trending": "2026-11-04T17:23:44Z",
       "first_seen": "2026-11-04T17:23:44Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "drew-lock",
+      "rank": 11,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-04T19:23:35Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Drew Lock",
+      "description": "Drew Lock is trending as he is in line to start at quarterback for the Seahawks against the Cardinals due to Sam Darnold's quad injury.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Drew%20Lock",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.nSU08RkzxuMG1B5jZsPdrQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T19:23:35Z",
+      "first_seen": "2026-11-04T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-04T20:23:39Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -345,7 +463,7 @@
     },
     {
       "id": "brandon-gill",
-      "rank": 9,
+      "rank": 12,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -364,12 +482,16 @@
         {
           "t": "2026-11-04T19:23:35Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 12
         }
       ],
-      "rank_change": 4,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Brandon Gill",
-      "description": "Brandon Gill is trending after winning reelection to the U.S. House representing Texas's 26th Congressional District in Denton County amid midterm results.",
+      "description": "Brandon Gill is trending after winning reelection to the U.S. House representing Texas's 26th Congressional District in Denton County.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Brandon%20Gill",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.Tdp7-TYjf8yEr9GvKAnJeQHaJQ&pid=15.1",
@@ -378,155 +500,37 @@
       "started_trending": "2026-11-04T16:23:37Z",
       "first_seen": "2026-11-04T16:23:37Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "congress",
-      "rank": 10,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-04T17:23:44Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-04T18:23:40Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-04T19:23:35Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Congress",
-      "description": "Congress is trending after Democrats won control of the House and Senate, raising discussions on new foreign policy impacts and planned investigations into Trump.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Congress",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.eyNv7y_sNjABulDu4OBItQHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T14:23:34Z",
-      "first_seen": "2026-11-04T14:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "epstein",
-      "rank": 11,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-04T17:23:44Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-04T18:23:40Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-04T19:23:35Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Epstein",
-      "description": "Epstein is trending on social media as Democrats winning control of Congress sparks anticipation that more Epstein files and associated probes may finally emerge.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Epstein",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.CZVozvJilr-HyYDphN83vgHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T17:23:44Z",
-      "first_seen": "2026-11-04T17:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "vini",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-04T19:23:35Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Vini",
-      "description": "Vini Jr. is trending after Real Madrid reports highlighted a pricey squad problem involving the player following recent lineup and competition discussions.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Vini",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9f64z1mECwYMW6EgMT9yUwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T19:23:35Z",
-      "first_seen": "2026-11-04T19:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "drew-lock",
+      "id": "jacoby-brissett",
       "rank": 13,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T19:23:35Z",
+          "t": "2026-11-04T20:23:39Z",
           "r": 13
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Drew Lock",
-      "description": "Drew Lock is trending as he is likely to start for the Seahawks in Week 9 against the Cardinals after quarterback Sam Darnold was ruled out with a quad injury.",
+      "topic": "Jacoby Brissett",
+      "description": "Jacoby Brissett is trending on social media following reports that the Ravens are finalizing a trade to acquire him from the Cardinals.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Drew%20Lock",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.nSU08RkzxuMG1B5jZsPdrQHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Jacoby%20Brissett",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.j2yqpPbi2HhtlHzzTnmEJA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T19:23:35Z",
-      "first_seen": "2026-11-04T19:23:35Z",
+      "started_trending": "2026-11-04T20:23:39Z",
+      "first_seen": "2026-11-04T20:23:39Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
+      "last_seen": "2026-11-04T20:23:39Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -534,270 +538,54 @@
       "extra": {}
     },
     {
-      "id": "rinos",
+      "id": "rino",
       "rank": 14,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-04T17:23:44Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-04T18:23:40Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-04T19:23:35Z",
+          "t": "2026-11-04T20:23:39Z",
           "r": 14
         }
       ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "RINOs",
-      "description": "RINOs are trending after Donald Trump claimed that Texas Governor Greg Abbott lost his race because he supposedly became a RINO.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "RINO",
+      "description": "Greg Abbott is trending after Donald Trump labeled him a RINO following a gubernatorial election loss in Texas.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/RINOs",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.n5bu8Vuw8rOrqe2TEzLMAw&pid=15.1",
+      "url": "https://twstalker.com/search/RINO",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.XYwLp5sJ/IOBUANGfLL0eg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T12:23:32Z",
-      "first_seen": "2026-11-04T12:23:32Z",
+      "started_trending": "2026-11-04T20:23:39Z",
+      "first_seen": "2026-11-04T20:23:39Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "america-first",
-      "rank": 15,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-04T17:23:44Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-04T18:23:40Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-04T19:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "America First",
-      "description": "America First is trending as Democrats take control of Congress following midterm election fallout, creating new challenges for the Trump agenda.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/America%20First",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.SULQjoNHgcURlWE5lYFlRg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T12:23:32Z",
-      "first_seen": "2026-11-04T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-gop",
-      "rank": 16,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-04T17:23:44Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-04T18:23:40Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-04T19:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "The GOP",
-      "description": "The GOP is trending on social media as Republicans grapple with a severe midterm wipeout and voter rejection, with Trump acknowledging the Iran war contributed to the losses.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20GOP",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Cl4Mvo6F0diIwJLt8lCLCwHaFU&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T03:23:36Z",
-      "first_seen": "2026-11-04T03:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 15,
-      "volume": "15hr trend",
-      "volume_value": 15,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-american",
-      "rank": 17,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-04T17:23:44Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-04T18:23:40Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-04T19:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "The American",
-      "description": "The American is trending in discussions covering weekly women's soccer honors alongside cultural events like French film festival screenings in the U.S.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20American",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.QcqOXbtnbIxK-C56-wvTzwHaE5&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T12:23:32Z",
-      "first_seen": "2026-11-04T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "save-act",
-      "rank": 18,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-04T17:23:44Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-04T18:23:40Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-04T19:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Save Act",
-      "description": "The SAVE Act is trending as Trump ramps up pressure on Senate Republicans over the voter ID and proof-of-citizenship legislation, while state-level voting measures draw mixed results.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Save%20Act",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.16foGmmzsEmKVJOvdvXyFAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T08:23:36Z",
-      "first_seen": "2026-11-04T08:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bob-dylan",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 15,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-04T19:23:35Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 4,
+      "is_new": false,
       "topic": "Bob Dylan",
-      "description": "Bob Dylan is trending after wearing a hoodie to meet Pope Leo XIV at the Vatican, where they shared music, faith, and a rosary gift.",
+      "description": "Bob Dylan is trending following his surprise private audience with Pope Leo XIV at the Vatican.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bob%20Dylan",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.suL-mcKGn88cT1dd7jHpEQHaJ5&pid=15.1",
@@ -806,7 +594,37 @@
       "started_trending": "2026-11-04T19:23:35Z",
       "first_seen": "2026-11-04T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "speaker",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Speaker",
+      "description": "Mike Johnson is trending after announcing he will step aside as top House Republican and will not seek minority leadership following GOP midterm losses.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Speaker",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Sg1LYwOTflj5w6dB1hSzBA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T20:23:39Z",
+      "first_seen": "2026-11-04T20:23:39Z",
+      "published": null,
+      "last_seen": "2026-11-04T20:23:39Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -814,52 +632,182 @@
       "extra": {}
     },
     {
-      "id": "doge",
-      "rank": 20,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "id": "the-american",
+      "rank": 17,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 16
-        },
-        {
           "t": "2026-11-04T15:23:39Z",
-          "r": 14
+          "r": 13
         },
         {
           "t": "2026-11-04T16:23:37Z",
-          "r": 16
+          "r": 15
         },
         {
           "t": "2026-11-04T17:23:44Z",
-          "r": 17
+          "r": 18
         },
         {
           "t": "2026-11-04T18:23:40Z",
-          "r": 14
+          "r": 15
         },
         {
           "t": "2026-11-04T19:23:35Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "The American",
+      "description": "The American is trending as users discuss weekly women's soccer honors, film festival screenings, baseball playoffs, and political commentary.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/The%20American",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.QcqOXbtnbIxK-C56-wvTzwHaE5&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T12:23:32Z",
+      "first_seen": "2026-11-04T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "america-first",
+      "rank": 18,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-04T15:23:39Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-04T16:23:37Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-04T18:23:40Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-04T19:23:35Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "America First",
+      "description": "America First is trending as commentators and voters react to Republican midterm losses, challenges to the agenda, and new control of Congress.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/America%20First",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.SULQjoNHgcURlWE5lYFlRg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T12:23:32Z",
+      "first_seen": "2026-11-04T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dumfries",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T20:23:39Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dumfries",
+      "description": "Derrick Wood is trending after winning a third term as mayor of Dumfries.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dumfries",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-04T20:23:39Z",
+      "first_seen": "2026-11-04T20:23:39Z",
+      "published": null,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-gop",
+      "rank": 20,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-04T15:23:39Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-04T16:23:37Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-04T18:23:40Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-04T19:23:35Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-04T20:23:39Z",
           "r": 20
         }
       ],
-      "rank_change": -4,
+      "rank_change": -9,
       "is_new": false,
-      "topic": "DOGE",
-      "description": "DOGE is trending following new depositions from staffers stating there are no regrets over lost incomes, alongside state transitions and ongoing congressional scrutiny.",
+      "topic": "The GOP",
+      "description": "The GOP is trending as Republicans face severe midterm election losses, finger-pointing over the Iran war, and a new Democratic majority in Congress.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/DOGE",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.TLalnwYYGL2Q3_NwOdg_1gHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/The%20GOP",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Cl4Mvo6F0diIwJLt8lCLCwHaFU&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T14:23:34Z",
-      "first_seen": "2026-11-04T14:23:34Z",
+      "started_trending": "2026-11-04T03:23:36Z",
+      "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T19:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-04T20:23:39Z",
+      "hours_trending": 17,
+      "volume": "17hr trend",
+      "volume_value": 17,
       "volume_unit": "hours",
       "extra": {}
     }
