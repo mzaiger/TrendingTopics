@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-04T16:25:10Z",
+  "updated": "2026-11-04T17:25:28Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-11-04T16:23:37Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 1
         }
       ],
       "rank_change": 11,
       "is_new": false,
       "topic": "Jim Jordan",
-      "description": "Jim Jordan has launched a long-anticipated run to lead the House GOP as a minority leader following major Republican losses in the midterms.",
+      "description": "Jim Jordan has announced his bid to run for House minority leader, setting up a leadership race with Steve Scalise as Republicans pick up the pieces following midterm losses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jim%20Jordan",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.S0WXRIBB3lblFo2VX8OZwwHaE7&pid=15.1",
@@ -34,73 +38,69 @@
       "started_trending": "2026-11-04T15:23:39Z",
       "first_seen": "2026-11-04T15:23:39Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "texas",
+      "id": "vance",
       "rank": 2,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 1
-        },
-        {
           "t": "2026-11-04T12:23:32Z",
-          "r": 1
+          "r": 12
         },
         {
           "t": "2026-11-04T13:23:31Z",
-          "r": 1
+          "r": 10
         },
         {
           "t": "2026-11-04T14:23:34Z",
-          "r": 1
+          "r": 11
         },
         {
           "t": "2026-11-04T15:23:39Z",
-          "r": 1
+          "r": 11
         },
         {
           "t": "2026-11-04T16:23:37Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
           "r": 2
         }
       ],
-      "rank_change": -1,
+      "rank_change": 8,
       "is_new": false,
-      "topic": "Texas",
-      "description": "Texas is trending as Democrats flip the state blue, winning governorships and control of the state house while ending decades of GOP rule.",
+      "topic": "Vance",
+      "description": "Vance and other political figures are blaming the Iran war for the Republican midterm defeats, citing voter anger over the conflict as the real reason for the party's rout.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Texas",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.JuiTwYvGJIvJogy6N3cevQ&pid=15.1",
+      "url": "https://twstalker.com/search/Vance",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.N6QtIWWxtAmY4F5WJED/Mg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T02:23:36Z",
-      "first_seen": "2026-11-04T02:23:36Z",
+      "started_trending": "2026-11-04T08:23:36Z",
+      "first_seen": "2026-11-04T08:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 14,
-      "volume": "14hr trend",
-      "volume_value": 14,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "thune",
       "rank": 3,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 4
-        },
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 2
@@ -120,12 +120,16 @@
         {
           "t": "2026-11-04T16:23:37Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 3
         }
       ],
-      "rank_change": -1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Thune",
-      "description": "John Thune plans to run for Republican minority leader after heavy midterm losses and a Democratic takeover.",
+      "description": "John Thune plans to run for a second term as Senate Republican minority leader after the midterm elections, vowing to fight the Democratic majority.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Thune",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.BRSqdHBzxu7m6-1NWZPVeQHaHa&pid=15.1",
@@ -134,58 +138,16 @@
       "started_trending": "2026-11-04T03:23:36Z",
       "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 13,
-      "volume": "13hr trend",
-      "volume_value": 13,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "republicans",
-      "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-04T13:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Republicans",
-      "description": "Republicans are reacting to severe midterm electoral setbacks across the country, with leaders pointing fingers at factors like the Iran war.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Republicans",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP._LYPZHdCwaY8TxRJub9ikwHaEp&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T13:23:31Z",
-      "first_seen": "2026-11-04T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 14,
+      "volume": "14hr trend",
+      "volume_value": 14,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "congress",
-      "rank": 5,
+      "rank": 4,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -200,12 +162,16 @@
         {
           "t": "2026-11-04T16:23:37Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 4
         }
       ],
-      "rank_change": -1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Congress",
-      "description": "Democrats have won full control of Congress in the midterm elections, ushering in a new era of divided government and sending stocks soaring.",
+      "description": "Democrats have won control of Congress in a sweeping victory, ushering in a new era of divided government and prompting a strong reaction on Wall Street.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Congress",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.eyNv7y_sNjABulDu4OBItQHaHa&pid=15.1",
@@ -214,137 +180,19 @@
       "started_trending": "2026-11-04T14:23:34Z",
       "first_seen": "2026-11-04T14:23:34Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "vance",
-      "rank": 6,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-04T13:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Vance",
-      "description": "JD Vance is blaming the ongoing Iran war and Israel for costing Republicans the midterm elections and leading to Senate losses.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Vance",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.N6QtIWWxtAmY4F5WJED/Mg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T08:23:36Z",
-      "first_seen": "2026-11-04T08:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "desantis",
-      "rank": 7,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "DeSantis",
-      "description": "Ron DeSantis called the midterm election results an extinction-level event for Republicans after Byron Donalds won election as Florida's new governor.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/DeSantis",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.2iIiO0hVFCBWqfvbMb2laQHaJG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T15:23:39Z",
-      "first_seen": "2026-11-04T15:23:39Z",
-      "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rubio",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rubio",
-      "description": "Secretary of State Marco Rubio is making news amid his diplomatic travels as Ashley Moody wins a special election for his former Senate seat.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rubio",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.wG60saVYeHNwvPbMM7o59Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T16:23:37Z",
-      "first_seen": "2026-11-04T16:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jeffries",
-      "rank": 9,
+      "rank": 5,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 11
-        },
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 11
@@ -364,12 +212,16 @@
         {
           "t": "2026-11-04T16:23:37Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 5
         }
       ],
-      "rank_change": 2,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Jeffries",
-      "description": "Hakeem Jeffries is poised to become the first Black speaker of the House after Democrats secured a majority in Congress.",
+      "description": "Hakeem Jeffries is poised to become the first Black speaker of the House following the Democratic sweep of Congress.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jeffries",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.UIlqWW889PhW8/nzYmXv1Q&pid=15.1",
@@ -378,18 +230,116 @@
       "started_trending": "2026-11-04T07:23:33Z",
       "first_seen": "2026-11-04T07:23:33Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 10,
+      "volume": "10hr trend",
+      "volume_value": 10,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rubio",
+      "rank": 6,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-04T16:23:37Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Rubio",
+      "description": "Marco Rubio is making news by trying to reassure foreign allies in a speech in Munich while being viewed as a potential favorite to inherit the MAGA movement.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rubio",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.wG60saVYeHNwvPbMM7o59Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T16:23:37Z",
+      "first_seen": "2026-11-04T16:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "epstein",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Epstein",
+      "description": "Jeffrey Epstein is trending because Democrats winning control of Congress raises expectations that more Epstein files and information on his associates may finally come to light.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Epstein",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.CZVozvJilr-HyYDphN83vgHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T17:23:44Z",
+      "first_seen": "2026-11-04T17:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brandon-gill",
+      "rank": 8,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-04T16:23:37Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Brandon Gill",
+      "description": "Republican Brandon Gill won reelection to the U.S. House, returning to represent Texas's 26th Congressional District in Denton County.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Brandon%20Gill",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Tdp7-TYjf8yEr9GvKAnJeQHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T16:23:37Z",
+      "first_seen": "2026-11-04T16:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rinos",
-      "rank": 10,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "rank": 9,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-11-04T12:23:32Z",
@@ -410,12 +360,16 @@
         {
           "t": "2026-11-04T16:23:37Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 9
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "RINOs",
-      "description": "Donald Trump claimed that Greg Abbott lost the Texas governor's race because he became a RINO.",
+      "description": "President Trump blamed Greg Abbott's gubernatorial loss in Texas on him allegedly becoming a RINO after a Democrat flipped the governor's seat.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/RINOs",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.n5bu8Vuw8rOrqe2TEzLMAw&pid=15.1",
@@ -424,23 +378,19 @@
       "started_trending": "2026-11-04T12:23:32Z",
       "first_seen": "2026-11-04T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "the-gop",
-      "rank": 11,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "rank": 10,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 9
-        },
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 9
@@ -460,12 +410,16 @@
         {
           "t": "2026-11-04T16:23:37Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 10
         }
       ],
       "rank_change": -2,
       "is_new": false,
       "topic": "The GOP",
-      "description": "The GOP is facing a new political reality and pointing fingers at Donald Trump after severe losses and flipped seats in the midterm elections.",
+      "description": "The GOP is facing fallout from the 2026 midterm elections after Democrats flipped key seats, leading to leadership shakeups and acknowledgment from Trump that the Iran war contributed to the losses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/The%20GOP",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.Cl4Mvo6F0diIwJLt8lCLCwHaFU&pid=15.1",
@@ -474,87 +428,117 @@
       "started_trending": "2026-11-04T03:23:36Z",
       "first_seen": "2026-11-04T03:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 13,
-      "volume": "13hr trend",
-      "volume_value": 13,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 14,
+      "volume": "14hr trend",
+      "volume_value": 14,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mississippi",
-      "rank": 12,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "america-first",
+      "rank": 11,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 3
-        },
-        {
           "t": "2026-11-04T12:23:32Z",
-          "r": 3
+          "r": 18
         },
         {
           "t": "2026-11-04T13:23:31Z",
-          "r": 5
+          "r": 15
         },
         {
           "t": "2026-11-04T14:23:34Z",
-          "r": 6
+          "r": 17
         },
         {
           "t": "2026-11-04T15:23:39Z",
-          "r": 9
+          "r": 18
         },
         {
           "t": "2026-11-04T16:23:37Z",
-          "r": 12
+          "r": 17
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 11
         }
       ],
-      "rank_change": -9,
+      "rank_change": 4,
       "is_new": false,
-      "topic": "Mississippi",
-      "description": "Mississippi remains locked in a razor-thin and undecided Senate race as votes and mail ballots continue to be counted.",
+      "topic": "America First",
+      "description": "Social media discussion focuses on criticism that Trump lost because he betrayed the America First platform, alongside related legal and political developments.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mississippi",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.yzdcDBRcrnF5buojPLZSbQHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/America%20First",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.SULQjoNHgcURlWE5lYFlRg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T06:23:32Z",
-      "first_seen": "2026-11-04T06:23:32Z",
+      "started_trending": "2026-11-04T12:23:32Z",
+      "first_seen": "2026-11-04T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "brandon-gill",
+      "id": "hegseth",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hegseth",
+      "description": "Pete Hegseth faces a potential impeachment vote and a reckoning in Congress amid reports that Trump is asking advisers whether he should go.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hegseth",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.5HaxMG8sXjGeH1g73_XgjgHaE2&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T17:23:44Z",
+      "first_seen": "2026-11-04T17:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mike-johnson",
       "rank": 13,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T16:23:37Z",
+          "t": "2026-11-04T17:23:44Z",
           "r": 13
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Brandon Gill",
-      "description": "Republican Brandon Gill won reelection to the U.S. House representing Texas's 26th Congressional District in Denton County.",
+      "topic": "Mike Johnson",
+      "description": "House Speaker Mike Johnson announced he will not seek reelection as House Republican leader following the party's midterm election losses.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brandon%20Gill",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Tdp7-TYjf8yEr9GvKAnJeQHaJQ&pid=15.1",
+      "url": "https://twstalker.com/search/Mike%20Johnson",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0v84bHbzzHuvZu52OLVMMAHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T16:23:37Z",
-      "first_seen": "2026-11-04T16:23:37Z",
+      "started_trending": "2026-11-04T17:23:44Z",
+      "first_seen": "2026-11-04T17:23:44Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
+      "last_seen": "2026-11-04T17:23:44Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -564,13 +548,9 @@
     {
       "id": "save-act",
       "rank": 14,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 6
-        },
         {
           "t": "2026-11-04T12:23:32Z",
           "r": 6
@@ -590,12 +570,16 @@
         {
           "t": "2026-11-04T16:23:37Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 14
         }
       ],
-      "rank_change": -8,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Save Act",
-      "description": "The Trump-backed SAVE Act requiring voter ID and proof of citizenship has sparked widespread debate as states vote on restrictive ID measures.",
+      "description": "The Trump-backed SAVE Act, which requires voter ID and proof of citizenship to register, is drawing widespread attention alongside state-level voting measure results.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Save%20Act",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.16foGmmzsEmKVJOvdvXyFAHaE8&pid=15.1",
@@ -604,62 +588,96 @@
       "started_trending": "2026-11-04T08:23:36Z",
       "first_seen": "2026-11-04T08:23:36Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "the-american",
+      "id": "mississippi",
       "rank": 15,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-04T12:23:32Z",
-          "r": 17
+          "r": 3
         },
         {
           "t": "2026-11-04T13:23:31Z",
-          "r": 13
+          "r": 5
         },
         {
           "t": "2026-11-04T14:23:34Z",
-          "r": 12
+          "r": 6
         },
         {
           "t": "2026-11-04T15:23:39Z",
-          "r": 13
+          "r": 9
         },
         {
           "t": "2026-11-04T16:23:37Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
           "r": 15
         }
       ],
-      "rank_change": 2,
+      "rank_change": -10,
       "is_new": false,
-      "topic": "The American",
-      "description": "The American is trending across social media following news headlines about the American Humane Society's hero dog, Veterans Day events, and political commentary.",
+      "topic": "Mississippi",
+      "description": "The Mississippi Senate race remains extremely close and undecided as vote counting and mail ballot processing continue in a razor-thin contest.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/The%20American",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.QcqOXbtnbIxK-C56-wvTzwHaE5&pid=15.1",
+      "url": "https://twstalker.com/search/Mississippi",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.yzdcDBRcrnF5buojPLZSbQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T12:23:32Z",
-      "first_seen": "2026-11-04T12:23:32Z",
+      "started_trending": "2026-11-04T06:23:32Z",
+      "first_seen": "2026-11-04T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 11,
+      "volume": "11hr trend",
+      "volume_value": 11,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "uselections",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#USElections",
+      "description": "Social media users are discussing the US elections as vote counting wraps up in key areas and markets react to the Democrats taking control of Congress.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23USElections",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.q1Ez6sovnLO0xSPbRc6uJgHaEO&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T17:23:44Z",
+      "first_seen": "2026-11-04T17:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "doge",
-      "rank": 16,
+      "rank": 17,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -674,12 +692,16 @@
         {
           "t": "2026-11-04T16:23:37Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 17
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "DOGE",
-      "description": "DOGE is trending amid congressional depositions regarding staffers, privacy act violations by OPM, and discussions around cryptocurrency prices.",
+      "description": "DOGE is trending following depositions from staffers stating they have no regrets about people losing income, alongside a federal court ruling regarding privacy violations.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/DOGE",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.TLalnwYYGL2Q3_NwOdg_1gHaE7&pid=15.1",
@@ -688,137 +710,57 @@
       "started_trending": "2026-11-04T14:23:34Z",
       "first_seen": "2026-11-04T14:23:34Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "america-first",
-      "rank": 17,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
+      "id": "the-american",
+      "rank": 18,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-11-04T12:23:32Z",
-          "r": 18
+          "r": 17
         },
         {
           "t": "2026-11-04T13:23:31Z",
-          "r": 15
+          "r": 13
         },
         {
           "t": "2026-11-04T14:23:34Z",
-          "r": 17
+          "r": 12
         },
         {
           "t": "2026-11-04T15:23:39Z",
-          "r": 18
+          "r": 13
         },
         {
           "t": "2026-11-04T16:23:37Z",
-          "r": 17
+          "r": 15
+        },
+        {
+          "t": "2026-11-04T17:23:44Z",
+          "r": 18
         }
       ],
-      "rank_change": 1,
+      "rank_change": -5,
       "is_new": false,
-      "topic": "America First",
-      "description": "America First is drawing attention following a Department of Justice lawsuit involving America First Legal and reactions to the Republican midterm election rout.",
+      "topic": "The American",
+      "description": "Commentators and organizations are discussing various topics involving American culture, politics, and historical milestones, including opinions on Trump and the American Dream.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/America%20First",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.SULQjoNHgcURlWE5lYFlRg&pid=15.1",
+      "url": "https://twstalker.com/search/The%20American",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.QcqOXbtnbIxK-C56-wvTzwHaE5&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-04T12:23:32Z",
       "first_seen": "2026-11-04T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "qualcomm",
-      "rank": 18,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Qualcomm",
-      "description": "Qualcomm has signed a major 5G infrastructure deal with SpaceX to bring Starlink Mobile nationwide starting in 2027.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Qualcomm",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.7qYO4TWtNJDHAoRO-RvKiAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T15:23:39Z",
-      "first_seen": "2026-11-04T15:23:39Z",
-      "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "veto",
-      "rank": 19,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-04T11:23:35Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-04T12:23:32Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-04T13:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-04T14:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-04T16:23:37Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Veto",
-      "description": "Donald Trump has pledged to use his presidential veto power against insane Democratic bills following Republican midterm losses.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Veto",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.60naZlMs5nVPyv9lfc/NJg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T11:23:35Z",
-      "first_seen": "2026-11-04T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
+      "last_seen": "2026-11-04T17:23:44Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -826,33 +768,59 @@
       "extra": {}
     },
     {
-      "id": "brandon-aiyuk",
-      "rank": 20,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "id": "republican-party",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-04T15:23:39Z",
-          "r": 16
-        },
+          "t": "2026-11-04T17:23:44Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Republican Party",
+      "description": "The Republican Party is assessing the impact of a midterm wipeout where its financial advantage wasn't enough to prevent Democrats from winning full control of Congress.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Republican%20Party",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.NUmUPOm0iZkzxN-_jb49IAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T17:23:44Z",
+      "first_seen": "2026-11-04T17:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-04T17:23:44Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "iran-war",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-11-04T16:23:37Z",
+          "t": "2026-11-04T17:23:44Z",
           "r": 20
         }
       ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Brandon Aiyuk",
-      "description": "Brandon Aiyuk has filed for reinstatement from the 49ers' reserve list and plans to report back to the facility.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Iran War",
+      "description": "The Iran war is trending as top Republicans, including Donald Trump and JD Vance, point to the conflict as a primary cause for the party's midterm election losses.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brandon%20Aiyuk",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.u2hG4eL1SUWoRAYB3KiHUQ&pid=15.1",
+      "url": "https://twstalker.com/search/Iran%20War",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.JJGZ3HW2olo6mMdmZHfOMgHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-04T15:23:39Z",
-      "first_seen": "2026-11-04T15:23:39Z",
+      "started_trending": "2026-11-04T17:23:44Z",
+      "first_seen": "2026-11-04T17:23:44Z",
       "published": null,
-      "last_seen": "2026-11-04T16:23:37Z",
+      "last_seen": "2026-11-04T17:23:44Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
