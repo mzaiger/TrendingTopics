@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-05T13:25:21Z",
+  "updated": "2026-11-05T14:25:55Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -28,12 +28,16 @@
         {
           "t": "2026-11-05T13:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 1
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Good Thursday",
-      "description": "The material does not provide enough details to make a clear description.",
+      "description": "Social media users are discussing various Thursday-related topics, including weather forecasts, sports betting for Thursday Night Football, and financial updates regarding CD rates.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Thursday",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.ApK9g5dNyAlz4WjG70iycg&pid=15.1",
@@ -42,50 +46,16 @@
       "started_trending": "2026-11-05T10:23:34Z",
       "first_seen": "2026-11-05T10:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cristiano-ronaldo",
-      "rank": 2,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-05T12:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Cristiano Ronaldo",
-      "description": "Cristiano Ronaldo is trending after announcing his retirement from international soccer following a legendary 23-year career with Portugal.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cristiano%20Ronaldo",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.KK5EGV2qHkbQXhVmy3NcFw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T12:23:34Z",
-      "first_seen": "2026-11-05T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "portugal",
-      "rank": 3,
+      "rank": 2,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -96,12 +66,16 @@
         {
           "t": "2026-11-05T13:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 2
         }
       ],
-      "rank_change": 0,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Portugal",
-      "description": "Portugal is trending after Cristiano Ronaldo announced his retirement from international soccer following a 23-year career with the national team.",
+      "description": "Portugal is trending following the announcement that legendary soccer player Cristiano Ronaldo is retiring from the national team after a 23-year career.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Portugal",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.-V_SiEC3XcbwluEJzmSSzwHaE5&pid=15.1",
@@ -110,7 +84,79 @@
       "started_trending": "2026-11-05T12:23:34Z",
       "first_seen": "2026-11-05T12:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cristiano-ronaldo",
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-05T12:23:34Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-05T13:23:34Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 3
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Cristiano Ronaldo",
+      "description": "Cristiano Ronaldo is trending after announcing his retirement from international soccer, prompting tributes from fellow athletes and former teams.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Cristiano%20Ronaldo",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.KK5EGV2qHkbQXhVmy3NcFw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T12:23:34Z",
+      "first_seen": "2026-11-05T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hegseth",
+      "rank": 4,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-05T13:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Hegseth",
+      "description": "Pete Hegseth is facing political pressure as Republicans reportedly consider his future following midterm election losses and ongoing fallout from the Iran war.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hegseth",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.usohuyzxwyM/AgPTr3kKaw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T13:23:34Z",
+      "first_seen": "2026-11-05T13:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-05T14:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -118,38 +164,42 @@
       "extra": {}
     },
     {
-      "id": "topic",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "massie",
+      "rank": 5,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-11-05T13:23:34Z",
-          "r": 4
+          "r": 16
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#上海叠纸姚润昊环球露出",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23%E4%B8%8A%E6%B5%B7%E5%8F%A0%E7%BA%B8%E5%A7%9A%E6%B6%A6%E6%98%8A%E7%8E%AF%E7%90%83%E9%9C%B2%E5%87%BA",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.FUGMAsGYq4nZ5Obc89NRVgHaLI&pid=15.1",
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "Massie",
+      "description": "Congressman Thomas Massie is trending for issuing an ultimatum to impeach Pete Hegseth unless the official resigns.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Massie",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.InwGlK58TPp1_WqyiH8R_QHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-05T13:23:34Z",
       "first_seen": "2026-11-05T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "happy-friday-eve",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -160,12 +210,16 @@
         {
           "t": "2026-11-05T13:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 6
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Happy Friday Eve",
-      "description": "The material does not provide enough details to make a clear description.",
+      "description": "The term is trending as people share local event updates and news regarding holiday markets and business openings.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Happy%20Friday%20Eve",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP._clSiYIMPTh24Q6V2MGeWAHaHa&pid=15.1",
@@ -174,26 +228,72 @@
       "started_trending": "2026-11-05T12:23:34Z",
       "first_seen": "2026-11-05T12:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "5th-of-november",
+      "rank": 7,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-05T11:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-05T12:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-05T13:23:34Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "5th of November",
+      "description": "Social media is marking the 5th of November, a date traditionally associated with Guy Fawkes Day, with various cultural references and local news updates.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/5th%20of%20November",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.KXnif2Vp4Sp3qIluk6tS_AAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T11:23:33Z",
+      "first_seen": "2026-11-05T11:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "yaorunhaosecretlifewithsubs",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-05T13:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "#YaoRunhaoSecretLifeWithSubs",
       "description": "",
       "description_source": "",
@@ -204,71 +304,7 @@
       "started_trending": "2026-11-05T13:23:34Z",
       "first_seen": "2026-11-05T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "perthsanta-memorable-night",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "PERTHSANTA MEMORABLE NIGHT",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/PERTHSANTA%20MEMORABLE%20NIGHT",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-05T13:23:34Z",
-      "first_seen": "2026-11-05T13:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "iqiyiijoyth2027",
-      "rank": 8,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-05T12:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#iQIYIiJOYTH2027",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23iQIYIiJOYTH2027",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.aLn9MZ9LqTbXQNmWOnQHPgHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T12:23:34Z",
-      "first_seen": "2026-11-05T12:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
+      "last_seen": "2026-11-05T14:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -276,32 +312,36 @@
       "extra": {}
     },
     {
-      "id": "foamdreamwithperthsanta",
+      "id": "topic",
       "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-05T13:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
           "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#FoamDreamwithPerthSanta",
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "#上海叠纸姚润昊环球露出",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23FoamDreamwithPerthSanta",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "url": "https://twstalker.com/search/%23%E4%B8%8A%E6%B5%B7%E5%8F%A0%E7%BA%B8%E5%A7%9A%E6%B6%A6%E6%98%8A%E7%8E%AF%E7%90%83%E9%9C%B2%E5%87%BA",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.FUGMAsGYq4nZ5Obc89NRVgHaLI&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-05T13:23:34Z",
       "first_seen": "2026-11-05T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -318,6 +358,10 @@
         {
           "t": "2026-11-05T13:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 10
         }
       ],
       "rank_change": -5,
@@ -332,45 +376,7 @@
       "started_trending": "2026-11-05T12:23:34Z",
       "first_seen": "2026-11-05T12:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "5th-of-november",
-      "rank": 11,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-05T11:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-05T12:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "5th of November",
-      "description": "People are celebrating Guy Fawkes Day and Bonfire Night on the 5th of November, with related events, fireworks, and historical discussions.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/5th%20of%20November",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.KXnif2Vp4Sp3qIluk6tS_AAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T11:23:33Z",
-      "first_seen": "2026-11-05T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
+      "last_seen": "2026-11-05T14:23:37Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -379,7 +385,7 @@
     },
     {
       "id": "lee-know",
-      "rank": 12,
+      "rank": 11,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -398,12 +404,16 @@
         {
           "t": "2026-11-05T13:23:34Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 11
         }
       ],
-      "rank_change": -7,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Lee Know",
-      "description": "Stray Kids member Lee Know is trending after his agency announced he will enlist in the South Korean military in early 2027.",
+      "description": "Lee Know of the K-pop group Stray Kids is trending after announcing plans to enlist in the South Korean military in early 2027.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Lee%20Know",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.K1W2lFBCEg0pdhyZ1zBadwHaLH&pid=15.1",
@@ -412,37 +422,203 @@
       "started_trending": "2026-11-05T10:23:34Z",
       "first_seen": "2026-11-05T10:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "hegseth",
+      "id": "perthsanta-memorable-night",
+      "rank": 12,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-05T13:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "PERTHSANTA MEMORABLE NIGHT",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/PERTHSANTA%20MEMORABLE%20NIGHT",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-05T13:23:34Z",
+      "first_seen": "2026-11-05T13:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "iqiyiijoyth2027",
       "rank": 13,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-05T12:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-05T13:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "#iQIYIiJOYTH2027",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23iQIYIiJOYTH2027",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.aLn9MZ9LqTbXQNmWOnQHPgHaD4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T12:23:34Z",
+      "first_seen": "2026-11-05T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "foamdreamwithperthsanta",
+      "rank": 14,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-05T13:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "#FoamDreamwithPerthSanta",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23FoamDreamwithPerthSanta",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-05T13:23:34Z",
+      "first_seen": "2026-11-05T13:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "m-s-de-140",
+      "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 13
+          "t": "2026-11-05T14:23:37Z",
+          "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Hegseth",
-      "description": "Pete Hegseth is facing political pressure and potential fallout as some Republicans turn against him following midterm election losses.",
+      "topic": "Más de 140",
+      "description": "Avolon has confirmed an order for 140 Boeing 737 MAX aircraft, specifically the 737-10 variant.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hegseth",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.usohuyzxwyM/AgPTr3kKaw&pid=15.1",
+      "url": "https://twstalker.com/search/M%C3%A1s%20de%20140",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.YUMkQJny6F-vyTMOYLd-XwHaF7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-05T13:23:34Z",
-      "first_seen": "2026-11-05T13:23:34Z",
+      "started_trending": "2026-11-05T14:23:37Z",
+      "first_seen": "2026-11-05T14:23:37Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ben-shelton",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ben Shelton",
+      "description": "Tennis player Ben Shelton is trending due to his recent performance at the Paris Masters and ongoing discussions about his career and influences.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ben%20Shelton",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.pYMY7g2sHVE4L3X-PuYdMwHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T14:23:37Z",
+      "first_seen": "2026-11-05T14:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "banamex",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Banamex",
+      "description": "The material provided does not contain enough information to explain why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Banamex",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-05T14:23:37Z",
+      "first_seen": "2026-11-05T14:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-05T14:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -451,7 +627,7 @@
     },
     {
       "id": "thankful-thursday",
-      "rank": 14,
+      "rank": 18,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -462,12 +638,16 @@
         {
           "t": "2026-11-05T13:23:34Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 18
         }
       ],
-      "rank_change": -4,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Thankful Thursday",
-      "description": "The material does not provide enough details to make a clear description.",
+      "description": "Social media users are using this phrase to share personal reflections on gratitude and local community news.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Thankful%20Thursday",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.ReHwkUNazmN5BYGzT_7dmgHaE8&pid=15.1",
@@ -476,45 +656,7 @@
       "started_trending": "2026-11-05T12:23:34Z",
       "first_seen": "2026-11-05T12:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "graff",
-      "rank": 15,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-05T11:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-05T12:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "GRAFF",
-      "description": "The material does not provide enough details to make a clear description.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/GRAFF",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.NDISTcALffDYumq5aP9LWw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T11:23:33Z",
-      "first_seen": "2026-11-05T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
+      "last_seen": "2026-11-05T14:23:37Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -522,29 +664,29 @@
       "extra": {}
     },
     {
-      "id": "massie",
-      "rank": 16,
+      "id": "marketeatro",
+      "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 16
+          "t": "2026-11-05T14:23:37Z",
+          "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Massie",
-      "description": "Representative Thomas Massie is trending after threatening to force an impeachment vote against Pete Hegseth unless he resigns.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Massie",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.InwGlK58TPp1_WqyiH8R_QHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T13:23:34Z",
-      "first_seen": "2026-11-05T13:23:34Z",
+      "topic": "Marketeatro",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Marketeatro",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-05T14:23:37Z",
+      "first_seen": "2026-11-05T14:23:37Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
+      "last_seen": "2026-11-05T14:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -552,70 +694,24 @@
       "extra": {}
     },
     {
-      "id": "klay",
-      "rank": 17,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-05T08:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-05T09:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-05T10:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-05T11:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-05T12:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -16,
-      "is_new": false,
-      "topic": "Klay",
-      "description": "Klay Thompson is trending after hitting an overtime game-winning three-pointer to lift the Heat past the Clippers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Klay",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.SofNLzbNQWZdeRi/yRBT5A&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T07:23:34Z",
-      "first_seen": "2026-11-05T07:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "thirsty-thursday",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-11-05T13:23:34Z",
           "r": 18
+        },
+        {
+          "t": "2026-11-05T14:23:37Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Thirsty Thursday",
-      "description": "The material does not provide enough details to make a clear description.",
+      "description": "The phrase is trending as a common social media reference for Thursday activities, including local bar events and film festivals.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Thirsty%20Thursday",
       "image_url": "",
@@ -624,78 +720,10 @@
       "started_trending": "2026-11-05T13:23:34Z",
       "first_seen": "2026-11-05T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "guy-fawkes",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Guy Fawkes",
-      "description": "Guy Fawkes Day and Bonfire Night are being marked across social media alongside historical looks at the 1605 Gunpowder Plot.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Guy%20Fawkes",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.q3vob3RTvIAb13QPWBWzzgHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T13:23:34Z",
-      "first_seen": "2026-11-05T13:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fayeatom-x-iqiyi-2027",
-      "rank": 20,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-05T11:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-05T12:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-05T13:23:34Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "FAYEATOM X IQIYI 2027",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/FAYEATOM%20X%20IQIYI%202027",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.UVVBweE2jx8omp1BfFv7lAHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T11:23:33Z",
-      "first_seen": "2026-11-05T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-05T13:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-05T14:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
