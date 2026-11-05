@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-05T07:25:03Z",
+  "updated": "2026-11-05T08:24:52Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "klay",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Klay",
-      "description": "Klay Thompson is trending after hitting a last-second, game-winning three-pointer in overtime to lift the Heat over the Clippers.",
+      "description": "Klay Thompson is trending after hitting a dramatic last-second three-pointer in overtime to give the Heat a victory over the Clippers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Klay",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.SofNLzbNQWZdeRi/yRBT5A&pid=15.1",
@@ -30,7 +34,7 @@
       "started_trending": "2026-11-05T07:23:34Z",
       "first_seen": "2026-11-05T07:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
+      "last_seen": "2026-11-05T08:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -54,12 +58,16 @@
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 2
         }
       ],
       "rank_change": -1,
       "is_new": false,
       "topic": "Wemby",
-      "description": "Victor Wembanyama is trending after scoring a career-high 52 points and grabbing 24 rebounds in the Spurs' win over the Mavericks.",
+      "description": "Victor Wembanyama is trending after scoring a career-high 52 points, 24 rebounds, and 8 blocks in a Spurs win over the Mavericks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Wemby",
       "image_url": "https://ts1.explicit.bing.net/th?id=OIP.kltCFNTnxP5f4hrp_CO_dQHaJ9&pid=15.1",
@@ -68,7 +76,7 @@
       "started_trending": "2026-11-05T05:23:34Z",
       "first_seen": "2026-11-05T05:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
+      "last_seen": "2026-11-05T08:23:33Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -76,8 +84,122 @@
       "extra": {}
     },
     {
-      "id": "aewdynamite",
+      "id": "mitchjoneswowgiveaway",
       "rank": 3,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-05T05:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-05T07:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "#MitchJonesWoWGiveaway",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MitchJonesWoWGiveaway",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.em_2C5KrfBylVRF3G7RJRQHaEo&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T05:23:34Z",
+      "first_seen": "2026-11-05T05:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ocarinaoftime",
+      "rank": 4,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-05T07:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "#OcarinaOfTime",
+      "description": "The Legend of Zelda: Ocarina of Time is trending following reviews of its new remake for the Switch 2.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23OcarinaOfTime",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.1sHekWy55278ErRC8wHQng&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T07:23:34Z",
+      "first_seen": "2026-11-05T07:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "victor-wembanyama",
+      "rank": 5,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-05T07:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Victor Wembanyama",
+      "description": "Victor Wembanyama is making headlines after putting up a historic 52-point and 24-rebound performance in a San Antonio Spurs victory.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Victor%20Wembanyama",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.CiZoFQkJ47kAhwUGKZwfGQHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T06:23:41Z",
+      "first_seen": "2026-11-05T06:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aewdynamite",
+      "rank": 6,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -104,12 +226,16 @@
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 6
         }
       ],
-      "rank_change": -2,
+      "rank_change": -5,
       "is_new": false,
       "topic": "#AEWDynamite",
-      "description": "AEW Dynamite is trending following its annual Blood & Guts matches and subsequent reactions on social media.",
+      "description": "AEW Dynamite is trending following the annual Blood and Guts matches and related match results.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23AEWDynamite",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.HDowO6hZcq-zea_mHrNPAAHaJQ&pid=15.1",
@@ -118,88 +244,16 @@
       "started_trending": "2026-11-05T01:23:32Z",
       "first_seen": "2026-11-05T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mitchjoneswowgiveaway",
-      "rank": 4,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-05T06:23:41Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-05T07:23:34Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "#MitchJonesWoWGiveaway",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23MitchJonesWoWGiveaway",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.em_2C5KrfBylVRF3G7RJRQHaEo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T05:23:34Z",
-      "first_seen": "2026-11-05T05:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "victor-wembanyama",
-      "rank": 5,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-05T06:23:41Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-05T07:23:34Z",
-          "r": 5
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Victor Wembanyama",
-      "description": "Victor Wembanyama is making headlines after putting up a historic 52-point, 24-rebound, and 8-block performance in a Spurs victory over the Mavericks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Victor%20Wembanyama",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.CiZoFQkJ47kAhwUGKZwfGQHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T06:23:41Z",
-      "first_seen": "2026-11-05T06:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "garland",
-      "rank": 6,
+      "rank": 7,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -210,12 +264,16 @@
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 7
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Garland",
-      "description": "Darius Garland is drawing attention on social media after scoring 26 points and hitting a crucial late shot for the Cavaliers against the Heat.",
+      "description": "Alex Garland's film Civil War is receiving renewed attention on social media after Texas turned blue.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Garland",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.6KwRfANUh0WtJkd3hjtLRQHaEN&pid=15.1",
@@ -224,16 +282,16 @@
       "started_trending": "2026-11-05T06:23:41Z",
       "first_seen": "2026-11-05T06:23:41Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rhoslc",
-      "rank": 7,
+      "rank": 8,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -252,12 +310,16 @@
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 8
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "#RHOSLC",
-      "description": "Angie Katsanevas from The Real Housewives of Salt Lake City is trending after discussing her dating life following her split from Shawn Trujillo.",
+      "description": "The Real Housewives of Salt Lake City is trending as cast member Angie Katsanevas discusses dating following her split from Shawn Trujillo.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23RHOSLC",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.FEPsGFP3dUylMm1OMt2pkAHaE8&pid=15.1",
@@ -266,28 +328,32 @@
       "started_trending": "2026-11-05T04:23:35Z",
       "first_seen": "2026-11-05T04:23:35Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ty-lue",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Ty Lue",
-      "description": "Ty Lue is facing pressure on social media as the Clippers struggle with a 1-6 start to the season.",
+      "description": "Ty Lue is trending as the Clippers face pressure following a rough 1-6 start to the season.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ty%20Lue",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.7E5W9U2abFeffaNm7zUbFQHaE7&pid=15.1",
@@ -296,37 +362,7 @@
       "started_trending": "2026-11-05T07:23:34Z",
       "first_seen": "2026-11-05T07:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ocarinaoftime",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-05T07:23:34Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ocarinaoftime",
-      "description": "The Legend of Zelda: Ocarina of Time is trending following the release of reviews for its new Switch 2 remake.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23ocarinaoftime",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.1sHekWy55278ErRC8wHQng&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T07:23:34Z",
-      "first_seen": "2026-11-05T07:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
+      "last_seen": "2026-11-05T08:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -362,12 +398,16 @@
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 10
         }
       ],
       "rank_change": 6,
       "is_new": false,
       "topic": "Hegseth",
-      "description": "Pete Hegseth is trending as he faces a likely impeachment vote and mounting pressure from Republicans following midterm losses.",
+      "description": "Pete Hegseth is trending as he faces a likely impeachment vote and questions from Republicans following midterm losses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hegseth",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.5HaxMG8sXjGeH1g73_XgjgHaE2&pid=15.1",
@@ -376,104 +416,16 @@
       "started_trending": "2026-11-04T17:23:44Z",
       "first_seen": "2026-11-04T17:23:44Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 13,
-      "volume": "13hr trend",
-      "volume_value": 13,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "naji-marshall",
-      "rank": 11,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-05T06:23:41Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-05T07:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Naji Marshall",
-      "description": "Naji Marshall is trending after scoring 22 points and contributing an and-1 play for the Mavericks against the Spurs.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Naji%20Marshall",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.k0lYtrLurdHerai8rAR0hAHaLH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T05:23:34Z",
-      "first_seen": "2026-11-05T05:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "survivor51",
-      "rank": 12,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-05T02:23:42Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-05T03:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-05T06:23:41Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-05T07:23:34Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "#Survivor51",
-      "description": "Survivor 51 is trending after a brutal first-merged tribal council blindside and tribe merge madness.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Survivor51",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.5S_e43eqL1zAjRoT6oAnywAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T02:23:42Z",
-      "first_seen": "2026-11-05T02:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 14,
+      "volume": "14hr trend",
+      "volume_value": 14,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "massie",
-      "rank": 13,
+      "rank": 11,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -492,12 +444,16 @@
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 11
         }
       ],
-      "rank_change": -1,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Massie",
-      "description": "Representative Thomas Massie is trending after planning to force an impeachment vote against Pete Hegseth amid fallout from the midterm elections.",
+      "description": "Representative Thomas Massie is trending after threatening to force a House impeachment vote against Pete Hegseth.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Massie",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.7oOu-HH639vY4vh4ei9KDAHaFR&pid=15.1",
@@ -506,16 +462,46 @@
       "started_trending": "2026-11-05T04:23:35Z",
       "first_seen": "2026-11-05T04:23:35Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hnafinalbeta",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#HNAFinalBeta",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23HNAFinalBeta",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.tQGPAyEmznJr7ZnmYal8Zw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T08:23:33Z",
+      "first_seen": "2026-11-05T08:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "kornet",
-      "rank": 14,
+      "rank": 13,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -526,12 +512,16 @@
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 13
         }
       ],
-      "rank_change": -1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Kornet",
-      "description": "Luke Kornet is drawing attention on social media after throwing down an alley-oop and hitting a three-pointer in a game.",
+      "description": "Luke Kornet is trending on social media following an alley-oop play and recent game highlights.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Kornet",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.2CMb6DRLq5MRBkwgQ_hjZgHaFD&pid=15.1",
@@ -540,50 +530,58 @@
       "started_trending": "2026-11-05T06:23:41Z",
       "first_seen": "2026-11-05T06:23:41Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jeffries",
-      "rank": 15,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "id": "naji-marshall",
+      "rank": 14,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
+          "t": "2026-11-05T05:23:34Z",
+          "r": 14
+        },
+        {
           "t": "2026-11-05T06:23:41Z",
-          "r": 15
+          "r": 12
         },
         {
           "t": "2026-11-05T07:23:34Z",
-          "r": 15
+          "r": 11
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 14
         }
       ],
       "rank_change": 0,
       "is_new": false,
-      "topic": "Jeffries",
-      "description": "Hakeem Jeffries is trending as Brooklyn voters and leaders react to expectations for him to become the next House speaker.",
+      "topic": "Naji Marshall",
+      "description": "Naji Marshall is trending after scoring 22 points in a game against the Spurs.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jeffries",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.qTfI0c2sAjZjVKLLibmjgA&pid=15.1",
+      "url": "https://twstalker.com/search/Naji%20Marshall",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.k0lYtrLurdHerai8rAR0hAHaLH&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-05T06:23:41Z",
-      "first_seen": "2026-11-05T06:23:41Z",
+      "started_trending": "2026-11-05T05:23:34Z",
+      "first_seen": "2026-11-05T05:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "darby",
-      "rank": 16,
+      "rank": 15,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -606,12 +604,16 @@
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 15
         }
       ],
-      "rank_change": -6,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Darby",
-      "description": "Darby is in the news after local voters in Ravalli County turned down a school bond request.",
+      "description": "Darby is trending locally after voters turned down a school bond request in Ravalli County.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Darby",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.7D99d2P7Cxdi4ycggqdraAHaE8&pid=15.1",
@@ -620,46 +622,16 @@
       "started_trending": "2026-11-05T03:23:32Z",
       "first_seen": "2026-11-05T03:23:32Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "24-reb",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-05T07:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "24 REB",
-      "description": "Victor Wembanyama's 24-rebound performance is trending after he matched Wilt Chamberlain with a historic stat line in a Spurs win.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/24%20REB",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ycEpiySWdxsxieQDyG7Y5gHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T07:23:34Z",
-      "first_seen": "2026-11-05T07:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "brook-lopez",
-      "rank": 18,
+      "rank": 16,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -670,12 +642,16 @@
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 18
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 16
         }
       ],
-      "rank_change": 1,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Brook Lopez",
-      "description": "Brook Lopez is trending on social media amid recent fantasy basketball stats, a 20-point performance, and trade target discussions.",
+      "description": "Brook Lopez is trending after recording 20 points, eight rebounds, and two blocked shots.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Brook%20Lopez",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.9xs7klyhTlsaRaDanEOJ8gHaO_&pid=15.1",
@@ -684,7 +660,101 @@
       "started_trending": "2026-11-05T06:23:41Z",
       "first_seen": "2026-11-05T06:23:41Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "24-reb",
+      "rank": 17,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-05T07:23:34Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 17
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "24 REB",
+      "description": "The 24 rebounds stat is trending after Victor Wembanyama posted a historic night matching Wilt Chamberlain.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/24%20REB",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ycEpiySWdxsxieQDyG7Y5gHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T07:23:34Z",
+      "first_seen": "2026-11-05T07:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bronny",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bronny",
+      "description": "Bronny James is trending on social media after former NBA player Kwame Brown criticized his roster spot on the Lakers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bronny",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.QhyBuu46vNg_fdWF_gDm1wHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T08:23:33Z",
+      "first_seen": "2026-11-05T08:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-05T08:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wilt",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Wilt",
+      "description": "Wilt Chamberlain is trending after Victor Wembanyama matched his historic statistics during a standout game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Wilt",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.j95BkPFdqGamrvSGx5G1jAEsCo&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T08:23:33Z",
+      "first_seen": "2026-11-05T08:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-05T08:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -693,19 +763,23 @@
     },
     {
       "id": "52-pts",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-05T07:23:34Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-05T08:23:33Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "52 PTS",
-      "description": "Victor Wembanyama's 52-point night is trending after he led the Spurs to a victory over the Mavericks with a career-high score.",
+      "description": "The 52 points stat is trending after Victor Wembanyama put up a career-high performance to lead the Spurs past the Mavericks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/52%20PTS",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.tGoMM2NDJWuGQZRit7hGqQ&pid=15.1",
@@ -714,37 +788,7 @@
       "started_trending": "2026-11-05T07:23:34Z",
       "first_seen": "2026-11-05T07:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "best-buy",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-05T07:23:34Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Best Buy",
-      "description": "Best Buy is trending as shoppers look for early Black Friday deals, console restocks, and discounts on TVs and smart home devices.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Best%20Buy",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.EeDNTXjFk1U_dPP-fI6RDwHaEH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T07:23:34Z",
-      "first_seen": "2026-11-05T07:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T07:23:34Z",
+      "last_seen": "2026-11-05T08:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
