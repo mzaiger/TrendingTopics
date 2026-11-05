@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-05T05:25:09Z",
+  "updated": "2026-11-05T06:25:18Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "wemby",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-05T05:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Wemby",
-      "description": "San Antonio Spurs player Victor Wembanyama is trending after putting up a dominant performance and playing his most dominant first half in franchise history.",
+      "description": "Wemby is trending after scoring a career-high 52 points, grabbing 24 rebounds, and recording 8 blocks in the Spurs' thrilling 112-111 win over the Mavericks.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Wemby",
       "image_url": "https://ts1.explicit.bing.net/th?id=OIP.kltCFNTnxP5f4hrp_CO_dQHaJ9&pid=15.1",
@@ -30,10 +34,10 @@
       "started_trending": "2026-11-05T05:23:34Z",
       "first_seen": "2026-11-05T05:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -62,12 +66,16 @@
         {
           "t": "2026-11-05T05:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 2
         }
       ],
       "rank_change": -1,
       "is_new": false,
       "topic": "#AEWDynamite",
-      "description": "AEW Dynamite is trending following its annual Blood & Guts matches and results.",
+      "description": "Fans are discussing the latest AEW Dynamite episode following the annual Blood & Guts matches and action featuring Ospreay, the Bucks, and other wrestling stars.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23AEWDynamite",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.HDowO6hZcq-zea_mHrNPAAHaJQ&pid=15.1",
@@ -76,26 +84,30 @@
       "started_trending": "2026-11-05T01:23:32Z",
       "first_seen": "2026-11-05T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mitchjoneswowgiveaway",
       "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-11-05T05:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "#MitchJonesWoWGiveaway",
       "description": "",
       "description_source": "",
@@ -106,7 +118,37 @@
       "started_trending": "2026-11-05T05:23:34Z",
       "first_seen": "2026-11-05T05:23:34Z",
       "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "victor-wembanyama",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Victor Wembanyama",
+      "description": "Victor Wembanyama made NBA history with a 52-point, 24-rebound, and 8-block performance during the Spurs' victory against the Mavericks.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Victor%20Wembanyama",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.CiZoFQkJ47kAhwUGKZwfGQHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T06:23:41Z",
+      "first_seen": "2026-11-05T06:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -114,46 +156,68 @@
       "extra": {}
     },
     {
-      "id": "aewbloodandguts",
-      "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "id": "klay-thompson",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-05T03:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 4
+          "t": "2026-11-05T06:23:41Z",
+          "r": 5
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#AEWBloodAndGuts",
-      "description": "AEW Blood and Guts is trending due to its multi-match event and cage wars in Jacksonville.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Klay Thompson",
+      "description": "Klay Thompson is drawing attention amid recent struggles and roster decisions following the Miami Heat's blowout loss to the Lakers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23AEWBloodAndGuts",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.PKNcXngAOOApllKZcUwPyg&pid=15.1",
+      "url": "https://twstalker.com/search/Klay%20Thompson",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.1OjnURzjHZrN7dVvNIzAGAHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-05T03:23:32Z",
-      "first_seen": "2026-11-05T03:23:32Z",
+      "started_trending": "2026-11-05T06:23:41Z",
+      "first_seen": "2026-11-05T06:23:41Z",
       "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "garland",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Garland",
+      "description": "Garland is trending due to local election and tax rate proposition updates, alongside renewed social media discussion of Alex Garland's film 'Civil War'.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Garland",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.6KwRfANUh0WtJkd3hjtLRQHaEN&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T06:23:41Z",
+      "first_seen": "2026-11-05T06:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rhoslc",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -164,12 +228,16 @@
         {
           "t": "2026-11-05T05:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 7
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "#RHOSLC",
-      "description": "The Real Housewives of Salt Lake City is trending following recent episode recaps, relationship updates, and cast discussions.",
+      "description": "Viewers are reacting to the latest drama on The Real Housewives of Salt Lake City, including relationship updates and cast member splits.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23RHOSLC",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.FEPsGFP3dUylMm1OMt2pkAHaE8&pid=15.1",
@@ -178,106 +246,10 @@
       "started_trending": "2026-11-05T04:23:35Z",
       "first_seen": "2026-11-05T04:23:35Z",
       "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "survivor51",
-      "rank": 6,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-05T02:23:42Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-05T03:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 6
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "#Survivor51",
-      "description": "Survivor 51 is trending after its latest episode featured tribe merge madness and a brutal first jury blindside.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Survivor51",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.5S_e43eqL1zAjRoT6oAnywAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T02:23:42Z",
-      "first_seen": "2026-11-05T02:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
+      "last_seen": "2026-11-05T06:23:41Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "vance",
-      "rank": 7,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-04T23:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-05T00:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-05T01:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-05T02:23:42Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-05T03:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Vance",
-      "description": "Vance is trending after blaming the Iran war for significant Republican losses in the midterm elections.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Vance",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.N6QtIWWxtAmY4F5WJED/Mg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T08:23:36Z",
-      "first_seen": "2026-11-04T08:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 20,
-      "volume": "20hr trend",
-      "volume_value": 20,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -287,14 +259,6 @@
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
-        {
-          "t": "2026-11-04T23:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-05T00:23:36Z",
-          "r": 7
-        },
         {
           "t": "2026-11-05T01:23:32Z",
           "r": 13
@@ -314,12 +278,16 @@
         {
           "t": "2026-11-05T05:23:34Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 8
         }
       ],
       "rank_change": 5,
       "is_new": false,
       "topic": "Hegseth",
-      "description": "Pete Hegseth is trending as he faces a likely impeachment vote and questions regarding his future following Republican midterm losses.",
+      "description": "Pete Hegseth faces a likely impeachment vote and questions about his future as Republicans turn against him following midterm losses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hegseth",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.5HaxMG8sXjGeH1g73_XgjgHaE2&pid=15.1",
@@ -328,16 +296,286 @@
       "started_trending": "2026-11-04T17:23:44Z",
       "first_seen": "2026-11-04T17:23:44Z",
       "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aewbloodandguts",
+      "rank": 9,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-05T03:23:32Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-05T04:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-05T05:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "#AEWBloodAndGuts",
+      "description": "Fans are discussing the AEW Blood and Guts special event featuring high-stakes cage matches and a multi-match card in Jacksonville.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23AEWBloodAndGuts",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.PKNcXngAOOApllKZcUwPyg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T03:23:32Z",
+      "first_seen": "2026-11-05T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "survivor51",
+      "rank": 10,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-05T02:23:42Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-05T03:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-05T04:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-05T05:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "#Survivor51",
+      "description": "Survivor 51 is trending after a brutal blindside and tribe merge initiated a feisty struggle for power at the first merged Tribal Council.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23Survivor51",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.5S_e43eqL1zAjRoT6oAnywAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T02:23:42Z",
+      "first_seen": "2026-11-05T02:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "vance",
+      "rank": 11,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-05T01:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-05T02:23:42Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-05T03:23:32Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-05T04:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-05T05:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Vance",
+      "description": "Vance is trending after blaming the Iran war for Republican midterm losses, prompting widespread political fallout and social media reaction.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Vance",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.N6QtIWWxtAmY4F5WJED/Mg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-04T08:23:36Z",
+      "first_seen": "2026-11-04T08:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 22,
+      "volume": "22hr trend",
+      "volume_value": 22,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "naji-marshall",
+      "rank": 12,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-11-05T05:23:34Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Naji Marshall",
+      "description": "Naji Marshall is making headlines after contributing 22 points and key plays for the Mavericks in their narrow loss to the Spurs.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Naji%20Marshall",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.k0lYtrLurdHerai8rAR0hAHaLH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T05:23:34Z",
+      "first_seen": "2026-11-05T05:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kornet",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kornet",
+      "description": "Luke Kornet is trending on social media after throwing down a notable alley-oop and hitting a three-point jumper in recent basketball action.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kornet",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.2CMb6DRLq5MRBkwgQ_hjZgHaFD&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T06:23:41Z",
+      "first_seen": "2026-11-05T06:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "massie",
+      "rank": 14,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-05T04:23:35Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-05T05:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Massie",
+      "description": "Thomas Massie is trending after planning to force a House impeachment vote against Pete Hegseth amidst Republican fallout from the midterms.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Massie",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.7oOu-HH639vY4vh4ei9KDAHaFR&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T04:23:35Z",
+      "first_seen": "2026-11-05T04:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jeffries",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jeffries",
+      "description": "Hakeem Jeffries is drawing attention as he officially launches his bid for House speaker following Democratic Party wins.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jeffries",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.qTfI0c2sAjZjVKLLibmjgA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T06:23:41Z",
+      "first_seen": "2026-11-05T06:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "schumer",
-      "rank": 9,
+      "rank": 16,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -352,12 +590,16 @@
         {
           "t": "2026-11-05T05:23:34Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 16
         }
       ],
-      "rank_change": 5,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Schumer",
-      "description": "Chuck Schumer is trending as he heralds the Democrats' Senate remake and expresses confidence in being reelected as majority leader.",
+      "description": "Chuck Schumer is making news after heralding the Democrats' generational remake of the Senate and asserting his role as majority leader.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Schumer",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.BiPkAEcTonJhCmvUk555cQ&pid=15.1",
@@ -366,16 +608,62 @@
       "started_trending": "2026-11-05T03:23:32Z",
       "first_seen": "2026-11-05T03:23:32Z",
       "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "desantis",
+      "rank": 17,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-05T02:23:42Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-05T03:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-05T04:23:35Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-05T05:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "DeSantis",
+      "description": "Ron DeSantis is reacting to midterm election results, stating that a recent amendment helped save Florida from a broader blue wave.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/DeSantis",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.2iIiO0hVFCBWqfvbMb2laQHaJG&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T02:23:42Z",
+      "first_seen": "2026-11-05T02:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "darby",
-      "rank": 10,
+      "rank": 18,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -390,12 +678,16 @@
         {
           "t": "2026-11-05T05:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 18
         }
       ],
-      "rank_change": 0,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Darby",
-      "description": "Darby is trending after voters turned down a local school bond request in Montana.",
+      "description": "Darby is trending locally following voted-down school bond requests in Ravalli County and ongoing wrestling appearances by Darby Allin.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Darby",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.7D99d2P7Cxdi4ycggqdraAHaE8&pid=15.1",
@@ -404,16 +696,46 @@
       "started_trending": "2026-11-05T03:23:32Z",
       "first_seen": "2026-11-05T03:23:32Z",
       "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brook-lopez",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Brook Lopez",
+      "description": "Brook Lopez is generating discussion among basketball fans regarding fantasy basketball outlooks and potential buyout target rumors.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Brook%20Lopez",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.9xs7klyhTlsaRaDanEOJ8gHaO_&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-05T06:23:41Z",
+      "first_seen": "2026-11-05T06:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "okada",
-      "rank": 11,
+      "rank": 20,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -428,12 +750,16 @@
         {
           "t": "2026-11-05T05:23:34Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-05T06:23:41Z",
+          "r": 20
         }
       ],
-      "rank_change": -5,
+      "rank_change": -14,
       "is_new": false,
       "topic": "Okada",
-      "description": "Okada is trending following appearances in recent sports highlights and the AEW Blood & Guts event.",
+      "description": "Okada is trending across multiple areas, including sports finance commentary on midterm results, tennis championship wins, and AEW match appearances.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Okada",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.fNWYa_yy6olDCDogO_Zx6wHaE8&pid=15.1",
@@ -442,352 +768,10 @@
       "started_trending": "2026-11-05T03:23:32Z",
       "first_seen": "2026-11-05T03:23:32Z",
       "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "massie",
-      "rank": 12,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Massie",
-      "description": "Thomas Massie is trending after planning to force a House impeachment vote against Defense Secretary Pete Hegseth.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Massie",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.7oOu-HH639vY4vh4ei9KDAHaFR&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T04:23:35Z",
-      "first_seen": "2026-11-05T04:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "desantis",
-      "rank": 13,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-05T02:23:42Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-05T03:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "DeSantis",
-      "description": "Ron DeSantis is trending as he discusses Republican losses from the midterm elections and is considered for a cabinet replacement.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/DeSantis",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.2iIiO0hVFCBWqfvbMb2laQHaJG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T02:23:42Z",
-      "first_seen": "2026-11-05T02:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "naji-marshall",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Naji Marshall",
-      "description": "Naji Marshall is trending after scoring an and-1 basket for the Dallas Mavericks against the San Antonio Spurs.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Naji%20Marshall",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.k0lYtrLurdHerai8rAR0hAHaLH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T05:23:34Z",
-      "first_seen": "2026-11-05T05:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kuminga",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kuminga",
-      "description": "Jonathan Kuminga is trending after recording a strong stat line and sparking a late surge in the Timberwolves' win over the Rockets.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kuminga",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.aKbAAIj7wMxd6jiqItqsLQHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T05:23:34Z",
-      "first_seen": "2026-11-05T05:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rubio",
-      "rank": 16,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-04T23:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-05T00:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-05T01:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-05T02:23:42Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-05T03:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Rubio",
-      "description": "Marco Rubio is trending following remarks made abroad and discussions regarding potential 2028 Republican presidential contenders.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Rubio",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.wG60saVYeHNwvPbMM7o59Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-04T16:23:37Z",
-      "first_seen": "2026-11-04T16:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 12,
-      "volume": "12hr trend",
-      "volume_value": 12,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "umass",
-      "rank": 17,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "UMass",
-      "description": "UMass is trending after defeating Ball State 31-30 in an overtime thriller to snap a four-game skid.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/UMass",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.VxdCvJ57zmcUHGO6Y72B8QHaEL&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T04:23:35Z",
-      "first_seen": "2026-11-05T04:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "megan-bayne",
-      "rank": 18,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-05T01:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-05T02:23:42Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-05T03:23:32Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "Megan Bayne",
-      "description": "Megan Bayne and other AEW women are trending after competing in a violent, weapons-filled Blood & Guts match.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Megan%20Bayne",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.560BK7num2DyeWXVNQhL6QHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T01:23:32Z",
-      "first_seen": "2026-11-05T01:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "will-hardy",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Will Hardy",
-      "description": "Will Hardy is trending due to tight vote margins and an undecided recount in an election race.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Will%20Hardy",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.ZiqmuD5wUlz/sapt1BwyCA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T05:23:34Z",
-      "first_seen": "2026-11-05T05:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dalton-knecht",
-      "rank": 20,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-05T02:23:42Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-05T03:23:32Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-05T04:23:35Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-05T05:23:34Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Dalton Knecht",
-      "description": "Dalton Knecht is trending after making an impressive debut and scoring his first basket for the New York Knicks.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dalton%20Knecht",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.fQLnHyxozl1rWyn1wuFK3Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-05T02:23:42Z",
-      "first_seen": "2026-11-05T02:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-05T05:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-05T06:23:41Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     }
