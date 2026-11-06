@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-06T21:25:01Z",
+  "updated": "2026-11-06T22:25:02Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-06T21:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Stephen Miller",
-      "description": "President Trump has named Stephen Miller as his new White House chief of staff, replacing Susie Wiles following major Republican midterm losses.",
+      "description": "President Trump has named hardliner Stephen Miller as his new White House chief of staff, replacing Susie Wiles following Republican midterm losses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Stephen%20Miller",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.ymA5msP0-_NM51-UAe7tOQHaFn&pid=15.1",
@@ -38,10 +42,10 @@
       "started_trending": "2026-11-06T19:23:36Z",
       "first_seen": "2026-11-06T19:23:36Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -62,12 +66,16 @@
         {
           "t": "2026-11-06T21:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 2
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Susie Wiles",
-      "description": "Susie Wiles has been replaced by Stephen Miller as White House chief of staff following major Republican midterm defeats.",
+      "description": "Susie Wiles has been replaced as White House chief of staff by Stephen Miller following Republican midterm losses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Susie%20Wiles",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.yAcrWWzarciDgNtI5AzogQ&pid=15.1",
@@ -76,10 +84,10 @@
       "started_trending": "2026-11-06T19:23:36Z",
       "first_seen": "2026-11-06T19:23:36Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -89,10 +97,6 @@
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-11-06T16:23:32Z",
-          "r": 1
-        },
         {
           "t": "2026-11-06T17:23:33Z",
           "r": 1
@@ -112,6 +116,10 @@
         {
           "t": "2026-11-06T21:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 3
         }
       ],
       "rank_change": -2,
@@ -126,16 +134,54 @@
       "started_trending": "2026-11-06T15:23:32Z",
       "first_seen": "2026-11-06T15:23:32Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tyler-perry",
+      "rank": 4,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-06T20:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-06T21:23:33Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Tyler Perry",
+      "description": "Tyler Perry has been added to Georgia Governor-elect Keisha Lance Bottoms' transition team despite facing sexual assault lawsuits.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tyler%20Perry",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.IvEfkNu2wbmXp_mpb2tE4gHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T20:23:33Z",
+      "first_seen": "2026-11-06T20:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "azzi",
-      "rank": 4,
+      "rank": 5,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -154,12 +200,16 @@
         {
           "t": "2026-11-06T21:23:33Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 5
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Azzi",
-      "description": "Former UConn basketball stars Paige Bueckers and Azzi Fudd have confirmed that they are no longer a couple while addressing WNBA draft speculation.",
+      "description": "Former UConn basketball stars Paige Bueckers and Azzi Fudd have announced they split up over a year before becoming WNBA teammates, confirming they are no longer a couple.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Azzi",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.nCkPWNu40d4ABXWvL0WpfgHaE8&pid=15.1",
@@ -168,23 +218,49 @@
       "started_trending": "2026-11-06T18:23:32Z",
       "first_seen": "2026-11-06T18:23:32Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "carlos-alcaraz",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Carlos Alcaraz",
+      "description": "Carlos Alcaraz defeated Taylor Fritz in a late-night thriller at the Rolex Paris Open after saving two match points.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Carlos%20Alcaraz",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.TbUlPdCMdC6OzEa4y6dboQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T22:23:33Z",
+      "first_seen": "2026-11-06T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "cybertruck",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-11-06T16:23:32Z",
-          "r": 2
-        },
         {
           "t": "2026-11-06T17:23:33Z",
           "r": 2
@@ -204,12 +280,16 @@
         {
           "t": "2026-11-06T21:23:33Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 7
         }
       ],
-      "rank_change": -3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Cybertruck",
-      "description": "Tesla has announced it will end production of the Cybertruck in 2027 following years of division, delays, and recalls.",
+      "description": "Tesla is reportedly ending production of its Cybertruck in 2027 to refocus on the Cybercab, following years of delays, recalls, and division.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cybertruck",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.GTqEsktqIA5MNhSxV9Fipg&pid=15.1",
@@ -218,41 +298,79 @@
       "started_trending": "2026-11-06T08:23:31Z",
       "first_seen": "2026-11-06T08:23:31Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 13,
-      "volume": "13hr trend",
-      "volume_value": 13,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 14,
+      "volume": "14hr trend",
+      "volume_value": 14,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "alcaraz",
-      "rank": 6,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "id": "calley-means",
+      "rank": 8,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-11-06T20:23:33Z",
-          "r": 12
+          "r": 14
         },
         {
           "t": "2026-11-06T21:23:33Z",
-          "r": 6
+          "r": 12
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 8
         }
       ],
       "rank_change": 6,
       "is_new": false,
-      "topic": "Alcaraz",
-      "description": "Carlos Alcaraz is facing Taylor Fritz at the Rolex Paris Open quarterfinal with Turin qualification on the line.",
+      "topic": "Calley Means",
+      "description": "Calley Means, a top ally of RFK Jr. and MAHA leader, resigned and criticized the Trump administration and Chief of Staff Susie Wiles for allegedly bending to industry and prioritizing fundraising over health policies.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alcaraz",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.EHCmzLzZVFkZWhEHa-B8mAHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/Calley%20Means",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.w_gwZgtkfIOGD1lYKU0_SgHaJq&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-06T20:23:33Z",
       "first_seen": "2026-11-06T20:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "taylor-fritz",
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-06T21:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Taylor Fritz",
+      "description": "Taylor Fritz faced Carlos Alcaraz in a close quarterfinal match at the Rolex Paris Open after Alcaraz saved multiple match points to win.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Taylor%20Fritz",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.xHcyuO2JiRtD722cUcQofgHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T21:23:33Z",
+      "first_seen": "2026-11-06T21:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-06T22:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -260,42 +378,46 @@
       "extra": {}
     },
     {
-      "id": "tyler-perry",
-      "rank": 7,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "id": "goebbels",
+      "rank": 10,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-11-06T20:23:33Z",
-          "r": 8
+          "r": 10
         },
         {
           "t": "2026-11-06T21:23:33Z",
-          "r": 7
+          "r": 9
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 10
         }
       ],
-      "rank_change": 1,
+      "rank_change": 0,
       "is_new": false,
-      "topic": "Tyler Perry",
-      "description": "Tyler Perry has been named to Governor-elect Keisha Lance Bottoms' Georgia transition team despite facing recent sexual assault lawsuits.",
+      "topic": "Goebbels",
+      "description": "Social media users and commentators are expressing alarm and panic after President Trump elevated hardliner Stephen Miller to the position of White House chief of staff.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tyler%20Perry",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.IvEfkNu2wbmXp_mpb2tE4gHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Goebbels",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.5N4mY4Kb2AhmlF7_6UlRFgHaDt&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-06T20:23:33Z",
       "first_seen": "2026-11-06T20:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "trump-political-operation",
-      "rank": 8,
+      "rank": 11,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -310,12 +432,16 @@
         {
           "t": "2026-11-06T21:23:33Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 11
         }
       ],
-      "rank_change": -1,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Trump Political Operation",
-      "description": "Donald Trump has shaken up his political operation by promoting Stephen Miller to White House chief of staff, replacing Susie Wiles after midterm losses.",
+      "description": "President Trump has overhauled his political operation by elevating Stephen Miller to White House chief of staff, replacing Susie Wiles following midterm defeats.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Trump%20Political%20Operation",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.CQ91fi/6aStGw570z2Ju8Q&pid=15.1",
@@ -324,71 +450,71 @@
       "started_trending": "2026-11-06T19:23:36Z",
       "first_seen": "2026-11-06T19:23:36Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "goebbels",
-      "rank": 9,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "id": "everton",
+      "rank": 12,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 10
+          "t": "2026-11-06T21:23:33Z",
+          "r": 15
         },
         {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 9
+          "t": "2026-11-06T22:23:33Z",
+          "r": 12
         }
       ],
-      "rank_change": 1,
+      "rank_change": 3,
       "is_new": false,
-      "topic": "Goebbels",
-      "description": "Social media users are expressing alarm after President Trump appointed Stephen Miller as White House chief of staff following midterm losses.",
+      "topic": "Everton",
+      "description": "Everton is trending following a match against Coventry City, featuring a standout scoring performance by Thierno Barry.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Goebbels",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.5N4mY4Kb2AhmlF7_6UlRFgHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T20:23:33Z",
-      "first_seen": "2026-11-06T20:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "taylor-fritz",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Taylor Fritz",
-      "description": "Taylor Fritz is facing Carlos Alcaraz at the Rolex Paris Open quarterfinal with Turin qualification on the line.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Taylor%20Fritz",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.xHcyuO2JiRtD722cUcQofgHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/Everton",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.v7IfBJCa8QxXTQGYWQtRiA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-06T21:23:33Z",
       "first_seen": "2026-11-06T21:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sevilla",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sevilla",
+      "description": "Sevilla faced Alavés in a La Liga match as part of matchweek 12 action.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sevilla",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.TQv4JOgNjN9uPQj75dmVxQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T22:23:33Z",
+      "first_seen": "2026-11-06T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-06T22:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -396,10 +522,48 @@
       "extra": {}
     },
     {
+      "id": "romney",
+      "rank": 14,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-06T20:23:33Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-06T21:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Romney",
+      "description": "Florida Governor Ron DeSantis stated during a midterm review that he wishes he had not voted for Mitt Romney.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Romney",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.-9dBZuU6eEaJS_GaAXIqjwHaKE&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T20:23:33Z",
+      "first_seen": "2026-11-06T20:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "hatchet",
-      "rank": 11,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "rank": 15,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-06T17:23:33Z",
@@ -420,12 +584,16 @@
         {
           "t": "2026-11-06T21:23:33Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 15
         }
       ],
-      "rank_change": 3,
+      "rank_change": -9,
       "is_new": false,
       "topic": "Hatchet",
-      "description": "The phrase is trending as Delaware politicians gather to bury the hatchet after the campaign season, alongside reports of a hatchet attack in Providence and discussions about a frequently taught American novel.",
+      "description": "The term is trending due to a reported hatchet attack in Providence, Delaware politicians burying the hatchet at an annual event, and a discussion surrounding a frequently taught novel.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hatchet",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.Zb1tKx64ChRZHiG1xHHDHQHaLh&pid=15.1",
@@ -434,139 +602,37 @@
       "started_trending": "2026-11-06T17:23:33Z",
       "first_seen": "2026-11-06T17:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "calley-means",
-      "rank": 12,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Calley Means",
-      "description": "Former RFK Jr. adviser Calley Means has resigned and accused the Trump administration of corruption and catering to special interests.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Calley%20Means",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.w_gwZgtkfIOGD1lYKU0_SgHaJq&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T20:23:33Z",
-      "first_seen": "2026-11-06T20:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "romney",
-      "rank": 13,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Romney",
-      "description": "Oklahoma State's football defense is facing uncertainty as starting player Tate Romney is listed as doubtful for the upcoming game against Kansas State.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Romney",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.-9dBZuU6eEaJS_GaAXIqjwHaKE&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T20:23:33Z",
-      "first_seen": "2026-11-06T20:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "doubling",
-      "rank": 14,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Doubling",
-      "description": "President Trump is drawing attention for doubling down on his agenda by appointing Stephen Miller as chief of staff following midterm election losses.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Doubling",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.CDdMD4-uFmBghuENQD4GcwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T20:23:33Z",
-      "first_seen": "2026-11-06T20:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "everton",
-      "rank": 15,
+      "id": "thierno-barry",
+      "rank": 16,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 15
+          "t": "2026-11-06T22:23:33Z",
+          "r": 16
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Everton",
-      "description": "Everton is preparing to face Coventry City in an upcoming Premier League matchup as the team aims for back-to-back wins.",
+      "topic": "Thierno Barry",
+      "description": "Thierno Barry scored a double to lead Everton to a comeback win against Coventry City, continuing his strong scoring streak.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Everton",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.v7IfBJCa8QxXTQGYWQtRiA&pid=15.1",
+      "url": "https://twstalker.com/search/Thierno%20Barry",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.WA09PoBsylApGDyIjiAvlQHaE9&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-06T21:23:33Z",
-      "first_seen": "2026-11-06T21:23:33Z",
+      "started_trending": "2026-11-06T22:23:33Z",
+      "first_seen": "2026-11-06T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
+      "last_seen": "2026-11-06T22:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -574,71 +640,33 @@
       "extra": {}
     },
     {
-      "id": "usher",
-      "rank": 16,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-06T19:23:36Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Usher",
-      "description": "Fans are expressing frustration on social media following a chaotic and severely delayed Atlanta concert featuring Usher and Chris Brown.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Usher",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.otLP3FbyEc528KyHhQjlPwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T19:23:36Z",
-      "first_seen": "2026-11-06T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "madea",
+      "id": "patriots-in-control",
       "rank": 17,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 15
+          "t": "2026-11-06T21:23:33Z",
+          "r": 19
         },
         {
-          "t": "2026-11-06T21:23:33Z",
+          "t": "2026-11-06T22:23:33Z",
           "r": 17
         }
       ],
-      "rank_change": -2,
+      "rank_change": 2,
       "is_new": false,
-      "topic": "Madea",
-      "description": "Tyler Perry, known for creating the character Madea, has joined Governor-elect Keisha Lance Bottoms' Georgia transition team amid recent news coverage.",
+      "topic": "Patriots in Control",
+      "description": "Discussions span across political shifts with Stephen Miller becoming chief of staff, congressional changes, and sports updates regarding the New England Patriots and Antonio Brown.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Madea",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.30t9OCw3nVJJ7FzpJkNHxwHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Patriots%20in%20Control",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.sItc4gIUiwEhReSfia3yGA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-06T20:23:33Z",
-      "first_seen": "2026-11-06T20:23:33Z",
+      "started_trending": "2026-11-06T21:23:33Z",
+      "first_seen": "2026-11-06T21:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
+      "last_seen": "2026-11-06T22:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -662,12 +690,16 @@
         {
           "t": "2026-11-06T21:23:33Z",
           "r": 18
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 18
         }
       ],
       "rank_change": -6,
       "is_new": false,
       "topic": "Wilpons",
-      "description": "SNY, the Mets network previously owned by the Wilpons, is facing major changes with sweeping editorial layoffs and the cancellation of two signature programs.",
+      "description": "SNY, the Mets' regional network, is implementing major layoffs, canceling signature programs, and gutting its website.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Wilpons",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.p-gYlhP7tVKmjEPuCz4afwHaFj&pid=15.1",
@@ -676,37 +708,37 @@
       "started_trending": "2026-11-06T19:23:36Z",
       "first_seen": "2026-11-06T19:23:36Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "patriots-in-control",
+      "id": "money-williams",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-06T21:23:33Z",
+          "t": "2026-11-06T22:23:33Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Patriots in Control",
-      "description": "Recent news headlines discuss political shifts following Trump's appointment of Stephen Miller as chief of staff alongside sports updates regarding the New England Patriots.",
+      "topic": "Money Williams",
+      "description": "Boston College men's basketball is facing UMass in the Hall of Fame Series at TD Garden.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Patriots%20in%20Control",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.sItc4gIUiwEhReSfia3yGA&pid=15.1",
+      "url": "https://twstalker.com/search/Money%20Williams",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.iwHfWZ7NprQD576GNatgEQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-06T21:23:33Z",
-      "first_seen": "2026-11-06T21:23:33Z",
+      "started_trending": "2026-11-06T22:23:33Z",
+      "first_seen": "2026-11-06T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
+      "last_seen": "2026-11-06T22:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -714,48 +746,32 @@
       "extra": {}
     },
     {
-      "id": "fursuitfriday",
+      "id": "maha",
       "rank": 20,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-06T17:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-06T18:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-06T19:23:36Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-06T21:23:33Z",
+          "t": "2026-11-06T22:23:33Z",
           "r": 20
         }
       ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "#FursuitFriday",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23FursuitFriday",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.uXdf02r1W0LLm0gw2mNN5QHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T17:23:33Z",
-      "first_seen": "2026-11-06T17:23:33Z",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "MAHA",
+      "description": "MAHA activists are celebrating the replacement of White House chief of staff Susie Wiles, while leader Calley Means has criticized administration officials for bending to industry interests.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/MAHA",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-06T22:23:33Z",
+      "first_seen": "2026-11-06T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T21:23:33Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-06T22:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
