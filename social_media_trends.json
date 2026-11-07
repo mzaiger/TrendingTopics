@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-07T07:25:18Z",
+  "updated": "2026-11-07T08:24:44Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Luka",
-      "description": "Luka Dončić is trending after scoring 53 points for the Lakers in a win against the Trail Blazers, passing Michael Jordan for most points in the modern era through nine games, and calling out an NBA mentor.",
+      "description": "Luka Dončić is trending after scoring 53 points to lead the Lakers to an NBA Cup win over the Trail Blazers, while also passing Michael Jordan for the most points in the modern era through nine games.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Luka",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.WFcWVdb1zdNB78xCEk17TAHaE8&pid=15.1",
@@ -34,10 +38,10 @@
       "started_trending": "2026-11-07T06:23:34Z",
       "first_seen": "2026-11-07T06:23:34Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -54,12 +58,16 @@
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 2
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "#LakeShow",
-      "description": "This topic is not clearly explained by the available material, which only mentions unrelated news about Kentucky farmland and a high school football matchup.",
+      "description": "The description is not clear based on the provided material.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23LakeShow",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.pEq7acPkTS5oJlHMDLQvfwHaDM&pid=15.1",
@@ -68,16 +76,58 @@
       "started_trending": "2026-11-07T06:23:34Z",
       "first_seen": "2026-11-07T06:23:34Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "blazers",
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-07T05:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-07T06:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-07T07:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Blazers",
+      "description": "The Portland Trail Blazers are trending following their 124-118 loss to the Los Angeles Lakers, despite a strong performance from Deni Avdija.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Blazers",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.5CDnJjsrrpfHztmnGGiOeg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T05:23:33Z",
+      "first_seen": "2026-11-07T05:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rhule",
-      "rank": 3,
+      "rank": 4,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -96,12 +146,16 @@
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 4
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Rhule",
-      "description": "Nebraska football coach Matt Rhule is trending following the team's fourth straight loss and discussions surrounding his contract buyout costs.",
+      "description": "Nebraska football head coach Matt Rhule is trending following his team's 24-13 loss to Illinois, which marked their fourth straight defeat and sparked discussions about his contract buyout.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Rhule",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.A8Wt9TSPIXfFNU4/HnT2kg&pid=15.1",
@@ -110,67 +164,33 @@
       "started_trending": "2026-11-07T04:23:30Z",
       "first_seen": "2026-11-07T04:23:30Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "blazers",
-      "rank": 4,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-07T05:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-07T06:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-07T07:23:35Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Blazers",
-      "description": "The Portland Trail Blazers are trending following their game against the Los Angeles Lakers, where Luka Doncic scored 53 points to rally the Lakers past the Blazers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Blazers",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.5CDnJjsrrpfHztmnGGiOeg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T05:23:33Z",
-      "first_seen": "2026-11-07T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "miller",
       "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Miller",
-      "description": "",
-      "description_source": "",
+      "description": "Stephen Miller is trending after being named the new White House chief of staff, replacing Susie Wiles.",
+      "description_source": "gemini",
       "url": "https://twstalker.com/search/Miller",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.eE23hbhOuG0quOQXULpiZg&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -178,56 +198,18 @@
       "started_trending": "2026-11-07T07:23:35Z",
       "first_seen": "2026-11-07T07:23:35Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nebraska",
-      "rank": 6,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-07T05:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-07T06:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-07T07:23:35Z",
-          "r": 6
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Nebraska",
-      "description": "Nebraska is trending on social media following the football team's fourth consecutive loss, this time against Illinois, alongside fact-checks regarding election results.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nebraska",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.F6J-vNTnAR6IVYkkdguzrwHaEH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T05:23:33Z",
-      "first_seen": "2026-11-07T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bond",
-      "rank": 7,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "rank": 6,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-07T03:23:33Z",
@@ -248,12 +230,16 @@
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 6
         }
       ],
-      "rank_change": 5,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Bond",
-      "description": "James Bond is trending after reports surfaced that actors Robert Pattinson and Nicholas Hoult screen-tested for the role of 007.",
+      "description": "James Bond is trending on social media after reports emerged that Robert Pattinson and Nicholas Hoult screen tested for the role of 007.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bond",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.APSq-QnKh5s2g7a64J6FLwHaHa&pid=15.1",
@@ -262,29 +248,33 @@
       "started_trending": "2026-11-07T03:23:33Z",
       "first_seen": "2026-11-07T03:23:33Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "sonny-dykes",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 7,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Sonny Dykes",
-      "description": "",
-      "description_source": "",
+      "description": "Sonny Dykes and TCU are trending following a heartbreaking 29-28 last-second loss to No. 22 Arizona after a late field goal.",
+      "description_source": "gemini",
       "url": "https://twstalker.com/search/Sonny%20Dykes",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.Ng7cHuXaTWlzbbrqFEjn3A&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -292,10 +282,52 @@
       "started_trending": "2026-11-07T07:23:35Z",
       "first_seen": "2026-11-07T07:23:35Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nebraska",
+      "rank": 8,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-07T05:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-07T06:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-07T07:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Nebraska",
+      "description": "The Nebraska Cornhuskers football team is trending after suffering their fourth consecutive loss, falling 24-13 to the Illinois Fighting Illini.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Nebraska",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.F6J-vNTnAR6IVYkkdguzrwHaEH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T05:23:33Z",
+      "first_seen": "2026-11-07T05:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -324,12 +356,16 @@
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 9
         }
       ],
       "rank_change": -2,
       "is_new": false,
       "topic": "Pattinson",
-      "description": "Robert Pattinson is trending after reports emerged that he recently screen-tested to play James Bond.",
+      "description": "Robert Pattinson is generating buzz online after reports revealed he recently screen tested to play James Bond.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Pattinson",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.phxnjH-HrsbUtYk7q8Vl5gHaLe&pid=15.1",
@@ -338,67 +374,33 @@
       "started_trending": "2026-11-07T03:23:33Z",
       "first_seen": "2026-11-07T03:23:33Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "adou",
-      "rank": 10,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-07T05:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-07T06:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-07T07:23:35Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Adou",
-      "description": "Adou Thiero is trending after being cleared to make his season debut for the Lakers following a month-long absence due to a knee injury.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Adou",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.YCL0FVGX7djxltJLpTwDNg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T05:23:33Z",
-      "first_seen": "2026-11-07T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "noah-fifita",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 10,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 10
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Noah Fifita",
-      "description": "",
-      "description_source": "",
+      "description": "Noah Fifita and No. 22 Arizona are trending after an improbable comeback win against TCU, capped by a late field goal to secure a 29-28 victory.",
+      "description_source": "gemini",
       "url": "https://twstalker.com/search/Noah%20Fifita",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.MVLkimNppIfEcqbTmiUy3g&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -406,75 +408,7 @@
       "started_trending": "2026-11-07T07:23:35Z",
       "first_seen": "2026-11-07T07:23:35Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "deni",
-      "rank": 12,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-07T06:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-07T07:23:35Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Deni",
-      "description": "Deni Avdija is trending following his strong performance of 22 points and 11 assists for the Trail Blazers in their matchup against the Lakers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Deni",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.jgqe5cMbRov4k8EUT3QSDQHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T06:23:34Z",
-      "first_seen": "2026-11-07T06:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lakers",
-      "rank": 13,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-07T06:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-07T07:23:35Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#Lakers",
-      "description": "The Los Angeles Lakers are trending on social media after Luka Doncic scored 53 points to lead the team to a win over the Portland Trail Blazers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23Lakers",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.UwSzIWNx4vc6j5ikxuaS0gHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T06:23:34Z",
-      "first_seen": "2026-11-07T06:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
+      "last_seen": "2026-11-07T08:23:40Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -483,7 +417,7 @@
     },
     {
       "id": "arab-america",
-      "rank": 14,
+      "rank": 11,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -502,12 +436,16 @@
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 11
         }
       ],
-      "rank_change": 5,
+      "rank_change": 8,
       "is_new": false,
       "topic": "Arab America",
-      "description": "Arab Americans are trending following Abdul El-Sayed's historic U.S. Senate election victory in Michigan and his speech highlighting shared community identity.",
+      "description": "Arab America is trending as discussions highlight the shared identity of Arab Americans following Abdul El-Sayed's historic US Senate win in Michigan and a leadership summit.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Arab%20America",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.jiQGkwWvvurUJ6Ui4dUWCg&pid=15.1",
@@ -516,7 +454,49 @@
       "started_trending": "2026-11-07T04:23:30Z",
       "first_seen": "2026-11-07T04:23:30Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "adou",
+      "rank": 12,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-07T05:23:33Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-07T06:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-07T07:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Adou",
+      "description": "Adou Thiero is trending after being cleared from the injury report to make his season debut for the Lakers, highlighted by an alley-oop slam.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Adou",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.YCL0FVGX7djxltJLpTwDNg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T05:23:33Z",
+      "first_seen": "2026-11-07T05:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T08:23:40Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -524,21 +504,63 @@
       "extra": {}
     },
     {
+      "id": "deni",
+      "rank": 13,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-07T06:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-07T07:23:35Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Deni",
+      "description": "Deni Avdija is trending after recording 22 points and 11 assists for the Trail Blazers in their matchup against the Lakers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Deni",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.jgqe5cMbRov4k8EUT3QSDQHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T06:23:34Z",
+      "first_seen": "2026-11-07T06:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "nico-harrison",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 14,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Nico Harrison",
-      "description": "",
-      "description_source": "",
+      "description": "The description is not clear based on the provided material.",
+      "description_source": "gemini",
       "url": "https://twstalker.com/search/Nico%20Harrison",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.7CvcWMjhUZ66cREoBD9EWQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -546,16 +568,96 @@
       "started_trending": "2026-11-07T07:23:35Z",
       "first_seen": "2026-11-07T07:23:35Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lakers",
+      "rank": 15,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-07T06:23:34Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-07T07:23:35Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "#Lakers",
+      "description": "The Los Angeles Lakers are trending on social media after Luka Dončić scored 53 points to help them defeat the Portland Trail Blazers 124-118.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23Lakers",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.UwSzIWNx4vc6j5ikxuaS0gHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T06:23:34Z",
+      "first_seen": "2026-11-07T06:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "scoot",
+      "rank": 16,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-07T05:23:33Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-07T06:23:34Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-07T07:23:35Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Scoot",
+      "description": "The description is not clear based on the provided material.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Scoot",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.PUTXWdHDdvuE13fMBscUlwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T05:23:33Z",
+      "first_seen": "2026-11-07T05:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "huskers",
-      "rank": 16,
+      "rank": 17,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -574,12 +676,16 @@
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 17
         }
       ],
-      "rank_change": -4,
+      "rank_change": -5,
       "is_new": false,
       "topic": "#Huskers",
-      "description": "The Nebraska Huskers are trending after suffering their fourth consecutive loss in a game against Illinois.",
+      "description": "The Nebraska Huskers are trending after dropping their fourth straight game with a 24-13 loss to Illinois.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Huskers",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.4rLQ1nOyZfBue9O0gw4g-QHaE8&pid=15.1",
@@ -588,79 +694,71 @@
       "started_trending": "2026-11-07T04:23:30Z",
       "first_seen": "2026-11-07T04:23:30Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "scoot",
-      "rank": 17,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-07T05:23:33Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-07T06:23:34Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-07T07:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Scoot",
-      "description": "Scoot is trending on social media across a mix of local news, aviation complaints, and a high school football coach nicknamed Scoot.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Scoot",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.PUTXWdHDdvuE13fMBscUlwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T05:23:33Z",
-      "first_seen": "2026-11-07T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jake-laravia",
+      "id": "releasetheodds",
       "rank": 18,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T06:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-07T07:23:35Z",
+          "t": "2026-11-07T08:23:40Z",
           "r": 18
         }
       ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Jake LaRavia",
-      "description": "Jake LaRavia is trending as part of the Los Angeles Lakers' recent lineup discussions and play following their NBA Cup win over the Trail Blazers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jake%20LaRavia",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.tGOk4cEzh4Lw2QiGTia3bAHaLH&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#ReleaseTheOdds",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23ReleaseTheOdds",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.4GklEJQ_cKXqDiu6KxYomQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T06:23:34Z",
-      "first_seen": "2026-11-07T06:23:34Z",
+      "started_trending": "2026-11-07T08:23:40Z",
+      "first_seen": "2026-11-07T08:23:40Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bootle",
+      "rank": 19,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-11-07T07:23:35Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 19
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Bootle",
+      "description": "Bootle is trending following local news coverage, including a tribute to a mother and three children who tragically died in a house fire, as well as a local resident celebrating his 100th birthday.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bootle",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.rnnZMT_ZyRh2Lha5CZq71wHaEv&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T07:23:35Z",
+      "first_seen": "2026-11-07T07:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-07T08:23:40Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -669,14 +767,10 @@
     },
     {
       "id": "chewy",
-      "rank": 19,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "rank": 20,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
-        {
-          "t": "2026-11-07T02:23:33Z",
-          "r": 11
-        },
         {
           "t": "2026-11-07T03:23:33Z",
           "r": 11
@@ -696,12 +790,16 @@
         {
           "t": "2026-11-07T07:23:35Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-07T08:23:40Z",
+          "r": 20
         }
       ],
-      "rank_change": -8,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Chewy",
-      "description": "Chewy is trending following recent stock news, the launch of a 'Do Not Crush' pet medication list, and holiday pet adoption initiatives.",
+      "description": "Chewy is trending after launching a 'Do Not Crush' pet medication list and introducing Chewy Claus letters to unlock free pet adoptions.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Chewy",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.rKrUFqNqGfHEssTXmMxx3gHaGi&pid=15.1",
@@ -710,40 +808,10 @@
       "started_trending": "2026-11-07T01:23:35Z",
       "first_seen": "2026-11-07T01:23:35Z",
       "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bootle",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-07T07:23:35Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bootle",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Bootle",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.rnnZMT_ZyRh2Lha5CZq71wHaEv&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T07:23:35Z",
-      "first_seen": "2026-11-07T07:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-07T07:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-07T08:23:40Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     }
