@@ -1,15 +1,125 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=0.75">
-<title>Trending Topics</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 100 100%27%3E%3Ctext y=%27.9em%27 font-size=%2790%27%3E%F0%9F%94%A5%3C/text%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Trendslope</title>
+<link rel="icon" type="image/gif" href="favicon.gif">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=IBM+Plex+Mono:wght@400;600&family=Oswald:wght@600;700&display=swap" rel="stylesheet">
 <style>
-  :root {
+:root{--bg:#fff;--panel:#F2F7FD;--line:#D9E5F2;--text:#10233F;--dim:#64798E;--blue:#1B63E0;--radius:10px}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif}
+button{font-family:inherit;cursor:pointer}
+/* boogie header */
+.disco{position:relative;overflow:hidden;color:#fff;background:linear-gradient(120deg,#2a0a4a,#6a11cb 35%,#ff2fa0 70%,#ffb347);background-size:300% 300%;animation:shift 12s ease infinite;clip-path:polygon(0 0,100% 0,100% 78%,0 100%);padding-bottom:46px}
+@keyframes shift{50%{background-position:100% 50%}}
+.disco:before{content:"";position:absolute;inset:0;background:radial-gradient(circle,rgba(255,255,255,.35) 1px,transparent 2px) 0 0/26px 26px;animation:twinkle 2.4s linear infinite;opacity:.5}
+@keyframes twinkle{50%{opacity:.15}}
+.hero{position:relative;max-width:1700px;margin:0 auto;padding:18px 24px 10px;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.hero img{width:240px;max-width:44vw;height:auto;border-radius:14px;border:3px solid #00ffd0;box-shadow:0 0 24px #ff2fa0,0 0 8px #00ffd0;transform:rotate(-3deg)}
+h1{font-family:Oswald,sans-serif;font-weight:700;text-transform:uppercase;font-size:clamp(40px,9vw,84px);line-height:.9;margin:0;letter-spacing:.03em;text-shadow:3px 3px 0 #ff2fa0,6px 6px 0 #1B63E0,0 0 28px #fff8}
+.tag{font-family:'IBM Plex Mono',monospace;font-size:13px;letter-spacing:.18em;text-transform:uppercase;margin:10px 0 0;color:#00ffd0}
+.marq{position:relative;white-space:nowrap;overflow:hidden;font-family:Oswald;letter-spacing:.2em;font-size:13px;opacity:.9;padding:4px 0}
+.marq span{display:inline-block;animation:mq 28s linear infinite}
+@keyframes mq{to{transform:translateX(-50%)}}
+main{max-width:1700px;margin:0 auto;padding:0 24px 60px}
+.controls{display:flex;flex-wrap:wrap;gap:10px 16px;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:10;padding:10px 0;background:linear-gradient(var(--bg) 78%,transparent)}
+.tabs{display:flex;flex-wrap:wrap;gap:4px;background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:3px}
+.tab{font-family:Oswald;font-weight:600;letter-spacing:.04em;text-transform:uppercase;font-size:13px;color:var(--dim);background:none;border:0;border-radius:999px;padding:7px 15px}
+.tab.on{background:var(--blue);color:#fff}
+.mono{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--dim)}
+.btn{background:var(--panel);border:1px solid var(--line);color:var(--blue);border-radius:6px;padding:6px 11px;font-family:'IBM Plex Mono',monospace;font-size:12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin-top:8px}
+.tc{position:relative;display:flex;flex-direction:column;background:#fff;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:0 1px 2px rgba(16,35,63,.04);color:inherit;text-decoration:none}
+.tc:hover{border-color:var(--blue)}
+.th{position:relative;aspect-ratio:4/3;background:var(--panel);overflow:hidden;display:flex;align-items:center;justify-content:center}
+.th img{width:100%;height:100%;object-fit:cover}
+.th.logo img{object-fit:contain;padding:18px}
+.th .fb{font-family:Oswald;text-transform:uppercase;letter-spacing:.08em;color:var(--dim);font-size:12px;padding:10px;text-align:center}
+.pill{position:absolute;left:8px;bottom:8px;border-radius:999px;padding:3px 10px;font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:600;color:#fff}
+.when{position:absolute;right:8px;top:8px;background:rgba(255,255,255,.93);border:1px solid var(--line);border-radius:999px;padding:3px 9px;font-family:'IBM Plex Mono',monospace;font-size:11.5px}
+.star{position:absolute;left:8px;top:8px;background:rgba(255,255,255,.93);border:1px solid var(--line);border-radius:999px;width:30px;height:30px;font-size:16px;line-height:1;color:#bbb}
+.star.on{color:#F2A93B}
+.bd{padding:10px 12px 12px}
+.bd b{display:block;font-size:14px;line-height:1.3}
+.bd span{display:block;color:var(--dim);font-size:12.5px;margin-top:4px;font-family:'IBM Plex Mono',monospace;line-height:1.45}
+.s-movies{display:contents; --bg:#FFFFFF; --panel:#F2F7FD; --line:#D9E5F2; --text:#10233F; --text-dim:#64798E; --blue:#1B63E0; --warm:#F2A93B; --radius:10px; ;color:var(--text);font-family:'Inter',system-ui,sans-serif;}
+.s-movies .card{ position:relative; display:flex; flex-direction:column; background:#fff; border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; box-shadow:0 1px 2px rgba(16,35,63,.04); }
+.s-movies .thumb-wrap{ position:relative; aspect-ratio:2/3; background:var(--panel); overflow:hidden; }
+.s-movies .thumb-wrap img{ width:100%; height:100%; object-fit:cover; display:block; }
+.s-movies .thumb-fallback{ width:100%; height:100%; display:flex; align-items:center; justify-content:center; font-family:'Oswald',sans-serif; font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:var(--text-dim); }
+.s-movies .stream-pill{ position:absolute; left:8px; bottom:8px; z-index:2; border-radius:999px; padding:3px 10px; font-family:'IBM Plex Mono',monospace; font-size:12px; font-weight:600; background:#1E9E5A; color:#fff; }
+.s-movies .stream-pill.rent{ background:rgba(255,255,255,.93); color:var(--text-dim); border:1px solid var(--line); }
+.s-movies .rank-pill{ position:absolute; top:8px; right:8px; z-index:2; background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:999px; padding:3px 10px; font-family:'IBM Plex Mono',monospace; font-size:15px; font-weight:500; }
+.s-movies .dates{ font-family:'IBM Plex Mono',monospace; font-size:12.5px; color:var(--text-dim); margin:8px 0 0; line-height:1.55; }
+.s-movies .dates b{ font-weight:600; color:var(--text); }
+.s-movies .watch-label{ font-family:'IBM Plex Mono',monospace; font-size:11.5px; font-weight:600; color:#1E7A4D; margin:10px 0 0; }
+.s-movies .links.watch,.s-movies .links.scores{ margin-top:6px; }
+.s-movies .fav-toggle{ position:absolute; top:8px; left:8px; z-index:3; width:38px; height:38px; display:flex; align-items:center; justify-content:center; background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:999px; cursor:pointer; }
+.s-movies .fav-toggle input{ position:absolute; inset:0; opacity:0; margin:0; cursor:pointer; }
+.s-movies .fav-star{ font-size:20px; line-height:1; color:var(--text-dim); pointer-events:none; transition:color .15s ease, transform .15s ease; }
+.s-movies .fav-toggle input:checked ~ .fav-star{ color:var(--warm); transform:scale(1.1); }
+.s-movies .fav-toggle input:focus-visible ~ .fav-star{ outline:2px solid var(--blue); border-radius:4px; }
+.s-movies .body{ padding:12px 14px 13px; display:flex; flex-direction:column; flex:1; }
+.s-movies .title{ font-size:15.5px; line-height:1.3; font-weight:600; margin:0 0 6px; }
+.s-movies .desc{ font-size:12px; line-height:1.4; color:#3B5169; margin:0 0 10px; overflow-wrap:anywhere; }
+.s-movies .desc.none{ font-style:italic; opacity:.8; }
+.s-movies .desc.clamp{ display:-webkit-box; -webkit-line-clamp:5; -webkit-box-orient:vertical; overflow:hidden; margin-bottom:4px; }
+.s-movies .more{ align-self:flex-start; position:relative; z-index:2; background:none; border:none; padding:0; margin:0 0 8px; color:var(--blue); font-family:'IBM Plex Mono',monospace; font-size:11.5px; }
+.s-movies .more:hover{ text-decoration:underline; }
+.s-movies .more[hidden]{ display:none; }
+.s-movies .chips{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:6px; width:100%; margin:auto 0 0; }
+.s-movies .chip{ background:var(--panel); border:1px solid var(--line); border-radius:7px; padding:8px 2px; min-width:0; width:100%; text-align:center; font-family:'IBM Plex Mono',monospace; font-size:15px; font-weight:600; }
+.s-movies .chip small{ display:block; font-size:11px; font-weight:500; color:var(--text-dim); letter-spacing:.06em; text-transform:uppercase; margin-bottom:2px; }
+.s-movies .meta{ display:flex; justify-content:space-between; align-items:center; gap:8px; font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--text-dim); }
+.s-movies .links{ display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:6px; width:100%; margin-top:10px; }
+.s-movies .links a{ display:flex; align-items:center; justify-content:center; gap:6px; min-width:0; height:46px; background:var(--panel); border:1px solid var(--line); border-radius:8px; color:var(--blue); text-decoration:none; font-family:'IBM Plex Mono',monospace; font-size:15px; font-weight:600; transition:border-color .15s ease, background .15s ease; }
+.s-movies .links a:hover{ border-color:var(--blue); background:#fff; }
+.s-movies .links a:focus-visible{ outline:2px solid var(--blue); outline-offset:2px; }
+.s-movies .links img{ width:28px; height:28px; display:block; flex:none; }
+.s-movies .links img.logo{ width:auto; height:auto; max-width:calc(100% - 24px); max-height:32px; object-fit:contain; border-radius:4px; }
+.s-movies .links .arrow{ font-size:17px; line-height:1; }
+@media (prefers-reduced-motion:reduce){.s-movies .fav-star,.s-movies .links a{ transition:none; }}
+.s-music{display:contents; --hot:#E4572E; --bg:#FFFFFF; --panel:#F2F7FD; --line:#D9E5F2; --text:#10233F; --text-dim:#64798E; --blue:#1B63E0; --warm:#F2A93B; --radius:10px; ;color:var(--text);font-family:'Inter',system-ui,sans-serif;}
+.s-music .tr{ font-size:11px; font-weight:600; margin-left:5px; }
+.s-music .tr.up{ color:#1f9d55; }
+.s-music .tr.down{ color:#d64545; }
+.s-music .tr.new{ color:var(--blue); }
+.s-music .tr.same{ color:var(--text-dim); }
+.s-music .thumb-wrap.youtube{ aspect-ratio:16/9; }
+.s-music .artist{ font-size:12.5px; color:var(--text-dim); margin:-2px 0 6px; overflow-wrap:anywhere; }
+.s-music .links{ display:flex; flex-wrap:wrap; gap:5px; margin-top:auto; }
+.s-music .lk{ flex:1 1 auto; text-align:center; padding:7px 8px; background:var(--panel); border:1px solid var(--line); border-radius:8px; color:var(--blue); text-decoration:none; font-family:'IBM Plex Mono',monospace; font-size:11.5px; font-weight:600; white-space:nowrap; }
+.s-music .lk:hover{ border-color:var(--blue); background:#fff; }
+.s-music .lk.s{ color:var(--text-dim); font-weight:500; }
+.s-music .chips{ display:flex; flex-wrap:wrap; gap:4px; margin-top:8px; }
+.s-music .chip{ font-family:'IBM Plex Mono',monospace; font-size:10.5px; padding:2px 7px; border:1px solid var(--line); border-radius:999px; color:var(--text-dim); background:var(--panel); }
+.s-music .card{ position:relative; display:flex; flex-direction:column; background:#fff; border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; box-shadow:0 1px 2px rgba(16,35,63,.04); }
+.s-music .thumb-wrap{ position:relative; aspect-ratio:1/1; background:var(--panel); overflow:hidden; }
+.s-music .thumb-wrap.steam{ aspect-ratio:460/215; }
+.s-music .thumb-wrap img{ width:100%; height:100%; object-fit:cover; display:block; }
+.s-music .thumb-fallback{ width:100%; height:100%; display:flex; align-items:center; justify-content:center; font-family:'Oswald',sans-serif; font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:var(--text-dim); }
+.s-music .rank-pill{ position:absolute; top:8px; right:8px; z-index:2; background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:999px; padding:3px 10px; font-family:'IBM Plex Mono',monospace; font-size:15px; font-weight:500; }
+.s-music .fav-toggle{ position:absolute; top:8px; left:8px; z-index:3; width:38px; height:38px; display:flex; align-items:center; justify-content:center; background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:999px; cursor:pointer; }
+.s-music .fav-toggle input{ position:absolute; inset:0; opacity:0; margin:0; cursor:pointer; }
+.s-music .fav-star{ font-size:20px; line-height:1; color:var(--text-dim); pointer-events:none; transition:color .15s ease, transform .15s ease; }
+.s-music .fav-toggle input:checked ~ .fav-star{ color:var(--warm); transform:scale(1.1); }
+.s-music .fav-toggle input:focus-visible ~ .fav-star{ outline:2px solid var(--blue); border-radius:4px; }
+.s-music .body{ padding:12px 14px 13px; display:flex; flex-direction:column; flex:1; }
+.s-music .title{ font-size:15.5px; line-height:1.3; font-weight:600; margin:0 0 6px; overflow-wrap:anywhere; }
+.s-music .title a{ color:inherit; text-decoration:none; }
+.s-music .title a:hover{ color:var(--blue); text-decoration:underline; }
+.s-music .desc{ font-size:12px; line-height:1.4; color:#3B5169; margin:0 0 10px; overflow-wrap:anywhere; }
+.s-music .desc.clamp{ display:-webkit-box; -webkit-line-clamp:5; -webkit-box-orient:vertical; overflow:hidden; margin-bottom:4px; }
+.s-music .more{ align-self:flex-start; background:none; border:none; padding:0; margin:0 0 8px; color:var(--blue); font-family:'IBM Plex Mono',monospace; font-size:11.5px; }
+.s-music .more:hover{ text-decoration:underline; }
+.s-music .more[hidden]{ display:none; }
+.s-music .open-link{ display:flex; align-items:center; justify-content:center; gap:6px; height:40px; margin-top:auto; background:var(--panel); border:1px solid var(--line); border-radius:8px; color:var(--blue); text-decoration:none; font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600; transition:border-color .15s ease, background .15s ease; }
+.s-music .open-link:hover{ border-color:var(--blue); background:#fff; }
+.s-music .meta{ display:flex; justify-content:space-between; align-items:center; gap:8px; margin-top:10px; padding-top:10px; border-top:1px solid var(--line); font-family:'IBM Plex Mono',monospace; font-size:12.5px; color:var(--text-dim); }
+.s-music .meta b{ color:var(--text); font-weight:600; }
+.s-music .thumb-wrap > a.thumb-link{ display:block; width:100%; height:100%; }
+@media (prefers-reduced-motion:reduce){.s-music .fav-star,.s-music .open-link{ transition:none; }}
+.s-trends{display:contents;
     --bg:        #FFFFFF;
     --panel:     #F2F7FD;
     --line:      #D9E5F2;
@@ -20,667 +130,793 @@
     --up:        #1E9E5A;
     --down:      #E4572E;
     --radius:    10px;
-  }
-
-  * { box-sizing: border-box; }
-
-  html, body {
-    margin: 0;
-    padding: 0;
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'Inter', system-ui, sans-serif;
-    -webkit-font-smoothing: antialiased;
-  }
-
-  body {
-    min-height: 100vh;
-    background-image:
-      radial-gradient(circle at 12% 0%, rgba(27,99,224,0.07), transparent 45%),
-      radial-gradient(circle at 88% 6%, rgba(27,99,224,0.05), transparent 40%);
-  }
-
-  header { padding: 22px 24px 4px; max-width: 1700px; margin: 0 auto; }
-
-  .eyebrow-row {
-    display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
-    gap: 12px; margin-bottom: 6px;
-  }
-  .eyebrow {
-    font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.14em;
-    text-transform: uppercase; color: var(--blue); margin: 0;
-  }
-  .updated-row {
-    display: flex; align-items: center; gap: 10px;
-    font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--text-dim);
-  }
-  .refresh-btn {
-    background: var(--panel); border: 1px solid var(--line); color: var(--blue);
-    border-radius: 6px; padding: 5px 10px; font-family: inherit; font-size: 11.5px; cursor: pointer;
-    transition: border-color 0.15s ease, background 0.15s ease;
-  }
-  .refresh-btn:hover { border-color: var(--blue); background: #E9F1FD; }
-  .refresh-btn:disabled { opacity: 0.5; cursor: default; }
-
-  h1 {
-    font-family: 'Oswald', sans-serif; font-weight: 700; text-transform: uppercase;
-    letter-spacing: 0.02em; font-size: clamp(26px, 4vw, 38px); line-height: 1; margin: 0 0 6px;
-  }
-  .sub { color: var(--text-dim); font-size: 13px; margin: 0; }
-
-  main { max-width: 1700px; margin: 0 auto; padding: 0 24px 60px; }
-
-  .controls {
-    display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
-    gap: 10px 16px; margin: 4px 0 14px; position: sticky; top: 0; padding: 10px 0;
-    background: linear-gradient(var(--bg) 78%, transparent); z-index: 10;
-  }
-
-  .tabs {
-    display: flex; flex-wrap: wrap; gap: 4px; background: var(--panel);
-    border: 1px solid var(--line); border-radius: 999px; padding: 3px;
-  }
-  .tab-btn {
-    font-family: 'Oswald', sans-serif; font-weight: 600; letter-spacing: 0.04em;
-    text-transform: uppercase; font-size: 12.5px; color: var(--text-dim); background: transparent;
-    border: none; border-radius: 999px; padding: 7px 14px; cursor: pointer;
-    transition: background 0.15s ease, color 0.15s ease;
-  }
-  .tab-btn:hover { color: var(--text); }
-  .tab-btn.active { background: var(--blue); color: #FFFFFF; }
-  .tab-btn .n { font-family: 'IBM Plex Mono', monospace; font-weight: 400; font-size: 11px; opacity: 0.75; margin-left: 4px; }
-  .tabs.sources .tab-btn { font-size: 14px; padding: 8px 18px; }
-
-  .sort, .layout {
-    display: flex; align-items: center; gap: 8px;
-    font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--text-dim);
-  }
-  .sort-btn, .layout-btn {
-    background: var(--panel); border: 1px solid var(--line); color: var(--text-dim);
-    border-radius: 6px; padding: 6px 11px; font-family: inherit; font-size: 12px; cursor: pointer;
-    transition: border-color 0.15s ease, color 0.15s ease;
-  }
-  .sort-btn.active, .layout-btn.active { border-color: var(--blue); color: var(--blue); }
-
-  .count { font-family: 'IBM Plex Mono', monospace; color: var(--text-dim); font-size: 12px; margin: 0 0 12px; }
-
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 14px; }
-
-  .card {
+  ;color: var(--text);font-family: 'Inter', system-ui, sans-serif;}
+.s-trends .card{
     position: relative; display: flex; flex-direction: column; background: #FFFFFF; border: 1px solid var(--line);
     border-radius: var(--radius); overflow: hidden; color: inherit;
     box-shadow: 0 1px 2px rgba(16,35,63,0.04);
     transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
   }
-  .card:hover { border-color: var(--blue); transform: translateY(-2px); box-shadow: 0 8px 20px rgba(27,99,224,0.12); }
-
-  /* The topic title is the link; its ::after stretches the click area over the whole card/row */
-  a.stretch { color: inherit; text-decoration: none; }
-  a.stretch::after { content: ""; position: absolute; inset: 0; z-index: 1; }
-  a.stretch:focus-visible { outline: none; }
-  a.stretch:focus-visible::after { outline: 3px solid var(--blue); outline-offset: -3px; border-radius: inherit; }
-
-  .thumb-wrap { position: relative; aspect-ratio: 16 / 9; background: var(--panel); overflow: hidden; }
-  .thumb-wrap img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
-  .thumb-fallback {
+.s-trends .card:hover{ border-color: var(--blue); transform: translateY(-2px); box-shadow: 0 8px 20px rgba(27,99,224,0.12); }
+.s-trends .thumb-wrap{ position: relative; aspect-ratio: 16 / 9; background: var(--panel); overflow: hidden; }
+.s-trends .thumb-wrap img{ width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+.s-trends .thumb-fallback{
     width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;
     font-family: 'Oswald', sans-serif; font-size: 12px; letter-spacing: 0.08em;
     text-transform: uppercase; color: var(--text-dim);
   }
-
-  .rank-pill {
+.s-trends .rank-pill{
     position: absolute; top: 8px; right: 8px; z-index: 2; display: flex; align-items: center; gap: 7px;
     background: rgba(255,255,255,0.93); backdrop-filter: blur(2px); border: 1px solid var(--line);
     border-radius: 999px; padding: 3px 10px; font-family: 'IBM Plex Mono', monospace;
     font-size: 15px; font-weight: 500; color: var(--text);
   }
-  .rank-pill.saved { font-size: 11px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.06em; }
-
-  .chg { font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; font-weight: 500; white-space: nowrap; }
-  .chg.up { color: var(--up); }
-  .chg.down { color: var(--down); }
-  .chg.same { color: var(--text-dim); }
-  .chg.new { color: #FFFFFF; background: var(--blue); border-radius: 4px; padding: 1px 5px; font-size: 10px; letter-spacing: 0.06em; }
-
-  .body { padding: 12px 14px 13px; display: flex; flex-direction: column; flex: 1; }
-  .title {
+.s-trends .rank-pill.saved{ font-size: 11px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.06em; }
+.s-trends .chg{ font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; font-weight: 500; white-space: nowrap; }
+.s-trends .chg.up{ color: var(--up); }
+.s-trends .chg.down{ color: var(--down); }
+.s-trends .chg.same{ color: var(--text-dim); }
+.s-trends .chg.new{ color: #FFFFFF; background: var(--blue); border-radius: 4px; padding: 1px 5px; font-size: 10px; letter-spacing: 0.06em; }
+.s-trends .body{ padding: 12px 14px 13px; display: flex; flex-direction: column; flex: 1; }
+.s-trends .title{
     font-size: 15.5px; line-height: 1.3; font-weight: 600; margin: 0 0 6px; color: var(--text);
     display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
   }
-  /* Full description, never cut off */
-  .desc { font-size: 14px; line-height: 1.5; color: #3B5169; margin: 0 0 10px; overflow-wrap: anywhere; }
-  .desc.none { font-style: italic; opacity: 0.8; }
-  .meta-block { margin-top: auto; padding-top: 6px; display: flex; flex-direction: column; gap: 3px; }
-  .meta {
+.s-trends .desc{ font-size: 14px; line-height: 1.5; color: #3B5169; margin: 0 0 10px; overflow-wrap: anywhere; }
+.s-trends .desc.none{ font-style: italic; opacity: 0.8; }
+.s-trends .meta-block{ margin-top: auto; padding-top: 6px; display: flex; flex-direction: column; gap: 3px; }
+.s-trends .meta{
     display: flex; justify-content: space-between; align-items: center; gap: 8px;
     font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: var(--text-dim);
   }
-  .meta .go { color: var(--blue); }
-  .meta .when, .meta .vol { white-space: nowrap; }
-  .srctag { text-transform: uppercase; letter-spacing: 0.06em; font-size: 10px; }
-  .archived-tag { font-style: italic; }
-
-  .empty {
-    text-align: center; padding: 70px 20px; color: var(--text-dim);
-    font-family: 'IBM Plex Mono', monospace; font-size: 13px; grid-column: 1 / -1;
-  }
-
-  /* Favorite toggle (checkbox) on each card */
-  .fav-toggle {
+.s-trends .meta .go{ color: var(--blue); }
+.s-trends .meta .when,.s-trends .meta .vol{ white-space: nowrap; }
+.s-trends .srctag{ text-transform: uppercase; letter-spacing: 0.06em; font-size: 10px; }
+.s-trends .archived-tag{ font-style: italic; }
+.s-trends .fav-toggle{
     position: absolute; top: 8px; left: 8px; z-index: 3; display: flex; align-items: center;
     justify-content: center; width: 38px; height: 38px; background: rgba(255,255,255,0.93);
     backdrop-filter: blur(2px); border: 1px solid var(--line); border-radius: 999px; cursor: pointer;
   }
-  .fav-toggle input, .row-fav-toggle input { position: absolute; inset: 0; opacity: 0; margin: 0; cursor: pointer; }
-  .fav-toggle .fav-star {
+.s-trends .fav-toggle input{ position: absolute; inset: 0; opacity: 0; margin: 0; cursor: pointer; }
+.s-trends .fav-toggle .fav-star{
     font-size: 20px; line-height: 1; color: var(--text-dim);
     transition: color 0.15s ease, transform 0.15s ease; pointer-events: none;
   }
-  .fav-toggle input:checked ~ .fav-star, .row-fav-toggle input:checked ~ .fav-star { color: var(--warm); transform: scale(1.1); }
-  .fav-toggle input:focus-visible ~ .fav-star, .row-fav-toggle input:focus-visible ~ .fav-star { outline: 2px solid var(--blue); border-radius: 4px; }
+.s-trends .fav-toggle input:checked ~ .fav-star{ color: var(--warm); transform: scale(1.1); }
+.s-trends .fav-toggle input:focus-visible ~ .fav-star{ outline: 2px solid var(--blue); border-radius: 4px; }
+@media (prefers-reduced-motion: reduce){.s-trends .card{ transition: none; }}
+.s-software{display:contents; --hot:#E4572E; --bg:#FFFFFF; --panel:#F2F7FD; --line:#D9E5F2; --text:#10233F; --text-dim:#64798E; --blue:#1B63E0; --warm:#F2A93B; --radius:10px; ;color:var(--text);font-family:'Inter',system-ui,sans-serif;}
+.s-software .card{ position:relative; display:flex; flex-direction:column; background:#fff; border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; box-shadow:0 1px 2px rgba(16,35,63,.04); }
+.s-software .thumb-wrap{ position:relative; aspect-ratio:1/1; background:var(--panel); overflow:hidden; }
+.s-software .thumb-wrap.steam{ aspect-ratio:460/215; }
+.s-software .thumb-wrap img{ width:100%; height:100%; object-fit:cover; display:block; }
+.s-software .thumb-fallback{ width:100%; height:100%; display:flex; align-items:center; justify-content:center; font-family:'Oswald',sans-serif; font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:var(--text-dim); }
+.s-software .rank-pill{ position:absolute; top:8px; right:8px; z-index:2; background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:999px; padding:3px 10px; font-family:'IBM Plex Mono',monospace; font-size:15px; font-weight:500; }
+.s-software .fav-toggle{ position:absolute; top:8px; left:8px; z-index:3; width:38px; height:38px; display:flex; align-items:center; justify-content:center; background:rgba(255,255,255,.93); border:1px solid var(--line); border-radius:999px; cursor:pointer; }
+.s-software .fav-toggle input{ position:absolute; inset:0; opacity:0; margin:0; cursor:pointer; }
+.s-software .fav-star{ font-size:20px; line-height:1; color:var(--text-dim); pointer-events:none; transition:color .15s ease, transform .15s ease; }
+.s-software .fav-toggle input:checked ~ .fav-star{ color:var(--warm); transform:scale(1.1); }
+.s-software .fav-toggle input:focus-visible ~ .fav-star{ outline:2px solid var(--blue); border-radius:4px; }
+.s-software .body{ padding:12px 14px 13px; display:flex; flex-direction:column; flex:1; }
+.s-software .title{ font-size:15.5px; line-height:1.3; font-weight:600; margin:0 0 6px; overflow-wrap:anywhere; }
+.s-software .title a{ color:inherit; text-decoration:none; }
+.s-software .title a:hover{ color:var(--blue); text-decoration:underline; }
+.s-software .desc{ font-size:12px; line-height:1.4; color:#3B5169; margin:0 0 10px; overflow-wrap:anywhere; }
+.s-software .desc.clamp{ display:-webkit-box; -webkit-line-clamp:5; -webkit-box-orient:vertical; overflow:hidden; margin-bottom:4px; }
+.s-software .more{ align-self:flex-start; background:none; border:none; padding:0; margin:0 0 8px; color:var(--blue); font-family:'IBM Plex Mono',monospace; font-size:11.5px; }
+.s-software .more:hover{ text-decoration:underline; }
+.s-software .more[hidden]{ display:none; }
+.s-software .open-link{ display:flex; align-items:center; justify-content:center; gap:6px; height:40px; margin-top:auto; background:var(--panel); border:1px solid var(--line); border-radius:8px; color:var(--blue); text-decoration:none; font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600; transition:border-color .15s ease, background .15s ease; }
+.s-software .open-link:hover{ border-color:var(--blue); background:#fff; }
+.s-software .meta{ display:flex; justify-content:space-between; align-items:center; gap:8px; margin-top:10px; padding-top:10px; border-top:1px solid var(--line); font-family:'IBM Plex Mono',monospace; font-size:12.5px; color:var(--text-dim); }
+.s-software .meta b{ color:var(--text); font-weight:600; }
+.s-software .thumb-wrap > a.thumb-link{ display:block; width:100%; height:100%; }
+@media (prefers-reduced-motion:reduce){.s-software .fav-star,.s-software .open-link{ transition:none; }}
 
-  /* Favorites box - first item in the grid, so favorites sit at the top */
-  .fav-box {
-    background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius);
-    padding: 10px 12px 12px; display: flex; flex-direction: column; gap: 8px; grid-column: 1 / -1;
+.grid{align-items:start}
+.s-deals{display:contents;
+    --bg:        #FFFFFF;
+    --panel:     #F2F7FD;
+    --line:      #D9E5F2;
+    --text:      #10233F;
+    --text-dim:  #64798E;
+    --blue:      #1B63E0;
+    --blue-deep: #0C3F94;
+    --cool:      #2FA8B8;
+    --warm:      #F2A93B;
+    --hot:       #E4572E;
+    --radius:    10px;
+  ;color: var(--text);font-family: 'Inter', system-ui, sans-serif;}
+.s-deals .card{
+    display: block;
+    background: #FFFFFF;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 1px 2px rgba(16,35,63,0.04);
+    transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
   }
-  .fav-box-header { display: flex; align-items: center; justify-content: space-between; }
-  .fav-box-title {
-    font-family: 'Oswald', sans-serif; font-weight: 600; letter-spacing: 0.04em;
-    text-transform: uppercase; font-size: 13px; color: var(--text);
+.s-deals .card:hover{
+    border-color: var(--blue);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(27,99,224,0.12);
   }
-  .fav-box-count { font-family: 'IBM Plex Mono', monospace; font-weight: 400; color: var(--text-dim); margin-left: 4px; }
-  .clear-btn {
-    background: #FFFFFF; border: 1px solid var(--line); color: var(--down); border-radius: 6px;
-    padding: 5px 11px; font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; cursor: pointer;
-    transition: border-color 0.15s ease, background 0.15s ease;
+.s-deals .thumb-wrap{
+    position: relative;
+    aspect-ratio: 16 / 10;
+    background: var(--panel);
+    overflow: hidden;
   }
-  .clear-btn:hover { border-color: var(--down); background: #FDEEE9; }
-  .fav-box-items { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 14px; }
-
-  /* ---------- Rows layout ---------- */
-  .rows-wrap { overflow-x: auto; grid-column: 1 / -1; }
-  .rows-table { display: flex; flex-direction: column; gap: 5px; min-width: 900px; }
-  .rows-header-row, .row-item {
-    display: grid;
-    grid-template-columns: 44px 58px 56px minmax(150px, 1.1fr) minmax(260px, 2.6fr) 100px 120px 100px;
-    gap: 12px; align-items: center;
+.s-deals .thumb-wrap img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
   }
-  .rows-header-row {
-    padding: 4px 12px; font-family: 'IBM Plex Mono', monospace; font-size: 10.5px;
-    letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-dim);
+.s-deals .thumb-fallback{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-dim);
   }
-  .row-item {
-    position: relative; background: #FFFFFF; border: 1px solid var(--line); border-radius: 8px;
-    padding: 6px 12px; color: inherit;
-    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+.s-deals .rating-pill{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(2px);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 6px 16px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 24px;
+    font-weight: 500;
+    color: var(--text);
   }
-  .row-item:hover { border-color: var(--blue); box-shadow: 0 4px 12px rgba(27,99,224,0.10); }
-  .row-thumb-wrap { width: 44px; height: 44px; border-radius: 6px; overflow: hidden; background: var(--panel); }
-  .row-thumb-wrap img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
-  .row-thumb-fallback {
-    width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;
-    font-size: 8px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--text-dim); text-align: center;
+.s-deals .expired-badge{
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(16, 35, 63, 0.45);
+    z-index: 2;
   }
-  .row-fav-toggle {
-    position: absolute; left: -6px; top: -6px; z-index: 3; width: 22px; height: 22px; display: flex;
-    align-items: center; justify-content: center; cursor: pointer; background: #FFFFFF;
-    border: 1px solid var(--line); border-radius: 999px;
+.s-deals .expired-badge span{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: var(--hot);
+    padding: 6px 18px;
+    border-radius: 6px;
+    transform: rotate(-8deg);
+    box-shadow: 0 4px 14px rgba(228, 87, 46, 0.5);
   }
-  .row-fav-toggle .fav-star { font-size: 14px; line-height: 1; color: var(--line); pointer-events: none; transition: color 0.15s ease, transform 0.15s ease; }
-  .row-rank { font-family: 'IBM Plex Mono', monospace; font-size: 14px; font-weight: 500; }
-  .row-title { font-size: 14px; font-weight: 600; line-height: 1.3; overflow-wrap: anywhere; }
-  .row-desc { font-size: 13px; line-height: 1.45; color: #3B5169; overflow-wrap: anywhere; }
-  .row-date, .row-vol { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--text-dim); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .row-src { font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; color: var(--blue); text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap; }
-  .rows-fav-section { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 12px 12px; margin-bottom: 12px; grid-column: 1 / -1; }
-
-  .sentinel { text-align: center; color: var(--text-dim); font-size: 12px; padding: 18px 0 30px; }
-  .foot { margin-top: 28px; padding-top: 14px; border-top: 1px solid var(--line); font-size: 12px; line-height: 1.5; color: var(--text-dim); }
-
-  @media (max-width: 700px) {
-    header, main { padding-left: 14px; padding-right: 14px; }
-    .grid, .fav-box-items { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+.s-deals .card.is-expired .thumb-wrap img{
+    filter: grayscale(60%);
+    opacity: 0.6;
   }
-  @media (prefers-reduced-motion: reduce) { .card { transition: none; } }
-</style>
-</head>
-
-<body>
-
-<header>
-  <div class="eyebrow-row">
-    <p class="eyebrow">Trending Topics · Social Media · Google · Reddit</p>
-    <div class="updated-row">
-      <span id="lastUpdated">Last updated: —</span>
-      <button class="refresh-btn" id="refreshBtn" type="button">Refresh</button>
-    </div>
-  </div>
-  <h1>Trending Topics</h1>
-  <p class="sub" id="sub">
-    Social Media, Google, Reddit trends come from a mix of Apify API and RSS feeds.
-    Every topic&rsquo;s rank is compared with its rank 4 hours ago, so you can see who is really moving.
-    Star a topic to pin it to the top, click a topic to open its Google search, Reddit thread or social media search,
-    filter by time period, and sort by rank or date. Descriptions are written by an AI model from recent posts and
-    news headlines and can be wrong or incomplete.
-  </p>
-</header>
-
-<main>
-  <div class="controls">
-    <div class="tabs sources" id="sources"></div>
-    <div class="tabs" id="tabs">
-      <button class="tab-btn" data-hours="1">1 Hour</button>
-      <button class="tab-btn" data-hours="2">2 Hours</button>
-      <button class="tab-btn" data-hours="6">6 Hours</button>
-      <button class="tab-btn" data-hours="12">12 Hours</button>
-      <button class="tab-btn" data-hours="24">24 Hours</button>
-      <button class="tab-btn" data-hours="0">All</button>
-    </div>
-    <div class="layout" id="layout">
-      <span>Layout</span>
-      <button class="layout-btn" data-layout="tile">Tiles</button>
-      <button class="layout-btn" data-layout="rows">Rows</button>
-    </div>
-    <div class="sort">
-      <span>Sort</span>
-      <button class="sort-btn" data-sort="rank">Ranking</button>
-      <button class="sort-btn" data-sort="date">Newest</button>
-    </div>
-  </div>
-
-  <p class="count" id="count"></p>
-  <div class="grid" id="grid"></div>
-  <div id="sentinel" class="sentinel"></div>
-
-</main>
-
-<script>
-const SOURCES = [
-  { key: 'social_media', label: 'Social Media', file: 'social_media_trends.json', openLabel: 'Search posts ↗', sourceNote: 'Apify API' },
-  { key: 'google',       label: 'Google',       file: 'google_trends.json',       openLabel: 'Search Google ↗', sourceNote: 'Google Trends RSS feed' },
-  { key: 'reddit',       label: 'Reddit',       file: 'reddit_trends.json',       openLabel: 'Open on Reddit ↗', sourceNote: 'Reddit RSS feed' },
-];
-const SOURCE_BY_KEY = Object.fromEntries(SOURCES.map(s => [s.key, s]));
-
-function loadPref(key, fallback) {
-  try { const v = localStorage.getItem(key); return v === null ? fallback : v; } catch { return fallback; }
-}
-function savePref(key, value) {
-  try { localStorage.setItem(key, String(value)); } catch { /* storage unavailable */ }
-}
-
-const docs = {};            // source key -> parsed JSON (or null if it couldn't be loaded)
-let allItems = [];          // every item from every source, normalized
-let activeSource = SOURCE_BY_KEY[loadPref('trending_source', 'social_media')] ? loadPref('trending_source', 'social_media') : 'social_media';
-const HOUR_OPTIONS = [0, 1, 2, 6, 12, 24];
-let activeHours = (() => { const h = parseInt(loadPref('trending_hours', '0'), 10); return HOUR_OPTIONS.includes(h) ? h : 0; })();
-let activeSort = loadPref('trending_sort', 'rank') === 'date' ? 'date' : 'rank';
-let activeLayout = loadPref('trending_layout', 'tile') === 'rows' ? 'rows' : 'tile';
-
-/* ---------- helpers ---------- */
-const ESC = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
-function esc(s) { return String(s ?? '').replace(/[&<>"']/g, c => ESC[c]); }
-function safeUrl(u) {
-  try { const x = new URL(u); return (x.protocol === 'https:' || x.protocol === 'http:') ? x.href : ''; }
-  catch { return ''; }
-}
-function relativeTime(iso) {
-  const then = new Date(iso).getTime();
-  if (!Number.isFinite(then)) return '—';
-  const diffMin = Math.max(0, Math.round((Date.now() - then) / 60000));
-  if (diffMin < 1) return 'just now';
-  if (diffMin < 60) return `${diffMin}m ago`;
-  const diffHr = Math.floor(diffMin / 60);
-  if (diffHr < 24) return `${diffHr}h ${diffMin % 60}m ago`;
-  const diffDay = Math.floor(diffHr / 24);
-  return `${diffDay}d ${diffHr % 24}h ago`;
-}
-
-/* ---------- favorites (stored in this browser) ---------- */
-const FAVORITES_KEY = 'trending_favorites';
-function loadFavorites() {
-  try {
-    const raw = JSON.parse(localStorage.getItem(FAVORITES_KEY) || 'null');
-    const map = new Map();
-    if (raw && typeof raw === 'object') Object.values(raw).forEach(it => { if (it && it.uid) map.set(it.uid, it); });
-    return map;
-  } catch { return new Map(); }
-}
-let favorites = loadFavorites();
-function saveFavorites() {
-  const obj = {};
-  favorites.forEach((it, uid) => { obj[uid] = it; });
-  try { localStorage.setItem(FAVORITES_KEY, JSON.stringify(obj)); } catch { /* ignore */ }
-}
-function toggleFavorite(uid, isChecked) {
-  if (isChecked) {
-    const item = allItems.find(i => i.uid === uid);
-    if (item) favorites.set(uid, item);
-  } else {
-    favorites.delete(uid);
+.s-deals .body{ padding: 14px 16px 16px; }
+.s-deals .heat-row{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
   }
-  saveFavorites();
-  render();
-}
-function clearFavorites() { favorites.clear(); saveFavorites(); render(); }
-
-// Live data while the topic is still in a feed; the last saved snapshot once it drops off.
-function getFavorites() {
-  const result = [];
-  let changed = false;
-  favorites.forEach((stored, uid) => {
-    const live = allItems.find(i => i.uid === uid);
-    if (live) {
-      if (JSON.stringify(live) !== JSON.stringify(stored)) { favorites.set(uid, live); changed = true; }
-      result.push({ item: live, archived: false });
-    } else {
-      result.push({ item: stored, archived: true });
+.s-deals .heat-meter{
+    flex: 1;
+    height: 10px;
+    border-radius: 5px;
+    background: var(--line);
+    overflow: hidden;
+  }
+.s-deals .heat-count{
+    flex-shrink: 0;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--text-dim);
+    white-space: nowrap;
+  }
+.s-deals .heat-fill{
+    height: 100%;
+    border-radius: 5px;
+  }
+.s-deals .heat-fill.hot{ box-shadow: 0 0 8px var(--hot); animation: pulse 1.8s ease-in-out infinite; }
+@keyframes pulse{
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.6; }
+  }
+.s-deals .title{
+    font-size: 14.5px;
+    line-height: 1.35;
+    font-weight: 500;
+    margin: 0 0 10px;
+    color: var(--text);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+.s-deals .meta{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px;
+    color: var(--text-dim);
+  }
+.s-deals .meta .go{
+    color: var(--blue);
+  }
+.s-deals .archived-tag{
+    color: var(--text-dim);
+    font-style: italic;
+  }
+.s-deals .fav-toggle{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(2px);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    cursor: pointer;
+  }
+.s-deals .fav-toggle input{
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    margin: 0;
+    cursor: pointer;
+  }
+.s-deals .fav-toggle .fav-star{
+    font-size: 23px;
+    line-height: 1;
+    color: var(--text-dim);
+    transition: color 0.15s ease, transform 0.15s ease;
+    pointer-events: none;
+  }
+.s-deals .fav-toggle input:checked ~ .fav-star{
+    color: var(--warm);
+    transform: scale(1.1);
+  }
+@media (prefers-reduced-motion: reduce){.s-deals .heat-fill.hot{ animation: none; }
+.s-deals .card{ transition: none; }}
+.s-sports{display:contents;
+    --bg: #0a0d10;
+    --bg-panel: #12161b;
+    --line: #232a31;
+    --turf: #2f8f5b;
+    --turf-bright: #43c179;
+    --chalk: #e8ecef;
+    --dim: #8a95a1;
+    --gold: #e0a63c;
+    --dk-green: #53d337;
+    --fd-blue: #1493ff;
+    --loss-red: #e2584a;
+    --pick-yellow: #ffd60a;
+    --bg-panel2: #161b20;
+    --bg-panel3: #14101c;
+    --pill-bg: #000;
+    --card-hover-border: #39424b;
+    --empty-cell: #3d454d;
+    --strong-text: #ffffff;
+    --bg-top-glow: #131a1f;
+    --grid-line-color: rgba(255,255,255,0.015);
+    --nav-shadow: rgba(0,0,0,0.6);
+    --gold-rgb: 224,166,60;
+    --pick-yellow-rgb: 255,214,10;
+    --purple: #a78bfa;
+    --purple-rgb: 167,139,250;
+    --purple-deep: #8b5cf6;
+    --purple-deep-rgb: 139,92,246;
+    --purple-soft: #c4b5fd;
+    --toggle-bg: var(--bg-panel);
+    --toggle-border: var(--line);
+    --toggle-text: var(--dim);
+    --on-solid: #000;
+  ;color:var(--chalk);font-family:var(--font-body);}
+.s-sports .card{
+    background:var(--bg-panel);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:1.1rem 1.2rem 1.2rem;
+    position:relative;
+    transition:border-color .15s ease, transform .15s ease;
+  }
+.s-sports .card:hover{border-color:var(--card-hover-border); transform:translateY(-1px);}
+.s-sports .card.marquee{border-color:rgba(var(--gold-rgb),0.55); box-shadow:0 0 0 1px rgba(var(--gold-rgb),0.12), 0 8px 24px -12px rgba(var(--gold-rgb),0.25);}
+.s-sports .card.slot-pick{
+    border:2px solid var(--pick-yellow);
+    box-shadow:0 0 0 1px rgba(var(--pick-yellow-rgb),0.25), 0 10px 26px -12px rgba(var(--pick-yellow-rgb),0.4);
+    padding-top:2.4rem;
+  }
+.s-sports .pick-banner{
+    position:absolute; top:0; left:0; right:0;
+    background:var(--pick-yellow); color:var(--on-solid);
+    font-family:var(--font-display); font-weight:700; font-size:0.7rem;
+    text-transform:uppercase; letter-spacing:0.1em; text-align:center;
+    padding:0.3rem 0.5rem; border-radius:9px 9px 0 0;
+  }
+.s-sports .odds td.picked{background:rgba(var(--pick-yellow-rgb),0.16); color:var(--pick-yellow); font-weight:700; border-radius:4px;}
+.s-sports .odds td.hit{background:rgba(62,207,106,0.18); color:var(--win-green); font-weight:700; border-radius:4px;}
+.s-sports .odds td.miss{background:rgba(226,88,74,0.16); color:var(--loss-red); font-weight:700; border-radius:4px;}
+.s-sports .odds td.picked.hit,.s-sports .odds td.picked.miss{box-shadow:inset 0 0 0 2px var(--pick-yellow);}
+.s-sports .card-top{display:flex; justify-content:space-between; align-items:flex-start; gap:0.75rem;}
+.s-sports .score-badge{
+    font-family:var(--font-display); font-weight:600; font-size:0.68rem;
+    text-transform:uppercase; letter-spacing:0.08em; color:var(--turf-bright);
+    border:1px solid rgba(var(--turf-rgb),0.35); border-radius:999px;
+    padding:0.2rem 0.55rem; white-space:nowrap;
+  }
+.s-sports .marquee .score-badge{color:var(--gold); border-color:rgba(var(--gold-rgb),0.45);}
+.s-sports .channel-pill{
+    font-family:var(--font-display); font-weight:600; font-size:0.7rem;
+    background:var(--turf); color:var(--on-solid); border-radius:5px;
+    padding:0.2rem 0.5rem; letter-spacing:0.02em;
+    
+    max-width: 35ch; white-space: normal; overflow-wrap: break-word;
+    text-align: left; line-height: 1.3;
+  }
+.s-sports .matchup{
+    margin:0.85rem 0 0.6rem;
+    display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:0.45rem;
+    font-family:var(--font-display); font-size:1.05rem; font-weight:600;
+    white-space:normal; overflow-x:visible;
+  }
+.s-sports .team{display:inline-flex; align-items:center; gap:0.4rem;}
+.s-sports .team-name-wrap{display:inline-flex; flex-direction:column; align-items:flex-start; line-height:1.2;}
+.s-sports .team-name-line{display:inline-flex; align-items:baseline; gap:0.4rem;}
+.s-sports .team-name{font-size:0.98rem;}
+.s-sports .team-record{
+    
+    font-family:var(--font-display); font-weight:500; font-size:0.68rem;
+    letter-spacing:0.01em; color:var(--dim);
+  }
+.s-sports .rank{
+    font-size:0.68rem; color:var(--gold); border:1px solid rgba(var(--gold-rgb),0.4);
+    border-radius:4px; padding:0.05rem 0.3rem; min-width:1.6rem; text-align:center;
+    flex-shrink:0;
+  }
+.s-sports .at{color:var(--dim); font-size:0.72rem; font-family:var(--font-body); flex-shrink:0;}
+@media (max-width: 480px){.s-sports .matchup{
+      font-size:1rem;
     }
-  });
-  if (changed) saveFavorites();
-  result.sort((a, b) => (SOURCES.findIndex(s => s.key === a.item.source) - SOURCES.findIndex(s => s.key === b.item.source))
-    || ((a.item.rank || 999) - (b.item.rank || 999)));
-  return result;
-}
+.s-sports .at{margin:0 0.1rem;}}
+.s-sports .subline{
+    color:var(--dim); font-size:0.75rem; display:flex; gap:1rem; flex-wrap:wrap;
+    justify-content:center; margin-bottom:0.9rem;
+  }
+.s-sports .book{
+    font-family:var(--font-display); font-weight:600; font-size:0.72rem;
+  }
+.s-sports .book.dk{color:var(--dk-green);}
+.s-sports .book.fd{color:var(--fd-blue);}
+.s-sports .num.neg{color:var(--loss-red);}
+.s-sports .num-am{display:block; font-size:0.7rem; margin-top:0.1rem;}
+.s-sports .empty-cell{color:var(--empty-cell);}
+.s-sports .no-odds{color:var(--dim); font-size:0.75rem; padding:0.4rem 0;}
+@keyframes live-pulse{
+    0%,100%{opacity:1;} 50%{opacity:0.35;}
+  }
+.s-diet{display:contents;
+    --paper: #EEF2F0;
+    --card: #FFFFFF;
+    --frost: #E6EDEB;
+    --line: #CBD6D3;
+    --line-strong: #AEBFBB;
+    --ink: #16262D;
+    --ink-soft: #4A5D65;
+    --steel: #2A5E73;
+    --hero-tint: #417A93;   
+    --steel-deep: #123645;
+    --tag: #F5C83B;
+    --tag-deep: #E3B21F;
+    --tape: #E7D8B2;
+    --good: #2B7A4B;
+    --warn: #B3382C;
+    --sans: 'Libre Franklin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --hand: 'Permanent Marker', 'Marker Felt', 'Bradley Hand', cursive;
+    --hero-frozen: url("https://images.unsplash.com/photo-1601599967100-f16100982063?auto=format&fit=crop&w=1800&q=70");
+    --hero-fast: url("https://images.pexels.com/photos/12700809/pexels-photo-12700809.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    --hero-fast-fallback: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201800%20600'%20preserveAspectRatio='xMidYMid%20slice'%3E%3Cdefs%3E%3ClinearGradient%20id='sky'%20x1='0'%20y1='0'%20x2='0'%20y2='1'%3E%3Cstop%20offset='0'%20stop-color='%239aa3a6'/%3E%3Cstop%20offset='1'%20stop-color='%23e4e8e8'/%3E%3C/linearGradient%3E%3ClinearGradient%20id='glow'%20x1='0'%20y1='0'%20x2='0'%20y2='1'%3E%3Cstop%20offset='0'%20stop-color='%23fff3b0'/%3E%3Cstop%20offset='1'%20stop-color='%23ffd25a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect%20width='1800'%20height='600'%20fill='url(%23sky)'/%3E%3Cg%20fill='%23ffffff'%20opacity='.55'%3E%3Cellipse%20cx='430'%20cy='110'%20rx='150'%20ry='30'/%3E%3Cellipse%20cx='520'%20cy='95'%20rx='100'%20ry='28'/%3E%3Cellipse%20cx='1380'%20cy='80'%20rx='170'%20ry='26'/%3E%3C/g%3E%3Cg%20fill='%236f7a7c'%3E%3Crect%20x='0'%20y='400'%20width='1800'%20height='90'/%3E%3Ccircle%20cx='120'%20cy='400'%20r='55'/%3E%3Ccircle%20cx='210'%20cy='410'%20r='48'/%3E%3Ccircle%20cx='1650'%20cy='405'%20r='60'/%3E%3Ccircle%20cx='1740'%20cy='410'%20r='50'/%3E%3C/g%3E%3Crect%20x='0'%20y='480'%20width='1800'%20height='120'%20fill='%234a4f51'/%3E%3Crect%20x='0'%20y='480'%20width='1800'%20height='10'%20fill='%23c9cecf'/%3E%3Cg%20fill='%23e9ecec'%3E%3Crect%20x='40'%20y='555'%20width='120'%20height='10'/%3E%3Crect%20x='260'%20y='555'%20width='120'%20height='10'/%3E%3Crect%20x='480'%20y='555'%20width='120'%20height='10'/%3E%3Crect%20x='700'%20y='555'%20width='120'%20height='10'/%3E%3Crect%20x='920'%20y='555'%20width='120'%20height='10'/%3E%3Crect%20x='1140'%20y='555'%20width='120'%20height='10'/%3E%3Crect%20x='1360'%20y='555'%20width='120'%20height='10'/%3E%3Crect%20x='1580'%20y='555'%20width='120'%20height='10'/%3E%3C/g%3E%3Crect%20x='760'%20y='250'%20width='740'%20height='235'%20fill='%23f3f1ea'/%3E%3Crect%20x='760'%20y='250'%20width='740'%20height='235'%20fill='none'%20stroke='%232b2f31'%20stroke-width='4'/%3E%3Cpolygon%20points='735,255%201525,255%201490,205%20770,205'%20fill='%232b2f31'/%3E%3Crect%20x='735'%20y='248'%20width='790'%20height='14'%20fill='%238a9093'/%3E%3Crect%20x='820'%20y='282'%20width='620'%20height='84'%20rx='10'%20fill='%231f2426'/%3E%3Crect%20x='830'%20y='292'%20width='600'%20height='64'%20rx='6'%20fill='none'%20stroke='%23ffd25a'%20stroke-width='4'/%3E%3Ctext%20x='1130'%20y='340'%20text-anchor='middle'%20font-family='Arial%20Black,Arial,Helvetica,sans-serif'%20font-weight='900'%20font-size='46'%20letter-spacing='4'%20fill='%23ffd25a'%3EFAST%20FOOD%3C/text%3E%3Cg%3E%3Crect%20x='790'%20y='384'%20width='680'%20height='34'%20fill='%23ffffff'/%3E%3Cg%20fill='%235c6366'%3E%3Crect%20x='790'%20y='384'%20width='57'%20height='34'/%3E%3Crect%20x='904'%20y='384'%20width='57'%20height='34'/%3E%3Crect%20x='1018'%20y='384'%20width='57'%20height='34'/%3E%3Crect%20x='1132'%20y='384'%20width='57'%20height='34'/%3E%3Crect%20x='1246'%20y='384'%20width='57'%20height='34'/%3E%3Crect%20x='1360'%20y='384'%20width='57'%20height='34'/%3E%3C/g%3E%3Cpolygon%20points='790,418%20847,418%20836,438%20801,438'%20fill='%23ffffff'/%3E%3Cpolygon%20points='904,418%20961,418%20950,438%20915,438'%20fill='%23ffffff'/%3E%3Cpolygon%20points='1018,418%201075,418%201064,438%201029,438'%20fill='%23ffffff'/%3E%3Cpolygon%20points='1132,418%201189,418%201178,438%201143,438'%20fill='%23ffffff'/%3E%3Cpolygon%20points='1246,418%201303,418%201292,438%201257,438'%20fill='%23ffffff'/%3E%3Cpolygon%20points='1360,418%201417,418%201406,438%201371,438'%20fill='%23ffffff'/%3E%3C/g%3E%3Crect%20x='800'%20y='440'%20width='250'%20height='44'%20fill='url(%23glow)'%20stroke='%232b2f31'%20stroke-width='3'/%3E%3Crect%20x='1210'%20y='440'%20width='250'%20height='44'%20fill='url(%23glow)'%20stroke='%232b2f31'%20stroke-width='3'/%3E%3Cg%20stroke='%232b2f31'%20stroke-width='3'%3E%3Cline%20x1='883'%20y1='440'%20x2='883'%20y2='484'/%3E%3Cline%20x1='967'%20y1='440'%20x2='967'%20y2='484'/%3E%3Cline%20x1='1293'%20y1='440'%20x2='1293'%20y2='484'/%3E%3Cline%20x1='1377'%20y1='440'%20x2='1377'%20y2='484'/%3E%3C/g%3E%3Crect%20x='1085'%20y='432'%20width='100'%20height='53'%20fill='%232b2f31'/%3E%3Crect%20x='1093'%20y='440'%20width='38'%20height='45'%20fill='%239fb0b4'/%3E%3Crect%20x='1139'%20y='440'%20width='38'%20height='45'%20fill='%239fb0b4'/%3E%3Crect%20x='1500'%20y='300'%20width='150'%20height='185'%20fill='%23e6e3da'%20stroke='%232b2f31'%20stroke-width='4'/%3E%3Crect%20x='1490'%20y='286'%20width='170'%20height='24'%20fill='%232b2f31'/%3E%3Crect%20x='1522'%20y='350'%20width='106'%20height='70'%20fill='url(%23glow)'%20stroke='%232b2f31'%20stroke-width='3'/%3E%3Crect%20x='1536'%20y='430'%20width='78'%20height='10'%20fill='%238a9093'/%3E%3Cg%20transform='translate(-1040%200)'%3E%3Crect%20x='1690'%20y='330'%20width='78'%20height='116'%20rx='6'%20fill='%231f2426'/%3E%3Crect%20x='1700'%20y='342'%20width='58'%20height='14'%20fill='%23ffd25a'/%3E%3Cg%20fill='%23d9dedf'%3E%3Crect%20x='1700'%20y='366'%20width='58'%20height='6'/%3E%3Crect%20x='1700'%20y='380'%20width='58'%20height='6'/%3E%3Crect%20x='1700'%20y='394'%20width='58'%20height='6'/%3E%3Crect%20x='1700'%20y='408'%20width='58'%20height='6'/%3E%3C/g%3E%3Crect%20x='1722'%20y='446'%20width='14'%20height='38'%20fill='%232b2f31'/%3E%3C/g%3E%3Cg%20transform='translate(1110%200)'%3E%3Crect%20x='598'%20y='140'%20width='16'%20height='345'%20fill='%232b2f31'/%3E%3Ccircle%20cx='606'%20cy='128'%20r='82'%20fill='%23ffd25a'%20stroke='%232b2f31'%20stroke-width='6'/%3E%3Ccircle%20cx='606'%20cy='128'%20r='64'%20fill='%231f2426'/%3E%3Cg%3E%3Cpath%20d='M556%20118%20Q556%2082%20606%2082%20Q656%2082%20656%20118%20Z'%20fill='%23ffd25a'/%3E%3Crect%20x='552'%20y='122'%20width='108'%20height='10'%20rx='5'%20fill='%239aa3a6'/%3E%3Crect%20x='556'%20y='136'%20width='100'%20height='10'%20rx='5'%20fill='%23ffffff'/%3E%3Cpath%20d='M556%20150%20H656%20Q656%20170%20606%20170%20Q556%20170%20556%20150%20Z'%20fill='%23ffd25a'/%3E%3C/g%3E%3C/g%3E%3Cg%3E%3Crect%20x='1380'%20y='500'%20width='250'%20height='50'%20rx='16'%20fill='%23c9cecf'/%3E%3Cpath%20d='M1420%20500%20L1450%20462%20H1570%20L1600%20500%20Z'%20fill='%23b4babc'/%3E%3Cpath%20d='M1458%20498%20L1478%20468%20H1520%20V498%20Z%20M1528%20498%20V468%20H1562%20L1584%20498%20Z'%20fill='%236f7a7c'/%3E%3Ccircle%20cx='1432'%20cy='552'%20r='22'%20fill='%231f2426'/%3E%3Ccircle%20cx='1432'%20cy='552'%20r='9'%20fill='%23c9cecf'/%3E%3Ccircle%20cx='1580'%20cy='552'%20r='22'%20fill='%231f2426'/%3E%3Ccircle%20cx='1580'%20cy='552'%20r='9'%20fill='%23c9cecf'/%3E%3C/g%3E%3Cg%3E%3Crect%20x='240'%20y='505'%20width='230'%20height='46'%20rx='15'%20fill='%232b2f31'/%3E%3Cpath%20d='M275%20505%20L303%20470%20H410%20L440%20505%20Z'%20fill='%233b4144'/%3E%3Cpath%20d='M310%20503%20L326%20475%20H364%20V503%20Z%20M372%20503%20V475%20H405%20L428%20503%20Z'%20fill='%239fb0b4'/%3E%3Ccircle%20cx='290'%20cy='553'%20r='21'%20fill='%231f2426'/%3E%3Ccircle%20cx='290'%20cy='553'%20r='8'%20fill='%238a9093'/%3E%3Ccircle%20cx='425'%20cy='553'%20r='21'%20fill='%231f2426'/%3E%3Ccircle%20cx='425'%20cy='553'%20r='8'%20fill='%238a9093'/%3E%3C/g%3E%3C/svg%3E");
+  ;color:var(--ink);font-family:var(--sans);}
+.s-diet .day-card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:20px 14px 18px;
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+  }
+.s-diet .day-card:nth-child(even) .day-name{
+    transform:rotate(1deg);
+  }
+.s-diet .meal-row{
+    display:grid;
+    grid-template-columns:80px minmax(0,1fr) auto;
+    grid-template-rows:auto auto;
+    column-gap:8px;
+    row-gap:8px;
+    align-items:start;
+    padding:10px 0;
+    border-top:1px solid var(--line);
+  }
+.s-diet .meal-row:first-of-type{ border-top:none; }
+.s-diet .meal-info{ flex:1; min-width:0; }
+.s-diet .meal-brand{ display:block; }
+.s-diet .meal-slot{
+    font-size:11px;
+    color:var(--steel);
+    font-weight:700;
+    text-transform:lowercase;
+  }
+.s-diet .meal-name{
+    font-size:14px;
+    color:var(--ink);
+    line-height:1.35;
+    margin-top:2px;
+  }
+.s-diet .meal-serving{
+    font-size:12px;
+    color:var(--ink-soft);
+    margin-top:3px;
+    max-width:12ch;
+    overflow-wrap:anywhere;
+    text-align:right;
+  }
+.s-diet .meal-actions{
+    grid-column:1 / -1;
+    display:flex;
+    flex-wrap:nowrap;
+    align-items:center;
+    gap:8px;
+  }
+@media (max-width:380px){.s-diet .meal-actions{ flex-wrap:wrap; }}
+.s-diet .meal-money{
+    text-align:right;
+  }
+.s-diet .meal-money .meal-serving{ margin-left:auto; }
+@keyframes pickedFlash{
+    from{ background:rgba(245,200,59,0.55); }
+    to{ background:transparent; }
+  }
+.s-diet .meal-row.just-picked{ animation:pickedFlash 2.2s ease-out; }
+.s-diet .meal-cal{
+    font-family:var(--sans);
+    font-size:14px;
+    font-weight:700;
+    color:var(--ink);
+    white-space:nowrap;
+    padding-top:1px;
+  }
+.s-diet .meal-price{
+    font-size:12px;
+    color:var(--ink-soft);
+    margin-top:2px;
+  }
+.s-diet .meal-thumb-link{ flex-shrink:0; display:block; }
+.s-diet .meal-thumb{
+    width:80px;
+    height:auto;
+    max-height:150px;
+    border:0px solid var(--line);
+    border-radius:3px;
+    object-fit:contain;
+    display:block;
+    background:var(--card);
+  }
+.s-diet .meal-thumb-empty{
+    width:80px;
+    height:80px;
+    background:var(--frost);
+    border-style:dashed;
+  }
+.s-diet .meal-actions{
+    grid-column:1 / -1;
+    display:flex;
+    flex-wrap:nowrap;
+    align-items:center;
+    gap:6px;
+  }
+.s-diet .meal-money{
+    text-align:right;
+  }
+.s-diet .meal-money .meal-serving{ margin-left:auto; }
+@keyframes pickedFlash{
+    from{ background:rgba(245,200,59,0.55); }
+    to{ background:transparent; }
+  }
+.s-diet .meal-row.just-picked{ animation:pickedFlash 2.2s ease-out; }
+.s-diet .meal-actions.frozen-actions{ flex-wrap:wrap; }
+@keyframes regenPulse{
+    0%, 100%{ box-shadow:0 0 0 0 rgba(245,200,59,.9); }
+    50%{ box-shadow:0 0 0 4px rgba(245,200,59,.0); }
+  }
 
-/* ---------- data ---------- */
-async function loadSource(src) {
+.s-sports .card,.s-diet .day-card{grid-column:span 2}
+</style></head><body>
+<header class="disco">
+ <div class="hero">
+  <img src="runner.gif" alt="Trendslope runner">
+  <div><h1>Trendslope</h1><p class="tag">Run the slope · dodge the noise · catch the trends</p></div>
+ </div>
+ <div class="marq"><span id="mq"></span></div>
+</header>
+<main>
+ <div class="controls">
+  <div class="tabs" id="tabs"></div>
+  <div class="tabs" id="ranges"></div>
+  <div class="mono"><span id="count"></span> <button class="btn" id="dietbtn">Diet start date</button></div>
+ </div>
+ <div class="grid" id="grid"></div>
+</main>
+<script>
+// ===== CONFIG: change repo names / branch here =====
+const U='mzaiger', BRANCH='main';
+const RAW=r=>`https://raw.githubusercontent.com/${U}/${r}/${BRANCH}/`;
+const SITE={diet:'SingleManDiet',trends:'TrendingTopics',movies:'Movies',music:'Music',software:'software',deals:'SlickDealsTracker',sports:'SportsDashboard'};
+const TREND_FILES=[['social_media_trends.json','social_media'],['google_trends.json','google'],['reddit_trends.json','reddit']];
+const DIET_CREATED='2026-11-02'; // SingleManDiet repo's first commit; change if you like
+const COLORS={diet:'#1E9E5A',deals:'#D9480F',sports:'#1B63E0',movies:'#7B2CBF',music:'#E0359B',software:'#0B7285',trends:'#F08C00'};
+const SLOTS=[['Breakfast',8],['Brunch',10],['Lunch',12],['Dinner',19],['Late dinner',22]];
+const RANGES=[[1,'1 day'],[2,'2 days'],[3,'3 days'],[7,'Week'],[30,'Month']];
+// ===== helpers =====
+const DAY=864e5, now=Date.now();
+const gc=(k,f)=>{const m=document.cookie.match('(?:^|; )'+k+'=([^;]*)');try{return m?JSON.parse(decodeURIComponent(m[1])):f}catch{return f}};
+const sc=(k,v)=>{document.cookie=`${k}=${encodeURIComponent(JSON.stringify(v))};max-age=31536000;path=/;SameSite=Lax`};
+const hs=s=>{let h=2166136261;for(const c of String(s)){h^=c.charCodeAt(0);h=Math.imul(h,16777619)}return(h>>>0)/4294967296};
+const J=async u=>{try{const r=await fetch(u+'?v='+Math.floor(now/3e5));return r.ok?await r.json():null}catch{return null}};
+const pick=o=>({title:o.title||o.name||o.topic||o.query||o.meal||o.item||'',img:o.image||o.img||o.poster||o.thumb||o.logo||'',url:o.url||o.link||'',desc:o.desc||o.description||o.summary||''});
+const arr=(o,d=0)=>{if(Array.isArray(o)&&o.length>2&&o[0]&&typeof o[0]=='object'&&pick(o[0]).title)return o;if(o&&typeof o=='object'&&d<4)for(const v of Object.values(o)){const r=arr(v,d+1);if(r)return r}};
+const lim=(a,n)=>a.slice(0,n);
+let S={tab:gc('ts_tab','live'),range:gc('ts_range',3),favs:gc('ts_favs',[]),created:gc('ts_created',DIET_CREATED)};
+let ITEMS=[], DIET=[];
+// ===== loaders (each pushes items and re-renders as it arrives) =====
+const add=(a)=>{ITEMS.push(...a);render()};
+async function movies(){const b=RAW(SITE.movies),ix=await J(b+'index.json');if(!ix)return;
+ for(const m of lim(ix.months,2)){const d=await J(`${b}data/${m.m}.json`);if(d)add(d.items.map((i,n)=>({id:'mv'+i.id,src:'movies',raw:i,rank:n+1,title:i.title})))}}
+async function music(){const d=await J(RAW(SITE.music)+'data/all.json');if(d)add(d.items.map((i,n)=>({id:'mu'+i.id,src:'music',raw:i,rank:i.rank||n+1,title:i.title})))}
+async function software(){for(const f of['github','steam','itunes']){const d=await J(RAW(SITE.software)+`data/${f}.json`);if(d)add(lim(d.items,40).map((i,n)=>({id:'sw'+f+i.id,src:'software',f,raw:i,rank:(i.ranks&&i.ranks['3'])||n+1,title:i.title})))}}
+async function deals(){try{const r=await fetch(RAW(SITE.deals)+'deals.xml?v='+Math.floor(now/3e5));const x=new DOMParser().parseFromString(await r.text(),'text/xml');
+ add([...x.querySelectorAll('deal')].map(e=>{const g=t=>(e.querySelector(t)?.textContent||'').trim(),p=Date.parse(g('pubDateIso'));return{id:'dl'+g('link').slice(-50),src:'deals',title:g('title'),raw:{title:g('title'),link:g('link'),thumbnail:g('thumbnail'),rating:+g('rating')||0,pubDateIso:g('pubDateIso')},ts:isNaN(p)?undefined:p}}).filter(i=>i.raw.link))}catch{}}
+async function sports(){for(const l of['nfl','nhl','mlb','nba','ncaaf','ncaamb']){const d=await J(RAW(SITE.sports)+`data/${l}_dashboard.json`);if(!d)continue;const out=[];
+ for(const w of d.weeks||[])for(const dy of w.days||[])for(const s of dy.time_slots||[]){const g=(s.games||[]).find(g=>g.is_slot_pick)||s.games?.[0];if(!g)continue;
+  out.push({id:'sp'+g.id,src:'sports',pick:1,raw:g,tz:d.display_timezone,title:`${g.away_abbr||g.away_team} @ ${g.home_abbr||g.home_team}`,img:g.home_logo,logo:1,sub:`${l.toUpperCase()} · ${s.slot}${g.channel?' · '+g.channel:''} · best matchup ${s.best_matchup_score??''}`,url:'',ts:Date.parse(g.start_time)})}
+ add(out)}}
+async function trends(){for(const[f,l]of TREND_FILES){const d=await J(RAW(SITE.trends)+f);if(!d)continue;
+ add((d.items||[]).map(o=>{const t=Date.parse(o.started_trending||o.first_seen);return{id:'tr'+l+o.id,src:'trends',sk:l,raw:o,title:o.topic,ts:isNaN(t)?undefined:t}}))}}
+async function diet(){const b=RAW(SITE.diet),[f,c]=await Promise.all([J(b+'meals.json'),J(b+'candidate_pool.json')]);
+ const mk=(a,n)=>a.filter(i=>i.active!==false&&+i.calories>=150).map(i=>({name:i.name||i.PRODUCT_NAME,img:i.image_url,url:i.PRODUCT_URL||'',cal:i.calories,where:i.restaurant||i.BRAND||'Frozen',bk:n(i),price:i.price??i.PRICE_CURRENT,serving:i.serving||i.servings_per_container}));
+ DIET=[...mk(f?.meals||[],i=>i.category=='breakfast'),...mk(c||[],i=>/breakfast|egg|pancake|waffle|french toast|biscuit/i.test(i.PRODUCT_NAME))].filter(m=>m.name);render()}
+// ===== diet schedule: weeks start on the Monday after the creation date =====
+function dietItems(R,lo){if(!DIET.length)return[];const out=[];const today=new Date();today.setHours(0,0,0,0);
+ let start=null;if(S.created){const c=new Date(S.created+'T00:00:00');c.setDate(c.getDate()+((8-c.getDay())%7||7));start=c}
+ const days=Math.min(R,7);
+ for(let k=days-1;k>=0;k--){const d=new Date(today.getTime()-k*DAY);const wk=start?Math.max(0,Math.floor((d-start)/(7*DAY))):0;
+  SLOTS.forEach(([nm,h],si)=>{const key=nm.split(' ')[0].toLowerCase();const ok=si==0?m=>m.bk:si==1?m=>true:m=>!m.bk;let pool=DIET.filter(ok);if(!pool.length)pool=DIET;
+   const o=pool[Math.floor(hs(`${wk}-${d.getDay()}-${si}`)*pool.length)],p={title:o.name,img:o.img,url:o.url};const t=new Date(d);t.setHours(h,0,0,0);
+   out.push({id:`di${wk}-${d.getDay()}-${si}`,src:'diet',raw:o,slot:nm,h,title:p.title,img:p.img,sub:`${nm} · ${(h%12||12)}:00 ${h<12?'AM':'PM'} · ${o.where} · ${o.cal} cal`,url:p.url,ts:t.getTime(),today:d.getTime()==today.getTime()})})}
+ return out}
+
+// ===== tile renderers: same markup as each site's own page =====
+const ESC={'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'},esc=x=>String(x??'').replace(/[&<>"']/g,c=>ESC[c]);
+const safeUrl=u=>{try{const x=new URL(u);return/^https?:$/.test(x.protocol)?x.href:''}catch{return''}};
+const fmtNum=n=>Number(n).toLocaleString('en-US'),cmp=n=>Intl.NumberFormat('en-US',{notation:'compact',maximumFractionDigits:1}).format(n);
+const fmtDate=d=>d?new Date(d+'T00:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'}):'';
+const money=v=>{if(v==null)return'\u2014';const k=Math.round(v/1e3);if(k>=1e6)return`$${Math.round(v/1e9)}B`;if(k>=1e3){const m=Math.round(v/1e6);return m>=1e3?`$${Math.round(v/1e9)}B`:`$${m}M`}return`$${k}K`};
+const rel=iso=>{const t=Date.parse(iso);if(isNaN(t))return'\u2014';const m=Math.max(0,Math.round((now-t)/6e4));return m<60?m+'m ago':m<1440?Math.floor(m/60)+'h ago':Math.floor(m/1440)+'d ago'};
+const favT=i=>`<label class="fav-toggle" title="Favorite"><input type="checkbox" class="fav-input" data-id="${esc(i.id)}" ${S.favs.includes(i.id)?'checked':''}><span class="fav-star">\u2605</span></label>`;
+const FB='onerror="this.outerHTML=\'<div class=&quot;thumb-fallback&quot;>No Image</div>\'"';
+const imgT=u=>{u=safeUrl(u);return u?`<img src="${esc(u)}" alt="" loading="lazy" referrerpolicy="no-referrer" ${FB}>`:'<div class="thumb-fallback">No Image</div>'};
+const TS={social_media:{l:'Social Media',o:'Search posts \u2197'},google:{l:'Google',o:'Search Google \u2197'},reddit:{l:'Reddit',o:'Open on Reddit \u2197'}};
+const chg=it=>{if(it.is_new)return'<span class="chg new">NEW</span>';const c=it.rank_change;if(typeof c!='number')return'';return c>0?`<span class="chg up">\u25b2 ${c}</span>`:c<0?`<span class="chg down">\u25bc ${-c}</span>`:'<span class="chg same">\u2013</span>'};
+const SW={github:{open:'Open on GitHub',m:it=>`<b>\u2605 ${fmtNum(it.metric)}</b> stars`},steam:{open:'Open on Steam',m:it=>`<b>\U0001F3AE ${fmtNum(it.metric)}</b> playing`},itunes:{open:'Open on App Store',m:it=>`<b>Apple #${it.metric}</b> chart`}};
+const SPORTS=(()=>{let DISPLAY_TZ="America/Chicago";
+const MULTI_WORD_MASCOTS = new Set(['Red Wings','Blue Jackets','Maple Leafs','Golden Knights','Trail Blazers','Blue Jays','Red Sox','White Sox','Crimson Tide','Fighting Irish','Golden Gophers','Scarlet Knights','Blue Devils','Tar Heels','Demon Deacons','Yellow Jackets','Horned Frogs','Red Raiders','Sun Devils','Nittany Lions','Golden Eagles','Green Wave','Blue Hens','Mean Green','Black Knights','Golden Flashes','Thundering Herd','Rainbow Warriors','Fighting Illini','Red Wolves','Blue Raiders','Golden Hurricane','Wolf Pack','Fighting Hawks','Mountain Hawks','Golden Bears','Red Storm','Blue Jays','Fighting Camels','Delta Devils','Ragin Cajuns','Runnin Rebels','Golden Panthers','Big Green','Crimson Hawks','Seminoles']);
+const LOGO_ON_WHITE = new Set(['Penn State Nittany Lions','Iowa Hawkeyes','Ohio State Buckeyes','Texas A&M Aggies','Cincinnati Bearcats','Utah State Aggies','Wake Forest Demon Deacons','Kansas State Wildcats','Michigan State Spartans','Nevada Wolf Pack','Nevada Wolfpack','New York Giants','New York Jets','Los Angeles Rams','Carolina Panthers','San Diego Padres','New York Yankees','Colorado Rockies','Detroit Tigers','Kansas City Royals','Minnesota Twins','Oakland Athletics','Athletics','Washington Capitals','Tampa Bay Lightning','Toronto Maple Leafs','Dallas Stars','Utah Jazz','California Golden Bears','Virginia Cavaliers','Charlotte 49ers','Rice Owls','Baylor Bears','TCU Horned Frogs','West Virginia Mountaineers','New Mexico State Aggies','Toledo Rockets','San Diego State Aztecs']);
+function fmtAmerican(n) {
+  if (n === null || n === undefined || n === '') return null;
+  const num = Number(n);
+  if (Number.isNaN(num)) return null;
+  return num > 0 ? `+${num}` : `${num}`;
+}
+function fmtLine(n) {
+  if (n === null || n === undefined || n === '') return null;
+  const num = Number(n);
+  if (Number.isNaN(num)) return null;
+  return num > 0 ? `+${num}` : `${num}`;
+}
+function oddsCell(entry) {
+  if (!entry || (entry.line === undefined && entry.american === undefined)) {
+    return '<span class="empty-cell">—</span>';
+  }
+  const line = fmtLine(entry.line);
+  const am = fmtAmerican(entry.american);
+  const negCls = (typeof entry.american === 'number' && entry.american < 0) ? 'neg' : '';
+  if (line !== null && am !== null) return `${line}<span class="num num-am ${negCls}">(${am})</span>`;
+  if (am !== null) return `<span class="num ${negCls}">${am}</span>`;
+  if (line !== null) return line;
+  return '<span class="empty-cell">—</span>';
+}
+function rankBadge(rank) {
+  // No rank -> keep an invisible badge of the same size so the logo/name/record
+  // columns don't shift between ranked and unranked teams.
+  return rank ? `<span class="rank">#${rank}</span> ` : '<span class="rank rank-empty" aria-hidden="true">#00</span> ';
+}
+function splitTeamName(name, location) {
+  if (!name) return ['', ''];
+  if (location && name.length > location.length + 1 && name.startsWith(location + ' ')) {
+    return [location, name.slice(location.length + 1)];
+  }
+  const words = name.split(' ');
+  if (words.length < 2) return [name, ''];
+  if (words.length > 2 && MULTI_WORD_MASCOTS.has(words.slice(-2).join(' '))) {
+    return [words.slice(0, -2).join(' '), words.slice(-2).join(' ')];
+  }
+  return [words.slice(0, -1).join(' '), words[words.length - 1]];
+}
+function teamNameBlock(name, record, scoreBadge, pitcher, logo, location) {
+  const recordHtml = record ? `<span class="team-record">${record}</span>` : '';
+  const [nameTop, nameBottom] = splitTeamName(name, location);
+  const nameHtml = nameBottom ? `<span class="tn-loc">${nameTop}</span> <span class="tn-mascot">${nameBottom}</span>` : nameTop;
+  const logoHtml = logo ? `<img class="team-logo${LOGO_ON_WHITE.has(name) ? ' logo-white' : ''}" src="${logo}" alt="" loading="lazy" decoding="async" onerror="this.remove()">` : '';
+  return `${logoHtml}<span class="team-name-wrap"><span class="team-name-line"><span class="team-name">${nameHtml}</span>${scoreBadge || ''}</span>${recordHtml}</span>`;
+}
+function kickoffTime(iso, tbd) {
+  if (tbd) return 'Time TBD';
   try {
-    const res = await fetch(`${src.file}?v=${Date.now()}`, { cache: 'no-store' });
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    const doc = await res.json();
-    return (doc && Array.isArray(doc.items)) ? doc : null;
-  } catch (e) {
-    console.error('Failed to load ' + src.file, e);
-    return null;
+    const d = new Date(iso);
+    const day = d.toLocaleDateString('en-US', { timeZone: DISPLAY_TZ, weekday: 'short', month: 'short', day: 'numeric' });
+    const time = d.toLocaleTimeString('en-US', { timeZone: DISPLAY_TZ, hour: 'numeric', minute: '2-digit', timeZoneName: 'short' });
+    return `${day} &middot; ${time}`;
+  } catch (e) { return ''; }
+}
+function matchupLabel(g) {
+  return (g.matchup_rank === null || g.matchup_rank === undefined)
+    ? 'Matchup: TBD'
+    : `Matchup: ${g.matchup_rank}`;
+}
+function formatChannelForPill(channel) {
+  if (!channel) return channel;
+  const parts = channel.split(', ');
+  if (parts.length <= 2) return channel;
+  const lines = [];
+  for (let i = 0; i < parts.length; i += 2) {
+    lines.push(parts.slice(i, i + 2).join(', '));
   }
+  return lines.join('<br>');
 }
-async function loadAll() {
-  const loaded = await Promise.all(SOURCES.map(loadSource));
-  SOURCES.forEach((s, i) => { docs[s.key] = loaded[i]; });
-  allItems = [];
-  SOURCES.forEach(s => {
-    ((docs[s.key] && docs[s.key].items) || []).forEach(it => {
-      allItems.push({ ...it, source: s.key, uid: s.key + '|' + it.id });
-    });
+return(g,tz)=>{DISPLAY_TZ=tz||DISPLAY_TZ;const marquee=g.home_rank&&g.away_rank,isPick=!!g.is_slot_pick,books=['draftkings','fanduel'],BL={draftkings:'DK',fanduel:'FD'},BC={draftkings:'dk',fanduel:'fd'};
+ const has=books.some(b=>['spread','moneyline','total'].some(m=>Object.keys(g.odds?.[b]?.[m]||{}).length));let rows='';
+ books.forEach(b=>{const s=g.odds?.[b]?.spread||{},m=g.odds?.[b]?.moneyline||{},t=g.odds?.[b]?.total||{};rows+=`<tr><td class="book ${BC[b]}">${BL[b]}</td><td>${oddsCell(s.away)}</td><td>${oddsCell(s.home)}</td><td>${oddsCell(m.away)}</td><td>${oddsCell(m.home)}</td><td>${oddsCell(t.over)}</td><td>${oddsCell(t.under)}</td></tr>`});
+ const odds=has?`<table class="odds"><thead><tr><th></th><th>Away<br>Spd</th><th>Home<br>Spd</th><th>Away<br>ML</th><th>Home<br>ML</th><th>Over</th><th>Under</th></tr></thead><tbody>${rows}</tbody></table>`:'<div class="no-odds">Odds not yet posted</div>';
+ return `<div class="card ${marquee?'marquee':''} ${isPick?'slot-pick':''}">${isPick?'<div class="pick-banner"><svg class="i-star" viewBox="0 0 20 20" aria-hidden="true"><path d="M10 1.8l2.5 5.4 5.9.7-4.4 4 1.2 5.8L10 14.8 4.8 17.7 6 11.9 1.6 7.9l5.9-.7z"/></svg>Time Slot Best Matchup</div>':''}<div class="card-top"><span class="score-badge">${matchupLabel(g)}</span><span class="channel-pill">${formatChannelForPill(g.channel)||''}</span></div><div class="matchup"><span class="team">${rankBadge(g.away_rank)}${teamNameBlock(g.away_team,g.away_record,'',undefined,g.away_logo,g.away_location)}</span><span class="at">@</span><span class="team">${rankBadge(g.home_rank)}${teamNameBlock(g.home_team,g.home_record,'',undefined,g.home_logo,g.home_location)}</span></div><div class="subline"><span>${kickoffTime(g.start_time,g.start_time_tbd)}</span><span class="venue"><span class="venue-name">${g.venue||''}</span>${g.venue&&g.venue_location?'<span class="venue-city">'+g.venue_location+'</span>':''}</span></div>${odds}</div>`}})();
+function heatClass(rating) {
+  if (rating >= 50) return 'hot';
+  if (rating >= 20) return 'warm';
+  return 'cool';
+}
+function heatColor(rating) {
+  if (rating >= 50) return 'var(--hot)';
+  if (rating >= 20) return 'var(--warm)';
+  return 'var(--cool)';
+}
+
+const relT=iso=>{const m=Math.max(0,Math.round((now-new Date(iso).getTime())/6e4));if(m<1)return'just now';if(m<60)return m+'m ago';const h=Math.floor(m/60);if(h<24)return h+'h '+(m%60)+'m ago';return Math.floor(h/24)+'d '+(h%24)+'h ago'};
+const SERVICES = [
+  { k:'netflix',   re:/netflix/,                         name:'Netflix',        domain:'netflix.com',        url:q => `https://www.netflix.com/search?q=${q}` },
+  { k:'hulu',      re:/^hulu/,                           name:'Hulu',           domain:'hulu.com',           url:() => 'https://www.hulu.com/search' },
+  { k:'disney',    re:/disney/,                          name:'Disney+',        domain:'disneyplus.com',     url:() => 'https://www.disneyplus.com/en-gb/browse/search' },
+  { k:'max',       re:/^max$|hbo/,                       name:'HBO Max',        domain:'hbomax.com', img:RAW(SITE.movies)+'img/hbo-max.png', url:q => `https://play.hbomax.com/search?q=${q}` },
+  { k:'prime',     re:/prime video|^amazon video|^amazon prime/, name:'Prime Video', domain:'primevideo.com', url:q => `https://www.amazon.com/s?k=${q}&i=instant-video` },
+  { k:'apple',     re:/^apple tv/,                       name:'Apple TV',       domain:'tv.apple.com',       url:q => `https://tv.apple.com/search?term=${q}` },
+  { k:'paramount', re:/paramount|showtime/,              name:'Paramount+',     domain:'paramountplus.com',  url:q => `https://www.paramountplus.com/search/?q=${q}` },
+  { k:'peacock',   re:/peacock/,                         name:'Peacock',        domain:'peacocktv.com',      url:() => 'https://www.peacocktv.com/watch/search' },
+  { k:'tubi',      re:/tubi/,                            name:'Tubi',           domain:'tubitv.com',         url:q => `https://tubitv.com/search/${q}` },
+  { k:'pluto',     re:/pluto/,                           name:'Pluto TV',       domain:'pluto.tv',           url:q => `https://pluto.tv/us/search/details?query=${q}` },
+  { k:'roku',      re:/roku/,                            name:'The Roku Channel', domain:'therokuchannel.roku.com', url:q => `https://therokuchannel.roku.com/search/${q}` },
+  { k:'youtube',   re:/youtube/,                         name:'YouTube',        domain:'youtube.com',        url:q => `https://www.youtube.com/results?search_query=${q}` },
+  { k:'crunchy',   re:/crunchyroll/,                     name:'Crunchyroll',    domain:'crunchyroll.com',    url:q => `https://www.crunchyroll.com/search?q=${q}` },
+  { k:'criterion', re:/criterion/,                       name:'Criterion Channel', domain:'criterionchannel.com', url:q => `https://www.criterionchannel.com/search?q=${q}` },
+  { k:'amc',       re:/^amc/,                            name:'AMC+',           domain:'amcplus.com', img:RAW(SITE.movies)+'img/amc-plus.png', url:q => `https://www.amcplus.com/search?q=${q}` },
+];
+
+function providerKey(name) {
+  return String(name).toLowerCase()
+    .replace(/\s+(amazon|apple tv|roku premium|youtube primetime)\s+channel$/, '')   // "Max Amazon Channel" -> "max"
+    .replace(/\s+apple tv$/, '')                                                     // "Acorn TV Apple TV" -> "acorn tv"
+    .replace(/\s+(standard |basic |premium )?with ads$/, '')                         // "Netflix Standard with Ads" -> "netflix"
+    .replace(/\s+(premium plus|premium|basic|standard|essential|select)$/, '')       // "Peacock Premium" -> "peacock"
+    .trim();
+}
+
+// One link per service, in TMDb's order. Services we have no search URL for share a single JustWatch link.
+function watchLinks(m) {
+  const t = encodeURIComponent(m.title), seen = new Set(), out = [];
+  let other = false;
+  (m.stream || []).forEach(n => {
+    const key = providerKey(n), sv = SERVICES.find(x => x.re.test(key));
+    if (!sv) { other = true; return; }
+    if (seen.has(sv.k)) return;
+    seen.add(sv.k);
+    out.push({ href: sv.url(t), domain: sv.domain, img: sv.img, name: sv.name });
   });
-  renderSources();
-  updateLastUpdatedLabel();
+  if (other) out.push({ href: `https://www.justwatch.com/us/search?q=${t}`, domain: 'justwatch.com', name: 'JustWatch' });
+  return [{ href: `https://www.fandango.com/search?q=${t}`, domain: 'fandango.com', name: 'Fandango' }, ...out];   // tickets first, then the streaming services
 }
 
-/* ---------- pieces of markup ---------- */
-function changeHtml(it) {
-  if (it.is_new) return '<span class="chg new" title="First time on the list this update">NEW</span>';
-  const c = it.rank_change;
-  if (typeof c !== 'number') return '';
-  if (c > 0) return `<span class="chg up" title="Moved up ${c} ranks (vs up to 4 hours ago)">▲ ${c}</span>`;
-  if (c < 0) return `<span class="chg down" title="Moved down ${-c} ranks (vs up to 4 hours ago)">▼ ${-c}</span>`;
-  return '<span class="chg same" title="No change (vs up to 4 hours ago)">–</span>';
-}
-function thumbHtml(it) {
-  const url = safeUrl(it.image_url);
-  return url
-    ? `<img src="${esc(url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onload="if(this.naturalWidth&lt;100&amp;&amp;this.naturalHeight&lt;100)this.onerror()" onerror="this.outerHTML='<div class=&quot;thumb-fallback&quot;>No Image</div>'">`
-    : '<div class="thumb-fallback">No Image</div>';
-}
-function rowThumbHtml(it) {
-  const url = safeUrl(it.image_url);
-  return url
-    ? `<img src="${esc(url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onload="if(this.naturalWidth&lt;100&amp;&amp;this.naturalHeight&lt;100)this.onerror()" onerror="this.parentElement.innerHTML='<div class=&quot;row-thumb-fallback&quot;>No Img</div>'">`
-    : '<div class="row-thumb-fallback">No Img</div>';
-}
-function favToggleHtml(it, cls) {
-  const isFav = favorites.has(it.uid);
-  return `<label class="${cls}" title="Favorite">
-      <input type="checkbox" class="fav-input" data-uid="${esc(it.uid)}" ${isFav ? 'checked' : ''}>
-      <span class="fav-star">★</span>
-    </label>`;
-}
-function rankHint(it) {
-  const doc = docs[it.source];
-  if (doc && doc.rank_basis === 'time_trending') return 'Ranked by hours trending (longest = #1)';
-  if (doc && doc.rank_basis === 'search_volume') return 'Ranked by search volume (most searches = #1)';
-  return 'Rank on the live trending list';
-}
-// started_trending = the date the topic was ADDED to the JSON. Hours trending, the time filters and
-// the Newest sort use it. The article's own created date (published) is only used for "time ago".
-function hoursTrending(it) {
-  const t = new Date(it.started_trending).getTime();
-  if (!Number.isFinite(t)) return typeof it.hours_trending === 'number' ? it.hours_trending : null;
-  return Math.max(0, (Date.now() - t) / 3600000);
-}
-function timeAgo(it) { return relativeTime(it.published || it.started_trending); }
-function descText(it) { return it.description ? esc(it.description) : 'No summary yet.'; }
-// Social media + Reddit: hours trending (kept live from the start time). Google: search volume.
-function volText(it) {
-  if (it.volume_unit === 'hours') {
-    const h = hoursTrending(it);
-    if (h === null) return '';
-    return esc(h < 1 ? '<1hr trend' : `${Math.floor(h)}hr trend`);
-  }
-  return it.volume ? esc(it.volume) : '';
-}
 
-function cardHtml(it, opts = {}) {
-  const src = SOURCE_BY_KEY[it.source] || { label: '', openLabel: 'Open ↗' };
-  const pill = opts.archived
-    ? '<div class="rank-pill saved">saved</div>'
-    : `<div class="rank-pill" title="${esc(rankHint(it))}"><span>#${esc(it.rank)}</span>${changeHtml(it)}</div>`;
-  return `
-    <article class="card">
-      <div class="thumb-wrap">
-        ${thumbHtml(it)}
-        ${favToggleHtml(it, 'fav-toggle')}
-        ${pill}
-      </div>
-      <div class="body">
-        <p class="title"><a class="stretch" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${esc(it.topic)}</a></p>
-        <p class="desc${it.description ? '' : ' none'}">${descText(it)}</p>
-        <div class="meta-block">
-          <div class="meta"><span class="when">${timeAgo(it)}${opts.archived ? ' · <span class="archived-tag">saved</span>' : ''}</span><span class="vol">${volText(it) || '—'}</span></div>
-          <div class="meta"><span class="srctag">${esc(src.label)}</span><span class="go">${esc(src.openLabel)}</span></div>
-        </div>
-      </div>
-    </article>`;
-}
-
-function rowHtml(it, opts = {}) {
-  const src = SOURCE_BY_KEY[it.source] || { label: '' };
-  return `
-    <div class="row-item">
-      ${favToggleHtml(it, 'row-fav-toggle')}
-      <div class="row-thumb-wrap">${rowThumbHtml(it)}</div>
-      <span class="row-rank">${opts.archived ? '—' : '#' + esc(it.rank)}</span>
-      <span>${opts.archived ? '' : changeHtml(it)}</span>
-      <span class="row-title"><a class="stretch" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${esc(it.topic)}</a></span>
-      <span class="row-desc">${it.description ? esc(it.description) : '—'}</span>
-      <span class="row-date">${timeAgo(it)}${opts.archived ? ' · saved' : ''}</span>
-      <span class="row-vol">${volText(it) || '—'}</span>
-      <span class="row-src">${esc(src.label)}</span>
-    </div>`;
-}
-function rowsHeaderHtml() {
-  return `<div class="rows-header-row"><span></span><span>Rank</span><span>Move</span><span>Topic</span><span>Description</span><span>Time</span><span>Volume</span><span>Source</span></div>`;
-}
-function rowsTableHtml(entries) {
-  return `<div class="rows-wrap"><div class="rows-table">${rowsHeaderHtml()}${entries.join('')}</div></div>`;
-}
-
-function favSectionHtml(favs) {
-  const header = `<div class="fav-box-header">
-      <span class="fav-box-title">★ Favorites<span class="fav-box-count">(${favs.length})</span></span>
-      <button class="clear-btn" type="button" data-action="clear-favorites">Clear</button>
-    </div>`;
-  if (activeLayout === 'rows') {
-    return `<div class="rows-fav-section">${header}${rowsTableHtml(favs.map(f => rowHtml(f.item, { archived: f.archived })))}</div>`;
-  }
-  return `<div class="fav-box">${header}<div class="fav-box-items">${favs.map(f => cardHtml(f.item, { archived: f.archived })).join('')}</div></div>`;
-}
-
-/* ---------- render ---------- */
-function renderSources() {
-  const el = document.getElementById('sources');
-  el.innerHTML = SOURCES.map(s => {
-    const n = docs[s.key] && docs[s.key].items ? docs[s.key].items.length : 0;
-    return `<button class="tab-btn${s.key === activeSource ? ' active' : ''}" data-source="${s.key}">${esc(s.label)}<span class="n">${n}</span></button>`;
-  }).join('');
-}
-
-function updateSub() { /* the description at the top of the page is static */ }
-
-function updateLastUpdatedLabel() {
-  const doc = docs[activeSource];
-  document.getElementById('lastUpdated').textContent =
-    (doc && doc.updated) ? `Last updated: ${relativeTime(doc.updated)}` : 'Last updated: not yet';
-}
-
-function emptyMessage(doc) {
-  if (!doc) return 'Could not load this feed\u2019s JSON file yet. Run its workflow once (see README).';
-  if (!doc.items.length && !doc.updated) return 'No data yet. Run the workflows once (Actions tab, or the Apps Script trigger).';
-  if (!doc.items.length) return 'The last update came back empty.';
-  return 'No topics started trending in this window. Try a longer filter or All.';
-}
-
-function render() {
-  const doc = docs[activeSource];
-  const items = allItems.filter(i => i.source === activeSource);
-  const cutoff = activeHours > 0 ? Date.now() - activeHours * 3600 * 1000 : -Infinity;
-  const visible = items.filter(i => new Date(i.started_trending).getTime() >= cutoff);
-
-  visible.sort((a, b) => activeSort === 'date'
-    ? new Date(b.started_trending) - new Date(a.started_trending) || (a.rank - b.rank)
-    : (a.rank - b.rank));
-
-  const windowText = activeHours > 0 ? ` added in the last ${activeHours}h` : '';
-  document.getElementById('count').textContent =
-    `${visible.length} topic${visible.length === 1 ? '' : 's'}${windowText}`;
-  updateSub();
-  updateLastUpdatedLabel();
-
-  const grid = document.getElementById('grid');
-  const favs = getFavorites();
-  const favHtml = favs.length ? favSectionHtml(favs) : '';
-  grid.classList.toggle('grid', activeLayout !== 'rows');
-
-  if (!visible.length) {
-    grid.innerHTML = favHtml + `<div class="empty">${esc(emptyMessage(doc))}</div>`;
-    moreAvailable = false;
-    document.getElementById('sentinel').style.display = 'none';
-    return;
-  }
-  // Load as you scroll: show a batch, then add more when the bottom sentinel comes into view.
-  const viewKey = [activeSource, activeHours, activeSort, activeLayout].join('|');
-  if (viewKey !== lastViewKey) { lastViewKey = viewKey; shownCount = BATCH; }
-  const slice = visible.slice(0, shownCount);
-  grid.innerHTML = favHtml + (activeLayout === 'rows'
-    ? rowsTableHtml(slice.map(i => rowHtml(i)))
-    : slice.map(i => cardHtml(i)).join(''));
-  moreAvailable = visible.length > slice.length;
-  const sentinel = document.getElementById('sentinel');
-  sentinel.textContent = moreAvailable ? `Showing ${slice.length} of ${visible.length} \u2014 loading more\u2026` : '';
-  sentinel.style.display = moreAvailable ? '' : 'none';
-}
-
-const BATCH = 30;
-let shownCount = BATCH, lastViewKey = '', moreAvailable = false;
-function setupInfiniteScroll() {
-  const sentinel = document.getElementById('sentinel');
-  const loadMore = () => { if (moreAvailable) { shownCount += BATCH; render(); } };
-  if ('IntersectionObserver' in window) {
-    // Re-observe after each render so a sentinel that is still on screen keeps loading.
-    const io = new IntersectionObserver(entries => {
-      if (entries.some(e => e.isIntersecting)) loadMore();
-    }, { rootMargin: '600px 0px' });
-    io.observe(sentinel);
-    new MutationObserver(() => { io.unobserve(sentinel); io.observe(sentinel); })
-      .observe(document.getElementById('grid'), { childList: true });
-  } else {
-    window.addEventListener('scroll', () => {
-      if (window.innerHeight + window.scrollY > document.body.offsetHeight - 800) loadMore();
-    });
-  }
-}
-
-/* ---------- controls ---------- */
-function setActive(selector, predicate) {
-  document.querySelectorAll(selector).forEach(b => b.classList.toggle('active', predicate(b)));
-}
-
-function setupControls() {
-  setupInfiniteScroll();
-  document.getElementById('sources').addEventListener('click', e => {
-    const btn = e.target.closest('[data-source]');
-    if (!btn) return;
-    activeSource = btn.dataset.source;
-    window.scrollTo(0, 0);
-    savePref('trending_source', activeSource);
-    renderSources();
-    render();
-  });
-
-  document.querySelectorAll('#tabs .tab-btn').forEach(btn => {
-    btn.classList.toggle('active', parseInt(btn.dataset.hours, 10) === activeHours);
-    btn.addEventListener('click', () => {
-      activeHours = parseInt(btn.dataset.hours, 10);
-      savePref('trending_hours', activeHours);
-      setActive('#tabs .tab-btn', b => b === btn);
-      render();
-    });
-  });
-
-  document.querySelectorAll('.layout-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.layout === activeLayout);
-    btn.addEventListener('click', () => {
-      activeLayout = btn.dataset.layout;
-      savePref('trending_layout', activeLayout);
-      setActive('.layout-btn', b => b === btn);
-      render();
-    });
-  });
-
-  document.querySelectorAll('.sort-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.sort === activeSort);
-    btn.addEventListener('click', () => {
-      activeSort = btn.dataset.sort;
-      savePref('trending_sort', activeSort);
-      setActive('.sort-btn', b => b === btn);
-      render();
-    });
-  });
-
-  // Stars and the Clear button live inside re-rendered markup, so listen on the grid.
-  const grid = document.getElementById('grid');
-  grid.addEventListener('change', e => {
-    const input = e.target.closest('.fav-input');
-    if (input) toggleFavorite(input.dataset.uid, input.checked);
-  });
-  grid.addEventListener('click', e => {
-    if (e.target.closest('[data-action="clear-favorites"]')) clearFavorites();
-  });
-
-  const refreshBtn = document.getElementById('refreshBtn');
-  refreshBtn.addEventListener('click', async () => {
-    refreshBtn.disabled = true;
-    refreshBtn.textContent = 'Refreshing…';
-    await loadAll();
-    render();
-    refreshBtn.disabled = false;
-    refreshBtn.textContent = 'Refresh';
-  });
-}
-
-(async function init() {
-  setupControls();
-  await loadAll();
-  render();
-
-  // Pick up new commits from the workflows without a manual reload.
-  setInterval(async () => { await loadAll(); render(); }, 5 * 60 * 1000);
-  // Keep the "Last updated: Xm ago" label ticking between fetches.
-  setInterval(updateLastUpdatedLabel, 30 * 1000);
-})();
-</script>
-
-</body>
-</html>
+const TILE={
+trends:i=>{const it=i.raw,src=TS[i.sk]||{l:'',o:''},h=Math.max(0,(now-Date.parse(it.started_trending))/36e5),vol=it.volume_unit==='hours'?(h<1?'<1hr trend':Math.floor(h)+'hr trend'):(it.volume||'');
+ return`<article class="card"><div class="thumb-wrap">${imgT(it.image_url)}${favT(i)}<div class="rank-pill"><span>#${esc(it.rank)}</span>${chg(it)}</div></div><div class="body"><p class="title"><a class="stretch" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${esc(it.topic)}</a></p><p class="desc${it.description?'':' none'}">${it.description?esc(it.description):'No summary yet.'}</p><div class="meta-block"><div class="meta"><span class="when">${rel(it.published||it.started_trending)}</span><span class="vol">${esc(vol)||'\u2014'}</span></div><div class="meta"><span class="srctag">${esc(src.l)}</span><span class="go">${esc(src.o)}</span></div></div></div></article>`},
+movies:i=>{const m=i.raw,q=encodeURIComponent(m.title+(m.release?' '+m.release.slice(0,4):'')),fv=d=>`https://www.google.com/s2/favicons?domain=${d}&sz=64`,
+ imdb=/^tt\d+$/.test(m.imdb_id||'')?`https://www.imdb.com/title/${m.imdb_id}/`:`https://www.imdb.com/find/?q=${q}&s=tt`,
+ yt=safeUrl(m.trailer)||`https://www.youtube.com/results?search_query=${encodeURIComponent(m.title+' trailer')}`,
+ ic=(h,sr,n,lg)=>`<a href="${esc(h)}" target="_blank" rel="noopener noreferrer" title="${n}" aria-label="${n}"><img${lg?' class="logo"':''} src="${esc(sr)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(document.createTextNode('${n[0]}'))"><span class="arrow">\u2197</span></a>`,
+ chip=(l,v)=>`<div class="chip"><small>${l}</small>${v}</div>`,st=m.st===1||(Array.isArray(m.stream)&&m.stream.length>0),
+ th=fmtDate(m.theatrical||m.release)||'\u2014',sm=fmtDate(m.digital)||(st?'Available now':'');
+ return`<article class="card"><div class="thumb-wrap">${safeUrl(m.poster)?`<img src="${esc(safeUrl(m.poster))}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;thumb-fallback&quot;>No Poster</div>'">`:'<div class="thumb-fallback">No Poster</div>'}${favT(i)}${st?`<div class="stream-pill" title="${esc(watchLinks(m).slice(1).map(w=>w.name).join(', '))}">`+'\u25b6 Streaming</div>':m.rentbuy?'<div class="stream-pill rent">Rent / Buy</div>':''}<div class="rank-pill">#${i.rank}</div></div><div class="body"><p class="title">${esc(m.title)}</p><p class="desc${m.overview?'':' none'} clamp">${m.overview?esc(m.overview):'No summary yet.'}</p><div class="chips">${chip('RT',m.rt==null?'\u2014':Math.round(m.rt)+'%')}${chip('IMDb',m.imdb==null?'\u2014':m.imdb.toFixed(1))}${chip('Box',money(m.box))}</div><p class="watch-label">Score Links and Trailer</p><div class="links scores">${ic(`https://www.rottentomatoes.com/search?search=${encodeURIComponent(m.title)}`,fv('rottentomatoes.com'),'Rotten Tomatoes')}${ic(imdb,fv('imdb.com'),'IMDb')}${ic(yt,fv('youtube.com'),'YouTube')}</div><p class="watch-label">Get Tickets or Stream On</p><div class="links watch">${watchLinks(m).map(w=>ic(w.href,w.img||fv(w.domain),w.name,!!w.img)).join('')}</div><p class="dates"><b>Theaters:</b> ${esc(th)}${sm?`<br><b>Streaming:</b> ${esc(sm)}`:''}</p></div></article>`},
+music:i=>{const it=i.raw,L=it.links||{},q=encodeURIComponent(`${it.title} ${it.artist}`),u=safeUrl(Object.values(L)[0]),
+ defs=[['spotify','Spotify',`https://open.spotify.com/search/${q}`],['itunes','Apple',`https://music.apple.com/us/search?term=${q}`],['video','Video',`https://www.youtube.com/results?search_query=${q}`],['billboard','Billboard','']],
+ lk=defs.map(([k,n,sr])=>{const x=safeUrl(L[k]);return x?`<a class="lk" href="${esc(x)}" target="_blank" rel="noopener noreferrer">${n} \u2197</a>`:sr?`<a class="lk s" href="${esc(sr)}" target="_blank" rel="noopener noreferrer">${n} \U0001F50D</a>`:''}).join(''),
+ r=it.ranks||{},m=it.metrics||{},c=[];if(r.spotify)c.push(`Spotify #${r.spotify}${m.spotify?' \u00b7 \U0001F3A7 '+cmp(m.spotify):''}`);if(r.billboard)c.push(`Hot 100 #${r.billboard}`);if(r.itunes)c.push(`Apple #${r.itunes}`);if(r.youtube)c.push(`YouTube #${r.youtube}${m.youtube?' \u00b7 \u25b6 '+cmp(m.youtube):''}`);
+ return`<article class="card"><div class="thumb-wrap all">${u?`<a class="thumb-link" href="${esc(u)}" target="_blank" rel="noopener noreferrer">${imgT(it.image)}</a>`:imgT(it.image)}${favT(i)}<div class="rank-pill">#${i.rank}</div></div><div class="body"><p class="title">${esc(it.title)}</p><p class="artist">${esc(it.artist)}</p><p class="desc clamp">${esc(it.desc||'No description provided.')}</p><div class="links">${lk}</div><div class="meta"><span>${esc(fmtDate(it.date))}</span><span>${typeof it.metric=='number'?`<b>\u2605 ${it.metric.toFixed(1)}</b> score \u00b7 ${it.n}/${it.of} charts`:''}</span></div><div class="chips">${c.map(x=>`<span class="chip">${esc(x)}</span>`).join('')}</div></div></article>`},
+sports:i=>SPORTS(i.raw,i.tz),
+deals:i=>{const d=i.raw,pct=Math.min(100,Math.max(6,(d.rating/250)*100)),hc=heatClass(d.rating),hk=heatColor(d.rating);
+ const th=d.thumbnail?`<img src="${esc(d.thumbnail)}" alt="" loading="lazy" onload="this.parentElement.style.aspectRatio=this.naturalWidth+'/'+this.naturalHeight" onerror="this.outerHTML='<div class=&quot;thumb-fallback&quot;>No Image</div>'">`:'<div class="thumb-fallback">No Image</div>';
+ return`<a class="card" href="${esc(d.link)}" target="_blank" rel="noopener noreferrer"><div class="thumb-wrap">${th}<label class="fav-toggle" title="Favorite" onclick="event.stopPropagation()"><input type="checkbox" class="fav-input" data-id="${esc(i.id)}" ${S.favs.includes(i.id)?'checked':''} onclick="event.stopPropagation()"><span class="fav-star">\u2605</span></label><div class="rating-pill">\u25b2 ${d.rating}</div></div><div class="body"><div class="heat-row"><div class="heat-meter"><div class="heat-fill ${hc}" style="width:${pct}%;background:${hk}"></div></div><span class="heat-count">${d.rating} thumbs</span></div><p class="title">${esc(d.title)}</p><div class="meta"><span>${relT(d.pubDateIso)}</span><span class="go">View deal \u2197</span></div></div></a>`},
+diet:i=>{const o=i.raw,pr=o.price==null||o.price===''||isNaN(+o.price)?'N/A':'$'+(+o.price).toFixed(2)+'*',tm=(i.h%12||12)+':00 '+(i.h<12?'AM':'PM'),im=safeUrl(o.img),
+ t=im?`<img class="meal-thumb" src="${esc(im)}" alt="" loading="lazy" referrerpolicy="no-referrer">`:'<div class="meal-thumb meal-thumb-empty"></div>',u=safeUrl(o.url);
+ return`<div class="day-card"><div class="meal-row">${u?`<a class="meal-thumb-link" href="${esc(u)}" target="_blank" rel="noopener noreferrer">${t}</a>`:`<div class="meal-thumb-link">${t}</div>`}<div class="meal-info"><div class="meal-slot">${esc(i.slot)} \u00b7 ${tm}</div><div class="meal-name"><span class="meal-brand">${esc(o.where)}</span>${esc(o.name)}</div></div><div class="meal-money"><div class="meal-cal">${o.cal} cal*</div><div class="meal-price">${pr}</div><div class="meal-serving">Serving: ${esc(o.serving||'1 serving')}</div></div></div></div>`},
+software:i=>{const it=i.raw,S2=SW[i.f],url=safeUrl(it.url);
+ return`<article class="card"><div class="thumb-wrap ${i.f}">${url?`<a class="thumb-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${imgT(it.image)}</a>`:imgT(it.image)}${favT(i)}<div class="rank-pill">#${i.rank}</div></div><div class="body"><p class="title">${url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(it.title)}</a>`:esc(it.title)}</p><p class="desc clamp">${esc(it.desc||'No description provided.')}</p>${url?`<a class="open-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${S2.open} <span>\u2197</span></a>`:''}<div class="meta"><span>${esc(fmtDate(it.date))}</span><span>${S2.m(it)}</span></div></div></article>`}};
+// ===== render =====
+const ago=t=>{const m=Math.round((t-now)/6e4),a=Math.abs(m);const s=a<60?a+'m':a<1440?Math.round(a/60)+'h':Math.round(a/1440)+'d';return m>0?'in '+s:s+' ago'};
+function render(){const R=S.range,lo=now-R*DAY,hi=now+R*DAY;let all=[];const per={};
+ for(const it of ITEMS){let x=it;if(it.ts){if(it.ts<lo||it.ts>hi)continue}else x={...it,ts:lo+hs(it.id+R)*(now-lo)};if(it.src!='sports'){const k=it.src+(it.sk||it.f||'');per[k]=(per[k]||0)+1;if(per[k]>6*R+6)continue}all.push(x)}
+ all.push(...dietItems(R,lo));
+ if(S.tab=='fav')all=all.filter(i=>S.favs.includes(i.id)||(i.src=='diet'&&i.today)||(i.src=='sports'&&i.pick));
+ else all=all.filter(i=>i.src!='sports'||i.pick);
+ all.sort((a,b)=>b.ts-a.ts);
+ document.getElementById('count').textContent=all.length+' tiles';
+ document.getElementById('grid').innerHTML=all.map(i=>{if(TILE[i.src])return`<div class="s-${i.src}">${TILE[i.src](i)}</div>`;const on=S.favs.includes(i.id);const tag=i.url?'a':'div';
+  return`<${tag} class="tc" ${i.url?`href="${i.url}" target="_blank" rel="noopener"`:''}><div class="th ${i.logo?'logo':''}">${i.img?`<img loading="lazy" src="${i.img}" alt="" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'fb',textContent:'${i.src}'}))">`:`<div class="fb">${i.src}</div>`}
+  <button class="star ${on?'on':''}" data-id="${i.id}">★</button><span class="when">${ago(i.ts)}</span><span class="pill" style="background:${COLORS[i.src]}">${i.src}</span></div>
+  <div class="bd"><b>${i.title.replace(/</g,'&lt;')}</b><span>${String(i.sub||'').replace(/</g,'&lt;')}</span></div></${tag}>`}).join('')}
+function ui(){document.getElementById('tabs').innerHTML=[['live','Live stream'],['fav','Favorites']].map(([k,n])=>`<button class="tab ${S.tab==k?'on':''}" data-tab="${k}">${n}</button>`).join('');
+ document.getElementById('ranges').innerHTML=RANGES.map(([d,n])=>`<button class="tab ${S.range==d?'on':''}" data-r="${d}">${n}</button>`).join('')}
+document.addEventListener('click',e=>{const t=e.target;
+ if(t.classList.contains('star')){e.preventDefault();e.stopPropagation();const i=S.favs.indexOf(t.dataset.id);i<0?S.favs.push(t.dataset.id):S.favs.splice(i,1);while(JSON.stringify(S.favs).length>3000)S.favs.shift();sc('ts_favs',S.favs);render();return}
+ if(t.dataset.tab){S.tab=t.dataset.tab;sc('ts_tab',S.tab);ui();render()}
+ if(t.dataset.r){S.range=+t.dataset.r;sc('ts_range',S.range);ui();render()}});
+document.addEventListener('change',e=>{const t=e.target;if(t.classList.contains('fav-input')){const i=S.favs.indexOf(t.dataset.id);i<0?S.favs.push(t.dataset.id):S.favs.splice(i,1);while(JSON.stringify(S.favs).length>3000)S.favs.shift();sc('ts_favs',S.favs)}});
+document.addEventListener('click',e=>{const d=e.target.closest('.desc');if(d)d.classList.toggle('clamp')});
+document.getElementById('dietbtn').onclick=()=>{const v=prompt('Single Man\u2019s Diet creation date (YYYY-MM-DD). Week 1 starts the Monday after:',S.created);if(v!==null){S.created=v.trim();sc('ts_created',S.created);render()}};
+const words=['TRENDSLOPE','#AF*!','FUNKY FRESH','$%&@!','KEEP RUNNING','WTF?!','BOOGIE ON UP','@#*&%'];
+document.getElementById('mq').textContent=(words.join('  ★  ')+'  ★  ').repeat(6);
+ui();render();[movies,music,software,deals,sports,trends,diet].forEach(f=>f());
+</script></body></html>
