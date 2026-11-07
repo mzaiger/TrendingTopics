@@ -1,22 +1,48 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-07T15:25:16Z",
+  "updated": "2026-11-07T16:25:16Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "good-saturday",
+      "id": "havertz",
       "rank": 1,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T10:23:31Z",
-          "r": 5
-        },
+          "t": "2026-11-07T16:23:31Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Havertz",
+      "description": "Kai Havertz is trending as Arsenal prepares for their match against Hull City, with lineup predictions discussing his potential return.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Havertz",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.aiK9KmZIDwbziUz66bSK4AHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-saturday",
+      "rank": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
         {
           "t": "2026-11-07T11:23:31Z",
           "r": 2
@@ -36,12 +62,16 @@
         {
           "t": "2026-11-07T15:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 2
         }
       ],
-      "rank_change": 1,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Good Saturday",
-      "description": "Viewers are discussing weekend morning forecasts, sports games, and holiday specials across various local and national networks.",
+      "description": "The material does not provide a clear reason why this topic is trending.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Saturday",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.COSFSPHDoFxQ5QsR01QqgA&pid=15.1",
@@ -50,26 +80,30 @@
       "started_trending": "2026-11-07T10:23:31Z",
       "first_seen": "2026-11-07T10:23:31Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mrfanboyep11",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-07T15:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "#MrFanboyEP11",
       "description": "",
       "description_source": "",
@@ -80,7 +114,7 @@
       "started_trending": "2026-11-07T15:23:32Z",
       "first_seen": "2026-11-07T15:23:32Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
+      "last_seen": "2026-11-07T16:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -88,52 +122,22 @@
       "extra": {}
     },
     {
-      "id": "game-day",
-      "rank": 3,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-07T14:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-07T15:23:32Z",
-          "r": 3
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "GAME DAY",
-      "description": "Sports fans are tracking game day schedules, betting odds, and team previews for college football and NHL matchups.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/GAME%20DAY",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.30MYO7aDe6r4RW7KZ7Ln1gHaFi&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T14:23:32Z",
-      "first_seen": "2026-11-07T14:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "mr-fanboy-chapter-11",
       "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-07T15:23:32Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "MR FANBOY CHAPTER 11",
       "description": "",
       "description_source": "",
@@ -144,7 +148,7 @@
       "started_trending": "2026-11-07T15:23:32Z",
       "first_seen": "2026-11-07T15:23:32Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
+      "last_seen": "2026-11-07T16:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -152,67 +156,29 @@
       "extra": {}
     },
     {
-      "id": "leeds",
+      "id": "tzolis",
       "rank": 5,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-07T13:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-07T14:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-07T15:23:32Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 9,
-      "is_new": false,
-      "topic": "Leeds",
-      "description": "Leeds is trending after substitute Noah Okafor scored late to edge out Tottenham 1-0 in a match featuring VAR controversy.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Leeds",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.L-vrppGYd0MWXXr3npHOhAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T13:23:32Z",
-      "first_seen": "2026-11-07T13:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chadtough",
-      "rank": 6,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T15:23:32Z",
-          "r": 6
+          "t": "2026-11-07T16:23:31Z",
+          "r": 5
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#ChadTough",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23ChadTough",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.wV_fnpb8VMuIuNtuB6NNhQHaEL&pid=15.1",
+      "topic": "Tzolis",
+      "description": "Christos Tzolis is trending on social media following discussions about his readiness for Arsenal and a leaked fantasy football team update.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tzolis",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.X9ybAnVeEc0ga57RrYIRXw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T15:23:32Z",
-      "first_seen": "2026-11-07T15:23:32Z",
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
+      "last_seen": "2026-11-07T16:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -220,33 +186,37 @@
       "extra": {}
     },
     {
-      "id": "solanke",
-      "rank": 7,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "game-day",
+      "rank": 6,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-07T14:23:32Z",
-          "r": 9
+          "r": 2
         },
         {
           "t": "2026-11-07T15:23:32Z",
-          "r": 7
+          "r": 3
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 6
         }
       ],
-      "rank_change": 2,
+      "rank_change": -4,
       "is_new": false,
-      "topic": "Solanke",
-      "description": "Dominic Solanke is drawing commentary following Tottenham's recent lineup changes, injury updates, and loss to Leeds.",
+      "topic": "GAME DAY",
+      "description": "Sports fans are discussing various college football and hockey matchups taking place today, including Oregon versus Ohio State and Blues versus Preds.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Solanke",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.10tFssSskqU1Gm1pA8oHhwHaFB&pid=15.1",
+      "url": "https://twstalker.com/search/GAME%20DAY",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.30MYO7aDe6r4RW7KZ7Ln1gHaFi&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-07T14:23:32Z",
       "first_seen": "2026-11-07T14:23:32Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
+      "last_seen": "2026-11-07T16:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -254,44 +224,40 @@
       "extra": {}
     },
     {
-      "id": "miller",
-      "rank": 8,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "id": "krakow",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T14:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-07T15:23:32Z",
-          "r": 8
+          "t": "2026-11-07T16:23:31Z",
+          "r": 7
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Miller",
-      "description": "Stephen Miller's promotion to White House chief of staff has sparked fierce debate and backlash over his controversial immigration policies.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Krakow",
+      "description": "Social media users are sharing news updates about a mass shooting in Krakow, Poland, that left at least five people dead and over a dozen injured.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Miller",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.y7obJMjTMG4FINgW73UqpQ&pid=15.1",
+      "url": "https://twstalker.com/search/Krakow",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.KiKTQDDCZMcU-iEsFNguywHaFW&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T14:23:32Z",
-      "first_seen": "2026-11-07T14:23:32Z",
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "caturday",
-      "rank": 9,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "rank": 8,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-11-07T11:23:31Z",
@@ -312,12 +278,16 @@
         {
           "t": "2026-11-07T15:23:32Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 8
         }
       ],
       "rank_change": -1,
       "is_new": false,
       "topic": "#Caturday",
-      "description": "Users are celebrating the weekly feline-themed social media holiday with local shelter events and humorous cat content.",
+      "description": "Cat lovers are celebrating the weekend trend by sharing pet photos and discussing events like the tenth annual Caturday Brunch.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23Caturday",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.CQdv6Mr8Liv-KUrKBzyjUQHaDt&pid=15.1",
@@ -326,79 +296,97 @@
       "started_trending": "2026-11-07T11:23:31Z",
       "first_seen": "2026-11-07T11:23:31Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "la-yeguada",
-      "rank": 10,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "id": "arshul",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T12:23:29Z",
-          "r": 2
-        },
+          "t": "2026-11-07T16:23:31Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#ARSHUL",
+      "description": "Football fans are following live updates and team statistics for the Premier League match between Arsenal and Hull City.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23ARSHUL",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.poGXxNSCit8uT6TgPOYKFQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "n7day",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-11-07T13:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-07T14:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-07T15:23:32Z",
+          "t": "2026-11-07T16:23:31Z",
           "r": 10
         }
       ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "La Yeguada",
-      "description": "The provided material lacks clear details to explain why this topic is currently trending on social media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/La%20Yeguada",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.vLJB9Ew5uHsk8zrnJ0qlXA&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#N7Day",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23N7Day",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.pVys6t0Zad3Qqnb3gQeX7g&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T12:23:29Z",
-      "first_seen": "2026-11-07T12:23:29Z",
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "bentancur",
+      "id": "wwecrownjewel",
       "rank": 11,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T15:23:32Z",
+          "t": "2026-11-07T16:23:31Z",
           "r": 11
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Bentancur",
-      "description": "Rodrigo Bentancur is trending alongside Tottenham team news and updates ahead of their Premier League match against Leeds.",
+      "topic": "#WWECrownJewel",
+      "description": "Wrestling fans are discussing the match card, start times, and predictions for WWE Crown Jewel taking place in Riyadh, Saudi Arabia.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bentancur",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.OLkllOSh2wmrmllK7qpa9QHaE7&pid=15.1",
+      "url": "https://twstalker.com/search/%23WWECrownJewel",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.CC82SErfWDuSwvlkWYVsvQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T15:23:32Z",
-      "first_seen": "2026-11-07T15:23:32Z",
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
+      "last_seen": "2026-11-07T16:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -406,117 +394,49 @@
       "extra": {}
     },
     {
-      "id": "saturdayvibes",
+      "id": "miller",
       "rank": 12,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
-          "t": "2026-11-07T12:23:29Z",
+          "t": "2026-11-07T14:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-07T15:23:32Z",
           "r": 8
         },
         {
-          "t": "2026-11-07T13:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-07T14:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-07T15:23:32Z",
+          "t": "2026-11-07T16:23:31Z",
           "r": 12
         }
       ],
-      "rank_change": -4,
+      "rank_change": -6,
       "is_new": false,
-      "topic": "#SaturdayVibes",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23SaturdayVibes",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.QxBGtyzEHuu1U-MxD4_Y2QHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T12:23:29Z",
-      "first_seen": "2026-11-07T12:23:29Z",
-      "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chad-carr",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-07T15:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Chad Carr",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Chad%20Carr",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.GZiITC_2tWmEJXkPCwMNegHaDw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T15:23:32Z",
-      "first_seen": "2026-11-07T15:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tottenham",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-07T15:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tottenham",
-      "description": "Tottenham Hotspur is trending after a late goal by Noah Okafor handed them a 1-0 defeat against Leeds United.",
+      "topic": "Miller",
+      "description": "Donald Trump's elevation of Stephen Miller to White House chief of staff is sparking intense debate and backlash across social media.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tottenham",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.1cMTTlJ6mciTFvrxkA3ljQ&pid=15.1",
+      "url": "https://twstalker.com/search/Miller",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.y7obJMjTMG4FINgW73UqpQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T15:23:32Z",
-      "first_seen": "2026-11-07T15:23:32Z",
+      "started_trending": "2026-11-07T14:23:32Z",
+      "first_seen": "2026-11-07T14:23:32Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "arab-america",
-      "rank": 15,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "rank": 13,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
-        {
-          "t": "2026-11-07T10:23:31Z",
-          "r": 10
-        },
         {
           "t": "2026-11-07T11:23:31Z",
           "r": 12
@@ -536,12 +456,16 @@
         {
           "t": "2026-11-07T15:23:32Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 13
         }
       ],
-      "rank_change": -3,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Arab America",
-      "description": "Senator-elect Abdul El-Sayed is facing backlash and discussion on social media following remarks about Arab American identity made during a leadership summit speech.",
+      "description": "Abdul El-Sayed's 'Arab America' remark during a speech has drawn significant backlash and discussion across social media platforms.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Arab%20America",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.jiQGkwWvvurUJ6Ui4dUWCg&pid=15.1",
@@ -550,58 +474,32 @@
       "started_trending": "2026-11-07T04:23:30Z",
       "first_seen": "2026-11-07T04:23:30Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "marmoush",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-07T15:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Marmoush",
-      "description": "Omar Marmoush is trending in reports covering Egyptian players abroad after featuring in Tottenham's match against Leeds.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Marmoush",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.VB24qVnWugGXPgwIMipeWw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T15:23:32Z",
-      "first_seen": "2026-11-07T15:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "el-virtus-2026",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 14,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-07T15:23:32Z",
           "r": 17
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 3,
+      "is_new": false,
       "topic": "El Virtus 2026",
-      "description": "Basketball fans are following recent EuroLeague action, including highlights from Virtus Bologna's matchup against Dubai Basketball.",
+      "description": "Basketball fans are discussing recent EuroLeague and international action, including highlights from Virtus Bologna and Dubai Basketball.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/El%20Virtus%202026",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.5aAUt9Ic0jHpaDu0s4EOgw&pid=15.1",
@@ -610,7 +508,7 @@
       "started_trending": "2026-11-07T15:23:32Z",
       "first_seen": "2026-11-07T15:23:32Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
+      "last_seen": "2026-11-07T16:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -618,63 +516,101 @@
       "extra": {}
     },
     {
-      "id": "coys",
-      "rank": 18,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "id": "leeds",
+      "rank": 15,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
+          "t": "2026-11-07T13:23:32Z",
+          "r": 14
+        },
+        {
           "t": "2026-11-07T14:23:32Z",
-          "r": 11
+          "r": 4
         },
         {
           "t": "2026-11-07T15:23:32Z",
-          "r": 18
+          "r": 5
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 15
         }
       ],
-      "rank_change": -7,
+      "rank_change": -1,
       "is_new": false,
-      "topic": "#COYS",
-      "description": "Fans are using the popular club hashtag to discuss Tottenham Hotspur's latest Premier League fixture and match preview.",
+      "topic": "Leeds",
+      "description": "Leeds is trending after a late goal by substitute Noah Okafor secured a victory against Tottenham amid VAR controversy.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23COYS",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.aIfhdN4u39pN-ar3zfgKEgHaFc&pid=15.1",
+      "url": "https://twstalker.com/search/Leeds",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.L-vrppGYd0MWXXr3npHOhAHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T14:23:32Z",
-      "first_seen": "2026-11-07T14:23:32Z",
+      "started_trending": "2026-11-07T13:23:32Z",
+      "first_seen": "2026-11-07T13:23:32Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gallagher",
-      "rank": 19,
+      "id": "hull",
+      "rank": 16,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T15:23:32Z",
-          "r": 19
+          "t": "2026-11-07T16:23:31Z",
+          "r": 16
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Gallagher",
-      "description": "Arthur J. Gallagher stock and company updates are drawing investor attention following recent financial results.",
+      "topic": "Hull",
+      "description": "Hull City is trending as fans discuss team news and starting lineups ahead of their Premier League match against Arsenal.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gallagher",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.GgISflqb7CkbKdRFflEGwAHaD4&pid=15.1",
+      "url": "https://twstalker.com/search/Hull",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.iVNwOZ5IwVXdEaGNASVKFw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T15:23:32Z",
-      "first_seen": "2026-11-07T15:23:32Z",
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "la-granja-vip",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "La Granja VIP",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/La%20Granja%20VIP",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.SeZfamtQhvXkruv7SpACxAHaD4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-07T16:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -683,19 +619,23 @@
     },
     {
       "id": "task-force-iron-gate",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-11-07T15:23:32Z",
           "r": 20
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 2,
+      "is_new": false,
       "topic": "Task Force Iron Gate",
-      "description": "CENTCOM's launch of Task Force Iron Gate to disrupt Iranian land commerce and Caspian supply routes is generating global news coverage.",
+      "description": "Social media users are discussing CENTCOM's launch of Task Force Iron Gate to disrupt Iranian land transit routes and commerce.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Task%20Force%20Iron%20Gate",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.e4SSnGzPRrPgD0QmK5Dz0QHaEr&pid=15.1",
@@ -704,7 +644,75 @@
       "started_trending": "2026-11-07T15:23:32Z",
       "first_seen": "2026-11-07T15:23:32Z",
       "published": null,
-      "last_seen": "2026-11-07T15:23:32Z",
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "solanke",
+      "rank": 19,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-07T14:23:32Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-07T15:23:32Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "Solanke",
+      "description": "Tottenham fans are discussing Dominic Solanke's confidence levels following recent Premier League matches and team news.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Solanke",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.10tFssSskqU1Gm1pA8oHhwHaFB&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T14:23:32Z",
+      "first_seen": "2026-11-07T14:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T16:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jennifer-welch",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T16:23:31Z",
+          "r": 20
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jennifer Welch",
+      "description": "Jennifer Welch is facing severe backlash and the loss of podcast sponsors after she and her co-host laughed about remarks regarding Charlie Kirk.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jennifer%20Welch",
+      "image_url": "https://ts4.explicit.bing.net/th?id=OIP.whtEh8M_0kCsjHh2JySRRgHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-07T16:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
