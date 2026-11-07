@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-06T23:25:05Z",
+  "updated": "2026-11-07T00:24:52Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -32,12 +32,16 @@
         {
           "t": "2026-11-06T23:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Stephen Miller",
-      "description": "President Trump named hardliner Stephen Miller as his new White House chief of staff, replacing Susie Wiles following Republican midterm losses.",
+      "description": "President Trump has named hardliner Stephen Miller as his new White House chief of staff, replacing Susie Wiles following midterm election losses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Stephen%20Miller",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.ymA5msP0-_NM51-UAe7tOQHaFn&pid=15.1",
@@ -46,18 +50,48 @@
       "started_trending": "2026-11-06T19:23:36Z",
       "first_seen": "2026-11-06T19:23:36Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chief-of-staff",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Chief of Staff",
+      "description": "President Trump named hardliner Stephen Miller as his new White House chief of staff, replacing Susie Wiles following midterm election losses.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Chief%20of%20Staff",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.WdTU3YhZUaJinkxPNedV6g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T00:23:33Z",
+      "first_seen": "2026-11-07T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "susie-wiles",
-      "rank": 2,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "rank": 3,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-11-06T19:23:36Z",
@@ -78,12 +112,16 @@
         {
           "t": "2026-11-06T23:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 3
         }
       ],
-      "rank_change": 2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Susie Wiles",
-      "description": "President Trump announced that Susie Wiles is out as White House chief of staff and will be replaced by Stephen Miller.",
+      "description": "President Trump replaced Susie Wiles as White House chief of staff, naming hardliner Stephen Miller as her successor following midterm election losses.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Susie%20Wiles",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.yAcrWWzarciDgNtI5AzogQ&pid=15.1",
@@ -92,40 +130,10 @@
       "started_trending": "2026-11-06T19:23:36Z",
       "first_seen": "2026-11-06T19:23:36Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "voiceagent",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#VoiceAgent",
-      "description": "Tech and ecommerce discussions are trending as users explore new AI bots designed to automate tasks like email, SEO, and reports.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23VoiceAgent",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.VmiDpGHURguwIZDCTM5L7gHaEC&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T23:23:32Z",
-      "first_seen": "2026-11-06T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -142,6 +150,10 @@
         {
           "t": "2026-11-06T23:23:32Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 4
         }
       ],
       "rank_change": 15,
@@ -156,70 +168,16 @@
       "started_trending": "2026-11-06T22:23:33Z",
       "first_seen": "2026-11-06T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rtxon",
-      "rank": 5,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-06T17:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-06T18:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-06T19:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-06T22:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 5
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "#RTXON",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23RTXON",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ubz99Ik2MVG6ab4ej2wWLgHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T15:23:32Z",
-      "first_seen": "2026-11-06T15:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "tyler-perry",
-      "rank": 6,
+      "rank": 5,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -238,12 +196,16 @@
         {
           "t": "2026-11-06T23:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 5
         }
       ],
-      "rank_change": 2,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Tyler Perry",
-      "description": "Georgia Governor-elect Keisha Lance Bottoms added Tyler Perry to her transition team following her historic election win.",
+      "description": "Tyler Perry has been added to Georgia Governor-elect Keisha Lance Bottoms' transition team despite facing sexual assault lawsuits, alongside starring in a new holiday film.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Tyler%20Perry",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.IvEfkNu2wbmXp_mpb2tE4gHaE8&pid=15.1",
@@ -252,27 +214,19 @@
       "started_trending": "2026-11-06T20:23:33Z",
       "first_seen": "2026-11-06T20:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "cybertruck",
-      "rank": 7,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "rank": 6,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
-        {
-          "t": "2026-11-06T17:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-06T18:23:32Z",
-          "r": 2
-        },
         {
           "t": "2026-11-06T19:23:36Z",
           "r": 5
@@ -292,12 +246,16 @@
         {
           "t": "2026-11-06T23:23:32Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 6
         }
       ],
-      "rank_change": -5,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Cybertruck",
-      "description": "Tesla is reportedly ending production of the Cybertruck to refocus its efforts on the Cybercab after years of division and recalls.",
+      "description": "Tesla is reportedly ending production of the Cybertruck after years of hype, division, and recalls to refocus on the Cybercab.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Cybertruck",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.GTqEsktqIA5MNhSxV9Fipg&pid=15.1",
@@ -306,10 +264,44 @@
       "started_trending": "2026-11-06T08:23:31Z",
       "first_seen": "2026-11-06T08:23:31Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 15,
-      "volume": "15hr trend",
-      "volume_value": 15,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 16,
+      "volume": "16hr trend",
+      "volume_value": 16,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "voiceagent",
+      "rank": 7,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-06T23:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "#VoiceAgent",
+      "description": "The material does not make this topic clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23VoiceAgent",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.VmiDpGHURguwIZDCTM5L7gHaEC&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T23:23:32Z",
+      "first_seen": "2026-11-06T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -334,12 +326,16 @@
         {
           "t": "2026-11-06T23:23:32Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 8
         }
       ],
       "rank_change": 6,
       "is_new": false,
       "topic": "Calley Means",
-      "description": "MAHA leader Calley Means resigned and criticized the Trump administration, accusing officials of bending to industry and blocking healthy-food policies.",
+      "description": "MAHA leader Calley Means has resigned and criticized the White House administration, accusing officials and Chief of Staff Susie Wiles of prioritizing donations and industry interests over healthy-food policies.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Calley%20Means",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.w_gwZgtkfIOGD1lYKU0_SgHaJq&pid=15.1",
@@ -348,16 +344,164 @@
       "started_trending": "2026-11-06T20:23:33Z",
       "first_seen": "2026-11-06T20:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rtxon",
+      "rank": 9,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-06T19:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-06T20:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-06T21:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-06T23:23:32Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "#RTXON",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23RTXON",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ubz99Ik2MVG6ab4ej2wWLgHaD4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T15:23:32Z",
+      "first_seen": "2026-11-06T15:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "macklemore",
+      "rank": 10,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-06T23:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Macklemore",
+      "description": "Macklemorre called out multiple U.S. venues, including MSG and Climate Pledge Arena, after claiming nine arenas turned down his 'Free Palestine' tour.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Macklemore",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.3xThpwOVrsjptRb2p9hWhQHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T23:23:32Z",
+      "first_seen": "2026-11-06T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brandon-aiyuk",
+      "rank": 11,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-06T23:23:32Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Brandon Aiyuk",
+      "description": "Brandon Aiyuk arrived at the 49ers' business offices looking to get reinstated into the NFL, while reports indicate he reportedly owes the team about $13 million.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Brandon%20Aiyuk",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.HtZesafARAjJgDQqehoLrw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T23:23:32Z",
+      "first_seen": "2026-11-06T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "maha",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "MAHA",
+      "description": "MAHA activists are celebrating the replacement of White House Chief of Staff Susie Wiles, while allies like Calley Means speak out against administration corruption.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/MAHA",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.aJSeiOfxkoaN8o3XxL6EaA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T00:23:33Z",
+      "first_seen": "2026-11-07T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "goebbels",
-      "rank": 9,
+      "rank": 13,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -376,12 +520,16 @@
         {
           "t": "2026-11-06T23:23:32Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 13
         }
       ],
-      "rank_change": 1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Goebbels",
-      "description": "Social media users are expressing alarm and debating the rise of Stephen Miller following his appointment as White House chief of staff.",
+      "description": "Social media users are discussing Stephen Miller's new White House role, with critics drawing sharp historical comparisons regarding his dangerous influence.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Goebbels",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.5N4mY4Kb2AhmlF7_6UlRFgHaDt&pid=15.1",
@@ -390,151 +538,37 @@
       "started_trending": "2026-11-06T20:23:33Z",
       "first_seen": "2026-11-06T20:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "azzi",
-      "rank": 10,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-06T18:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-06T19:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-06T22:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Azzi",
-      "description": "Former UConn basketball stars Paige Bueckers and Azzi Fudd publicly confirmed they split up over a year before becoming WNBA teammates.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Azzi",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.nCkPWNu40d4ABXWvL0WpfgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T18:23:32Z",
-      "first_seen": "2026-11-06T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "macklemore",
-      "rank": 11,
+      "id": "mlbs7spoilers",
+      "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 11
+          "t": "2026-11-07T00:23:33Z",
+          "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Macklemore",
-      "description": "Macklemore is trending after accusing multiple major U.S. venues of rejecting his Free Palestine benefit tour.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Macklemore",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.3xThpwOVrsjptRb2p9hWhQHaFj&pid=15.1",
+      "topic": "#MLBS7Spoilers",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MLBS7Spoilers",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.RXW1tEuBtBUfNCR2Q57FVwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-06T23:23:32Z",
-      "first_seen": "2026-11-06T23:23:32Z",
+      "started_trending": "2026-11-07T00:23:33Z",
+      "first_seen": "2026-11-07T00:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "carlos-alcaraz",
-      "rank": 12,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-06T22:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Carlos Alcaraz",
-      "description": "Carlos Alcaraz saved two match points to defeat Taylor Fritz in a late-night thriller at the Rolex Paris Open quarterfinals.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Carlos%20Alcaraz",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.TbUlPdCMdC6OzEa4y6dboQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T22:23:33Z",
-      "first_seen": "2026-11-06T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fritz",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Fritz",
-      "description": "Taylor Fritz played a hard-fought quarterfinal match against Carlos Alcaraz at the Rolex Paris Open, saving multiple match points before losing.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fritz",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Tmdv4GLOQSbwMdoXmJSh_gHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T23:23:32Z",
-      "first_seen": "2026-11-06T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
+      "last_seen": "2026-11-07T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -543,18 +577,10 @@
     },
     {
       "id": "hatchet",
-      "rank": 14,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "rank": 15,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
-        {
-          "t": "2026-11-06T17:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-06T18:23:32Z",
-          "r": 6
-        },
         {
           "t": "2026-11-06T19:23:36Z",
           "r": 8
@@ -574,12 +600,16 @@
         {
           "t": "2026-11-06T23:23:32Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 15
         }
       ],
-      "rank_change": -8,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Hatchet",
-      "description": "The material provided is mixed and does not clearly indicate a single trending news event for this topic.",
+      "description": "The material does not make this topic clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Hatchet",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.Zb1tKx64ChRZHiG1xHHDHQHaLh&pid=15.1",
@@ -588,16 +618,130 @@
       "started_trending": "2026-11-06T17:23:33Z",
       "first_seen": "2026-11-06T17:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hakeem",
+      "rank": 16,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-11-06T23:23:32Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Hakeem",
+      "description": "Hakeem Jeffries called for Hegseth's removal and urged the firing of Stephen Miller, labeling him a dangerous xenophobe after his promotion.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Hakeem",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.DOe/o8z1s/Ouq39WSmM3Xg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T23:23:32Z",
+      "first_seen": "2026-11-06T23:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sahil",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sahil",
+      "description": "Sahil Babayev has been featured in news regarding inflation forecasts and per-student funding expansions in education.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sahil",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.f6pEE42nwM9PSh6l6U1npwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T00:23:33Z",
+      "first_seen": "2026-11-07T00:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "azzi",
+      "rank": 18,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-06T19:23:36Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-06T20:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-06T21:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-06T22:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-06T23:23:32Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -12,
+      "is_new": false,
+      "topic": "Azzi",
+      "description": "Former UConn basketball stars Paige Bueckers and Azzi Fudd publicly announced on a podcast that they are no longer a couple, confirming they split over a year ago.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Azzi",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.nCkPWNu40d4ABXWvL0WpfgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-06T18:23:32Z",
+      "first_seen": "2026-11-06T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T00:23:33Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "patriots-in-control",
-      "rank": 15,
+      "rank": 19,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -612,12 +756,16 @@
         {
           "t": "2026-11-06T23:23:32Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-07T00:23:33Z",
+          "r": 19
         }
       ],
-      "rank_change": 4,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Patriots in Control",
-      "description": "Political discussions are active following major midterm election shifts, leadership changes in the White House, and Pentagon policy debates.",
+      "description": "Social media users are discussing political shifts and leadership updates, including Stephen Miller taking over as White House chief of staff after midterm defeats.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Patriots%20in%20Control",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.sItc4gIUiwEhReSfia3yGA&pid=15.1",
@@ -626,53 +774,7 @@
       "started_trending": "2026-11-06T21:23:33Z",
       "first_seen": "2026-11-06T21:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "wilpons",
-      "rank": 16,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-06T19:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-06T22:23:33Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Wilpons",
-      "description": "SNY, the Mets' sports network, is facing significant layoffs and canceling signature programs amid sweeping changes.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Wilpons",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.p-gYlhP7tVKmjEPuCz4afwHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T19:23:36Z",
-      "first_seen": "2026-11-06T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
+      "last_seen": "2026-11-07T00:23:33Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -680,135 +782,29 @@
       "extra": {}
     },
     {
-      "id": "romney",
-      "rank": 17,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-06T20:23:33Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-06T21:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-06T22:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Romney",
-      "description": "Mitt Romney is making news following post-midterm remarks and criticisms from Florida Governor Ron DeSantis.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Romney",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.-9dBZuU6eEaJS_GaAXIqjwHaKE&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T20:23:33Z",
-      "first_seen": "2026-11-06T20:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sevilla",
-      "rank": 18,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-06T22:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Sevilla",
-      "description": "Soccer fans are following the latest LALIGA match between Sevilla and Alavés.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sevilla",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.TQv4JOgNjN9uPQj75dmVxQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T22:23:33Z",
-      "first_seen": "2026-11-06T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "brandon-aiyuk",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-06T23:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Brandon Aiyuk",
-      "description": "Brandon Aiyuk is trending as reports surface that he owes the 49ers about $13 million while planning to meet with the team.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brandon%20Aiyuk",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.HtZesafARAjJgDQqehoLrw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-06T23:23:32Z",
-      "first_seen": "2026-11-06T23:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hakeem",
+      "id": "ninjago",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-06T23:23:32Z",
+          "t": "2026-11-07T00:23:33Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Hakeem",
-      "description": "House Democratic Leader Hakeem Jeffries is trending after calling for the removal of Pete Hegseth and denouncing Stephen Miller's promotion.",
+      "topic": "Ninjago",
+      "description": "LEGO has officially announced the 3,495-piece Ninjago 71888 Ivo's Ninja Dojo set, which is scheduled to arrive in early 2027.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Hakeem",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.DOe/o8z1s/Ouq39WSmM3Xg&pid=15.1",
+      "url": "https://twstalker.com/search/Ninjago",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.y4t2mUnDM1dyHoOWlOg24QHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-06T23:23:32Z",
-      "first_seen": "2026-11-06T23:23:32Z",
+      "started_trending": "2026-11-07T00:23:33Z",
+      "first_seen": "2026-11-07T00:23:33Z",
       "published": null,
-      "last_seen": "2026-11-06T23:23:32Z",
+      "last_seen": "2026-11-07T00:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
