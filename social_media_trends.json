@@ -1,15 +1,105 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-07T22:24:58Z",
+  "updated": "2026-11-07T23:25:26Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "dana-white",
+      "id": "ryan-day",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ryan Day",
+      "description": "Ohio State head coach Ryan Day is trending as he provides injury updates and return timelines for star quarterback Julian Sayin, alongside lineup adjustments ahead of the matchup against Oregon.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ryan%20Day",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.gXMsP2sDYrze0_5hFwSgPQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T23:23:33Z",
+      "first_seen": "2026-11-07T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fahey",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Fahey",
+      "description": "Fahey is trending as Ohio State head coach Ryan Day commits to Luke Fahey to help adjust the team following Julian Sayin's injury.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Fahey",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.jDp/tGeWH1QTHqC8ywV1jA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T23:23:33Z",
+      "first_seen": "2026-11-07T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ohio-state",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ohio State",
+      "description": "Ohio State is trending as the Buckeyes face off against Oregon in a high-stakes college football matchup with critical implications for their College Football Playoff hopes.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ohio%20State",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Q4gSGNkWAgJnV0t0aEJxuQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T23:23:33Z",
+      "first_seen": "2026-11-07T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dana-white",
+      "rank": 4,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -28,12 +118,16 @@
         {
           "t": "2026-11-07T22:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 4
         }
       ],
-      "rank_change": 5,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Dana White",
-      "description": "Donald Trump reportedly asked UFC chief Dana White to serve as his White House press secretary, generating widespread media coverage.",
+      "description": "UFC CEO Dana White is trending after reports surfaced that he declined an offer from Donald Trump to serve as White House press secretary.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Dana%20White",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.PtnCrU3k7PnwfR6BYKjzaQ&pid=15.1",
@@ -42,23 +136,211 @@
       "started_trending": "2026-11-07T19:23:33Z",
       "first_seen": "2026-11-07T19:23:33Z",
       "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "oregon",
+      "rank": 5,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-07T22:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Oregon",
+      "description": "The Oregon Ducks are trending during their high-profile college football clash against Ohio State, where they debuted new uniforms and surged to a halftime lead.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Oregon",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.-rdqCfXWPETQqad9Ln1RtwHaFg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T22:23:32Z",
+      "first_seen": "2026-11-07T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "arthur-smith",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Arthur Smith",
+      "description": "The provided material does not make the description for Arthur Smith clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Arthur%20Smith",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9JFm92qPXrhfdWfaX8x-iAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T23:23:33Z",
+      "first_seen": "2026-11-07T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sam-leavitt",
+      "rank": 7,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-07T22:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Sam Leavitt",
+      "description": "LSU quarterback Sam Leavitt is trending following his performance and comments ahead of the matchup against Alabama.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Sam%20Leavitt",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Nyn4QSjzB7wKsidOCfURAQAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T22:23:32Z",
+      "first_seen": "2026-11-07T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "matt-patricia",
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-07T22:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Matt Patricia",
+      "description": "The provided material does not make the description for Matt Patricia clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Matt%20Patricia",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.cVZJizpRheyoFPaKdi0v6w&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T22:23:32Z",
+      "first_seen": "2026-11-07T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lanorris-sellers",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "LaNorris Sellers",
+      "description": "South Carolina quarterback LaNorris Sellers is trending after exiting the game against Texas A&M due to a lower-body injury before later returning.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/LaNorris%20Sellers",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Y4eWk7C3a0H6qHXx9EZ0wgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T23:23:33Z",
+      "first_seen": "2026-11-07T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "buckeyes",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Buckeyes",
+      "description": "The Buckeyes are trending as they wear all scarlet uniforms for a major college football showdown against the Oregon Ducks.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Buckeyes",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.CG7hZomxey69ssfoJGwezAHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T23:23:33Z",
+      "first_seen": "2026-11-07T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mizzou",
-      "rank": 2,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "rank": 11,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-11-07T17:23:33Z",
-          "r": 13
-        },
         {
           "t": "2026-11-07T18:23:34Z",
           "r": 5
@@ -78,12 +360,16 @@
         {
           "t": "2026-11-07T22:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 11
         }
       ],
-      "rank_change": 11,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Mizzou",
-      "description": "Mizzou football fell to Texas with a 34-20 score, suffering its third loss of the season at home against the Longhorns.",
+      "description": "Mizzou is trending after suffering their third loss of the season at home following a 34-20 defeat against Texas.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mizzou",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.r2JkNstXI5EkV7wGogTB3Q&pid=15.1",
@@ -92,87 +378,7 @@
       "started_trending": "2026-11-07T17:23:33Z",
       "first_seen": "2026-11-07T17:23:33Z",
       "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sam-leavitt",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Sam Leavitt",
-      "description": "LSU quarterback Sam Leavitt is trending as he prepares for the upcoming Alabama game and discusses how a previous setback elevated his game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Sam%20Leavitt",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Nyn4QSjzB7wKsidOCfURAQAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T22:23:32Z",
-      "first_seen": "2026-11-07T22:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "wwecrownjewel",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-07T17:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-07T18:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-07T19:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-07T20:23:37Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "#WWECrownJewel",
-      "description": "WWE Crown Jewel 2026 featured major matches and results in Saudi Arabia, including Roman Reigns defeating Sami Zayn and Chelsea Green capturing a title before Tiffany Stratton cashed in.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23WWECrownJewel",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.CC82SErfWDuSwvlkWYVsvQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T16:23:31Z",
-      "first_seen": "2026-11-07T16:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
+      "last_seen": "2026-11-07T23:23:33Z",
       "hours_trending": 6,
       "volume": "6hr trend",
       "volume_value": 6,
@@ -180,8 +386,144 @@
       "extra": {}
     },
     {
+      "id": "ufcvegas124",
+      "rank": 12,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-07T22:23:32Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "#UFCVegas124",
+      "description": "UFC Vegas 124 is trending as fight fans follow live results and highlights from the card featuring the matchup between Waldo Cortes-Acosta and Johnny Walker.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23UFCVegas124",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.IAQ4ljDmWQbfXNI1hAX9zA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T22:23:32Z",
+      "first_seen": "2026-11-07T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dan-lanning",
+      "rank": 13,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-11-07T22:23:32Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "Dan Lanning",
+      "description": "Oregon coach Dan Lanning is trending after making bold and risky play calls that put Ohio State on upset alert during their showdown.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dan%20Lanning",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.C9IXdQdoPVYLdMpZGfCthg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T22:23:32Z",
+      "first_seen": "2026-11-07T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dakorien-moore",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dakorien Moore",
+      "description": "Wide receiver Dakorien Moore is trending as social media discusses his motivation and role as a key offensive weapon for Oregon against Ohio State.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dakorien%20Moore",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.8S94lcUxl_A3itovoM3-VAEsCo&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T23:23:33Z",
+      "first_seen": "2026-11-07T23:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "texas",
+      "rank": 15,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-07T21:23:32Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-07T22:23:32Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "Texas",
+      "description": "Texas is trending following a 34-20 victory over Missouri, led by Arch Manning amid a wild officiating controversy.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Texas",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.u946kP4H0xjAPvkLt2yXvg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T21:23:32Z",
+      "first_seen": "2026-11-07T21:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "utah",
-      "rank": 5,
+      "rank": 16,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -204,12 +546,16 @@
         {
           "t": "2026-11-07T22:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 16
         }
       ],
-      "rank_change": -3,
+      "rank_change": -14,
       "is_new": false,
       "topic": "Utah",
-      "description": "No. 3 Utah improved to 9-0 and stayed perfect by defeating No. 9 BYU in the latest 'Holy War' rivalry matchup.",
+      "description": "Utah is trending after improving to 9-0 and snapping a losing streak by defeating rival BYU 28-20 in the Holy War.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Utah",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.xYgEUsCrdc06wOWXsr67dA&pid=15.1",
@@ -218,185 +564,7 @@
       "started_trending": "2026-11-07T18:23:34Z",
       "first_seen": "2026-11-07T18:23:34Z",
       "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "matt-patricia",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Matt Patricia",
-      "description": "The description is not clear from the provided material.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Matt%20Patricia",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.cVZJizpRheyoFPaKdi0v6w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T22:23:32Z",
-      "first_seen": "2026-11-07T22:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "texas",
-      "rank": 7,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Texas",
-      "description": "Led by Arch Manning, the Texas Longhorns rallied to secure a 34-20 victory over Missouri following a controversial fumble and a strong defensive performance.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Texas",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.u946kP4H0xjAPvkLt2yXvg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T21:23:32Z",
-      "first_seen": "2026-11-07T21:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oregon",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Oregon",
-      "description": "The Oregon Ducks are trending ahead of their high-stakes college football matchup against Ohio State, featuring a first-time uniform combination.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Oregon",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.-rdqCfXWPETQqad9Ln1RtwHaFg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T22:23:32Z",
-      "first_seen": "2026-11-07T22:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ucla",
-      "rank": 9,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "UCLA",
-      "description": "Undefeated No. 5 UCLA pulled away late to secure a hard-fought 34-20 victory against Minnesota, giving the College Football Playoff committee something to consider.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/UCLA",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.TDpEDQ0QkTLLP9eNEjey5Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T21:23:32Z",
-      "first_seen": "2026-11-07T21:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "missouri",
-      "rank": 10,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-07T17:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-07T18:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-07T19:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-07T20:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Missouri",
-      "description": "No. 18 Missouri suffered a 34-20 defeat to No. 7 Texas after the Longhorns capitalized on a controversial Arch Manning fumble and scored 21 straight points.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Missouri",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.PqaTlnhwqtF0TXVffohWlg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T17:23:33Z",
-      "first_seen": "2026-11-07T17:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
+      "last_seen": "2026-11-07T23:23:33Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -404,96 +572,84 @@
       "extra": {}
     },
     {
-      "id": "chelsea",
-      "rank": 11,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "keelon-russell",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T19:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-07T20:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 11
+          "t": "2026-11-07T23:23:33Z",
+          "r": 17
         }
       ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Chelsea",
-      "description": "Chelsea Green won the WWE Women's Crown Jewel Championship, but immediately lost the title when Tiffany Stratton cashed in her contract.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Keelon Russell",
+      "description": "Alabama quarterback Keelon Russell is trending after playing through an ankle injury during the game against LSU.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chelsea",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.T4Z0wwLakt/29ohUPNPp9A&pid=15.1",
+      "url": "https://twstalker.com/search/Keelon%20Russell",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Mczqjvv0BwASJQzdK3o1Jw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T19:23:33Z",
-      "first_seen": "2026-11-07T19:23:33Z",
+      "started_trending": "2026-11-07T23:23:33Z",
+      "first_seen": "2026-11-07T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "valencia",
-      "rank": 12,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "id": "st-clair",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 12
+          "t": "2026-11-07T23:23:33Z",
+          "r": 18
         }
       ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Valencia",
-      "description": "Fans are searching for how to watch the upcoming La Liga match between Valencia and Real Madrid as Real Madrid looks to go joint top.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "St Clair",
+      "description": "St. Clair is trending across local news and social media topics, ranging from film festival screenings for an independent thriller to local political and police reports.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Valencia",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.2o8yRzAI7XKaIZ3spcwauAHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/St%20Clair",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.NuO7N3XdhoeLqdndXetkDgHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T21:23:32Z",
-      "first_seen": "2026-11-07T21:23:32Z",
+      "started_trending": "2026-11-07T23:23:33Z",
+      "first_seen": "2026-11-07T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "raiola",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-11-07T22:23:32Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "Raiola",
-      "description": "The description is not clear from the provided material.",
+      "description": "The provided material does not make the description for Raiola clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Raiola",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.OleuFStc65Xp6U3Mo8M1mAHaE8&pid=15.1",
@@ -502,41 +658,7 @@
       "started_trending": "2026-11-07T22:23:32Z",
       "first_seen": "2026-11-07T22:23:32Z",
       "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "utes",
-      "rank": 14,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Utes",
-      "description": "The Utah Utes staged a comeback to beat rival BYU 28-20, keeping their undefeated season alive in the latest 'Holy War'.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Utes",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.fPEAgancmOLMoCTfMDxYtw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T21:23:32Z",
-      "first_seen": "2026-11-07T21:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
+      "last_seen": "2026-11-07T23:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -544,206 +666,52 @@
       "extra": {}
     },
     {
-      "id": "bear",
-      "rank": 15,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Bear",
-      "description": "Animal and economic topics trended as grizzly bear deaths reached a modern record high in the Yellowstone region and a troublesome black bear named Nugget won an award.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bear",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.NL8vkGInV5R_RWAs4hokhgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T21:23:32Z",
-      "first_seen": "2026-11-07T21:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "arch-manning",
-      "rank": 16,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-07T20:23:37Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Arch Manning",
-      "description": "Arch Manning helped lead No. 7 Texas past Missouri 34-20 with a late rally, overcoming a controversial fumble and chaotic officiating in the SEC showdown.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Arch%20Manning",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.MaKGwUnjYQi9/9uzO/JQKA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T20:23:37Z",
-      "first_seen": "2026-11-07T20:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hookem",
-      "rank": 17,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-07T20:23:37Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#HookEm",
-      "description": "Social media reacted to Texas football's road win over Missouri, highlighting controversial calls and the team's ability to survive and advance.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23HookEm",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.b53IacQk99-3SdX5R-TNjAAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T20:23:37Z",
-      "first_seen": "2026-11-07T20:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jay-timmons",
-      "rank": 18,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Jay Timmons",
-      "description": "Ohio State's Jay Timmons was cleared to play ahead of the top-25 Big Ten clash against Oregon, while several teammates were ruled out.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jay%20Timmons",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.7SzFyBc/8OpcN46Iiz1Izw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T21:23:32Z",
-      "first_seen": "2026-11-07T21:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ufcvegas124",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#UFCVegas124",
-      "description": "UFC fans are following live results, highlights, and preliminary matches from UFC Vegas 124, featuring a main card headlined by Waldo Cortes-Acosta and Johnny Walker.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23UFCVegas124",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.IAQ4ljDmWQbfXNI1hAX9zA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T22:23:32Z",
-      "first_seen": "2026-11-07T22:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dan-lanning",
+      "id": "wwecrownjewel",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
+          "t": "2026-11-07T18:23:34Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-07T19:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-07T20:23:37Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-07T21:23:32Z",
+          "r": 3
+        },
+        {
           "t": "2026-11-07T22:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Dan Lanning",
-      "description": "Oregon coach Dan Lanning is trending on social media as the Ducks prepare for their high-profile clash against Ohio State in Columbus.",
+      "rank_change": -19,
+      "is_new": false,
+      "topic": "#WWECrownJewel",
+      "description": "WWE Crown Jewel is trending as fans discuss match results and highlights from Riyadh, including Roman Reigns defeating a resilient Sami Zayn.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dan%20Lanning",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.C9IXdQdoPVYLdMpZGfCthg&pid=15.1",
+      "url": "https://twstalker.com/search/%23WWECrownJewel",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.CC82SErfWDuSwvlkWYVsvQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-07T22:23:32Z",
-      "first_seen": "2026-11-07T22:23:32Z",
+      "started_trending": "2026-11-07T16:23:31Z",
+      "first_seen": "2026-11-07T16:23:31Z",
       "published": null,
-      "last_seen": "2026-11-07T22:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-07T23:23:33Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     }
