@@ -1,15 +1,49 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-08T02:25:17Z",
+  "updated": "2026-11-08T03:25:12Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "ohio-state",
+      "id": "ole-miss",
       "rank": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-08T02:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Ole Miss",
+      "description": "Fans and sports analysts are previewing the high-stakes SEC college football matchup between No. 2 Georgia and No. 12 Ole Miss.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ole%20Miss",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.vgNvFBO1gP0ssNIFXpULOQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T02:23:35Z",
+      "first_seen": "2026-11-08T02:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ohio-state",
+      "rank": 2,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -28,12 +62,16 @@
         {
           "t": "2026-11-08T02:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 2
         }
       ],
-      "rank_change": 2,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Ohio State",
-      "description": "Ohio State's College Football Playoff hopes took a massive hit following a 41-28 loss to Oregon, prompting heavy criticism of coach Ryan Day.",
+      "description": "Ohio State football coach Ryan Day and his team are facing heavy criticism and discussions about playoff hopes following a 41-28 loss to Oregon.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ohio%20State",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.Q4gSGNkWAgJnV0t0aEJxuQ&pid=15.1",
@@ -42,7 +80,7 @@
       "started_trending": "2026-11-07T23:23:33Z",
       "first_seen": "2026-11-07T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
+      "last_seen": "2026-11-08T03:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -50,29 +88,101 @@
       "extra": {}
     },
     {
-      "id": "ole-miss",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "notre-dame",
+      "rank": 3,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-11-08T02:23:35Z",
-          "r": 2
+          "r": 14
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ole Miss",
-      "description": "No. 12 Ole Miss prepares for a high-stakes SEC matchup against No. 2 Georgia.",
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "Notre Dame",
+      "description": "College football fans are discussing the high-stakes matchup between Miami and Notre Dame with College Football Playoff implications on the line.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ole%20Miss",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.vgNvFBO1gP0ssNIFXpULOQ&pid=15.1",
+      "url": "https://twstalker.com/search/Notre%20Dame",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.ztYni1G9ZiTnT8YLI4SYfQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-08T02:23:35Z",
       "first_seen": "2026-11-08T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kentucky",
+      "rank": 4,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-08T02:23:35Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 12,
+      "is_new": false,
+      "topic": "Kentucky",
+      "description": "Kentucky football fans are reacting after their team suffered a 34-6 defeat against No. 13 Tennessee.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kentucky",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.JS1GR7iVdjbfGp3l/pm8cQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T02:23:35Z",
+      "first_seen": "2026-11-08T02:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mensah",
+      "rank": 5,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-08T02:23:35Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 14,
+      "is_new": false,
+      "topic": "Mensah",
+      "description": "Miami quarterback Darian Mensah is generating NFL Draft stock discussion and Heisman buzz ahead of the matchup against Notre Dame.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mensah",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-08T02:23:35Z",
+      "first_seen": "2026-11-08T02:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-08T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -81,7 +191,7 @@
     },
     {
       "id": "ryan-day",
-      "rank": 3,
+      "rank": 6,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -100,12 +210,16 @@
         {
           "t": "2026-11-08T02:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": -2,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Ryan Day",
-      "description": "Ohio State coach Ryan Day faced intense scrutiny and questions about his contract buyout following a disappointing loss to Oregon.",
+      "description": "Ohio State head coach Ryan Day is trending following a loss to Oregon that brought scrutiny to his roster, staff, and contract buyout details.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ryan%20Day",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.gXMsP2sDYrze0_5hFwSgPQHaE8&pid=15.1",
@@ -114,128 +228,10 @@
       "started_trending": "2026-11-07T23:23:33Z",
       "first_seen": "2026-11-07T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
+      "last_seen": "2026-11-08T03:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dana-white",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-07T20:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-07T21:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-07T23:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-08T00:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-08T01:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Dana White",
-      "description": "UFC CEO Dana White is reportedly discussing a White House press secretary job offer with President Trump.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dana%20White",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.PtnCrU3k7PnwfR6BYKjzaQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T19:23:33Z",
-      "first_seen": "2026-11-07T19:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cj-carr",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "CJ Carr",
-      "description": "Notre Dame quarterback CJ Carr is drawing attention for his accuracy and arm strength ahead of a high-profile primetime matchup against Miami.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/CJ%20Carr",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.62eAymKWnd9iowH_zaCTVgHaJg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T02:23:35Z",
-      "first_seen": "2026-11-08T02:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dawson",
-      "rank": 6,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-08T01:23:32Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 12,
-      "is_new": false,
-      "topic": "Dawson",
-      "description": "A runner named Dawson made headlines by logging an all-time record as a 6A girls cross country champion.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Dawson",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.1bjYVbe2d_L_hNpi9Ot_cwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T01:23:32Z",
-      "first_seen": "2026-11-08T01:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -252,12 +248,16 @@
         {
           "t": "2026-11-08T02:23:35Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 7
         }
       ],
       "rank_change": 6,
       "is_new": false,
       "topic": "#AEWCollision",
-      "description": "Wrestling fans are discussing the latest AEW Collision event, featuring matches on the Chris Jericho cruise, including Andrade El Idolo versus Tommaso Ciampa.",
+      "description": "Wrestling fans are discussing the results and matches from the AEW Collision Rock and Wrestling Rager event broadcast live from the Jericho cruise.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23AEWCollision",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.hUghfvgtI18HkbJlbmH3bwHaLV&pid=15.1",
@@ -266,92 +266,144 @@
       "started_trending": "2026-11-08T01:23:32Z",
       "first_seen": "2026-11-08T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "lane-kiffin",
+      "id": "miami",
       "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Miami",
+      "description": "Sports fans are discussing Miami star wide receiver Malachi Toney needing ankle surgery following an injury in practice.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Miami",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-08T03:23:32Z",
+      "first_seen": "2026-11-08T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tennessee",
+      "rank": 9,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-08T02:23:35Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Tennessee",
+      "description": "Tennessee athletics are trending following the football team's dominant 34-6 victory over Kentucky.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Tennessee",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.6B/hcK42eUvkBgV6s4lzUw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T02:23:35Z",
+      "first_seen": "2026-11-08T02:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "michigan",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Michigan",
+      "description": "Michigan football fans are following the annual rivalry game against Michigan State at Michigan Stadium, which drew notable figures like Hugh Jackman.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Michigan",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.i04Izx1UXgJ_9-wZkwX8AwHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T03:23:32Z",
+      "first_seen": "2026-11-08T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cj-carr",
+      "rank": 11,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
         {
-          "t": "2026-11-08T00:23:31Z",
+          "t": "2026-11-08T02:23:35Z",
           "r": 5
         },
         {
-          "t": "2026-11-08T01:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 8
+          "t": "2026-11-08T03:23:32Z",
+          "r": 11
         }
       ],
-      "rank_change": -3,
+      "rank_change": -6,
       "is_new": false,
-      "topic": "Lane Kiffin",
-      "description": "LSU coach Lane Kiffin faced a harsh reality check after his team fell flat against Alabama in a dominant loss.",
+      "topic": "CJ Carr",
+      "description": "Notre Dame quarterback CJ Carr is drawing attention for his performance and touchdown connections during the primetime game against Miami.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Lane%20Kiffin",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xO9o-RCym7aYBiEquP-9vgHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/CJ%20Carr",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.62eAymKWnd9iowH_zaCTVgHaJg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-08T00:23:31Z",
-      "first_seen": "2026-11-08T00:23:31Z",
+      "started_trending": "2026-11-08T02:23:35Z",
+      "first_seen": "2026-11-08T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bama",
-      "rank": 9,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-08T00:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-08T01:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Bama",
-      "description": "Alabama defeated LSU in Baton Rouge, keeping their College Football Playoff hopes alive while bubbling the losers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bama",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.eKsMmW0DrXjpB6e0PAUrfA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T00:23:31Z",
-      "first_seen": "2026-11-08T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ufcvegas124",
-      "rank": 10,
+      "rank": 12,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -374,12 +426,16 @@
         {
           "t": "2026-11-08T02:23:35Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 12
         }
       ],
-      "rank_change": 9,
+      "rank_change": 7,
       "is_new": false,
       "topic": "#UFCVegas124",
-      "description": "Fans are following live results and highlights from UFC Vegas 124, headlined by the Waldo Cortes-Acosta and Johnny Walker match.",
+      "description": "Combat sports fans are sharing live results, highlights, and round scoring from the UFC Vegas 124 event featuring Cortes-Acosta vs. Walker.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23UFCVegas124",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.IAQ4ljDmWQbfXNI1hAX9zA&pid=15.1",
@@ -388,26 +444,148 @@
       "started_trending": "2026-11-07T22:23:32Z",
       "first_seen": "2026-11-07T22:23:32Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dana-white",
+      "rank": 13,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-11-07T22:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-07T23:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-08T00:23:31Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-08T01:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-08T02:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -12,
+      "is_new": false,
+      "topic": "Dana White",
+      "description": "UFC CEO Dana White is trending after reports surfaced that Donald Trump offered him the White House press secretary role.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dana%20White",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.PtnCrU3k7PnwfR6BYKjzaQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-07T19:23:33Z",
+      "first_seen": "2026-11-07T19:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jason-beck",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jason Beck",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jason%20Beck",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.MR5cLJSWHgySDu9_7UgABwHaKt&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T03:23:32Z",
+      "first_seen": "2026-11-08T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dawson",
+      "rank": 15,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-08T01:23:32Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-08T02:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Dawson",
+      "description": "High school sports fans are discussing cross-country champion Dawson, basketball matchups, and a walk-off field goal in the playoffs.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Dawson",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.1bjYVbe2d_L_hNpi9Ot_cwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T01:23:32Z",
+      "first_seen": "2026-11-08T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ningningatlacma2026",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-11-08T02:23:35Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -5,
+      "is_new": false,
       "topic": "#NINGNINGatLACMA2026",
       "description": "",
       "description_source": "",
@@ -418,7 +596,7 @@
       "started_trending": "2026-11-08T02:23:35Z",
       "first_seen": "2026-11-08T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
+      "last_seen": "2026-11-08T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -426,218 +604,44 @@
       "extra": {}
     },
     {
-      "id": "jeremiah-smith",
-      "rank": 12,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "id": "bama",
+      "rank": 17,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-08T00:23:31Z",
-          "r": 4
+          "r": 6
         },
         {
           "t": "2026-11-08T01:23:32Z",
-          "r": 5
+          "r": 8
         },
         {
           "t": "2026-11-08T02:23:35Z",
-          "r": 12
+          "r": 9
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": -8,
+      "rank_change": -11,
       "is_new": false,
-      "topic": "Jeremiah Smith",
-      "description": "Ohio State wide receiver Jeremiah Smith showed frustration and saw his Heisman Trophy odds shift after the team's loss to Oregon, despite breaking receiving records.",
+      "topic": "Bama",
+      "description": "College football fans are reacting to Alabama's 31-13 victory over LSU and what it means for the College Football Playoff race.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jeremiah%20Smith",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.M4uuIGNjXzNylQFRkG1Qeg&pid=15.1",
+      "url": "https://twstalker.com/search/Bama",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.eKsMmW0DrXjpB6e0PAUrfA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-08T00:23:31Z",
       "first_seen": "2026-11-08T00:23:31Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fahey",
-      "rank": 13,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-07T23:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-08T00:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-08T01:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Fahey",
-      "description": "Ohio State quarterback Luke Fahey fell to 0-2 as a starter following a 41-28 loss to Oregon, sparking discussions about the team's quarterback depth chart.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fahey",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.jDp/tGeWH1QTHqC8ywV1jA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T23:23:33Z",
-      "first_seen": "2026-11-07T23:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
+      "last_seen": "2026-11-08T03:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "notre-dame",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Notre Dame",
-      "description": "Notre Dame is hosting Miami in a high-stakes primetime college football game with major College Football Playoff implications.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Notre%20Dame",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.ztYni1G9ZiTnT8YLI4SYfQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T02:23:35Z",
-      "first_seen": "2026-11-08T02:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oregon",
-      "rank": 15,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-07T22:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-07T23:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-08T00:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-08T01:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Oregon",
-      "description": "Oregon secured a season-defining 41-28 victory over Ohio State, dramatically revitalizing their path toward the College Football Playoff.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Oregon",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.-rdqCfXWPETQqad9Ln1RtwHaFg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T22:23:32Z",
-      "first_seen": "2026-11-07T22:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kentucky",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kentucky",
-      "description": "Kentucky is trending amid live updates for the 2026 U.S. House elections and upcoming college basketball matchups.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kentucky",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.JS1GR7iVdjbfGp3l/pm8cQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T02:23:35Z",
-      "first_seen": "2026-11-08T02:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tennessee",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-08T02:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tennessee",
-      "description": "Tennessee is in the spotlight due to various athletic events, including live updates for a football matchup against Kentucky.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Tennessee",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.6B/hcK42eUvkBgV6s4lzUw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T02:23:35Z",
-      "first_seen": "2026-11-08T02:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -658,12 +662,16 @@
         {
           "t": "2026-11-08T02:23:35Z",
           "r": 18
+        },
+        {
+          "t": "2026-11-08T03:23:32Z",
+          "r": 18
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Heisman",
-      "description": "The latest Heisman Trophy odds are shifting as players like CJ Carr rise, Jeremiah Smith falls after a loss, and Utah's Devon Dampier gains buzz.",
+      "description": "Heisman Trophy odds are trending as players like CJ Carr rise, Jeremiah Smith falls, and Devon Dampier enters the conversation after a strong season.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Heisman",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.eYB8mFFBWUd1x1iyYIxKJQHaE8&pid=15.1",
@@ -672,37 +680,37 @@
       "started_trending": "2026-11-08T00:23:31Z",
       "first_seen": "2026-11-08T00:23:31Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mensah",
+      "id": "toney",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-08T02:23:35Z",
+          "t": "2026-11-08T03:23:32Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Mensah",
-      "description": "Miami quarterback Darian Mensah is gaining attention as his NFL Draft stock rises and he builds his Heisman case ahead of the Notre Dame game.",
+      "topic": "Toney",
+      "description": "Miami star wide receiver Malachi Toney is missing the big game against Notre Dame after suffering an ankle injury in practice that requires surgery.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mensah",
+      "url": "https://twstalker.com/search/Toney",
       "image_url": "",
       "image_source": "",
       "image_verified": false,
-      "started_trending": "2026-11-08T02:23:35Z",
-      "first_seen": "2026-11-08T02:23:35Z",
+      "started_trending": "2026-11-08T03:23:32Z",
+      "first_seen": "2026-11-08T03:23:32Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
+      "last_seen": "2026-11-08T03:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -710,44 +718,32 @@
       "extra": {}
     },
     {
-      "id": "arthur-smith",
+      "id": "whittingham",
       "rank": 20,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-07T23:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-08T00:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-08T01:23:32Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-08T02:23:35Z",
+          "t": "2026-11-08T03:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "Arthur Smith",
-      "description": "Social media users reacted strongly to Ohio State's loss to Oregon, with some calling for major program resets following the defeat.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Whittingham",
+      "description": "Kyle Whittingham is trending as discussions continue surrounding Utah's success following the Holy War and speculation regarding Michigan's football struggles.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Arthur%20Smith",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9JFm92qPXrhfdWfaX8x-iAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-07T23:23:33Z",
-      "first_seen": "2026-11-07T23:23:33Z",
+      "url": "https://twstalker.com/search/Whittingham",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-08T03:23:32Z",
+      "first_seen": "2026-11-08T03:23:32Z",
       "published": null,
-      "last_seen": "2026-11-08T02:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-08T03:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
