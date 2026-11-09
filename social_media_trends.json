@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-09T14:25:21Z",
+  "updated": "2026-11-09T15:25:27Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,8 +10,8 @@
     {
       "id": "good-monday",
       "rank": 1,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-09T10:23:35Z",
@@ -32,12 +32,16 @@
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 1
         }
       ],
-      "rank_change": 4,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Good Monday",
-      "description": "The material doesn't make a description clear.",
+      "description": "The material does not contain enough information to make a description clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Good%20Monday",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.rjLIom2KIAoGBWgQGcGw7wHaFu&pid=15.1",
@@ -46,108 +50,92 @@
       "started_trending": "2026-11-09T10:23:35Z",
       "first_seen": "2026-11-09T10:23:35Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jessie-bates",
+      "id": "russell-brand",
       "rank": 2,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T13:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-09T14:23:37Z",
+          "t": "2026-11-09T15:23:36Z",
           "r": 2
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Jessie Bates",
-      "description": "The Jacksonville Jaguars are reportedly acquiring safety Jessie Bates III from the Atlanta Falcons in exchange for two draft picks.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Russell Brand",
+      "description": "British comedian and actor Russell Brand is trending after being sentenced to over 10 years in prison for rape and sexual assault convictions.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jessie%20Bates",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.tYvbp6bjcxnrV-tRXZ29UwHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Russell%20Brand",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.psZISH0bD0I0S90OABT9rw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T13:23:37Z",
-      "first_seen": "2026-11-09T13:23:37Z",
+      "started_trending": "2026-11-09T15:23:36Z",
+      "first_seen": "2026-11-09T15:23:36Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mondaymotivation",
+      "id": "bates",
       "rank": 3,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-09T11:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-09T12:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-09T13:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-09T14:23:37Z",
+          "t": "2026-11-09T15:23:36Z",
           "r": 3
         }
       ],
-      "rank_change": 9,
-      "is_new": false,
-      "topic": "#MondayMotivation",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23MondayMotivation",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.3l3MVT3-iOJQW_t62jkuXQHaHa&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bates",
+      "description": "Safety Jessie Bates III is trending after being traded by the Atlanta Falcons to the Jacksonville Jaguars ahead of the NFL trade deadline.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bates",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.MXVBRXRQMTulmGpG1SOQNA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T10:23:35Z",
-      "first_seen": "2026-11-09T10:23:35Z",
+      "started_trending": "2026-11-09T15:23:36Z",
+      "first_seen": "2026-11-09T15:23:36Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "guna-yala",
       "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Guna Yala",
-      "description": "The material doesn't make a description clear.",
+      "description": "The material does not contain enough information to make a description clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Guna%20Yala",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.VbePBhrffixIan3FaK8HxwHaE7&pid=15.1",
@@ -156,7 +144,7 @@
       "started_trending": "2026-11-09T14:23:37Z",
       "first_seen": "2026-11-09T14:23:37Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
+      "last_seen": "2026-11-09T15:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -180,12 +168,16 @@
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 5
         }
       ],
       "rank_change": 3,
       "is_new": false,
       "topic": "Victory Monday",
-      "description": "The material doesn't make a description clear.",
+      "description": "Sports fans on social media are celebrating 'Victory Monday' following recent football games and sporting events.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Victory%20Monday",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.W_ao-VdD2IwchelxXkeVawHaEK&pid=15.1",
@@ -194,28 +186,112 @@
       "started_trending": "2026-11-09T12:23:35Z",
       "first_seen": "2026-11-09T12:23:35Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mondaymotivation",
+      "rank": 6,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-09T10:23:35Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-09T12:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-09T13:23:37Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-09T14:23:37Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "#MondayMotivation",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MondayMotivation",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.3l3MVT3-iOJQW_t62jkuXQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T10:23:35Z",
+      "first_seen": "2026-11-09T10:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "idontwanttooverreactbut",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#IDontWantToOverreactBUT",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23IDontWantToOverreactBUT",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.AJ-Iy1QwFWkvDxcI87rImAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T15:23:36Z",
+      "first_seen": "2026-11-09T15:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "beane",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Beane",
-      "description": "The material doesn't make a description clear.",
+      "description": "The material does not contain enough information to make a description clear.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Beane",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.z_e7FXoMpSMGuHlWNN-x-AHaHa&pid=15.1",
@@ -224,7 +300,7 @@
       "started_trending": "2026-11-09T14:23:37Z",
       "first_seen": "2026-11-09T14:23:37Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
+      "last_seen": "2026-11-09T15:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -232,38 +308,50 @@
       "extra": {}
     },
     {
-      "id": "zerospendonloveanddeepspace",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "nvda",
+      "rank": 9,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
+          "t": "2026-11-09T12:23:35Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-09T13:23:37Z",
+          "r": 18
+        },
+        {
           "t": "2026-11-09T14:23:37Z",
-          "r": 7
+          "r": 13
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ZeroSpendOnLoveAndDeepspace",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23ZeroSpendOnLoveAndDeepspace",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.DmjId6yQv/XQYUco6sU0LQ&pid=15.1",
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "$NVDA",
+      "description": "Nvidia stock is sliding and dragging down the tech sector as the company investigates CEO Jensen Huang's relationship with an alleged Chinese spy.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%24NVDA",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.PVWSGAUjOZMcSOaMiMasRQHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T14:23:37Z",
-      "first_seen": "2026-11-09T14:23:37Z",
+      "started_trending": "2026-11-09T12:23:35Z",
+      "first_seen": "2026-11-09T12:23:35Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "nvidia",
-      "rank": 8,
+      "rank": 10,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -274,12 +362,16 @@
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 10
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Nvidia",
-      "description": "Nvidia's stock sank after the company opened an investigation into CEO Jensen Huang's relationship with an alleged Chinese spy.",
+      "description": "Nvidia is trending as the company opens an investigation into CEO Jensen Huang's relationship and affair with an alleged Chinese spy.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Nvidia",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.k8-8WlMXWGOnWT4OVPz6AgHaE8&pid=15.1",
@@ -288,7 +380,7 @@
       "started_trending": "2026-11-09T13:23:37Z",
       "first_seen": "2026-11-09T13:23:37Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
+      "last_seen": "2026-11-09T15:23:36Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -296,45 +388,11 @@
       "extra": {}
     },
     {
-      "id": "topic",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T14:23:37Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#中国叠纸姚润昊纵欲狂魔",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23%E4%B8%AD%E5%9B%BD%E5%8F%A0%E7%BA%B8%E5%A7%9A%E6%B6%A6%E6%98%8A%E7%BA%B5%E6%AC%B2%E7%8B%82%E9%AD%94",
-      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.H8IjNKxEaGqXo62X4sSHGAAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T14:23:37Z",
-      "first_seen": "2026-11-09T14:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "amnesty",
-      "rank": 10,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "rank": 11,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 5
-        },
         {
           "t": "2026-11-09T10:23:35Z",
           "r": 6
@@ -354,12 +412,16 @@
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 11
         }
       ],
       "rank_change": -4,
       "is_new": false,
       "topic": "Amnesty",
-      "description": "Donald Trump floated an amnesty deal and admitted he was too tough on immigrants following a midterms disaster.",
+      "description": "Immigration policy is a major topic on social media following reports that Donald Trump admitted immigration crackdowns went too far and floated a potential amnesty deal.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Amnesty",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.hNXR3OeeT2fj/8eOEsiRSA&pid=15.1",
@@ -368,23 +430,117 @@
       "started_trending": "2026-11-09T03:23:33Z",
       "first_seen": "2026-11-09T03:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "calle-18",
+      "rank": 12,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-09T14:23:37Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Calle 18",
+      "description": "The material does not contain enough information to make a description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Calle%2018",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.WlfGeSAEYK07TtYYsM2ihwHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T14:23:37Z",
+      "first_seen": "2026-11-09T14:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "topic",
+      "rank": 13,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-09T14:23:37Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "#中国叠纸姚润昊纵欲狂魔",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23%E4%B8%AD%E5%9B%BD%E5%8F%A0%E7%BA%B8%E5%A7%9A%E6%B6%A6%E6%98%8A%E7%BA%B5%E6%AC%B2%E7%8B%82%E9%AD%94",
+      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.H8IjNKxEaGqXo62X4sSHGAAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T14:23:37Z",
+      "first_seen": "2026-11-09T14:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "avalanche",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Avalanche",
+      "description": "The Avalanche are trending as the New York Stock Exchange taps the Avalanche blockchain to settle tokenized stocks, alongside sports updates regarding the NHL team.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Avalanche",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.9r81Z87FxrbjbLoEBol_nwHaFE&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T15:23:36Z",
+      "first_seen": "2026-11-09T15:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ray-j",
-      "rank": 11,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "rank": 15,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 11
-        },
         {
           "t": "2026-11-09T10:23:35Z",
           "r": 4
@@ -404,12 +560,16 @@
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 15
         }
       ],
-      "rank_change": -7,
+      "rank_change": -13,
       "is_new": false,
       "topic": "Ray J",
-      "description": "Ray J reportedly threatened to have his baby mama beat up Adrien Broner's girlfriend as she tried to take a drunk Broner home.",
+      "description": "Ray J is generating online discussion after threatening to have his baby mama confront Adrien Broner's girlfriend during an incident involving Broner.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ray%20J",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.Fq2jXXdQYkweHcEal130MQHaE8&pid=15.1",
@@ -418,128 +578,30 @@
       "started_trending": "2026-11-09T09:23:36Z",
       "first_seen": "2026-11-09T09:23:36Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "calle-18",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T14:23:37Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Calle 18",
-      "description": "The material doesn't make a description clear.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Calle%2018",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.WlfGeSAEYK07TtYYsM2ihwHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T14:23:37Z",
-      "first_seen": "2026-11-09T14:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nvda",
-      "rank": 13,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-09T12:23:35Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-09T13:23:37Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-09T14:23:37Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "$NVDA",
-      "description": "Nvidia stock fell as an investigation into CEO Jensen Huang over an alleged spy scandal raised governance risks and extended a tech sell-off.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24NVDA",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.PVWSGAUjOZMcSOaMiMasRQHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T12:23:35Z",
-      "first_seen": "2026-11-09T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "will-mcdonald",
-      "rank": 14,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-09T13:23:37Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-09T14:23:37Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Will McDonald",
-      "description": "New York Jets defensive end Will McDonald IV has reportedly requested a trade away from the team due to frustration over a lack of playing time.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Will%20McDonald",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.r88y-eb01D5FPNKbieDb9gHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T13:23:37Z",
-      "first_seen": "2026-11-09T13:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mi-caja-digital",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Mi Caja Digital",
       "description": "",
       "description_source": "",
@@ -550,7 +612,7 @@
       "started_trending": "2026-11-09T14:23:37Z",
       "first_seen": "2026-11-09T14:23:37Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
+      "last_seen": "2026-11-09T15:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -558,67 +620,29 @@
       "extra": {}
     },
     {
-      "id": "goai",
-      "rank": 16,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-09T12:23:35Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-09T13:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-09T14:23:37Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "$GOAI",
-      "description": "Traders and investors on social media are discussing technical analysis and market signals for Eva Live, Inc. stock under the ticker GOAI.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%24GOAI",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.1sFQyj5WQg0eoTCd_5On_QHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T12:23:35Z",
-      "first_seen": "2026-11-09T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jungkookxcalvinklein",
+      "id": "nyse",
       "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T14:23:37Z",
+          "t": "2026-11-09T15:23:36Z",
           "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#JUNGKOOKxCALVINKLEIN",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23JUNGKOOKxCALVINKLEIN",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.kq_ivdXZaCWz4hqA_RVjFwAAAA&pid=15.1",
+      "topic": "NYSE",
+      "description": "The New York Stock Exchange is trending on social media after announcing plans to settle tokenized stocks on the Avalanche blockchain.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/NYSE",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.GsL5Q2B7znYc5MIi6cHRpgHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T14:23:37Z",
-      "first_seen": "2026-11-09T14:23:37Z",
+      "started_trending": "2026-11-09T15:23:36Z",
+      "first_seen": "2026-11-09T15:23:36Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
+      "last_seen": "2026-11-09T15:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -628,13 +652,9 @@
     {
       "id": "60-minutes",
       "rank": 18,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 13
-        },
         {
           "t": "2026-11-09T10:23:35Z",
           "r": 10
@@ -654,12 +674,16 @@
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 18
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 18
         }
       ],
-      "rank_change": -8,
+      "rank_change": -6,
       "is_new": false,
       "topic": "60 Minutes",
-      "description": "President Trump's post-midterm elections interview with CBS News went viral following wild exchanges and discussions on deportation policy.",
+      "description": "Donald Trump's post-midterm elections interview on 60 Minutes is trending as he discusses immigration policies, his net worth, and other topics.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/60%20Minutes",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.qSPH/P9GQRxOHuOOWvuq6w&pid=15.1",
@@ -668,44 +692,40 @@
       "started_trending": "2026-11-09T06:23:32Z",
       "first_seen": "2026-11-09T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "george-floyd",
+      "id": "nataly-delgado",
       "rank": 19,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T13:23:37Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-09T14:23:37Z",
+          "t": "2026-11-09T15:23:36Z",
           "r": 19
         }
       ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "George Floyd",
-      "description": "Critics resurfaced an old tweet by Charlie Kirk regarding George Floyd after Erika Kirk rebuked critics over 'moral decay'.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Nataly Delgado",
+      "description": "Boxer Nataly Delgado is trending following her unification match and decision loss against Irma Garcia.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/George%20Floyd",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.TWtqXz-q5GIb1uodT9XcGgHaEK&pid=15.1",
+      "url": "https://twstalker.com/search/Nataly%20Delgado",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.R_jeJE7zYX2AwJKcUoIklgAAAA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T13:23:37Z",
-      "first_seen": "2026-11-09T13:23:37Z",
+      "started_trending": "2026-11-09T15:23:36Z",
+      "first_seen": "2026-11-09T15:23:36Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -726,6 +746,10 @@
         {
           "t": "2026-11-09T14:23:37Z",
           "r": 20
+        },
+        {
+          "t": "2026-11-09T15:23:36Z",
+          "r": 20
         }
       ],
       "rank_change": -14,
@@ -740,10 +764,10 @@
       "started_trending": "2026-11-09T12:23:35Z",
       "first_seen": "2026-11-09T12:23:35Z",
       "published": null,
-      "last_seen": "2026-11-09T14:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T15:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     }
