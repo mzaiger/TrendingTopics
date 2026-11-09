@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-09T04:25:22Z",
+  "updated": "2026-11-09T05:25:06Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Caleb",
-      "description": "Caleb Williams drew attention on social media after throwing multiple interceptions during the Bears' matchup against the Buccaneers.",
+      "description": "Caleb Williams threw multiple interceptions during the Chicago Bears' close win over the Tampa Bay Buccaneers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Caleb",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.arnAbpa4eMUl3J49asA_lwAAAA&pid=15.1",
@@ -38,28 +42,32 @@
       "started_trending": "2026-11-09T02:23:32Z",
       "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bears",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Bears",
-      "description": "The Chicago Bears are trending during their Sunday Night Football matchup against the Tampa Bay Buccaneers after strong plays and injuries captured fans' attention on social media.",
+      "description": "The Chicago Bears secured a narrow Week 9 victory against the Tampa Bay Buccaneers following a game-winning field goal.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bears",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.43D8UBsktEvUfRyMTBAOsQ&pid=15.1",
@@ -68,10 +76,10 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -92,12 +100,16 @@
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 3
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Bucs",
-      "description": "The Tampa Bay Buccaneers are trending on social media during their Sunday Night Football game against the Chicago Bears.",
+      "description": "The Tampa Bay Buccaneers suffered a narrow loss to the Chicago Bears in a Sunday Night Football game featuring multiple turnovers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bucs",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.pILihofMlaWRKabLij5GJA&pid=15.1",
@@ -106,7 +118,41 @@
       "started_trending": "2026-11-09T02:23:32Z",
       "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bucky-irving",
+      "rank": 4,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-09T04:23:31Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Bucky Irving",
+      "description": "Bucky Irving scored two touchdowns for the Tampa Bay Buccaneers during their narrow loss to the Chicago Bears.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bucky%20Irving",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Ft1EMkZyTTQhAU4pGbMuGw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T04:23:31Z",
+      "first_seen": "2026-11-09T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T05:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -115,19 +161,23 @@
     },
     {
       "id": "jaylon-johnson",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 5,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Jaylon Johnson",
-      "description": "Jaylon Johnson is trending on social media after intercepting Baker Mayfield and returning it for a 67-yard touchdown during Sunday Night Football.",
+      "description": "Jaylon Johnson returned an interception 67 yards for a touchdown against Baker Mayfield during the Chicago Bears' game against the Buccaneers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jaylon%20Johnson",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.S-sT2Y9iwuV_XmEzYfKPPQHaEK&pid=15.1",
@@ -136,16 +186,16 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "todd-bowles",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -160,12 +210,16 @@
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": 6,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Todd Bowles",
-      "description": "Tampa Bay Buccaneers head coach Todd Bowles is trending on social media as his team faces the Chicago Bears on Sunday Night Football.",
+      "description": "Tampa Bay Buccaneers coach Todd Bowles faces scrutiny for costly decisions following his team's emotional loss to the Chicago Bears.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Todd%20Bowles",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.HUKqwdMLwLAS5FxFYZU0DwHaE8&pid=15.1",
@@ -174,7 +228,101 @@
       "started_trending": "2026-11-09T02:23:32Z",
       "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ben-johnson",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ben Johnson",
+      "description": "Chicago Bears head coach Ben Johnson is trending on social media for his postgame 'Stanky Legg' victory dance.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Ben%20Johnson",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.xks5cHiksy6dDu4h4/BMzg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T05:23:32Z",
+      "first_seen": "2026-11-09T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "burden",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Burden",
+      "description": "Chicago Bears wide receiver Luther Burden III exited the game against the Buccaneers after sustaining a head injury on a big hit.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Burden",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.S19N53mVL4ZCJU8tZ0fCVA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T05:23:32Z",
+      "first_seen": "2026-11-09T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "buccaneers",
+      "rank": 9,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-09T04:23:31Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Buccaneers",
+      "description": "The Tampa Bay Buccaneers fell to the Chicago Bears in a close Sunday Night Football matchup that extended the Bears' winning streak.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Buccaneers",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.FYc1eGvBbkyH9pO2oPAkTw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T04:23:31Z",
+      "first_seen": "2026-11-09T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T05:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -183,19 +331,23 @@
     },
     {
       "id": "devin-bush",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 10,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "Devin Bush",
-      "description": "Devin Bush is trending on social media after combining with James Lynch to stop Baker Mayfield's quarterback sneak attempt against the Buccaneers.",
+      "description": "Devin Bush and James Lynch combined to stop a quarterback sneak attempt by Baker Mayfield during the Bears' win over Tampa Bay.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Devin%20Bush",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.rv7jyJpDK3Pw/DxZN5HAtQ&pid=15.1",
@@ -204,45 +356,7 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "baddiesusachapter3",
-      "rank": 7,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-09T02:23:32Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-09T03:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 11,
-      "is_new": false,
-      "topic": "#BaddiesUSAChapter3",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23BaddiesUSAChapter3",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Dj5RpYNS7xDLA6flRy6I9gAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T02:23:32Z",
-      "first_seen": "2026-11-09T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
+      "last_seen": "2026-11-09T05:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -250,15 +364,147 @@
       "extra": {}
     },
     {
-      "id": "jensen",
-      "rank": 8,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "id": "beardown",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 17
+          "t": "2026-11-09T05:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BearDown",
+      "description": "The hashtag is trending in connection with local news regarding the Pima County Clerk of Superior Court continuing to serve the public.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23BearDown",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.H5SwyXd3jw7od3GUBHW8ywHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T05:23:32Z",
+      "first_seen": "2026-11-09T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tbvschi",
+      "rank": 12,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-11-09T03:23:33Z",
+          "r": 14
         },
+        {
+          "t": "2026-11-09T04:23:31Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "#TBvsCHI",
+      "description": "Fans on social media are discussing the turnover-filled Sunday Night Football matchup between the Tampa Bay Buccaneers and Chicago Bears.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23TBvsCHI",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.KZ9SmaA7nCT2owQ6Qm3mGA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T03:23:33Z",
+      "first_seen": "2026-11-09T03:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "amnesty",
+      "rank": 13,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-09T03:23:33Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-09T04:23:31Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Amnesty",
+      "description": "Donald Trump floated an amnesty deal for immigrants, stating he was previously 'too tough,' sparking widespread discussion.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Amnesty",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.hNXR3OeeT2fj/8eOEsiRSA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T03:23:33Z",
+      "first_seen": "2026-11-09T03:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "baddiesusachapterthree",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BaddiesUsaChapterThree",
+      "description": "The third chapter of Bucky's series premiered on the Zeus network, drawing attention across social media.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23BaddiesUsaChapterThree",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.dmZGFpzLNwPKwqBx6r7uEQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T05:23:32Z",
+      "first_seen": "2026-11-09T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jensen",
+      "rank": 15,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
         {
           "t": "2026-11-08T23:23:34Z",
           "r": 7
@@ -282,12 +528,16 @@
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": 2,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Jensen",
-      "description": "Nvidia CEO Jensen Huang is trending on social media following reports that the board launched an investigation into his relationship with an accused Chinese spy.",
+      "description": "Nvidia's board launched an investigation after CEO Jensen Huang admitted to an affair with an accused Chinese spy.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jensen",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.//iGhK25bpzHHdKQJVUD2g&pid=15.1",
@@ -296,105 +546,71 @@
       "started_trending": "2026-11-08T22:23:33Z",
       "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "tbvschi",
-      "rank": 9,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "id": "4-ints",
+      "rank": 16,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
-          "t": "2026-11-09T03:23:33Z",
-          "r": 14
+          "t": "2026-11-09T04:23:31Z",
+          "r": 19
         },
         {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 9
+          "t": "2026-11-09T05:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": 5,
+      "rank_change": 3,
       "is_new": false,
-      "topic": "#TBvsCHI",
-      "description": "Fans are following live updates and scores on social media for the Sunday Night Football matchup between the Chicago Bears and Tampa Bay Buccaneers.",
+      "topic": "4 INTs",
+      "description": "Social media is discussing Caleb Williams throwing four interceptions during the Chicago Bears' narrow victory over the Buccaneers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23TBvsCHI",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.KZ9SmaA7nCT2owQ6Qm3mGA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T03:23:33Z",
-      "first_seen": "2026-11-09T03:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bucky-irving",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bucky Irving",
-      "description": "Bucky Irving is trending on social media after scoring a touchdown and breaking tackles during the Buccaneers' game against the Chicago Bears.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bucky%20Irving",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Ft1EMkZyTTQhAU4pGbMuGw&pid=15.1",
+      "url": "https://twstalker.com/search/4%20INTs",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.SXS4YL12ekHv/ePIYGKReQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "amnesty",
-      "rank": 11,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
+      "id": "loveland",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T03:23:33Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 11
+          "t": "2026-11-09T05:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": 8,
-      "is_new": false,
-      "topic": "Amnesty",
-      "description": "Donald Trump is drawing discussion on social media after floating an amnesty deal and stating he was too tough on immigrants.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Loveland",
+      "description": "Colston Loveland caught a 38-yard pass from Caleb Williams to set up the game-winning field goal for the Chicago Bears.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Amnesty",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.hNXR3OeeT2fj/8eOEsiRSA&pid=15.1",
+      "url": "https://twstalker.com/search/Loveland",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.fc-kKi-8K2bwjy-wuXyquQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T03:23:33Z",
-      "first_seen": "2026-11-09T03:23:33Z",
+      "started_trending": "2026-11-09T05:23:32Z",
+      "first_seen": "2026-11-09T05:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
+      "last_seen": "2026-11-09T05:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -403,7 +619,7 @@
     },
     {
       "id": "packers",
-      "rank": 12,
+      "rank": 18,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -426,12 +642,16 @@
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": -11,
+      "rank_change": -17,
       "is_new": false,
       "topic": "Packers",
-      "description": "The Green Bay Packers are trending on social media following their dominant 45-27 victory over the New England Patriots.",
+      "description": "The Green Bay Packers are trending following their dominant victory over the New England Patriots in Week 9.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Packers",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.ZxjLNlUh7v4sTM6AeaJvWg&pid=15.1",
@@ -440,28 +660,32 @@
       "started_trending": "2026-11-09T00:23:31Z",
       "first_seen": "2026-11-09T00:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "loveisblind",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "#LoveIsBlind",
-      "description": "Fans are discussing the Love Is Blind season 11 reunion on social media following new engagements, cheating revelations, and drama.",
+      "description": "Fans are reacting to the 'Love Is Blind' Season 11 reunion, which featured a new engagement, cheating revelations, and production drama.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23LoveIsBlind",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.1MI1KAwhLsi2WRIWiDcDKg&pid=15.1",
@@ -470,138 +694,32 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jordan-love",
-      "rank": 14,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-09T02:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-09T03:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Jordan Love",
-      "description": "Jordan Love is trending on social media as he hears MVP chants and throws for 372 yards in the Packers' win over the Patriots.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jordan%20Love",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.CqA057IagIvHSLoBNqvUAQHaIg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T23:23:34Z",
-      "first_seen": "2026-11-08T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "buccaneers",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Buccaneers",
-      "description": "The Tampa Bay Buccaneers are trending on social media during their Sunday Night Football game against the Chicago Bears.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Buccaneers",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.FYc1eGvBbkyH9pO2oPAkTw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T04:23:31Z",
-      "first_seen": "2026-11-09T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "60-minutes",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "60 Minutes",
-      "description": "Donald Trump's recent interview on 60 Minutes is generating widespread discussion on social media regarding his comments on immigration and other topics.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/60%20Minutes",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ghyGx3lqDcJCSQLiGOsGRwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T04:23:31Z",
-      "first_seen": "2026-11-09T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-09T05:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "swift",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-09T04:23:31Z",
           "r": 17
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "Swift",
-      "description": "Taylor Swift is trending on social media after attending a Chiefs game with Karlie Kloss, putting an end to past feud rumors.",
+      "description": "Taylor Swift surprised fans by attending a Kansas City Chiefs game with Karlie Kloss, helping to quell rumors of a feud.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Swift",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.JgTAIElw6EtGnXv/T7ktzA&pid=15.1",
@@ -610,105 +728,7 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lamansionvip2",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#LamansionVIP2",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23LamansionVIP2",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.k4A2PQ6eqzJbr42i3utk4g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T04:23:31Z",
-      "first_seen": "2026-11-09T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "4-ints",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "4 INTs",
-      "description": "The material does not provide enough information to explain why this is trending.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/4%20INTs",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.SXS4YL12ekHv/ePIYGKReQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T04:23:31Z",
-      "first_seen": "2026-11-09T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "zavion-thomas",
-      "rank": 20,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-09T02:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-09T03:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Zavion Thomas",
-      "description": "Zavion Thomas is trending on social media after starting the game against the Buccaneers with a 40-yard kick return.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Zavion%20Thomas",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Ql875cmEtYYFAHHvgch0TgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T02:23:32Z",
-      "first_seen": "2026-11-09T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T04:23:31Z",
+      "last_seen": "2026-11-09T05:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
