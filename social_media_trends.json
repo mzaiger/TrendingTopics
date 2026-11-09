@@ -1,165 +1,49 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-09T10:25:12Z",
+  "updated": "2026-11-09T11:25:26Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "caleb",
+      "id": "good-monday",
       "rank": 1,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-09T07:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-09T08:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 1
-        },
-        {
           "t": "2026-11-09T10:23:35Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
           "r": 1
         }
       ],
-      "rank_change": 0,
+      "rank_change": 4,
       "is_new": false,
-      "topic": "Caleb",
-      "description": "Caleb Williams drew attention on social media after throwing multiple interceptions, though the Chicago Bears still managed a narrow win over the Tampa Bay Buccaneers.",
+      "topic": "Good Monday",
+      "description": "Social media users are discussing early-week weather forecasts, sports matchups, and post-election political updates across various regions.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Caleb",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.arnAbpa4eMUl3J49asA_lwAAAA&pid=15.1",
+      "url": "https://twstalker.com/search/Good%20Monday",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.rjLIom2KIAoGBWgQGcGw7wHaFu&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T02:23:32Z",
-      "first_seen": "2026-11-09T02:23:32Z",
+      "started_trending": "2026-11-09T10:23:35Z",
+      "first_seen": "2026-11-09T10:23:35Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bears",
-      "rank": 2,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-09T07:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-09T08:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Bears",
-      "description": "The Chicago Bears are trending online after extending their winning streak to four games following a dramatic, narrow victory over the Tampa Bay Buccaneers decided by a late field goal.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bears",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.43D8UBsktEvUfRyMTBAOsQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T04:23:31Z",
-      "first_seen": "2026-11-09T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bucs",
-      "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-09T07:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-09T08:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Bucs",
-      "description": "The Tampa Bay Buccaneers are generating buzz on social media following a tough loss to the Chicago Bears on Sunday Night Football, highlighted by costly turnovers and quarterback struggles.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bucs",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.pILihofMlaWRKabLij5GJA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T02:23:32Z",
-      "first_seen": "2026-11-09T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ray-j",
-      "rank": 4,
+      "rank": 2,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -170,12 +54,16 @@
         {
           "t": "2026-11-09T10:23:35Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": 7,
+      "rank_change": 9,
       "is_new": false,
       "topic": "Ray J",
-      "description": "Ray J is trending after reportedly threatening to have his baby mama confront Adrien Broner's girlfriend during an incident involving Broner.",
+      "description": "Ray J is trending after reportedly threatening to have his baby mama confront Adrien Broner's girlfriend following an incident in Los Angeles.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Ray%20J",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.Fq2jXXdQYkweHcEal130MQHaE8&pid=15.1",
@@ -184,7 +72,87 @@
       "started_trending": "2026-11-09T09:23:36Z",
       "first_seen": "2026-11-09T09:23:36Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "caleb",
+      "rank": 3,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-11-09T06:23:32Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-09T08:23:36Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-09T09:23:36Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-09T10:23:35Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 3
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Caleb",
+      "description": "Caleb Williams is drawing heavy online discussion after throwing multiple interceptions while leading the Chicago Bears to a narrow victory over the Tampa Bay Buccaneers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Caleb",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.arnAbpa4eMUl3J49asA_lwAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "topic",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#اسد_حرام_زادہ",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23%D8%A7%D8%B3%D8%AF_%D8%AD%D8%B1%D8%A7%D9%85_%D8%B2%D8%A7%D8%AF%DB%81",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.ua9QxwDa57hbKju41EvqogHaJ4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T11:23:35Z",
+      "first_seen": "2026-11-09T11:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -192,45 +160,95 @@
       "extra": {}
     },
     {
-      "id": "good-monday",
+      "id": "bears",
       "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
+          "t": "2026-11-09T06:23:32Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-09T08:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-09T09:23:36Z",
+          "r": 2
+        },
+        {
           "t": "2026-11-09T10:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
           "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Good Monday",
-      "description": "Social media users are discussing the start of the new workweek, ranging from favorable horoscopes and comfortable weather to NFL game previews.",
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Bears",
+      "description": "The Chicago Bears are trending on social media after holding off the Tampa Bay Buccaneers to secure their fourth consecutive win.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Good%20Monday",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.rjLIom2KIAoGBWgQGcGw7wHaFu&pid=15.1",
+      "url": "https://twstalker.com/search/Bears",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.43D8UBsktEvUfRyMTBAOsQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T04:23:31Z",
+      "first_seen": "2026-11-09T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mondaymotivation",
+      "rank": 6,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-09T10:23:35Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "#MondayMotivation",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23MondayMotivation",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.3l3MVT3-iOJQW_t62jkuXQHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-09T10:23:35Z",
       "first_seen": "2026-11-09T10:23:35Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "amnesty",
-      "rank": 6,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "rank": 7,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 13
-        },
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 9
@@ -250,12 +268,16 @@
         {
           "t": "2026-11-09T10:23:35Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": 3,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Amnesty",
-      "description": "Donald Trump sparked discussions online after floating a potential amnesty deal and admitting his previous immigration deportation policy was too tough.",
+      "description": "Donald Trump is drawing widespread attention after floating a potential amnesty deal with Democrats and acknowledging his past immigration policies were too tough.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Amnesty",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.hNXR3OeeT2fj/8eOEsiRSA&pid=15.1",
@@ -264,41 +286,37 @@
       "started_trending": "2026-11-09T03:23:33Z",
       "first_seen": "2026-11-09T03:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "baker",
-      "rank": 7,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "id": "asad-haramzada",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 7
+          "t": "2026-11-09T11:23:35Z",
+          "r": 8
         }
       ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Baker",
-      "description": "Tampa Bay Buccaneers quarterback Baker Mayfield is drawing heavy criticism and social media commentary following a difficult performance and loss against the Chicago Bears.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Baker",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.PJAxY9M7-khVaux1AHdEsgHaHa&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#Asad_HaramZada",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23Asad_HaramZada",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.ua9QxwDa57hbKju41EvqogHaJ4&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T09:23:36Z",
-      "first_seen": "2026-11-09T09:23:36Z",
+      "started_trending": "2026-11-09T11:23:35Z",
+      "first_seen": "2026-11-09T11:23:35Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
+      "last_seen": "2026-11-09T11:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -307,14 +325,10 @@
     },
     {
       "id": "jensen",
-      "rank": 8,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "rank": 9,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 15
-        },
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 10
@@ -334,12 +348,16 @@
         {
           "t": "2026-11-09T10:23:35Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 9
         }
       ],
-      "rank_change": 2,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Jensen",
-      "description": "Nvidia CEO Jensen Huang is trending after the company reportedly opened an investigation into his relationship with an alleged Chinese spy, causing stock values to fall.",
+      "description": "Nvidia CEO Jensen Huang is trending heavily after the company launched an investigation into his alleged relationship with an accused Chinese spy.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jensen",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.//iGhK25bpzHHdKQJVUD2g&pid=15.1",
@@ -348,56 +366,98 @@
       "started_trending": "2026-11-08T22:23:33Z",
       "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 12,
-      "volume": "12hr trend",
-      "volume_value": 12,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 13,
+      "volume": "13hr trend",
+      "volume_value": 13,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "lamansionvip",
-      "rank": 9,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "id": "happy-new-week",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy New Week",
+      "description": "Users across social media are posting positive greetings and well wishes to welcome the start of the new week.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Happy%20New%20Week",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.gvDPKxscuZLQE6BXQnJnUAHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T11:23:35Z",
+      "first_seen": "2026-11-09T11:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bucs",
+      "rank": 11,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-09T06:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 3
+        },
+        {
           "t": "2026-11-09T08:23:36Z",
-          "r": 11
+          "r": 3
         },
         {
           "t": "2026-11-09T09:23:36Z",
-          "r": 6
+          "r": 3
         },
         {
           "t": "2026-11-09T10:23:35Z",
-          "r": 9
+          "r": 3
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 11
         }
       ],
-      "rank_change": 2,
+      "rank_change": -8,
       "is_new": false,
-      "topic": "#LaMansionVip",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23LaMansionVip",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.lroc1AJSY/LggqO4xwliLw&pid=15.1",
+      "topic": "Bucs",
+      "description": "The Tampa Bay Buccaneers are trending following a narrow Sunday Night Football loss to the Chicago Bears despite a late defensive comeback.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bucs",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.pILihofMlaWRKabLij5GJA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T08:23:36Z",
-      "first_seen": "2026-11-09T08:23:36Z",
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "60-minutes",
-      "rank": 10,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
+      "rank": 12,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-09T06:23:32Z",
@@ -418,12 +478,16 @@
         {
           "t": "2026-11-09T10:23:35Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 12
         }
       ],
-      "rank_change": 10,
+      "rank_change": 7,
       "is_new": false,
       "topic": "60 Minutes",
-      "description": "Donald Trump's wide-ranging interview on 60 Minutes sparked online debate, particularly his remarks admitting that his mass deportation policy was too tough.",
+      "description": "Donald Trump's recent post-midterm interview on 60 Minutes is sparking online debate after he admitted his deportation stance was too tough.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/60%20Minutes",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.qSPH/P9GQRxOHuOOWvuq6w&pid=15.1",
@@ -432,87 +496,233 @@
       "started_trending": "2026-11-09T06:23:32Z",
       "first_seen": "2026-11-09T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "todd-bowles",
-      "rank": 11,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-09T07:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-09T08:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Todd Bowles",
-      "description": "Tampa Bay Buccaneers coach Todd Bowles is facing heavy criticism on social media for costly decisions and errors that led to a narrow Sunday night defeat against the Chicago Bears.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Todd%20Bowles",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.HUKqwdMLwLAS5FxFYZU0DwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T02:23:32Z",
-      "first_seen": "2026-11-09T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mondaymotivation",
-      "rank": 12,
+      "id": "lamansionvip2",
+      "rank": 13,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 12
+          "t": "2026-11-09T11:23:35Z",
+          "r": 13
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#MondayMotivation",
+      "topic": "#LamansionVIP2",
       "description": "",
       "description_source": "",
-      "url": "https://twstalker.com/search/%23MondayMotivation",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.3l3MVT3-iOJQW_t62jkuXQHaHa&pid=15.1",
+      "url": "https://twstalker.com/search/%23LamansionVIP2",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.nlKGvy5ufbTOMlAcxbe9PQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T11:23:35Z",
+      "first_seen": "2026-11-09T11:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "baker",
+      "rank": 14,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-09T09:23:36Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-09T10:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "Baker",
+      "description": "Tampa Bay Buccaneers quarterback Baker Mayfield is trending on social media following post-game press comments and discussions about his recent performance.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Baker",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.PJAxY9M7-khVaux1AHdEsgHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T09:23:36Z",
+      "first_seen": "2026-11-09T09:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jayda",
+      "rank": 15,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-09T10:23:35Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Jayda",
+      "description": "Jayda Cheaves is trending on social media as she shares an exclusive behind-the-scenes look at her latest fashion collaboration with Sumwon Women.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jayda",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.98wS_zRJCkvBLEgUiWh3nAHaKT&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-09T10:23:35Z",
       "first_seen": "2026-11-09T10:23:35Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dully",
+      "rank": 16,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-09T10:23:35Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Dully",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Dully",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.lxQ-7aYfY5SMo0js3NaMzQHaJ4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T10:23:35Z",
+      "first_seen": "2026-11-09T10:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "vlx",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "$VLX",
+      "description": "The material provided does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%24VLX",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.5ILy1EQOIu53lhEFBYjAygHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T11:23:35Z",
+      "first_seen": "2026-11-09T11:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fogo",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Fogo",
+      "description": "The hedge fund FOGO is generating intense financial discussion on social media for its recent market performance.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Fogo",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.uBnf5YZw3bESEpQ7JsuDJwHaEg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T11:23:35Z",
+      "first_seen": "2026-11-09T11:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "velixo",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Velixo",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/Velixo",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.8z7WkgXFrFqOKwuVN1f3jQHaD4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T11:23:35Z",
+      "first_seen": "2026-11-09T11:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-09T11:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -521,7 +731,7 @@
     },
     {
       "id": "baddiesusachapter3",
-      "rank": 13,
+      "rank": 20,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -540,9 +750,13 @@
         {
           "t": "2026-11-09T10:23:35Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-09T11:23:35Z",
+          "r": 20
         }
       ],
-      "rank_change": -4,
+      "rank_change": -11,
       "is_new": false,
       "topic": "#BaddiesUSAChapter3",
       "description": "",
@@ -554,300 +768,10 @@
       "started_trending": "2026-11-09T07:23:33Z",
       "first_seen": "2026-11-09T07:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bucky-irving",
-      "rank": 14,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-09T07:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-09T08:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Bucky Irving",
-      "description": "Bucky Irving is trending on social media after scoring two touchdowns for the Buccaneers in their narrow loss to the Chicago Bears.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Bucky%20Irving",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Ft1EMkZyTTQhAU4pGbMuGw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T04:23:31Z",
-      "first_seen": "2026-11-09T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "loveisblind",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#LoveIsBlind",
-      "description": "Fans are buzzing on social media as the Love Is Blind season reunion airs, bringing major bombshells, cheating revelations, and discussions about future seasons.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23LoveIsBlind",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ZX0IsVqeZUrktM1SNAQqugHaLH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T10:23:35Z",
-      "first_seen": "2026-11-09T10:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jaylon-johnson",
-      "rank": 16,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-09T07:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-09T08:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Jaylon Johnson",
-      "description": "Jaylon Johnson is trending after securing a pivotal 67-yard pick-six interception against Baker Mayfield during the Chicago Bears' victory over the Buccaneers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jaylon%20Johnson",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.S-sT2Y9iwuV_XmEzYfKPPQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T04:23:31Z",
-      "first_seen": "2026-11-09T04:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jayda",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jayda",
-      "description": "Jayda Cheaves is generating buzz on social media after giving fans an exclusive behind-the-scenes look at her latest fashion collaboration.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jayda",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-09T10:23:35Z",
-      "first_seen": "2026-11-09T10:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dully",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Dully",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/Dully",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-09T10:23:35Z",
-      "first_seen": "2026-11-09T10:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "burden",
-      "rank": 19,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-09T07:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-09T08:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Burden",
-      "description": "Chicago Bears wide receiver Luther Burden is trending after exiting Sunday's game against the Buccaneers following a helmet-to-helmet hit that resulted in a concussion.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Burden",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.S19N53mVL4ZCJU8tZ0fCVA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T05:23:32Z",
-      "first_seen": "2026-11-09T05:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ben-johnson",
-      "rank": 20,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-09T07:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-09T08:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-09T09:23:36Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-09T10:23:35Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Ben Johnson",
-      "description": "Chicago Bears head coach Ben Johnson is trending on social media for celebrating the team's Sunday night victory with a postgame dance tradition.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ben%20Johnson",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.xks5cHiksy6dDu4h4/BMzg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T05:23:32Z",
-      "first_seen": "2026-11-09T05:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T10:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-09T11:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     }
