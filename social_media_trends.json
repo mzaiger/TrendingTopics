@@ -1,15 +1,45 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-09T01:24:56Z",
+  "updated": "2026-11-09T02:25:20Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "packers",
+      "id": "caleb",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Caleb",
+      "description": "Caleb Downs is trending after sealing a victory for the Dallas Cowboys and besting his brother in a game against the Colts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Caleb",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.arnAbpa4eMUl3J49asA_lwAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "packers",
+      "rank": 2,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -20,12 +50,16 @@
         {
           "t": "2026-11-09T01:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 2
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Packers",
-      "description": "The Green Bay Packers are trending following their dominant 45-27 road victory over the New England Patriots in Week 9, solidifying their spot in the NFC playoff picture.",
+      "description": "The Green Bay Packers are trending after defeating the New England Patriots 45-27 in Week 9, though Josh Jacobs broke a finger during the win.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Packers",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.ZxjLNlUh7v4sTM6AeaJvWg&pid=15.1",
@@ -34,16 +68,76 @@
       "started_trending": "2026-11-09T00:23:31Z",
       "first_seen": "2026-11-09T00:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bucs",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bucs",
+      "description": "The Buccaneers are trending as they face the Chicago Bears on Sunday Night Football in Week 9, with Emeka Egbuka returning to action.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Bucs",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.pILihofMlaWRKabLij5GJA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "luther",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Luther",
+      "description": "Luther Burden III is trending after scoring a speedy 56-yard touchdown for the Chicago Bears in their game against the Buccaneers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Luther",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.2vXfnrvr1YiVhNi6OeTRUw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "chargers",
-      "rank": 2,
+      "rank": 5,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -58,12 +152,16 @@
         {
           "t": "2026-11-09T01:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 5
         }
       ],
-      "rank_change": 1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Chargers",
-      "description": "The Los Angeles Chargers are trending after falling to 0-8 following a 44-22 rout by the Houston Texans, extending their winless season.",
+      "description": "The Los Angeles Chargers are trending amidst discussion of their disastrous season and upcoming game against the Houston Texans.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Chargers",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.Yh6YRPkZkWyaSPwsJu5srAHaEb&pid=15.1",
@@ -72,16 +170,16 @@
       "started_trending": "2026-11-08T23:23:34Z",
       "first_seen": "2026-11-08T23:23:34Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jordan-love",
-      "rank": 3,
+      "rank": 6,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -96,12 +194,16 @@
         {
           "t": "2026-11-09T01:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": 14,
+      "rank_change": 11,
       "is_new": false,
       "topic": "Jordan Love",
-      "description": "Green Bay Packers quarterback Jordan Love is generating MVP buzz after accounting for four touchdowns and 372 yards in a 45-27 win over the Patriots.",
+      "description": "Jordan Love is trending after throwing for 372 yards and three touchdowns, plus running for another, in the Packers' 45-27 win over the Patriots.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jordan%20Love",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.CqA057IagIvHSLoBNqvUAQHaIg&pid=15.1",
@@ -110,7 +212,147 @@
       "started_trending": "2026-11-08T23:23:34Z",
       "first_seen": "2026-11-08T23:23:34Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jensen",
+      "rank": 7,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-08T22:23:33Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-08T23:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-09T01:23:31Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Jensen",
+      "description": "Nvidia CEO Jensen Huang is trending after the company's board opened an investigation into his relationship with a Chinese spy following an admitted affair.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jensen",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.//iGhK25bpzHHdKQJVUD2g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T22:23:33Z",
+      "first_seen": "2026-11-08T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rhop",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#RHOP",
+      "description": "The Real Housewives of Potomac is trending following recent episode recaps, cast updates, and drama involving stars like Gizelle Bryant and Wendy Osefo.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23RHOP",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.wGl0yfocWHce9G_6WbOoUAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rome-odunze",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Rome Odunze",
+      "description": "Rome Odunze is trending after making a sliding touchdown catch to cap off the Chicago Bears' opening drive against the Buccaneers.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Rome%20Odunze",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.vQHMfFD3SqAmVCi_L7eB7AHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pistons",
+      "rank": 10,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-09T01:23:31Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Pistons",
+      "description": "The Detroit Pistons are trending following their 121-116 loss to the Lakers, as well as an injury update on Jalen Duren.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Pistons",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.C03GarkOuepIaSoGBjbHyg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T01:23:31Z",
+      "first_seen": "2026-11-09T01:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -118,8 +360,110 @@
       "extra": {}
     },
     {
+      "id": "todd-bowles",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Todd Bowles",
+      "description": "Todd Bowles is trending as his Tampa Bay Buccaneers defense prepares to face Caleb Williams and the Chicago Bears on Sunday Night Football.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Todd%20Bowles",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.HUKqwdMLwLAS5FxFYZU0DwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "zavion-thomas",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Zavion Thomas",
+      "description": "Zavion Thomas is trending after kicking off the Chicago Bears' Sunday Night Football game against the Buccaneers with a 40-yard return.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Zavion%20Thomas",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Ql875cmEtYYFAHHvgch0TgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "raiders",
+      "rank": 13,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-08T23:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-09T01:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "Raiders",
+      "description": "The Raiders are trending after suffering a sloppy 38-17 blowout loss to the 49ers in their return to the Bay Area.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Raiders",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.pvCrhDoNYQZct6Uhud9z7g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T23:23:34Z",
+      "first_seen": "2026-11-08T23:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "drake-maye",
-      "rank": 4,
+      "rank": 14,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -138,12 +482,16 @@
         {
           "t": "2026-11-09T01:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 14
         }
       ],
-      "rank_change": 3,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Drake Maye",
-      "description": "New England Patriots quarterback Drake Maye faced heavy criticism and was benched after throwing three interceptions in a 45-27 blowout loss to the Green Bay Packers.",
+      "description": "Drake Maye is trending after accounting for three touchdowns but also throwing three interceptions, leading to his benching in the Patriots' loss to the Packers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Drake%20Maye",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.gJFwsFfUY2pLfoK6vsv-zAHaE8&pid=15.1",
@@ -152,88 +500,46 @@
       "started_trending": "2026-11-08T22:23:33Z",
       "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "raiders",
-      "rank": 5,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "id": "austin-reaves",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 5
+          "t": "2026-11-09T02:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Raiders",
-      "description": "The Las Vegas Raiders are trending due to their matchup against the San Francisco 49ers, which featured a notable fumble forced by Fred Warner.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Austin Reaves",
+      "description": "Austin Reaves is trending after stepping up in Luka Doncic's absence to score a season-high 43 points, leading the Lakers over the Pistons.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Raiders",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.pvCrhDoNYQZct6Uhud9z7g&pid=15.1",
+      "url": "https://twstalker.com/search/Austin%20Reaves",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP._culGFUtrkFyIweADx_guwHaH-&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-08T23:23:34Z",
-      "first_seen": "2026-11-08T23:23:34Z",
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "patriots",
-      "rank": 6,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Patriots",
-      "description": "The New England Patriots are trending following an alarming 45-27 home loss to the Green Bay Packers filled with early turnovers and struggles.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Patriots",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.63ivS1rcVHjrljVCdvfUQA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T00:23:31Z",
-      "first_seen": "2026-11-09T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gopackgo",
-      "rank": 7,
+      "rank": 16,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -252,9 +558,13 @@
         {
           "t": "2026-11-09T01:23:31Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": 12,
+      "rank_change": 3,
       "is_new": false,
       "topic": "#GoPackGo",
       "description": "",
@@ -266,329 +576,75 @@
       "started_trending": "2026-11-08T22:23:33Z",
       "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jensen",
-      "rank": 8,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "id": "patriots",
+      "rank": 17,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
-          "t": "2026-11-08T22:23:33Z",
+          "t": "2026-11-09T00:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-09T01:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-09T02:23:32Z",
           "r": 17
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 8
         }
       ],
-      "rank_change": 9,
+      "rank_change": -11,
       "is_new": false,
-      "topic": "Jensen",
-      "description": "Nvidia CEO Jensen Huang is facing a board investigation after admitting to an affair that reportedly entangled him with a Chinese spy.",
+      "topic": "Patriots",
+      "description": "The New England Patriots are trending following an alarming 45-27 loss to the Green Bay Packers that included four team turnovers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jensen",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.//iGhK25bpzHHdKQJVUD2g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T22:23:33Z",
-      "first_seen": "2026-11-08T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "watson",
-      "rank": 9,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 10,
-      "is_new": false,
-      "topic": "Watson",
-      "description": "Christian Watson is trending after connecting with Jordan Love for a deep pass and touchdown during the Packers' win over the Patriots, amid other NFL quarterback updates.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Watson",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.jsaWi6kjzspvJQV7Fe2wbA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T23:23:34Z",
-      "first_seen": "2026-11-08T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "christian-gonzalez",
-      "rank": 10,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Christian Gonzalez",
-      "description": "New England Patriots cornerback Christian Gonzalez is trending following the team's defensive struggles and coverage matchups against the Green Bay Packers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Christian%20Gonzalez",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xBNPfD1UWyG4upAGfIlhXwHaFG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T22:23:33Z",
-      "first_seen": "2026-11-08T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "pistons",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Pistons",
-      "description": "The Detroit Pistons are trending ahead of their game against the Los Angeles Lakers, alongside injury updates regarding Jalen Duren's hamstring strain.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Pistons",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.C03GarkOuepIaSoGBjbHyg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T01:23:31Z",
-      "first_seen": "2026-11-09T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gonzo",
-      "rank": 12,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Gonzo",
-      "description": "The term Gonzo is trending due to mentions across recent entertainment headlines, including a mail call segment and Muppets media.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Gonzo",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.2DEK8Ln19t5eBZe_zch88AHaJY&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T22:23:33Z",
-      "first_seen": "2026-11-08T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "49ers",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "49ers",
-      "description": "The San Francisco 49ers are trending following their game against the Las Vegas Raiders, highlighted by Brock Purdy's milestone touchdown pass to Christian McCaffrey.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/49ers",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.54ZR2plCc4du8AxtYZlEhg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T01:23:31Z",
-      "first_seen": "2026-11-09T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "pats",
-      "rank": 14,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Pats",
-      "description": "The Patriots are trending after capitalized early mistakes led to a crushing 45-27 defeat against the Packers, resulting in a quarterback benching.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Pats",
+      "url": "https://twstalker.com/search/Patriots",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.63ivS1rcVHjrljVCdvfUQA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-09T00:23:31Z",
       "first_seen": "2026-11-09T00:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "justin-herbert",
-      "rank": 15,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Justin Herbert",
-      "description": "Los Angeles Chargers quarterback Justin Herbert was benched in the fourth quarter after being sacked eight times during a 44-22 loss to the Texans that dropped the team to 0-8.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Justin%20Herbert",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.iOufq7HuQmN1G9IvgUBQTw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T00:23:31Z",
-      "first_seen": "2026-11-09T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nvidia",
-      "rank": 16,
+      "id": "baddiesusachapter3",
+      "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 16
+          "t": "2026-11-09T02:23:32Z",
+          "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Nvidia",
-      "description": "Nvidia is trending as the company's board launches an investigation into CEO Jensen Huang following an admitted affair and warnings from officials regarding Chinese intelligence.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nvidia",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.OWobVMrQ5dPygCw5Umq6zAHaFd&pid=15.1",
+      "topic": "#BaddiesUSAChapter3",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23BaddiesUSAChapter3",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Dj5RpYNS7xDLA6flRy6I9gAAAA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T01:23:31Z",
-      "first_seen": "2026-11-09T01:23:31Z",
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
+      "last_seen": "2026-11-09T02:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -596,138 +652,62 @@
       "extra": {}
     },
     {
-      "id": "green-bay",
-      "rank": 17,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Green Bay",
-      "description": "Green Bay is trending as the Packers secured a dominant 45-27 road victory over the Patriots, boosted by an early interception return by Xavier McKinney.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Green%20Bay",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.IU7xjxJEalCxFVAtihX1/w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T00:23:31Z",
-      "first_seen": "2026-11-09T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "niners",
-      "rank": 18,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Niners",
-      "description": "The Niners are trending following a win over the Raiders, which included Christian McCaffrey setting a new running back record and a costly injury to Gracen Halton.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Niners",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.56UsRfLVj7t28c/Fv1DLtQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T00:23:31Z",
-      "first_seen": "2026-11-09T00:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mendoza",
+      "id": "devin-bush",
       "rank": 19,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
+          "t": "2026-11-09T02:23:32Z",
           "r": 19
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Mendoza",
-      "description": "Fernando Mendoza is trending amid Raiders quarterback discussions, trade speculation involving Kirk Cousins, and a trademark request for the nickname Nandolorian.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Devin Bush",
+      "description": "Devin Bush is trending as part of IDP fantasy football rankings and roster updates ahead of the Bears' Week 9 matchup against the Buccaneers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Mendoza",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.oAcF4X9Cz1rlTCw9fYJTZQHaE8&pid=15.1",
+      "url": "https://twstalker.com/search/Devin%20Bush",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.rv7jyJpDK3Pw/DxZN5HAtQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T00:23:31Z",
-      "first_seen": "2026-11-09T00:23:31Z",
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "fttb",
+      "id": "collinsworth",
       "rank": 20,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T00:23:31Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-09T01:23:31Z",
+          "t": "2026-11-09T02:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "#FTTB",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23FTTB",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.PDzowbJNhFgtA2cymAix8wHaFj&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Collinsworth",
+      "description": "Cris Collinsworth is trending as social media discusses Mike Tirico's absence from the Sunday Night Football broadcast due to a health issue.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Collinsworth",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.XNnC3wFoEYHRJVbIEM8GIA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T00:23:31Z",
-      "first_seen": "2026-11-09T00:23:31Z",
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T02:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
