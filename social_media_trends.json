@@ -1,15 +1,113 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-08T23:25:01Z",
+  "updated": "2026-11-09T00:25:05Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "drake-maye",
+      "id": "packers",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Packers",
+      "description": "The Green Bay Packers face the New England Patriots in Week 9, with safety Xavier McKinney intercepting a pass early in the game.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Packers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.ZxjLNlUh7v4sTM6AeaJvWg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T00:23:31Z",
+      "first_seen": "2026-11-09T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chargers",
+      "rank": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-08T23:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Chargers",
+      "description": "The Los Angeles Chargers prepare for their Week 9 matchup against the Houston Texans following a penalty-filled loss to Seattle.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Chargers",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Yh6YRPkZkWyaSPwsJu5srAHaEb&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T23:23:34Z",
+      "first_seen": "2026-11-08T23:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jordan-love",
+      "rank": 3,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-08T23:23:34Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 14,
+      "is_new": false,
+      "topic": "Jordan Love",
+      "description": "Green Bay Packers quarterback Jordan Love recorded his 100th career passing touchdown and threw deep completions against the Patriots.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Jordan%20Love",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.CqA057IagIvHSLoBNqvUAQHaIg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T23:23:34Z",
+      "first_seen": "2026-11-08T23:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "drake-maye",
+      "rank": 4,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -20,12 +118,16 @@
         {
           "t": "2026-11-08T23:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 4
         }
       ],
-      "rank_change": 6,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Drake Maye",
-      "description": "New England Patriots quarterback Drake Maye is trending after throwing an interception to Green Bay Packers safety Xavier McKinney and connecting with Rhamondre Stevenson for a touchdown.",
+      "description": "New England Patriots quarterback Drake Maye was intercepted by Xavier McKinney on the opening drive against the Green Bay Packers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Drake%20Maye",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.gJFwsFfUY2pLfoK6vsv-zAHaE8&pid=15.1",
@@ -34,92 +136,32 @@
       "started_trending": "2026-11-08T22:23:33Z",
       "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
+      "last_seen": "2026-11-09T00:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cowboys",
-      "rank": 2,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 2
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Cowboys",
-      "description": "The Dallas Cowboys are trending after securing a late 27-23 victory over the Indianapolis Colts, handing their opponents their fifth consecutive loss.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Cowboys",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.slDSsV/bC/LJ8vcWjrRsaw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T22:23:33Z",
-      "first_seen": "2026-11-08T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chargers",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Chargers",
-      "description": "The Los Angeles Chargers are trending in anticipation of their Week 9 matchup against the Houston Texans following their recent game updates and injury reports.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Chargers",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Yh6YRPkZkWyaSPwsJu5srAHaEb&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T23:23:34Z",
-      "first_seen": "2026-11-08T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "raiders",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 5,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-08T23:23:34Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Raiders",
-      "description": "The Las Vegas Raiders are trending as they face the San Francisco 49ers in Week 9 and deal with ongoing trade deadline rumors.",
+      "description": "The Las Vegas Raiders play the San Francisco 49ers in Week 9 while trade deadline rumors circulate.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Raiders",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.pvCrhDoNYQZct6Uhud9z7g&pid=15.1",
@@ -128,7 +170,7 @@
       "started_trending": "2026-11-08T23:23:34Z",
       "first_seen": "2026-11-08T23:23:34Z",
       "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
+      "last_seen": "2026-11-09T00:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -136,109 +178,67 @@
       "extra": {}
     },
     {
-      "id": "colts",
-      "rank": 5,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-08T21:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 5
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Colts",
-      "description": "The Indianapolis Colts are trending after suffering their fifth straight loss of the season in a 27-23 defeat against the Dallas Cowboys.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Colts",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.liXom5RWu7BPj1i5f1fCWQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T21:23:33Z",
-      "first_seen": "2026-11-08T21:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "browns",
+      "id": "patriots",
       "rank": 6,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-08T21:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
+          "t": "2026-11-09T00:23:31Z",
           "r": 6
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Browns",
-      "description": "The Cleveland Browns are trending following a narrow 23-22 overtime loss to the New Orleans Saints after another late rally fell short.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Patriots",
+      "description": "The New England Patriots play the Green Bay Packers in Week 9, with multiple starters leaving the game due to injuries in the first half.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Browns",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.d5p3a1bMic4iWz2iGNR9OQ&pid=15.1",
+      "url": "https://twstalker.com/search/Patriots",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.63ivS1rcVHjrljVCdvfUQA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-08T21:23:33Z",
-      "first_seen": "2026-11-08T21:23:33Z",
+      "started_trending": "2026-11-09T00:23:31Z",
+      "first_seen": "2026-11-09T00:23:31Z",
       "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jensen",
+      "id": "gopackgo",
       "rank": 7,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-08T22:23:33Z",
-          "r": 17
+          "r": 19
         },
         {
           "t": "2026-11-08T23:23:34Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
           "r": 7
         }
       ],
-      "rank_change": 10,
+      "rank_change": 12,
       "is_new": false,
-      "topic": "Jensen",
-      "description": "Nvidia CEO Jensen Huang is trending after the company's board launched an investigation into his relationship with a Chinese spy following his admission to an affair.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jensen",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.//iGhK25bpzHHdKQJVUD2g&pid=15.1",
+      "topic": "#GoPackGo",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23GoPackGo",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.IU7xjxJEalCxFVAtihX1/w&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-08T22:23:33Z",
       "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
+      "last_seen": "2026-11-09T00:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -246,33 +246,37 @@
       "extra": {}
     },
     {
-      "id": "matthew-golden",
+      "id": "christian-gonzalez",
       "rank": 8,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-11-08T22:23:33Z",
-          "r": 4
+          "r": 9
         },
         {
           "t": "2026-11-08T23:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
           "r": 8
         }
       ],
-      "rank_change": -4,
+      "rank_change": 1,
       "is_new": false,
-      "topic": "Matthew Golden",
-      "description": "Green Bay Packers wide receiver Matthew Golden is trending after setting a career high for receiving yards in the first half and catching Jordan Love's 100th career touchdown pass against the Patriots.",
+      "topic": "Christian Gonzalez",
+      "description": "New England Patriots cornerback Christian Gonzalez was highlighted in coverage matchups against Green Bay Packers wide receivers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Matthew%20Golden",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.17LBtqyMwKZMVPNjrsyLow&pid=15.1",
+      "url": "https://twstalker.com/search/Christian%20Gonzalez",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xBNPfD1UWyG4upAGfIlhXwHaFG&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-08T22:23:33Z",
       "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
+      "last_seen": "2026-11-09T00:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -292,12 +296,16 @@
         {
           "t": "2026-11-08T23:23:34Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 9
         }
       ],
       "rank_change": -4,
       "is_new": false,
       "topic": "Gonzo",
-      "description": "The material does not make the description clear.",
+      "description": "The material does not provide enough information to explain why this is trending.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Gonzo",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.2DEK8Ln19t5eBZe_zch88AHaJY&pid=15.1",
@@ -306,7 +314,7 @@
       "started_trending": "2026-11-08T22:23:33Z",
       "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
+      "last_seen": "2026-11-09T00:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -314,346 +322,62 @@
       "extra": {}
     },
     {
-      "id": "giants",
+      "id": "jensen",
       "rank": 10,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-08T19:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-08T20:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-08T21:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Giants",
-      "description": "The New York Giants are trending after defeating the Philadelphia Eagles 19-11, handing Philadelphia their seventh consecutive loss.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Giants",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.0su11/gSX9SaBzUam979aw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T19:23:32Z",
-      "first_seen": "2026-11-08T19:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nico-collins",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Nico Collins",
-      "description": "Houston Texans wide receiver Nico Collins is trending ahead of his team's Week 9 matchup against the Los Angeles Chargers as a popular choice in fantasy football and player props.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Nico%20Collins",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.TQ8cpeb3jktdDww8-bwqgQHaEs&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T23:23:34Z",
-      "first_seen": "2026-11-08T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "christian-gonzalez",
-      "rank": 12,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-08T22:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Christian Gonzalez",
-      "description": "New England Patriots cornerback Christian Gonzalez is trending as a key player to watch in his team's Week 9 matchup against the Green Bay Packers and their wide receivers.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Christian%20Gonzalez",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xBNPfD1UWyG4upAGfIlhXwHaFG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T22:23:33Z",
-      "first_seen": "2026-11-08T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gopackgo",
-      "rank": 13,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "#GoPackGo",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23GoPackGo",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.IU7xjxJEalCxFVAtihX1/w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T22:23:33Z",
-      "first_seen": "2026-11-08T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "saints",
-      "rank": 14,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-08T18:23:34Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-08T19:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-08T20:23:31Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-08T21:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Saints",
-      "description": "The New Orleans Saints are trending after defeating the Cleveland Browns 23-22 in an overtime thriller during Week 9.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Saints",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.EbkAyBcGHp6Nqz8zw00BrQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T18:23:34Z",
-      "first_seen": "2026-11-08T18:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "evan-williams",
-      "rank": 15,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Evan Williams",
-      "description": "Green Bay Packers safety Evan Williams is trending after recording a stellar toe-tap interception against the Patriots, while social media buzz also focused on Tom Brady learning Williams' mother once babysat him.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Evan%20Williams",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.VeiL4GnRIWHd1z0P6veIjQHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T22:23:33Z",
-      "first_seen": "2026-11-08T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fred-warner",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-08T23:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Fred Warner",
-      "description": "San Francisco 49ers linebacker Fred Warner is trending after executing a crucial 'Peanut Punch' resulting in a fumble recovery during his team's game.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Fred%20Warner",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.RNo_x1-EmihEw7WO79v4CQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T23:23:34Z",
-      "first_seen": "2026-11-08T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jordan-love",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-08T23:23:34Z",
           "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jordan Love",
-      "description": "Green Bay Packers quarterback Jordan Love is trending after rushing for a touchdown and throwing his 100th career passing touchdown to Matthew Golden in a game against the Patriots.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jordan%20Love",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.CqA057IagIvHSLoBNqvUAQHaIg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-08T23:23:34Z",
-      "first_seen": "2026-11-08T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "eagles",
-      "rank": 18,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-08T21:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-08T22:23:33Z",
-          "r": 10
         },
         {
           "t": "2026-11-08T23:23:34Z",
-          "r": 18
+          "r": 7
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 10
         }
       ],
-      "rank_change": -15,
+      "rank_change": 7,
       "is_new": false,
-      "topic": "Eagles",
-      "description": "The Philadelphia Eagles are trending after losing their seventh straight game, falling 19-11 to the New York Giants amidst ongoing offensive struggles.",
+      "topic": "Jensen",
+      "description": "Nvidia opened an investigation following reports that CEO Jensen Huang was targeted by Chinese intelligence and admitted to an affair.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Eagles",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.3PJ1fQvLmwjymxO4e6qbuQ&pid=15.1",
+      "url": "https://twstalker.com/search/Jensen",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.//iGhK25bpzHHdKQJVUD2g&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-08T21:23:33Z",
-      "first_seen": "2026-11-08T21:23:33Z",
+      "started_trending": "2026-11-08T22:23:33Z",
+      "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "watson",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 11,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-08T23:23:34Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 8,
+      "is_new": false,
       "topic": "Watson",
-      "description": "Cleveland Browns quarterback Deshaun Watson is trending after being ruled inactive for Week 9 against the Saints despite clearing concussion protocols.",
+      "description": "Wide receiver Christian Watson caught deep passes from Jordan Love for the Packers, while quarterback Deshaun Watson cleared concussion protocol and was inactive.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Watson",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.jsaWi6kjzspvJQV7Fe2wbA&pid=15.1",
@@ -662,7 +386,7 @@
       "started_trending": "2026-11-08T23:23:34Z",
       "first_seen": "2026-11-08T23:23:34Z",
       "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
+      "last_seen": "2026-11-09T00:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -670,40 +394,296 @@
       "extra": {}
     },
     {
-      "id": "shedeur",
-      "rank": 20,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "id": "cowboys",
+      "rank": 12,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
-          "t": "2026-11-08T21:23:33Z",
-          "r": 16
-        },
-        {
           "t": "2026-11-08T22:23:33Z",
-          "r": 16
+          "r": 1
         },
         {
           "t": "2026-11-08T23:23:34Z",
-          "r": 20
+          "r": 2
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 12
         }
       ],
-      "rank_change": -4,
+      "rank_change": -11,
       "is_new": false,
-      "topic": "Shedeur",
-      "description": "Cleveland Browns quarterback Shedeur Sanders is trending after making his first 2026 start, orchestrating a fourth-quarter touchdown against the Saints, and addressing post-game comments.",
+      "topic": "Cowboys",
+      "description": "The Dallas Cowboys defeated the Indianapolis Colts with a late touchdown, handing the Colts their fifth consecutive loss.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Shedeur",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Adjpg1qGImDNKboE8qe52AHaFK&pid=15.1",
+      "url": "https://twstalker.com/search/Cowboys",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.slDSsV/bC/LJ8vcWjrRsaw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T22:23:33Z",
+      "first_seen": "2026-11-08T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pats",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pats",
+      "description": "The New England Patriots faced the Green Bay Packers in Week 9, seeing early injuries and offensive action from both teams.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Pats",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.63ivS1rcVHjrljVCdvfUQA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T00:23:31Z",
+      "first_seen": "2026-11-09T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "justin-herbert",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Justin Herbert",
+      "description": "Chargers quarterback Justin Herbert entered the medical tent with a left hand injury and was benched in the fourth quarter of a loss.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Justin%20Herbert",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.iOufq7HuQmN1G9IvgUBQTw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T00:23:31Z",
+      "first_seen": "2026-11-09T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "niners",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Niners",
+      "description": "The San Francisco 49ers played the Las Vegas Raiders with Nick Bosa returning to the active lineup, while Christian McCaffrey set a new running back touchdown record.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Niners",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.56UsRfLVj7t28c/Fv1DLtQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T00:23:31Z",
+      "first_seen": "2026-11-09T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fttb",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FTTB",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23FTTB",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.PDzowbJNhFgtA2cymAix8wHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T00:23:31Z",
+      "first_seen": "2026-11-09T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mendoza",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mendoza",
+      "description": "Raiders quarterback Fernando Mendoza is the focus of team decisions and trade speculations regarding his playing time.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Mendoza",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.oAcF4X9Cz1rlTCw9fYJTZQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T00:23:31Z",
+      "first_seen": "2026-11-09T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "green-bay",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Green Bay",
+      "description": "The Green Bay Packers face the New England Patriots in Week 9, highlighted by an opening-drive interception from safety Xavier McKinney.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Green%20Bay",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.IU7xjxJEalCxFVAtihX1/w&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T00:23:31Z",
+      "first_seen": "2026-11-09T00:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "browns",
+      "rank": 19,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-08T21:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-08T22:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-08T23:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -13,
+      "is_new": false,
+      "topic": "Browns",
+      "description": "The Cleveland Browns lost 23-22 in overtime to the New Orleans Saints after another late rally fell short.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Browns",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.d5p3a1bMic4iWz2iGNR9OQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-08T21:23:33Z",
       "first_seen": "2026-11-08T21:23:33Z",
       "published": null,
-      "last_seen": "2026-11-08T23:23:34Z",
+      "last_seen": "2026-11-09T00:23:31Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fred-warner",
+      "rank": 20,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-08T23:23:34Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-09T00:23:31Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Fred Warner",
+      "description": "San Francisco 49ers linebacker Fred Warner forced crucial fumbles near the goal line on back-to-back drives against the Raiders.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Fred%20Warner",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.RNo_x1-EmihEw7WO79v4CQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-08T23:23:34Z",
+      "first_seen": "2026-11-08T23:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-09T00:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
