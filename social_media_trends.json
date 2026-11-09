@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-09T06:25:07Z",
+  "updated": "2026-11-09T07:24:45Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -32,12 +32,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Caleb",
-      "description": "Caleb Williams threw multiple interceptions during the Chicago Bears' narrow Sunday Night Football victory over the Tampa Bay Buccaneers.",
+      "description": "Chicago Bears quarterback Caleb Williams threw multiple interceptions during Sunday's game against the Tampa Bay Buccaneers, but the team still managed to secure a victory.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Caleb",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.arnAbpa4eMUl3J49asA_lwAAAA&pid=15.1",
@@ -46,10 +50,10 @@
       "started_trending": "2026-11-09T02:23:32Z",
       "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -70,12 +74,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 2
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Bears",
-      "description": "The Chicago Bears extended their winning streak to four games after defeating the Tampa Bay Buccaneers with a late field goal.",
+      "description": "The Chicago Bears extended their winning streak to four games after a narrow victory against the Tampa Bay Buccaneers decided by a late field goal.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bears",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.43D8UBsktEvUfRyMTBAOsQ&pid=15.1",
@@ -84,18 +92,18 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bucs",
       "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-09T02:23:32Z",
@@ -116,12 +124,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 3
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Bucs",
-      "description": "The Tampa Bay Buccaneers suffered a narrow loss to the Chicago Bears on Sunday Night Football despite forcing five turnovers.",
+      "description": "The Tampa Bay Buccaneers suffered a narrow defeat against the Chicago Bears following a game-winning field goal on Sunday Night Football.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bucs",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.pILihofMlaWRKabLij5GJA&pid=15.1",
@@ -130,16 +142,66 @@
       "started_trending": "2026-11-09T02:23:32Z",
       "first_seen": "2026-11-09T02:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "todd-bowles",
+      "rank": 4,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-09T02:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-09T03:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-09T04:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-09T06:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Todd Bowles",
+      "description": "Tampa Bay Buccaneers coach Todd Bowles is facing criticism and scrutiny over costly decisions and the team's blitz scheme following a Week 9 loss to the Chicago Bears.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Todd%20Bowles",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.HUKqwdMLwLAS5FxFYZU0DwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T02:23:32Z",
+      "first_seen": "2026-11-09T02:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jaylon-johnson",
-      "rank": 4,
+      "rank": 5,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -154,12 +216,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 5
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Jaylon Johnson",
-      "description": "Chicago Bears cornerback Jaylon Johnson returned an interception for a 67-yard touchdown against Baker Mayfield on Sunday Night Football.",
+      "description": "Chicago Bears cornerback Jaylon Johnson drew attention on social media after intercepting Baker Mayfield and returning it for a 67-yard touchdown.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jaylon%20Johnson",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.S-sT2Y9iwuV_XmEzYfKPPQHaEK&pid=15.1",
@@ -168,16 +234,16 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bucky-irving",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -192,12 +258,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 6
         }
       ],
-      "rank_change": 5,
+      "rank_change": 4,
       "is_new": false,
       "topic": "Bucky Irving",
-      "description": "Tampa Bay Buccaneers running back Bucky Irving scored two touchdowns, including a late score that trimmed the Chicago Bears' lead.",
+      "description": "Tampa Bay Buccaneers running back Bucky Irving drew praise on social media after scoring two touchdowns during the team's game against the Chicago Bears.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Bucky%20Irving",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.Ft1EMkZyTTQhAU4pGbMuGw&pid=15.1",
@@ -206,130 +276,16 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "todd-bowles",
-      "rank": 6,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-09T02:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-09T03:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Todd Bowles",
-      "description": "Tampa Bay Buccaneers coach Todd Bowles faced scrutiny and criticism for costly decisions and defensive choices following a Week 9 loss to the Bears.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Todd%20Bowles",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.HUKqwdMLwLAS5FxFYZU0DwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T02:23:32Z",
-      "first_seen": "2026-11-09T02:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ben-johnson",
-      "rank": 7,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Ben Johnson",
-      "description": "Chicago Bears head coach Ben Johnson celebrated his team's Sunday night victory over the Buccaneers with a postgame dance tradition.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Ben%20Johnson",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.xks5cHiksy6dDu4h4/BMzg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T05:23:32Z",
-      "first_seen": "2026-11-09T05:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "burden",
-      "rank": 8,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Burden",
-      "description": "Chicago Bears wide receiver Luther Burden exited Sunday's game against the Buccaneers after sustaining a concussion on a helmet-to-helmet hit.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Burden",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.S19N53mVL4ZCJU8tZ0fCVA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T05:23:32Z",
-      "first_seen": "2026-11-09T05:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "amnesty",
-      "rank": 9,
+      "rank": 7,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -348,12 +304,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 7
         }
       ],
-      "rank_change": 10,
+      "rank_change": 12,
       "is_new": false,
       "topic": "Amnesty",
-      "description": "Donald Trump drew attention on social media after floating an immigration amnesty deal and stating he was 'too tough' on immigrants.",
+      "description": "Former President Donald Trump is trending on social media after stating in an interview that he was \"too tough\" on immigrants while floating an amnesty deal.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Amnesty",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.hNXR3OeeT2fj/8eOEsiRSA&pid=15.1",
@@ -362,23 +322,19 @@
       "started_trending": "2026-11-09T03:23:33Z",
       "first_seen": "2026-11-09T03:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jensen",
-      "rank": 10,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "rank": 8,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
-        {
-          "t": "2026-11-09T01:23:31Z",
-          "r": 8
-        },
         {
           "t": "2026-11-09T02:23:32Z",
           "r": 7
@@ -398,12 +354,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 8
         }
       ],
-      "rank_change": -3,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Jensen",
-      "description": "Nvidia opened an investigation after CEO Jensen Huang admitted to having an affair with a Chinese spy.",
+      "description": "Nvidia CEO Jensen Huang is drawing heavy scrutiny and a board investigation following a spying case and admitted affair.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jensen",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.//iGhK25bpzHHdKQJVUD2g&pid=15.1",
@@ -412,45 +372,75 @@
       "started_trending": "2026-11-08T22:23:33Z",
       "first_seen": "2026-11-08T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "buccaneers",
-      "rank": 11,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "id": "baddiesusachapter3",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-09T04:23:31Z",
-          "r": 15
-        },
+          "t": "2026-11-09T07:23:33Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BaddiesUSAChapter3",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23BaddiesUSAChapter3",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Uan9VTbBpZI_d9K8b98qgQHaK5&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T07:23:33Z",
+      "first_seen": "2026-11-09T07:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ben-johnson",
+      "rank": 10,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
         {
           "t": "2026-11-09T05:23:32Z",
-          "r": 9
+          "r": 7
         },
         {
           "t": "2026-11-09T06:23:32Z",
-          "r": 11
+          "r": 7
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 10
         }
       ],
-      "rank_change": 4,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "Buccaneers",
-      "description": "The Tampa Bay Buccaneers lost a close Sunday Night Football matchup to the Chicago Bears despite a late rally.",
+      "topic": "Ben Johnson",
+      "description": "Chicago Bears coach Ben Johnson went viral on social media for his postgame locker room speech and victory dance after defeating the Buccaneers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Buccaneers",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.FYc1eGvBbkyH9pO2oPAkTw&pid=15.1",
+      "url": "https://twstalker.com/search/Ben%20Johnson",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.xks5cHiksy6dDu4h4/BMzg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T04:23:31Z",
-      "first_seen": "2026-11-09T04:23:31Z",
+      "started_trending": "2026-11-09T05:23:32Z",
+      "first_seen": "2026-11-09T05:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
+      "last_seen": "2026-11-09T07:23:33Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -458,42 +448,46 @@
       "extra": {}
     },
     {
-      "id": "beardown",
-      "rank": 12,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "id": "burden",
+      "rank": 11,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-09T05:23:32Z",
-          "r": 11
+          "r": 8
         },
         {
           "t": "2026-11-09T06:23:32Z",
-          "r": 12
+          "r": 8
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 11
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "#BearDown",
-      "description": "The material does not provide enough context to explain why this topic is currently trending.",
+      "topic": "Burden",
+      "description": "Chicago Bears wide receiver Luther Burden exited Sunday's game against the Buccaneers after suffering a concussion from a helmet-to-helmet hit.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23BearDown",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.H5SwyXd3jw7od3GUBHW8ywHaHa&pid=15.1",
+      "url": "https://twstalker.com/search/Burden",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.S19N53mVL4ZCJU8tZ0fCVA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-09T05:23:32Z",
       "first_seen": "2026-11-09T05:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "devin-bush",
-      "rank": 13,
+      "rank": 12,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -508,12 +502,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 12
         }
       ],
-      "rank_change": -7,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Devin Bush",
-      "description": "Devin Bush and James Lynch combined to stop a crucial quarterback sneak attempt by Baker Mayfield during the Bears' win over the Buccaneers.",
+      "description": "Devin Bush and James Lynch drew social media attention after combining to stonewall Baker Mayfield on a crucial quarterback sneak.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Devin%20Bush",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.rv7jyJpDK3Pw/DxZN5HAtQ&pid=15.1",
@@ -522,7 +520,87 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "buccaneers",
+      "rank": 13,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-09T04:23:31Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-09T06:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Buccaneers",
+      "description": "The Tampa Bay Buccaneers fell short against the Chicago Bears on Sunday Night Football despite a late-game rally and strong defensive efforts.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Buccaneers",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.FYc1eGvBbkyH9pO2oPAkTw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T04:23:31Z",
+      "first_seen": "2026-11-09T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "beardown",
+      "rank": 14,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-09T05:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-09T06:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "#BearDown",
+      "description": "Social media users are using the hashtag as the Chicago Bears secure a dramatic victory on a game-winning field goal.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23BearDown",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.H5SwyXd3jw7od3GUBHW8ywHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T05:23:32Z",
+      "first_seen": "2026-11-09T05:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T07:23:33Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -530,33 +608,67 @@
       "extra": {}
     },
     {
-      "id": "baddiesusachapterthree",
-      "rank": 14,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "id": "lamansionvip2",
+      "rank": 15,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
-          "t": "2026-11-09T05:23:32Z",
-          "r": 14
+          "t": "2026-11-09T06:23:32Z",
+          "r": 17
         },
         {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 14
+          "t": "2026-11-09T07:23:33Z",
+          "r": 15
         }
       ],
-      "rank_change": 0,
+      "rank_change": 2,
       "is_new": false,
-      "topic": "#BaddiesUsaChapterThree",
-      "description": "Viewers on social media are discussing the television premiere of Baddies USA Chapter Three on the Zeus network.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23BaddiesUsaChapterThree",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.dmZGFpzLNwPKwqBx6r7uEQHaEK&pid=15.1",
+      "topic": "#LamansionVIP2",
+      "description": "",
+      "description_source": "",
+      "url": "https://twstalker.com/search/%23LamansionVIP2",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.PdIDPbZvf2pxAwUexFOuRg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-09T05:23:32Z",
-      "first_seen": "2026-11-09T05:23:32Z",
+      "started_trending": "2026-11-09T06:23:32Z",
+      "first_seen": "2026-11-09T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "loveisblindreunion",
+      "rank": 16,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-09T06:23:32Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "#LOVEISBLINDreunion",
+      "description": "Fans are buzzing on social media over the latest \"Love Is Blind\" reunion, which featured dramatic admissions of cheating and awkward onstage moments.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/%23LOVEISBLINDreunion",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ZX0IsVqeZUrktM1SNAQqugHaLH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T06:23:32Z",
+      "first_seen": "2026-11-09T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T07:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -565,7 +677,7 @@
     },
     {
       "id": "tbvschi",
-      "rank": 15,
+      "rank": 17,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -584,12 +696,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 17
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "#TBvsCHI",
-      "description": "Fans are discussing the turnover-filled Sunday Night Football matchup between the Tampa Bay Buccaneers and the Chicago Bears.",
+      "description": "Fans are discussing the chaotic Sunday Night Football matchup between the Tampa Bay Buccaneers and Chicago Bears, which featured multiple turnovers and a dramatic finish.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/%23TBvsCHI",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.KZ9SmaA7nCT2owQ6Qm3mGA&pid=15.1",
@@ -598,16 +714,16 @@
       "started_trending": "2026-11-09T03:23:33Z",
       "first_seen": "2026-11-09T03:23:33Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "4-ints",
-      "rank": 16,
+      "rank": 18,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -622,12 +738,16 @@
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 18
         }
       ],
-      "rank_change": 3,
+      "rank_change": 1,
       "is_new": false,
       "topic": "4 INTs",
-      "description": "Caleb Williams threw four interceptions, sparking discussions about his performance as the Chicago Bears still managed to defeat the Buccaneers.",
+      "description": "Chicago Bears quarterback Caleb Williams is trending after throwing four interceptions during a dramatic win against the Tampa Bay Buccaneers.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/4%20INTs",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.SXS4YL12ekHv/ePIYGKReQ&pid=15.1",
@@ -636,118 +756,32 @@
       "started_trending": "2026-11-09T04:23:31Z",
       "first_seen": "2026-11-09T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lamansionvip2",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#LamansionVIP2",
-      "description": "",
-      "description_source": "",
-      "url": "https://twstalker.com/search/%23LamansionVIP2",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.PdIDPbZvf2pxAwUexFOuRg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T06:23:32Z",
-      "first_seen": "2026-11-09T06:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "alycia",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Alycia",
-      "description": "Alycia Baumgardner became a two-division world champion after securing a unanimous decision victory over Elif Nur Turhan to win the IBF title.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Alycia",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.vKxT7by5kxFPKLcwLHBn/g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T06:23:32Z",
-      "first_seen": "2026-11-09T06:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "loveisblindreunion",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-09T06:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#LOVEISBLINDreunion",
-      "description": "The Love Is Blind reunion sparked intense social media reactions, particularly after star John Shannon admitted to cheating on his wife Sarah Williams.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/%23LOVEISBLINDreunion",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ZX0IsVqeZUrktM1SNAQqugHaLH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-09T06:23:32Z",
-      "first_seen": "2026-11-09T06:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "60-minutes",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-11-09T06:23:32Z",
           "r": 20
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "60 Minutes",
-      "description": "Donald Trump discussed immigration enforcement, regrets, and his deportation policies during an interview on 60 Minutes.",
+      "description": "President Trump is drawing widespread discussion on social media following his recent interview on 60 Minutes where he discussed immigration enforcement.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/60%20Minutes",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.qSPH/P9GQRxOHuOOWvuq6w&pid=15.1",
@@ -756,10 +790,44 @@
       "started_trending": "2026-11-09T06:23:32Z",
       "first_seen": "2026-11-09T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-09T06:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "alycia",
+      "rank": 20,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-09T06:23:32Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-09T07:23:33Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Alycia",
+      "description": "Alycia Baumgardner is trending after winning a unanimous decision against Elif Nur Turhan in front of a home crowd to become a two-division world champion.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Alycia",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.vKxT7by5kxFPKLcwLHBn/g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-09T06:23:32Z",
+      "first_seen": "2026-11-09T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-09T07:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
