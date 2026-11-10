@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-10T22:25:28Z",
+  "updated": "2026-11-10T23:25:07Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-11-10T22:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Jim Jordan",
-      "description": "House Republicans elected Representative Jim Jordan as their next leader and minority leader following recent midterm election losses.",
+      "description": "Following election losses, House Republicans chose Ohio Representative Jim Jordan as their minority leader.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Jim%20Jordan",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.OgDOyhS1T9VSQhI2cfnArg&pid=15.1",
@@ -34,10 +38,10 @@
       "started_trending": "2026-11-10T20:23:36Z",
       "first_seen": "2026-11-10T20:23:36Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -58,12 +62,16 @@
         {
           "t": "2026-11-10T22:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 2
         }
       ],
       "rank_change": 9,
       "is_new": false,
       "topic": "Kirk Cousins",
-      "description": "The Minnesota Vikings brought back quarterback Kirk Cousins in a deadline trade with the Raiders to address their quarterback troubles.",
+      "description": "Quarterback Kirk Cousins has returned to the Minnesota Vikings in a trade with the Raiders, which paves the way for Fernando Mendoza to start.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Kirk%20Cousins",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.5sxWL4cKF3UCsQamtDQuow&pid=15.1",
@@ -72,56 +80,30 @@
       "started_trending": "2026-11-10T19:23:34Z",
       "first_seen": "2026-11-10T19:23:34Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "colts",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-10T22:23:33Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Colts",
-      "description": "The Indianapolis Colts released their Week 10 depth chart while facing multiple trade deadline moves, including trading Josh Downs and keeping Jonathan Taylor.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Colts",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Qy5xNZTgHBwLApVVPa5l6wHaFs&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-10T22:23:33Z",
-      "first_seen": "2026-11-10T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "josh-downs",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-10T22:23:33Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Josh Downs",
       "description": "The Kansas City Chiefs acquired wide receiver Josh Downs in a trade with the Indianapolis Colts ahead of the NFL trade deadline.",
       "description_source": "gemini",
@@ -132,16 +114,118 @@
       "started_trending": "2026-11-10T22:23:33Z",
       "first_seen": "2026-11-10T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "michkov",
+      "rank": 4,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-10T22:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Michkov",
+      "description": "Matvei Michkov has reportedly requested a trade from the Philadelphia Flyers to seek a fresh start elsewhere.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Michkov",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.dC2tAmxKzv0n9WLhznNHvg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-10T22:23:33Z",
+      "first_seen": "2026-11-10T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "colts",
+      "rank": 5,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-10T22:23:33Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Colts",
+      "description": "The Indianapolis Colts released their unofficial depth chart for Week 10 and were involved in several trade deadline discussions and moves.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Colts",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Qy5xNZTgHBwLApVVPa5l6wHaFs&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-10T22:23:33Z",
+      "first_seen": "2026-11-10T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "senate-republicans",
+      "rank": 6,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-10T22:23:33Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Senate Republicans",
+      "description": "Senate Republicans voted to keep Thune as their leader following an election wipeout and a bruising showdown with critics.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Senate%20Republicans",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.gBmpf3vFh5y4jxgtR7RvPwHaE6&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-10T22:23:33Z",
+      "first_seen": "2026-11-10T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mendoza",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -156,12 +240,16 @@
         {
           "t": "2026-11-10T22:23:33Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": 14,
+      "rank_change": 12,
       "is_new": false,
       "topic": "Mendoza",
-      "description": "Following the trade of Kirk Cousins, rookie quarterback Fernando Mendoza is in line to become the Raiders' starting quarterback and make his first career start.",
+      "description": "Following the trade of Kirk Cousins, Fernando Mendoza is in line to become the starting quarterback for the Raiders.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Mendoza",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.71mDd21199QqYCSJ48vSzgHaE8&pid=15.1",
@@ -170,7 +258,45 @@
       "started_trending": "2026-11-10T19:23:34Z",
       "first_seen": "2026-11-10T19:23:34Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "house-republicans",
+      "rank": 8,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-10T20:23:36Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-10T22:23:33Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "House Republicans",
+      "description": "House Republicans elected Jim Jordan as their next party leader following election losses and are considering issuing a subpoena to Nvidia CEO Jensen Huang.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/House%20Republicans",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.R1eFfS55KUCUDb7QxPjTng&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-10T20:23:36Z",
+      "first_seen": "2026-11-10T20:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-10T23:23:35Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -178,38 +304,76 @@
       "extra": {}
     },
     {
-      "id": "michkov",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "henley",
+      "rank": 9,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-11-10T22:23:33Z",
-          "r": 6
+          "r": 9
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Michkov",
-      "description": "Matvei Michkov is reportedly looking for a fresh start and seeking a trade away from the Philadelphia Flyers during his contract year.",
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Henley",
+      "description": "The Denver Broncos agreed to terms on a trade with the Los Angeles Chargers to acquire linebacker Daiyan Henley.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Michkov",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.dC2tAmxKzv0n9WLhznNHvg&pid=15.1",
+      "url": "https://twstalker.com/search/Henley",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Jr1mkdubCvsS4okVJqWoYw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-10T22:23:33Z",
       "first_seen": "2026-11-10T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brad-holmes",
+      "rank": 10,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-10T22:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Brad Holmes",
+      "description": "Detroit Lions general manager Brad Holmes stood pat at the trade deadline, doubling down on his confidence in the current roster.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Brad%20Holmes",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.1lv7JewEgN9FsJC8Sb1ZyAHaLI&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-10T22:23:33Z",
+      "first_seen": "2026-11-10T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "keenan-allen",
-      "rank": 7,
+      "rank": 11,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -224,12 +388,16 @@
         {
           "t": "2026-11-10T22:23:33Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 11
         }
       ],
-      "rank_change": -6,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Keenan Allen",
-      "description": "The San Francisco 49ers traded for wide receiver Keenan Allen from the Colts to bolster their injury-plagued roster.",
+      "description": "The San Francisco 49ers traded for Colts wide receiver Keenan Allen to bolster their injury-plagued receiving room.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Keenan%20Allen",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.aT7WWhP8qVnMMROCZFVTrA&pid=15.1",
@@ -238,37 +406,37 @@
       "started_trending": "2026-11-10T19:23:34Z",
       "first_seen": "2026-11-10T19:23:34Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "brad-holmes",
-      "rank": 8,
+      "id": "betrayed",
+      "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-10T22:23:33Z",
-          "r": 8
+          "t": "2026-11-10T23:23:35Z",
+          "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Brad Holmes",
-      "description": "Detroit Lions general manager Brad Holmes and the team stood pat at the NFL trade deadline without making any major final-day moves.",
+      "topic": "Betrayed",
+      "description": "The term is trending across varied recent discussions, including commentary on Donald Trump's presidency, a client accusing Jefferies of betrayal, and fictional character betrayals in Game of Thrones.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Brad%20Holmes",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.1lv7JewEgN9FsJC8Sb1ZyAHaLI&pid=15.1",
+      "url": "https://twstalker.com/search/Betrayed",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.uoSCJUZ1vSXMTS8OuNfCAwHaDt&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-10T22:23:33Z",
-      "first_seen": "2026-11-10T22:23:33Z",
+      "started_trending": "2026-11-10T23:23:35Z",
+      "first_seen": "2026-11-10T23:23:35Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
+      "last_seen": "2026-11-10T23:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -276,98 +444,42 @@
       "extra": {}
     },
     {
-      "id": "henley",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "primary",
+      "rank": 13,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-10T22:23:33Z",
-          "r": 9
+          "r": 17
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Henley",
-      "description": "The Denver Broncos acquired linebacker Daiyan Henley in a trade with the Los Angeles Chargers before the NFL trade deadline.",
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Primary",
+      "description": "The term is trending due to a mix of local political challenges, healthcare pilot launches, medical trial updates, and startup acquisitions.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Henley",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Jr1mkdubCvsS4okVJqWoYw&pid=15.1",
+      "url": "https://twstalker.com/search/Primary",
+      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.P1rbg69MBMq5COQYlMkAEAHaFq&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-10T22:23:33Z",
       "first_seen": "2026-11-10T22:23:33Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kyle-mccord",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-10T22:23:33Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kyle McCord",
-      "description": "Miami Dolphins quarterback Malik Willis was placed on injured reserve due to a groin injury, paving the way for Kyle McCord to start in Week 10 against the Colts.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Kyle%20McCord",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.gfYd9y0GGM2BqsHQVkDRtgHaIx&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-10T22:23:33Z",
-      "first_seen": "2026-11-10T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "vikings",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-10T22:23:33Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Vikings",
-      "description": "The Minnesota Vikings reunited with quarterback Kirk Cousins by trading a draft pick to the Raiders on deadline day.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Vikings",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.7GVZBd9uB1i86GTqky555gHaJo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-10T22:23:33Z",
-      "first_seen": "2026-11-10T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "kirko",
-      "rank": 12,
+      "rank": 14,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -378,12 +490,16 @@
         {
           "t": "2026-11-10T22:23:33Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 14
         }
       ],
-      "rank_change": -7,
+      "rank_change": -9,
       "is_new": false,
       "topic": "Kirko",
-      "description": "Minnesota Vikings fans and fantasy football analysts are reacting with excitement to the potential return and trade of Kirk Cousins, affectionately known as Kirko.",
+      "description": "Minnesota Vikings fans are excited about the potential return of Kirk Cousins and the revival of the Kirko Chainz persona.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/Kirko",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.O6HbIGBRh12gWsKxo8R/HQ&pid=15.1",
@@ -392,7 +508,41 @@
       "started_trending": "2026-11-10T20:23:36Z",
       "first_seen": "2026-11-10T20:23:36Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kyle-mccord",
+      "rank": 15,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-10T22:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Kyle McCord",
+      "description": "With Dolphins quarterback Malik Willis placed on injured reserve due to a groin injury, Kyle McCord is in line for his first start.",
+      "description_source": "gemini",
+      "url": "https://twstalker.com/search/Kyle%20McCord",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.gfYd9y0GGM2BqsHQVkDRtgHaIx&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-10T22:23:33Z",
+      "first_seen": "2026-11-10T22:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-10T23:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -400,29 +550,29 @@
       "extra": {}
     },
     {
-      "id": "jonathan-taylor",
-      "rank": 13,
+      "id": "flyers",
+      "rank": 16,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-10T22:23:33Z",
-          "r": 13
+          "t": "2026-11-10T23:23:35Z",
+          "r": 16
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Jonathan Taylor",
-      "description": "The Indianapolis Colts reportedly turned down multiple offers, including second-round picks, and chose to keep running back Jonathan Taylor after demanding a first-round selection.",
+      "topic": "Flyers",
+      "description": "The Philadelphia Flyers are drawing attention amid reports that Matvei Michkov wants a trade and ongoing discussion about the team's struggles.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jonathan%20Taylor",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.ZG0fwBxypaRtuNqWgufGUw&pid=15.1",
+      "url": "https://twstalker.com/search/Flyers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.DrSl9MlYWobNS-R5grVSagHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-10T22:23:33Z",
-      "first_seen": "2026-11-10T22:23:33Z",
+      "started_trending": "2026-11-10T23:23:35Z",
+      "first_seen": "2026-11-10T23:23:35Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
+      "last_seen": "2026-11-10T23:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -430,49 +580,11 @@
       "extra": {}
     },
     {
-      "id": "raiders",
-      "rank": 14,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-10T20:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-10T22:23:33Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Raiders",
-      "description": "The Las Vegas Raiders traded quarterback Kirk Cousins to the Vikings, paving the way for rookie Fernando Mendoza to take over as the starting quarterback.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Raiders",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.m3fpcSc/01H5BtlTrWoLRw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-10T20:23:36Z",
-      "first_seen": "2026-11-10T20:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "30fps",
-      "rank": 15,
+      "rank": 17,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-11-10T17:23:33Z",
-          "r": 4
-        },
         {
           "t": "2026-11-10T18:23:33Z",
           "r": 4
@@ -488,12 +600,16 @@
         {
           "t": "2026-11-10T22:23:33Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-10T23:23:35Z",
+          "r": 17
         }
       ],
-      "rank_change": -11,
+      "rank_change": -13,
       "is_new": false,
       "topic": "30fps",
-      "description": "Rockstar confirmed that GTA 6 will target 30fps on all consoles, leaving social media users and fans divided over the performance cap.",
+      "description": "Rockstar confirmed that Grand Theft Auto VI will target 30fps on consoles, leaving fans divided and PS5 Pro owners frustrated.",
       "description_source": "gemini",
       "url": "https://twstalker.com/search/30fps",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.vmUbSs_62G7PPzljuy7H4wHaDP&pid=15.1",
@@ -502,169 +618,97 @@
       "started_trending": "2026-11-10T17:23:33Z",
       "first_seen": "2026-11-10T17:23:33Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "senate-republicans",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-10T22:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Senate Republicans",
-      "description": "Senate Republicans voted to keep Thune as their leader following an election wipeout and a bruising showdown with critics.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Senate%20Republicans",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.gBmpf3vFh5y4jxgtR7RvPwHaE6&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-10T22:23:33Z",
-      "first_seen": "2026-11-10T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "primary",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-10T22:23:33Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Primary",
-      "description": "Recent news highlights various primary-related developments, including political primary challenges, healthcare pilot programs, and Oura acquiring Counsel Health.",
-      "description_source": "gemini",
-      "url": "https://twstalker.com/search/Primary",
-      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.P1rbg69MBMq5COQYlMkAEAHaFq&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-10T22:23:33Z",
-      "first_seen": "2026-11-10T22:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "house-republicans",
+      "id": "weekes",
       "rank": 18,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-10T20:23:36Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-10T22:23:33Z",
+          "t": "2026-11-10T23:23:35Z",
           "r": 18
         }
       ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "House Republicans",
-      "description": "House Republicans chose Jim Jordan as their next party leader and considered issuing a subpoena to Nvidia CEO Jensen Huang.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Weekes",
+      "description": "Kevin Weekes reported that Matvei Michkov prefers to have a fresh start elsewhere and has requested a trade away from the Philadelphia Flyers.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/House%20Republicans",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.R1eFfS55KUCUDb7QxPjTng&pid=15.1",
+      "url": "https://twstalker.com/search/Weekes",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.CjnYtXouQDe5Q583Sw7B5QHaKJ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-10T20:23:36Z",
-      "first_seen": "2026-11-10T20:23:36Z",
+      "started_trending": "2026-11-10T23:23:35Z",
+      "first_seen": "2026-11-10T23:23:35Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "amani-hooker",
+      "id": "neuzil",
       "rank": 19,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-10T19:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-10T20:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-10T22:23:33Z",
+          "t": "2026-11-10T23:23:35Z",
           "r": 19
         }
       ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Amani Hooker",
-      "description": "The Buffalo Bills filled a major need at safety by trading a second-round pick to the Tennessee Titans for Amani Hooker.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Neuzil",
+      "description": "The Baltimore Ravens and Atlanta Falcons completed an offensive lineman swap, trading Ryan Neuzil and Andrew Vorhees for each other.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Amani%20Hooker",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.G29pmLZTSCZ4X8EQ2hc6Bw&pid=15.1",
+      "url": "https://twstalker.com/search/Neuzil",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.PVOYfpVRM0Va9zEpc6y_oAHaFc&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-10T19:23:34Z",
-      "first_seen": "2026-11-10T19:23:34Z",
+      "started_trending": "2026-11-10T23:23:35Z",
+      "first_seen": "2026-11-10T23:23:35Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-10T23:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jurgens",
+      "id": "odell",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-10T22:23:33Z",
+          "t": "2026-11-10T23:23:35Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Jurgens",
-      "description": "The Baltimore Ravens pursued a trade for the Falcons' starting center amid other notable NFL trade deadline deals and roster moves.",
+      "topic": "Odell",
+      "description": "The Minnesota Vikings terminated Odell Beckham Jr.'s contract during roster moves, though they plan to re-sign him to the practice squad.",
       "description_source": "gemini",
-      "url": "https://twstalker.com/search/Jurgens",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-10T22:23:33Z",
-      "first_seen": "2026-11-10T22:23:33Z",
+      "url": "https://twstalker.com/search/Odell",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.puHkj100lA6rpHAWNR6ziQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-10T23:23:35Z",
+      "first_seen": "2026-11-10T23:23:35Z",
       "published": null,
-      "last_seen": "2026-11-10T22:23:33Z",
+      "last_seen": "2026-11-10T23:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
