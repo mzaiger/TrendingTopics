@@ -10,7 +10,7 @@ Social media trends: US top 20 -> social_media_trends.json
      started trending, are kept in the JSON. The volume line is "hours trending", counted from when the script first saw (added) the topic.
   5. One image per new topic from DuckDuckGo, searched with words Gemini writes from the topic
      and its description, then the most relevant candidate is picked.
-  Each topic links to a twstalker.com search.
+  Each topic links to a sotwe.com search.
 
 Env vars:
   APIFY_TOKEN          required
@@ -38,7 +38,7 @@ from bs4 import BeautifulSoup
 import schedule
 import trend_common as tc
 
-TWSTALKER = "https://twstalker.com"
+sotwe = "https://sotwe.com"
 SOTWE = "https://www.sotwe.com"
 NEWS_RSS = "https://news.google.com/rss/search"
 
@@ -125,7 +125,7 @@ def _normalize(items: list) -> list[dict]:
             "topic": topic,
             "query": query,
             "is_hashtag": bool(it.get("isHashtag")) or topic.startswith("#"),
-            "url": f"{TWSTALKER}/search/{quote(query, safe='')}",
+            "url": f"{sotwe}/search/{quote(query, safe='')}",
         })
         if len(out) == TOP_N:
             break
@@ -156,7 +156,7 @@ def get_trends() -> tuple[list[dict], str]:
 # ----------------------------------------------------------------- context: posts
 
 def clean_query(q: str) -> str:
-    """Search text for the twstalker/Sotwe links: no double quotes, and '+' (how X encodes a
+    """Search text for the sotwe/Sotwe links: no double quotes, and '+' (how X encodes a
     space in its query strings) turned back into a space."""
     q = (q or "").replace('"', "").replace("\u201c", "").replace("\u201d", "").replace("+", " ")
     return re.sub(r"\s+", " ", q).strip()
