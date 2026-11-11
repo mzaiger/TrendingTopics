@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-11T14:25:17Z",
+  "updated": "2026-11-11T15:25:02Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,17 +10,9 @@
     {
       "id": "veterans-day",
       "rank": 1,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-11-11T08:23:41Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-11T09:23:33Z",
-          "r": 3
-        },
         {
           "t": "2026-11-11T10:23:33Z",
           "r": 2
@@ -40,12 +32,16 @@
         {
           "t": "2026-11-11T14:23:38Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 1
         }
       ],
-      "rank_change": 1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Veterans Day",
-      "description": "Veterans Day is trending as communities across the United States celebrate military service members with parades, events, and special restaurant deals offering free meals and discounts.",
+      "description": "Veterans Day is trending as people look up information on free meals, discounts, and special events offered by restaurants and communities for veterans and active-duty members.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Veterans%20Day",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.ZisEL0hRzZsvlflPMyZMIQAAAA&pid=15.1",
@@ -54,7 +50,7 @@
       "started_trending": "2026-11-11T07:23:36Z",
       "first_seen": "2026-11-11T07:23:36Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
+      "last_seen": "2026-11-11T15:23:34Z",
       "hours_trending": 7,
       "volume": "7hr trend",
       "volume_value": 7,
@@ -62,8 +58,130 @@
       "extra": {}
     },
     {
-      "id": "good-wednesday",
+      "id": "united-states-armed-forces",
       "rank": 2,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-11T12:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-11T13:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-11T14:23:38Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "United States Armed Forces",
+      "description": "Social media users are honoring the United States Armed Forces and military veterans by sharing tributes, photos, and stories highlighting a legacy of service and sacrifice.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/United%20States%20Armed%20Forces",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.XDUmXxwFFqfrC6tgQhFUjgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-11T12:23:35Z",
+      "first_seen": "2026-11-11T12:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "la-villa-de-los-santos",
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-11T13:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-11T14:23:38Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "La Villa de Los Santos",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/La%20Villa%20de%20Los%20Santos",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.eFXjmwprVpf3PLODR1KZ2QHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-11T13:23:34Z",
+      "first_seen": "2026-11-11T13:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "poch",
+      "rank": 4,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-11T12:23:35Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-11T13:23:34Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-11T14:23:38Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 15,
+      "is_new": false,
+      "topic": "Poch",
+      "description": "Mauricio Pochettino is trending as reports indicate Manchester United has reached an agreement or is considering him as a potential successor, leaving USMNT fans and players reacting to the news.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Poch",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.nnb7QkT1XGlL7K_OpOG3HQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-11T12:23:35Z",
+      "first_seen": "2026-11-11T12:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-wednesday",
+      "rank": 5,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -82,12 +200,16 @@
         {
           "t": "2026-11-11T14:23:38Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 5
         }
       ],
-      "rank_change": 3,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Good Wednesday",
-      "description": "Good Wednesday is trending on social media with local weather updates, community news, and discussions about mild midweek conditions and yard improvements.",
+      "description": "The material does not make the description clear.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Good%20Wednesday",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.9iH4XmP9mRMcO2d-vRT4twHaEJ&pid=15.1",
@@ -96,45 +218,45 @@
       "started_trending": "2026-11-11T11:23:33Z",
       "first_seen": "2026-11-11T11:23:33Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "united-states-armed-forces",
-      "rank": 3,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "id": "vets",
+      "rank": 6,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
-          "t": "2026-11-11T12:23:35Z",
-          "r": 11
-        },
-        {
           "t": "2026-11-11T13:23:34Z",
-          "r": 6
+          "r": 15
         },
         {
           "t": "2026-11-11T14:23:38Z",
-          "r": 3
+          "r": 6
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": 8,
+      "rank_change": 9,
       "is_new": false,
-      "topic": "United States Armed Forces",
-      "description": "The United States Armed Forces are trending on social media as people across the country honor military veterans, reflect on a lifetime of service, and share tributes on Veterans Day.",
+      "topic": "Vets",
+      "description": "Veterans are trending in discussions as they share alternative PTSD treatments like ayahuasca, receive health advice following organ transplants, and take advantage of Veterans Day deals.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/United%20States%20Armed%20Forces",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.XDUmXxwFFqfrC6tgQhFUjgHaE8&pid=15.1",
+      "url": "https://sotwe.com/search/Vets",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ELq1_t2l5vIsV0Lapo_IvQHaEw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-11T12:23:35Z",
-      "first_seen": "2026-11-11T12:23:35Z",
+      "started_trending": "2026-11-11T13:23:34Z",
+      "first_seen": "2026-11-11T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
+      "last_seen": "2026-11-11T15:23:34Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -142,53 +264,11 @@
       "extra": {}
     },
     {
-      "id": "la-villa-de-los-santos",
-      "rank": 4,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-11T13:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-11T14:23:38Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "La Villa de Los Santos",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/La%20Villa%20de%20Los%20Santos",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.eFXjmwprVpf3PLODR1KZ2QHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-11T13:23:34Z",
-      "first_seen": "2026-11-11T13:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "coachella",
-      "rank": 5,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "rank": 7,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-11-11T08:23:41Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-11T09:23:33Z",
-          "r": 1
-        },
         {
           "t": "2026-11-11T10:23:33Z",
           "r": 1
@@ -208,12 +288,16 @@
         {
           "t": "2026-11-11T14:23:38Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 7
         }
       ],
-      "rank_change": -4,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Coachella",
-      "description": "Coachella is generating online buzz after announcing its 2027 lineup, featuring headliners SZA, Tame Impala, Dua Lipa, and Madonna in the dance tent.",
+      "description": "Coachella is trending after revealing its 2027 lineup, featuring headliners Dua Lipa, SZA, and Tame Impala, alongside Madonna performing in the dance tent.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Coachella",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.D8InfUaa0udPHva/KjbXWw&pid=15.1",
@@ -222,7 +306,7 @@
       "started_trending": "2026-11-11T07:23:36Z",
       "first_seen": "2026-11-11T07:23:36Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
+      "last_seen": "2026-11-11T15:23:34Z",
       "hours_trending": 7,
       "volume": "7hr trend",
       "volume_value": 7,
@@ -230,122 +314,8 @@
       "extra": {}
     },
     {
-      "id": "vets",
-      "rank": 6,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-11T13:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-11T14:23:38Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 9,
-      "is_new": false,
-      "topic": "Vets",
-      "description": "Veterans are trending online as social media users discuss Veterans Day discounts, restaurant promotions, and alternative PTSD treatments like ayahuasca.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Vets",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ELq1_t2l5vIsV0Lapo_IvQHaEw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-11T13:23:34Z",
-      "first_seen": "2026-11-11T13:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "poch",
-      "rank": 7,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-11T12:23:35Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-11T13:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-11T14:23:38Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 12,
-      "is_new": false,
-      "topic": "Poch",
-      "description": "Mauricio Pochettino is trending on social media amid reports that Manchester United is finalizing a deal to make him Michael Carrick's potential successor, while USMNT players await updates.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Poch",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.nnb7QkT1XGlL7K_OpOG3HQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-11T12:23:35Z",
-      "first_seen": "2026-11-11T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hump-day",
-      "rank": 8,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-11T11:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-11T12:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-11T13:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-11T14:23:38Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Hump Day",
-      "description": "Hump day is trending on social media as users share midweek weather forecasts, puzzles, and daily reflections.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Hump%20Day",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.IfqisBYb4Jm52-JiCRSbpwHaHi&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-11T11:23:33Z",
-      "first_seen": "2026-11-11T11:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "armistice-day",
-      "rank": 9,
+      "rank": 8,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -364,12 +334,16 @@
         {
           "t": "2026-11-11T14:23:38Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": 11,
+      "rank_change": 12,
       "is_new": false,
       "topic": "Armistice Day",
-      "description": "Armistice Day is trending as communities in Britain and other regions fall silent to observe memorial services and veterans reclaim the day for peace.",
+      "description": "Armistice Day is trending as crowds gather in the UK and other regions to observe a two-minute silence and remember fallen service members.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Armistice%20Day",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.ohxcvGC29AbqoPNV6WSzpQ&pid=15.1",
@@ -378,18 +352,128 @@
       "started_trending": "2026-11-11T11:23:33Z",
       "first_seen": "2026-11-11T11:23:33Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "usmnt",
+      "rank": 9,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-11T14:23:38Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "USMNT",
+      "description": "USMNT fans are reacting with concern on social media as manager Mauricio Pochettino nears a potential move to Manchester United.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/USMNT",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.vGLjxYbG3qHH0-EHgaIGJAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-11T14:23:38Z",
+      "first_seen": "2026-11-11T14:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hump-day",
+      "rank": 10,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-11T11:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-11T12:23:35Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-11T13:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-11T14:23:38Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Hump Day",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Hump%20Day",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.IfqisBYb4Jm52-JiCRSbpwHaHi&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-11T11:23:33Z",
+      "first_seen": "2026-11-11T11:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ausmus",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ausmus",
+      "description": "Brad Ausmus is trending as he is reportedly linked to the Houston Astros' managerial search alongside Albert Pujols.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Ausmus",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.wK38/jRis0/MGpnp8ZnGew&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-11T15:23:34Z",
+      "first_seen": "2026-11-11T15:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lisbeth",
-      "rank": 10,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "rank": 12,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-11-11T10:23:33Z",
@@ -410,12 +494,16 @@
         {
           "t": "2026-11-11T14:23:38Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 12
         }
       ],
-      "rank_change": -4,
+      "rank_change": -5,
       "is_new": false,
       "topic": "lisbeth",
-      "description": "Lisbeth is trending on social media as viewers discuss character guides, recaps, and the finale of Netflix's Y2K queer teen drama series, The Body.",
+      "description": "Lisbeth is trending following discussions and recaps of Netflix's YA drama series 'The Body,' particularly regarding her story about Grace.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/lisbeth",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.OAcwXfszfGAzzhA8P3e6pg&pid=15.1",
@@ -424,27 +512,69 @@
       "started_trending": "2026-11-11T10:23:33Z",
       "first_seen": "2026-11-11T10:23:33Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "thebody",
+      "rank": 13,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-11T10:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-11T11:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-11T12:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-11T13:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-11T14:23:38Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "#thebody",
+      "description": "Netflix's YA horror-drama series 'The Body' is trending on social media as viewers discuss and review its finale, characters, and 2000s-inspired style.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23thebody",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.OAcwXfszfGAzzhA8P3e6pg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-11T09:23:33Z",
+      "first_seen": "2026-11-11T09:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wanda",
-      "rank": 11,
+      "rank": 14,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-11-11T08:23:41Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-11T09:23:33Z",
-          "r": 2
-        },
         {
           "t": "2026-11-11T10:23:33Z",
           "r": 3
@@ -464,12 +594,16 @@
         {
           "t": "2026-11-11T14:23:38Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": -8,
+      "rank_change": -11,
       "is_new": false,
       "topic": "Wanda",
-      "description": "Wanda is trending on social media as fans discuss her potential return and familiar MCU appearances in the series finale and post-credits scenes of VisionQuest.",
+      "description": "Wanda is trending as Marvel fans discuss potential clues about her return in the 'VisionQuest' series finale and upcoming projects like 'Avengers: Doomsday'.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Wanda",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.kx6w9v5nIcAGkLxg4_TH2AHaJQ&pid=15.1",
@@ -478,28 +612,62 @@
       "started_trending": "2026-11-11T03:23:34Z",
       "first_seen": "2026-11-11T03:23:34Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bagwell",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bagwell",
+      "description": "Bagwell is trending after winning a senior golf crown.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bagwell",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-11T15:23:34Z",
+      "first_seen": "2026-11-11T15:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "el-10",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
           "t": "2026-11-11T14:23:38Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "El 10",
-      "description": "El 10 is trending following local news reports about a 10-inch water main break repaired by El Paso Water on Hawkins near North Loop.",
+      "description": "The material does not make the description clear.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/El%2010",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.oDQrvgYxWRfOAbmUtf_kpwHaFj&pid=15.1",
@@ -508,7 +676,7 @@
       "started_trending": "2026-11-11T14:23:38Z",
       "first_seen": "2026-11-11T14:23:38Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
+      "last_seen": "2026-11-11T15:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -516,38 +684,46 @@
       "extra": {}
     },
     {
-      "id": "usmnt",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "happy-hump",
+      "rank": 17,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
-          "t": "2026-11-11T14:23:38Z",
+          "t": "2026-11-11T13:23:34Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-11T14:23:38Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 17
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "USMNT",
-      "description": "The USMNT is trending on social media as fans react to reports that Mauricio Pochettino is nearing a move to Manchester United and discuss player placements for Christian Pulisic and Cavan Sullivan.",
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Happy Hump",
+      "description": "The material does not make the description clear.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/USMNT",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.vGLjxYbG3qHH0-EHgaIGJAHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/Happy%20Hump",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.KcoLFp5gxhNfjw8MNkK0CQHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-11T14:23:38Z",
-      "first_seen": "2026-11-11T14:23:38Z",
+      "started_trending": "2026-11-11T13:23:34Z",
+      "first_seen": "2026-11-11T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wednesdaymotivation",
-      "rank": 14,
+      "rank": 18,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -558,9 +734,13 @@
         {
           "t": "2026-11-11T14:23:38Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 18
         }
       ],
-      "rank_change": 3,
+      "rank_change": -1,
       "is_new": false,
       "topic": "#WednesdayMotivation",
       "description": "",
@@ -572,48 +752,18 @@
       "started_trending": "2026-11-11T13:23:34Z",
       "first_seen": "2026-11-11T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mcrsingapore2",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-11T14:23:38Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#MCRSINGAPORE2",
-      "description": "This topic is trending due to a social media post from a user expressing fandom for Anica and Sylvia.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23MCRSINGAPORE2",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.XvS3gCPr1QsffrxlafsyoAHaK3&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-11T14:23:38Z",
-      "first_seen": "2026-11-11T14:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-11T15:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "elise",
-      "rank": 16,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "rank": 19,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-11T10:23:33Z",
@@ -634,12 +784,16 @@
         {
           "t": "2026-11-11T14:23:38Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-11T15:23:34Z",
+          "r": 19
         }
       ],
-      "rank_change": -11,
+      "rank_change": -15,
       "is_new": false,
       "topic": "elise",
-      "description": "Elise is trending on social media as fans discuss her role in Netflix's queer Y2K drama series The Body, alongside her recognition as a Patriot League Player of the Week in volleyball.",
+      "description": "Elise is trending following her character's appearance in Netflix's 'The Body' cast and recognition as a Patriot League Player of the Week for volleyball.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/elise",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.JgNvWwenkyE0mMMviI_orAHaJQ&pid=15.1",
@@ -648,57 +802,7 @@
       "started_trending": "2026-11-11T10:23:33Z",
       "first_seen": "2026-11-11T10:23:33Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "thebody",
-      "rank": 17,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-11T09:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-11T10:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-11T11:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-11T12:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-11T13:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-11T14:23:38Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "#thebody",
-      "description": "#Thebody is trending on social media as viewers review and discuss Netflix's genre-bending Y2K psychodrama and teen horror series.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23thebody",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.OAcwXfszfGAzzhA8P3e6pg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-11T09:23:33Z",
-      "first_seen": "2026-11-11T09:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
+      "last_seen": "2026-11-11T15:23:34Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -706,120 +810,32 @@
       "extra": {}
     },
     {
-      "id": "st-martin-of-tours",
-      "rank": 18,
+      "id": "coreweave",
+      "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-11T14:23:38Z",
-          "r": 18
+          "t": "2026-11-11T15:23:34Z",
+          "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "St. Martin of Tours",
-      "description": "St. Martin of Tours is trending on social media as people celebrate Veterans Day and honor the patron saint of soldiers.",
+      "topic": "CoreWeave",
+      "description": "CoreWeave stock surged after reporting strong third-quarter revenue that beat estimates, boosting its annual forecast and easing market worries about AI spending.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/St.%20Martin%20of%20Tours",
-      "image_url": "https://ts3.explicit.bing.net/th?id=OIP.0xg3tZ5UhivuY0XnC4i17gHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-11T14:23:38Z",
-      "first_seen": "2026-11-11T14:23:38Z",
+      "url": "https://sotwe.com/search/CoreWeave",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-11T15:23:34Z",
+      "first_seen": "2026-11-11T15:23:34Z",
       "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
+      "last_seen": "2026-11-11T15:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "happy-hump",
-      "rank": 19,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-11T13:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-11T14:23:38Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Happy Hump",
-      "description": "Happy Hump is trending on social media as users share midweek guides, cooler temperatures, and funny online posts.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Happy%20Hump",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.KcoLFp5gxhNfjw8MNkK0CQHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-11T13:23:34Z",
-      "first_seen": "2026-11-11T13:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "11-democrats",
-      "rank": 20,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-11T08:23:41Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-11T09:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-11T10:23:33Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-11T11:23:33Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-11T12:23:35Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-11T13:23:34Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-11T14:23:38Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "11 Democrats",
-      "description": "11 Democrats are trending on social media after missing the House vote on the bid to impeach Defense Secretary Pete Hegseth.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/11%20Democrats",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.fZpjKOVwSkG7PHE9nJB0mAHaFD&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-11T04:23:32Z",
-      "first_seen": "2026-11-11T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-11T14:23:38Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
       "volume_unit": "hours",
       "extra": {}
     }
