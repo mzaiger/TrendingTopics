@@ -179,6 +179,11 @@
   .net-icons.wide { display: flex; width: 100%; gap: 4px; }
   .net-icons.wide a { flex: 1; justify-content: center; padding: 6px 0; }
   .net-icons.wide .fav-ico { width: 24px; height: 24px; border-radius: 5px; }
+  .net-icons.wide a { align-items: center; gap: 2px; }
+  .net-arrow { font-size: 10px; line-height: 1; color: var(--blue); }
+  /* Google / Reddit link on tiles: same 24px icon as the social row, text sized to match */
+  .meta .go-link { font-size: 13px; gap: 8px; }
+  .meta .go-link .fav-ico { width: 24px; height: 24px; border-radius: 5px; }
   .archived-tag { font-style: italic; }
 
   .empty {
@@ -498,7 +503,7 @@ function faviconImg(domain) {
 function networkIconsHtml(it, mode) {   // mode: 'wide' (tile row) or 'compact' (rows layout)
   const q = encodeURIComponent(it.topic || '');
   return `<span class="net-icons${mode ? ' ' + mode : ''}">${NETWORKS.map(n =>
-    `<a href="${esc(n.url(q))}" target="_blank" rel="noopener noreferrer" title="${esc(n.title)}" aria-label="${esc(n.title)}">${faviconImg(n.domain)}</a>`
+    `<a href="${esc(n.url(q))}" target="_blank" rel="noopener noreferrer" title="${esc(n.title)}" aria-label="${esc(n.title)}">${faviconImg(n.domain)}${mode === 'wide' ? '<span class="net-arrow" aria-hidden="true">\u2197</span>' : ''}</a>`
   ).join('')}</span>`;
 }
 function goLinkHtml(it, src, text) {
