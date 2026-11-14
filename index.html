@@ -160,7 +160,7 @@
   .srctag { text-transform: uppercase; letter-spacing: 0.06em; font-size: 10px; }
 
   /* Favicons: links sit above the full-card click area (z-index 2 vs the stretched title link's 1) */
-  .fav-ico { width: 16px; height: 16px; border-radius: 3px; flex: none; display: block; }
+  .fav-ico { width: 18px; height: 18px; border-radius: 3px; flex: none; display: block; }
   .go-link {
     position: relative; z-index: 2; display: inline-flex; align-items: center; gap: 6px;
     color: var(--blue); text-decoration: none; white-space: nowrap;
@@ -174,6 +174,11 @@
   .net-icons a:hover, .net-icons a:focus-visible { border-color: var(--blue); background: var(--panel); outline: none; }
   .net-icons.compact { gap: 2px; }
   .net-icons.compact a { padding: 2px; }
+  /* Tiles: the five icons take the whole bottom row, spread evenly */
+  .icons-row { display: block; }
+  .net-icons.wide { display: flex; width: 100%; gap: 4px; }
+  .net-icons.wide a { flex: 1; justify-content: center; padding: 6px 0; }
+  .net-icons.wide .fav-ico { width: 24px; height: 24px; border-radius: 5px; }
   .archived-tag { font-style: italic; }
 
   .empty {
@@ -216,10 +221,10 @@
 
   /* ---------- Rows layout ---------- */
   .rows-wrap { overflow-x: auto; grid-column: 1 / -1; }
-  .rows-table { display: flex; flex-direction: column; gap: 5px; min-width: 930px; }
+  .rows-table { display: flex; flex-direction: column; gap: 5px; min-width: 936px; }
   .rows-header-row, .row-item {
     display: grid;
-    grid-template-columns: 44px 58px 56px minmax(150px, 1.1fr) minmax(260px, 2.6fr) 100px 120px 124px;
+    grid-template-columns: 44px 58px 56px minmax(150px, 1.1fr) minmax(260px, 2.6fr) 100px 120px 130px;
     gap: 12px; align-items: center;
   }
   .rows-header-row {
@@ -490,9 +495,9 @@ const NETWORKS = [
 function faviconImg(domain) {
   return `<img class="fav-ico" src="https://www.google.com/s2/favicons?domain=${esc(domain)}&sz=64" alt="" width="16" height="16" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.visibility='hidden'">`;
 }
-function networkIconsHtml(it, compact) {
+function networkIconsHtml(it, mode) {   // mode: 'wide' (tile row) or 'compact' (rows layout)
   const q = encodeURIComponent(it.topic || '');
-  return `<span class="net-icons${compact ? ' compact' : ''}">${NETWORKS.map(n =>
+  return `<span class="net-icons${mode ? ' ' + mode : ''}">${NETWORKS.map(n =>
     `<a href="${esc(n.url(q))}" target="_blank" rel="noopener noreferrer" title="${esc(n.title)}" aria-label="${esc(n.title)}">${faviconImg(n.domain)}</a>`
   ).join('')}</span>`;
 }
@@ -500,10 +505,10 @@ function goLinkHtml(it, src, text) {
   return `<a class="go-link" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${src.iconDomain ? faviconImg(src.iconDomain) : ''}<span>${esc(text)}</span></a>`;
 }
 function openHtml(it, src) {
-  return it.source === 'social_media' ? networkIconsHtml(it, false) : goLinkHtml(it, src, src.openLabel);
+  return it.source === 'social_media' ? networkIconsHtml(it, 'wide') : goLinkHtml(it, src, src.openLabel);
 }
 function rowSrcHtml(it, src) {
-  return it.source === 'social_media' ? networkIconsHtml(it, true) : goLinkHtml(it, src, src.label);
+  return it.source === 'social_media' ? networkIconsHtml(it, 'compact') : goLinkHtml(it, src, src.label);
 }
 
 function cardHtml(it, opts = {}) {
@@ -523,7 +528,9 @@ function cardHtml(it, opts = {}) {
         <p class="desc${it.description ? '' : ' none'}">${descText(it)}</p>
         <div class="meta-block">
           <div class="meta"><span class="when">${timeAgo(it)}${opts.archived ? ' · <span class="archived-tag">saved</span>' : ''}</span><span class="vol">${volText(it) || '—'}</span></div>
-          <div class="meta"><span class="srctag">${esc(src.label)}</span><span class="go">${openHtml(it, src)}</span></div>
+          ${it.source === 'social_media'
+            ? `<div class="meta icons-row">${networkIconsHtml(it, 'wide')}</div>`
+            : `<div class="meta"><span class="srctag">${esc(src.label)}</span><span class="go">${openHtml(it, src)}</span></div>`}
         </div>
       </div>
     </article>`;
