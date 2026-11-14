@@ -158,6 +158,22 @@
   .meta .go { color: var(--blue); }
   .meta .when, .meta .vol { white-space: nowrap; }
   .srctag { text-transform: uppercase; letter-spacing: 0.06em; font-size: 10px; }
+
+  /* Favicons: links sit above the full-card click area (z-index 2 vs the stretched title link's 1) */
+  .fav-ico { width: 16px; height: 16px; border-radius: 3px; flex: none; display: block; }
+  .go-link {
+    position: relative; z-index: 2; display: inline-flex; align-items: center; gap: 6px;
+    color: var(--blue); text-decoration: none; white-space: nowrap;
+  }
+  .go-link:hover span { text-decoration: underline; }
+  .net-icons { position: relative; z-index: 2; display: inline-flex; align-items: center; gap: 6px; }
+  .net-icons a {
+    display: inline-flex; padding: 4px; border: 1px solid transparent; border-radius: 6px;
+    transition: border-color 0.15s ease, background 0.15s ease;
+  }
+  .net-icons a:hover, .net-icons a:focus-visible { border-color: var(--blue); background: var(--panel); outline: none; }
+  .net-icons.compact { gap: 2px; }
+  .net-icons.compact a { padding: 2px; }
   .archived-tag { font-style: italic; }
 
   .empty {
@@ -200,10 +216,10 @@
 
   /* ---------- Rows layout ---------- */
   .rows-wrap { overflow-x: auto; grid-column: 1 / -1; }
-  .rows-table { display: flex; flex-direction: column; gap: 5px; min-width: 900px; }
+  .rows-table { display: flex; flex-direction: column; gap: 5px; min-width: 930px; }
   .rows-header-row, .row-item {
     display: grid;
-    grid-template-columns: 44px 58px 56px minmax(150px, 1.1fr) minmax(260px, 2.6fr) 100px 120px 100px;
+    grid-template-columns: 44px 58px 56px minmax(150px, 1.1fr) minmax(260px, 2.6fr) 100px 120px 124px;
     gap: 12px; align-items: center;
   }
   .rows-header-row {
@@ -298,8 +314,8 @@
 <script>
 const SOURCES = [
   { key: 'social_media', label: 'Social Media', file: 'social_media_trends.json', openLabel: 'Search posts ↗', sourceNote: 'Apify API' },
-  { key: 'google',       label: 'Google',       file: 'google_trends.json',       openLabel: 'Search Google ↗', sourceNote: 'Google Trends RSS feed' },
-  { key: 'reddit',       label: 'Reddit',       file: 'reddit_trends.json',       openLabel: 'Open on Reddit ↗', sourceNote: 'Reddit RSS feed' },
+  { key: 'google',       label: 'Google',       file: 'google_trends.json',       openLabel: 'Search Google ↗', iconDomain: 'google.com', sourceNote: 'Google Trends RSS feed' },
+  { key: 'reddit',       label: 'Reddit',       file: 'reddit_trends.json',       openLabel: 'Open on Reddit ↗', iconDomain: 'reddit.com', sourceNote: 'Reddit RSS feed' },
 ];
 const SOURCE_BY_KEY = Object.fromEntries(SOURCES.map(s => [s.key, s]));
 
@@ -462,6 +478,34 @@ function volText(it) {
   return it.volume ? esc(it.volume) : '';
 }
 
+// Social media tiles get one favicon-only search link per network (no text labels).
+// The favicons come from Google's favicon service; a failed icon just hides itself.
+const NETWORKS = [
+  { domain: 'facebook.com', title: 'Search Facebook',  url: q => `https://www.facebook.com/search/top?q=${q}` },
+  { domain: 'x.com',        title: 'Search posts',     url: q => `https://x.com/search?q=${q}&src=typed_query` },
+  { domain: 'threads.com',  title: 'Search Threads',   url: q => `https://www.threads.com/search?q=${q}` },
+  { domain: 'bsky.app',     title: 'Search Bluesky',   url: q => `https://bsky.app/search?q=${q}` },
+  { domain: 'mastodon.social', title: 'Search Mastodon', url: q => `https://mastodon.social/search?q=${q}` },
+];
+function faviconImg(domain) {
+  return `<img class="fav-ico" src="https://www.google.com/s2/favicons?domain=${esc(domain)}&sz=64" alt="" width="16" height="16" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.visibility='hidden'">`;
+}
+function networkIconsHtml(it, compact) {
+  const q = encodeURIComponent(it.topic || '');
+  return `<span class="net-icons${compact ? ' compact' : ''}">${NETWORKS.map(n =>
+    `<a href="${esc(n.url(q))}" target="_blank" rel="noopener noreferrer" title="${esc(n.title)}" aria-label="${esc(n.title)}">${faviconImg(n.domain)}</a>`
+  ).join('')}</span>`;
+}
+function goLinkHtml(it, src, text) {
+  return `<a class="go-link" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${src.iconDomain ? faviconImg(src.iconDomain) : ''}<span>${esc(text)}</span></a>`;
+}
+function openHtml(it, src) {
+  return it.source === 'social_media' ? networkIconsHtml(it, false) : goLinkHtml(it, src, src.openLabel);
+}
+function rowSrcHtml(it, src) {
+  return it.source === 'social_media' ? networkIconsHtml(it, true) : goLinkHtml(it, src, src.label);
+}
+
 function cardHtml(it, opts = {}) {
   const src = SOURCE_BY_KEY[it.source] || { label: '', openLabel: 'Open ↗' };
   const pill = opts.archived
@@ -479,7 +523,7 @@ function cardHtml(it, opts = {}) {
         <p class="desc${it.description ? '' : ' none'}">${descText(it)}</p>
         <div class="meta-block">
           <div class="meta"><span class="when">${timeAgo(it)}${opts.archived ? ' · <span class="archived-tag">saved</span>' : ''}</span><span class="vol">${volText(it) || '—'}</span></div>
-          <div class="meta"><span class="srctag">${esc(src.label)}</span><span class="go">${esc(src.openLabel)}</span></div>
+          <div class="meta"><span class="srctag">${esc(src.label)}</span><span class="go">${openHtml(it, src)}</span></div>
         </div>
       </div>
     </article>`;
@@ -497,7 +541,7 @@ function rowHtml(it, opts = {}) {
       <span class="row-desc">${it.description ? esc(it.description) : '—'}</span>
       <span class="row-date">${timeAgo(it)}${opts.archived ? ' · saved' : ''}</span>
       <span class="row-vol">${volText(it) || '—'}</span>
-      <span class="row-src">${esc(src.label)}</span>
+      <span class="row-src">${rowSrcHtml(it, src)}</span>
     </div>`;
 }
 function rowsHeaderHtml() {
