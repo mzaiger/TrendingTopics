@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-14T03:24:58Z",
+  "updated": "2026-11-14T04:25:07Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-14T03:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 1
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "Duffy",
-      "description": "Sean Duffy is trending after addressing a nationwide FAA ground stop, blaming aging air traffic control systems and demanding increased funding.",
+      "description": "Officials are demanding more FAA funding and warning of potential future outages following a disastrous White House press conference regarding the nationwide ground stop.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Duffy",
       "image_url": "https://ts4.explicit.bing.net/th?id=OIP.R5kfwOFeUACUdPJXwizadAHaHa&pid=15.1",
@@ -38,10 +42,10 @@
       "started_trending": "2026-11-14T01:23:33Z",
       "first_seen": "2026-11-14T01:23:33Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -62,12 +66,16 @@
         {
           "t": "2026-11-14T03:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 2
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "#SmackDown",
-      "description": "John Cena made a surprise return to WWE SmackDown, sparking discussion about the John Cena Classic and recent event results.",
+      "description": "John Cena made a surprise return to WWE SmackDown to discuss the John Cena Classic, sparking major reactions and leading to WarGames.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23SmackDown",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.nONgyAfLTfY2_lLhp0HoQAHaE8&pid=15.1",
@@ -76,23 +84,49 @@
       "started_trending": "2026-11-14T01:23:33Z",
       "first_seen": "2026-11-14T01:23:33Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "draymond",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Draymond",
+      "description": "Draymond Green addressed the Stephen Curry injury, stating there is little chance he returns in two weeks, while also commenting on the Rockets.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Draymond",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.yhhKxdphYYP7pUALeCyCQwHaKX&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-14T04:23:31Z",
+      "first_seen": "2026-11-14T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "the-faa",
-      "rank": 3,
+      "rank": 4,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-11-13T21:23:44Z",
-          "r": 2
-        },
         {
           "t": "2026-11-13T22:23:34Z",
           "r": 1
@@ -116,12 +150,16 @@
         {
           "t": "2026-11-14T03:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 4
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "The FAA",
-      "description": "The FAA is in the spotlight after issuing a rare nationwide ground stop that disrupted flights across the United States.",
+      "description": "A rare nationwide ground stop issued by the FAA disrupted thousands of flights, upending travel schedules for sports teams and passengers alike over the weekend.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/The%20FAA",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.qN0X_RUCWUiEL56Nsrw_3QHaHa&pid=15.1",
@@ -130,40 +168,10 @@
       "started_trending": "2026-11-13T21:23:44Z",
       "first_seen": "2026-11-13T21:23:44Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "knicks",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-14T03:23:32Z",
-          "r": 4
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Knicks",
-      "description": "The Knicks are trending after a loss to the Pacers dropped them to last place in their NBA Cup group.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Knicks",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.mPHhaXhjYsqQp20TQAksZw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-14T03:23:32Z",
-      "first_seen": "2026-11-14T03:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -173,10 +181,6 @@
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-11-13T21:23:44Z",
-          "r": 1
-        },
         {
           "t": "2026-11-13T22:23:34Z",
           "r": 2
@@ -200,12 +204,16 @@
         {
           "t": "2026-11-14T03:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 5
         }
       ],
       "rank_change": -3,
       "is_new": false,
       "topic": "Friday the 13th",
-      "description": "The horror franchise is trending following the official announcement that a 13th Friday the 13th movie is in development.",
+      "description": "A thirteenth 'Friday the 13th' movie is officially in the works, featuring the return of iconic franchise director Steve Miner for the first new film in nearly 20 years.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Friday%20the%2013th",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.pdERWSMZAxRv7RkB1tODHwHaEK&pid=15.1",
@@ -214,16 +222,50 @@
       "started_trending": "2026-11-13T13:23:34Z",
       "first_seen": "2026-11-13T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 13,
-      "volume": "13hr trend",
-      "volume_value": 13,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 14,
+      "volume": "14hr trend",
+      "volume_value": 14,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "knicks",
+      "rank": 6,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-14T03:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Knicks",
+      "description": "The Knicks dropped to last place in NBA Cup group play following a loss to a shorthanded Pacers team.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Knicks",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.mPHhaXhjYsqQp20TQAksZw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-14T03:23:32Z",
+      "first_seen": "2026-11-14T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "pacers",
-      "rank": 6,
+      "rank": 7,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -234,12 +276,16 @@
         {
           "t": "2026-11-14T03:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 7
         }
       ],
-      "rank_change": 6,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Pacers",
-      "description": "The Pacers are trending after securing a victory against the reigning champion New York Knicks in the NBA Cup.",
+      "description": "The Pacers secured a victory over the reigning NBA champion Knicks with a strong fourth-quarter run, marking their second straight win.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Pacers",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.mjPhA02nXDOjGh9rozGYBQ&pid=15.1",
@@ -248,16 +294,16 @@
       "started_trending": "2026-11-14T02:23:31Z",
       "first_seen": "2026-11-14T02:23:31Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "faagroundstop",
-      "rank": 7,
+      "rank": 8,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -268,12 +314,16 @@
         {
           "t": "2026-11-14T03:23:32Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 8
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "#faagroundstop",
-      "description": "Travelers are discussing their rights and the widespread impact of the recent FAA ground stop on flights and sports teams.",
+      "description": "Social media users shared updates, delays, and interactive graphics as the FAA ground stop was lifted and flights began resuming across the country.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23faagroundstop",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.BzJVR8Edx5rAk5rMwe2cIAHaEK&pid=15.1",
@@ -282,92 +332,16 @@
       "started_trending": "2026-11-14T02:23:31Z",
       "first_seen": "2026-11-14T02:23:31Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mark-pope",
-      "rank": 8,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-14T02:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-14T03:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Mark Pope",
-      "description": "Kentucky basketball coach Mark Pope is facing criticism and calls for his firing following a narrow win against Northern Arizona.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mark%20Pope",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.uwHJv5hkxF5xZ0WvnLxqaAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-14T02:23:31Z",
-      "first_seen": "2026-11-14T02:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "amtrak",
-      "rank": 9,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-14T00:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-14T01:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-14T02:23:31Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-14T03:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Amtrak",
-      "description": "Amtrak is experiencing technical issues and increased call volume as travelers seek alternatives during the nationwide FAA ground stop.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Amtrak",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.RzacqI_ltY0DDHFdxnOJuAHaFW&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-14T00:23:32Z",
-      "first_seen": "2026-11-14T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "workday",
-      "rank": 10,
+      "rank": 9,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -382,12 +356,16 @@
         {
           "t": "2026-11-14T03:23:32Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 9
         }
       ],
-      "rank_change": 8,
+      "rank_change": 9,
       "is_new": false,
       "topic": "Workday",
-      "description": "A widespread Workday outage has left employees across many businesses unable to access their workplace accounts.",
+      "description": "A Workday service interruption left employees and clients across thousands of businesses unable to access their workplace accounts.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Workday",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.8PaERWFnHzxKxdvxLHutVwHaC9&pid=15.1",
@@ -396,16 +374,224 @@
       "started_trending": "2026-11-14T01:23:33Z",
       "first_seen": "2026-11-14T01:23:33Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mark-pope",
+      "rank": 10,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-14T02:23:31Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-14T03:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Mark Pope",
+      "description": "Kentucky head coach Mark Pope faced growing pressure and 'Fire Mark Pope' chants after his team narrowly avoided an upset against Northern Arizona.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mark%20Pope",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.uwHJv5hkxF5xZ0WvnLxqaAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-14T02:23:31Z",
+      "first_seen": "2026-11-14T02:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ernie-sims",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ernie Sims",
+      "description": "Florida State's defense shone in a road win over Pittsburgh, helping the Seminoles get back to .500 as social media reacted to the victory.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Ernie%20Sims",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.i4MAmFT9rmd7TmtMO2BSjAHaGp&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-14T04:23:31Z",
+      "first_seen": "2026-11-14T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "noles",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Noles",
+      "description": "Fans shared reactions across social media to Florida State's road win over Pittsburgh as the team traveled for a Friday night ACC showdown.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Noles",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.lAg40LGonz-G0tIQjsvm6AHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-14T04:23:31Z",
+      "first_seen": "2026-11-14T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "oplive",
+      "rank": 13,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-14T03:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "#OPLive",
+      "description": "Upcoming events across Co-op Live and the Etihad Stadium, including major Oasis gigs, are expected to draw massive crowds and cause transit disruption.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23OPLive",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.HaY1XJgaKAkO3HKPr0WMcwHaGc&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-14T03:23:32Z",
+      "first_seen": "2026-11-14T03:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "amtrak",
+      "rank": 14,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-14T00:23:32Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-14T01:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-14T02:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-14T03:23:32Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Amtrak",
+      "description": "Amtrak experienced technical issues and higher-than-normal call volumes as travelers sought alternative transportation during the nationwide FAA ground stop.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Amtrak",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.RzacqI_ltY0DDHFdxnOJuAHaFW&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-14T00:23:32Z",
+      "first_seen": "2026-11-14T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "houser",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Houser",
+      "description": "Sports fans are following coverage and live streams of the college football matchup between Illinois and UCLA.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Houser",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Ya-8Yb6t2-TX77F1tgWZzAHaKr&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-14T04:23:31Z",
+      "first_seen": "2026-11-14T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "northern-arizona",
-      "rank": 11,
+      "rank": 16,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -416,12 +602,16 @@
         {
           "t": "2026-11-14T03:23:32Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 16
         }
       ],
-      "rank_change": -3,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Northern Arizona",
-      "description": "Northern Arizona is trending after nearly pulling off an upset against Kentucky in a game that ended 78-77.",
+      "description": "No. 24 Kentucky narrowly survived an upset bid by Northern Arizona, securing a 78-77 victory thanks to a clutch late shot.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Northern%20Arizona",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.k-j0Sa8Uvx6urykE6GgraAHaE8&pid=15.1",
@@ -430,37 +620,71 @@
       "started_trending": "2026-11-14T02:23:31Z",
       "first_seen": "2026-11-14T02:23:31Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "oplive",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "bostonblue",
+      "rank": 17,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-11-14T03:23:32Z",
-          "r": 12
+          "r": 15
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 17
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#OPLive",
-      "description": "Manchester is bracing for high-profile events at Co-op Live and Etihad Stadium, with major concerts expected to draw massive crowds.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "#BostonBlue",
+      "description": "Viewers are discussing the latest developments and character storylines following the newest episode of Boston Blue.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23OPLive",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.HaY1XJgaKAkO3HKPr0WMcwHaGc&pid=15.1",
+      "url": "https://sotwe.com/search/%23BostonBlue",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.chSaZy87wltG1fyHOfj2QQHaEx&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-14T03:23:32Z",
       "first_seen": "2026-11-14T03:23:32Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "davion-mitchell",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Davion Mitchell",
+      "description": "Davion Mitchell put up 22 points and tied Goran Dragić with 17 assists in a standout performance during the team's NBA Cup matchup.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Davion%20Mitchell",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.VYdfc9Ha0qY5bEea5KacjAHaLH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-14T04:23:31Z",
+      "first_seen": "2026-11-14T04:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-14T04:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -469,7 +693,7 @@
     },
     {
       "id": "50-billion",
-      "rank": 13,
+      "rank": 19,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -480,12 +704,16 @@
         {
           "t": "2026-11-14T03:23:32Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-14T04:23:31Z",
+          "r": 19
         }
       ],
-      "rank_change": 4,
+      "rank_change": -2,
       "is_new": false,
       "topic": "$50 Billion",
-      "description": "Transportation Secretary Sean Duffy is requesting $50 billion from Congress to modernize air traffic control systems following the recent ground stop.",
+      "description": "Transportation officials are demanding $50 billion for an air traffic control and FAA system overhaul following a massive nationwide travel shutdown.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%2450%20Billion",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.YPp4Pis-dl1bljPf2P92FAHaJT&pid=15.1",
@@ -494,261 +722,37 @@
       "started_trending": "2026-11-14T02:23:31Z",
       "first_seen": "2026-11-14T02:23:31Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-14T04:23:31Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "alex-wilkins",
-      "rank": 14,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-14T02:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-14T03:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Alex Wilkins",
-      "description": "Alex Wilkins is trending after hitting a game-winning three-pointer in the final seconds to save Kentucky from an upset against Northern Arizona.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Alex%20Wilkins",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.fNbvBKlnejrRyQ7QIY4Olw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-14T02:23:31Z",
-      "first_seen": "2026-11-14T02:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bostonblue",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-14T03:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#BostonBlue",
-      "description": "Fans are discussing the latest episode of the television series Boston Blue and speculating on potential character returns.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23BostonBlue",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.chSaZy87wltG1fyHOfj2QQHaEx&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-14T03:23:32Z",
-      "first_seen": "2026-11-14T03:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "microsoft",
-      "rank": 16,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-14T00:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-14T01:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-14T02:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-14T03:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Microsoft",
-      "description": "Microsoft is trending as the company works to resolve a global technical outage that has caused widespread disruptions.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Microsoft",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.HTfJhXdRTPPkbhKYpjLfugHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-14T00:23:32Z",
-      "first_seen": "2026-11-14T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "buttigieg",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-14T03:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Buttigieg",
-      "description": "Pete Buttigieg is trending as he is mentioned in recent polling for the 2028 Democratic presidential primary.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Buttigieg",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.6Hd/aeZDXypNsTRO6kjZ2Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-14T03:23:32Z",
-      "first_seen": "2026-11-14T03:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "new-orleans",
-      "rank": 18,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-13T21:23:44Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-13T22:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-13T23:23:49Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-14T00:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-14T01:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-14T02:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-14T03:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "New Orleans",
-      "description": "A tanker collided with a cruise ship near New Orleans, resulting in dozens of injuries but no reported fatalities.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/New%20Orleans",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.N5fEE5juZvJUti8E0W7pAwHaF4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-13T21:23:44Z",
-      "first_seen": "2026-11-13T21:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "transportation-secretary",
-      "rank": 19,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-14T02:23:31Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-14T03:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Transportation Secretary",
-      "description": "Transportation Secretary Sean Duffy is providing updates and explanations regarding the cause of the recent nationwide FAA ground stop.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Transportation%20Secretary",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.YPp4Pis-dl1bljPf2P92FAHaJT&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-14T02:23:31Z",
-      "first_seen": "2026-11-14T02:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "faaoutage",
+      "id": "shatteredlegends",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-14T03:23:32Z",
+          "t": "2026-11-14T04:23:31Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#FAAoutage",
-      "description": "Travelers and officials are reacting to the nationwide FAA outage, with reports suggesting the FBI is investigating the cause.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23FAAoutage",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.ZF7mvNvhEHk3SgCj/Ed6yA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-14T03:23:32Z",
-      "first_seen": "2026-11-14T03:23:32Z",
+      "topic": "#ShatteredLegends",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23ShatteredLegends",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-14T04:23:31Z",
+      "first_seen": "2026-11-14T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-14T03:23:32Z",
+      "last_seen": "2026-11-14T04:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
