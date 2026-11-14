@@ -186,6 +186,12 @@
   /* Google / Reddit link on tiles: same 24px icon as the social row, text sized to match */
   .meta .go-link { font-size: 13px; gap: 8px; }
   .meta .go-link .fav-ico { width: 24px; height: 24px; border-radius: 5px; }
+  /* Boxed so they read as buttons (same look as the Movie board's link buttons) */
+  .meta .go-link, .net-icons.wide a { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; }
+  .meta .go-link { padding: 8px 18px; font-weight: 600; transition: border-color .15s ease, background .15s ease; }
+  .meta .go-link:hover span { text-decoration: none; }
+  .net-icons.wide a { padding: 8px 0; }
+  .meta .go-link:hover, .net-icons.wide a:hover, .net-icons.wide a:focus-visible { border-color: var(--blue); background: var(--bg); }
   .archived-tag { font-style: italic; }
 
   .empty {
