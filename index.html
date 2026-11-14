@@ -176,6 +176,7 @@
   .net-icons.compact a { padding: 2px; }
   /* Tiles: the five icons take the whole bottom row, spread evenly */
   .icons-row { display: block; }
+  .meta.link-row { justify-content: center; }
   .net-icons.wide { display: flex; width: 100%; gap: 4px; }
   .net-icons.wide a { flex: 1; justify-content: center; padding: 6px 0; }
   .net-icons.wide .fav-ico { width: 24px; height: 24px; border-radius: 5px; }
@@ -536,7 +537,7 @@ function cardHtml(it, opts = {}) {
           <div class="meta"><span class="when">${timeAgo(it)}${opts.archived ? ' · <span class="archived-tag">saved</span>' : ''}</span><span class="vol">${volText(it) || '—'}</span></div>
           ${it.source === 'social_media'
             ? `<div class="meta icons-row">${networkIconsHtml(it, 'wide')}</div>`
-            : `<div class="meta"><span class="srctag">${esc(src.label)}</span><span class="go">${openHtml(it, src)}</span></div>`}
+            : `<div class="meta link-row"><span class="go">${openHtml(it, src)}</span></div>`}
         </div>
       </div>
     </article>`;
