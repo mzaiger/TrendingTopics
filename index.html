@@ -514,6 +514,12 @@ function networkIconsHtml(it, mode) {   // mode: 'wide' (tile row) or 'compact' 
     `<a href="${esc(n.url(q))}" target="_blank" rel="noopener noreferrer" title="${esc(n.title)}" aria-label="${esc(n.title)}">${faviconImg(n.domain)}${mode === 'wide' ? '<span class="net-arrow" aria-hidden="true">\u2197</span>' : ''}</a>`
   ).join('')}</span>`;
 }
+// The title is a whole-tile link for Google/Reddit. Social media topics have no whole-tile link
+// (their per-network search icons are the only links).
+function titleHtml(it) {
+  if (it.source === 'social_media') return esc(it.topic);
+  return `<a class="stretch" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${esc(it.topic)}</a>`;
+}
 function goLinkHtml(it, src, text) {
   return `<a class="go-link" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${src.iconDomain ? faviconImg(src.iconDomain) : ''}<span>${esc(text)}</span></a>`;
 }
@@ -537,7 +543,7 @@ function cardHtml(it, opts = {}) {
         ${pill}
       </div>
       <div class="body">
-        <p class="title"><a class="stretch" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${esc(it.topic)}</a></p>
+        <p class="title">${titleHtml(it)}</p>
         <p class="desc${it.description ? '' : ' none'}">${descText(it)}</p>
         <div class="meta-block">
           <div class="meta"><span class="when">${timeAgo(it)}${opts.archived ? ' · <span class="archived-tag">saved</span>' : ''}</span><span class="vol">${volText(it) || '—'}</span></div>
@@ -557,7 +563,7 @@ function rowHtml(it, opts = {}) {
       <div class="row-thumb-wrap">${rowThumbHtml(it)}</div>
       <span class="row-rank">${opts.archived ? '—' : '#' + esc(it.rank)}</span>
       <span>${opts.archived ? '' : changeHtml(it)}</span>
-      <span class="row-title"><a class="stretch" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">${esc(it.topic)}</a></span>
+      <span class="row-title">${titleHtml(it)}</span>
       <span class="row-desc">${it.description ? esc(it.description) : '—'}</span>
       <span class="row-date">${timeAgo(it)}${opts.archived ? ' · saved' : ''}</span>
       <span class="row-vol">${volText(it) || '—'}</span>
