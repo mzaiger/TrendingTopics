@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-15T20:25:32Z",
+  "updated": "2026-11-15T21:25:21Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-11-15T20:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 1
         }
       ],
       "rank_change": 10,
       "is_new": false,
       "topic": "Packers",
-      "description": "The Green Bay Packers are trending as they face off against the Minnesota Vikings in a Week 10 matchup.",
+      "description": "The Green Bay Packers are trending following their Week 10 matchup against the Minnesota Vikings.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Packers",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.AzkiGquJM0XjR8C48WgQuwHaHa&pid=15.1",
@@ -34,7 +38,37 @@
       "started_trending": "2026-11-15T19:23:44Z",
       "first_seen": "2026-11-15T19:23:44Z",
       "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "texans",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Texans",
+      "description": "The Houston Texans are trending during their Week 10 game against the Cleveland Browns.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Texans",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.9Q6Zrzu2sJiKA4S3FpELUQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -42,29 +76,29 @@
       "extra": {}
     },
     {
-      "id": "jordan-love",
-      "rank": 2,
+      "id": "browns",
+      "rank": 3,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 2
+          "t": "2026-11-15T21:23:30Z",
+          "r": 3
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Jordan Love",
-      "description": "Jordan Love is trending during the Packers' Week 10 game against the Minnesota Vikings after facing multiple sacks and a first-half interception.",
+      "topic": "Browns",
+      "description": "The Cleveland Browns are trending during their Week 10 matchup against the Houston Texans.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jordan%20Love",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9axcvKFKLSSScLaCZ4lq2QHaE8&pid=15.1",
+      "url": "https://sotwe.com/search/Browns",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.Q/JTAUCIRwTMoLzAlwQ3cg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
       "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
+      "last_seen": "2026-11-15T21:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -73,7 +107,7 @@
     },
     {
       "id": "skol",
-      "rank": 3,
+      "rank": 4,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -84,21 +118,55 @@
         {
           "t": "2026-11-15T20:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 4
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "#skol",
-      "description": "Fans are using the hashtag as the Minnesota Vikings play the Green Bay Packers in a key Week 10 divisional matchup.",
+      "topic": "#SKOL",
+      "description": "Fans are using the hashtag #SKOL as the Minnesota Vikings face the Green Bay Packers in Week 10.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23skol",
+      "url": "https://sotwe.com/search/%23SKOL",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.7GVZBd9uB1i86GTqky555gHaJo&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-15T19:23:44Z",
       "first_seen": "2026-11-15T19:23:44Z",
       "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mendoza",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mendoza",
+      "description": "Fernando Mendoza is trending as he makes his first career starting debut at quarterback for the Raiders against the Seahawks.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mendoza",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.71mDd21199QqYCSJ48vSzgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -106,29 +174,345 @@
       "extra": {}
     },
     {
-      "id": "josh-downs",
-      "rank": 4,
+      "id": "falcons",
+      "rank": 6,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 4
+          "t": "2026-11-15T21:23:30Z",
+          "r": 6
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Josh Downs",
-      "description": "Josh Downs is trending after making his debut for the Kansas City Chiefs and scoring his first touchdown with the team against the Atlanta Falcons.",
+      "topic": "Falcons",
+      "description": "The Atlanta Falcons are trending due to their Week 10 game against the Kansas City Chiefs.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Josh%20Downs",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.-ylloHnDeT_vIabNe_fBzgHaE7&pid=15.1",
+      "url": "https://sotwe.com/search/Falcons",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.WXWN6Wd6ExqY12GEcKriZA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "panthers",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Panthers",
+      "description": "The Carolina Panthers are trending during their NFC South matchup against the New Orleans Saints.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Panthers",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.4XdP92XGd5wJubMSUPKG3g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "saints",
+      "rank": 8,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-15T20:23:32Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Saints",
+      "description": "The New Orleans Saints are trending as they face the Carolina Panthers in an NFC South showdown.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Saints",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.LNinLb3nVeZ8z1kDsh2ApA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-15T20:23:32Z",
       "first_seen": "2026-11-15T20:23:32Z",
       "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jordan-love",
+      "rank": 9,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-15T20:23:32Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Jordan Love",
+      "description": "Jordan Love and the Green Bay Packers are trending following their game against the Minnesota Vikings.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jordan%20Love",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9axcvKFKLSSScLaCZ4lq2QHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T20:23:32Z",
+      "first_seen": "2026-11-15T20:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kirk-cousins",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kirk Cousins",
+      "description": "Kirk Cousins is trending after making his winning return to Minnesota with the Vikings in a game against the Packers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Kirk%20Cousins",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.TJohl6B5AKGzOcsDGi6Jug&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mahomes",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mahomes",
+      "description": "Patrick Mahomes is trending after suffering a scary elbow injury during a game against the Atlanta Falcons.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mahomes",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.GRe37BtQ2fMf-nopm1iQUwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "keeppounding",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#KeepPounding",
+      "description": "Fans are sharing the hashtag #KeepPounding ahead of the Week 10 game between the Panthers and Saints.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23KeepPounding",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.uPS9QNIgHSrJaV5yCSiRMAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dolphins",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dolphins",
+      "description": "The Miami Dolphins are trending following their Week 10 game against the Indianapolis Colts.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Dolphins",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.8fBXjKNGTmAZRKKz5aTxJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "zane-gonzalez",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Zane Gonzalez",
+      "description": "Zane Gonzalez is trending after recently signing with the Dolphins and kicking a 53-yard field goal in their game against the Colts.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Zane%20Gonzalez",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9xIxXlJqgj5W26cDk3tJqwHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dawgpound",
+      "rank": 15,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-15T20:23:32Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "#DawgPound",
+      "description": "The Cleveland Browns and their fanbase are trending ahead of their Week 10 matchup against the Houston Texans.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23DawgPound",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.qtigkNLPErLOBLXD0b4eRAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T20:23:32Z",
+      "first_seen": "2026-11-15T20:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chiefskingdom",
+      "rank": 16,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-15T20:23:32Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "#ChiefsKingdom",
+      "description": "Chiefs Kingdom is discussing pregnancy news surrounding Patrick and Brittany Mahomes.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23ChiefsKingdom",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9N9C4KrRZh_-hRt8CAvZhwHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T20:23:32Z",
+      "first_seen": "2026-11-15T20:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -137,7 +521,7 @@
     },
     {
       "id": "green-bay",
-      "rank": 5,
+      "rank": 17,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -148,12 +532,16 @@
         {
           "t": "2026-11-15T20:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 17
         }
       ],
-      "rank_change": 9,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Green Bay",
-      "description": "Green Bay is trending as the Packers host the Minnesota Vikings in a high-stakes Week 10 NFL rivalry game.",
+      "description": "Green Bay is trending as the Packers face the Minnesota Vikings in Week 10.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Green%20Bay",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.AzkiGquJM0XjR8C48WgQuwHaHa&pid=15.1",
@@ -162,7 +550,37 @@
       "started_trending": "2026-11-15T19:23:44Z",
       "first_seen": "2026-11-15T19:23:44Z",
       "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "deshaun-watson",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Deshaun Watson",
+      "description": "Deshaun Watson is trending after leading the Cleveland Browns to a late-game victory over the Houston Texans.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Deshaun%20Watson",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.4L48wyzI7qFaihrUJHFwpg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
+      "published": null,
+      "last_seen": "2026-11-15T21:23:30Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -171,7 +589,7 @@
     },
     {
       "id": "penix",
-      "rank": 6,
+      "rank": 19,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -182,12 +600,16 @@
         {
           "t": "2026-11-15T20:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-15T21:23:30Z",
+          "r": 19
         }
       ],
-      "rank_change": 7,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Penix",
-      "description": "Michael Penix Jr. is trending as the Atlanta Falcons face heavy pressure from the Kansas City Chiefs' defense during their Week 10 matchup.",
+      "description": "Michael Penix Jr. is trending following the Atlanta Falcons' Week 10 matchup against the Kansas City Chiefs.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Penix",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.gB6rzctQn4jJWqxvDZtlBg&pid=15.1",
@@ -196,454 +618,40 @@
       "started_trending": "2026-11-15T19:23:44Z",
       "first_seen": "2026-11-15T19:23:44Z",
       "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "brian-flores",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Brian Flores",
-      "description": "The material does not make this description clear.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Brian%20Flores",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.nL6VV3lK7Qq03Dw5OBY6cwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "geno-smith",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Geno Smith",
-      "description": "Geno Smith is trending after leaving the game against the Buffalo Bills to be evaluated for a concussion, allowing rookie Cade Klubnik to make his NFL debut.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Geno%20Smith",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.EKQ4LVf1Uwbd89kZkcLuMwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "saints",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Saints",
-      "description": "The New Orleans Saints are trending during their NFC South showdown against the Carolina Panthers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Saints",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.LNinLb3nVeZ8z1kDsh2ApA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cyrus-allen",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cyrus Allen",
-      "description": "Cyrus Allen is trending after scoring his first touchdown catch to help give the Kansas City Chiefs a lead against the Atlanta Falcons.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Cyrus%20Allen",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ripeU9_6tRtYHjLB50dPcgHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "parker-washington",
-      "rank": 11,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-15T19:23:44Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Parker Washington",
-      "description": "Parker Washington is trending after scoring an early touchdown catch and recording a 32-yard gain for Jacksonville against Tennessee.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Parker%20Washington",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.LOr_PfckjahKG5a9OGg69wHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T19:23:44Z",
-      "first_seen": "2026-11-15T19:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gopackgo",
-      "rank": 12,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-15T19:23:44Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#GoPackGo",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23GoPackGo",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.AzkiGquJM0XjR8C48WgQuwHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T19:23:44Z",
-      "first_seen": "2026-11-15T19:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chiefskingdom",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ChiefsKingdom",
-      "description": "Fans are using the hashtag following the Kansas City Chiefs' recent win and pregnancy news surrounding Patrick and Brittany Mahomes.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23ChiefsKingdom",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.9N9C4KrRZh_-hRt8CAvZhwHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aj-terrell",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "AJ Terrell",
-      "description": "AJ Terrell and the Atlanta Falcons defense are trending as they face the Kansas City Chiefs in Week 10.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/AJ%20Terrell",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP._hxL5jx0oSgqcgrNQbBO3AHaFO&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "matt-lafleur",
-      "rank": 15,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-15T19:23:44Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Matt LaFleur",
-      "description": "Green Bay Packers coach Matt LaFleur is trending after a controversial decision quickly backfired during their game against the Minnesota Vikings.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Matt%20LaFleur",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.aqJBg1G_PB9sG7QBUZoBKAHaFF&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T19:23:44Z",
-      "first_seen": "2026-11-15T19:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "travis-hunter",
-      "rank": 16,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-15T19:23:44Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Travis Hunter",
-      "description": "Travis Hunter is trending after intercepting a pass against the Tennessee Titans for his third interception of the season.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Travis%20Hunter",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.cwQpbQumBLvlA-slwIoudgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T19:23:44Z",
-      "first_seen": "2026-11-15T19:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chris-johnson",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Chris Johnson",
-      "description": "The material does not make this description clear.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Chris%20Johnson",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.bTdE2DS10xN5OwzABtuXgQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dawgpound",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#DawgPound",
-      "description": "The material does not make this description clear.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23DawgPound",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.qtigkNLPErLOBLXD0b4eRAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tessa",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-15T20:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tessa",
-      "description": "The material does not make this description clear.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Tessa",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.qlIruLdpl0mdogv9pZRPwgHaL0&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T20:23:32Z",
-      "first_seen": "2026-11-15T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dallas-turner",
+      "id": "worthy",
       "rank": 20,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-15T18:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-15T19:23:44Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-15T20:23:32Z",
+          "t": "2026-11-15T21:23:30Z",
           "r": 20
         }
       ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Dallas Turner",
-      "description": "Dallas Turner is trending after recording a vicious bull-rush sack on Jordan Love for a 9-yard loss during the Vikings-Packers game.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Worthy",
+      "description": "Xavier Worthy is trending amid injury news and updates regarding his status for the Kansas City Chiefs.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Dallas%20Turner",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.KTRH1XgJptTYfWj73udVWQHaFd&pid=15.1",
+      "url": "https://sotwe.com/search/Worthy",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.EbVNQLfBeKvgHt8dP5fl8QHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-15T18:23:32Z",
-      "first_seen": "2026-11-15T18:23:32Z",
+      "started_trending": "2026-11-15T21:23:30Z",
+      "first_seen": "2026-11-15T21:23:30Z",
       "published": null,
-      "last_seen": "2026-11-15T20:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-15T21:23:30Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
