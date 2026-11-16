@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-16T09:28:00Z",
+  "updated": "2026-11-16T10:25:02Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -14,10 +14,6 @@
       "rank_4h_ago": 2,
       "rank_history": [
         {
-          "t": "2026-11-16T04:23:31Z",
-          "r": 2
-        },
-        {
           "t": "2026-11-16T05:23:31Z",
           "r": 2
         },
@@ -36,12 +32,16 @@
         {
           "t": "2026-11-16T09:23:42Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Bengals",
-      "description": "The Cincinnati Bengals are trending after rolling to a 38-18 primetime victory over the Pittsburgh Steelers.",
+      "description": "The Cincinnati Bengals are trending after rolling to a 38-18 victory against the Pittsburgh Steelers in a primetime matchup.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Bengals",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.3BLmoJMMK1CoDOQnvsuTjA&pid=15.1",
@@ -50,7 +50,7 @@
       "started_trending": "2026-11-16T02:23:37Z",
       "first_seen": "2026-11-16T02:23:37Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
+      "last_seen": "2026-11-16T10:23:31Z",
       "hours_trending": 7,
       "volume": "7hr trend",
       "volume_value": 7,
@@ -58,15 +58,41 @@
       "extra": {}
     },
     {
-      "id": "steelers",
+      "id": "good-monday",
       "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Good Monday",
+      "description": "Social media users are discussing the start of the week alongside various Monday sports matchups, weather reports, and morning messages.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Good%20Monday",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.zGms5B-og4z5ccu_qWDKMQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T10:23:31Z",
+      "first_seen": "2026-11-16T10:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "steelers",
+      "rank": 3,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-11-16T04:23:31Z",
-          "r": 1
-        },
         {
           "t": "2026-11-16T05:23:31Z",
           "r": 1
@@ -86,12 +112,16 @@
         {
           "t": "2026-11-16T09:23:42Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 3
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Steelers",
-      "description": "The Pittsburgh Steelers are trending following a 38-18 blowout loss to the Cincinnati Bengals and injuries on the field.",
+      "description": "The Pittsburgh Steelers are trending following a 38-18 loss to the Cincinnati Bengals in a primetime game.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Steelers",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.Wawqx/vP4nm3DizzDOoTsQ&pid=15.1",
@@ -100,166 +130,110 @@
       "started_trending": "2026-11-16T01:23:31Z",
       "first_seen": "2026-11-16T01:23:31Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "joe-burrow",
-      "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "burrow",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-16T04:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-16T05:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-16T06:23:41Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-16T07:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-16T08:23:45Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-16T09:23:42Z",
-          "r": 3
+          "t": "2026-11-16T10:23:31Z",
+          "r": 4
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Joe Burrow",
-      "description": "Joe Burrow is trending after matching a Peyton Manning record with four consecutive games of at least four touchdowns in a win over the Steelers.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Burrow",
+      "description": "Joe Burrow is trending after throwing four touchdowns in the Cincinnati Bengals' 38-18 victory over the Pittsburgh Steelers, matching a record held by Peyton Manning.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Joe%20Burrow",
+      "url": "https://sotwe.com/search/Burrow",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.nQz57gni5krFJA-1jly-qgHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T03:23:30Z",
-      "first_seen": "2026-11-16T03:23:30Z",
+      "started_trending": "2026-11-16T10:23:31Z",
+      "first_seen": "2026-11-16T10:23:31Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "whodey",
-      "rank": 4,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-16T04:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-16T05:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-16T06:23:41Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-16T07:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-16T08:23:45Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-16T09:23:42Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "#WhoDey",
-      "description": "Cincinnati fans are using the hashtag #WhoDey to celebrate and party ahead of their team's Sunday Night Football game.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23WhoDey",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.dZDSV0Y6gqXaSde3e0kOYgHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T02:23:37Z",
-      "first_seen": "2026-11-16T02:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aaron-rodgers",
+      "id": "apec",
       "rank": 5,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
-          "t": "2026-11-16T04:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-16T05:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-16T06:23:41Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-16T07:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-16T08:23:45Z",
-          "r": 6
-        },
-        {
           "t": "2026-11-16T09:23:42Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
           "r": 5
         }
       ],
-      "rank_change": -1,
+      "rank_change": 2,
       "is_new": false,
-      "topic": "Aaron Rodgers",
-      "description": "Aaron Rodgers is trending after suffering the worst start of his career and getting replaced in a blowout loss to the Bengals.",
+      "topic": "#APEC",
+      "description": "The APEC summit is trending as leaders gather, with discussions scheduled between China, the US, and Russia, alongside talks involving North Korea.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Aaron%20Rodgers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.7AuWG8Zho4em-iwASHoVVQHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/%23APEC",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-16T09:23:42Z",
+      "first_seen": "2026-11-16T09:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "angelbite",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#AngelBite",
+      "description": "The K-pop group TOMORROW X TOGETHER is generating buzz on social media with teasers and music video releases for their youth-focused project titled 'Angel Bite'.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23AngelBite",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.WDfeTYjvz8Fgzee-SiWGeQHaKe&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T03:23:30Z",
-      "first_seen": "2026-11-16T03:23:30Z",
+      "started_trending": "2026-11-16T10:23:31Z",
+      "first_seen": "2026-11-16T10:23:31Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "qwen4-max",
-      "rank": 6,
+      "rank": 7,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -270,12 +244,16 @@
         {
           "t": "2026-11-16T09:23:42Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 7
         }
       ],
-      "rank_change": 5,
+      "rank_change": 4,
       "is_new": false,
       "topic": "Qwen4-Max",
-      "description": "Alibaba has unveiled its new Qwen4-Max flagship AI model, drawing buzz for safety upgrades, coding performance, and lower costs.",
+      "description": "Alibaba's new flagship AI model, Qwen4-Max, is trending after its release featuring a 1-million context window and claimed cost-saving capabilities.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Qwen4-Max",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.XcX-fNT8GIVwiS4hmQKr6wHaEc&pid=15.1",
@@ -284,76 +262,116 @@
       "started_trending": "2026-11-16T08:23:45Z",
       "first_seen": "2026-11-16T08:23:45Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "apec",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-16T09:23:42Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#APEC",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23APEC",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-16T09:23:42Z",
-      "first_seen": "2026-11-16T09:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chase",
+      "id": "aaron-rodgers",
       "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
+          "t": "2026-11-16T05:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-16T06:23:41Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-16T07:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-16T08:23:45Z",
+          "r": 6
+        },
+        {
           "t": "2026-11-16T09:23:42Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
           "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Chase",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Chase",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.CIHh1lIPOLOpq0-gKOqfvwHaFw&pid=15.1",
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Aaron Rodgers",
+      "description": "Aaron Rodgers is trending following a difficult performance for the Steelers in their primetime loss to the Cincinnati Bengals, which led to him being replaced by Mason Rudolph.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Aaron%20Rodgers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.7AuWG8Zho4em-iwASHoVVQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T09:23:42Z",
-      "first_seen": "2026-11-16T09:23:42Z",
+      "started_trending": "2026-11-16T03:23:30Z",
+      "first_seen": "2026-11-16T03:23:30Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "whodey",
+      "rank": 9,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-16T05:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-16T06:23:41Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-16T07:23:33Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-16T08:23:45Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-16T09:23:42Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "#WhoDey",
+      "description": "Cincinnati Bengals fans are celebrating online with their signature chant ahead of the team's primetime game against the Steelers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23WhoDey",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.dZDSV0Y6gqXaSde3e0kOYgHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "latto",
-      "rank": 9,
+      "rank": 10,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -364,12 +382,16 @@
         {
           "t": "2026-11-16T09:23:42Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 10
         }
       ],
-      "rank_change": 11,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Latto",
-      "description": "Latto is trending across social media platforms following recent glamour posts and questions about her relationship with 21 Savage.",
+      "description": "Latto is trending on social media following discussions about her relationship status and recent online appearances with 21 Savage.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Latto",
       "image_url": "https://ts2.explicit.bing.net/th?id=OIP.acgydffevTv_VSPFrH7h7gHaJ4&pid=15.1",
@@ -378,7 +400,75 @@
       "started_trending": "2026-11-16T08:23:45Z",
       "first_seen": "2026-11-16T08:23:45Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kevin-o-leary",
+      "rank": 11,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-16T09:23:42Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "Kevin O'Leary",
+      "description": "Kevin O'Leary is drawing attention online after commenting that artificial intelligence has drawn investment away from cryptocurrency, alongside other business remarks.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Kevin%20O%27Leary",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.kinvSB-28th8Mlp1rX2yFAHaK6&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T09:23:42Z",
+      "first_seen": "2026-11-16T09:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chase",
+      "rank": 12,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-16T09:23:42Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Chase",
+      "description": "Ja'Marr Chase is trending following a stellar performance that included a 53-yard reception and over 200 receiving yards in the Bengals' victory over the Steelers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Chase",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.CIHh1lIPOLOpq0-gKOqfvwHaFw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T09:23:42Z",
+      "first_seen": "2026-11-16T09:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-16T10:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -387,14 +477,10 @@
     },
     {
       "id": "thegildedage",
-      "rank": 10,
+      "rank": 13,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
-        {
-          "t": "2026-11-16T04:23:31Z",
-          "r": 13
-        },
         {
           "t": "2026-11-16T05:23:31Z",
           "r": 10
@@ -414,12 +500,16 @@
         {
           "t": "2026-11-16T09:23:42Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 13
         }
       ],
-      "rank_change": 0,
+      "rank_change": -3,
       "is_new": false,
       "topic": "#TheGildedAge",
-      "description": "Fans are discussing the latest episode of The Gilded Age, focusing on Peggy's big wedding and upcoming season conflicts.",
+      "description": "Fans and cast members are discussing the latest episodes and character storylines of the period drama series 'The Gilded Age'.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23TheGildedAge",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.sau2_uu0MkWV6FcBcMjnQAHaLH&pid=15.1",
@@ -428,50 +518,16 @@
       "started_trending": "2026-11-16T03:23:30Z",
       "first_seen": "2026-11-16T03:23:30Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "trialoftheusurper",
-      "rank": 11,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-16T08:23:45Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-16T09:23:42Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "#TrialoftheUsurper",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23TrialoftheUsurper",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.r8MIib818RkndWTbnBHezwAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T08:23:45Z",
-      "first_seen": "2026-11-16T08:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "purdy",
-      "rank": 12,
+      "rank": 14,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -494,12 +550,16 @@
         {
           "t": "2026-11-16T09:23:42Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 14
         }
       ],
-      "rank_change": 2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Purdy",
-      "description": "Brock Purdy is trending after putting up 410 yards and three touchdowns in the 49ers' thrilling victory over the Cowboys.",
+      "description": "San Francisco 49ers quarterback Brock Purdy is trending following strong performances and growing mentions in the MVP conversation.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Purdy",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.t7OAsJeT2Foellz83ngv9wHaEK&pid=15.1",
@@ -508,115 +568,87 @@
       "started_trending": "2026-11-16T05:23:31Z",
       "first_seen": "2026-11-16T05:23:31Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "baddiesusachapter3",
-      "rank": 13,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "id": "shenzhen",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-16T06:23:41Z",
+          "t": "2026-11-16T10:23:31Z",
           "r": 15
-        },
-        {
-          "t": "2026-11-16T07:23:33Z",
-          "r": 12
-        },
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Shenzhen",
+      "description": "Shenzhen is trending as the host city for upcoming high-level international summits involving world leaders and a showcase of futuristic technologies.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Shenzhen",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.WrtBZ7xy9sJgREtj3VdUxwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T10:23:31Z",
+      "first_seen": "2026-11-16T10:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "trialoftheusurper",
+      "rank": 16,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
         {
           "t": "2026-11-16T08:23:45Z",
-          "r": 12
+          "r": 13
         },
         {
           "t": "2026-11-16T09:23:42Z",
-          "r": 13
+          "r": 11
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 16
         }
       ],
-      "rank_change": 2,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "#BaddiesUSAChapter3",
+      "topic": "#TrialoftheUsurper",
       "description": "",
       "description_source": "",
-      "url": "https://sotwe.com/search/%23BaddiesUSAChapter3",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.-WiMfVvZ4tNDyKrd8mcq6QHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/%23TrialoftheUsurper",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.r8MIib818RkndWTbnBHezwAAAA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T06:23:41Z",
-      "first_seen": "2026-11-16T06:23:41Z",
+      "started_trending": "2026-11-16T08:23:45Z",
+      "first_seen": "2026-11-16T08:23:45Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dk-metcalf",
-      "rank": 14,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-16T04:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-16T05:23:31Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-16T06:23:41Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-16T07:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-16T08:23:45Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-16T09:23:42Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "DK Metcalf",
-      "description": "DK Metcalf is drawing attention after scoring a late touchdown and a two-point conversion during a loss to the Bengals.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/DK%20Metcalf",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ukfV7genU_WEXwGEhSxIEQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T02:23:37Z",
-      "first_seen": "2026-11-16T02:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "tomlin",
-      "rank": 15,
+      "rank": 17,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
-        {
-          "t": "2026-11-16T04:23:31Z",
-          "r": 15
-        },
         {
           "t": "2026-11-16T05:23:31Z",
           "r": 11
@@ -636,12 +668,16 @@
         {
           "t": "2026-11-16T09:23:42Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 17
         }
       ],
-      "rank_change": -4,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Tomlin",
-      "description": "Mike Tomlin is making waves on social media as an NBC analyst critiquing defensive struggles while facing future coaching rumors.",
+      "description": "Former NFL coach Mike Tomlin is trending following his appearance as an NBC analyst and commentary on the Steelers' recent loss.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Tomlin",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF./oER7xj4zGq87L0SqubaCA&pid=15.1",
@@ -650,132 +686,60 @@
       "started_trending": "2026-11-16T04:23:31Z",
       "first_seen": "2026-11-16T04:23:31Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jerry",
-      "rank": 16,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
+      "id": "dk-metcalf",
+      "rank": 18,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
-        {
-          "t": "2026-11-16T04:23:31Z",
-          "r": 20
-        },
         {
           "t": "2026-11-16T05:23:31Z",
-          "r": 20
+          "r": 7
         },
         {
           "t": "2026-11-16T06:23:41Z",
-          "r": 19
+          "r": 8
         },
         {
           "t": "2026-11-16T07:23:33Z",
-          "r": 19
+          "r": 10
         },
         {
           "t": "2026-11-16T08:23:45Z",
-          "r": 17
+          "r": 9
         },
         {
           "t": "2026-11-16T09:23:42Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Jerry",
-      "description": "Jerry Jones is making news after reacting to the Cowboys' historic defensive collapse and loss against the 49ers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jerry",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.KjqRWYZeDCSPefd2yO7O2wHaFG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T01:23:31Z",
-      "first_seen": "2026-11-16T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "zac-taylor",
-      "rank": 17,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-16T06:23:41Z",
-          "r": 18
+          "r": 14
         },
         {
-          "t": "2026-11-16T07:23:33Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-16T08:23:45Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-16T09:23:42Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Zac Taylor",
-      "description": "Zac Taylor is drawing praise on social media after leading the Bengals to a dominant primetime victory over the Steelers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Zac%20Taylor",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.bT-UsR0it-EcqUo-FYmUnwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T06:23:41Z",
-      "first_seen": "2026-11-16T06:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kevin-o-leary",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-16T09:23:42Z",
+          "t": "2026-11-16T10:23:31Z",
           "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kevin O'Leary",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Kevin%20O%27Leary",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.kinvSB-28th8Mlp1rX2yFAHaK6&pid=15.1",
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "DK Metcalf",
+      "description": "DK Metcalf is drawing online attention after scoring a late touchdown for the Steelers during their primetime loss to the Cincinnati Bengals.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/DK%20Metcalf",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ukfV7genU_WEXwGEhSxIEQHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T09:23:42Z",
-      "first_seen": "2026-11-16T09:23:42Z",
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -796,12 +760,16 @@
         {
           "t": "2026-11-16T09:23:42Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
+          "r": 19
         }
       ],
       "rank_change": -1,
       "is_new": false,
       "topic": "Mims",
-      "description": "Mims is trending following discussions surrounding a potential torch passing with the Bengals and roster decisions in Denver.",
+      "description": "Mims is trending amid discussions surrounding a potential roster move involving Marvin Mims and commentary on the Bengals' recent blowout win over the Steelers.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Mims",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.wEH5Soci_o6CpUjwExeclQAAAA&pid=15.1",
@@ -810,7 +778,7 @@
       "started_trending": "2026-11-16T07:23:33Z",
       "first_seen": "2026-11-16T07:23:33Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
+      "last_seen": "2026-11-16T10:23:31Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -818,32 +786,48 @@
       "extra": {}
     },
     {
-      "id": "flacco",
+      "id": "zac-taylor",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
+          "t": "2026-11-16T06:23:41Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-16T07:23:33Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-16T08:23:45Z",
+          "r": 19
+        },
+        {
           "t": "2026-11-16T09:23:42Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-16T10:23:31Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Flacco",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Flacco",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.6xIyG_4-FaN-XBM_cXv0pQHaF7&pid=15.1",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Zac Taylor",
+      "description": "Cincinnati Bengals coach Zac Taylor is trending after praising quarterback Joe Burrow and discussing his team's victory over the Pittsburgh Steelers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Zac%20Taylor",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.bT-UsR0it-EcqUo-FYmUnwHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T09:23:42Z",
-      "first_seen": "2026-11-16T09:23:42Z",
+      "started_trending": "2026-11-16T06:23:41Z",
+      "first_seen": "2026-11-16T06:23:41Z",
       "published": null,
-      "last_seen": "2026-11-16T09:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-16T10:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     }
