@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-16T01:24:57Z",
+  "updated": "2026-11-16T02:25:33Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-16T01:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Cowboys",
-      "description": "The Dallas Cowboys are trending after a predictable Week 10 loss to the San Francisco 49ers as their season slips away.",
+      "description": "The Dallas Cowboys are trending following a 46-40 Week 10 loss to the San Francisco 49ers, with analysts and fans heavily criticizing the team's defensive performance.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Cowboys",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.0X4i8DMpxdxWbD9ff7vWMQ&pid=15.1",
@@ -38,7 +42,41 @@
       "started_trending": "2026-11-15T23:23:33Z",
       "first_seen": "2026-11-15T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "steelers",
+      "rank": 2,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-16T01:23:31Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Steelers",
+      "description": "The Pittsburgh Steelers are trending due to their Week 10 matchup against the Cincinnati Bengals, which includes injury updates on linebacker Nick Herbig.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Steelers",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.Wawqx/vP4nm3DizzDOoTsQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T01:23:31Z",
+      "first_seen": "2026-11-16T01:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -47,7 +85,7 @@
     },
     {
       "id": "49ers",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -58,12 +96,16 @@
         {
           "t": "2026-11-16T01:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 3
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "49ers",
-      "description": "The San Francisco 49ers are trending following their high-scoring 46-40 shootout win over the Dallas Cowboys.",
+      "description": "The San Francisco 49ers are trending following their 46-40 victory over the Dallas Cowboys, driven by strong offensive performances and playful social media trolling.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/49ers",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.qVn8wslFCurSPnAuYbKxxQHaF1&pid=15.1",
@@ -72,7 +114,67 @@
       "started_trending": "2026-11-16T00:23:37Z",
       "first_seen": "2026-11-16T00:23:37Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bengals",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bengals",
+      "description": "The Cincinnati Bengals are trending as they face the Pittsburgh Steelers in a Sunday Night Football AFC North clash.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bengals",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.3BLmoJMMK1CoDOQnvsuTjA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rhop",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#RHOP",
+      "description": "The Real Housewives of Potomac is trending on social media as viewers discuss Courtney Ajinça's emotional moments and Gizelle Bryant confronting her about producer interactions.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23RHOP",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -81,7 +183,7 @@
     },
     {
       "id": "niners",
-      "rank": 3,
+      "rank": 6,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -96,12 +198,16 @@
         {
           "t": "2026-11-16T01:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 6
         }
       ],
-      "rank_change": 9,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Niners",
-      "description": "The Niners are trending after their thrilling shootout victory against the Dallas Cowboys.",
+      "description": "The San Francisco 49ers are trending following their historic, high-scoring shootout win over the Dallas Cowboys.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Niners",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.LkM20SXBdmObC0FmFyBbfg&pid=15.1",
@@ -110,16 +216,46 @@
       "started_trending": "2026-11-15T23:23:33Z",
       "first_seen": "2026-11-15T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rodgers",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Rodgers",
+      "description": "Aaron Rodgers is trending as he prepares to face the Cincinnati Bengals on Sunday Night Football and makes recent personal announcements.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Rodgers",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.MHuZJ55srQXhB/TTAgDqrw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "von-miller",
-      "rank": 4,
+      "rank": 8,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -130,12 +266,16 @@
         {
           "t": "2026-11-16T01:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 8
         }
       ],
-      "rank_change": 10,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Von Miller",
-      "description": "Von Miller is trending as he teams up with Groov Momentum and draws historical comparisons to successful mid-season trades.",
+      "description": "Von Miller is trending on social media amid discussions of historic Super Bowl defensive performances and mid-season trades.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Von%20Miller",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.oU8S1BuADrskcI4h4m4LFwHaFC&pid=15.1",
@@ -144,7 +284,71 @@
       "started_trending": "2026-11-16T00:23:37Z",
       "first_seen": "2026-11-16T00:23:37Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jerry",
+      "rank": 9,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-16T01:23:31Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Jerry",
+      "description": "Dallas Cowboys owner Jerry Jones is trending after television cameras caught his reaction to the team's historic defensive struggles during their loss to the 49ers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jerry",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.KjqRWYZeDCSPefd2yO7O2wHaFG&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T01:23:31Z",
+      "first_seen": "2026-11-16T01:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "herewego",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#HereWeGo",
+      "description": "The phrase #HereWeGo is trending as fans use it ahead of the Pittsburgh Steelers matchup against the Cincinnati Bengals.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23HereWeGo",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -153,19 +357,23 @@
     },
     {
       "id": "christian-parker",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 11,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-16T01:23:31Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "Christian Parker",
-      "description": "Cowboys defensive coordinator Christian Parker is trending following scrutiny over the team's defensive struggles in their loss to the 49ers.",
+      "description": "Dallas Cowboys defensive coordinator Christian Parker is trending as fans and analysts heavily criticize the team's historically poor defense following the loss to the 49ers.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Christian%20Parker",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.r5Hl_8yxjflXLFcJ4fjf6wHaE8&pid=15.1",
@@ -174,7 +382,97 @@
       "started_trending": "2026-11-16T01:23:31Z",
       "first_seen": "2026-11-16T01:23:31Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "courtney",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Courtney",
+      "description": "Courtney Clenney is trending in news headlines after being moved to a new prison and listed as a minimum custody inmate.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Courtney",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.iSrTvFUzJpze1FjejG1Lfg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "scottie-barnes",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Scottie Barnes",
+      "description": "Scottie Barnes is trending as he is upgraded to available and prepares to return for the Toronto Raptors against the New York Knicks.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Scottie%20Barnes",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dk-metcalf",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "DK Metcalf",
+      "description": "DK Metcalf is trending after expressing confidence in the Pittsburgh Steelers' edge over the Cincinnati Bengals ahead of their game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/DK%20Metcalf",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ukfV7genU_WEXwGEhSxIEQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -183,7 +481,7 @@
     },
     {
       "id": "fttb",
-      "rank": 6,
+      "rank": 15,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -198,12 +496,16 @@
         {
           "t": "2026-11-16T01:23:31Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 15
         }
       ],
-      "rank_change": 8,
+      "rank_change": -1,
       "is_new": false,
       "topic": "#FTTB",
-      "description": "The hashtag #FTTB is trending surrounding the San Francisco 49ers and Dallas Cowboys NFL matchup.",
+      "description": "The hashtag #FTTB is trending on social media surrounding the San Francisco 49ers' matchup against the Dallas Cowboys.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23FTTB",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.4m2YWihYlc87cCAiLTq31Q&pid=15.1",
@@ -212,16 +514,16 @@
       "started_trending": "2026-11-15T23:23:33Z",
       "first_seen": "2026-11-15T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "purdy",
-      "rank": 7,
+      "rank": 16,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -236,12 +538,16 @@
         {
           "t": "2026-11-16T01:23:31Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 16
         }
       ],
-      "rank_change": 2,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Purdy",
-      "description": "Brock Purdy is trending after helping lead the 49ers to an explosive 46-40 victory over the Cowboys.",
+      "description": "San Francisco 49ers quarterback Brock Purdy is trending after throwing three touchdowns and 410 yards in a win against the Dallas Cowboys.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Purdy",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.t7OAsJeT2Foellz83ngv9wHaEK&pid=15.1",
@@ -250,16 +556,16 @@
       "started_trending": "2026-11-15T23:23:33Z",
       "first_seen": "2026-11-15T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "pickens",
-      "rank": 8,
+      "rank": 17,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -274,12 +580,16 @@
         {
           "t": "2026-11-16T01:23:31Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 17
         }
       ],
-      "rank_change": 5,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Pickens",
-      "description": "George Pickens is trending after recording a standout 145-yard, three-touchdown game for the Cowboys against the 49ers.",
+      "description": "George Pickens is trending following a standout game against the San Francisco 49ers that included multiple touchdown catches from Dak Prescott.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Pickens",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.b393MYyzISiAqzgIoMkacgHaJF&pid=15.1",
@@ -288,409 +598,37 @@
       "started_trending": "2026-11-15T23:23:33Z",
       "first_seen": "2026-11-15T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jerry",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jerry",
-      "description": "Jerry Jones is trending after being heavily criticized by fans following the Cowboys' loss to the 49ers at AT&T Stadium.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jerry",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.KjqRWYZeDCSPefd2yO7O2wHaFG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T01:23:31Z",
-      "first_seen": "2026-11-16T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mendoza",
-      "rank": 10,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-15T21:23:30Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-15T22:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-15T23:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-16T00:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Mendoza",
-      "description": "Fernando Mendoza is trending following his first NFL start and opening touchdown run in the Raiders' game.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mendoza",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.71mDd21199QqYCSJ48vSzgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T21:23:30Z",
-      "first_seen": "2026-11-15T21:23:30Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "drew-lock",
-      "rank": 11,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-15T22:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-15T23:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-16T00:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Drew Lock",
-      "description": "Drew Lock is trending after throwing two touchdowns, including a 71-yard pass, to lead the Seahawks past the Raiders 21-13.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Drew%20Lock",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Iq2zT3odtvDmyj1fHWsy0A&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T22:23:34Z",
-      "first_seen": "2026-11-15T22:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "steelers",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Steelers",
-      "description": "The Pittsburgh Steelers are trending ahead of their Week 10 matchup against the Cincinnati Bengals.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Steelers",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.Wawqx/vP4nm3DizzDOoTsQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T01:23:31Z",
-      "first_seen": "2026-11-16T01:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "caleb-downs",
-      "rank": 13,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-15T23:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-16T00:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Caleb Downs",
-      "description": "Caleb Downs is trending following social media and sports discussions surrounding the Cowboys' game against the 49ers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Caleb%20Downs",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.arnAbpa4eMUl3J49asA_lwAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T23:23:33Z",
-      "first_seen": "2026-11-15T23:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dak-prescott",
-      "rank": 14,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-16T00:23:37Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Dak Prescott",
-      "description": "Dak Prescott is trending after throwing five touchdown passes that ultimately weren't enough to beat the 49ers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Dak%20Prescott",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.pBn1Xkz7Nu5ITYdrF4APFg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T00:23:37Z",
-      "first_seen": "2026-11-16T00:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "deebo",
-      "rank": 15,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-16T00:23:37Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Deebo",
-      "description": "Deebo Samuel is trending after recording a stellar 70-yard rushing touchdown to help the 49ers defeat the Cowboys.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Deebo",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.s_NINOXyNKOHjFU2Ss1SpgHaKn&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T00:23:37Z",
-      "first_seen": "2026-11-16T00:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lenoir",
-      "rank": 16,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-15T23:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-16T00:23:37Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Lenoir",
-      "description": "Deommodore Lenoir is trending as he was active and played for the 49ers in Week 10.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Lenoir",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.-MSYrU6a-jy4YMphhLE--wHaE-&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T23:23:33Z",
-      "first_seen": "2026-11-15T23:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kaelon-black",
-      "rank": 17,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-15T23:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-16T00:23:37Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Kaelon Black",
-      "description": "Kaelon Black is trending after bulldozing through defenders for an impressive 25-yard touchdown run against the Cowboys.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Kaelon%20Black",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.AEQ_0C1d6CAxQIj4RuZoCAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T23:23:33Z",
-      "first_seen": "2026-11-15T23:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "seahawks",
+      "id": "drew-sample",
       "rank": 18,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-15T23:23:33Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-16T00:23:37Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-16T01:23:31Z",
+          "t": "2026-11-16T02:23:37Z",
           "r": 18
         }
       ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Seahawks",
-      "description": "The Seattle Seahawks are trending after using a dominant second half to secure a 21-13 victory over the Raiders.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Drew Sample",
+      "description": "Drew Sample is trending after scoring the first touchdown of Sunday Night Football for the Cincinnati Bengals against the Pittsburgh Steelers with a successful pylon reach.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Seahawks",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF./72Ln5p8hIbZ3KVLPpCqdw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-15T23:23:33Z",
-      "first_seen": "2026-11-15T23:23:33Z",
+      "url": "https://sotwe.com/search/Drew%20Sample",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "uconn",
-      "rank": 19,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-11-16T00:23:37Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-16T01:23:31Z",
-          "r": 19
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "UConn",
-      "description": "The UConn women's basketball team is trending following a 69-51 blowout loss to Louisville.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/UConn",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.rid2UAQCYrq8lIwdjVEYzQHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T00:23:37Z",
-      "first_seen": "2026-11-16T00:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
+      "last_seen": "2026-11-16T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -698,29 +636,59 @@
       "extra": {}
     },
     {
-      "id": "baddiesgonewildcancun",
+      "id": "whodey",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-16T02:23:37Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#WhoDey",
+      "description": "Cincinnati Bengals fans are trending on social media as they gather to celebrate before their Sunday Night Football game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23WhoDey",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.dZDSV0Y6gqXaSde3e0kOYgHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-16T02:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bosa",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-16T01:23:31Z",
+          "t": "2026-11-16T02:23:37Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#BaddiesGoneWildCancun",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23BaddiesGoneWildCancun",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.j7E_djCB5QT-gxWEWkLddgHaE8&pid=15.1",
+      "topic": "Bosa",
+      "description": "Nick Bosa is trending on social media after his model girlfriend wore apparel featuring his name at the 49ers-Cowboys game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bosa",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.8FjUNGPiyJ1vk7E4x1TJsAHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T01:23:31Z",
-      "first_seen": "2026-11-16T01:23:31Z",
+      "started_trending": "2026-11-16T02:23:37Z",
+      "first_seen": "2026-11-16T02:23:37Z",
       "published": null,
-      "last_seen": "2026-11-16T01:23:31Z",
+      "last_seen": "2026-11-16T02:23:37Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
