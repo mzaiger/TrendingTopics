@@ -25,6 +25,7 @@ Env vars:
   REDDIT_APIFY_MAX_CHARGE_USD  optional, spending cap per 2nd-tier run (default 0.05)
   REDDIT_APIFY3_ACTOR / REDDIT_APIFY3_EVERY_HOURS / REDDIT_APIFY3_MAX_CHARGE_USD  optional, 3rd tier
   (defaults harshmaur~reddit-scraper-pro / 8 / 0.08)
+  REDDIT_MIN_POSTS   optional, fewer Apify posts than this count as a failed run (default 10)
   REDDIT_FEED        optional, RSS feed URL (default https://www.reddit.com/r/popular/.rss)
   REDDIT_TOP_N       optional, posts to keep (default 25)
   REDDIT_USER_AGENT  optional, Reddit asks for a descriptive user agent
@@ -67,6 +68,8 @@ APIFY_REDDIT_MAX_CHARGE = os.environ.get("REDDIT_APIFY_MAX_CHARGE_USD", "0.05")
 APIFY3_ACTOR = os.environ.get("REDDIT_APIFY3_ACTOR", "harshmaur~reddit-scraper-pro")
 APIFY3_EVERY_HOURS = float(os.environ.get("REDDIT_APIFY3_EVERY_HOURS", "8"))
 APIFY3_MAX_CHARGE = os.environ.get("REDDIT_APIFY3_MAX_CHARGE_USD", "0.08")
+# A fallback that returns fewer posts than this is treated as a failure (guards against placeholder rows).
+MIN_POSTS = int(os.environ.get("REDDIT_MIN_POSTS", "10"))
 
 TASK = ("say in one or two sentences what the Reddit post is about, using only the title and "
         "details shown. Do not guess beyond the title.")
@@ -212,6 +215,8 @@ def parse_apify(items: list) -> list[dict]:
         if d.get("dataType") not in (None, "post"):
             continue
         title = tc.clean_text(d.get("title"))
+        if title.lower().startswith("sample post"):
+            continue                                   # placeholder row some actors return on bad input
         link = d.get("postUrl") or d.get("url") or d.get("permalink") or ""
         if link.startswith("/"):
             link = "https://www.reddit.com" + link
@@ -279,6 +284,9 @@ def apify_fallback(previous: dict, now: datetime) -> tuple:
         except (requests.RequestException, ValueError) as e:
             tc.warn(f"  Apify Reddit fallback (2nd) {APIFY_REDDIT_ACTOR} failed: {e}")
             raw = []
+        if 0 < len(raw) < MIN_POSTS:
+            tc.warn(f"  2nd tier returned only {len(raw)} post(s); treating as a failure")
+            raw = []
         state["apify_last_ok"] = bool(raw)
         if raw:
             tc.info(f"Reddit posts came from the 2nd-tier Apify actor ({APIFY_REDDIT_ACTOR})")
@@ -291,6 +299,9 @@ def apify_fallback(previous: dict, now: datetime) -> tuple:
             raw = parse_apify(fetch_apify3())
         except (requests.RequestException, ValueError) as e:
             tc.warn(f"  Apify Reddit fallback (3rd) {APIFY3_ACTOR} failed: {e}")
+            raw = []
+        if 0 < len(raw) < MIN_POSTS:
+            tc.warn(f"  3rd tier returned only {len(raw)} post(s); treating as a failure")
             raw = []
         if raw:
             tc.info(f"Reddit posts came from the 3rd-tier Apify actor ({APIFY3_ACTOR})")
