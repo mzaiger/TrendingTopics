@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-17T20:24:54Z",
+  "updated": "2026-11-17T21:25:02Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -28,12 +28,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 1
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "GOTY",
-      "description": "The nominees for Game of the Year at The Game Awards have been announced, sparking heavy discussion online about contenders like GTA 6.",
+      "description": "Gamers are discussing the latest Game of the Year nominees for 2026, including major titles like GTA 6.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/GOTY",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.yXs4qGvV7b82VAd26EXDfgHaDt&pid=15.1",
@@ -42,10 +46,10 @@
       "started_trending": "2026-11-17T17:23:36Z",
       "first_seen": "2026-11-17T17:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -62,12 +66,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 2
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Apple",
-      "description": "Apple is trending after users reported widespread service outages, which the company reportedly attributed to an internal update.",
+      "description": "Apple is working to restore services after an internal update caused widespread outages affecting iCloud, retail, and internal systems.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Apple",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.AGRoN-WnEnkKvtW5zj_IpAHaF-&pid=15.1",
@@ -76,10 +84,10 @@
       "started_trending": "2026-11-17T19:23:38Z",
       "first_seen": "2026-11-17T19:23:38Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -104,12 +112,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 3
         }
       ],
       "rank_change": 3,
       "is_new": false,
       "topic": "GTA 6",
-      "description": "GTA 6 is trending as players discuss pre-loading the game, early access time tricks, and the high-profile launch arriving next week.",
+      "description": "GTA 6 is generating massive hype and record sales estimates across social media as players look for ways to play early ahead of its official launch.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/GTA%206",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.OJOjQijwo7CuR2Mgut1IPg&pid=15.1",
@@ -118,16 +130,54 @@
       "started_trending": "2026-11-17T17:23:36Z",
       "first_seen": "2026-11-17T17:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "astra",
+      "rank": 4,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-17T19:23:38Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-17T20:23:34Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Astra",
+      "description": "OpenAI is trending as it unveils and releases its new GPT-6.2 Astra and Sol AI models, upgrading ChatGPT and Codex.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Astra",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.f1fhP0cSeGMZmWyMvxrDdgHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T19:23:38Z",
+      "first_seen": "2026-11-17T19:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "thegameawards",
-      "rank": 4,
+      "rank": 5,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -146,12 +196,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 5
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "#TheGameAwards",
-      "description": "Social media is buzzing as The Game Awards revealed its official nominees, including a Game of the Year nod for GTA 6.",
+      "description": "Social media users are reacting to the official announcement of The Game Awards 2026 nominees, including top game of the year contenders.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23TheGameAwards",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.gRnWkOx--Bo2vlvOvH_4ZQHaE8&pid=15.1",
@@ -160,44 +214,10 @@
       "started_trending": "2026-11-17T17:23:36Z",
       "first_seen": "2026-11-17T17:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "astra",
-      "rank": 5,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-17T19:23:38Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-17T20:23:34Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Astra",
-      "description": "OpenAI is drawing attention online following the release and upgrade of its new GPT-6.2 Astra and Sol models.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Astra",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.f1fhP0cSeGMZmWyMvxrDdgHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T19:23:38Z",
-      "first_seen": "2026-11-17T19:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -214,6 +234,10 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 6
         }
       ],
       "rank_change": -1,
@@ -228,45 +252,7 @@
       "started_trending": "2026-11-17T19:23:38Z",
       "first_seen": "2026-11-17T19:23:38Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "icloud",
-      "rank": 7,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-17T18:23:37Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-17T19:23:38Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-17T20:23:34Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "iCloud",
-      "description": "Apple services including iCloud, Apple Pay, and the App Store experienced disruptions following an internal system update.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/iCloud",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.g8PfSLBn2FCm2LG3oPKKpQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T18:23:37Z",
-      "first_seen": "2026-11-17T18:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
+      "last_seen": "2026-11-17T21:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -274,50 +260,8 @@
       "extra": {}
     },
     {
-      "id": "game-of-the-year",
-      "rank": 8,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-17T17:23:36Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-17T18:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-17T19:23:38Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-17T20:23:34Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Game of the Year",
-      "description": "The announcement of Game of the Year nominees at The Game Awards has triggered major online discussions, featuring top titles like GTA 6.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Game%20of%20the%20Year",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.dKJruib18itvrm5gbp6MWQHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T17:23:36Z",
-      "first_seen": "2026-11-17T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "crimson-desert",
-      "rank": 9,
+      "rank": 7,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -332,12 +276,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 7
         }
       ],
-      "rank_change": 0,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Crimson Desert",
-      "description": "Crimson Desert is trending after winning PC Game of the Year at the Golden Joystick Awards and receiving new review praise.",
+      "description": "Crimson Desert is trending following its recent PC Game of the Year win at the Golden Joystick Awards and positive reviews.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Crimson%20Desert",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.j_RRvtVutAYC1beRCbtrjgHaEK&pid=15.1",
@@ -346,16 +294,16 @@
       "started_trending": "2026-11-17T18:23:37Z",
       "first_seen": "2026-11-17T18:23:37Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "geoff",
-      "rank": 10,
+      "rank": 8,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -374,12 +322,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 8
         }
       ],
-      "rank_change": 9,
+      "rank_change": 11,
       "is_new": false,
       "topic": "Geoff",
-      "description": "The material does not make the description clear.",
+      "description": "The description is not clear from the material provided.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Geoff",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.1GX9i_Y_OPgxiCArsrOXKAHaEK&pid=15.1",
@@ -388,16 +340,16 @@
       "started_trending": "2026-11-17T17:23:36Z",
       "first_seen": "2026-11-17T17:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gta-vi",
-      "rank": 11,
+      "rank": 9,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -412,12 +364,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 9
         }
       ],
-      "rank_change": -3,
+      "rank_change": -1,
       "is_new": false,
       "topic": "GTA VI",
-      "description": "GTA VI is generating massive buzz online ahead of its worldwide release, boasting massive pre-launch sales and players planning early-play tricks.",
+      "description": "GTA VI is generating enormous buzz online as it reaches massive pre-launch sales estimates and players share tips to play early.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/GTA%20VI",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.jImgczXImdEj5gm5lIfrzQ&pid=15.1",
@@ -426,48 +382,132 @@
       "started_trending": "2026-11-17T18:23:37Z",
       "first_seen": "2026-11-17T18:23:37Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "pragmata",
-      "rank": 12,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "id": "icloud",
+      "rank": 10,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-11-17T18:23:37Z",
-          "r": 13
+          "r": 11
         },
         {
           "t": "2026-11-17T19:23:38Z",
-          "r": 13
+          "r": 6
         },
         {
           "t": "2026-11-17T20:23:34Z",
-          "r": 12
+          "r": 7
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 10
         }
       ],
       "rank_change": 1,
       "is_new": false,
-      "topic": "Pragmata",
-      "description": "Pragmata is trending following award wins for performer Grace Saif and new themed hardware editions.",
+      "topic": "iCloud",
+      "description": "Users on social media are reporting widespread outages affecting iCloud, Apple Pay, and other Apple services.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Pragmata",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.ht7v3QSvUQm75R8o_ZofpAHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/iCloud",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.g8PfSLBn2FCm2LG3oPKKpQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-17T18:23:37Z",
       "first_seen": "2026-11-17T18:23:37Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "game-of-the-year",
+      "rank": 11,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-17T17:23:36Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-17T18:23:37Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-17T19:23:38Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-17T20:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Game of the Year",
+      "description": "Social media is buzzing over the newly announced Game of the Year nominees for 2026, featuring titles like GTA 6.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Game%20of%20the%20Year",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.dKJruib18itvrm5gbp6MWQHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T17:23:36Z",
+      "first_seen": "2026-11-17T17:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fema",
+      "rank": 12,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-17T20:23:34Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "FEMA",
+      "description": "FEMA is trending as it conducts a nationwide test of its Emergency Alert System, prompting officials to address blackout rumors.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/FEMA",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.TUuzAq-NsZXWs64ANI5bqQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T20:23:34Z",
+      "first_seen": "2026-11-17T20:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -488,12 +528,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 13
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "Mixtape",
-      "description": "Mixtape is trending as music acts drop new singles and Tubi launches a feature allowing fans to curate movie collections.",
+      "description": "Music and entertainment fans are discussing new mixtape releases, holiday specials, and Tubi's new mixtape curation feature.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Mixtape",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.d7BMbh5YVjFqfymDPbg1kQHaE8&pid=15.1",
@@ -502,10 +546,10 @@
       "started_trending": "2026-11-17T18:23:37Z",
       "first_seen": "2026-11-17T18:23:37Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -522,12 +566,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 14
         }
       ],
       "rank_change": 4,
       "is_new": false,
       "topic": "ARTEX",
-      "description": "The FBI issued an alert warning that hackers are weaponizing the ARTEX AI framework to automate cyberattacks on critical infrastructure.",
+      "description": "The FBI has issued a warning regarding hackers weaponizing the ARTEX AI framework to automate cyber intrusions against global organizations.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/ARTEX",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.42nGJWOgZM_iRWpDeSF6PwHaHk&pid=15.1",
@@ -536,75 +584,7 @@
       "started_trending": "2026-11-17T19:23:38Z",
       "first_seen": "2026-11-17T19:23:38Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fema",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T20:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "FEMA",
-      "description": "FEMA is trending after conducting a nationwide test of its Emergency Alert System across televisions and radios.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/FEMA",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.TUuzAq-NsZXWs64ANI5bqQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T20:23:34Z",
-      "first_seen": "2026-11-17T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "control-resonant",
-      "rank": 16,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-17T18:23:37Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-17T19:23:38Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-17T20:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Control Resonant",
-      "description": "Control Resonant is making waves online after earning Game Awards nominations and releasing a surprise console taster.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Control%20Resonant",
-      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.pBK58W80P4ifJz4Q4UK5cgHaJ3&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T18:23:37Z",
-      "first_seen": "2026-11-17T18:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
+      "last_seen": "2026-11-17T21:23:33Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -612,8 +592,110 @@
       "extra": {}
     },
     {
-      "id": "the-nsa",
+      "id": "pragmata",
+      "rank": 15,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-17T18:23:37Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-17T19:23:38Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-17T20:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Pragmata",
+      "description": "Pragmata is trending after winning Game of the Year at the Thailand Game Awards and receiving special hardware collaboration editions.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Pragmata",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.ht7v3QSvUQm75R8o_ZofpAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T18:23:37Z",
+      "first_seen": "2026-11-17T18:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "app-store",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "App Store",
+      "description": "Apple's App Store and other services experienced an ongoing outage following an internal update, prompting repair efforts.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/App%20Store",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.HHa0kPTSyJRUaeRBG9YgMwHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T21:23:33Z",
+      "first_seen": "2026-11-17T21:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "david-bednar",
       "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "David Bednar",
+      "description": "David Bednar is trending after accepting a $23.5 million qualifying offer to return to the Yankees bullpen.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/David%20Bednar",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.qkjRSFkGR6jmiUSF_di4wgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T21:23:33Z",
+      "first_seen": "2026-11-17T21:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-nsa",
+      "rank": 18,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -636,12 +718,16 @@
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 17
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 18
         }
       ],
-      "rank_change": -8,
+      "rank_change": -9,
       "is_new": false,
       "topic": "The NSA",
-      "description": "The National Security Agency is trending after a highly classified internal communications network went down due to maintenance issues.",
+      "description": "The National Security Agency is addressing a network outage that took down a highly classified U.S. intelligence communications system during maintenance.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/The%20NSA",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.ZsI9WLVGd05YeZ-_Rd9afAHaE8&pid=15.1",
@@ -650,58 +736,32 @@
       "started_trending": "2026-11-17T16:23:35Z",
       "first_seen": "2026-11-17T16:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jhene",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T20:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jhene",
-      "description": "Jhené Aiko is trending after announcing her 37-city North American tour titled Ark to Agartha: A Westside Whimsy Experience.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jhene",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.6DKmbCvLgtJrT8n74s6dawHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T20:23:34Z",
-      "first_seen": "2026-11-17T20:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "fire-emblem",
       "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-17T20:23:34Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-17T21:23:33Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Fire Emblem",
-      "description": "Fire Emblem is drawing attention online after picking up nominations at The Game Awards and hosting cast reflections at L.A. Comic Con.",
+      "description": "Fire Emblem is drawing attention online following Game Awards nominations, a Direct recap, and appearances at L.A. Comic Con.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Fire%20Emblem",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.ZH45gRA_0Ao-fruFVrybNAHaE8&pid=15.1",
@@ -710,7 +770,7 @@
       "started_trending": "2026-11-17T20:23:34Z",
       "first_seen": "2026-11-17T20:23:34Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
+      "last_seen": "2026-11-17T21:23:33Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -718,48 +778,32 @@
       "extra": {}
     },
     {
-      "id": "nsa-net",
+      "id": "hung-cao",
       "rank": 20,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T16:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T17:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T18:23:37Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-17T19:23:38Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-17T20:23:34Z",
+          "t": "2026-11-17T21:23:33Z",
           "r": 20
         }
       ],
-      "rank_change": -18,
-      "is_new": false,
-      "topic": "NSA Net",
-      "description": "The NSA's highly classified internal communications network is generating headlines after going down during maintenance.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Hung Cao",
+      "description": "Navy secretary nominee Hung Cao faced tough questions during a Senate confirmation hearing where he acknowledged the strain of the Iran war.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/NSA%20Net",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.LYzU0yxcKxAUmcLFSAiWCgHaHa&pid=15.1",
+      "url": "https://sotwe.com/search/Hung%20Cao",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.hl3OBlmkS6MzTBFx8Gzjuw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T16:23:35Z",
-      "first_seen": "2026-11-17T16:23:35Z",
+      "started_trending": "2026-11-17T21:23:33Z",
+      "first_seen": "2026-11-17T21:23:33Z",
       "published": null,
-      "last_seen": "2026-11-17T20:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-17T21:23:33Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
