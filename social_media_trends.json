@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-17T12:26:42Z",
+  "updated": "2026-11-17T13:25:35Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-17T12:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 1
         }
       ],
       "rank_change": 6,
       "is_new": false,
       "topic": "Good Tuesday",
-      "description": "Social media is discussing the start of the week, including weather forecasts, local news, and the ongoing search for Travel Tuesday deals.",
+      "description": "Social media users are sharing morning greetings, travel deals, and crypto updates as they celebrate Tuesday.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Good%20Tuesday",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.FOHAgxr8qSBKkMY9sEPC_QHaEK&pid=15.1",
@@ -38,10 +42,10 @@
       "started_trending": "2026-11-17T10:23:34Z",
       "first_seen": "2026-11-17T10:23:34Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -58,12 +62,16 @@
         {
           "t": "2026-11-17T12:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 2
         }
       ],
       "rank_change": 10,
       "is_new": false,
       "topic": "Colón",
-      "description": "The term is trending due to various news stories, including a college athlete's award, medical research on cancer, a judicial endorsement, and economic updates regarding the Costa Rican currency.",
+      "description": "Discussions are trending around sports awards, health studies linking microplastics to colon cancer, and legal endorsements.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Col%C3%B3n",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.NZz8IsdMrwUMeHJsBQLGQgHaEK&pid=15.1",
@@ -72,58 +80,32 @@
       "started_trending": "2026-11-17T11:23:34Z",
       "first_seen": "2026-11-17T11:23:34Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cobre-panam",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cobre Panamá",
-      "description": "Panama is set to begin formal discussions with First Quantum regarding a new agreement for the Cobre Panamá mine.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Cobre%20Panam%C3%A1",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.V99lxQotd6pEtidI68jsZQHaEo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T12:23:32Z",
-      "first_seen": "2026-11-17T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "telemundo-al-d-a",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-17T12:23:32Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Telemundo Al Día",
-      "description": "Telemundo news segments are trending as they cover local community events, educational support initiatives, and regional criminal investigations.",
+      "description": "Audiences are engaging with local news coverage on Thanksgiving meal preparations, educational grants, and community events.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Telemundo%20Al%20D%C3%ADa",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.8pz4rbpPyUHD2nGZdiE72AHaEl&pid=15.1",
@@ -132,7 +114,37 @@
       "started_trending": "2026-11-17T12:23:32Z",
       "first_seen": "2026-11-17T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "taco-tuesday",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Taco Tuesday",
+      "description": "Food enthusiasts are sharing restaurant specials and taco reviews alongside news of political developments and Taco Bell promotions.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Taco%20Tuesday",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.SVPiMieXULyacHlAbrLVzwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T13:23:34Z",
+      "first_seen": "2026-11-17T13:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -140,20 +152,58 @@
       "extra": {}
     },
     {
-      "id": "donoso",
+      "id": "cobre-panam",
       "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-17T12:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Cobre Panamá",
+      "description": "Investors are discussing news that Panama and First Quantum are beginning formal discussions for a new Cobre Panamá mine agreement.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Cobre%20Panam%C3%A1",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.V99lxQotd6pEtidI68jsZQHaEo&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T12:23:32Z",
+      "first_seen": "2026-11-17T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "donoso",
+      "rank": 6,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-17T12:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Donoso",
-      "description": "The name Donoso is appearing in headlines related to Latin American investment trends, private debt liquidity, and professional tennis results.",
+      "description": "The material does not provide enough clear information to explain why this topic is trending.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Donoso",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.tXenKSTZyU0qf4ljRboargAAAA&pid=15.1",
@@ -162,7 +212,37 @@
       "started_trending": "2026-11-17T12:23:32Z",
       "first_seen": "2026-11-17T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-taco",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy Taco",
+      "description": "Users are reacting to Taco Bell's revival of a fan-favorite burrito, new menu items, and limited-edition puffer jacket giveaways.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Happy%20Taco",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JUnWrK6KSBV3skG4TSnG5QHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T13:23:34Z",
+      "first_seen": "2026-11-17T13:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -170,200 +250,38 @@
       "extra": {}
     },
     {
-      "id": "chargers",
-      "rank": 6,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-17T06:23:41Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T07:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T08:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T09:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T10:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T11:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 6
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Chargers",
-      "description": "The Los Angeles Chargers are trending after securing their first win of the season in a close 23-20 victory against the Baltimore Ravens on Monday Night Football.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Chargers",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.gVdxR3Vo2BB1fVQScTs0XA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T00:23:36Z",
-      "first_seen": "2026-11-17T00:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ravens",
-      "rank": 7,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-17T06:23:41Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T07:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T08:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T09:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T10:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T11:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Ravens",
-      "description": "The Baltimore Ravens are facing criticism and discussion following their unexpected loss to the winless Los Angeles Chargers on Monday Night Football.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ravens",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JjjXi3jN5XDNxKa3Yc3PiAAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T01:23:36Z",
-      "first_seen": "2026-11-17T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lingorm-calendar-sign-event",
+      "id": "villa-360",
       "rank": 8,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T09:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-17T10:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-17T11:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-17T12:23:32Z",
+          "t": "2026-11-17T13:23:34Z",
           "r": 8
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "LINGORM CALENDAR SIGN EVENT",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/LINGORM%20CALENDAR%20SIGN%20EVENT",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.8poPfoOhjvF0B80QgGV-igHaEo&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Villa 360",
+      "description": "Sports fans are discussing match odds for video game league simulations featuring Newcastle United and Aston Villa.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Villa%20360",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.sBBhxbVAQl6FKYAiUHvwzwHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T09:23:32Z",
-      "first_seen": "2026-11-17T09:23:32Z",
+      "started_trending": "2026-11-17T13:23:34Z",
+      "first_seen": "2026-11-17T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "3-2570",
-      "rank": 9,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-17T09:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-17T10:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-17T11:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#หลิงออมปฏิทินช่อง3ปี2570",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%A1%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%97%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%873%E0%B8%9B%E0%B8%B52570",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP._V5Wc5e8EYBWWlcgLccNJAHaJQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T09:23:32Z",
-      "first_seen": "2026-11-17T09:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "manila",
-      "rank": 10,
+      "rank": 9,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -374,12 +292,16 @@
         {
           "t": "2026-11-17T12:23:32Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": 0,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Manila",
-      "description": "Manila is trending as the site of President Trump's arrival in the Philippines to begin an Asia trip focused on economic deals and diplomatic meetings.",
+      "description": "Social media is reacting to President Trump's arrival in Manila for the ASEAN summit amid economic talks and welcoming celebrations.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Manila",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.dOC741bJ4HuKW40C/EtPIQ&pid=15.1",
@@ -388,7 +310,37 @@
       "started_trending": "2026-11-17T11:23:34Z",
       "first_seen": "2026-11-17T11:23:34Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "m-xico-vs-brasil",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "México vs Brasil",
+      "description": "Sports fans are following international soccer updates, match schedules, and manager statements involving teams like Brazil.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/M%C3%A9xico%20vs%20Brasil",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.74BImjdX5PBUEnmeCh66NAHaEp&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T13:23:34Z",
+      "first_seen": "2026-11-17T13:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -396,50 +348,164 @@
       "extra": {}
     },
     {
-      "id": "i-n-no-return-out-now",
+      "id": "tuesdayvibe",
       "rank": 11,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T09:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-17T10:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-17T11:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-17T12:23:32Z",
+          "t": "2026-11-17T13:23:34Z",
           "r": 11
         }
       ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "I.N NO RETURN OUT NOW",
-      "description": "The phrase is trending following the release of a new self-composed track by Stray Kids member I.N.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/I.N%20NO%20RETURN%20OUT%20NOW",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.fWqCgttXuGgM3GIaS6pBJAHaHa&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#tuesdayvibe",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23tuesdayvibe",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.LKx9ak-ryuwOmsjMZHF-7AHaJw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T09:23:32Z",
-      "first_seen": "2026-11-17T09:23:32Z",
+      "started_trending": "2026-11-17T13:23:34Z",
+      "first_seen": "2026-11-17T13:23:34Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fajardo",
+      "rank": 12,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-17T12:23:32Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Fajardo",
+      "description": "Football fans are celebrating Cody Fajardo winning his third Grey Cup title and earning MVP honors with the Edmonton Elks.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Fajardo",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.duWmojUuWsUdavzkXuK98Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T12:23:32Z",
+      "first_seen": "2026-11-17T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "philippines",
+      "rank": 13,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-17T11:23:34Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-17T12:23:32Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Philippines",
+      "description": "Users are discussing President Trump's arrival in the Philippines for the ASEAN summit, trade tensions with China, and local protests.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Philippines",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.UIsDQVxj61gLnyLWNsJReQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T11:23:34Z",
+      "first_seen": "2026-11-17T11:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "crimea",
+      "rank": 14,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-17T07:23:36Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-17T08:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-17T09:23:32Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-17T10:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-17T11:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-17T12:23:32Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Crimea",
+      "description": "Social media is reacting to a major Ukrainian strike that partially destroyed the prized Crimea bridge.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Crimea",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.oKnTbO5vZ1u5RT2I5zbrlA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T07:23:36Z",
+      "first_seen": "2026-11-17T07:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "i-n-no-return",
-      "rank": 12,
+      "rank": 15,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -458,9 +524,13 @@
         {
           "t": "2026-11-17T12:23:32Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 15
         }
       ],
-      "rank_change": -8,
+      "rank_change": -11,
       "is_new": false,
       "topic": "#I_N_No_Return",
       "description": "",
@@ -472,91 +542,7 @@
       "started_trending": "2026-11-17T09:23:32Z",
       "first_seen": "2026-11-17T09:23:32Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "philippines",
-      "rank": 13,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-17T11:23:34Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Philippines",
-      "description": "The Philippines is in the news as President Trump arrives for an official visit, sparking both economic discussions and widespread anti-Trump protests.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Philippines",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.UIsDQVxj61gLnyLWNsJReQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T11:23:34Z",
-      "first_seen": "2026-11-17T11:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "crimea",
-      "rank": 14,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-11-17T07:23:36Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-17T08:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-17T09:23:32Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-17T10:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-17T11:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Crimea",
-      "description": "Ukraine has launched an unprecedented strike against the bridge connecting Russia to occupied Crimea, causing significant damage to the structure.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Crimea",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.oKnTbO5vZ1u5RT2I5zbrlA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T07:23:36Z",
-      "first_seen": "2026-11-17T07:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
+      "last_seen": "2026-11-17T13:23:34Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -565,7 +551,7 @@
     },
     {
       "id": "kerch",
-      "rank": 15,
+      "rank": 16,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -576,12 +562,16 @@
         {
           "t": "2026-11-17T12:23:32Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 16
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Kerch",
-      "description": "The Kerch Bridge is trending after Ukrainian forces conducted an unprecedented strike that partially destroyed the structure connecting Russia to Crimea.",
+      "description": "Online discussions are focused on Ukrainian strikes that sent a large section of the Kerch bridge in Crimea into the sea.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Kerch",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.o1ThCMoNoS9nOcO40yL4BwHaEG&pid=15.1",
@@ -590,188 +580,32 @@
       "started_trending": "2026-11-17T11:23:34Z",
       "first_seen": "2026-11-17T11:23:34Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fajardo",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Fajardo",
-      "description": "Cody Fajardo is trending after winning his third Grey Cup title and earning MVP honors for his performance with the Edmonton Elks.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Fajardo",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.duWmojUuWsUdavzkXuK98Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T12:23:32Z",
-      "first_seen": "2026-11-17T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "optimizely",
-      "rank": 17,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-17T06:23:41Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-17T07:23:36Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-17T08:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-17T09:23:32Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-17T10:23:34Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-17T11:23:34Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Optimizely",
-      "description": "A security vulnerability in Optimizely scripts has been exploited to distribute malware across 178 major websites, including CNN and the BBC.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Optimizely",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.XIgEI5cNvul6az7bkNyVZQHaEa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T06:23:41Z",
-      "first_seen": "2026-11-17T06:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "itati",
-      "rank": 18,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-17T08:23:33Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-17T09:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-17T10:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-17T11:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Itati",
-      "description": "Itati is trending due to reports of flooding in the region as part of an international relief operation in Argentina.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Itati",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.2kjp-qs_RKWzPqIMvcFz-QHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T08:23:33Z",
-      "first_seen": "2026-11-17T08:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "shenzhen",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T12:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Shenzhen",
-      "description": "Shenzhen is in the spotlight as a high-tech hub and the site of a high-stakes summit involving global leaders like Trump, Xi, and Putin.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Shenzhen",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.HMgoo6Gv01ztqCJhiCFyXAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T12:23:32Z",
-      "first_seen": "2026-11-17T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "fema",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 17,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-11-17T12:23:32Z",
           "r": 20
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 17
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 3,
+      "is_new": false,
       "topic": "FEMA",
-      "description": "FEMA is conducting a nationwide test of the Emergency Alert System on Tuesday, which will interrupt television and radio broadcasts across the country.",
+      "description": "People are sharing information and preparing for the nationwide Emergency Alert System test scheduled by FEMA.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/FEMA",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.lzKyaFGGoTqgdRONsVUJqAHaEH&pid=15.1",
@@ -780,10 +614,116 @@
       "started_trending": "2026-11-17T12:23:32Z",
       "first_seen": "2026-11-17T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-17T12:23:32Z",
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "asean",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "ASEAN",
+      "description": "News coverage about President Trump's limited attendance at the ASEAN summit and regional trade discussions are trending.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/ASEAN",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.V3YDB6m2XOumX/KZJRC5MA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T13:23:34Z",
+      "first_seen": "2026-11-17T13:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "emergency-alert-system",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Emergency Alert System",
+      "description": "Social media is sharing details on what to expect during FEMA's nationwide Emergency Alert System test.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Emergency%20Alert%20System",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.UrCmkyV7T8q8NvGkzTvMWQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T13:23:34Z",
+      "first_seen": "2026-11-17T13:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "i-n-no-return-out-now",
+      "rank": 20,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-17T09:23:32Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-17T10:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-17T11:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-17T12:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-17T13:23:34Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -15,
+      "is_new": false,
+      "topic": "I.N NO RETURN OUT NOW",
+      "description": "Fans are sharing excitement over Stray Kids member I.N releasing his new self-composed track titled NO RETURN.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/I.N%20NO%20RETURN%20OUT%20NOW",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.fWqCgttXuGgM3GIaS6pBJAHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T09:23:32Z",
+      "first_seen": "2026-11-17T09:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-17T13:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     }
