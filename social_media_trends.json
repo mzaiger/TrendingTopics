@@ -1,27 +1,65 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-17T01:25:24Z",
+  "updated": "2026-11-17T02:25:47Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "wweraw",
+      "id": "ravens",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-17T01:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Ravens",
+      "description": "The Baltimore Ravens are trending due to their Monday Night Football matchup against the Los Angeles Chargers and ongoing local transit delays affecting fans.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Ravens",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JjjXi3jN5XDNxKa3Yc3PiAAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T01:23:36Z",
+      "first_seen": "2026-11-17T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wweraw",
+      "rank": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-17T01:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "#WWERaw",
-      "description": "WWE Raw is trending as anticipation builds for live match results, upcoming events in Inglewood, and the return of John Cena.",
+      "description": "WWE Raw is trending following the latest episode featuring the return of John Cena and the buildup to the upcoming WarGames matches.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23WWERaw",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.vkTab_d-Ma0d4jR2CBqBFAHaFU&pid=15.1",
@@ -30,7 +68,7 @@
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -38,100 +76,8 @@
       "extra": {}
     },
     {
-      "id": "bond",
-      "rank": 2,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-16T20:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-16T21:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-16T22:23:46Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-16T23:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 2
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Bond",
-      "description": "James Bond is trending amid conflicting media reports and news announcements regarding Robert Pattinson reportedly taking over the 007 role from Daniel Craig.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Bond",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.KMdCbfSDOfaZUEiGgX6Dog&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T16:23:38Z",
-      "first_seen": "2026-11-16T16:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "united-airlines",
-      "rank": 3,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-16T22:23:46Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-16T23:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "United Airlines",
-      "description": "United Airlines is trending after a widespread system outage caused a brief nationwide ground stop and delayed departing flights.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/United%20Airlines",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.npIg9aT9m57x2duIC4ueIwHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T22:23:46Z",
-      "first_seen": "2026-11-16T22:23:46Z",
-      "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "chargers",
-      "rank": 4,
+      "rank": 3,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -142,9 +88,13 @@
         {
           "t": "2026-11-17T01:23:36Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": -1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Chargers",
       "description": "The Chargers are trending as they prepare to face the Baltimore Ravens on Monday Night Football, with recent updates on team inactives.",
@@ -156,7 +106,7 @@
       "started_trending": "2026-11-17T00:23:36Z",
       "first_seen": "2026-11-17T00:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -164,29 +114,223 @@
       "extra": {}
     },
     {
-      "id": "ravens",
+      "id": "bond",
+      "rank": 4,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-11-16T21:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-16T22:23:46Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-16T23:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-17T00:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-17T01:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 4
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Bond",
+      "description": "Speculation regarding the next actor to play James Bond has dominated social media, with conflicting reports circulating about Robert Pattinson's potential casting.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bond",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.KMdCbfSDOfaZUEiGgX6Dog&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T16:23:38Z",
+      "first_seen": "2026-11-16T16:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "derrick-henry",
       "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-11-17T01:23:36Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
           "r": 5
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ravens",
-      "description": "The Baltimore Ravens are trending ahead of their Monday Night Football matchup against the Los Angeles Chargers.",
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Derrick Henry",
+      "description": "Derrick Henry is trending for his performance in the Ravens' Monday Night Football game against the Chargers, including a notable touchdown run.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ravens",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JjjXi3jN5XDNxKa3Yc3PiAAAAA&pid=15.1",
+      "url": "https://sotwe.com/search/Derrick%20Henry",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.qFjp9YxMCvPLF24R6HyLNg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jacoby-brissett",
+      "rank": 6,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-17T01:23:36Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "Jacoby Brissett",
+      "description": "Ravens quarterback Jacoby Brissett is trending as he attempts to lead the team against the Chargers and potentially make NFL history.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jacoby%20Brissett",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.5ia048BSOtaqVaw8u6fS0g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T01:23:36Z",
+      "first_seen": "2026-11-17T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "justin-herbert",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Justin Herbert",
+      "description": "Chargers quarterback Justin Herbert is trending after scoring a 22-yard touchdown run during the Monday Night Football game against the Ravens.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Justin%20Herbert",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.QacdeUqpXsFrTu80LMCPsAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "united-airlines",
+      "rank": 8,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-16T22:23:46Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-16T23:23:36Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-17T00:23:36Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-17T01:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "United Airlines",
+      "description": "United Airlines is trending after a widespread system outage caused a nationwide ground stop and significant flight delays for passengers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/United%20Airlines",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.npIg9aT9m57x2duIC4ueIwHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-16T22:23:46Z",
+      "first_seen": "2026-11-16T22:23:46Z",
+      "published": null,
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "becky",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Becky",
+      "description": "Becky Lynch is trending on social media after she and Charlotte Flair mocked Liv Morgan's catchphrase.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Becky",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.wsCBBoqENVAWVKNDxjTjJgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -195,17 +339,21 @@
     },
     {
       "id": "la-knight",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 10,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-17T01:23:36Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 10
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "LA Knight",
       "description": "LA Knight is trending as search terms overlap between unrelated topics including Olympic cricket qualification for LA 2028, Renaissance festivals, and James Bond casting news.",
       "description_source": "gemini",
@@ -216,7 +364,7 @@
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -224,109 +372,29 @@
       "extra": {}
     },
     {
-      "id": "robert-pattinson",
-      "rank": 7,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-16T21:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-16T22:23:46Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-16T23:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Robert Pattinson",
-      "description": "Robert Pattinson is generating heavy social media discussion after being officially named as the next actor to play James Bond.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Robert%20Pattinson",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.P8ImnNwyS14kJQewpdRYSw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T21:23:33Z",
-      "first_seen": "2026-11-16T21:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "monday-night-football",
-      "rank": 8,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 8,
-      "is_new": false,
-      "topic": "Monday Night Football",
-      "description": "Monday Night Football is trending as fans look up viewing details, predictions, and game odds for the matchup between the Los Angeles Chargers and the Baltimore Ravens.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Monday%20Night%20Football",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.2YuCU6gD432KbtNtwNoaLA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T00:23:36Z",
-      "first_seen": "2026-11-17T00:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "grambling",
-      "rank": 9,
+      "id": "mark-andrews",
+      "rank": 11,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 9
+          "t": "2026-11-17T02:23:35Z",
+          "r": 11
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Grambling",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Grambling",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.NIieqdBzLC1sZGPyE7v64wHaEO&pid=15.1",
+      "topic": "Mark Andrews",
+      "description": "Ravens tight end Mark Andrews is trending as fans and fantasy football players monitor his status while he plays through a broken hand injury.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mark%20Andrews",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xG4ORGz43lpPzwZWZf1gEgHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T01:23:36Z",
-      "first_seen": "2026-11-17T01:23:36Z",
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -334,121 +402,29 @@
       "extra": {}
     },
     {
-      "id": "sean-connery",
-      "rank": 10,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-16T20:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-16T21:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-16T22:23:46Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-16T23:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Sean Connery",
-      "description": "Sean Connery is trending as media outlets compare past James Bond actors in order following the latest casting news for the 007 franchise.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Sean%20Connery",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.yfpNBCslTjzlitZFKGJuJgHaLH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T17:23:35Z",
-      "first_seen": "2026-11-16T17:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chase",
-      "rank": 11,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-16T22:23:46Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-16T23:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Chase",
-      "description": "Chase is trending on social media after a temporary technical issue and software bug at JPMorgan Chase disrupted online banking and transactions for major U.S. banks.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Chase",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.CIHh1lIPOLOpq0-gKOqfvwHaFw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-16T22:23:46Z",
-      "first_seen": "2026-11-16T22:23:46Z",
-      "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "the-miz",
+      "id": "liv-morgan",
       "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T01:23:36Z",
+          "t": "2026-11-17T02:23:35Z",
           "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "The Miz",
-      "description": "The Miz is trending alongside the latest spoiler lineups, match cards, and backstage notes for the upcoming episode of WWE Raw.",
+      "topic": "Liv Morgan",
+      "description": "WWE star Liv Morgan is trending after Becky Lynch and Charlotte Flair mocked her catchphrase and following her announcement for the John Cena Classic.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/The%20Miz",
-      "image_url": "https://ts3.explicit.bing.net/th?id=OIP.JebfAu1pINUyego8CtCxawHaJU&pid=15.1",
+      "url": "https://sotwe.com/search/Liv%20Morgan",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.VFdbBVgVn0b3Ax9nJj6arwHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T01:23:36Z",
-      "first_seen": "2026-11-17T01:23:36Z",
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -456,79 +432,59 @@
       "extra": {}
     },
     {
-      "id": "wells-fargo",
+      "id": "john-cena",
       "rank": 13,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-16T20:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-16T21:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-16T22:23:46Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-16T23:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-17T01:23:36Z",
+          "t": "2026-11-17T02:23:35Z",
           "r": 13
         }
       ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Wells Fargo",
-      "description": "Wells Fargo is trending after customers reported service outages and trouble accessing their online accounts due to a technical issue originating at JPMorgan Chase.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "John Cena",
+      "description": "John Cena is trending following his recent appearance on WWE Raw and the ongoing anticipation surrounding the upcoming John Cena Classic event.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Wells%20Fargo",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.119lqEjowqLAjfRCYBRiowHaFj&pid=15.1",
+      "url": "https://sotwe.com/search/John%20Cena",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.BGWjsiZFy9UG5W3bkfz9lgHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T19:23:35Z",
-      "first_seen": "2026-11-16T19:23:35Z",
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "derrick-henry",
+      "id": "tre-harris",
       "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T01:23:36Z",
+          "t": "2026-11-17T02:23:35Z",
           "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Derrick Henry",
-      "description": "Derrick Henry is trending as a top player prop and fantasy football focus ahead of the Monday Night Football game between the Ravens and Chargers.",
+      "topic": "Tre Harris",
+      "description": "Tre Harris is trending after making a highlight-reel fingertip catch for a 31-yard gain during the Chargers vs. Ravens game.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Derrick%20Henry",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.qFjp9YxMCvPLF24R6HyLNg&pid=15.1",
+      "url": "https://sotwe.com/search/Tre%20Harris",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.5eXrdWDT-_6ERAjzl3cEBAAAAA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T01:23:36Z",
-      "first_seen": "2026-11-17T01:23:36Z",
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -536,29 +492,29 @@
       "extra": {}
     },
     {
-      "id": "butch-jones",
+      "id": "diet-coke",
       "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T01:23:36Z",
+          "t": "2026-11-17T02:23:35Z",
           "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Butch Jones",
-      "description": "Butch Jones is trending after Arkansas State University fired its head football coach during his sixth season.",
+      "topic": "Diet Coke",
+      "description": "Diet Coke is trending as fans react to the release of a new Amazon-exclusive collection of Owala tumblers featuring Coca-Cola and Diet Coke branding.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Butch%20Jones",
-      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.H5XRwiCoYrJe2tKho2r7kQHaFs&pid=15.1",
+      "url": "https://sotwe.com/search/Diet%20Coke",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Unphz4M6dle_vXGExyMTAQHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T01:23:36Z",
-      "first_seen": "2026-11-17T01:23:36Z",
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -566,109 +522,59 @@
       "extra": {}
     },
     {
-      "id": "daniel-craig",
+      "id": "lacvsbal",
       "rank": 16,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-16T20:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-16T21:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-16T22:23:46Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-16T23:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-17T01:23:36Z",
+          "t": "2026-11-17T02:23:35Z",
           "r": 16
         }
       ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Daniel Craig",
-      "description": "Daniel Craig is trending as news breaks that Robert Pattinson will succeed him as the next actor to play James Bond.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Daniel%20Craig",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.MKyVWckOCQySOaVvC9zKLwHaEK&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#LACvsBAL",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23LACvsBAL",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.psDynIAP4JYVsAcyZyiWhQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T16:23:38Z",
-      "first_seen": "2026-11-16T16:23:38Z",
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jacoby-brissett",
+      "id": "garza",
       "rank": 17,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T01:23:36Z",
+          "t": "2026-11-17T02:23:35Z",
           "r": 17
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Jacoby Brissett",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Jacoby%20Brissett",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.5ia048BSOtaqVaw8u6fS0g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T01:23:36Z",
-      "first_seen": "2026-11-17T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bank-of-america",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bank of America",
-      "description": "Bank of America is trending as users report online banking outages and trouble accessing accounts following a technical issue at JPMorgan Chase.",
+      "topic": "Garza",
+      "description": "Luka Garza is trending after being named a starter for the Celtics in their game against Orlando.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Bank%20of%20America",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.4vzNvq_I8BHvimsAMwMYWwHaJ4&pid=15.1",
+      "url": "https://sotwe.com/search/Garza",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.iYri0G7XlqGpeAmK3fS4PgHaGg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T01:23:36Z",
-      "first_seen": "2026-11-17T01:23:36Z",
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -677,19 +583,23 @@
     },
     {
       "id": "zay-flowers",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-17T01:23:36Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Zay Flowers",
-      "description": "Zay Flowers is trending as fantasy football players and analysts highlight his matchup outlook for Monday Night Football against the Chargers.",
+      "description": "Zay Flowers is trending for his performance in the Ravens' Monday Night Football game, specifically for a notable toe-tap catch from Jacoby Brissett.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Zay%20Flowers",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.O4FnDOzH3hc-TQjt6Ps4JAHaE8&pid=15.1",
@@ -698,7 +608,7 @@
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
+      "last_seen": "2026-11-17T02:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -706,52 +616,66 @@
       "extra": {}
     },
     {
-      "id": "grammy",
-      "rank": 20,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "id": "the-miz",
+      "rank": 19,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
-          "t": "2026-11-16T20:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-16T21:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-16T22:23:46Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-16T23:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 9
-        },
-        {
           "t": "2026-11-17T01:23:36Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "The Miz",
+      "description": "The Miz is trending after his loss to LA Knight on WWE Raw, which resulted in Knight securing a spot on Team USA for Survivor Series.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/The%20Miz",
+      "image_url": "https://ts3.explicit.bing.net/th?id=OIP.JebfAu1pINUyego8CtCxawHaJU&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T01:23:36Z",
+      "first_seen": "2026-11-17T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "boltup",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T02:23:35Z",
           "r": 20
         }
       ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "Grammy",
-      "description": "The Grammys are trending following the announcement of the 2027 nominations, led by artists like Raye and Rosalia.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Grammy",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.x4Alej61UhlJ1oE36qpyUAHaEL&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BoltUp",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23BoltUp",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.3c6qDIr3Cg6_XM8bNgKlqQHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-16T13:39:54Z",
-      "first_seen": "2026-11-16T13:39:54Z",
+      "started_trending": "2026-11-17T02:23:35Z",
+      "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T01:23:36Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
+      "last_seen": "2026-11-17T02:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
