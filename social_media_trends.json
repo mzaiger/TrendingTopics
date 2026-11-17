@@ -1,57 +1,15 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-17T04:25:30Z",
+  "updated": "2026-11-17T05:24:56Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "ravens",
-      "rank": 1,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-17T02:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T03:23:44Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 1
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Ravens",
-      "description": "The Baltimore Ravens are trending as they face the Los Angeles Chargers in a Week 10 Monday Night Football matchup.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ravens",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JjjXi3jN5XDNxKa3Yc3PiAAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T01:23:36Z",
-      "first_seen": "2026-11-17T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "chargers",
-      "rank": 2,
+      "rank": 1,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -74,12 +32,16 @@
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 1
         }
       ],
-      "rank_change": 1,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Chargers",
-      "description": "Fans on social media are following the action as the Los Angeles Chargers face off against the Baltimore Ravens in a high-stakes Monday Night Football matchup.",
+      "description": "The Los Angeles Chargers are trending after securing their first win of the season by defeating the Baltimore Ravens 23-20 on Monday Night Football.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Chargers",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.gVdxR3Vo2BB1fVQScTs0XA&pid=15.1",
@@ -88,10 +50,56 @@
       "started_trending": "2026-11-17T00:23:36Z",
       "first_seen": "2026-11-17T00:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ravens",
+      "rank": 2,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-17T01:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-17T03:23:44Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-17T04:23:45Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Ravens",
+      "description": "The Baltimore Ravens are trending after suffering their fifth consecutive loss in a 23-20 defeat against the Los Angeles Chargers on Monday night.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Ravens",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JjjXi3jN5XDNxKa3Yc3PiAAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T01:23:36Z",
+      "first_seen": "2026-11-17T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-17T05:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -116,12 +124,16 @@
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 3
         }
       ],
       "rank_change": 16,
       "is_new": false,
       "topic": "Zay Flowers",
-      "description": "Zay Flowers is trending for his performance as a wide receiver for the Ravens during their Monday Night Football game against the Chargers.",
+      "description": "Ravens wide receiver Zay Flowers is trending after a critical late-game fumble, where the ball was stripped by Tarheeb Still, helping the Chargers secure their first win.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Zay%20Flowers",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.O4FnDOzH3hc-TQjt6Ps4JAHaE8&pid=15.1",
@@ -130,49 +142,7 @@
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "wweraw",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-17T01:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-17T02:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T03:23:44Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "#WWERaw",
-      "description": "Wrestling fans on social media are buzzing about the latest WWE Raw results, including John Cena's return and crucial matches securing advantages for Survivor Series WarGames.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23WWERaw",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.vkTab_d-Ma0d4jR2CBqBFAHaFU&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T01:23:36Z",
-      "first_seen": "2026-11-17T01:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -181,7 +151,7 @@
     },
     {
       "id": "derrick-henry",
-      "rank": 5,
+      "rank": 4,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -200,12 +170,16 @@
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 4
         }
       ],
-      "rank_change": 9,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Derrick Henry",
-      "description": "Social media is buzzing as Baltimore Ravens running back Derrick Henry continues to climb the all-time NFL list with multiple touchdown runs against the Chargers.",
+      "description": "Ravens running back Derrick Henry is trending after scoring two rushing touchdowns during the team's Monday night game against the Los Angeles Chargers.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Derrick%20Henry",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.qFjp9YxMCvPLF24R6HyLNg&pid=15.1",
@@ -214,7 +188,7 @@
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -222,8 +196,84 @@
       "extra": {}
     },
     {
-      "id": "herbert",
+      "id": "wweraw",
+      "rank": 5,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-11-17T01:23:36Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-17T02:23:35Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-17T03:23:44Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-17T04:23:45Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "#WWERaw",
+      "description": "WWE Raw is trending following the November 16 episode, which featured IYO Sky winning the Intercontinental title and the return of John Cena.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23WWERaw",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.vkTab_d-Ma0d4jR2CBqBFAHaFU&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T01:23:36Z",
+      "first_seen": "2026-11-17T01:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-17T05:23:31Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lamar",
       "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lamar",
+      "description": "Ravens quarterback Lamar Jackson is trending due to reports that he is expected to miss 6 to 10 weeks following thumb surgery.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Lamar",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.UvoFLoHEpkMkIlrrABurCA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T05:23:31Z",
+      "first_seen": "2026-11-17T05:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-17T05:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "herbert",
+      "rank": 7,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -234,21 +284,25 @@
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 7
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Herbert",
-      "description": "",
-      "description_source": "",
+      "description": "Chargers quarterback Justin Herbert is trending after his performance in the team's win against the Ravens, which included a 22-yard rushing touchdown.",
+      "description_source": "gemini",
       "url": "https://sotwe.com/search/Herbert",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.QacdeUqpXsFrTu80LMCPsAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-17T03:23:44Z",
       "first_seen": "2026-11-17T03:23:44Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -256,29 +310,33 @@
       "extra": {}
     },
     {
-      "id": "mike-mcdaniel",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "boltup",
+      "rank": 8,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-11-17T04:23:45Z",
-          "r": 7
+          "r": 16
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Mike McDaniel",
-      "description": "Social media discussions center around criticism of Justin Herbert's fit in Mike McDaniel's offense as the Chargers face the Ravens on Monday Night Football.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mike%20McDaniel",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Mk2h1WXeRxq4sjQZdyV5gA&pid=15.1",
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "#BoltUp",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23BoltUp",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.GlWWFo_zyOsd3jDwjPV7QgHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-17T04:23:45Z",
       "first_seen": "2026-11-17T04:23:45Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -286,8 +344,46 @@
       "extra": {}
     },
     {
+      "id": "minter",
+      "rank": 9,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-17T03:23:44Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-17T04:23:45Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "Minter",
+      "description": "A.J. Minter is trending due to reports of interest from the Toronto Blue Jays and Texas Rangers regarding the former Mets reliever.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Minter",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.GeBrWzbxljE5Gm3fc4hBpwHaEl&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T03:23:44Z",
+      "first_seen": "2026-11-17T03:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-17T05:23:31Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "brissett",
-      "rank": 8,
+      "rank": 10,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -298,12 +394,16 @@
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 10
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Brissett",
-      "description": "Social media is reacting to Jacoby Brissett's debut performance for the Ravens, where he attempts to make history and steer the team's offense.",
+      "description": "Jacoby Brissett is trending following his debut as the Baltimore Ravens' quarterback in a 23-20 loss to the Los Angeles Chargers.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Brissett",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.8pmEpUUDnFa00o1q9SX8sw&pid=15.1",
@@ -312,7 +412,7 @@
       "started_trending": "2026-11-17T03:23:44Z",
       "first_seen": "2026-11-17T03:23:44Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -320,15 +420,45 @@
       "extra": {}
     },
     {
+      "id": "mike-mcdaniel",
+      "rank": 11,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-17T04:23:45Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 11
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Mike McDaniel",
+      "description": "Miami Dolphins head coach Mike McDaniel is trending after a rival executive suggested that Chargers quarterback Justin Herbert would not be a good fit for his offensive system.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mike%20McDaniel",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Mk2h1WXeRxq4sjQZdyV5gA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T04:23:45Z",
+      "first_seen": "2026-11-17T04:23:45Z",
+      "published": null,
+      "last_seen": "2026-11-17T05:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "bond",
-      "rank": 9,
+      "rank": 12,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
-        {
-          "t": "2026-11-16T22:23:46Z",
-          "r": 1
-        },
         {
           "t": "2026-11-16T23:23:36Z",
           "r": 2
@@ -352,12 +482,16 @@
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 12
         }
       ],
-      "rank_change": -7,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Bond",
-      "description": "Social media is debating conflicting reports and announcements regarding whether Robert Pattinson has officially been cast as the new James Bond.",
+      "description": "The topic of James Bond is trending due to widespread social media speculation and conflicting reports regarding whether actor Robert Pattinson has been cast as the next 007.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Bond",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.KMdCbfSDOfaZUEiGgX6Dog&pid=15.1",
@@ -366,7 +500,7 @@
       "started_trending": "2026-11-16T16:23:38Z",
       "first_seen": "2026-11-16T16:23:38Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 12,
       "volume": "12hr trend",
       "volume_value": 12,
@@ -375,7 +509,7 @@
     },
     {
       "id": "mark-andrews",
-      "rank": 10,
+      "rank": 13,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -390,12 +524,16 @@
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 13
         }
       ],
-      "rank_change": 1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Mark Andrews",
-      "description": "Social media users are praising Baltimore Ravens tight end Mark Andrews after reports revealed he has been playing through a broken hand since Week 3.",
+      "description": "Ravens tight end Mark Andrews is trending after making an impressive diving catch during the Monday night game against the Chargers while reportedly playing through a broken hand.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Mark%20Andrews",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.xG4ORGz43lpPzwZWZf1gEgHaE8&pid=15.1",
@@ -404,7 +542,7 @@
       "started_trending": "2026-11-17T02:23:35Z",
       "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -413,7 +551,7 @@
     },
     {
       "id": "lacvsbal",
-      "rank": 11,
+      "rank": 14,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -428,12 +566,16 @@
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 14
         }
       ],
-      "rank_change": 5,
+      "rank_change": 2,
       "is_new": false,
       "topic": "#LACvsBAL",
-      "description": "Fans are sharing highlights and live reactions on social media as the Los Angeles Chargers and Baltimore Ravens battle on Monday Night Football.",
+      "description": "The Chargers vs. Ravens game is trending after Los Angeles secured their first win of the season in a 23-20 victory on Monday Night Football.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23LACvsBAL",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.psDynIAP4JYVsAcyZyiWhQ&pid=15.1",
@@ -442,7 +584,7 @@
       "started_trending": "2026-11-17T02:23:35Z",
       "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -450,50 +592,24 @@
       "extra": {}
     },
     {
-      "id": "mike-green",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Mike Green",
-      "description": "Social media is highlighting defensive plays as Mike Green records powerful sacks against Justin Herbert during the matchup between the Ravens and Chargers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mike%20Green",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-17T04:23:45Z",
-      "first_seen": "2026-11-17T04:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "hampton",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 15,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -2,
+      "is_new": false,
       "topic": "Hampton",
-      "description": "Social media users are discussing Omarion Hampton's impressive back-to-back runs and close-call touchdown performance for the Los Angeles Chargers.",
+      "description": "Chargers player Omarion Hampton is trending after a standout performance against the Ravens, where he rushed for 105 yards and a touchdown.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Hampton",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.B7Fy276X0HPwLK0AZBaX1QHaE8&pid=15.1",
@@ -502,7 +618,7 @@
       "started_trending": "2026-11-17T04:23:45Z",
       "first_seen": "2026-11-17T04:23:45Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -511,7 +627,7 @@
     },
     {
       "id": "diet-coke",
-      "rank": 14,
+      "rank": 16,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -526,12 +642,16 @@
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 16
         }
       ],
-      "rank_change": 1,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Diet Coke",
-      "description": "Shoppers on social media are excited as Owala brings back its viral Diet Coke and Coca-Cola tumbler collection for holiday shopping.",
+      "description": "Diet Coke is trending because Owala has released a new, viral collection of Coca-Cola and Diet Coke-themed tumblers exclusively on Amazon.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Diet%20Coke",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.Unphz4M6dle_vXGExyMTAQHaHa&pid=15.1",
@@ -540,7 +660,7 @@
       "started_trending": "2026-11-17T02:23:35Z",
       "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -548,63 +668,67 @@
       "extra": {}
     },
     {
-      "id": "minter",
-      "rank": 15,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "id": "mike-green",
+      "rank": 17,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
-          "t": "2026-11-17T03:23:44Z",
-          "r": 16
+          "t": "2026-11-17T04:23:45Z",
+          "r": 12
         },
         {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 15
+          "t": "2026-11-17T05:23:31Z",
+          "r": 17
         }
       ],
-      "rank_change": 1,
+      "rank_change": -5,
       "is_new": false,
-      "topic": "Minter",
-      "description": "A.J. Minter is trending due to reports of interest from the Toronto Blue Jays and Texas Rangers regarding the former Mets reliever.",
+      "topic": "Mike Green",
+      "description": "Ravens player Mike Green is trending after recording two sacks against Chargers quarterback Justin Herbert during their Monday night matchup.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Minter",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.GeBrWzbxljE5Gm3fc4hBpwHaEl&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T03:23:44Z",
-      "first_seen": "2026-11-17T03:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "boltup",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#BoltUp",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23BoltUp",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.GlWWFo_zyOsd3jDwjPV7QgHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/Mike%20Green",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.BbTfQjmF1liQzaY6-a6q5gHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-17T04:23:45Z",
       "first_seen": "2026-11-17T04:23:45Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jakobi-lane",
+      "rank": 18,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-17T04:23:45Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Jakobi Lane",
+      "description": "Ravens wide receiver Ja'Kobi Lane is trending after a 31-yard reception from Jacoby Brissett during the game against the Chargers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jakobi%20Lane",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.oUZKneBIWXFEx3-t7mMkMAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T04:23:45Z",
+      "first_seen": "2026-11-17T04:23:45Z",
+      "published": null,
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -613,92 +737,32 @@
     },
     {
       "id": "melo",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-17T04:23:45Z",
           "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Melo",
-      "description": "Social media users are following basketball highlights, including Kiyan Anthony's standout performance at Madison Square Garden.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Melo",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-17T04:23:45Z",
-      "first_seen": "2026-11-17T04:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "iyo-sky",
-      "rank": 18,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-17T03:23:44Z",
-          "r": 11
         },
         {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Iyo Sky",
-      "description": "Wrestling fans on social media are celebrating Iyo Sky's victory over Raquel Rodriguez to capture the WWE Women's Intercontinental Championship on Raw.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Iyo%20Sky",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.svk1kNbB_QPEwNrgUZ-ASAEsCo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T03:23:44Z",
-      "first_seen": "2026-11-17T03:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jakobi-lane",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T04:23:45Z",
+          "t": "2026-11-17T05:23:31Z",
           "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jakobi Lane",
-      "description": "Fantasy football players and fans on social media are talking about Ja'Kobi Lane after his explosive 31-yard reception from Jacoby Brissett.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Melo",
+      "description": "The term Melo is trending following social media discussions regarding Syracuse basketball player Kiyan Anthony, the son of Carmelo Anthony, after his Madison Square Garden debut.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jakobi%20Lane",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "url": "https://sotwe.com/search/Melo",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.FlxSkdRRfiSFgXaYYALoqgHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-17T04:23:45Z",
       "first_seen": "2026-11-17T04:23:45Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -706,29 +770,29 @@
       "extra": {}
     },
     {
-      "id": "lineoffire",
+      "id": "marlon-humphrey",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T04:23:45Z",
+          "t": "2026-11-17T05:23:31Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#LineOfFire",
-      "description": "Viewers on social media are discussing the latest episodes, previews, and cast interviews for the crime thriller series Line of Fire.",
+      "topic": "Marlon Humphrey",
+      "description": "Ravens cornerback Marlon Humphrey is trending following his participation in the team's Monday night game against the Los Angeles Chargers.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23LineOfFire",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.EuNO1iQ2BE3UqZ_lRRXTtQHaFj&pid=15.1",
+      "url": "https://sotwe.com/search/Marlon%20Humphrey",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.C9AZWHI9K8oVEgNd9gSd-AHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T04:23:45Z",
-      "first_seen": "2026-11-17T04:23:45Z",
+      "started_trending": "2026-11-17T05:23:31Z",
+      "first_seen": "2026-11-17T05:23:31Z",
       "published": null,
-      "last_seen": "2026-11-17T04:23:45Z",
+      "last_seen": "2026-11-17T05:23:31Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
