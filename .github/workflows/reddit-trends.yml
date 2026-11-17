@@ -30,6 +30,7 @@ jobs:
 
       - name: Build reddit_trends.json
         env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
         run: python reddit_trends.py
 
@@ -53,3 +54,4 @@ jobs:
           done
           echo "Could not push after 5 attempts." >&2
           exit 1
+
