@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-17T05:24:56Z",
+  "updated": "2026-11-17T06:25:00Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -13,10 +13,6 @@
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 3
-        },
         {
           "t": "2026-11-17T01:23:36Z",
           "r": 4
@@ -36,6 +32,10 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 1
         }
       ],
       "rank_change": 2,
@@ -50,18 +50,18 @@
       "started_trending": "2026-11-17T00:23:36Z",
       "first_seen": "2026-11-17T00:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ravens",
       "rank": 2,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-17T01:23:36Z",
@@ -82,9 +82,13 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 2
         }
       ],
-      "rank_change": 3,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Ravens",
       "description": "The Baltimore Ravens are trending after suffering their fifth consecutive loss in a 23-20 defeat against the Los Angeles Chargers on Monday night.",
@@ -96,18 +100,18 @@
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "zay-flowers",
       "rank": 3,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-11-17T01:23:36Z",
@@ -128,9 +132,13 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 3
         }
       ],
-      "rank_change": 16,
+      "rank_change": 15,
       "is_new": false,
       "topic": "Zay Flowers",
       "description": "Ravens wide receiver Zay Flowers is trending after a critical late-game fumble, where the ball was stripped by Tarheeb Still, helping the Chargers secure their first win.",
@@ -142,18 +150,18 @@
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "derrick-henry",
       "rank": 4,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-17T01:23:36Z",
@@ -174,12 +182,16 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 4
         }
       ],
-      "rank_change": 10,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Derrick Henry",
-      "description": "Ravens running back Derrick Henry is trending after scoring two rushing touchdowns during the team's Monday night game against the Los Angeles Chargers.",
+      "description": "Derrick Henry is trending after scoring two touchdowns for the Ravens in their game against the Chargers.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Derrick%20Henry",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.qFjp9YxMCvPLF24R6HyLNg&pid=15.1",
@@ -188,18 +200,52 @@
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lamar",
+      "rank": 5,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Lamar",
+      "description": "Lamar Jackson is trending amid reports that he is expected to miss 6 to 10 weeks following thumb surgery.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Lamar",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.UvoFLoHEpkMkIlrrABurCA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T05:23:31Z",
+      "first_seen": "2026-11-17T05:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wweraw",
-      "rank": 5,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "rank": 6,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-17T01:23:36Z",
@@ -220,12 +266,16 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 6
         }
       ],
       "rank_change": -4,
       "is_new": false,
       "topic": "#WWERaw",
-      "description": "WWE Raw is trending following the November 16 episode, which featured IYO Sky winning the Intercontinental title and the return of John Cena.",
+      "description": "WWE Raw is trending following the latest episode where competitors secured WarGames advantages and John Cena returned.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23WWERaw",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.vkTab_d-Ma0d4jR2CBqBFAHaFU&pid=15.1",
@@ -234,40 +284,10 @@
       "started_trending": "2026-11-17T01:23:36Z",
       "first_seen": "2026-11-17T01:23:36Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lamar",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-17T05:23:31Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Lamar",
-      "description": "Ravens quarterback Lamar Jackson is trending due to reports that he is expected to miss 6 to 10 weeks following thumb surgery.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Lamar",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.UvoFLoHEpkMkIlrrABurCA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T05:23:31Z",
-      "first_seen": "2026-11-17T05:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -288,6 +308,10 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 7
         }
       ],
       "rank_change": -1,
@@ -302,50 +326,16 @@
       "started_trending": "2026-11-17T03:23:44Z",
       "first_seen": "2026-11-17T03:23:44Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "boltup",
-      "rank": 8,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-17T05:23:31Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 8,
-      "is_new": false,
-      "topic": "#BoltUp",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23BoltUp",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.GlWWFo_zyOsd3jDwjPV7QgHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T04:23:45Z",
-      "first_seen": "2026-11-17T04:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "minter",
-      "rank": 9,
+      "rank": 8,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -360,12 +350,16 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 8
         }
       ],
-      "rank_change": 7,
+      "rank_change": 8,
       "is_new": false,
       "topic": "Minter",
-      "description": "A.J. Minter is trending due to reports of interest from the Toronto Blue Jays and Texas Rangers regarding the former Mets reliever.",
+      "description": "Jesse Minter is trending after recapping the Ravens' Week 10 loss to the Chargers and facing discussions about reviving the season.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Minter",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.GeBrWzbxljE5Gm3fc4hBpwHaEl&pid=15.1",
@@ -374,7 +368,45 @@
       "started_trending": "2026-11-17T03:23:44Z",
       "first_seen": "2026-11-17T03:23:44Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "boltup",
+      "rank": 9,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-17T04:23:45Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-17T05:23:31Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 7,
+      "is_new": false,
+      "topic": "#BoltUp",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23BoltUp",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.GlWWFo_zyOsd3jDwjPV7QgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T04:23:45Z",
+      "first_seen": "2026-11-17T04:23:45Z",
+      "published": null,
+      "last_seen": "2026-11-17T06:23:41Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -398,6 +430,10 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 10
         }
       ],
       "rank_change": -3,
@@ -412,10 +448,10 @@
       "started_trending": "2026-11-17T03:23:44Z",
       "first_seen": "2026-11-17T03:23:44Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -432,12 +468,16 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 11
         }
       ],
       "rank_change": -4,
       "is_new": false,
       "topic": "Mike McDaniel",
-      "description": "Miami Dolphins head coach Mike McDaniel is trending after a rival executive suggested that Chargers quarterback Justin Herbert would not be a good fit for his offensive system.",
+      "description": "Mike McDaniel is trending as rival executives discuss whether Justin Herbert is a fit in his offense following Chargers struggles.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Mike%20McDaniel",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.Mk2h1WXeRxq4sjQZdyV5gA&pid=15.1",
@@ -446,27 +486,19 @@
       "started_trending": "2026-11-17T04:23:45Z",
       "first_seen": "2026-11-17T04:23:45Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bond",
       "rank": 12,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-11-16T23:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-17T00:23:36Z",
-          "r": 2
-        },
         {
           "t": "2026-11-17T01:23:36Z",
           "r": 2
@@ -486,12 +518,16 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 12
         }
       ],
-      "rank_change": -10,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Bond",
-      "description": "The topic of James Bond is trending due to widespread social media speculation and conflicting reports regarding whether actor Robert Pattinson has been cast as the next 007.",
+      "description": "James Bond is trending on social media following conflicting media reports and announcements regarding Robert Pattinson casting as the new 007.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Bond",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.KMdCbfSDOfaZUEiGgX6Dog&pid=15.1",
@@ -500,10 +536,10 @@
       "started_trending": "2026-11-16T16:23:38Z",
       "first_seen": "2026-11-16T16:23:38Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 12,
-      "volume": "12hr trend",
-      "volume_value": 12,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 14,
+      "volume": "14hr trend",
+      "volume_value": 14,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -528,6 +564,10 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 13
         }
       ],
       "rank_change": -2,
@@ -542,10 +582,10 @@
       "started_trending": "2026-11-17T02:23:35Z",
       "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -570,6 +610,10 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 14
         }
       ],
       "rank_change": 2,
@@ -584,10 +628,10 @@
       "started_trending": "2026-11-17T02:23:35Z",
       "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -604,12 +648,16 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 15
         }
       ],
       "rank_change": -2,
       "is_new": false,
       "topic": "Hampton",
-      "description": "Chargers player Omarion Hampton is trending after a standout performance against the Ravens, where he rushed for 105 yards and a touchdown.",
+      "description": "Omarion Hampton is trending after rushing for a season-best 105 yards and a touchdown in the Chargers' win against the Ravens.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Hampton",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.B7Fy276X0HPwLK0AZBaX1QHaE8&pid=15.1",
@@ -618,10 +666,10 @@
       "started_trending": "2026-11-17T04:23:45Z",
       "first_seen": "2026-11-17T04:23:45Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -646,6 +694,10 @@
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 16
         }
       ],
       "rank_change": -1,
@@ -660,41 +712,37 @@
       "started_trending": "2026-11-17T02:23:35Z",
       "first_seen": "2026-11-17T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mike-green",
+      "id": "kerch",
       "rank": 17,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-17T05:23:31Z",
+          "t": "2026-11-17T06:23:41Z",
           "r": 17
         }
       ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Mike Green",
-      "description": "Ravens player Mike Green is trending after recording two sacks against Chargers quarterback Justin Herbert during their Monday night matchup.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Kerch",
+      "description": "The Kerch Strait Bridge is trending after being struck and damaged by Ukrainian drones in what is described as a major attack.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mike%20Green",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.BbTfQjmF1liQzaY6-a6q5gHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/Kerch",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.dODKvv01dObchwsaapkipgHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T04:23:45Z",
-      "first_seen": "2026-11-17T04:23:45Z",
+      "started_trending": "2026-11-17T06:23:41Z",
+      "first_seen": "2026-11-17T06:23:41Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
+      "last_seen": "2026-11-17T06:23:41Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -702,67 +750,29 @@
       "extra": {}
     },
     {
-      "id": "jakobi-lane",
+      "id": "nuggets",
       "rank": 18,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-17T05:23:31Z",
+          "t": "2026-11-17T06:23:41Z",
           "r": 18
         }
       ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Jakobi Lane",
-      "description": "Ravens wide receiver Ja'Kobi Lane is trending after a 31-yard reception from Jacoby Brissett during the game against the Chargers.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Nuggets",
+      "description": "The Denver Nuggets are trending after suffering a home loss to the Phoenix Suns amid shooting, rebounding, and foul trouble issues.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jakobi%20Lane",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.oUZKneBIWXFEx3-t7mMkMAHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/Nuggets",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.XZddP9Wp7BhUQvC7EnCVIQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-17T04:23:45Z",
-      "first_seen": "2026-11-17T04:23:45Z",
+      "started_trending": "2026-11-17T06:23:41Z",
+      "first_seen": "2026-11-17T06:23:41Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "melo",
-      "rank": 19,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-17T04:23:45Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-17T05:23:31Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Melo",
-      "description": "The term Melo is trending following social media discussions regarding Syracuse basketball player Kiyan Anthony, the son of Carmelo Anthony, after his Madison Square Garden debut.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Melo",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.FlxSkdRRfiSFgXaYYALoqgHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-17T04:23:45Z",
-      "first_seen": "2026-11-17T04:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
+      "last_seen": "2026-11-17T06:23:41Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -771,19 +781,23 @@
     },
     {
       "id": "marlon-humphrey",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
         {
           "t": "2026-11-17T05:23:31Z",
           "r": 20
+        },
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Marlon Humphrey",
-      "description": "Ravens cornerback Marlon Humphrey is trending following his participation in the team's Monday night game against the Los Angeles Chargers.",
+      "description": "Marlon Humphrey is trending after analyzing the Ravens' struggles against the Chargers and catching a hot mic stray from a fan during the game.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Marlon%20Humphrey",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.C9AZWHI9K8oVEgNd9gSd-AHaEK&pid=15.1",
@@ -792,7 +806,37 @@
       "started_trending": "2026-11-17T05:23:31Z",
       "first_seen": "2026-11-17T05:23:31Z",
       "published": null,
-      "last_seen": "2026-11-17T05:23:31Z",
+      "last_seen": "2026-11-17T06:23:41Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "optimizely",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-17T06:23:41Z",
+          "r": 20
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Optimizely",
+      "description": "Optimizely is trending following a supply-chain attack that hidden malware in its code, impacting major websites like CNN, Fox News, and the BBC.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Optimizely",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.XIgEI5cNvul6az7bkNyVZQHaEa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-17T06:23:41Z",
+      "first_seen": "2026-11-17T06:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-17T06:23:41Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
