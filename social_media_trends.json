@@ -1,22 +1,132 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-18T11:25:11Z",
+  "updated": "2026-11-18T12:25:23Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "grimes",
+      "id": "gta-6",
       "rank": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-18T11:23:32Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "GTA 6",
+      "description": "GTA 6 is trending as major gaming publications and critics release glowing reviews, praising it as one of the most impressive and best-rated video games of all time ahead of its release.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/GTA%206",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.0cwosPU7rnA2VKdyu5ZsBQHaDt&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T11:23:32Z",
+      "first_seen": "2026-11-18T11:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "new-zealand",
+      "rank": 2,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-18T08:23:43Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-18T09:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-18T10:23:33Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-18T11:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 16,
+      "is_new": false,
+      "topic": "New Zealand",
+      "description": "New Zealand is trending on social media as gamers discuss the release time for GTA 6, with fans celebrating or urging caution over using regional tricks to play the game early.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/New%20Zealand",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.XsTLOAsjRPsN6pJTyh29jAHaEt&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T08:23:43Z",
+      "first_seen": "2026-11-18T08:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "good-wednesday",
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-18T11:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Good Wednesday",
+      "description": "Good Wednesday is trending as local weather forecasts, morning editions, and sports updates share news for the day, including player availability updates.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Good%20Wednesday",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.IKmgC9Wd3LmjnSY2WAB0ywHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T11:23:32Z",
+      "first_seen": "2026-11-18T11:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "grimes",
+      "rank": 4,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-11-18T06:23:32Z",
-          "r": 1
-        },
         {
           "t": "2026-11-18T07:23:33Z",
           "r": 1
@@ -36,12 +146,16 @@
         {
           "t": "2026-11-18T11:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 4
         }
       ],
-      "rank_change": 0,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Grimes",
-      "description": "Quentin Grimes is trending on social media after scoring 47 points to lead the Los Angeles Lakers past the Charlotte Hornets in overtime.",
+      "description": "Quentin Grimes is trending on social media after scoring 47 points, hitting a game-winner, and leading the Los Angeles Lakers past the Charlotte Hornets in overtime.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Grimes",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.c3qTldmRAXCmWLWKSd9jwA&pid=15.1",
@@ -50,79 +164,45 @@
       "started_trending": "2026-11-18T06:23:32Z",
       "first_seen": "2026-11-18T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gta-6",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "gtavi",
+      "rank": 5,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
       "rank_history": [
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 2
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "GTA 6",
-      "description": "Grand Theft Auto 6 is dominating social media discussions as critics publish glowing reviews praising its open world and gameplay.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/GTA%206",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.0cwosPU7rnA2VKdyu5ZsBQHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T11:23:32Z",
-      "first_seen": "2026-11-18T11:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "new-zealand",
-      "rank": 3,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-18T08:23:43Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-18T09:23:35Z",
-          "r": 10
-        },
         {
           "t": "2026-11-18T10:23:33Z",
-          "r": 7
+          "r": 20
         },
         {
           "t": "2026-11-18T11:23:32Z",
-          "r": 3
+          "r": 11
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 5
         }
       ],
       "rank_change": 15,
       "is_new": false,
-      "topic": "New Zealand",
-      "description": "New Zealand is trending on social media as gamers discuss regional release timing strategies and the country's official tourist board celebrates the attention.",
+      "topic": "#GTAVI",
+      "description": "The hashtag GTAVI is trending as reviews flood in praising Grand Theft Auto VI, while the Miami Heat wear special Vice City jerseys to celebrate the game's launch.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/New%20Zealand",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.XsTLOAsjRPsN6pJTyh29jAHaEt&pid=15.1",
+      "url": "https://sotwe.com/search/%23GTAVI",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.J5PEtdTJHZB/84KtKTRQ/g&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-18T08:23:43Z",
-      "first_seen": "2026-11-18T08:23:43Z",
+      "started_trending": "2026-11-18T10:23:33Z",
+      "first_seen": "2026-11-18T10:23:33Z",
       "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
+      "last_seen": "2026-11-18T12:23:34Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -130,38 +210,114 @@
       "extra": {}
     },
     {
-      "id": "good-wednesday",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "hump-day",
+      "rank": 6,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-18T10:23:33Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-18T11:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Hump Day",
+      "description": "Hump Day is trending as social media users share daily weather updates, sunshine forecasts, and entertainment industry earnings reports.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Hump%20Day",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.IfqisBYb4Jm52-JiCRSbpwHaHi&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T10:23:33Z",
+      "first_seen": "2026-11-18T10:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "metacritic",
+      "rank": 7,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-18T11:23:32Z",
-          "r": 4
+          "r": 17
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Good Wednesday",
-      "description": "Good Wednesday is trending on social media alongside local morning updates and sports availability news for athletes like Pelle Larsson.",
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Metacritic",
+      "description": "Metacritic is trending because early review scores for GTA 6 have tied all-time records, making it one of the highest-scoring video games in history on the platform.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Good%20Wednesday",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "url": "https://sotwe.com/search/Metacritic",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.RvQheZBI9AV2B2fZC4ZX9QHaDM&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-18T11:23:32Z",
       "first_seen": "2026-11-18T11:23:32Z",
       "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-hump",
+      "rank": 8,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-18T11:23:32Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Happy Hump",
+      "description": "Happy Hump is trending alongside discussions of entertainment industry earnings reports, weather forecasts, and political commentary.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Happy%20Hump",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.WVN-unn6wOEFelyw2polwQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T11:23:32Z",
+      "first_seen": "2026-11-18T11:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lakers",
-      "rank": 5,
+      "rank": 9,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -184,12 +340,16 @@
         {
           "t": "2026-11-18T11:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": -3,
+      "rank_change": -7,
       "is_new": false,
       "topic": "Lakers",
-      "description": "The Lakers are trending on social media following their overtime victory against the Charlotte Hornets, fueled by Quentin Grimes's 47-point performance.",
+      "description": "The Lakers are trending after defeating the Charlotte Hornets 118-114 in overtime, powered by Quentin Grimes' 47-point performance.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Lakers",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.mU8M6QbtI1GC/uunkjRw6Q&pid=15.1",
@@ -198,27 +358,49 @@
       "started_trending": "2026-11-18T07:23:33Z",
       "first_seen": "2026-11-18T07:23:33Z",
       "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "wednesdaymotivation",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#WednesdayMotivation",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23WednesdayMotivation",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.RFCwec0eAzU9bkuNOPMAUwHaKI&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T12:23:34Z",
+      "first_seen": "2026-11-18T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "hornets",
-      "rank": 6,
+      "rank": 11,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-18T06:23:32Z",
-          "r": 3
-        },
         {
           "t": "2026-11-18T07:23:33Z",
           "r": 3
@@ -238,12 +420,16 @@
         {
           "t": "2026-11-18T11:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 11
         }
       ],
-      "rank_change": -3,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Hornets",
-      "description": "The Hornets are trending on social media after a hard-fought 118-114 overtime loss to the Los Angeles Lakers.",
+      "description": "The Hornets are trending following their 118-114 overtime loss to the Los Angeles Lakers after Quentin Grimes scored 47 points.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Hornets",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.y1MFyd49KvXzN7NcbMtm9Q&pid=15.1",
@@ -252,16 +438,46 @@
       "started_trending": "2026-11-18T05:23:48Z",
       "first_seen": "2026-11-18T05:23:48Z",
       "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rayados",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Rayados",
+      "description": "Rayados is trending due to sports reports discussing potential roster changes and stadium preparations ahead of upcoming matches.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Rayados",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.zFFAqm9gnaj8nimQiC1TQgHaEb&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T12:23:34Z",
+      "first_seen": "2026-11-18T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "charles-lee",
-      "rank": 7,
+      "rank": 13,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -284,12 +500,16 @@
         {
           "t": "2026-11-18T11:23:32Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 13
         }
       ],
-      "rank_change": -3,
+      "rank_change": -9,
       "is_new": false,
       "topic": "Charles Lee",
-      "description": "Hornets coach Charles Lee is facing heavy backlash and questioning on social media from fans after controversial decisions and player minute restrictions during the loss to the Lakers.",
+      "description": "Coach Charles Lee is trending on social media as Charlotte Hornets fans call for his firing and criticize his player minutes restrictions following a loss to the Lakers.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Charles%20Lee",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.2wrPuNar64Xqt-67GNNdKwHaET&pid=15.1",
@@ -298,37 +518,37 @@
       "started_trending": "2026-11-18T07:23:33Z",
       "first_seen": "2026-11-18T07:23:33Z",
       "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "happy-hump",
-      "rank": 8,
+      "id": "apec",
+      "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 8
+          "t": "2026-11-18T12:23:34Z",
+          "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Happy Hump",
-      "description": "The phrase is trending on social media following commentary regarding an anti-woke figure and James Bond.",
+      "topic": "APEC",
+      "description": "The APEC summit is trending as world leaders, including China's Xi Jinping and Russia's Putin, address open trade, sanctions, and a multipolar world as President Trump arrives in China.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Happy%20Hump",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.WVN-unn6wOEFelyw2polwQHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/APEC",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.zo41qGD8RKn0DvHEQTLiagHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-18T11:23:32Z",
-      "first_seen": "2026-11-18T11:23:32Z",
+      "started_trending": "2026-11-18T12:23:34Z",
+      "first_seen": "2026-11-18T12:23:34Z",
       "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
+      "last_seen": "2026-11-18T12:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -336,8 +556,136 @@
       "extra": {}
     },
     {
+      "id": "prufrock",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Prufrock",
+      "description": "Prufrock is trending following newly released records detailing the progress of Boring Company tunneling projects in Nashville.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Prufrock",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.93DOygH8izQjA_po2KWtWwHaEJ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T12:23:34Z",
+      "first_seen": "2026-11-18T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lucia",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lucia",
+      "description": "Lucia is trending as reviewers highlight her role alongside Jason as the emotional heart and central characters of the newly reviewed Grand Theft Auto VI.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Lucia",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.2Bnf0C3g10RGhqLBmnn/bg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T12:23:34Z",
+      "first_seen": "2026-11-18T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "xbox",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Xbox",
+      "description": "Xbox is trending as players discuss console performance, technical specs like upscaling for GTA 6, and console deals ahead of the game's launch.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Xbox",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.w9mxQe_8n2yYJXlt5Yq1kQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T12:23:34Z",
+      "first_seen": "2026-11-18T12:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "shenzhen",
+      "rank": 18,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-18T10:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-18T11:23:32Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Shenzhen",
+      "description": "Shenzhen is trending as it hosts high-profile meetings between Donald Trump, Xi Jinping, and Vladimir Putin, highlighting the city's technological and political significance.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Shenzhen",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.88kWeDT0dOO8EnrAxpjzUwHaFc&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T10:23:33Z",
+      "first_seen": "2026-11-18T10:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-18T12:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "lakeshow",
-      "rank": 9,
+      "rank": 19,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -360,12 +708,16 @@
         {
           "t": "2026-11-18T11:23:32Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-18T12:23:34Z",
+          "r": 19
         }
       ],
-      "rank_change": -4,
+      "rank_change": -14,
       "is_new": false,
       "topic": "#LakeShow",
-      "description": "The Lakers are generating buzz on social media as fans discuss the team's high position in recent NBA power rankings.",
+      "description": "The hashtag LakeShow is trending alongside social media discussions of NBA power rankings, sports updates, and regional news events.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23LakeShow",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.H3N3ksx5ThUPAhCQ9bTpSQ&pid=15.1",
@@ -374,297 +726,7 @@
       "started_trending": "2026-11-18T07:23:33Z",
       "first_seen": "2026-11-18T07:23:33Z",
       "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "brandon-miller",
-      "rank": 10,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-18T07:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-18T08:23:43Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-18T09:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-18T10:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Brandon Miller",
-      "description": "Brandon Miller is trending on social media after scoring a team-high 28 points for the Hornets in their overtime matchup against the Lakers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Brandon%20Miller",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.rMIqtnmBmDQIJzl-gOIxDQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T07:23:33Z",
-      "first_seen": "2026-11-18T07:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gtavi",
-      "rank": 11,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-11-18T10:23:33Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 9,
-      "is_new": false,
-      "topic": "#GTAVI",
-      "description": "Grand Theft Auto VI is generating massive social media buzz as critics and reviewers share praise for its expansive world and storytelling.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23GTAVI",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.J5PEtdTJHZB/84KtKTRQ/g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T10:23:33Z",
-      "first_seen": "2026-11-18T10:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "hump-day",
-      "rank": 12,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-18T10:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Hump Day",
-      "description": "Weather discussions are trending on social media as users share updates on fair conditions and warming temperatures ahead of Thanksgiving week.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Hump%20Day",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.IfqisBYb4Jm52-JiCRSbpwHaHi&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T10:23:33Z",
-      "first_seen": "2026-11-18T10:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dwts",
-      "rank": 13,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-18T06:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-18T07:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-18T08:23:43Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-18T09:23:35Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-18T10:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "#dwts",
-      "description": "Dancing with the Stars is trending on social media following a shocking semifinals elimination that left five couples heading to the finale.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23dwts",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.qTGfd8rQYTZshSQhn6H9WgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T01:23:43Z",
-      "first_seen": "2026-11-18T01:23:43Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "coby-white",
-      "rank": 14,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-18T10:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Coby White",
-      "description": "Coby White is trending on social media after scoring 19 points and hitting deep three-pointers in an overtime defeat.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Coby%20White",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.m1O1V3Km9WCDMBsangiAEwHaEM&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T10:23:33Z",
-      "first_seen": "2026-11-18T10:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "shenzhen",
-      "rank": 15,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-18T10:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Shenzhen",
-      "description": "Shenzhen is trending on social media as Chinese President Xi Jinping greets U.S. President Donald Trump for high-profile meetings following talks with Russia.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Shenzhen",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.88kWeDT0dOO8EnrAxpjzUwHaFc&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T10:23:33Z",
-      "first_seen": "2026-11-18T10:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "naz-reid",
-      "rank": 16,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-18T06:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-18T07:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-18T08:23:43Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-18T09:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-18T10:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Naz Reid",
-      "description": "Naz Reid is trending on social media after putting up 23 points and hitting deep shots during an overtime loss to the Lakers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Naz%20Reid",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.gkwKf7akrQ5_DDCHiZFkxAAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T05:23:48Z",
-      "first_seen": "2026-11-18T05:23:48Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
+      "last_seen": "2026-11-18T12:23:34Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -672,135 +734,29 @@
       "extra": {}
     },
     {
-      "id": "metacritic",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Metacritic",
-      "description": "Metacritic is trending on social media as Grand Theft Auto 6 achieves historic review scores, tying for the highest-rated game ever on the platform.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Metacritic",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.RvQheZBI9AV2B2fZC4ZX9QHaDM&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T11:23:32Z",
-      "first_seen": "2026-11-18T11:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "philippines",
-      "rank": 18,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-18T09:23:35Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-18T10:23:33Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Philippines",
-      "description": "The Philippines is trending on social media after President Trump announced a major trade deal and met with the country's leader during his trip.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Philippines",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Bv_trHC_rWOnlQ5GjfOtvQHaE5&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T09:23:35Z",
-      "first_seen": "2026-11-18T09:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mary-peltola",
-      "rank": 19,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-18T09:23:35Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-18T10:23:33Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-18T11:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Mary Peltola",
-      "description": "Mary Peltola is trending on social media after flipping an Alaska U.S. Senate seat for the Democrats by defeating incumbent Dan Sullivan.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mary%20Peltola",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.gJvgp7Y/S8t23t09updgpA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T09:23:35Z",
-      "first_seen": "2026-11-18T09:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "qg842",
+      "id": "xi-jinping",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-18T11:23:32Z",
+          "t": "2026-11-18T12:23:34Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#QG842",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23QG842",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.JCaRJQB4nFlissnwVqBLJA&pid=15.1",
+      "topic": "Xi Jinping",
+      "description": "Xi Jinping is trending as he hosts international leaders, including Donald Trump and Vladimir Putin, during high-profile diplomatic meetings and the APEC summit in China.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Xi%20Jinping",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.bW5qCWYE8lVcAH1vGVtACwHaJg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-18T11:23:32Z",
-      "first_seen": "2026-11-18T11:23:32Z",
+      "started_trending": "2026-11-18T12:23:34Z",
+      "first_seen": "2026-11-18T12:23:34Z",
       "published": null,
-      "last_seen": "2026-11-18T11:23:32Z",
+      "last_seen": "2026-11-18T12:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
