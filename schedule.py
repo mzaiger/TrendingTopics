@@ -7,7 +7,7 @@ module "is a run due?" and exits early (free, no Apify call) when it is not. The
 things that change the monthly bill:
 
   * which Twitter/X actor is working   "primary" (cheap) or "fallback" (about 8x the price per run)
-  * where Reddit's data came from      "rss" (free), "apify2" (4-hourly), "apify3" (8-hourly, dearest)
+  * where Reddit's data came from      "rss" (free), "apify2" (6-hourly), "apify3" (8-hourly, dearest)
 
 For each of the 6 combinations the interval is the FASTEST one in INTERVALS whose total monthly cost
 (Twitter + Reddit) is at most BUDGET - MARGIN. Run `python schedule.py` to print the matrix.
@@ -35,7 +35,7 @@ TWITTER_RUN = {
 }
 REDDIT_MONTH = {
     "rss": 0.0,
-    "apify2": (24 / 4) * DAYS * POSTS * 0.0005,        # dami_studio: $0.50 per 1,000, every 4 hours
+    "apify2": (24 / 6) * DAYS * POSTS * 0.001,         # thirdwatch: $1.00 per 1,000, every 6 hours
     "apify3": (24 / 8) * DAYS * (0.005 + POSTS * 0.0015),  # harshmaur pro: start + $0.0015 per post, every 8 hours
 }
 TWITTER_STATES = ("primary", "fallback")
