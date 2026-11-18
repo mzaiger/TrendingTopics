@@ -4,7 +4,7 @@ Reddit popular posts (public RSS feed, Apify fallback) -> reddit_trends.json
 
   * Source: the public r/popular RSS feed, every run (free). Reddit ends RSS support on 13 Nov 2026.
     When the feed fails or comes back empty, the same top 25 come from an Apify Reddit actor instead:
-      2nd tier  dami_studio/reddit-scraper, at most once every 4 hours (REDDIT_APIFY_EVERY_HOURS);
+      2nd tier  thirdwatch/reddit-scraper, at most once every 6 hours (REDDIT_APIFY_EVERY_HOURS);
       3rd tier  harshmaur/reddit-scraper-pro ("No RSS"), at most once every 8 hours
                 (REDDIT_APIFY3_EVERY_HOURS), tried only when the 2nd tier has just failed.
     In between, the JSON is left as it is. When each tier last ran is kept in the JSON.
@@ -20,8 +20,8 @@ Reddit popular posts (public RSS feed, Apify fallback) -> reddit_trends.json
 
 Env vars:
   APIFY_TOKEN        needed only for the Apify fallback (same secret as social media)
-  REDDIT_APIFY_ACTOR optional, fallback actor id (default dami_studio~reddit-scraper, $0.50 per 1,000 posts)
-  REDDIT_APIFY_EVERY_HOURS  optional, minimum hours between Apify runs (default 4)
+  REDDIT_APIFY_ACTOR optional, fallback actor id (default thirdwatch~reddit-scraper, about $1 per 1,000 posts)
+  REDDIT_APIFY_EVERY_HOURS  optional, minimum hours between Apify runs (default 6)
   REDDIT_APIFY_MAX_CHARGE_USD  optional, spending cap per 2nd-tier run (default 0.05)
   REDDIT_APIFY3_ACTOR / REDDIT_APIFY3_EVERY_HOURS / REDDIT_APIFY3_MAX_CHARGE_USD  optional, 3rd tier
   (defaults harshmaur~reddit-scraper-pro / 8 / 0.08)
@@ -58,12 +58,12 @@ OUT_FILE = os.environ.get("OUT_FILE", "reddit_trends.json")
 APIFY_TOKEN = os.environ.get("APIFY_TOKEN")
 # Fallback tiers, tried in order when the RSS feed fails. Each tier has its own minimum gap between runs
 # (so the credit lasts) and a hard spending cap per run.
-#   2nd: dami_studio, $0.50 per 1,000 posts, at most every 4 hours. Its keyless mode reads Reddit's
-#        public feed, so it may stop working when Reddit ends RSS on 13 Nov 2026.
+#   2nd: thirdwatch, $1.00 per 1,000 posts, at most every 6 hours. It reads Reddit's
+#        anonymous OAuth API, so it does not depend on RSS. Not every run returns all 25 (19 in testing).
 #   3rd: harshmaur "No RSS" actor (advertised as RSS-free), about $0.0425 a run (start $0.005 + 25 x
 #        $0.0015), at most every 8 hours, and only when the 2nd tier has just failed.
-APIFY_REDDIT_ACTOR = os.environ.get("REDDIT_APIFY_ACTOR", "dami_studio~reddit-scraper")
-APIFY_EVERY_HOURS = float(os.environ.get("REDDIT_APIFY_EVERY_HOURS", "4"))
+APIFY_REDDIT_ACTOR = os.environ.get("REDDIT_APIFY_ACTOR", "thirdwatch~reddit-scraper")
+APIFY_EVERY_HOURS = float(os.environ.get("REDDIT_APIFY_EVERY_HOURS", "6"))
 APIFY_REDDIT_MAX_CHARGE = os.environ.get("REDDIT_APIFY_MAX_CHARGE_USD", "0.05")
 APIFY3_ACTOR = os.environ.get("REDDIT_APIFY3_ACTOR", "harshmaur~reddit-scraper-pro")
 APIFY3_EVERY_HOURS = float(os.environ.get("REDDIT_APIFY3_EVERY_HOURS", "8"))
@@ -188,11 +188,10 @@ def _run_actor(actor: str, body: dict, max_charge: str) -> list:
 
 
 def fetch_apify() -> list:
-    """2nd tier: the top TOP_N of r/popular (hot). dedupeAcrossRuns is OFF on purpose: with it on the
-    actor only returns posts it has not delivered before, so the list would shrink every run."""
+    """2nd tier: the top TOP_N of r/popular (hot) from thirdwatch/reddit-scraper, about $0.001 per post.
+    (dami_studio/reddit-scraper can read single subreddits but answers NOT_FOUND for r/popular.)"""
     return _run_actor(APIFY_REDDIT_ACTOR,
-                      {"sources": ["r/popular"], "sort": "hot", "maxPostsCount": TOP_N,
-                       "maxPostsPerSubreddit": TOP_N, "dedupeAcrossRuns": False},
+                      {"queries": ["r/popular"], "sort": "hot", "maxResults": TOP_N},
                       APIFY_REDDIT_MAX_CHARGE)
 
 
@@ -215,20 +214,21 @@ def parse_apify(items: list) -> list[dict]:
         if d.get("dataType") not in (None, "post"):
             continue
         title = tc.clean_text(d.get("title"))
-        if title.lower().startswith("sample post"):
+        if title.lower().startswith("sample post") or d.get("_sample") or d.get("recordType") == "sample":
             continue                                   # placeholder row some actors return on bad input
-        link = d.get("postUrl") or d.get("url") or d.get("permalink") or ""
+        link = d.get("postUrl") or d.get("permalink") or d.get("url") or ""
         if link.startswith("/"):
             link = "https://www.reddit.com" + link
-        if not title or not link or d.get("over18") or d.get("over_18"):
+        if not title or not link or d.get("over18") or d.get("over_18") or d.get("isNSFW"):
             continue
-        sub = (d.get("communityName") or d.get("subreddit") or d.get("parsedCommunityName") or "").strip()
+        sub = (d.get("communityName") or d.get("community") or d.get("subreddit") or d.get("parsedCommunityName") or "").strip()
         sub = sub if sub.startswith("r/") else ("r/" + sub if sub else "reddit")
         body = _plain(d.get("selftext") or d.get("body") or d.get("narration") or "")
         created = d.get("createdUtc") or d.get("created_utc")
         started = (datetime.fromtimestamp(created, tz=timezone.utc)
-                   if isinstance(created, (int, float)) else tc.parse_time(d.get("createdAt")))
-        host = (d.get("domain") or "").replace("www.", "")
+                   if isinstance(created, (int, float))
+                   else tc.parse_time(d.get("createdAt") or d.get("created")))
+        host = (d.get("domain") or urlparse(str(d.get("link") or "")).netloc).replace("www.", "")
         domain = host if host and not host.startswith("self.") and "reddit.com" not in host \
             and "redd.it" not in host else ""
         thumb = d.get("thumbnail") or ""
@@ -270,7 +270,7 @@ def apify_fallback(previous: dict, now: datetime) -> tuple:
 
     state holds when each tier last ran (kept in the JSON so the minimum gaps survive between
     runs, even when every tier fails):
-      apify_last_run / apify_last_ok   2nd tier (default every 4 hours)
+      apify_last_run / apify_last_ok   2nd tier (default every 6 hours)
       apify3_last_run                  3rd tier (default every 8 hours), tried only when the 2nd tier
                                        just failed or its last run failed, so you never pay for both"""
     prev = previous or {}
