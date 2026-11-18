@@ -1,15 +1,45 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-18T05:25:33Z",
+  "updated": "2026-11-18T06:25:19Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "dwts",
+      "id": "grimes",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Grimes",
+      "description": "Swimmer Katie Grimes opened the Tennessee Invitational with a strong time, while other athletes and local news share her last name.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Grimes",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.c3qTldmRAXCmWLWKSd9jwA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T06:23:32Z",
+      "first_seen": "2026-11-18T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-18T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dwts",
+      "rank": 2,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -32,12 +62,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 2
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "#dwts",
-      "description": "Social media is buzzing as the Dancing with the Stars semifinals concluded with double dances, perfect scores, and a shocking elimination right before the season 35 finale.",
+      "description": "Fans are buzzing on social media after the Dancing With the Stars semifinals featured double dances, high scores, and another shocking elimination ahead of the season finale.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23dwts",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.qTGfd8rQYTZshSQhn6H9WgHaE8&pid=15.1",
@@ -46,7 +80,7 @@
       "started_trending": "2026-11-18T01:23:43Z",
       "first_seen": "2026-11-18T01:23:43Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -54,8 +88,42 @@
       "extra": {}
     },
     {
+      "id": "hornets",
+      "rank": 3,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-18T05:23:48Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Hornets",
+      "description": "Basketball fans are discussing the upcoming matchup between the Hornets and the Lakers, along with starting lineups and game predictions.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Hornets",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.y1MFyd49KvXzN7NcbMtm9Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T05:23:48Z",
+      "first_seen": "2026-11-18T05:23:48Z",
+      "published": null,
+      "last_seen": "2026-11-18T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "connor",
-      "rank": 2,
+      "rank": 4,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -74,12 +142,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": 4,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Connor",
-      "description": "Social media is reacting to Chicago Blackhawks player Connor Bedard exiting a game with an apparent shoulder and faceoff injury, pending further medical testing.",
+      "description": "Hockey fans are concerned after Chicago Blackhawks player Connor Bedard suffered an apparent shoulder injury during a game against the Maple Leafs.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Connor",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.nBQ84s6FqmQH2Y9NkCx-WAHaE8&pid=15.1",
@@ -88,7 +160,7 @@
       "started_trending": "2026-11-18T02:23:34Z",
       "first_seen": "2026-11-18T02:23:34Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -97,7 +169,7 @@
     },
     {
       "id": "duke",
-      "rank": 3,
+      "rank": 5,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -116,12 +188,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 5
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Duke",
-      "description": "Social media is buzzing after No. 10 Illinois routed No. 5 Duke 99-78 on the road, driven by a historic performance from Andrej Stojakovic.",
+      "description": "Duke men's basketball is trending following a historic blowout loss to Illinois, prompting discussions about necessary changes for the team.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Duke",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.UI4lfyhAUpCeL8Gyf4bCWwHaLC&pid=15.1",
@@ -130,7 +206,7 @@
       "started_trending": "2026-11-18T02:23:34Z",
       "first_seen": "2026-11-18T02:23:34Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -139,7 +215,7 @@
     },
     {
       "id": "tatyana",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -158,12 +234,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Tatyana",
-      "description": "Social media is talking about Tatyana Ali and partner Jan Ravnik earning their first score of 10 on Dancing with the Stars during a fierce semifinals competition.",
+      "description": "Tatyana Ali is trending after reacting to her Young and the Restless role being recast, while she simultaneously competes on Dancing With the Stars.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Tatyana",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.g9NawLvL8rRnnCLlka4wkgHaKc&pid=15.1",
@@ -172,7 +252,7 @@
       "started_trending": "2026-11-18T02:23:34Z",
       "first_seen": "2026-11-18T02:23:34Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -180,42 +260,8 @@
       "extra": {}
     },
     {
-      "id": "pistons",
-      "rank": 5,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-18T04:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Pistons",
-      "description": "Social media is buzzing as Cade Cunningham and the Detroit Pistons defeated the San Antonio Spurs, snapping their 12-game win streak.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Pistons",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.wTdY9dHW_6buGWfdDnXhRwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T04:23:36Z",
-      "first_seen": "2026-11-18T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "spurs",
-      "rank": 6,
+      "rank": 7,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -226,12 +272,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 7
         }
       ],
-      "rank_change": 1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Spurs",
-      "description": "Social media is reacting to San Antonio Spurs guard Dylan Harper limping off the court with an apparent groin injury late in their loss to the Pistons.",
+      "description": "Spurs guard Dylan Harper is trending after suffering an apparent groin injury and limping off the court following a slip in a loss to the Pistons.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Spurs",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.qVn8wslFCurSPnAuYbKxxQHaF1&pid=15.1",
@@ -240,7 +290,7 @@
       "started_trending": "2026-11-18T04:23:36Z",
       "first_seen": "2026-11-18T04:23:36Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -248,29 +298,67 @@
       "extra": {}
     },
     {
-      "id": "hornets",
-      "rank": 7,
+      "id": "pistons",
+      "rank": 8,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-18T04:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-18T05:23:48Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Pistons",
+      "description": "The Detroit Pistons are trending after defeating the San Antonio Spurs and snapping their 12-game win streak, despite a standout performance by Victor Wembanyama.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Pistons",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.wTdY9dHW_6buGWfdDnXhRwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T04:23:36Z",
+      "first_seen": "2026-11-18T04:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-18T06:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brice-sensabaugh",
+      "rank": 9,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 7
+          "t": "2026-11-18T06:23:32Z",
+          "r": 9
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Hornets",
-      "description": "Fans are discussing the upcoming NBA matchup between the Charlotte Hornets and the Los Angeles Lakers.",
+      "topic": "Brice Sensabaugh",
+      "description": "Utah Jazz player Brice Sensabaugh is trending on social media after scoring a season-high 40 points to help beat the Clippers.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Hornets",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-18T05:23:48Z",
-      "first_seen": "2026-11-18T05:23:48Z",
+      "url": "https://sotwe.com/search/Brice%20Sensabaugh",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.nnYZXZMhcFVumqSV3QdcjgHaFa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T06:23:32Z",
+      "first_seen": "2026-11-18T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -279,7 +367,7 @@
     },
     {
       "id": "amber",
-      "rank": 8,
+      "rank": 10,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -298,12 +386,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": -3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Amber",
-      "description": "Social media is reacting to Olympic gold medalist Amber Glenn delivering a standout Viennese Waltz performance during the Dancing with the Stars semifinals.",
+      "description": "Olympic gold medalist Amber Glenn is trending after delivering a standout Viennese Waltz performance during the Dancing With the Stars semifinals.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Amber",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP._AqFSGdxTn8SaBz_oL9nIwHaKk&pid=15.1",
@@ -312,7 +404,7 @@
       "started_trending": "2026-11-18T02:23:34Z",
       "first_seen": "2026-11-18T02:23:34Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -321,7 +413,7 @@
     },
     {
       "id": "jenna",
-      "rank": 9,
+      "rank": 11,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -336,12 +428,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 11
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Jenna",
-      "description": "Social media is discussing Jenna Johnson and partner Harry Shum Jr. being eliminated in a shocking semifinals round on Dancing with the Stars.",
+      "description": "Viewers are reacting on social media to the unexpected elimination of Jenna Johnson and partner Harry Shum Jr. during the Dancing With the Stars semifinals.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Jenna",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.1i9vcbCxInN4b5XbHWHU6gHaFj&pid=15.1",
@@ -350,16 +446,16 @@
       "started_trending": "2026-11-18T03:23:31Z",
       "first_seen": "2026-11-18T03:23:31Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-18T06:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "maura",
-      "rank": 10,
+      "rank": 12,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -378,12 +474,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 12
         }
       ],
-      "rank_change": -6,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Maura",
-      "description": "Social media is reacting to Maura Higgins landing her first perfect score for a samba and advancing to the Dancing with the Stars finale.",
+      "description": "Maura Higgins went viral on social media after landing her first perfect score for a samba during the Dancing With the Stars semifinals, advancing to the finale.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Maura",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.ZOi6G1NEQDuH4bALxmN9kwHaE8&pid=15.1",
@@ -392,7 +492,7 @@
       "started_trending": "2026-11-18T02:23:34Z",
       "first_seen": "2026-11-18T02:23:34Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -401,7 +501,7 @@
     },
     {
       "id": "ezra",
-      "rank": 11,
+      "rank": 13,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -420,12 +520,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 13
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Ezra",
-      "description": "Social media is talking about Dancing with the Stars contestant Ezra Frech subtly correcting host Julianne Hough regarding a comment about the disabled community.",
+      "description": "Ezra Frech is trending on social media after subtly correcting Dancing With the Stars host Julianne Hough during the semifinals.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Ezra",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.dslbjfZwB0J-sDiXwNatBQHaLG&pid=15.1",
@@ -434,7 +538,7 @@
       "started_trending": "2026-11-18T02:23:34Z",
       "first_seen": "2026-11-18T02:23:34Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -442,8 +546,42 @@
       "extra": {}
     },
     {
+      "id": "naz-reid",
+      "rank": 14,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-18T05:23:48Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Naz Reid",
+      "description": "Naz Reid is trending amid recent NBA trade rumors linking him to teams like the Warriors and Spurs alongside his play.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Naz%20Reid",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.gkwKf7akrQ5_DDCHiZFkxAAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T05:23:48Z",
+      "first_seen": "2026-11-18T05:23:48Z",
+      "published": null,
+      "last_seen": "2026-11-18T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "mary-peltola",
-      "rank": 12,
+      "rank": 15,
       "previous_rank": 16,
       "rank_4h_ago": 16,
       "rank_history": [
@@ -454,12 +592,16 @@
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": 4,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Mary Peltola",
-      "description": "Social media is buzzing as Democrat Mary Peltola unseated Republican Dan Sullivan in Alaska, becoming the first Alaska Native in the U.S. Senate and giving Democrats 56 seats.",
+      "description": "Mary Peltola made history by winning a U.S. Senate seat in Alaska, flipping it for Democrats and becoming the first Alaska Native in the Senate.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Mary%20Peltola",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.5dAv723Njtmi1DHFtY8ciA&pid=15.1",
@@ -468,7 +610,7 @@
       "started_trending": "2026-11-18T04:23:36Z",
       "first_seen": "2026-11-18T04:23:36Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -477,19 +619,23 @@
     },
     {
       "id": "michigan-state",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "Michigan State",
-      "description": "Sports fans are talking about No. 14 Tennessee pulling off an upset win against No. 2 Michigan State.",
+      "description": "Michigan State basketball is trending after suffering their first loss of the season in an upset defeat against Tennessee.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Michigan%20State",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.d482kOJM5CMZEX0HfpeJ2Q&pid=15.1",
@@ -498,7 +644,7 @@
       "started_trending": "2026-11-18T05:23:48Z",
       "first_seen": "2026-11-18T05:23:48Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -506,249 +652,123 @@
       "extra": {}
     },
     {
-      "id": "andrej-stojakovic",
-      "rank": 14,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "id": "carson-cooper",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-18T01:23:43Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-18T02:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-18T03:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-18T04:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 14
+          "t": "2026-11-18T06:23:32Z",
+          "r": 17
         }
       ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Andrej Stojakovic",
-      "description": "Social media is buzzing after Andrej Stojakovic scored a record-setting 46 points for Illinois in a dominant road win against Duke.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Carson Cooper",
+      "description": "Rookie Carson Cooper is trending after making his Lakers debut following an injury absence by Walker Kessler.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Andrej%20Stojakovic",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.UQEN66vmGzzJ02oBc_ZSqAHaLH&pid=15.1",
+      "url": "https://sotwe.com/search/Carson%20Cooper",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.xy0eRhY07ys5dWFWh4Br7w&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-18T01:23:43Z",
-      "first_seen": "2026-11-18T01:23:43Z",
+      "started_trending": "2026-11-18T06:23:32Z",
+      "first_seen": "2026-11-18T06:23:32Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-18T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sion-james",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sion James",
+      "description": "Sion James is trending as basketball updates report him heading to the bench for the Hornets ahead of their game against the Lakers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Sion%20James",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.RktDITWC_AYB8CENXvxSigHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T06:23:32Z",
+      "first_seen": "2026-11-18T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-18T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mamu",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-18T06:23:32Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mamu",
+      "description": "Basketball fans are discussing recent roster moves involving a 6-foot-10 player nicknamed Mamu signing a multi-year contract with the Lakers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mamu",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.T2xnS9CqkYPd22oMLvRCAQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-18T06:23:32Z",
+      "first_seen": "2026-11-18T06:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-18T06:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rick-barnes",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-11-18T05:23:48Z",
           "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rick Barnes",
-      "description": "Sports fans are discussing Tennessee basketball coach Rick Barnes after the team's upset victory over No. 2 Michigan State.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rick%20Barnes",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-18T05:23:48Z",
-      "first_seen": "2026-11-18T05:23:48Z",
-      "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "naz-reid",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Naz Reid",
-      "description": "Social media is discussing NBA player Naz Reid amid ongoing trade rumors involving the Warriors, Hornets, and Spurs.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Naz%20Reid",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-18T05:23:48Z",
-      "first_seen": "2026-11-18T05:23:48Z",
-      "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "wwenxt",
-      "rank": 17,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-18T01:23:43Z",
-          "r": 3
         },
         {
-          "t": "2026-11-18T02:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-18T03:23:31Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-18T04:23:36Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "#WWENXT",
-      "description": "Social media is reacting to the latest match results, viewership reports, and highlights from WWE NXT.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23WWENXT",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Zl53XP-OU2F77GgO3BoBhQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T01:23:43Z",
-      "first_seen": "2026-11-18T01:23:43Z",
-      "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "trey-lyles",
-      "rank": 18,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-18T04:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Trey Lyles",
-      "description": "Social media is buzzing after Trey Lyles delivered a game-saving block during the Minnesota Timberwolves' narrow win over the Trail Blazers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Trey%20Lyles",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-18T04:23:36Z",
-      "first_seen": "2026-11-18T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "harper",
-      "rank": 19,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-18T04:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-18T05:23:48Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Harper",
-      "description": "Social media is reacting to San Antonio Spurs guard Dylan Harper exiting a game against the Pistons with an apparent groin injury.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Harper",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.qM2G7sUJTE64eUzwbl3gnwHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T04:23:36Z",
-      "first_seen": "2026-11-18T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "arkansas",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-18T05:23:48Z",
+          "t": "2026-11-18T06:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Arkansas",
-      "description": "Sports fans are discussing No. 20 Arkansas falling to Indiana in a hard-fought game at Madison Square Garden.",
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Rick Barnes",
+      "description": "Tennessee basketball coach Rick Barnes is trending after addressing reporters following his team's major upset win over No. 2 Michigan State.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Arkansas",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.tWO0iyNlKAwYYZVT2OQEaQHaFf&pid=15.1",
+      "url": "https://sotwe.com/search/Rick%20Barnes",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.sTGFhrtjDNnz1A02uhJmCQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-18T05:23:48Z",
       "first_seen": "2026-11-18T05:23:48Z",
       "published": null,
-      "last_seen": "2026-11-18T05:23:48Z",
+      "last_seen": "2026-11-18T06:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
