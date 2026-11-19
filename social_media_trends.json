@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-19T05:25:40Z",
+  "updated": "2026-11-19T06:24:58Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "gta-6",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-19T05:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "GTA 6",
-      "description": "GTA 6 is trending as players and reviewers share rave reactions, tips, and performance analyses following the long-awaited release of the new game.",
+      "description": "The highly anticipated release of the video game 'GTA 6' in the US and Canada has sparked massive excitement and reviews across social media and tech platforms.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/GTA%206",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.c2FaEwtzshatgWdF4FcGNQ&pid=15.1",
@@ -30,7 +34,7 @@
       "started_trending": "2026-11-19T05:23:36Z",
       "first_seen": "2026-11-19T05:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
+      "last_seen": "2026-11-19T06:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -38,10 +42,48 @@
       "extra": {}
     },
     {
-      "id": "cmaawards",
+      "id": "gtavi",
       "rank": 2,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-19T04:23:41Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-19T05:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "#GTAVI",
+      "description": "Gamers and fans across social media are discussing reviews, features, and the major impact of the newly released 'Grand Theft Auto VI'.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23GTAVI",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.4yl3RQB2LLzfPTGWtfzCAw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T04:23:41Z",
+      "first_seen": "2026-11-19T04:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cmaawards",
+      "rank": 3,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-19T00:23:49Z",
@@ -66,12 +108,16 @@
         {
           "t": "2026-11-19T05:23:36Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 3
         }
       ],
-      "rank_change": 1,
+      "rank_change": -1,
       "is_new": false,
       "topic": "#CMAawards",
-      "description": "The CMA Awards are trending as country music fans follow live updates, performances, and the complete list of winners and nominees for the 2026 show.",
+      "description": "The 2026 CMA Awards are trending on social media as fans and news outlets react to the full winners list, biggest snubs, and surprise appearances.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23CMAawards",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.OMQglCZ0d898j7FqDIc/MA&pid=15.1",
@@ -80,41 +126,75 @@
       "started_trending": "2026-11-19T00:23:49Z",
       "first_seen": "2026-11-19T00:23:49Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gtavi",
-      "rank": 3,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "id": "lucia",
+      "rank": 4,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-11-19T04:23:41Z",
-          "r": 10
+          "r": 14
         },
         {
           "t": "2026-11-19T05:23:36Z",
-          "r": 3
+          "r": 7
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 4
         }
       ],
-      "rank_change": 7,
+      "rank_change": 10,
       "is_new": false,
-      "topic": "#GTAVI",
-      "description": "GTAVI is making waves online as critics publish glowing reviews, praising the game for living up to massive hype and exploring its depraved yet romantic world.",
+      "topic": "Lucia",
+      "description": "Players are discussing Lucia, one of the main playable characters in the newly released 'GTA 6', and how to switch to her during gameplay.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23GTAVI",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.4yl3RQB2LLzfPTGWtfzCAw&pid=15.1",
+      "url": "https://sotwe.com/search/Lucia",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.cfOC83K7LM5Grc6Xo17rZQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-19T04:23:41Z",
       "first_seen": "2026-11-19T04:23:41Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lakers",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lakers",
+      "description": "The Los Angeles Lakers are trending after their win streak was snapped in a low-scoring upset loss to the Utah Jazz.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Lakers",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.tA3xRuSV44qtgev8HQnHSA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T06:23:34Z",
+      "first_seen": "2026-11-19T06:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-19T06:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -123,7 +203,7 @@
     },
     {
       "id": "aewdynamite",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -146,12 +226,16 @@
         {
           "t": "2026-11-19T05:23:36Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": -3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "#AEWDynamite",
-      "description": "AEW Dynamite is drawing attention after the Full Gear pay-per-view following MJF's return and challenge, alongside the start of the Continental Classic in Denver.",
+      "description": "Fans are reacting on social media to the latest episode of AEW Dynamite featuring MJF's return and the start of the Continental Classic in Denver.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23AEWDynamite",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.f9F2Fe0tdcs6irGWi-dlnAHaEK&pid=15.1",
@@ -160,28 +244,96 @@
       "started_trending": "2026-11-19T01:23:42Z",
       "first_seen": "2026-11-19T01:23:42Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jazz",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jazz",
+      "description": "The Utah Jazz are trending on social media following their upset victory that snapped the Los Angeles Lakers' win streak.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jazz",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-19T06:23:34Z",
+      "first_seen": "2026-11-19T06:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nuggets",
+      "rank": 8,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-19T05:23:36Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Nuggets",
+      "description": "The Denver Nuggets are making waves online after rallying from a 17-point deficit to secure a dramatic win over the Boston Celtics.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Nuggets",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.MedNOOu8RInIcIxdmpLPRw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T05:23:36Z",
+      "first_seen": "2026-11-19T05:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "jokic",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 9,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-19T05:23:36Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "Jokic",
-      "description": "Nikola Jokic is trending after putting up strong numbers for the Denver Nuggets, including a recent performance against the Boston Celtics.",
+      "description": "Nikola Jokić is trending on social media after posting a standout performance with 24 points, 8 rebounds, and 9 assists to help the Nuggets rally past the Celtics.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Jokic",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.DK4GRNtifPDAYdiMWu3nLQHaEK&pid=15.1",
@@ -190,7 +342,105 @@
       "started_trending": "2026-11-19T05:23:36Z",
       "first_seen": "2026-11-19T05:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "derozan",
+      "rank": 10,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-19T05:23:36Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "DeRozan",
+      "description": "DeMar DeRozan is trending as fans discuss his recent performance and role with the Denver Nuggets following their comeback win over the Celtics.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/DeRozan",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.hUnHtVrW2t_BmiytUwBEDQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T05:23:36Z",
+      "first_seen": "2026-11-19T05:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jason",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jason",
+      "description": "NC State's hiring of longtime NFL assistant Jason Michael as offensive coordinator under Philip Rivers is drawing major attention online.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jason",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.f9phNW69knDTjVGnyB3THwHaJa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T06:23:34Z",
+      "first_seen": "2026-11-19T06:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jamal-murray",
+      "rank": 12,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-19T05:23:36Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Jamal Murray",
+      "description": "Jamal Murray is trending on social media after hitting clutch shots and scoring 21 points to help the Nuggets complete a comeback win against the Celtics.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jamal%20Murray",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.MHrtxEx40Xmo3pPwrUFslAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T05:23:36Z",
+      "first_seen": "2026-11-19T05:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T06:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -199,7 +449,7 @@
     },
     {
       "id": "survivor51",
-      "rank": 6,
+      "rank": 13,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -218,12 +468,16 @@
         {
           "t": "2026-11-19T05:23:36Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 13
         }
       ],
-      "rank_change": -3,
+      "rank_change": -10,
       "is_new": false,
       "topic": "#Survivor51",
-      "description": "Survivor 51 is generating heavy discussion following the latest episode's controversial and dangerous million-dollar coin flip twist.",
+      "description": "Fans are reacting online to the latest 'Survivor 51' episode, specifically discussing Jeff Probst's revival of the controversial million-dollar coin flip.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23Survivor51",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.lqe4j36P2gSQ2RfdwQTaRg&pid=15.1",
@@ -232,7 +486,7 @@
       "started_trending": "2026-11-19T02:23:36Z",
       "first_seen": "2026-11-19T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
+      "last_seen": "2026-11-19T06:23:34Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -240,123 +494,33 @@
       "extra": {}
     },
     {
-      "id": "lucia",
-      "rank": 7,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "id": "cenac",
+      "rank": 14,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
-          "t": "2026-11-19T04:23:41Z",
-          "r": 14
+          "t": "2026-11-19T05:23:36Z",
+          "r": 12
         },
         {
-          "t": "2026-11-19T05:23:36Z",
-          "r": 7
+          "t": "2026-11-19T06:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": 7,
+      "rank_change": -2,
       "is_new": false,
-      "topic": "Lucia",
-      "description": "Lucia is a major topic of discussion as players explore her romance with Jason and how to switch between the two protagonists in GTA 6.",
+      "topic": "Cenac",
+      "description": "Boston Celtics rookie big man Chris Cenac Jr. is trending on social media after impressing fans and analysts with his first real rotation minutes.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Lucia",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.cfOC83K7LM5Grc6Xo17rZQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T04:23:41Z",
-      "first_seen": "2026-11-19T04:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jamal-murray",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T05:23:36Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jamal Murray",
-      "description": "Jamal Murray is drawing attention for his standout athletic plays and coast-to-coast slams for the Denver Nuggets against the Celtics.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jamal%20Murray",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.MHrtxEx40Xmo3pPwrUFslAHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/Cenac",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.HAkPFL8iqKh4M_fiHp-ZlwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-19T05:23:36Z",
       "first_seen": "2026-11-19T05:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nuggets",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T05:23:36Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Nuggets",
-      "description": "The Denver Nuggets are trending in basketball discussions following their matchup against the Boston Celtics.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Nuggets",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.MedNOOu8RInIcIxdmpLPRw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T05:23:36Z",
-      "first_seen": "2026-11-19T05:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "derozan",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T05:23:36Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "DeRozan",
-      "description": "DeRozan is trending in basketball discussions regarding player props, defensive matchups, and roster fit connections with the Rockets and Nuggets.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/DeRozan",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.hUnHtVrW2t_BmiytUwBEDQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T05:23:36Z",
-      "first_seen": "2026-11-19T05:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
+      "last_seen": "2026-11-19T06:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -365,7 +529,7 @@
     },
     {
       "id": "dunn",
-      "rank": 11,
+      "rank": 15,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -380,12 +544,16 @@
         {
           "t": "2026-11-19T05:23:36Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 15
         }
       ],
-      "rank_change": -6,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Dunn",
-      "description": "Brooks & Dunn are receiving widespread attention after receiving the Willie Nelson Lifetime Achievement Award at the 2026 CMA Awards, featuring a star-studded tribute.",
+      "description": "Brooks & Dunn are trending after receiving the Willie Nelson Lifetime Achievement Award and making history at the 2026 CMA Awards.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Dunn",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.34GSIO53uLJss8yvaBhDFg&pid=15.1",
@@ -394,37 +562,41 @@
       "started_trending": "2026-11-19T03:23:33Z",
       "first_seen": "2026-11-19T03:23:33Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "cenac",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "mcbain",
+      "rank": 16,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-11-19T05:23:36Z",
-          "r": 12
+          "r": 14
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Cenac",
-      "description": "Chris Cenac Jr. is drawing notice after impressing in early rotation minutes and making athletic plays for the Celtics.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "McBain",
+      "description": "Jack McBain and Gabriel Landeskog are trending on social media following a physical fight during a game between the Avs and Mammoth.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Cenac",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.HAkPFL8iqKh4M_fiHp-ZlwHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/McBain",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.7Laqg0n6w5Fh4nlTIpoLGQHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-19T05:23:36Z",
       "first_seen": "2026-11-19T05:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
+      "last_seen": "2026-11-19T06:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -433,7 +605,7 @@
     },
     {
       "id": "ella-langley",
-      "rank": 13,
+      "rank": 17,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -444,12 +616,16 @@
         {
           "t": "2026-11-19T05:23:36Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 17
         }
       ],
-      "rank_change": -7,
+      "rank_change": -11,
       "is_new": false,
       "topic": "Ella Langley",
-      "description": "Ella Langley is trending after sweeping the 2026 CMA Awards, taking home the trophy for Female Vocalist of the Year and performing 'Loving Life Again.'",
+      "description": "Ella Langley is trending across social media after sweeping the 2026 CMA Awards with groundbreaking wins, including Female Vocalist of the Year.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Ella%20Langley",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.hB9FlC70vvvSXhPXoifMdQHaLG&pid=15.1",
@@ -458,7 +634,41 @@
       "started_trending": "2026-11-19T04:23:41Z",
       "first_seen": "2026-11-19T04:23:41Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "vice-city",
+      "rank": 18,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-11-19T05:23:36Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Vice City",
+      "description": "Miami's 'Vice City' theme is trending online as the Miami Heat collaborate with 'GTA 6' for a high-scoring victory over the Milwaukee Bucks.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Vice%20City",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.ET4J2107UKF8uNW7wN0gGQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T05:23:36Z",
+      "first_seen": "2026-11-19T05:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T06:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -466,29 +676,33 @@
       "extra": {}
     },
     {
-      "id": "mcbain",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "derrick-white",
+      "rank": 19,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-19T05:23:36Z",
-          "r": 14
+          "r": 17
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "McBain",
-      "description": "Jack McBain is trending after dropping the gloves with Gabriel Landeskog during a fiery matchup between Colorado and Utah.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Derrick White",
+      "description": "Derrick White is trending on social media following the Boston Celtics' narrow 105-101 loss to the Denver Nuggets.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/McBain",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.7Laqg0n6w5Fh4nlTIpoLGQHaE8&pid=15.1",
+      "url": "https://sotwe.com/search/Derrick%20White",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.si9sXlOmLDmTI8aX7deCngHaLG&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-19T05:23:36Z",
       "first_seen": "2026-11-19T05:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
+      "last_seen": "2026-11-19T06:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -497,9 +711,9 @@
     },
     {
       "id": "cmas",
-      "rank": 15,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "rank": 20,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-11-19T00:23:49Z",
@@ -524,12 +738,16 @@
         {
           "t": "2026-11-19T05:23:36Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-19T06:23:34Z",
+          "r": 20
         }
       ],
-      "rank_change": 1,
+      "rank_change": -13,
       "is_new": false,
       "topic": "CMAs",
-      "description": "The CMAs are dominating social media as Taylor Swift makes a surprise return to perform at the awards show for the first time in 13 years.",
+      "description": "The 2026 CMAs are dominating social media feeds following Taylor Swift's surprising return to perform at the awards show for the first time in 13 years.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/CMAs",
       "image_url": "https://ts2.explicit.bing.net/th?id=OIP.a5QURplv2n5a6jVqdluolwHaKx&pid=15.1",
@@ -538,180 +756,10 @@
       "started_trending": "2026-11-19T00:23:49Z",
       "first_seen": "2026-11-19T00:23:49Z",
       "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sam-merrill",
-      "rank": 16,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-19T03:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-19T04:23:41Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-19T05:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Sam Merrill",
-      "description": "Sam Merrill is trending after expressing self-blame for missed crucial free throws in the Cleveland Cavaliers' close loss to the Grizzlies.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Sam%20Merrill",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP._bgAwyRQZ4j_mskFrzofjwHaFa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T03:23:33Z",
-      "first_seen": "2026-11-19T03:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "derrick-white",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T05:23:36Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Derrick White",
-      "description": "Derrick White is making headlines as trade speculation surrounds potential player packages the Celtics could command for him.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Derrick%20White",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.si9sXlOmLDmTI8aX7deCngHaLG&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T05:23:36Z",
-      "first_seen": "2026-11-19T05:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "our-song",
-      "rank": 18,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-19T02:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-19T03:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-19T04:23:41Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-19T05:23:36Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "Our Song",
-      "description": "Our Song is trending as Taylor Swift surprised country music fans by performing her 2007 hit in a mashup during her CMA Awards return.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Our%20Song",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ojXwOnEyXw-W84YG2yUTAQHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T02:23:36Z",
-      "first_seen": "2026-11-19T02:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "uconn",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T05:23:36Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "UConn",
-      "description": "Uconn is drawing attention as college basketball fans look ahead to their matchup against Arizona, alongside recent Wooden Award watch list nods.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/UConn",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.xWh0wVS6Vzm4RFz2A-49cAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T05:23:36Z",
-      "first_seen": "2026-11-19T05:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "vice-city",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T05:23:36Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Vice City",
-      "description": "Vice City is trending as gamers dive into the GTA 6 setting, while the Miami Heat celebrate the launch with a special 'Vice City' themed game night.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Vice%20City",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.ET4J2107UKF8uNW7wN0gGQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T05:23:36Z",
-      "first_seen": "2026-11-19T05:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-19T05:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-19T06:23:34Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     }
