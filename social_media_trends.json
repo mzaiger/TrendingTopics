@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-19T17:26:08Z",
+  "updated": "2026-11-19T18:24:59Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,13 +10,9 @@
     {
       "id": "ant",
       "rank": 1,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-11-19T12:23:33Z",
-          "r": 19
-        },
         {
           "t": "2026-11-19T13:23:32Z",
           "r": 17
@@ -36,12 +32,16 @@
         {
           "t": "2026-11-19T17:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 1
         }
       ],
-      "rank_change": 16,
+      "rank_change": 2,
       "is_new": false,
       "topic": "$ANT",
-      "description": "Ant Group posted a 27% increase in quarterly profit following fair value gains, while discussions continue around Anthropic's market debut and its stock price forecast.",
+      "description": "Anthropic PBC stock, trading under the ticker ANT, is drawing heavy market attention following its public debut and valuation forecasts. Meanwhile, basketball player Anthony Edwards gave an injury update.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%24ANT",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.FIoYfHDfHQzeTmM9AyfdWwHaEK&pid=15.1",
@@ -50,16 +50,46 @@
       "started_trending": "2026-11-19T12:23:33Z",
       "first_seen": "2026-11-19T12:23:33Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "videoagent",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#VideoAgent",
+      "description": "A new video and report on agent memory beyond vectors highlights queryable context graphs for building reliable AI systems.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23VideoAgent",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.D1RbQm0on0RtyOzTYpD5GwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T18:23:37Z",
+      "first_seen": "2026-11-19T18:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "olandriaxfashionmagazine",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -70,9 +100,13 @@
         {
           "t": "2026-11-19T17:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 3
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "#OlandriaxFashionMagazine",
       "description": "",
@@ -84,7 +118,41 @@
       "started_trending": "2026-11-19T16:23:34Z",
       "first_seen": "2026-11-19T16:23:34Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "marlon-humphrey",
+      "rank": 4,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-19T17:23:35Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "Marlon Humphrey",
+      "description": "Baltimore Ravens cornerback Marlon Humphrey was sent home and ruled inactive for Week 11 after making controversial comments about Baltimore and criminals.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Marlon%20Humphrey",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.VbE3vzTfdJy2XS4NEATyxQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T17:23:35Z",
+      "first_seen": "2026-11-19T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -93,7 +161,7 @@
     },
     {
       "id": "83-ipo",
-      "rank": 3,
+      "rank": 5,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -108,12 +176,16 @@
         {
           "t": "2026-11-19T17:23:35Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 5
         }
       ],
-      "rank_change": 10,
+      "rank_change": 8,
       "is_new": false,
       "topic": "$83 IPO",
-      "description": "Anthropic made headlines with a historic initial public offering priced at $83 per share, raising tens of billions and quickly surging in its Wall Street debut.",
+      "description": "Anthropic launched its historic IPO at $83 per share, raising billions in what is being called the biggest IPO on record and valuing the company at over $1 trillion.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%2483%20IPO",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.v5IKIFm8KDd_QCsMshCxQAHaEk&pid=15.1",
@@ -122,18 +194,48 @@
       "started_trending": "2026-11-19T15:23:44Z",
       "first_seen": "2026-11-19T15:23:44Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tsholidaysnowglobecollection",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#TSHolidaySnowGlobeCollection",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23TSHolidaySnowGlobeCollection",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.LfHl6duo3ZGUJwpnLyFDug&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T18:23:37Z",
+      "first_seen": "2026-11-19T18:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "putin",
-      "rank": 4,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "rank": 7,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-19T13:23:32Z",
@@ -154,12 +256,16 @@
         {
           "t": "2026-11-19T17:23:35Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 7
         }
       ],
-      "rank_change": -1,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Putin",
-      "description": "Vladimir Putin participated in a rare three-way summit with Donald Trump and Xi Jinping regarding nuclear risks, where the leaders issued a four-point peace declaration.",
+      "description": "Russian President Vladimir Putin participated in a three-way summit with Donald Trump and Xi Jinping discussing nuclear risks, drawing criticism in the U.S. over Trump calling him a friend.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Putin",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.7NkfO8lK3JGyM0M473t6hQEsDI&pid=15.1",
@@ -168,41 +274,91 @@
       "started_trending": "2026-11-19T13:23:32Z",
       "first_seen": "2026-11-19T13:23:32Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "amd",
-      "rank": 5,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "id": "lucia",
+      "rank": 8,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
-          "t": "2026-11-19T16:23:34Z",
+          "t": "2026-11-19T13:23:32Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-19T14:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-19T15:23:44Z",
           "r": 5
         },
         {
+          "t": "2026-11-19T16:23:34Z",
+          "r": 6
+        },
+        {
           "t": "2026-11-19T17:23:35Z",
-          "r": 5
+          "r": 8
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 8
         }
       ],
       "rank_change": 0,
       "is_new": false,
-      "topic": "$AMD",
-      "description": "AMD stock fell after a short-seller report from Hunterbrook raised concerns regarding alleged China exposure, circular deals, and export controls.",
+      "topic": "Lucia",
+      "description": "GTA 6 details are trending as the voice actor for Lucia was revealed to be Manni Perez, and Rockstar explained why players cannot romance characters like Mandy instead of Lucia.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%24AMD",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.odF0txzT9uHeFSjHSOsUXQHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/Lucia",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Id7VxWwEw2ZN8RvcD6iGzQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-19T16:23:34Z",
-      "first_seen": "2026-11-19T16:23:34Z",
+      "started_trending": "2026-11-19T10:23:36Z",
+      "first_seen": "2026-11-19T10:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jmac",
+      "rank": 9,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-19T17:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "JMac",
+      "description": "The provided material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/JMac",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.B24g18PbXg_MqPu_0yzsdwHaIh&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T17:23:35Z",
+      "first_seen": "2026-11-19T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -211,7 +367,7 @@
     },
     {
       "id": "nasdaq",
-      "rank": 6,
+      "rank": 10,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -230,12 +386,16 @@
         {
           "t": "2026-11-19T17:23:35Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 10
         }
       ],
-      "rank_change": 9,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Nasdaq",
-      "description": "The Nasdaq drew widespread attention as it hosted Anthropic for the largest initial public offering in history, with shares making a major trading debut.",
+      "description": "Anthropic made a historic debut on the Nasdaq, soaring past a $2 trillion valuation during its opening day before Wall Street eventually fell.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Nasdaq",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.U_29io9BGKj_77JHMjQHLQHaEI&pid=15.1",
@@ -244,228 +404,54 @@
       "started_trending": "2026-11-19T14:23:33Z",
       "first_seen": "2026-11-19T14:23:33Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "hunterbrook",
-      "rank": 7,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-19T16:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Hunterbrook",
-      "description": "Hunterbrook published a short-seller report on AMD raising concerns over China export controls and circular deals, causing shares of the chipmaker to drop.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Hunterbrook",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.N5CWavmyG_1JduObB4ujuwAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T16:23:34Z",
-      "first_seen": "2026-11-19T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lucia",
-      "rank": 8,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-19T11:23:47Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-19T12:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-19T13:23:32Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-19T14:23:33Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-19T15:23:44Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-19T16:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 5,
-      "is_new": false,
-      "topic": "Lucia",
-      "description": "Social media discussion surrounds Lucia from GTA 6 following reports about game mechanics, voice actor Manni Perez, and the storyline with Jason.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Lucia",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.Id7VxWwEw2ZN8RvcD6iGzQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T10:23:36Z",
-      "first_seen": "2026-11-19T10:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "susan-smith",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Susan Smith",
-      "description": "Susan Smith was denied parole for the second time, 32 years after she was convicted of drowning her two young sons in South Carolina.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Susan%20Smith",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.I8Lf9iXXVr7Xw0plPZeqzQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T17:23:35Z",
-      "first_seen": "2026-11-19T17:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jmac",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "JMac",
-      "description": "The material does not make the description clear.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/JMac",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.B24g18PbXg_MqPu_0yzsdwHaIh&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T17:23:35Z",
-      "first_seen": "2026-11-19T17:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "riley-moss",
+      "id": "amd",
       "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
+          "t": "2026-11-19T16:23:34Z",
+          "r": 5
+        },
+        {
           "t": "2026-11-19T17:23:35Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
           "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Riley Moss",
-      "description": "Riley Moss and the Denver Broncos reportedly agreed to a four-year contract extension worth $67 million.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Riley%20Moss",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.qnxS8BCdkf4AktCN1OuE5A&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T17:23:35Z",
-      "first_seen": "2026-11-19T17:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "teamily",
-      "rank": 12,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-19T16:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -9,
+      "rank_change": -6,
       "is_new": false,
-      "topic": "Teamily",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Teamily",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Q6MTZW6FRMRQsrGnK8pVdAHaEK&pid=15.1",
+      "topic": "$AMD",
+      "description": "AMD shares dropped sharply after Hunterbrook Media released a short-seller report raising export control concerns and citing circular deals related to China.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%24AMD",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.odF0txzT9uHeFSjHSOsUXQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-19T16:23:34Z",
       "first_seen": "2026-11-19T16:23:34Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "greenland",
-      "rank": 13,
+      "rank": 12,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -480,12 +466,16 @@
         {
           "t": "2026-11-19T17:23:35Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 12
         }
       ],
-      "rank_change": 1,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Greenland",
-      "description": "Denmark ratified a security and defense deal involving the United States and Greenland, working to ease diplomatic tensions following pressure from Donald Trump.",
+      "description": "Denmark's parliament ratified a U.S. security and defense deal regarding Greenland, aiming to ease diplomatic tensions and expand the American military role.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Greenland",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.N2sbnxF7SG2COqFaeDPIQwHaEK&pid=15.1",
@@ -494,7 +484,211 @@
       "started_trending": "2026-11-19T15:23:44Z",
       "first_seen": "2026-11-19T15:23:44Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "hunterbrook",
+      "rank": 13,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-19T16:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-19T17:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Hunterbrook",
+      "description": "Hunterbrook Media published a short-seller report on AMD, raising concerns about export controls and China links that caused the chipmaker's shares to slide.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Hunterbrook",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.N5CWavmyG_1JduObB4ujuwAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T16:23:34Z",
+      "first_seen": "2026-11-19T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "susan-smith",
+      "rank": 14,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-19T17:23:35Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Susan Smith",
+      "description": "Susan Smith has been denied parole for the second time, 32 years after she drowned her two young sons in a South Carolina lake.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Susan%20Smith",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.I8Lf9iXXVr7Xw0plPZeqzQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T17:23:35Z",
+      "first_seen": "2026-11-19T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "riley-moss",
+      "rank": 15,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-19T17:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Riley Moss",
+      "description": "The Denver Broncos and cornerback Riley Moss reportedly agreed to a four-year contract extension worth $67 million.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Riley%20Moss",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.qnxS8BCdkf4AktCN1OuE5A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T17:23:35Z",
+      "first_seen": "2026-11-19T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "roaring-kitty",
+      "rank": 16,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-19T17:23:35Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 16
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Roaring Kitty",
+      "description": "The return of investor Roaring Kitty has sparked social media speculation about another potential stock market frenzy for GameStop and Nintendo.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Roaring%20Kitty",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.kiyp3xwThU4H41F7FotppAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T17:23:35Z",
+      "first_seen": "2026-11-19T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gme",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "$GME",
+      "description": "GameStop stock is making waves on social media as investors buzz over the return of Roaring Kitty and leadership moves by Ryan Cohen.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%24GME",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.obsTN9E_LjHdIMsRmY9HBwHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T18:23:37Z",
+      "first_seen": "2026-11-19T18:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jason",
+      "rank": 18,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-11-19T17:23:35Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Jason",
+      "description": "Jason is trending online as gamers discuss the protagonist's literary choices and voice actors in GTA 6, alongside a college football coaching hire.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jason",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.rx5teqO0aDYoRiWhjQxClQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T17:23:35Z",
+      "first_seen": "2026-11-19T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-19T18:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -503,18 +697,10 @@
     },
     {
       "id": "mandy",
-      "rank": 14,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "rank": 19,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
-        {
-          "t": "2026-11-19T11:23:47Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-19T12:23:33Z",
-          "r": 4
-        },
         {
           "t": "2026-11-19T13:23:32Z",
           "r": 9
@@ -534,12 +720,16 @@
         {
           "t": "2026-11-19T17:23:35Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 19
         }
       ],
-      "rank_change": -5,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Mandy",
-      "description": "Mandy is trending on social media amid discussions surrounding GTA 6 quests, character secrets, and game limitations involving Lucia and Jason.",
+      "description": "Mandy is trending as a surprise fan-favorite character in GTA 6, with players discussing whether she can be romanced or if she is hiding a dark secret.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Mandy",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.WAkeGf8LvwOXkS91Z4O8IQ&pid=15.1",
@@ -548,56 +738,30 @@
       "started_trending": "2026-11-19T07:23:34Z",
       "first_seen": "2026-11-19T07:23:34Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "marlon-humphrey",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Marlon Humphrey",
-      "description": "Baltimore Ravens cornerback Marlon Humphrey was sent home and benched for an upcoming game after apologizing for a joke that Baltimore excels at making criminals.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Marlon%20Humphrey",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.VbE3vzTfdJy2XS4NEATyxQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T17:23:35Z",
-      "first_seen": "2026-11-19T17:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-19T18:23:37Z",
+      "hours_trending": 11,
+      "volume": "11hr trend",
+      "volume_value": 11,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "ethnosportriyadh",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-11-19T17:23:35Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-19T18:23:37Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "#EthnosportRiyadh",
       "description": "",
       "description_source": "",
@@ -608,138 +772,10 @@
       "started_trending": "2026-11-19T17:23:35Z",
       "first_seen": "2026-11-19T17:23:35Z",
       "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "roaring-kitty",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Roaring Kitty",
-      "description": "Roaring Kitty sparked discussions on social media about whether a new GameStop stock frenzy could be on the horizon.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Roaring%20Kitty",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.kiyp3xwThU4H41F7FotppAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T17:23:35Z",
-      "first_seen": "2026-11-19T17:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "physicalagent",
-      "rank": 18,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-19T16:23:34Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#PhysicalAgent",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23PhysicalAgent",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.yRGAn9nf8KtKIuz4D8Z38AHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T16:23:34Z",
-      "first_seen": "2026-11-19T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
+      "last_seen": "2026-11-19T18:23:37Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aiglass",
-      "rank": 19,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-19T16:23:34Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#AIGlass",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23AIGlass",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.-W8wgkyq186WsDGfC8lbRQHaEX&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T16:23:34Z",
-      "first_seen": "2026-11-19T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jason",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T17:23:35Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jason",
-      "description": "Jason is trending alongside Lucia as details emerge about GTA 6 characters, voice actors, literary choices, and game mechanics.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jason",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.rx5teqO0aDYoRiWhjQxClQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T17:23:35Z",
-      "first_seen": "2026-11-19T17:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-19T17:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
