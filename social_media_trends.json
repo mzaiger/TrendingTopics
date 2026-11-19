@@ -1,45 +1,15 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-19T01:25:21Z",
+  "updated": "2026-11-19T02:25:36Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "aewdynamite",
-      "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 1
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#AEWDynamite",
-      "description": "AEW Dynamite is trending as fans and analysts anticipate the start of the 2026 Continental Classic in Denver, featuring major matches and the TBS title four-way.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23AEWDynamite",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-19T01:23:42Z",
-      "first_seen": "2026-11-19T01:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "cmaawards",
-      "rank": 2,
+      "rank": 1,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -50,12 +20,16 @@
         {
           "t": "2026-11-19T01:23:42Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 1
         }
       ],
-      "rank_change": 1,
+      "rank_change": 2,
       "is_new": false,
       "topic": "#CMAawards",
-      "description": "The CMA Awards are trending as country music's biggest night gets underway, featuring a Dolly Parton tribute opened by Lainey Wilson and Vince Gill, plus red carpet fashion.",
+      "description": "The 2026 CMA Awards are trending as outlets share complete winners lists, live blogs, and red carpet looks, including Danielle Parton's tribute dress.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23CMAawards",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.OMQglCZ0d898j7FqDIc/MA&pid=15.1",
@@ -64,7 +38,41 @@
       "started_trending": "2026-11-19T00:23:49Z",
       "first_seen": "2026-11-19T00:23:49Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aewdynamite",
+      "rank": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-11-19T01:23:42Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 2
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "#AEWDynamite",
+      "description": "AEW Dynamite is trending as social media discusses results, highlights following Full Gear 2026, and the start of the Continental Classic in Denver.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23AEWDynamite",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-19T01:23:42Z",
+      "first_seen": "2026-11-19T01:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -72,15 +80,109 @@
       "extra": {}
     },
     {
-      "id": "gta-6",
+      "id": "survivor51",
       "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#Survivor51",
+      "description": "Survivor 51 is generating social media buzz with sneak peeks of episode 8, as Devin and Jelly plot revenge and hunt for idols alongside features on star Devin Way.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23Survivor51",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.lqe4j36P2gSQ2RfdwQTaRg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T02:23:36Z",
+      "first_seen": "2026-11-19T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "our-song",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "OUR SONG",
+      "description": "Musicians are making headlines with new releases and live moments, highlighted by Taylor Swift performing a medley including 'Our Song' at the CMAs.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/OUR%20SONG",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ojXwOnEyXw-W84YG2yUTAQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T02:23:36Z",
+      "first_seen": "2026-11-19T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cmas",
+      "rank": 5,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-19T00:23:49Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-19T01:23:42Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "#CMAs",
+      "description": "The CMAs are trending as Taylor Swift returns to the awards show, where she lost Single of the Year to Ella Langley's 'Choosin' Texas'.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23CMAs",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.a5QURplv2n5a6jVqdluolwHaKx&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T00:23:49Z",
+      "first_seen": "2026-11-19T00:23:49Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gta-6",
+      "rank": 6,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-11-18T20:23:33Z",
-          "r": 1
-        },
         {
           "t": "2026-11-18T21:23:34Z",
           "r": 1
@@ -100,12 +202,16 @@
         {
           "t": "2026-11-19T01:23:42Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 6
         }
       ],
-      "rank_change": -2,
+      "rank_change": -5,
       "is_new": false,
       "topic": "GTA 6",
-      "description": "GTA 6 is trending as fans experience work blackouts and request PTO to play the global launch, while players report console performance and network outages.",
+      "description": "GTA 6 is trending as fans flood social media with PTO requests, soundtrack leak reports, and discussions on how to play the game immediately.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/GTA%206",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.0cwosPU7rnA2VKdyu5ZsBQHaDt&pid=15.1",
@@ -114,23 +220,109 @@
       "started_trending": "2026-11-18T11:23:32Z",
       "first_seen": "2026-11-18T11:23:32Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 14,
-      "volume": "14hr trend",
-      "volume_value": 14,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 15,
+      "volume": "15hr trend",
+      "volume_value": 15,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cma2026",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#CMA2026",
+      "description": "The 2026 CMA Awards are generating massive online discussion with red carpet appearances from stars like Taylor Swift, Glen Powell, and Jessica Chastain, alongside live winner updates.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23CMA2026",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.hBYlWsR0wxycK2MXRGIZ/Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T02:23:36Z",
+      "first_seen": "2026-11-19T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nick-wayne",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Nick Wayne",
+      "description": "Nick Wayne is trending in discussions ahead of the AEW Dynamite broadcast from Denver, where the Continental Classic tournament begins.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Nick%20Wayne",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.tDpmnNWhynMCXRl7jTdxTQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T02:23:36Z",
+      "first_seen": "2026-11-19T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "miles-sadler",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Miles Sadler",
+      "description": "Miles Sadler is trending after drawing high praise from experts and announcing himself to the nation as West Virginia defeats Auburn in the Players Era Festival.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Miles%20Sadler",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.elzci5pylHsKimvBZo4LTg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T02:23:36Z",
+      "first_seen": "2026-11-19T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gta-vi",
-      "rank": 4,
+      "rank": 10,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-11-18T20:23:33Z",
-          "r": 2
-        },
         {
           "t": "2026-11-18T21:23:34Z",
           "r": 3
@@ -150,12 +342,16 @@
         {
           "t": "2026-11-19T01:23:42Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 10
         }
       ],
-      "rank_change": -1,
+      "rank_change": -7,
       "is_new": false,
       "topic": "GTA VI",
-      "description": "GTA VI is trending as critics publish rave reviews praising its expansive world and romance, alongside reports of unusual in-game Bigfoot sightings.",
+      "description": "GTA VI is trending heavily across social media as reviews praise the game's massive open world and love story following its long-awaited release.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/GTA%20VI",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.76wSrRHzJ5vkqZ8V4Fap0w&pid=15.1",
@@ -164,16 +360,118 @@
       "started_trending": "2026-11-18T14:23:35Z",
       "first_seen": "2026-11-18T14:23:35Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dark-maga",
+      "rank": 11,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-19T00:23:49Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-19T01:23:42Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Dark MAGA",
+      "description": "Elon Musk is generating intense debate on social media after claiming he is 'not MAGA' and expressing regret over his massive midterm campaign spending.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Dark%20MAGA",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.fWaNfoLf2K8brZd-bxv4EwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T00:23:49Z",
+      "first_seen": "2026-11-19T00:23:49Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tim-mcgraw",
+      "rank": 12,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-19T01:23:42Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Tim McGraw",
+      "description": "Tim McGraw is trending after attending the CMA Awards with Faith Hill and their daughters, setting a record in the musical event category, and discussing his sobriety.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Tim%20McGraw",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.ZIDnUT65-oS4nWApkY4XvwHaNK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T01:23:42Z",
+      "first_seen": "2026-11-19T01:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "orange-cassidy",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Orange Cassidy",
+      "description": "Orange Cassidy is trending as wrestling fans discuss the latest AEW Dynamite preview and fallout following the Full Gear 2026 pay-per-view event.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Orange%20Cassidy",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.bHIR9C/vS/QMdk5Bnq0FHQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T02:23:36Z",
+      "first_seen": "2026-11-19T02:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "marlon-humphrey",
-      "rank": 5,
+      "rank": 14,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -196,12 +494,16 @@
         {
           "t": "2026-11-19T01:23:42Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 14
         }
       ],
-      "rank_change": 5,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Marlon Humphrey",
-      "description": "Baltimore Ravens cornerback Marlon Humphrey is trending after apologizing for a podcast remark joking that Baltimore is 'best at making criminals.'",
+      "description": "Baltimore Ravens player Marlon Humphrey is facing backlash and issuing apologies on social media after controversial podcast remarks calling Baltimore the 'best at making criminals'.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Marlon%20Humphrey",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.QXbYeRF9gzOhDQ4Tw0X/4A&pid=15.1",
@@ -210,75 +512,37 @@
       "started_trending": "2026-11-18T21:23:34Z",
       "first_seen": "2026-11-18T21:23:34Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "dark-maga",
-      "rank": 6,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "id": "tyler-herro",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-19T00:23:49Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 6
+          "t": "2026-11-19T02:23:36Z",
+          "r": 15
         }
       ],
-      "rank_change": 11,
-      "is_new": false,
-      "topic": "Dark MAGA",
-      "description": "The term Dark MAGA is trending after Elon Musk publicly distanced himself from the movement, stating he is not MAGA and regretting his midterm spending.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tyler Herro",
+      "description": "Tyler Herro is trending on social media as he addresses his fallout and lack of communication with former Heat teammate Bam Adebayo ahead of their upcoming game.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Dark%20MAGA",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.fWaNfoLf2K8brZd-bxv4EwHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/Tyler%20Herro",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.SmQBAQApYNKe5ZhSz6pwygHaFH&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-19T00:23:49Z",
-      "first_seen": "2026-11-19T00:23:49Z",
+      "started_trending": "2026-11-19T02:23:36Z",
+      "first_seen": "2026-11-19T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cmas",
-      "rank": 7,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-19T00:23:49Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 9,
-      "is_new": false,
-      "topic": "#CMAs",
-      "description": "The CMAs are trending as Taylor Swift makes a surprise appearance at the 2026 awards show in a neon yellow gown ahead of a performance.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23CMAs",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.a5QURplv2n5a6jVqdluolwHaKx&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T00:23:49Z",
-      "first_seen": "2026-11-19T00:23:49Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
+      "last_seen": "2026-11-19T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -287,14 +551,10 @@
     },
     {
       "id": "merry-christmas",
-      "rank": 8,
+      "rank": 16,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
-        {
-          "t": "2026-11-18T20:23:33Z",
-          "r": 16
-        },
         {
           "t": "2026-11-18T21:23:34Z",
           "r": 11
@@ -314,12 +574,16 @@
         {
           "t": "2026-11-19T01:23:42Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 16
         }
       ],
-      "rank_change": 3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Merry Christmas",
-      "description": "Merry Christmas is trending as holiday events, theme park celebrations like Universal's Merry Minions, and seasonal television schedules launch.",
+      "description": "Merry Christmas is trending as holiday programming announcements roll out, including Freeform's '25 Days of Christmas', speedway light displays, and Universal Studios events.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Merry%20Christmas",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.LTtXLT6LSbSoY087ffoX5AHaHa&pid=15.1",
@@ -328,23 +592,19 @@
       "started_trending": "2026-11-18T19:23:35Z",
       "first_seen": "2026-11-18T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "lucia",
-      "rank": 9,
+      "rank": 17,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
-        {
-          "t": "2026-11-18T20:23:33Z",
-          "r": 5
-        },
         {
           "t": "2026-11-18T21:23:34Z",
           "r": 5
@@ -364,12 +624,16 @@
         {
           "t": "2026-11-19T01:23:42Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 17
         }
       ],
-      "rank_change": -4,
+      "rank_change": -12,
       "is_new": false,
       "topic": "Lucia",
-      "description": "Lucia from GTA 6 is trending as players discuss her romance with Jason, methods for switching to her in-game, and fan reactions to the new release.",
+      "description": "Lucia from GTA 6 is capturing player attention across social media, sparking discussions on her romance with Jason, gameplay switch methods, and her voice actor.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Lucia",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.2Bnf0C3g10RGhqLBmnn/bg&pid=15.1",
@@ -378,92 +642,16 @@
       "started_trending": "2026-11-18T12:23:34Z",
       "first_seen": "2026-11-18T12:23:34Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 13,
-      "volume": "13hr trend",
-      "volume_value": 13,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "herro",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Herro",
-      "description": "Tyler Herro is trending ahead of a matchup against the Miami Heat and Bam Adebayo during a GTA 6-inspired Vice City themed night.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Herro",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.HaT5P6sPlLYY1gaxf9m0KAHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T01:23:42Z",
-      "first_seen": "2026-11-19T01:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ponzi",
-      "rank": 11,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-11-18T21:23:34Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-18T22:23:37Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-18T23:23:44Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-19T00:23:49Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 9,
-      "is_new": false,
-      "topic": "Ponzi",
-      "description": "The term Ponzi is trending after two Indiana men and Backward Hat Capital founders were charged with orchestrating a massive $600 million scheme.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ponzi",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.H2ZghTB69wOBveopqajl8AHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T21:23:34Z",
-      "first_seen": "2026-11-18T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 14,
+      "volume": "14hr trend",
+      "volume_value": 14,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "vice-city",
-      "rank": 12,
+      "rank": 18,
       "previous_rank": 19,
       "rank_4h_ago": 19,
       "rank_history": [
@@ -486,12 +674,16 @@
         {
           "t": "2026-11-19T01:23:42Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-19T02:23:36Z",
+          "r": 18
         }
       ],
-      "rank_change": 7,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Vice City",
-      "description": "Vice City is trending as gamers dive into Rockstar's latest release and the Miami Heat basketball team launches a collaboration celebrating the setting.",
+      "description": "Vice City is trending as fans rave about Rockstar's latest open world and the Miami Heat basketball team launches a GTA 6-inspired collaboration night.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Vice%20City",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.tk1Grbex9NV1k_du3u2iKwHaEK&pid=15.1",
@@ -500,37 +692,37 @@
       "started_trending": "2026-11-18T21:23:34Z",
       "first_seen": "2026-11-18T21:23:34Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-19T02:23:36Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "tim-mcgraw",
-      "rank": 13,
+      "id": "justin-edwards",
+      "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 13
+          "t": "2026-11-19T02:23:36Z",
+          "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Tim McGraw",
-      "description": "Tim McGraw is trending after getting vulnerable about his non-linear sobriety journey, announcing a record label signing, and preparing for the CMA Awards.",
+      "topic": "Justin Edwards",
+      "description": "Justin Edwards is trending following recent highlights of his athletic play on the court and ongoing updates regarding his status with the 76ers.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Tim%20McGraw",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.ZIDnUT65-oS4nWApkY4XvwHaNK&pid=15.1",
+      "url": "https://sotwe.com/search/Justin%20Edwards",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.6s7Uht2u9fDchcNtSFlL3QHaFc&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-19T01:23:42Z",
-      "first_seen": "2026-11-19T01:23:42Z",
+      "started_trending": "2026-11-19T02:23:36Z",
+      "first_seen": "2026-11-19T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
+      "last_seen": "2026-11-19T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -538,301 +730,29 @@
       "extra": {}
     },
     {
-      "id": "jason",
-      "rank": 14,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-18T20:23:33Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-18T21:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-18T22:23:37Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-18T23:23:44Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-19T00:23:49Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Jason",
-      "description": "Jason is trending in sports news after NC State hired longtime NFL assistant Jason Michael as its new offensive coordinator under Philip Rivers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jason",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ugkFpaU9QxecWLRWD3PMDAHaKy&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T19:23:35Z",
-      "first_seen": "2026-11-18T19:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rockstar",
-      "rank": 15,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-18T20:23:33Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-18T21:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-18T22:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-18T23:23:44Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-19T00:23:49Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Rockstar",
-      "description": "Rockstar is trending as critics praise Grand Theft Auto VI as a masterpiece, while the developer addresses major gameplay and content decisions.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rockstar",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.PJ5o_CSsyPW0YIibf-IswAHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T13:23:37Z",
-      "first_seen": "2026-11-18T13:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 12,
-      "volume": "12hr trend",
-      "volume_value": 12,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gemini-4-neon",
-      "rank": 16,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-18T22:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-18T23:23:44Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-19T00:23:49Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Gemini 4 Neon",
-      "description": "Gemini 4 Neon is trending as Google launches its fourth new AI model in a month, featuring Carbon quality at Flash speeds for AI Pro users.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Gemini%204%20Neon",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.pb0rrxbVlLDnhWCaEMZacgHaEp&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T22:23:37Z",
-      "first_seen": "2026-11-18T22:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "houston",
-      "rank": 17,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-19T00:23:49Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Houston",
-      "description": "Houston is trending following an 86-76 victory over Florida in the Players Era Festival semifinal in Las Vegas.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Houston",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.fk3npRuQERpMao15lAn61QHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-19T00:23:49Z",
-      "first_seen": "2026-11-19T00:23:49Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "grand-theft-auto",
-      "rank": 18,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-18T21:23:34Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-18T22:23:37Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-18T23:23:44Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-19T00:23:49Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Grand Theft Auto",
-      "description": "Grand Theft Auto is trending as critics hail the new sixth installment as an astonishing American epic and a monumental gaming release.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Grand%20Theft%20Auto",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.YYA1QSw8shFEvZFpR1QsEAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T21:23:34Z",
-      "first_seen": "2026-11-18T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "social-security",
-      "rank": 19,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-18T20:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-18T21:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-18T22:23:37Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-18T23:23:44Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-19T00:23:49Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-19T01:23:42Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Social Security",
-      "description": "Social Security is trending after Senator Ron Johnson faced backlash for calling the program a legal Ponzi scheme and suggesting it should be shut down.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Social%20Security",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.50FAoq79vl7xZyIJIjLnegHaEM&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-18T19:23:35Z",
-      "first_seen": "2026-11-18T19:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "philon",
+      "id": "kyle-fletcher",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-19T01:23:42Z",
+          "t": "2026-11-19T02:23:36Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Philon",
-      "description": "Labaron Philon is trending as the Philadelphia 76ers rookie opens up about waiting for his opportunity and his recent G League stint.",
+      "topic": "Kyle Fletcher",
+      "description": "Kyle Fletcher is trending among wrestling fans as AEW hints at a babyface turn following events surrounding Full Gear and Will Ospreay.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Philon",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-19T01:23:42Z",
-      "first_seen": "2026-11-19T01:23:42Z",
+      "url": "https://sotwe.com/search/Kyle%20Fletcher",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.GJ4w3GpbYJjeFe55Q0nX9Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-19T02:23:36Z",
+      "first_seen": "2026-11-19T02:23:36Z",
       "published": null,
-      "last_seen": "2026-11-19T01:23:42Z",
+      "last_seen": "2026-11-19T02:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
