@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-20T21:25:04Z",
+  "updated": "2026-11-20T22:25:50Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -28,12 +28,16 @@
         {
           "t": "2026-11-20T21:23:35Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Daniel Jones",
-      "description": "Daniel Jones is trending after being waived by the Indianapolis Colts just 11 games into a two-year contract, with the Patriots emerging as favorites to sign him.",
+      "description": "The Indianapolis Colts waived quarterback Daniel Jones and named Anthony Richardson their new starting quarterback.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Daniel%20Jones",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.XJH8IN8tF5vcCapieOsEcw&pid=15.1",
@@ -42,16 +46,116 @@
       "started_trending": "2026-11-20T18:23:37Z",
       "first_seen": "2026-11-20T18:23:37Z",
       "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "riemann-hypothesis",
+      "rank": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-20T17:23:34Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-20T18:23:37Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-20T19:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-20T20:23:48Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-20T21:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Riemann Hypothesis",
+      "description": "An Anthropic mathematician reportedly claimed to have solved the Riemann hypothesis using AI, attracting significant attention from independent mathematicians and tech outlets.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Riemann%20Hypothesis",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.sJByU2u4uB3WQY16FoEz8wHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T15:23:34Z",
+      "first_seen": "2026-11-20T15:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rikers",
+      "rank": 3,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-11-20T17:23:34Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-20T18:23:37Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-20T19:23:36Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-20T20:23:48Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-20T21:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 3
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Rikers",
+      "description": "New York City Mayor Zohran Mamdani unveiled a comprehensive plan to permanently close the notorious Rikers Island jail complex.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Rikers",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.IQGaK8g2HKITRwwd6H-h_wHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T13:23:36Z",
+      "first_seen": "2026-11-20T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "colts",
-      "rank": 2,
+      "rank": 4,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -70,12 +174,16 @@
         {
           "t": "2026-11-20T21:23:35Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 4
         }
       ],
-      "rank_change": 4,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Colts",
-      "description": "The Colts are drawing heavy media attention and criticism for waiving quarterback Daniel Jones and naming Anthony Richardson the new starter.",
+      "description": "The Indianapolis Colts are drawing scrutiny and confusion across the NFL after waiving quarterback Daniel Jones and naming Anthony Richardson as the new starter.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Colts",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.NCYNWRQCzEYTgMuruBj-BAHaHy&pid=15.1",
@@ -84,158 +192,450 @@
       "started_trending": "2026-11-20T18:23:37Z",
       "first_seen": "2026-11-20T18:23:37Z",
       "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "riemann-hypothesis",
-      "rank": 3,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-20T16:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-20T17:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-20T18:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 3
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Riemann Hypothesis",
-      "description": "The 167-year-old Riemann Hypothesis is trending after an Anthropic mathematician and an AI system both released competing claims of proofs.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Riemann%20Hypothesis",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.sJByU2u4uB3WQY16FoEz8wHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T15:23:34Z",
-      "first_seen": "2026-11-20T15:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rikers",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-20T16:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-20T17:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-20T18:23:37Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Rikers",
-      "description": "Rikers Island is trending as New York City Mayor Zohran Mamdani unveiled the city's first comprehensive plan to permanently close the notorious jail.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rikers",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.IQGaK8g2HKITRwwd6H-h_wHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T13:23:36Z",
-      "first_seen": "2026-11-20T13:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tstheerastour",
+      "id": "nasdaq",
       "rank": 5,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
-          "t": "2026-11-20T18:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 5
-        },
-        {
           "t": "2026-11-20T21:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
           "r": 5
         }
       ],
-      "rank_change": -1,
+      "rank_change": 5,
       "is_new": false,
-      "topic": "#TSTheErasTour",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23TSTheErasTour",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.ZFemwpLJ5/o2PKt0boeGcg&pid=15.1",
+      "topic": "Nasdaq",
+      "description": "Stock markets plunged as a major AI selloff wiped out the Nasdaq's gains for the year and pushed the S&P 500 and Dow into corrections.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Nasdaq",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.i-BxS8bVA0MVbxEXzqNPmgHaKk&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T21:23:35Z",
+      "first_seen": "2026-11-20T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "al-nassr",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Al Nassr",
+      "description": "Cristiano Ronaldo edged closer to his 1,000th career goal but missed a penalty as Al Nassr suffered a comeback defeat against Al Ahli.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Al%20Nassr",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.kLJiNgWhRywnGbEx8NyA9g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bayern",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bayern",
+      "description": "Bayern Munich was held to a draw by Cologne, while star striker Harry Kane was forced off the pitch due to an early ankle injury.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bayern",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.4Mdjmq0aYKnzFAN2COjrYg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "beer",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Beer",
+      "description": "Recent headlines range from holiday beer trail events and a new CEO announcement for Boston Beer to a study linking alcohol to kidney damage.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Beer",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.LnDgThWOFeMEvELK71N3cgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mets",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mets",
+      "description": "MLB trade rumors circulate around the New York Mets, including speculation of a massive $400 million offer for pitcher Tarik Skubal.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mets",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "espanyol",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Espanyol",
+      "description": "Espanyol is trending around social media ahead of their match against Athletic Bilbao, with player Roberto Fernández recently scoring.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Espanyol",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "troy-melton",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Troy Melton",
+      "description": "The Detroit Tigers and newly converted starting pitcher Troy Melton have agreed to a six-year contract extension.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Troy%20Melton",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lean",
+      "rank": 12,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-20T17:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-20T18:23:37Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-20T19:23:36Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-20T20:23:48Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-20T21:23:35Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 12
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Lean",
+      "description": "The Lean proof checker gained widespread focus following an unverified claim that the Riemann hypothesis was solved using Claude.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Lean",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.hDzJi4kN29mqU1vo6j9x6Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T17:23:34Z",
+      "first_seen": "2026-11-20T17:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "puka",
+      "rank": 13,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-20T18:23:37Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-20T19:23:36Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-20T20:23:48Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-20T21:23:35Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Puka",
+      "description": "Los Angeles Rams wide receiver Puka Nacua underwent MCL surgery and is expected to miss the remainder of the NFL season.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Puka",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.3Zs7CzbNJzVlfQrPcuW0/A&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-20T18:23:37Z",
       "first_seen": "2026-11-20T18:23:37Z",
       "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-president-s-own",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "The President's Own",
+      "description": "Donald Trump and UFC chief Dana White donated $500,000 of their own money to honor the Marine Band at a White House helipad event.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/The%20President%27s%20Own",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.QZbEGBIyzJK1asfw9eXCOgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "olise",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Olise",
+      "description": "Michael Olise joined Harry Kane in suffering an injury during Bayern Munich's match against Cologne, shocking fans.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Olise",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.awC6nbyJ_HGrGooLT7a6ggAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "don-omar",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Don Omar",
+      "description": "The topic is trending due to mentions in recent entertainment and music news headlines, though no specific event is detailed.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Don%20Omar",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.vaf5JsR9ADIZwMhXfSaQdg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "whatsapp",
+      "rank": 17,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-20T21:23:35Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 17
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "WhatsApp",
+      "description": "WhatsApp patched three security flaws, including an Android bug used in scams, and raised its group chat member limit to 1,500.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/WhatsApp",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.6DzBx2lnrwvP7SCkvXUHUQHaHk&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T21:23:35Z",
+      "first_seen": "2026-11-20T21:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "achilles",
-      "rank": 6,
+      "rank": 18,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -254,12 +654,16 @@
         {
           "t": "2026-11-20T21:23:35Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 18
         }
       ],
-      "rank_change": 1,
+      "rank_change": -11,
       "is_new": false,
       "topic": "Achilles",
-      "description": "New York City Mayor Zohran Mamdani is facing medical recovery after tearing his Achilles tendon while playing soccer against the press corps.",
+      "description": "New York City Mayor Zohran Mamdani tore his Achilles tendon while playing soccer against the NYC press corps.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Achilles",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.NAewqyOoze4eqGEgHQh3rQ&pid=15.1",
@@ -268,70 +672,62 @@
       "started_trending": "2026-11-20T18:23:37Z",
       "first_seen": "2026-11-20T18:23:37Z",
       "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "puka",
-      "rank": 7,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "id": "transgender-day-of-remembrance",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T18:23:37Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 7
+          "t": "2026-11-20T22:23:58Z",
+          "r": 19
         }
       ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Puka",
-      "description": "Los Angeles Rams wide receiver Puka Nacua is trending after undergoing MCL surgery that will likely sideline him for the rest of the season.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Transgender Day of Remembrance",
+      "description": "Government officials and advocacy groups across the United States are marking Transgender Day of Remembrance to honor those lost.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Puka",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.3Zs7CzbNJzVlfQrPcuW0/A&pid=15.1",
+      "url": "https://sotwe.com/search/Transgender%20Day%20of%20Remembrance",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.8WOzo5jcgDLy6r_hhWMyvAHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-20T18:23:37Z",
-      "first_seen": "2026-11-20T18:23:37Z",
+      "started_trending": "2026-11-20T22:23:58Z",
+      "first_seen": "2026-11-20T22:23:58Z",
       "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-20T22:23:58Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "holy-sheets",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-20T21:23:35Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-20T22:23:58Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -12,
+      "is_new": false,
       "topic": "Holy Sheets",
-      "description": "Baseball player Sheets is trending following reports that the Padres agreed to a three-year contract extension with the slugger.",
+      "description": "The San Diego Padres agreed to a three-year contract extension with slugger Sheets.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Holy%20Sheets",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.lvFaIHQxu_rq5AA5x4dZYgHaEK&pid=15.1",
@@ -340,455 +736,7 @@
       "started_trending": "2026-11-20T21:23:35Z",
       "first_seen": "2026-11-20T21:23:35Z",
       "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "richardson",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Richardson",
-      "description": "Anthony Richardson is trending after being named the starting quarterback for the Indianapolis Colts following the release of Daniel Jones.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Richardson",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.2sWC3zz0rSIrUlhr1Tnblg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T21:23:35Z",
-      "first_seen": "2026-11-20T21:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nasdaq",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Nasdaq",
-      "description": "The Nasdaq is trending after suffering a sharp plunge and correction amid a major selloff in artificial intelligence stocks.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Nasdaq",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.i-BxS8bVA0MVbxEXzqNPmgHaKk&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T21:23:35Z",
-      "first_seen": "2026-11-20T21:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "carlie",
-      "rank": 11,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Carlie",
-      "description": "Indianapolis Colts owner Carlie Irsay-Gordon is generating online discussion and memes amid the team's struggles and roster changes.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Carlie",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Id4_FVxpKmzaMvdCRPcW8AHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T19:23:36Z",
-      "first_seen": "2026-11-20T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lean",
-      "rank": 12,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-20T17:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-20T18:23:37Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Lean",
-      "description": "Lean is trending due to its role as the proof checker used in an unverified claim solving the Riemann Hypothesis.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Lean",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.hDzJi4kN29mqU1vo6j9x6Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T17:23:34Z",
-      "first_seen": "2026-11-20T17:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "danny-dimes",
-      "rank": 13,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-20T18:23:37Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Danny Dimes",
-      "description": "Daniel Jones, often called Danny Dimes, is trending following his release by the Indianapolis Colts and speculation over his next team.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Danny%20Dimes",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.XJH8IN8tF5vcCapieOsEcw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T18:23:37Z",
-      "first_seen": "2026-11-20T18:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "josh-johnson",
-      "rank": 14,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-20T18:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Josh Johnson",
-      "description": "Josh Johnson is trending as the 40-year-old quarterback prepares to potentially start for the Cardinals against the Chiefs due to injuries.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Josh%20Johnson",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.scN9N90C1-QKCoPa_oQ58AHaMy&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T18:23:37Z",
-      "first_seen": "2026-11-20T18:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "vance-and-rubio",
-      "rank": 15,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Vance and Rubio",
-      "description": "JD Vance and Marco Rubio are trending amid growing speculation, buzz, and discussion regarding potential successors for Donald Trump in 2028.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Vance%20and%20Rubio",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.fF7GB/QmrEGi9EmlmPXyDw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T19:23:36Z",
-      "first_seen": "2026-11-20T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "accountabilityiscoming",
-      "rank": 16,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-20T18:23:37Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#AccountabilityIsComing",
-      "description": "#AccountabilityIsComing is trending following reports that Donald Trump's former press secretary is under legal investigation by a watchdog.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23AccountabilityIsComing",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.zInFm2K0fPcnuv4c2MiLfAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T18:23:37Z",
-      "first_seen": "2026-11-20T18:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mensah",
-      "rank": 17,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "Mensah",
-      "description": "Miami Hurricanes quarterback Darian Mensah is drawing attention after being left off the finalist list for the Johnny Unitas Golden Arm Award.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mensah",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.lQBek75bL3nyG1jFbQJUmwHaE9&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T20:23:48Z",
-      "first_seen": "2026-11-20T20:23:48Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "whatsapp",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "WhatsApp",
-      "description": "WhatsApp is trending after releasing security patches for several flaws and announcing an increased group chat limit of 1,500 members.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/WhatsApp",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.6DzBx2lnrwvP7SCkvXUHUQHaHk&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T21:23:35Z",
-      "first_seen": "2026-11-20T21:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mcvay",
-      "rank": 19,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "McVay",
-      "description": "Rams coach Sean McVay is trending after providing injury updates, including that wide receiver Puka Nacua will miss months following knee surgery.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/McVay",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.4OnLdU9LkHfVYm7Yk_L-rwHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T19:23:36Z",
-      "first_seen": "2026-11-20T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ballard",
-      "rank": 20,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-20T19:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-20T20:23:48Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-20T21:23:35Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Ballard",
-      "description": "Chris Ballard is facing heavy criticism on social media from sports commentators and fans over the Indianapolis Colts' ongoing struggles and roster moves.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ballard",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ShyIlLHvvneF5_ah32NPCQHaLH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T19:23:36Z",
-      "first_seen": "2026-11-20T19:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-20T21:23:35Z",
+      "last_seen": "2026-11-20T22:23:58Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
