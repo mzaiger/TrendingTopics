@@ -1,57 +1,31 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-20T12:25:10Z",
+  "updated": "2026-11-20T13:25:21Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "earthquake",
-      "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 1
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#earthquake",
-      "description": "Recent earthquakes have struck Southern California, including a magnitude 4.4 tremor near Commerce and a 5.1 magnitude earthquake in Monterey County.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23earthquake",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.TdBTymALMEuTaIj-6qwKcAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T12:23:33Z",
-      "first_seen": "2026-11-20T12:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "good-friday",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-20T12:23:33Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Good Friday",
-      "description": "Early Black Friday deals and sale dates are trending as shoppers look for discounts on tech, travel, and retail items.",
+      "description": "Users online are sharing early holiday shopping finds and discussing upcoming Black Friday sales as November advances.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Good%20Friday",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.zokcOpUS6Ci5vdlzA6XEigHaDt&pid=15.1",
@@ -60,10 +34,44 @@
       "started_trending": "2026-11-20T12:23:33Z",
       "first_seen": "2026-11-20T12:23:33Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "earthquake",
+      "rank": 2,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
+      "rank_history": [
+        {
+          "t": "2026-11-20T12:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 2
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "#earthquake",
+      "description": "Social media users are reporting on a 4.4-magnitude earthquake that shook the Los Angeles area, with a epicenter near Commerce.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23earthquake",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.TdBTymALMEuTaIj-6qwKcAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T12:23:33Z",
+      "first_seen": "2026-11-20T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -84,12 +92,16 @@
         {
           "t": "2026-11-20T12:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 3
         }
       ],
       "rank_change": 10,
       "is_new": false,
       "topic": "RED Friday",
-      "description": "Financial markets are reacting to a \"Red Friday\" as Asia's AI trade unravels, alongside retail Black Friday promotions and sports updates.",
+      "description": "Users are discussing financial news regarding Asia's AI trade unwinding, alongside various local and sports updates.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/RED%20Friday",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.l7e0ZCk6SDUdbjPNEmq-LwEsCo&pid=15.1",
@@ -98,28 +110,62 @@
       "started_trending": "2026-11-20T10:23:35Z",
       "first_seen": "2026-11-20T10:23:35Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "al-nassr",
+      "id": "rikers",
       "rank": 4,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T12:23:33Z",
+          "t": "2026-11-20T13:23:36Z",
           "r": 4
         }
       ],
       "rank_change": null,
       "is_new": true,
+      "topic": "Rikers",
+      "description": "Social media users are discussing New York City officials' newly unveiled plans and proposals to close the Rikers Island jail complex by 2032.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Rikers",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.IQGaK8g2HKITRwwd6H-h_wHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T13:23:36Z",
+      "first_seen": "2026-11-20T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "al-nassr",
+      "rank": 5,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-20T12:23:33Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Al Nassr",
-      "description": "Al Nassr is trending as the team prepares for a Saudi Pro League match against Al Ahli, with Cristiano Ronaldo rested and ready.",
+      "description": "Fans are buzzing online ahead of the Saudi Pro League match between Al Ahli and Al Nassr, featuring anticipated lineups and Cristiano Ronaldo.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Al%20Nassr",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.kLJiNgWhRywnGbEx8NyA9g&pid=15.1",
@@ -128,7 +174,71 @@
       "started_trending": "2026-11-20T12:23:33Z",
       "first_seen": "2026-11-20T12:23:33Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-friyay",
+      "rank": 6,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-20T12:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Happy Friyay",
+      "description": "Users are posting weekend greetings and discussing local weather forecasts and upcoming regional shopping deals as Friday arrives.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Happy%20Friyay",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.yfQE3SEDPLplX1luEGSZ_QHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T12:23:33Z",
+      "first_seen": "2026-11-20T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nomoneyforlads",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#NoMoneyForLaDs",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23NoMoneyForLaDs",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-20T13:23:36Z",
+      "first_seen": "2026-11-20T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -136,180 +246,166 @@
       "extra": {}
     },
     {
-      "id": "daesangforbts",
-      "rank": 5,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-20T09:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-20T10:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-20T11:23:34Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 5
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#DAESANGFORBTS",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23DAESANGFORBTS",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.sxx-HUCKDPn_spaOoApQOgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T09:23:32Z",
-      "first_seen": "2026-11-20T09:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "voteforbts",
-      "rank": 6,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-20T09:23:32Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-20T10:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-20T11:23:34Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 6
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#VOTEFORBTS",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23VOTEFORBTS",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.favwMZ_5kM3HijZ-i1nO2AHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T09:23:32Z",
-      "first_seen": "2026-11-20T09:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "armyonmnet",
-      "rank": 7,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-20T09:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-20T10:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-20T11:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#ARMYONMNET",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23ARMYONMNET",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.tODORN9y1cNyY4aFdQo-6AHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T09:23:32Z",
-      "first_seen": "2026-11-20T09:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "percyjackson",
+      "id": "boycottdisneyppgcollab",
       "rank": 8,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T08:23:37Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-20T09:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-20T10:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-20T11:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-20T12:23:33Z",
+          "t": "2026-11-20T13:23:36Z",
           "r": 8
         }
       ],
-      "rank_change": 9,
-      "is_new": false,
-      "topic": "#PercyJackson",
-      "description": "Fans are discussing the release schedule, recaps, and changes in Season 3 of Percy Jackson and the Olympians.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23PercyJackson",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.rqdFY8iNiHr9NW9L8UXpLg&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BoycottDisneyPPGCollab",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23BoycottDisneyPPGCollab",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP._0negathO8Erq351YgSDxAHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-20T08:23:37Z",
-      "first_seen": "2026-11-20T08:23:37Z",
+      "started_trending": "2026-11-20T13:23:36Z",
+      "first_seen": "2026-11-20T13:23:36Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "remember-everyone-deployed",
+      "rank": 9,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-20T12:23:33Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Remember Everyone Deployed",
+      "description": "The material does not provide enough information to explain why this is currently trending.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Remember%20Everyone%20Deployed",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.smjxFyqr0zfX2M4AY_69-wHaE2&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T12:23:33Z",
+      "first_seen": "2026-11-20T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sorrynotsorryperthmv",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#SorryNotSorryPERTHmv",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23SorryNotSorryPERTHmv",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.uQZfGVJswlTYu/a4aZMa6A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T13:23:36Z",
+      "first_seen": "2026-11-20T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "salt-lake",
+      "rank": 11,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-20T12:23:33Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Salt Lake",
+      "description": "Social media users are discussing Real Salt Lake's wild card playoff win against the Seattle Sounders in penalty kicks, alongside local weather forecasts.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Salt%20Lake",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.BD3NJf8s_R_IukRW3HibmwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T12:23:33Z",
+      "first_seen": "2026-11-20T12:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fridayvibes",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FridayVibes",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23FridayVibes",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.5lXc-nS78B4qWVdnBJW76QHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T13:23:36Z",
+      "first_seen": "2026-11-20T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "our-choice-is-bts-at-mama",
-      "rank": 9,
+      "rank": 13,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -328,13 +424,17 @@
         {
           "t": "2026-11-20T12:23:33Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 13
         }
       ],
-      "rank_change": -3,
+      "rank_change": -7,
       "is_new": false,
       "topic": "OUR CHOICE IS BTS AT MAMA",
-      "description": "",
-      "description_source": "",
+      "description": "Fans are celebrating online after BTS and Enhypen secured top honors and trophies on the first night of the MAMA Awards.",
+      "description_source": "gemini",
       "url": "https://sotwe.com/search/OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.Rl3gfer4RolfGtrwCqOt3QHaEL&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -342,37 +442,37 @@
       "started_trending": "2026-11-20T09:23:32Z",
       "first_seen": "2026-11-20T09:23:32Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "happy-friyay",
-      "rank": 10,
+      "id": "waka",
+      "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 10
+          "t": "2026-11-20T13:23:36Z",
+          "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Happy Friyay",
-      "description": "Social media users are welcoming the end of the week with talk of near-record warmth and early Black Friday sales.",
+      "topic": "Waka",
+      "description": "Users are sharing local updates, weather reports, and news coverage from Alabama outlet WAKA 8.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Happy%20Friyay",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.yfQE3SEDPLplX1luEGSZ_QHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/Waka",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.VxwbYYP9ioNduJpcll069wHaD5&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-20T12:23:33Z",
-      "first_seen": "2026-11-20T12:23:33Z",
+      "started_trending": "2026-11-20T13:23:36Z",
+      "first_seen": "2026-11-20T13:23:36Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
+      "last_seen": "2026-11-20T13:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -380,38 +480,102 @@
       "extra": {}
     },
     {
-      "id": "remember-everyone-deployed",
-      "rank": 11,
+      "id": "mama-awards",
+      "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 11
+          "t": "2026-11-20T13:23:36Z",
+          "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Remember Everyone Deployed",
-      "description": "Veterans and community members are highlighting support services for deployed personnel and veterans in need.",
+      "topic": "MAMA Awards",
+      "description": "K-pop fans are discussing performances, red carpet appearances by hosts like Park Bo-gum, and winners from the opening night of the MAMA Awards.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Remember%20Everyone%20Deployed",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.smjxFyqr0zfX2M4AY_69-wHaE2&pid=15.1",
+      "url": "https://sotwe.com/search/MAMA%20Awards",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.tqeHoZLvegThP0f6vFZDnA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T13:23:36Z",
+      "first_seen": "2026-11-20T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "finally-friday",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Finally Friday",
+      "description": "Users online are celebrating the end of the week while sharing early holiday shopping promotions, including SKIMS and Apple product sales.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Finally%20Friday",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.QsfLoXpVKXiz-8Le9f2f7AHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T13:23:36Z",
+      "first_seen": "2026-11-20T13:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "east-la",
+      "rank": 17,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-20T12:23:33Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "East LA",
+      "description": "Social media users are discussing federal arrests after a 21-year-old from East Los Angeles was accused of masterminding multi-million-dollar cargo train heists.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/East%20LA",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.noLQHcBdUTUzL1_Pm7FRvgHaFj&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-20T12:23:33Z",
       "first_seen": "2026-11-20T12:23:33Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "annabeth",
-      "rank": 12,
+      "rank": 18,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -430,12 +594,16 @@
         {
           "t": "2026-11-20T12:23:33Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 18
         }
       ],
-      "rank_change": -4,
+      "rank_change": -10,
       "is_new": false,
       "topic": "annabeth",
-      "description": "Viewers are discussing Annabeth's sacrifice and character arcs following recent episodes of Percy Jackson Season 3.",
+      "description": "Fans are discussing Annabeth's storyline and dangerous new quest following recent episode recaps and developments in season 3 of Percy Jackson and the Olympians.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/annabeth",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.qzZBIPNxRKB9bisAtyEb8A&pid=15.1",
@@ -444,46 +612,16 @@
       "started_trending": "2026-11-20T09:23:32Z",
       "first_seen": "2026-11-20T09:23:32Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "salt-lake",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Salt Lake",
-      "description": "Real Salt Lake defeated the Seattle Sounders in a penalty shootout during their MLS Cup Playoffs Wild Card match.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Salt%20Lake",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.BD3NJf8s_R_IukRW3HibmwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T12:23:33Z",
-      "first_seen": "2026-11-20T12:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "thalia",
-      "rank": 14,
+      "rank": 19,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -502,12 +640,16 @@
         {
           "t": "2026-11-20T12:23:33Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 19
         }
       ],
-      "rank_change": -2,
+      "rank_change": -7,
       "is_new": false,
       "topic": "thalia",
-      "description": "Characters and recaps from Percy Jackson Season 3 are trending alongside gaming updates and venue ticket sales.",
+      "description": "Users are discussing recent updates involving Thalia, including character additions in Solo Leveling: ARISE and plot developments in Percy Jackson and the Olympians.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/thalia",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.NXVLu1rKUPR08F6rrYqFQQHaKL&pid=15.1",
@@ -516,141 +658,19 @@
       "started_trending": "2026-11-20T09:23:32Z",
       "first_seen": "2026-11-20T09:23:32Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "east-la",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "East LA",
-      "description": "Federal authorities report that a 21-year-old from East LA masterminded massive Southern California train heists netting millions in goods.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/East%20LA",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.noLQHcBdUTUzL1_Pm7FRvgHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T12:23:33Z",
-      "first_seen": "2026-11-20T12:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "laura-lee",
-      "rank": 16,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-20T09:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-20T10:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-20T11:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "laura lee",
-      "description": "Bronx actress Laura Lee Botsacos is generating buzz for turning personal memories of 9/11 into a solo play titled Tuesday.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/laura%20lee",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.XFabTKd3H6nbowaIvPtpewHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T09:23:32Z",
-      "first_seen": "2026-11-20T09:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "martinverse",
-      "rank": 17,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-20T08:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-20T09:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-20T10:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-20T11:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "MARTINVERSE",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/MARTINVERSE",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.RQQnU3GDnw9iVXMhdvwG1QHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T08:23:37Z",
-      "first_seen": "2026-11-20T08:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "nayeon",
-      "rank": 18,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "rank": 20,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
-        {
-          "t": "2026-11-20T07:23:33Z",
-          "r": 3
-        },
         {
           "t": "2026-11-20T08:23:37Z",
           "r": 7
@@ -670,12 +690,16 @@
         {
           "t": "2026-11-20T12:23:33Z",
           "r": 18
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 20
         }
       ],
-      "rank_change": -15,
+      "rank_change": -7,
       "is_new": false,
       "topic": "nayeon",
-      "description": "Twice member Nayeon is trending with the release of her new solo single album and music videos.",
+      "description": "K-pop fans are discussing Twice member Nayeon's new solo release and single album, which features a distinct aesthetic and style.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/nayeon",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.Q2DQ0BjLzzLOrYWOZUMppg&pid=15.1",
@@ -684,102 +708,10 @@
       "started_trending": "2026-11-20T05:23:32Z",
       "first_seen": "2026-11-20T05:23:32Z",
       "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 7,
-      "volume": "7hr trend",
-      "volume_value": 7,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "godtin",
-      "rank": 19,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-20T08:23:37Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-20T09:23:32Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-20T10:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-20T11:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "GODTIN",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/GODTIN",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.2tCUnKzhmOv7oZmQu8NW6gHaJV&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T08:23:37Z",
-      "first_seen": "2026-11-20T08:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "martin-overdose-the-stage",
-      "rank": 20,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-20T08:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-20T09:23:32Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-20T10:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-20T11:23:34Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "MARTIN OVERDOSE THE STAGE",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/MARTIN%20OVERDOSE%20THE%20STAGE",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.EcN53hOrhI6JjP5G6PJkwwHaLH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T08:23:37Z",
-      "first_seen": "2026-11-20T08:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-20T12:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-20T13:23:36Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     }
