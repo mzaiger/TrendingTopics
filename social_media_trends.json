@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-20T14:26:04Z",
+  "updated": "2026-11-20T15:26:15Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -20,12 +20,16 @@
         {
           "t": "2026-11-20T14:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 1
         }
       ],
       "rank_change": 3,
       "is_new": false,
       "topic": "Rikers",
-      "description": "New York City officials, including Mayor Mamdani, unveiled a comprehensive plan to officially close the controversial Rikers Island jail complex by 2032.",
+      "description": "Mayor Zohran Mamdani has unveiled a new comprehensive plan to close the Rikers Island jail complex by 2032 and move jails off the island.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Rikers",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.IQGaK8g2HKITRwwd6H-h_wHaEK&pid=15.1",
@@ -34,7 +38,7 @@
       "started_trending": "2026-11-20T13:23:36Z",
       "first_seen": "2026-11-20T13:23:36Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -58,6 +62,10 @@
         {
           "t": "2026-11-20T14:23:36Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 2
         }
       ],
       "rank_change": 0,
@@ -72,18 +80,48 @@
       "started_trending": "2026-11-20T12:23:33Z",
       "first_seen": "2026-11-20T12:23:33Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-20T15:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "riemann-hypothesis",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Riemann Hypothesis",
+      "description": "An Anthropic mathematician has reportedly claimed to provide an AI-assisted proof of the Riemann hypothesis, drawing widespread attention.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Riemann%20Hypothesis",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.sJByU2u4uB3WQY16FoEz8wHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T15:23:34Z",
+      "first_seen": "2026-11-20T15:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-20T15:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "red-friday",
-      "rank": 3,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "rank": 4,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-20T10:23:35Z",
@@ -104,9 +142,13 @@
         {
           "t": "2026-11-20T14:23:36Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 4
         }
       ],
-      "rank_change": 10,
+      "rank_change": 2,
       "is_new": false,
       "topic": "RED Friday",
       "description": "Social media users are discussing financial market movements after Asian markets experienced a 'Red Friday' drop due to an unraveling tech trade, alongside ongoing Black Friday shopping news.",
@@ -118,48 +160,10 @@
       "started_trending": "2026-11-20T10:23:35Z",
       "first_seen": "2026-11-20T10:23:35Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "earthquake",
-      "rank": 4,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-20T13:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-20T14:23:36Z",
-          "r": 4
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "#earthquake",
-      "description": "Social media users are sharing updates and reacting to recent moderate earthquakes that shook the Los Angeles area and Central California.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23earthquake",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.TdBTymALMEuTaIj-6qwKcAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T12:23:33Z",
-      "first_seen": "2026-11-20T12:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -176,6 +180,10 @@
         {
           "t": "2026-11-20T14:23:36Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 5
         }
       ],
       "rank_change": 7,
@@ -190,7 +198,7 @@
       "started_trending": "2026-11-20T13:23:36Z",
       "first_seen": "2026-11-20T13:23:36Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -198,8 +206,38 @@
       "extra": {}
     },
     {
-      "id": "happy-friyay",
+      "id": "tejran",
       "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#TejRan",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23TejRan",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-20T15:23:34Z",
+      "first_seen": "2026-11-20T15:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-20T15:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-friyay",
+      "rank": 7,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -214,85 +252,55 @@
         {
           "t": "2026-11-20T14:23:36Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 7
         }
       ],
-      "rank_change": 4,
+      "rank_change": 3,
       "is_new": false,
-      "topic": "Happy FriYay",
+      "topic": "Happy Friyay",
       "description": "Social media users are celebrating the end of the workweek with casual Friday posts, weekend weather forecasts, and daily mailbags.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Happy%20FriYay",
+      "url": "https://sotwe.com/search/Happy%20Friyay",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.yfQE3SEDPLplX1luEGSZ_QHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-20T12:23:33Z",
       "first_seen": "2026-11-20T12:23:33Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-20T15:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "boycottdisneyppgcollab",
-      "rank": 7,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-20T13:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-20T14:23:36Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "#BoycottDisneyPPGCollab",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23BoycottDisneyPPGCollab",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP._0negathO8Erq351YgSDxAHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T13:23:36Z",
-      "first_seen": "2026-11-20T13:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "auau-save-ost-mr-fanboy",
+      "id": "paobc",
       "rank": 8,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T14:23:36Z",
+          "t": "2026-11-20T15:23:34Z",
           "r": 8
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "AUAU SAVE OST MR FANBOY",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/AUAU%20SAVE%20OST%20MR%20FANBOY",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.zcMWfKSTdBsd1kbputhDjQHaJP&pid=15.1",
+      "topic": "#paobc",
+      "description": "Panathinaikos BC defeated Zalgiris Kaunas 87-72 in recent basketball action.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23paobc",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.2dhXpn3U6kkdWW1n7-gzCAHaD4&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-20T14:23:36Z",
-      "first_seen": "2026-11-20T14:23:36Z",
+      "started_trending": "2026-11-20T15:23:34Z",
+      "first_seen": "2026-11-20T15:23:34Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -300,33 +308,67 @@
       "extra": {}
     },
     {
-      "id": "nomoneyforlads",
+      "id": "lastfourwatched",
       "rank": 9,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T13:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-20T14:23:36Z",
+          "t": "2026-11-20T15:23:34Z",
           "r": 9
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#NoMoneyForLaDs",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#LastFourWatched",
       "description": "",
       "description_source": "",
-      "url": "https://sotwe.com/search/%23NoMoneyForLaDs",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.RtcCU9PPf3gzZcjT0GwBVAHaNK&pid=15.1",
+      "url": "https://sotwe.com/search/%23LastFourWatched",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.7XotJHxrUI4my53XoL9YeAHaDw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T15:23:34Z",
+      "first_seen": "2026-11-20T15:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-20T15:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "waka",
+      "rank": 10,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-20T14:23:36Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Waka",
+      "description": "The material doesn't make a description clear.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Waka",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.VxwbYYP9ioNduJpcll069wHaD5&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-20T13:23:36Z",
       "first_seen": "2026-11-20T13:23:36Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -334,38 +376,50 @@
       "extra": {}
     },
     {
-      "id": "secondtakebyauausave",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "earthquake",
+      "rank": 11,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
+          "t": "2026-11-20T12:23:33Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-20T13:23:36Z",
+          "r": 2
+        },
+        {
           "t": "2026-11-20T14:23:36Z",
-          "r": 10
+          "r": 4
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#SECONDTAKEbyAuAuSave",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23SECONDTAKEbyAuAuSave",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.06KYthXmqzFnALHWCgi0EwHaLH&pid=15.1",
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "#earthquake",
+      "description": "Social media users are sharing updates and reacting to recent moderate earthquakes that shook the Los Angeles area and Central California.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23earthquake",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.TdBTymALMEuTaIj-6qwKcAHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-20T14:23:36Z",
-      "first_seen": "2026-11-20T14:23:36Z",
+      "started_trending": "2026-11-20T12:23:33Z",
+      "first_seen": "2026-11-20T12:23:33Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-20T15:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "remember-everyone-deployed",
-      "rank": 11,
+      "rank": 12,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -380,9 +434,13 @@
         {
           "t": "2026-11-20T14:23:36Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 12
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Remember Everyone Deployed",
       "description": "The material doesn't make a description clear.",
@@ -394,109 +452,37 @@
       "started_trending": "2026-11-20T12:23:33Z",
       "first_seen": "2026-11-20T12:23:33Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-20T15:23:34Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "waka",
-      "rank": 12,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-20T13:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-20T14:23:36Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Waka",
-      "description": "The material doesn't make a description clear.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Waka",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.VxwbYYP9ioNduJpcll069wHaD5&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T13:23:36Z",
-      "first_seen": "2026-11-20T13:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "al-nassr",
+      "id": "new-yorkers",
       "rank": 13,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-20T13:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-20T14:23:36Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Al Nassr",
-      "description": "Football fans on social media are discussing the upcoming Saudi Pro League match and head-to-head stats between Al Ahli and Al Nassr, as Cristiano Ronaldo prepares to return.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Al%20Nassr",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.kLJiNgWhRywnGbEx8NyA9g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-20T12:23:33Z",
-      "first_seen": "2026-11-20T12:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "yo-me-llamo",
-      "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T14:23:36Z",
-          "r": 14
+          "t": "2026-11-20T15:23:34Z",
+          "r": 13
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Yo Me Llamo",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Yo%20Me%20Llamo",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Tm9_bb4TNJQ1o6ej9lh_YQHaEK&pid=15.1",
+      "topic": "New Yorkers",
+      "description": "New York City is trending as officials announce a plan to close Rikers Island and pass a historic law ending horse-drawn carriages.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/New%20Yorkers",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.HzYb41YVolNm3JEyKdDqJwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-20T14:23:36Z",
-      "first_seen": "2026-11-20T14:23:36Z",
+      "started_trending": "2026-11-20T15:23:34Z",
+      "first_seen": "2026-11-20T15:23:34Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -504,29 +490,63 @@
       "extra": {}
     },
     {
-      "id": "quer-taro",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "auau-save-ost-mr-fanboy",
+      "rank": 14,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-20T14:23:36Z",
-          "r": 15
+          "r": 8
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Querétaro",
-      "description": "Social media users are discussing news from Querétaro, including a Real Madrid Foundation event, a football match against Monterrey, and the detention of singer Gabito Ballesteros.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Quer%C3%A9taro",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.tDAPgdBlO3cZUhksUHsArQHaEo&pid=15.1",
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "AUAU SAVE OST MR FANBOY",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/AUAU%20SAVE%20OST%20MR%20FANBOY",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.zcMWfKSTdBsd1kbputhDjQHaJP&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-20T14:23:36Z",
       "first_seen": "2026-11-20T14:23:36Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "k-pop",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "K-pop",
+      "description": "K-pop is trending on social media following the MAMA Awards crowning groups like BTS and Enhypen, alongside tour announcements from KPop Demon Hunters and new releases.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/K-pop",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.YX4nDjAMcECXjcD4B0y8KAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-20T15:23:34Z",
+      "first_seen": "2026-11-20T15:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -546,6 +566,10 @@
         {
           "t": "2026-11-20T14:23:36Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
+          "r": 16
         }
       ],
       "rank_change": 0,
@@ -560,7 +584,7 @@
       "started_trending": "2026-11-20T13:23:36Z",
       "first_seen": "2026-11-20T13:23:36Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -568,79 +592,63 @@
       "extra": {}
     },
     {
-      "id": "our-choice-is-bts-at-mama",
+      "id": "quer-taro",
       "rank": 17,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
-          "t": "2026-11-20T09:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-20T10:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-20T11:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-20T12:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-20T13:23:36Z",
-          "r": 13
-        },
-        {
           "t": "2026-11-20T14:23:36Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
           "r": 17
         }
       ],
-      "rank_change": -13,
+      "rank_change": -2,
       "is_new": false,
-      "topic": "OUR CHOICE IS BTS AT MAMA",
-      "description": "K-pop fans on social media are reacting to the first night of the MAMA Awards, where groups like BTS and Enhypen won major honors, though some results sparked backlash.",
+      "topic": "Querétaro",
+      "description": "Querétaro is making news after hosting the Real Madrid Foundation's Mexico Challenge, a football match involving Monterrey, and an incident involving singer Gabito Ballesteros.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Rl3gfer4RolfGtrwCqOt3QHaEL&pid=15.1",
+      "url": "https://sotwe.com/search/Quer%C3%A9taro",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.tDAPgdBlO3cZUhksUHsArQHaEo&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-20T09:23:32Z",
-      "first_seen": "2026-11-20T09:23:32Z",
+      "started_trending": "2026-11-20T14:23:36Z",
+      "first_seen": "2026-11-20T14:23:36Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-20T15:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "perth-comeback-not-sorry",
+      "id": "aaron-mercury",
       "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T14:23:36Z",
+          "t": "2026-11-20T15:23:34Z",
           "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "PERTH COMEBACK NOT SORRY",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/PERTH%20COMEBACK%20NOT%20SORRY",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.0wVbE_TJicgI6VUJaUXFMwHaE8&pid=15.1",
+      "topic": "Aaron Mercury",
+      "description": "The material does not provide a clear description for why Aaron Mercury is trending on social media right now.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Aaron%20Mercury",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.VXGaPkvc-EbfzPpiqdXOewHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-20T14:23:36Z",
-      "first_seen": "2026-11-20T14:23:36Z",
+      "started_trending": "2026-11-20T15:23:34Z",
+      "first_seen": "2026-11-20T15:23:34Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -648,29 +656,29 @@
       "extra": {}
     },
     {
-      "id": "enhypen",
+      "id": "escape",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-20T14:23:36Z",
+          "t": "2026-11-20T15:23:34Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "ENHYPEN",
-      "description": "K-pop fans are discussing ENHYPEN's latest release, the spin-off single 'THE SIN : PARALLEL WORLD,' and their appearance at the MAMA Awards.",
+      "topic": "Escape",
+      "description": "The material does not make a clear description of why Escape is trending on social media, featuring various unrelated local news stories and events.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/ENHYPEN",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.HdhPv7DD968kT/943gsHCA&pid=15.1",
+      "url": "https://sotwe.com/search/Escape",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.v3pvzxHOsoCYoXuL-mbERwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-20T14:23:36Z",
-      "first_seen": "2026-11-20T14:23:36Z",
+      "started_trending": "2026-11-20T15:23:34Z",
+      "first_seen": "2026-11-20T15:23:34Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -678,29 +686,33 @@
       "extra": {}
     },
     {
-      "id": "congreso",
+      "id": "yo-me-llamo",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-11-20T14:23:36Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-20T15:23:34Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Congreso",
-      "description": "Social media users are discussing various legislative and cultural events involving the word congreso, including a local Taos gathering, a halted Frida Kahlo painting auction, and agricultural policy appeals.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Congreso",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.KqV2zUlpCI7kF9lc1LMJzwHaE8&pid=15.1",
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Yo Me Llamo",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/Yo%20Me%20Llamo",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Tm9_bb4TNJQ1o6ej9lh_YQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-20T14:23:36Z",
       "first_seen": "2026-11-20T14:23:36Z",
       "published": null,
-      "last_seen": "2026-11-20T14:23:36Z",
+      "last_seen": "2026-11-20T15:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
