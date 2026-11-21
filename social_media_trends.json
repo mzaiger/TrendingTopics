@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-21T13:25:45Z",
+  "updated": "2026-11-21T14:25:40Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-21T13:23:31Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Good Saturday",
-      "description": "People are discussing Saturday morning programs, local events, and weekend weather forecasts across the country.",
+      "description": "Social media users are discussing weekend weather forecasts, local community holiday bazaars, and regional Saturday morning news programs.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Good%20Saturday",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.j8Vf2PyQGgGOd6IIWOmP5QHaJ4&pid=15.1",
@@ -38,27 +42,19 @@
       "started_trending": "2026-11-21T11:23:31Z",
       "first_seen": "2026-11-21T11:23:31Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "sinaloa",
       "rank": 2,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
-        {
-          "t": "2026-11-21T07:23:42Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-21T08:23:35Z",
-          "r": 5
-        },
         {
           "t": "2026-11-21T09:23:32Z",
           "r": 9
@@ -78,12 +74,16 @@
         {
           "t": "2026-11-21T13:23:31Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 2
         }
       ],
-      "rank_change": 3,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Sinaloa",
-      "description": "Users are discussing a dramatic Mexican military operation in Sinaloa that resulted in the capture of a top drug kingpin and sparked massive gunfights.",
+      "description": "Violence and military operations erupted in Sinaloa following the arrest of a top drug kingpin by Mexican security forces.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Sinaloa",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.tUl2kQMb0NDPBexK8R4ZIAHaHK&pid=15.1",
@@ -92,62 +92,32 @@
       "started_trending": "2026-11-21T07:23:42Z",
       "first_seen": "2026-11-21T07:23:42Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "caturday",
-      "rank": 3,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-21T12:23:35Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 15,
-      "is_new": false,
-      "topic": "Caturday",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Caturday",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.OHMmG3rHeKNQG0oSXpF7ewHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T12:23:35Z",
-      "first_seen": "2026-11-21T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "fulham",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-21T13:23:31Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "Fulham",
-      "description": "Football fans are discussing how to watch and stream the Premier League match between Manchester City and Fulham.",
+      "description": "Football fans are following live streams, television coverage, and starting lineups for the Premier League match between Manchester City and Fulham.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Fulham",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.ocrvAmwBrvWAmuF0fqOtrQHaE8&pid=15.1",
@@ -156,90 +126,30 @@
       "started_trending": "2026-11-21T13:23:31Z",
       "first_seen": "2026-11-21T13:23:31Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "la-mansi-n-vip",
-      "rank": 5,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-21T12:23:35Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 11,
-      "is_new": false,
-      "topic": "La Mansión VIP",
-      "description": "Social media users are talking about the reality show La Mansión VIP and creator La Cukis stealing the show on its second season.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/La%20Mansi%C3%B3n%20VIP",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.u1R2mUQkNZ2SsLrvl/Z9ug&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T12:23:35Z",
-      "first_seen": "2026-11-21T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "haaland",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Haaland",
-      "description": "Users are discussing transfer rumors linking Barcelona to Erling Haaland, alongside his recent goal and ongoing public policy priorities.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Haaland",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.pN2eWI0sgJq-M7u8UcRznAHaKA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T13:23:31Z",
-      "first_seen": "2026-11-21T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "saturdayvibes",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 4,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-11-21T13:23:31Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 3,
+      "is_new": false,
       "topic": "#SaturdayVibes",
       "description": "",
       "description_source": "",
@@ -250,101 +160,267 @@
       "started_trending": "2026-11-21T13:23:31Z",
       "first_seen": "2026-11-21T13:23:31Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gallos-blancos",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Gallos Blancos",
-      "description": "Soccer fans are discussing roster changes for Gallos Blancos as player Lucas Abascia is set to leave Querétaro with Rosario Central on the radar.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Gallos%20Blancos",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.R5mIp2a8R2QBQwZeO3oddwHaHH&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T13:23:31Z",
-      "first_seen": "2026-11-21T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "servicio-meteorol-gico",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Servicio Meteorológico",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Servicio%20Meteorol%C3%B3gico",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-21T13:23:31Z",
-      "first_seen": "2026-11-21T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "boycottpbb",
-      "rank": 10,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "id": "caturday",
+      "rank": 5,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-11-21T12:23:35Z",
-          "r": 17
+          "r": 18
         },
         {
           "t": "2026-11-21T13:23:31Z",
-          "r": 10
+          "r": 3
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 5
         }
       ],
-      "rank_change": 7,
+      "rank_change": 13,
       "is_new": false,
-      "topic": "#BOYCOTTPBB",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23BOYCOTTPBB",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.IB-EwLAhwkfRqt0VmXhd7AHaE7&pid=15.1",
+      "topic": "#Caturday",
+      "description": "Social media users are celebrating Caturday by sharing festive cat jokes and weekend posts.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23Caturday",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.OHMmG3rHeKNQG0oSXpF7ewHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-21T12:23:35Z",
       "first_seen": "2026-11-21T12:23:35Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "la-mansi-n-vip",
+      "rank": 6,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-21T12:23:35Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-21T13:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "La Mansión VIP",
+      "description": "Viewers on social media are discussing creators stealing the show on the reality series La Mansión VIP 2 alongside real estate news.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/La%20Mansi%C3%B3n%20VIP",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.u1R2mUQkNZ2SsLrvl/Z9ug&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T12:23:35Z",
+      "first_seen": "2026-11-21T12:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "elliot-anderson",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Elliot Anderson",
+      "description": "Elliot Anderson is trending after scoring a crucial goal to rescue a point for Manchester City against Fulham following a controversial VAR decision.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Elliot%20Anderson",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.A3CLKvKwcRZcEgYsVB9ZTAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T14:23:36Z",
+      "first_seen": "2026-11-21T14:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "haaland",
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-21T13:23:31Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Haaland",
+      "description": "Haaland is trending after a controversial VAR decision ruled out his goal during Manchester City's match against Fulham, alongside local public safety and health updates.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Haaland",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.pN2eWI0sgJq-M7u8UcRznAHaKA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T13:23:31Z",
+      "first_seen": "2026-11-21T13:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "papergamessupportszionist",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#PapergamesSupportsZionist",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23PapergamesSupportsZionist",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.MWa6deCl9JIVSVdG3BuXcgHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T14:23:36Z",
+      "first_seen": "2026-11-21T14:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "man-city",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Man City",
+      "description": "Manchester City is trending due to their Premier League match against Fulham and lineup changes made by the squad.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Man%20City",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.hh3JpansaLVo1iwTJG0UaQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T14:23:36Z",
+      "first_seen": "2026-11-21T14:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "collegegameday",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#CollegeGameDay",
+      "description": "College football fans are discussing ESPN College GameDay's location at Miami and its unexpected crossover with Grand Theft Auto 6 promotion.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23CollegeGameDay",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.LwW3qdrwG1z-_9N6t7q2vwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T14:23:36Z",
+      "first_seen": "2026-11-21T14:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "topic",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#联动叠纸收获牛屎",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23%E8%81%94%E5%8A%A8%E5%8F%A0%E7%BA%B8%E6%94%B6%E8%8E%B7%E7%89%9B%E5%B1%8E",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.MWa6deCl9JIVSVdG3BuXcgHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T14:23:36Z",
+      "first_seen": "2026-11-21T14:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -353,88 +429,62 @@
     },
     {
       "id": "maresca",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 13,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-11-21T13:23:31Z",
           "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Maresca",
-      "description": "Fans are discussing comments from Enzo Maresca warning Manchester City to tighten up their defense following a losing streak and addressing the club's financial scandal.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Maresca",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-21T13:23:31Z",
-      "first_seen": "2026-11-21T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "leno",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
+        },
         {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Leno",
-      "description": "Football fans are discussing Fulham star Bernd Leno addressing transfer links to Bayern Munich as they search for a Manuel Neuer successor.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Leno",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-21T13:23:31Z",
-      "first_seen": "2026-11-21T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mancity",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T13:23:31Z",
+          "t": "2026-11-21T14:23:36Z",
           "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ManCity",
-      "description": "Manchester City supporters are sharing starting lineups, pre-match preparation changes, and streaming details ahead of their fixture against Fulham.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Maresca",
+      "description": "Maresca is trending after addressing Manchester City's defensive struggles, lineup choices, and the club's financial scandal amidst a losing streak.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23ManCity",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.ocrvAmwBrvWAmuF0fqOtrQHaE8&pid=15.1",
+      "url": "https://sotwe.com/search/Maresca",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.91GNczdzeqfL15cEr1-b8AHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-21T13:23:31Z",
       "first_seen": "2026-11-21T13:23:31Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "it-s-gameday",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "IT'S GAMEDAY",
+      "description": "Fans are posting game day hype on social media as ESPN's College GameDay visits an ACC campus and features creative signs.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/IT%27S%20GAMEDAY",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.-TuA1aTIZBSOEVjW_I0ztwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T14:23:36Z",
+      "first_seen": "2026-11-21T14:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -442,170 +492,126 @@
       "extra": {}
     },
     {
+      "id": "servicio-meteorol-gico",
+      "rank": 15,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-21T13:23:31Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Servicio Meteorológico",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Servicio%20Meteorol%C3%B3gico",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.cu_3BnILCTzItrPXYCpokQHaED&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T13:23:31Z",
+      "first_seen": "2026-11-21T13:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "corea-del-sur",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-11-21T13:23:31Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "corea del sur",
-      "description": "The description is not clear from the provided material beyond a single unrelated news report.",
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Corea del Sur",
+      "description": "The material does not make the description clear.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/corea%20del%20sur",
+      "url": "https://sotwe.com/search/Corea%20del%20Sur",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.dXtz0ZcrTEdiTy_mW9fe3AHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-21T13:23:31Z",
       "first_seen": "2026-11-21T13:23:31Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "loter-a-nacional",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Lotería Nacional",
-      "description": "People are checking the latest winning numbers and prize results for today's Lotería Nacional draws.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Loter%C3%ADa%20Nacional",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.3Q4IuszCSnbhHpjzQl73mgHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T13:23:31Z",
-      "first_seen": "2026-11-21T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "it-s-game-day",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "IT'S GAME DAY",
-      "description": "College football fans are sharing game day excitement, matchups, and TV schedules as teams face off across the country.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/IT%27S%20GAME%20DAY",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.tfcfhmgvrAUK8cPDg8S-PQAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T13:23:31Z",
-      "first_seen": "2026-11-21T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "guasave",
+      "id": "gallos-blancos",
       "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-21T13:23:31Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
           "r": 17
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Guasave",
-      "description": "Social media users are sharing live reports of gunfire and military operations in Guasave, Sinaloa, amid the reported capture of a cartel kingpin.",
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "Gallos Blancos",
+      "description": "Gallos Blancos is trending as player Lucas Abascia is reportedly set to leave Querétaro with Rosario Central on the radar.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Guasave",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.LotEfxxaKPrz6-opSxcfZgHaEq&pid=15.1",
+      "url": "https://sotwe.com/search/Gallos%20Blancos",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.R5mIp2a8R2QBQwZeO3oddwHaHH&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-21T13:23:31Z",
       "first_seen": "2026-11-21T13:23:31Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fsd-v15",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "FSD V15",
-      "description": "Tesla owners are discussing upcoming features, UI overhauls, and a December wide release timeline for FSD V15.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/FSD%20V15",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.pMr9GuRGRV60RpPvOe7CEQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T13:23:31Z",
-      "first_seen": "2026-11-21T13:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "el-chapo-isidro",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-21T13:23:31Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "El Chapo Isidro",
-      "description": "Social media users are discussing the capture of top drug kingpin Fausto Isidro Meza Flores, known as 'El Chapo Isidro', by the Mexican military in a dramatic operation.",
+      "description": "El Chapo Isidro, one of the FBI's 10 most wanted fugitives, was reportedly captured by the Mexican military, sparking violent clashes in Sinaloa.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/El%20Chapo%20Isidro",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.wJGpeOqiu7WnlGtdlOpPvw&pid=15.1",
@@ -614,40 +620,78 @@
       "started_trending": "2026-11-21T13:23:31Z",
       "first_seen": "2026-11-21T13:23:31Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "telcel",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "fsd-v15",
+      "rank": 19,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-11-21T13:23:31Z",
-          "r": 20
+          "r": 18
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Telcel",
-      "description": "Users are reporting widespread service issues and network outages affecting Telcel customers in Mexico.",
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "FSD V15",
+      "description": "Tesla enthusiasts are discussing upcoming releases and UI overhaul details for FSD V15 following announcements from Elon Musk.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Telcel",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "url": "https://sotwe.com/search/FSD%20V15",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.pMr9GuRGRV60RpPvOe7CEQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-21T13:23:31Z",
       "first_seen": "2026-11-21T13:23:31Z",
       "published": null,
-      "last_seen": "2026-11-21T13:23:31Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "guasave",
+      "rank": 20,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-21T13:23:31Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-21T14:23:36Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Guasave",
+      "description": "Guasave is trending after heavy gunfire and military operations erupted during the capture of cartel kingpin El Chapo Isidro.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Guasave",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.LotEfxxaKPrz6-opSxcfZgHaEq&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T13:23:31Z",
+      "first_seen": "2026-11-21T13:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-21T14:23:36Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
