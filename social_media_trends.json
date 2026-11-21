@@ -1,15 +1,87 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-21T17:25:37Z",
+  "updated": "2026-11-21T18:25:54Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "chelsea",
+      "id": "ufcqatar",
       "rank": 1,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-21T15:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-21T16:23:36Z",
+          "r": 1
+        },
+        {
+          "t": "2026-11-21T17:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 1
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "#UFCQatar",
+      "description": "Fans are following the UFC Fight Night event in Qatar, featuring matchups like Prochazka versus Stirling and notable preliminary bouts.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23UFCQatar",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.LnVKa45r6Uj6VjxFMG5Q3g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T15:23:33Z",
+      "first_seen": "2026-11-21T15:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nebraska",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Nebraska",
+      "description": "College football fans are following the matchup between Nebraska and Ohio State in Week 12 of the season.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Nebraska",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.pAsgbQ6ElMDhko8xdGyoIw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chelsea",
+      "rank": 3,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -20,12 +92,16 @@
         {
           "t": "2026-11-21T17:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 3
         }
       ],
-      "rank_change": 2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Chelsea",
-      "description": "Chelsea is trending as they face Leeds United in a Premier League match, amidst reports of ownership stakes and lineup announcements.",
+      "description": "Pressure is mounting on manager Xabi Alonso after Chelsea suffered a 4-1 home defeat against Leeds.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Chelsea",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.cL1OEzIKt9C5DoISXa2soQ&pid=15.1",
@@ -34,45 +110,7 @@
       "started_trending": "2026-11-21T16:23:36Z",
       "first_seen": "2026-11-21T16:23:36Z",
       "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ufcqatar",
-      "rank": 2,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-21T15:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-21T16:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "#UFCQatar",
-      "description": "UFC Qatar is trending due to live results, highlights, and fight card outcomes from the event featuring Prochazka vs. Stirling.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23UFCQatar",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.LnVKa45r6Uj6VjxFMG5Q3g&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T15:23:33Z",
-      "first_seen": "2026-11-21T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
+      "last_seen": "2026-11-21T18:23:43Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -80,8 +118,98 @@
       "extra": {}
     },
     {
+      "id": "topuria",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Topuria",
+      "description": "Ilia Topuria is trending as fans discuss his potential upcoming mega fight against Paddy Pimblett and his expected return to the UFC octagon in early 2027.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Topuria",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jeremiah-smith",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jeremiah Smith",
+      "description": "Jeremiah Smith is trending after hauling in a 67-yard touchdown pass from Luke Fahey to put Ohio State ahead early against Nebraska.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jeremiah%20Smith",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.XSb8mpiJJbzlLYe7FVkooQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "matt-patricia",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Matt Patricia",
+      "description": "Matt Patricia is trending on social media as football fans review recent coordinator insights and game losses.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Matt%20Patricia",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "leeds",
-      "rank": 3,
+      "rank": 7,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -92,12 +220,16 @@
         {
           "t": "2026-11-21T17:23:36Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 7
         }
       ],
-      "rank_change": 2,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Leeds",
-      "description": "Leeds is trending following their Premier League match against Chelsea and discussions surrounding their historic win at Stamford Bridge.",
+      "description": "Leeds is trending after securing a 4-1 victory over Chelsea, marking their first win at Stamford Bridge since 1999.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Leeds",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.TOetshPsIvURbWjYRrnd5Q&pid=15.1",
@@ -106,37 +238,157 @@
       "started_trending": "2026-11-21T16:23:36Z",
       "first_seen": "2026-11-21T16:23:36Z",
       "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jake-matthews",
-      "rank": 4,
+      "id": "isaiah-west",
+      "rank": 8,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 4
+          "t": "2026-11-21T18:23:43Z",
+          "r": 8
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Jake Matthews",
-      "description": "Jake Matthews is trending ahead of his MMA matchup against Tahir Abdullayev at UFC Doha / Qatar.",
+      "topic": "Isaiah West",
+      "description": "Isaiah West is drawing attention amid recent high school football playoff action and college football betting odds for Ohio State and Nebraska.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jake%20Matthews",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.69yKFE315zidm4hoK9aelg&pid=15.1",
+      "url": "https://sotwe.com/search/Isaiah%20West",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "santiago-luna",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Santiago Luna",
+      "description": "Santiago Luna is trending following his matchup against Aleksandre Topuria at the UFC event in Qatar.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Santiago%20Luna",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.QXqHNUexDl2OIiUGcXWoJQHaD4&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-21T17:23:36Z",
-      "first_seen": "2026-11-21T17:23:36Z",
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
       "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "devin-sanchez",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Devin Sanchez",
+      "description": "The material does not provide enough details to explain why this topic is currently trending.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Devin%20Sanchez",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "buckeyes",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Buckeyes",
+      "description": "The Ohio State Buckeyes are trending as they face Nebraska in a key Big Ten matchup.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Buckeyes",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.t1yKDy1Cpe1NL3NpLHSH1gHaJN&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ty-jackson",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Ty Jackson",
+      "description": "Ty Jackson is trending in sports discussions following recent college football action involving the Florida Gators.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Ty%20Jackson",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -145,19 +397,23 @@
     },
     {
       "id": "alonso",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 13,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-21T17:23:36Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -8,
+      "is_new": false,
       "topic": "Alonso",
-      "description": "Alonso is trending as pressure mounts following Chelsea's defeat to Leeds, alongside Fernando Alonso's comments on Honda in Formula 1.",
+      "description": "Motorsport and soccer fans are discussing Xabi Alonso amid growing pressure at Chelsea, alongside Fernando Alonso addressing safety concerns at the Las Vegas Grand Prix.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Alonso",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.08mNARemmRdR-ajigZzuUgHaE8&pid=15.1",
@@ -166,41 +422,7 @@
       "started_trending": "2026-11-21T17:23:36Z",
       "first_seen": "2026-11-21T17:23:36Z",
       "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "motta",
-      "rank": 6,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-21T16:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 6
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Motta",
-      "description": "Motta is trending due to his lightweight bout against Dom Mar Fan at UFC Qatar.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Motta",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.bS8wffgy8-HNq3PC2LzVIwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T16:23:36Z",
-      "first_seen": "2026-11-21T16:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
+      "last_seen": "2026-11-21T18:23:43Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -208,20 +430,114 @@
       "extra": {}
     },
     {
-      "id": "albazi",
-      "rank": 7,
+      "id": "madueke",
+      "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 7
+          "t": "2026-11-21T18:23:43Z",
+          "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
+      "topic": "Madueke",
+      "description": "Noni Madueke is trending after creating an early scoring chance for Arsenal against Newcastle at St James' Park.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Madueke",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "arsenal",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Arsenal",
+      "description": "Arsenal is trending as fans tune in to watch their Premier League clash against Newcastle United.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Arsenal",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.uvegmJkutWGL5buIw7COfAHaFY&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "legend-bey",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Legend Bey",
+      "description": "Legend Bey is trending as college football analysts evaluate Ohio State's freshman class and team momentum.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Legend%20Bey",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.ElDqfv7JDCgOq-u5zatFiQHaIZ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "albazi",
+      "rank": 17,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-21T17:23:36Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
       "topic": "Albazi",
-      "description": "Albazi is trending following his comeback submission victory against Alessandro Costa at UFC Qatar after a point deduction.",
+      "description": "Amir Albazi is trending after securing a comeback submission victory over Alessandro Costa following a point deduction at UFC Qatar.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Albazi",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.Z4MZ2JcPRxkFxsvrrx8xbg&pid=15.1",
@@ -230,342 +546,32 @@
       "started_trending": "2026-11-21T17:23:36Z",
       "first_seen": "2026-11-21T17:23:36Z",
       "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "costa",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Costa",
-      "description": "Costa is trending across news topics, ranging from European Union budget proposals and a murder investigation in Costa Rica to the U-17 World Cup.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Costa",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.jQT3vwVgLkLXzNtgXOsyFAHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T17:23:36Z",
-      "first_seen": "2026-11-21T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gameday",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Gameday",
-      "description": "Gameday is trending as sports fans follow college football championship matchups, ESPN College GameDay locations, and MLB action.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Gameday",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.LwW3qdrwG1z-_9N6t7q2vwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T17:23:36Z",
-      "first_seen": "2026-11-21T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fofana",
-      "rank": 10,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-21T16:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Fofana",
-      "description": "Fofana is trending amid transfer interest from Tottenham Hotspur in Reims attacker Yaya Fofana and other European football updates.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Fofana",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.XDvGKd7dQkDGBAX7_FbONgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T16:23:36Z",
-      "first_seen": "2026-11-21T16:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
+      "last_seen": "2026-11-21T18:23:43Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "good-saturday",
-      "rank": 11,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-21T12:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-21T14:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-21T15:23:33Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-21T16:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Good Saturday",
-      "description": "Good Saturday is trending alongside local morning news broadcasts, weather updates about an incoming cold front, and sports return announcements.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Good%20Saturday",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.j8Vf2PyQGgGOd6IIWOmP5QHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T11:23:31Z",
-      "first_seen": "2026-11-21T11:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "colwill",
-      "rank": 12,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-21T16:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 12
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Colwill",
-      "description": "Colwill is trending following standout performances for Cardiff City and ongoing transfer discussions involving Chelsea.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Colwill",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.J2iwh10MldNeQQcma1B4Jw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T16:23:36Z",
-      "first_seen": "2026-11-21T16:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "palmer",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Palmer",
-      "description": "Palmer is trending due to high school football playoff victories by Palmer Ridge and local community events in Texas.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Palmer",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Kc1Mi_a1fb2e-PdXQVZGFAHaEu&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T17:23:36Z",
-      "first_seen": "2026-11-21T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "coys",
-      "rank": 14,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-21T15:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-21T16:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "#COYS",
-      "description": "#COYS is trending as Tottenham Hotspur fans celebrate a Premier League win over Ipswich Town and standout performances from young players.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23COYS",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.vW9RdagSa4y3mWQlSSOjFwHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T15:23:33Z",
-      "first_seen": "2026-11-21T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "caicedo",
-      "rank": 15,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-21T15:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-21T16:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Caicedo",
-      "description": "Caicedo is trending after suffering a serious injury and leaving the pitch in tears during Chelsea's match against Leeds.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Caicedo",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Jkzn24Z5my-IJ9R2_rbLNQHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T15:23:33Z",
-      "first_seen": "2026-11-21T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chelee",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#CHELEE",
-      "description": "#CHELEE is trending as fans discuss Leeds United's dominant victory over Chelsea at Stamford Bridge in the Premier League.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23CHELEE",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.5eDGBa8hFUlTDDEn5E03nw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T17:23:36Z",
-      "first_seen": "2026-11-21T17:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "merry-christmas",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-21T17:23:36Z",
           "r": 17
+        },
+        {
+          "t": "2026-11-21T18:23:43Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Merry Christmas",
-      "description": "Merry Christmas is trending as holiday movies, themed events, and seasonal romance novels begin capturing social media attention.",
+      "description": "Holiday celebrations are trending as social media users discuss festive events like Mickey's Very Merry Christmas Party, rainy weather disruptions, and streaming holiday movies.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Merry%20Christmas",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.FunWmNUATS9OP1SswlzfsQHaHY&pid=15.1",
@@ -574,37 +580,37 @@
       "started_trending": "2026-11-21T17:23:36Z",
       "first_seen": "2026-11-21T17:23:36Z",
       "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "stamford-bridge",
-      "rank": 18,
+      "id": "arthur-smith",
+      "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 18
+          "t": "2026-11-21T18:23:43Z",
+          "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Stamford Bridge",
-      "description": "Stamford Bridge is trending following Chelsea's 4-1 home defeat to Leeds United in their Premier League encounter.",
+      "topic": "Arthur Smith",
+      "description": "Arthur Smith is trending as sports fans discuss recent coaching coordinator insights and team losses.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Stamford%20Bridge",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.pzMdGEmpxiBeoNXqpApxig&pid=15.1",
+      "url": "https://sotwe.com/search/Arthur%20Smith",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.d8lNjnKhfs4aSnpYgJHUCAHaLH&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-21T17:23:36Z",
-      "first_seen": "2026-11-21T17:23:36Z",
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
       "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
+      "last_seen": "2026-11-21T18:23:43Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -612,90 +618,32 @@
       "extra": {}
     },
     {
-      "id": "luca-williams-barnett",
-      "rank": 19,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-21T15:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-21T16:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-21T17:23:36Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Luca Williams-Barnett",
-      "description": "Luca Williams-Barnett is trending after scoring his first Premier League goal and winning man of the match in Tottenham's win over Ipswich.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Luca%20Williams-Barnett",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.YTS3KN94eTxcV3oRpMmhgAHaFD&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T15:23:33Z",
-      "first_seen": "2026-11-21T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sinaloa",
+      "id": "gaziev",
       "rank": 20,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-21T12:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-21T13:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-21T14:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-21T15:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-21T16:23:36Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-21T17:23:36Z",
+          "t": "2026-11-21T18:23:43Z",
           "r": 20
         }
       ],
-      "rank_change": -18,
-      "is_new": false,
-      "topic": "Sinaloa",
-      "description": "Sinaloa is trending as the arrest of a top drug kingpin by the Mexican army sparks violent clashes and security force operations in the region.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Gaziev",
+      "description": "Shamil Gaziev is trending ahead of his UFC matchup against Tallison Teixeira in Qatar.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Sinaloa",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.tUl2kQMb0NDPBexK8R4ZIAHaHK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T07:23:42Z",
-      "first_seen": "2026-11-21T07:23:42Z",
+      "url": "https://sotwe.com/search/Gaziev",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
       "published": null,
-      "last_seen": "2026-11-21T17:23:36Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
+      "last_seen": "2026-11-21T18:23:43Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
