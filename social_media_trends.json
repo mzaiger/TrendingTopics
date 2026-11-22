@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-22T00:28:00Z",
+  "updated": "2026-11-22T01:25:15Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,19 +10,23 @@
     {
       "id": "ucla",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-22T00:23:41Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "UCLA",
-      "description": "",
-      "description_source": "",
+      "description": "No. 4 UCLA lost its undefeated season in a triple-overtime game against Michigan, while quarterback Ty Dieffenbach was carted off the field with an apparent knee injury.",
+      "description_source": "gemini",
       "url": "https://sotwe.com/search/UCLA",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.uo4Aap-b4MpIveUNutDdJQHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -30,7 +34,199 @@
       "started_trending": "2026-11-22T00:23:41Z",
       "first_seen": "2026-11-22T00:23:41Z",
       "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "michigan",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Michigan",
+      "description": "Michigan secured a triple-overtime upset victory against No. 4 UCLA on Senior Day, reaching bowl eligibility.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Michigan",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.r2Ai4PCuoiPMjMGKEYz8rA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T01:23:32Z",
+      "first_seen": "2026-11-22T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rutgers",
+      "rank": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-22T00:23:41Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Rutgers",
+      "description": "Rutgers pulled off a 25-24 upset win against Penn State, drawing widespread reactions on social media.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Rutgers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.G0G2qb9hJBitIUIHg0alawHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T00:23:41Z",
+      "first_seen": "2026-11-22T00:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lane-kiffin",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lane Kiffin",
+      "description": "Lane Kiffin's LSU suffered a 27-13 loss to Tennessee, compounding a disappointing season.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Lane%20Kiffin",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.9IdXLAqTfrp/cO3ekE/UHA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T01:23:32Z",
+      "first_seen": "2026-11-22T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tennessee",
+      "rank": 5,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-22T00:23:41Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Tennessee",
+      "description": "Tennessee defeated LSU 27-13 as fans threw items like golf balls and mustard bottles onto the field late in the game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Tennessee",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.tHtmF/FeBtlSso/QSXGbIQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T00:23:41Z",
+      "first_seen": "2026-11-22T00:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "penn-state",
+      "rank": 6,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-22T00:23:41Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Penn State",
+      "description": "Penn State football fell to Rutgers in a stunning 25-24 home defeat.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Penn%20State",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.CGrxEltGREE7a1wPdkCOpw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T00:23:41Z",
+      "first_seen": "2026-11-22T00:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "iowa",
+      "rank": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Iowa",
+      "description": "Iowa secured a 34-17 victory at Illinois to stay in the College Football Playoff hunt, alongside social media attention on planned military explosive detonations in the state.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Iowa",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.AiLgzSRXizvX0lIU5L976gHaIF&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T01:23:32Z",
+      "first_seen": "2026-11-22T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -39,7 +235,7 @@
     },
     {
       "id": "ohio-state",
-      "rank": 2,
+      "rank": 8,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -62,12 +258,16 @@
         {
           "t": "2026-11-22T00:23:41Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": 0,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Ohio State",
-      "description": "Ohio State's college football playoff hopes ended after a 31-28 upset loss to Nebraska.",
+      "description": "Ohio State's College Football Playoff hopes ended after a 31-28 loss to Nebraska, their first ranked win since 2016.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Ohio%20State",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.lnHhCKzYNiwJgsM4BzKOtQHaFR&pid=15.1",
@@ -76,7 +276,7 @@
       "started_trending": "2026-11-21T20:23:37Z",
       "first_seen": "2026-11-21T20:23:37Z",
       "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
+      "last_seen": "2026-11-22T01:23:32Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -84,29 +284,29 @@
       "extra": {}
     },
     {
-      "id": "tennessee",
-      "rank": 3,
+      "id": "big-10",
+      "rank": 9,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 3
+          "t": "2026-11-22T01:23:32Z",
+          "r": 9
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Tennessee",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Tennessee",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.tHtmF/FeBtlSso/QSXGbIQ&pid=15.1",
+      "topic": "Big 10",
+      "description": "Big Ten fans are tracking conference tiebreaker scenarios and tournament matchups as late-season upsets shake up the title race.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Big%2010",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.091HLcTqJtzNWhz7q3oy0QHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
+      "started_trending": "2026-11-22T01:23:32Z",
+      "first_seen": "2026-11-22T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
+      "last_seen": "2026-11-22T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -114,38 +314,296 @@
       "extra": {}
     },
     {
-      "id": "rutgers",
-      "rank": 4,
+      "id": "washington",
+      "rank": 10,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 4
+          "t": "2026-11-22T01:23:32Z",
+          "r": 10
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Rutgers",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Rutgers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.G0G2qb9hJBitIUIHg0alawHaFj&pid=15.1",
+      "topic": "Washington",
+      "description": "Washington pulled off a surprise 27-24 overtime win against No. 8 Indiana after a missed field goal by the Hoosiers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Washington",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.W2kxvtJgfEFoI075r70fYgHaFD&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T01:23:32Z",
+      "first_seen": "2026-11-22T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "big-ten",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Big Ten",
+      "description": "Recent shocking losses across the conference have dramatically altered the Big Ten's College Football Playoff title math and tiebreaker scenarios.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Big%20Ten",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.g5yjBlYRxjDY-hj6a0bvCAHaPS&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T01:23:32Z",
+      "first_seen": "2026-11-22T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "matt-campbell",
+      "rank": 12,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-22T00:23:41Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Matt Campbell",
+      "description": "Social media users are discussing Matt Campbell following Penn State's historic 25-24 loss to Rutgers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Matt%20Campbell",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-22T00:23:41Z",
+      "first_seen": "2026-11-22T00:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "madden-iamaleava",
+      "rank": 13,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-22T00:23:41Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Madden Iamaleava",
+      "description": "The material does not make the description clear.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Madden%20Iamaleava",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.pu30c0mwF9rT-psq9TS_OAHaF9&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-22T00:23:41Z",
       "first_seen": "2026-11-22T00:23:41Z",
       "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
+      "last_seen": "2026-11-22T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "goblue",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#GoBlue",
+      "description": "Michigan fans are celebrating on social media using the hashtag after the Wolverines' triple-overtime upset win against No. 4 UCLA.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23GoBlue",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.9ltGZRm8E5534HwQtKYnHQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T01:23:32Z",
+      "first_seen": "2026-11-22T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sam-leavitt",
+      "rank": 15,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-22T00:23:41Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Sam Leavitt",
+      "description": "LSU quarterback Sam Leavitt was sacked and pressured during his team's 27-13 loss to No. 9 Tennessee.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Sam%20Leavitt",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.dw5rwIlA1VSL2lBHj8PdCA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T00:23:41Z",
+      "first_seen": "2026-11-22T00:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "nebraska",
+      "rank": 16,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-21T19:23:42Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-21T20:23:37Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-21T21:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-21T22:23:43Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-21T23:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-22T00:23:41Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -12,
+      "is_new": false,
+      "topic": "Nebraska",
+      "description": "Nebraska secured its first ranked win since 2016 by upsetting No. 14 Ohio State 31-28, dashing the Buckeyes' CFP hopes.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Nebraska",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.pAsgbQ6ElMDhko8xdGyoIw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T18:23:43Z",
+      "first_seen": "2026-11-21T18:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "iufb",
+      "rank": 17,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-21T22:23:43Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-21T23:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-22T00:23:41Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "#iufb",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23iufb",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.IGBsxMdw1zRHYpH8cA2uDwHaFP&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-21T22:23:43Z",
+      "first_seen": "2026-11-21T22:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "faizon",
-      "rank": 5,
+      "rank": 18,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -164,12 +622,16 @@
         {
           "t": "2026-11-22T00:23:41Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": 7,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Faizon",
-      "description": "Tennessee freshman quarterback Faizon Brandon stepped in as the starting quarterback against LSU.",
+      "description": "Faizon Brandon led No. 9 Tennessee past LSU with two late fourth-quarter touchdown runs, finishing with 100 rushing yards.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Faizon",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.9W08VWOWy0F9cEtrPXH33QHaF4&pid=15.1",
@@ -178,7 +640,7 @@
       "started_trending": "2026-11-21T21:23:35Z",
       "first_seen": "2026-11-21T21:23:35Z",
       "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
+      "last_seen": "2026-11-22T01:23:32Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -187,7 +649,7 @@
     },
     {
       "id": "ryan-day",
-      "rank": 6,
+      "rank": 19,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -214,12 +676,16 @@
         {
           "t": "2026-11-22T00:23:41Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": -3,
+      "rank_change": -16,
       "is_new": false,
       "topic": "Ryan Day",
-      "description": "Ohio State coach Ryan Day faces heavy criticism and buyout discussions following the team's fourth loss of the season against Nebraska.",
+      "description": "Ohio State coach Ryan Day is facing heavy criticism and questions about his future after the team's fourth loss of the season dashed their CFP hopes.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Ryan%20Day",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.IORLHgRREWXK3fzZQ6xLDAHaFj&pid=15.1",
@@ -228,159 +694,7 @@
       "started_trending": "2026-11-21T19:23:42Z",
       "first_seen": "2026-11-21T19:23:42Z",
       "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "iufb",
-      "rank": 7,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-21T22:23:43Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-21T23:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 12,
-      "is_new": false,
-      "topic": "#iufb",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23iufb",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.IGBsxMdw1zRHYpH8cA2uDwHaFP&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T22:23:43Z",
-      "first_seen": "2026-11-21T22:23:43Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sam-leavitt",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Sam Leavitt",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Sam%20Leavitt",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.dw5rwIlA1VSL2lBHj8PdCA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "penn-state",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 9
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Penn State",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Penn%20State",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.CGrxEltGREE7a1wPdkCOpw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nebraska",
-      "rank": 10,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-21T18:23:43Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-21T19:23:42Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-21T20:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-21T21:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-21T22:23:43Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-21T23:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Nebraska",
-      "description": "Nebraska pulled off a major upset against Ohio State, snapping an AP Top 25 losing skid and securing their first ranked win since 2016.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Nebraska",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.pAsgbQ6ElMDhko8xdGyoIw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T18:23:43Z",
-      "first_seen": "2026-11-21T18:23:43Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
+      "last_seen": "2026-11-22T01:23:32Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -388,326 +702,32 @@
       "extra": {}
     },
     {
-      "id": "matt-campbell",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Matt Campbell",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Matt%20Campbell",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "smith-snowden",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Smith Snowden",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Smith%20Snowden",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.u44hHUOJVHoGebTnCauF-wHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mateer",
-      "rank": 13,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-21T22:23:43Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-21T23:23:34Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Mateer",
-      "description": "John Mateer and Oklahoma faced Texas A&M in a tightly contested home finale battle in Norman.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mateer",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.byGvTHgMgP6tFyZGfXeoYwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T22:23:43Z",
-      "first_seen": "2026-11-21T22:23:43Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bryce-underwood",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bryce Underwood",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Bryce%20Underwood",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Jgyr5P5372ZMo9PKbDq_lgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ashton-daniels",
-      "rank": 15,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-21T23:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Ashton Daniels",
-      "description": "Ashton Daniels and Florida State prepare to host NC State for a college football showdown in Tallahassee.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ashton%20Daniels",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.PtxACpLTn7qFhNIFUY02kgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T23:23:34Z",
-      "first_seen": "2026-11-21T23:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "madden-iamaleava",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Madden Iamaleava",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Madden%20Iamaleava",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.pu30c0mwF9rT-psq9TS_OAHaF9&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "josh-hoover",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Josh Hoover",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Josh%20Hoover",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ty-dieffenbach",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ty Dieffenbach",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Ty%20Dieffenbach",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.XzetR3xcPcSIWcOM2BOXzAAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bishop",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bishop",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Bishop",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.SGCpDherZjzM01K7bPm0igHaLb&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jiri",
+      "id": "aewcollision",
       "rank": 20,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-21T21:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-21T22:23:43Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-21T23:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-22T00:23:41Z",
+          "t": "2026-11-22T01:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "Jiri",
-      "description": "Jiri Prochazka suffered a shocking second-round knockout loss to Navajo Stirling in the main event at UFC Qatar.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#AEWCollision",
+      "description": "Wrestling fans are talking about the latest episode of AEW Collision in Green Bay, featuring Continental Classic tournament matches and Ilja Dragunov.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jiri",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.h3LNyj1xwtePfP_oVaB6uwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-21T21:23:35Z",
-      "first_seen": "2026-11-21T21:23:35Z",
+      "url": "https://sotwe.com/search/%23AEWCollision",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-22T01:23:32Z",
+      "first_seen": "2026-11-22T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-22T00:23:41Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-22T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
