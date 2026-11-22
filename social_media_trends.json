@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-22T06:30:56Z",
+  "updated": "2026-11-22T07:25:29Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "boise-state",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-22T06:23:42Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Boise State",
-      "description": "Boise State is trending as they face San Diego State in a high-stakes college football matchup.",
+      "description": "Boise State is trending after suffering a costly 22-20 defeat to San Diego State following a late clock-management error, which clinched a spot in the Pac-12 championship game for their opponents.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Boise%20State",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.UimRcnattsejGwYz1CG0FwHaE8&pid=15.1",
@@ -30,7 +34,7 @@
       "started_trending": "2026-11-22T06:23:42Z",
       "first_seen": "2026-11-22T06:23:42Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -50,21 +54,59 @@
         {
           "t": "2026-11-22T06:23:42Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 2
         }
       ],
       "rank_change": -1,
       "is_new": false,
       "topic": "#LasVegasGP",
-      "description": "The Las Vegas Grand Prix is drawing heavy social media attention following Max Verstappen's thrilling victory and a dramatic collision between Ferrari teammates.",
+      "description": "The Las Vegas Grand Prix is trending after Max Verstappen secured a thrilling victory for the third time in four years in an event marked by Ferrari teammate collisions.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23LasVegasGP",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.QGyHJEMh2Bt03_BwVHkJVAHaEc&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-22T05:23:44Z",
       "first_seen": "2026-11-22T05:23:44Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sdsu",
+      "rank": 3,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-22T06:23:42Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "SDSU",
+      "description": "SDSU is trending after stunning Boise State with a late comeback and walk-off field goal, securing their place in the Pac-12 championship game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/SDSU",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.OfKVhO8PECAwCmFu7e4bLgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T06:23:42Z",
+      "first_seen": "2026-11-22T06:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -72,67 +114,33 @@
       "extra": {}
     },
     {
-      "id": "mike-conley",
-      "rank": 3,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-22T05:23:44Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-22T06:23:42Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 12,
-      "is_new": false,
-      "topic": "Mike Conley",
-      "description": "Mike Conley is trending on social media after playing a key role as the Celtics faced the Kings.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mike%20Conley",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.tJmPky2MBnSZfcN2yY9u_QHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T04:23:42Z",
-      "first_seen": "2026-11-22T04:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "oscar",
       "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-22T06:23:42Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 4
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Oscar",
-      "description": "The Academy Awards are generating online discussion after Mahershala Ali spoke about industry roles, alongside updates on Oscar-qualified films and Oscar Piastri's F1 remarks.",
+      "description": "Oscar is trending as Mahershala Ali discusses his past wins and the lack of major roles available, alongside updates on Oscar-qualified animated short films and predictions.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Oscar",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.pTnu1emoxw5xSNUcdHxAJwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-22T06:23:42Z",
       "first_seen": "2026-11-22T06:23:42Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -152,12 +160,16 @@
         {
           "t": "2026-11-22T06:23:42Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 5
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Leclerc",
-      "description": "Charles Leclerc is trending after a dramatic on-track collision with Ferrari teammate Lewis Hamilton during the Las Vegas Grand Prix.",
+      "description": "Charles Leclerc is trending following a dramatic on-track collision with Ferrari teammate Lewis Hamilton during the Las Vegas Grand Prix.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Leclerc",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.uxQ7Wp11cilH9bg1vwRsLAHaJQ&pid=15.1",
@@ -166,10 +178,10 @@
       "started_trending": "2026-11-22T05:23:44Z",
       "first_seen": "2026-11-22T05:23:44Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-22T07:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -186,12 +198,16 @@
         {
           "t": "2026-11-22T06:23:42Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 6
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Lewis",
-      "description": "Lewis Hamilton is trending following a post-race penalty discussion and a dramatic collision with his Ferrari teammate Charles Leclerc at the Las Vegas Grand Prix.",
+      "description": "Lewis is trending after Ferrari teammates Lewis Hamilton and Charles Leclerc collided during a dramatic race at the Las Vegas Grand Prix.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Lewis",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.dqxyNu7uUX6w02QNssbfggHaEK&pid=15.1",
@@ -200,37 +216,83 @@
       "started_trending": "2026-11-22T05:23:44Z",
       "first_seen": "2026-11-22T05:23:44Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-22T07:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "pritchard",
+      "id": "mike-conley",
       "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
+          "t": "2026-11-22T04:23:42Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 2
+        },
+        {
           "t": "2026-11-22T06:23:42Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
           "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Pritchard",
-      "description": "Payton Pritchard is trending after drawing a starting spot for the Celtics in their game against the Kings amidst team injuries.",
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "Mike Conley",
+      "description": "Mike Conley is trending after serving as a key player for the Celtics in their surprising loss to the NBA-worst Kings.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Pritchard",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "url": "https://sotwe.com/search/Mike%20Conley",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.tJmPky2MBnSZfcN2yY9u_QHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T04:23:42Z",
+      "first_seen": "2026-11-22T04:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-22T07:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "san-diego-state",
+      "rank": 8,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-22T06:23:42Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "San Diego State",
+      "description": "San Diego State is trending after pulling off a stunning 22-20 comeback victory over Boise State, clinching a spot in the Pac-12 championship game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/San%20Diego%20State",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.bcABHPz/az03M9Qt9DDt7g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-22T06:23:42Z",
       "first_seen": "2026-11-22T06:23:42Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -239,7 +301,7 @@
     },
     {
       "id": "lando",
-      "rank": 8,
+      "rank": 9,
       "previous_rank": 12,
       "rank_4h_ago": 12,
       "rank_history": [
@@ -250,21 +312,59 @@
         {
           "t": "2026-11-22T06:23:42Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": 4,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Lando",
-      "description": "Lando Norris is trending after finishing on the podium behind Max Verstappen in a chaotic and exciting Las Vegas Grand Prix.",
+      "description": "Lando Norris is trending after finishing second in a chaotic and breathless Las Vegas Grand Prix, calling the race absolute madness.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Lando",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.hufW1SVxvx_5hV_qiUxN4AHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-22T05:23:44Z",
       "first_seen": "2026-11-22T05:23:44Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "utes",
+      "rank": 10,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-22T06:23:42Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Utes",
+      "description": "The Utes are trending after defeating TCU 38-17 to officially clinch a berth in the Big 12 Championship Game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Utes",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.yQqvVjq0pEepm2Od7FDftwHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T06:23:42Z",
+      "first_seen": "2026-11-22T06:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -272,29 +372,131 @@
       "extra": {}
     },
     {
-      "id": "san-diego-state",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "ferrari",
+      "rank": 11,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
           "t": "2026-11-22T06:23:42Z",
-          "r": 9
+          "r": 14
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "San Diego State",
-      "description": "San Diego State is trending as the team faces Boise State in a crucial matchup with a Pac-12 Championship Game berth on the line.",
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Ferrari",
+      "description": "Ferrari is trending after teammates Lewis Hamilton and Charles Leclerc collided during a dramatic race at the Las Vegas Grand Prix.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/San%20Diego%20State",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.bcABHPz/az03M9Qt9DDt7g&pid=15.1",
+      "url": "https://sotwe.com/search/Ferrari",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.NvTlYG729MvvooGRwHQYiQHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-22T06:23:42Z",
       "first_seen": "2026-11-22T06:23:42Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pritchard",
+      "rank": 12,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-22T06:23:42Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Pritchard",
+      "description": "Payton Pritchard is trending after starting and making key plays for the Celtics during their narrow loss to the Sacramento Kings.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Pritchard",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.AO0sNPhUqbRMu1M52xM-RAHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T06:23:42Z",
+      "first_seen": "2026-11-22T06:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-22T07:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "max-verstappen",
+      "rank": 13,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-22T06:23:42Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Max Verstappen",
+      "description": "Max Verstappen is trending after winning the Las Vegas Grand Prix for the third time in four years following a thrilling and chaotic race.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Max%20Verstappen",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.cOU6/Kmm26u1usw7lpQ7OA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T06:23:42Z",
+      "first_seen": "2026-11-22T06:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-22T07:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "oklahoma-state",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Oklahoma State",
+      "description": "Oklahoma State is trending due to coverage of their college football matchup against Arizona State and news surrounding quarterback Drew Mestemaker.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Oklahoma%20State",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.NtwdRyNyNRKpOwUbmGnsdA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T07:23:34Z",
+      "first_seen": "2026-11-22T07:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -303,14 +505,10 @@
     },
     {
       "id": "ucla",
-      "rank": 10,
+      "rank": 15,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
-        {
-          "t": "2026-11-22T01:23:32Z",
-          "r": 1
-        },
         {
           "t": "2026-11-22T02:23:31Z",
           "r": 1
@@ -330,12 +528,16 @@
         {
           "t": "2026-11-22T06:23:42Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 15
         }
       ],
-      "rank_change": -9,
+      "rank_change": -14,
       "is_new": false,
       "topic": "UCLA",
-      "description": "UCLA is trending following a stunning triple-overtime loss to Michigan that snapped their unbeaten run and saw their quarterback carted off injured.",
+      "description": "UCLA is trending after their unbeaten run was snapped in a triple-overtime loss to Michigan, a game where quarterback Ty Dieffenbach suffered an injury.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/UCLA",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.uo4Aap-b4MpIveUNutDdJQHaE7&pid=15.1",
@@ -344,7 +546,7 @@
       "started_trending": "2026-11-22T00:23:41Z",
       "first_seen": "2026-11-22T00:23:41Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 6,
       "volume": "6hr trend",
       "volume_value": 6,
@@ -352,29 +554,63 @@
       "extra": {}
     },
     {
-      "id": "utes",
-      "rank": 11,
+      "id": "devon-dampier",
+      "rank": 16,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-22T06:23:42Z",
-          "r": 11
+          "t": "2026-11-22T07:23:34Z",
+          "r": 16
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Utes",
-      "description": "The Utah Utes are trending on social media after securing a berth in the Big 12 Championship Game following a strong performance against TCU.",
+      "topic": "Devon Dampier",
+      "description": "Devon Dampier is trending after delivering a standout Heisman-worthy performance to help No. 2 Utah pull away for a blowout win over TCU.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Utes",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.yQqvVjq0pEepm2Od7FDftwHaFj&pid=15.1",
+      "url": "https://sotwe.com/search/Devon%20Dampier",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.4KYw/xPNkdBIoM5p9qCjkg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T07:23:34Z",
+      "first_seen": "2026-11-22T07:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-22T07:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aztecs",
+      "rank": 17,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-22T06:23:42Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-22T07:23:34Z",
+          "r": 17
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Aztecs",
+      "description": "The Aztecs are trending after shocking Boise State with a late walk-off field goal to secure a spot in the Pac-12 championship game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Aztecs",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xqP-h8dMO62iTSJm_DAybwHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-22T06:23:42Z",
       "first_seen": "2026-11-22T06:23:42Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -382,119 +618,29 @@
       "extra": {}
     },
     {
-      "id": "max-verstappen",
-      "rank": 12,
+      "id": "spencer-danielson",
+      "rank": 18,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-22T06:23:42Z",
-          "r": 12
+          "t": "2026-11-22T07:23:34Z",
+          "r": 18
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Max Verstappen",
-      "description": "Max Verstappen is trending after winning the Las Vegas Grand Prix for the third time in four years following a wild slipstream duel.",
+      "topic": "Spencer Danielson",
+      "description": "Spencer Danielson is trending following Boise State's tough post-game reactions after a costly late-game decision led to a shocking loss against San Diego State.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Max%20Verstappen",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.cOU6/Kmm26u1usw7lpQ7OA&pid=15.1",
+      "url": "https://sotwe.com/search/Spencer%20Danielson",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.VLs87An/wFl9MX3vqgAOJg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-22T06:23:42Z",
-      "first_seen": "2026-11-22T06:23:42Z",
+      "started_trending": "2026-11-22T07:23:34Z",
+      "first_seen": "2026-11-22T07:23:34Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sdsu",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T06:23:42Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "SDSU",
-      "description": "SDSU is trending on social media as the football team battles Boise State in a key postseason championship game bid.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/SDSU",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-22T06:23:42Z",
-      "first_seen": "2026-11-22T06:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ferrari",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T06:23:42Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ferrari",
-      "description": "Ferrari is trending after a disastrous Las Vegas Grand Prix that saw teammates Charles Leclerc and Lewis Hamilton collide during the race.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ferrari",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.NvTlYG729MvvooGRwHQYiQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T06:23:42Z",
-      "first_seen": "2026-11-22T06:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dampier",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T06:23:42Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Dampier",
-      "description": "Devon Dampier is trending after a stellar performance featuring massive touchdowns to help lead Utah past TCU in a blowout victory.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Dampier",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-22T06:23:42Z",
-      "first_seen": "2026-11-22T06:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -503,130 +649,32 @@
     },
     {
       "id": "keegan-murray",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 19,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-11-22T06:23:42Z",
           "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Keegan Murray",
-      "description": "Keegan Murray is trending after hitting a game-winner that snapped the Sacramento Kings' historic home losing skid against the Celtics.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Keegan%20Murray",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-22T06:23:42Z",
-      "first_seen": "2026-11-22T06:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lasvegasgrandprix",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T06:23:42Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#LasVegasGrandPrix",
-      "description": "The Las Vegas Grand Prix is generating buzz online for its star-studded celebrity attendance, qualifying action, and dramatic race results.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23LasVegasGrandPrix",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.Al3KfMekqPkYJ7lvXc16lg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T06:23:42Z",
-      "first_seen": "2026-11-22T06:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mikal-bridges",
-      "rank": 18,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-22T03:23:43Z",
-          "r": 2
         },
         {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-22T05:23:44Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-22T06:23:42Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -16,
-      "is_new": false,
-      "topic": "Mikal Bridges",
-      "description": "Mikal Bridges is trending after hitting a thrilling buzzer-beating three-pointer to lift the Knicks past the Trail Blazers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mikal%20Bridges",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.tEUWz21N4NZ0FqlE7TGUvQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T03:23:43Z",
-      "first_seen": "2026-11-22T03:23:43Z",
-      "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aztecs",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T06:23:42Z",
+          "t": "2026-11-22T07:23:34Z",
           "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Aztecs",
-      "description": "The Aztecs are trending as San Diego State takes on Boise State in a high-stakes college football clash with championship implications.",
+      "rank_change": -3,
+      "is_new": false,
+      "topic": "Keegan Murray",
+      "description": "Keegan Murray is trending after scoring a clutch game-winner to snap the Kings' home losing streak and secure a victory against the Celtics.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Aztecs",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "url": "https://sotwe.com/search/Keegan%20Murray",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.UORqVfQHaUCTad-0nDl0LgHaFa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-22T06:23:42Z",
       "first_seen": "2026-11-22T06:23:42Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -634,29 +682,29 @@
       "extra": {}
     },
     {
-      "id": "george-russell",
+      "id": "madsen",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-22T06:23:42Z",
+          "t": "2026-11-22T07:23:34Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "George Russell",
-      "description": "George Russell is trending after a late race error at the Las Vegas Grand Prix cost him a potential win and sparked a post-race clash with Max Verstappen.",
+      "topic": "Madsen",
+      "description": "Madsen is trending after Nicolas Madsen scored the decisive goal for Queens Park Rangers in a 1-0 victory over Millwall.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/George%20Russell",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-22T06:23:42Z",
-      "first_seen": "2026-11-22T06:23:42Z",
+      "url": "https://sotwe.com/search/Madsen",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.pgwu9GIdnz3oyS3ogOE0CQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T07:23:34Z",
+      "first_seen": "2026-11-22T07:23:34Z",
       "published": null,
-      "last_seen": "2026-11-22T06:23:42Z",
+      "last_seen": "2026-11-22T07:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
