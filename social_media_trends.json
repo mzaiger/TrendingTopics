@@ -1,15 +1,79 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-22T04:25:34Z",
+  "updated": "2026-11-22T05:25:33Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "ucla",
+      "id": "lasvegasgp",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#LasVegasGP",
+      "description": "Fans are following the Formula 1 Las Vegas GP weekend featuring Max Verstappen on pole, alongside drama and clashes on the track.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23LasVegasGP",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-22T05:23:44Z",
+      "first_seen": "2026-11-22T05:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mike-conley",
+      "rank": 2,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-22T04:23:42Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 13,
+      "is_new": false,
+      "topic": "Mike Conley",
+      "description": "Trending as he makes key plays on the basketball court, including a recent basket and foul.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mike%20Conley",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.tJmPky2MBnSZfcN2yY9u_QHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T04:23:42Z",
+      "first_seen": "2026-11-22T04:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ucla",
+      "rank": 3,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -32,12 +96,16 @@
         {
           "t": "2026-11-22T04:23:42Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 3
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "UCLA",
-      "description": "UCLA lost its first game of the season in a triple-overtime thriller against Michigan, during which quarterback Ty Dieffenbach was injured.",
+      "description": "UCLA football's unbeaten run was ruined in a triple-overtime loss to Michigan, during which quarterback Ty Dieffenbach was injured.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/UCLA",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.uo4Aap-b4MpIveUNutDdJQHaE7&pid=15.1",
@@ -46,16 +114,16 @@
       "started_trending": "2026-11-22T00:23:41Z",
       "first_seen": "2026-11-22T00:23:41Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mikal-bridges",
-      "rank": 2,
+      "rank": 4,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -66,12 +134,16 @@
         {
           "t": "2026-11-22T04:23:42Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 4
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Mikal Bridges",
-      "description": "Mikal Bridges hit a dramatic buzzer-beating three-pointer to lift the Knicks to a victory over the Trail Blazers and avoid a collapse.",
+      "description": "Mikal Bridges is trending after hitting a dramatic buzzer-beating three-pointer to lift the Knicks past the Trail Blazers.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Mikal%20Bridges",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.tEUWz21N4NZ0FqlE7TGUvQ&pid=15.1",
@@ -80,7 +152,37 @@
       "started_trending": "2026-11-22T03:23:43Z",
       "first_seen": "2026-11-22T03:23:43Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "leclerc",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Leclerc",
+      "description": "Charles Leclerc is trending after expressing frustration over Ferrari's straight-line speed loss and a dramatic qualifying and race clash in Las Vegas.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Leclerc",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.uxQ7Wp11cilH9bg1vwRsLAHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T05:23:44Z",
+      "first_seen": "2026-11-22T05:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-22T05:23:44Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -88,42 +190,152 @@
       "extra": {}
     },
     {
-      "id": "drummond",
-      "rank": 3,
+      "id": "lewis",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lewis",
+      "description": "Trending as Lewis Hamilton faces a huge penalty at the Formula 1 Las Vegas Grand Prix amidst other athletic and cultural headlines.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Lewis",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-22T05:23:44Z",
+      "first_seen": "2026-11-22T05:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "beamer",
+      "rank": 7,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-22T04:23:42Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Beamer",
+      "description": "Shane Beamer is making news following South Carolina's home finale loss to top-ranked Georgia and discussions surrounding Senior Night.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Beamer",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xjfDAbcc_c0vOylt8Cdo_AHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T04:23:42Z",
+      "first_seen": "2026-11-22T04:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "indiana",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Indiana",
+      "description": "Indiana football is trending on the College Football Playoff bubble following a 27-24 overtime loss to Washington.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Indiana",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.xcy0DnnLF/b4BBGuax7eQw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T05:23:44Z",
+      "first_seen": "2026-11-22T05:23:44Z",
+      "published": null,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rutgers",
+      "rank": 9,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
         {
-          "t": "2026-11-22T03:23:43Z",
+          "t": "2026-11-22T00:23:41Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
           "r": 3
         },
         {
-          "t": "2026-11-22T04:23:42Z",
+          "t": "2026-11-22T02:23:31Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-22T03:23:43Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-22T04:23:42Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 9
         }
       ],
-      "rank_change": 0,
+      "rank_change": -6,
       "is_new": false,
-      "topic": "Drummond",
-      "description": "Andre Drummond drew attention on social media for his offensive rebounding performance and a big dunk after starting for the Knicks against Portland.",
+      "topic": "Rutgers",
+      "description": "Rutgers stunned Penn State with a last-second lateral and two-point conversion to secure its first win against PSU since 1988.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Drummond",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.iqV4OBpOe5Jnzev3IZ-vrQHaE7&pid=15.1",
+      "url": "https://sotwe.com/search/Rutgers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.G0G2qb9hJBitIUIHg0alawHaFj&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-22T03:23:43Z",
-      "first_seen": "2026-11-22T03:23:43Z",
+      "started_trending": "2026-11-22T00:23:41Z",
+      "first_seen": "2026-11-22T00:23:41Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "aewcollision",
-      "rank": 4,
+      "rank": 10,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -142,12 +354,16 @@
         {
           "t": "2026-11-22T04:23:42Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 10
         }
       ],
-      "rank_change": 16,
+      "rank_change": 10,
       "is_new": false,
       "topic": "#AEWCollision",
-      "description": "Fans are discussing the latest AEW Collision in Green Bay, featuring the continuation of the Continental Classic, Ilja Dragunov retaining his title, and Takeshita's return.",
+      "description": "Fans are following the latest AEW Collision action from Green Bay, featuring the Continental Classic, Ilja Dragunov, and Takeshita.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23AEWCollision",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.OLnlCu1dw5n7VSKMj0dRDA&pid=15.1",
@@ -156,83 +372,7 @@
       "started_trending": "2026-11-22T01:23:32Z",
       "first_seen": "2026-11-22T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "beamer",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Beamer",
-      "description": "South Carolina coach Shane Beamer is trending after appearing on SEC Nation and preparing his team for a matchup against Georgia.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Beamer",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xjfDAbcc_c0vOylt8Cdo_AHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T04:23:42Z",
-      "first_seen": "2026-11-22T04:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rutgers",
-      "rank": 6,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-22T01:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-22T02:23:31Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-22T03:23:43Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 6
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Rutgers",
-      "description": "Rutgers stunned Penn State with a last-second lateral and two-point conversion to secure their first win against the Nittany Lions since 1988.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rutgers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.G0G2qb9hJBitIUIHg0alawHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
+      "last_seen": "2026-11-22T05:23:44Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -240,33 +380,29 @@
       "extra": {}
     },
     {
-      "id": "kirby",
-      "rank": 7,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "id": "reed-harris",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-22T03:23:43Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 7
+          "t": "2026-11-22T05:23:44Z",
+          "r": 11
         }
       ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Kirby",
-      "description": "Kirby Smart emphasized patience as Georgia defeated South Carolina 34-6, securing a spot in the SEC title game.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Reed Harris",
+      "description": "Trending in connection with college football matchups like Oklahoma State versus Arizona State, alongside fashion appearances sharing the name.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Kirby",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP._T3DgZWsvfX9kuNP6usHGgAAAA&pid=15.1",
+      "url": "https://sotwe.com/search/Reed%20Harris",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.118syjC806jfdC1oo1B5KgHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-22T03:23:43Z",
-      "first_seen": "2026-11-22T03:23:43Z",
+      "started_trending": "2026-11-22T05:23:44Z",
+      "first_seen": "2026-11-22T05:23:44Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
+      "last_seen": "2026-11-22T05:23:44Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -274,117 +410,29 @@
       "extra": {}
     },
     {
-      "id": "michigan",
-      "rank": 8,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-22T01:23:32Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-22T02:23:31Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-22T03:23:43Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -6,
-      "is_new": false,
-      "topic": "Michigan",
-      "description": "Michigan handed No. 4 UCLA its first loss of the season with an 18-16 victory in triple overtime.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Michigan",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.r2Ai4PCuoiPMjMGKEYz8rA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T01:23:32Z",
-      "first_seen": "2026-11-22T01:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "penn-state",
-      "rank": 9,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-22T01:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-22T02:23:31Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-22T03:23:43Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Penn State",
-      "description": "Penn State suffered one of the worst losses in program history, dropping their final home game of 2026 to Rutgers on a last-second play.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Penn%20State",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.CGrxEltGREE7a1wPdkCOpw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "godawgs",
-      "rank": 10,
+      "id": "lando",
+      "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 10
+          "t": "2026-11-22T05:23:44Z",
+          "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#GoDawgs",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23GoDawgs",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.jSigDqb_lMzJ34ivTUQpgQHaHL&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T04:23:42Z",
-      "first_seen": "2026-11-22T04:23:42Z",
+      "topic": "Lando",
+      "description": "Lando Norris is trending after demanding urgent improvements from McLaren and criticizing a shocking car issue during Las Vegas Grand Prix qualifying.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Lando",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-22T05:23:44Z",
+      "first_seen": "2026-11-22T05:23:44Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
+      "last_seen": "2026-11-22T05:23:44Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -393,7 +441,7 @@
     },
     {
       "id": "iowa",
-      "rank": 11,
+      "rank": 13,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -412,12 +460,16 @@
         {
           "t": "2026-11-22T04:23:42Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 13
         }
       ],
-      "rank_change": -4,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Iowa",
-      "description": "Iowa defeated Illinois 34-17 on the road, keeping their Big Ten Championship and playoff hopes alive.",
+      "description": "Iowa football is trending as the team runs away from Illinois in the second half, inching closer to a College Football Playoff bid.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Iowa",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.AiLgzSRXizvX0lIU5L976gHaIF&pid=15.1",
@@ -426,45 +478,45 @@
       "started_trending": "2026-11-22T01:23:32Z",
       "first_seen": "2026-11-22T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "james-franklin",
-      "rank": 12,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "id": "kirby",
+      "rank": 14,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
-          "t": "2026-11-22T02:23:31Z",
-          "r": 14
-        },
-        {
           "t": "2026-11-22T03:23:43Z",
-          "r": 13
+          "r": 9
         },
         {
           "t": "2026-11-22T04:23:42Z",
-          "r": 12
+          "r": 7
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 14
         }
       ],
-      "rank_change": 2,
+      "rank_change": -5,
       "is_new": false,
-      "topic": "James Franklin",
-      "description": "The material does not make the description clear.",
+      "topic": "Kirby",
+      "description": "Kirby Smart is drawing attention after leading Georgia to a 34-6 win over South Carolina, emphasizing patience during the victory.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/James%20Franklin",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.wX0NwQQJTjkukSlqjO5rkw&pid=15.1",
+      "url": "https://sotwe.com/search/Kirby",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP._T3DgZWsvfX9kuNP6usHGgAAAA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-22T02:23:31Z",
-      "first_seen": "2026-11-22T02:23:31Z",
+      "started_trending": "2026-11-22T03:23:43Z",
+      "first_seen": "2026-11-22T03:23:43Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
+      "last_seen": "2026-11-22T05:23:44Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -472,20 +524,146 @@
       "extra": {}
     },
     {
+      "id": "drummond",
+      "rank": 15,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-22T03:23:43Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-22T04:23:42Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -12,
+      "is_new": false,
+      "topic": "Drummond",
+      "description": "Andre Drummond is trending following strong rebounding and dunking performances for the Knicks.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Drummond",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.iqV4OBpOe5Jnzev3IZ-vrQHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T03:23:43Z",
+      "first_seen": "2026-11-22T03:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "godawgs",
+      "rank": 16,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-22T04:23:42Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "#GoDawgs",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23GoDawgs",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.jSigDqb_lMzJ34ivTUQpgQHaHL&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T04:23:42Z",
+      "first_seen": "2026-11-22T04:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "penn-state",
+      "rank": 17,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-22T00:23:41Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-22T02:23:31Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-22T03:23:43Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-22T04:23:42Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -11,
+      "is_new": false,
+      "topic": "Penn State",
+      "description": "Penn State is receiving heavy attention following a stunning last-second loss to Rutgers in their final home game of the campaign.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Penn%20State",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.CGrxEltGREE7a1wPdkCOpw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T00:23:41Z",
+      "first_seen": "2026-11-22T00:23:41Z",
+      "published": null,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "stein",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-11-22T04:23:42Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -5,
+      "is_new": false,
       "topic": "Stein",
-      "description": "Will Stein is trending following comments on Kentucky's injuries and consecutive losses following a defeat against Missouri.",
+      "description": "Will Stein is trending after recapping Kentucky's SEC finale loss to Missouri and addressing team injuries.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Stein",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.BtLZz0IKHt5P8EqsyzCp/A&pid=15.1",
@@ -494,194 +672,32 @@
       "started_trending": "2026-11-22T04:23:42Z",
       "first_seen": "2026-11-22T04:23:42Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tennessee",
-      "rank": 14,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-22T00:23:41Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-22T01:23:32Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-22T02:23:31Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-22T03:23:43Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Tennessee",
-      "description": "Tennessee defeated LSU 27-13 in a game briefly stopped by fans throwing objects onto the field, dealing Lane Kiffin's squad their third straight loss.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Tennessee",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.tHtmF/FeBtlSso/QSXGbIQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T00:23:41Z",
-      "first_seen": "2026-11-22T00:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mike-conley",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Mike Conley",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Mike%20Conley",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.tJmPky2MBnSZfcN2yY9u_QHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T04:23:42Z",
-      "first_seen": "2026-11-22T04:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kiffin",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kiffin",
-      "description": "Lane Kiffin addressed LSU's disappointing 27-13 loss to Tennessee, which marked the team's third consecutive defeat.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Kiffin",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xO9o-RCym7aYBiEquP-9vgHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T04:23:42Z",
-      "first_seen": "2026-11-22T04:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oregon",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Oregon",
-      "description": "The Oregon Ducks are trending on social media as fans break down their path to the Big Ten Championship Game.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Oregon",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.-rdqCfXWPETQqad9Ln1RtwHaFg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T04:23:42Z",
-      "first_seen": "2026-11-22T04:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oplive",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T04:23:42Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#OPLive",
-      "description": "The material does not make the description clear.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23OPLive",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.LEQ2MFQkPJ2DhA30VFMiOwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T04:23:42Z",
-      "first_seen": "2026-11-22T04:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "james-dean",
       "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-22T04:23:42Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
+          "r": 19
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "James Dean",
-      "description": "The material does not make the description clear.",
+      "description": "Trending due to unrelated recent news items, including sports performances by LeBron James and Joel Embiid.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/James%20Dean",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.rhHywf2sjn9QkJNHBgfMLwHaLG&pid=15.1",
@@ -690,44 +706,56 @@
       "started_trending": "2026-11-22T04:23:42Z",
       "first_seen": "2026-11-22T04:23:42Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "knicks",
+      "id": "michigan",
       "rank": 20,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
+          "t": "2026-11-22T01:23:32Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-22T02:23:31Z",
+          "r": 2
+        },
+        {
           "t": "2026-11-22T03:23:43Z",
-          "r": 12
+          "r": 5
         },
         {
           "t": "2026-11-22T04:23:42Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-22T05:23:44Z",
           "r": 20
         }
       ],
-      "rank_change": -8,
+      "rank_change": -18,
       "is_new": false,
-      "topic": "#Knicks",
-      "description": "The Knicks defeated the Trail Blazers after Mikal Bridges hit a game-winning buzzer-beater to rescue the team from a late collapse despite missing key starters.",
+      "topic": "Michigan",
+      "description": "Michigan is trending after defeating #4 UCLA in a dramatic triple-overtime thriller that ended the Bruins' unbeaten run.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23Knicks",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.l6Brd7MdNzRS2PfKMB2/iA&pid=15.1",
+      "url": "https://sotwe.com/search/Michigan",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.r2Ai4PCuoiPMjMGKEYz8rA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-22T03:23:43Z",
-      "first_seen": "2026-11-22T03:23:43Z",
+      "started_trending": "2026-11-22T01:23:32Z",
+      "first_seen": "2026-11-22T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-22T04:23:42Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-22T05:23:44Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     }
