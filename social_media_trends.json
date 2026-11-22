@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-22T21:25:14Z",
+  "updated": "2026-11-22T22:24:54Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Steelers",
-      "description": "The Pittsburgh Steelers are trending as they face the Philadelphia Eagles in a Week 11 matchup, which featured wide receiver DK Metcalf getting ejected.",
+      "description": "The Steelers are trending after a 19-16 loss to the Eagles, highlighted by an awful offensive performance and wide receiver DK Metcalf getting ejected for unsportsmanlike conduct.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Steelers",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.fblnwyoTwreAVeuLy53grg&pid=15.1",
@@ -38,16 +42,46 @@
       "started_trending": "2026-11-22T19:23:35Z",
       "first_seen": "2026-11-22T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mets",
+      "rank": 2,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 2
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mets",
+      "description": "The Mets are trending after reportedly signing two-time Cy Young winner Tarik Skubal to a historic nine-year, $450 million contract.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mets",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.hBKVDtgUv11FId0FRSdxxw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T22:23:32Z",
+      "first_seen": "2026-11-22T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "dk-metcalf",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -58,12 +92,16 @@
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 3
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "DK Metcalf",
-      "description": "Pittsburgh Steelers wide receiver DK Metcalf is trending after being ejected from the game against the Eagles following a skirmish and penalties involving Cooper DeJean.",
+      "description": "DK Metcalf is trending after being ejected from the Steelers' game against the Eagles following multiple personal fouls and a skirmish with Cooper DeJean.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/DK%20Metcalf",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.MxHM6RMXF0wQf6IHMqIO5Q&pid=15.1",
@@ -72,16 +110,50 @@
       "started_trending": "2026-11-22T20:23:32Z",
       "first_seen": "2026-11-22T20:23:32Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ravens",
+      "rank": 4,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-22T21:23:34Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Ravens",
+      "description": "The Ravens are trending following their sixth-straight loss, a narrow defeat to the Panthers in a back-and-forth game in Carolina.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Ravens",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.3xq4fTMmIJqaQWpeiE/6UA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T21:23:34Z",
+      "first_seen": "2026-11-22T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "eagles",
-      "rank": 3,
+      "rank": 5,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -92,12 +164,16 @@
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 5
         }
       ],
-      "rank_change": 3,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Eagles",
-      "description": "The Philadelphia Eagles are trending due to their Week 11 game against the Steelers, highlighted by an ejection involving DK Metcalf and quarterback Joe Milton III's play.",
+      "description": "The Eagles are trending after snapping a seven-game losing streak with a 19-16 win over the Steelers, anchored by a strong defensive performance.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Eagles",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.eWNcsD4nf6Zu49c8wJhajg&pid=15.1",
@@ -106,46 +182,16 @@
       "started_trending": "2026-11-22T20:23:32Z",
       "first_seen": "2026-11-22T20:23:32Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ravens",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T21:23:34Z",
-          "r": 4
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ravens",
-      "description": "The Baltimore Ravens are trending during their Week 11 matchup against the Panthers, featuring big plays like an 86-yard kick-return touchdown and a trick-play pass.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ravens",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.3xq4fTMmIJqaQWpeiE/6UA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T21:23:34Z",
-      "first_seen": "2026-11-22T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "panthers",
-      "rank": 5,
+      "rank": 6,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -160,12 +206,16 @@
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 6
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Panthers",
-      "description": "The Carolina Panthers are trending on social media during their Week 11 game against the Baltimore Ravens.",
+      "description": "The Panthers are trending after winning their second straight game in a wild 35-33 victory over the Ravens, helping them stay on top in the NFC South.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Panthers",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.Mz56GfWcac5LuMg3C1Ry0wHaEK&pid=15.1",
@@ -174,16 +224,50 @@
       "started_trending": "2026-11-22T19:23:35Z",
       "first_seen": "2026-11-22T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bears",
+      "rank": 7,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-22T21:23:34Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Bears",
+      "description": "The Bears are trending as social media discusses their matchup against the New Orleans Saints, including highlights from Caleb Williams and Zavion Thomas.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bears",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.RgOAqHawMtFeIQIwHOlVtg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T21:23:34Z",
+      "first_seen": "2026-11-22T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "rodgers",
-      "rank": 6,
+      "rank": 8,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -198,12 +282,16 @@
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": -3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Rodgers",
-      "description": "Quarterback Aaron Rodgers is trending as he leads the Steelers in their Week 11 matchup against the Philadelphia Eagles.",
+      "description": "Aaron Rodgers is trending as analysts and fans discuss his recent mistakes, a no-load pass, and reports that he wants more accountability in team meetings.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Rodgers",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.20oNblIpjA3_PatYsHwDawEsCo&pid=15.1",
@@ -212,79 +300,7 @@
       "started_trending": "2026-11-22T19:23:35Z",
       "first_seen": "2026-11-22T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bears",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T21:23:34Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bears",
-      "description": "The Chicago Bears are trending during their Week 11 matchup against the New Orleans Saints, featuring plays by Caleb Williams and D'Andre Swift.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Bears",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.RgOAqHawMtFeIQIwHOlVtg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T21:23:34Z",
-      "first_seen": "2026-11-22T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "joe-milton",
-      "rank": 8,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-22T18:23:45Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-22T19:23:35Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-22T20:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-22T21:23:34Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Joe Milton",
-      "description": "Philadelphia Eagles quarterback Joe Milton III is trending after a performance against the Steelers that included a notable fumble and key passes.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Joe%20Milton",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.sym8bDsEW/q4okvw5ajWTQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T18:23:45Z",
-      "first_seen": "2026-11-22T18:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
+      "last_seen": "2026-11-22T22:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -304,12 +320,16 @@
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 9
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Titans",
-      "description": "The Tennessee Titans are trending following their game against the Dallas Cowboys.",
+      "description": "The Titans are trending following a heavy 51-30 loss to the Dallas Cowboys.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Titans",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.MBOqQvbI/Hfks35l39Vo7Q&pid=15.1",
@@ -318,67 +338,37 @@
       "started_trending": "2026-11-22T20:23:32Z",
       "first_seen": "2026-11-22T20:23:32Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "cam-ward",
+      "id": "david-bailey",
       "rank": 10,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-22T21:23:34Z",
+          "t": "2026-11-22T22:23:32Z",
           "r": 10
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Cam Ward",
-      "description": "Tennessee Titans player Cam Ward is trending after scoring multiple rushing and passing touchdowns in a game against the Dallas Cowboys.",
+      "topic": "David Bailey",
+      "description": "David Bailey is trending after boosting his 2026 sack total to 8.5 by stripping the football from Herbert during the Jets and Chargers game, drawing attention in the defensive rookie of the year race.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Cam%20Ward",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.XeKR0VzJHBm3wvulAs22tg&pid=15.1",
+      "url": "https://sotwe.com/search/David%20Bailey",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.gYZk4n-JJA4A9UIzlgSHQgHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-22T21:23:34Z",
-      "first_seen": "2026-11-22T21:23:34Z",
+      "started_trending": "2026-11-22T22:23:32Z",
+      "first_seen": "2026-11-22T22:23:32Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "josh-allen",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T21:23:34Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Josh Allen",
-      "description": "Buffalo Bills quarterback Josh Allen is trending after taking a hit from the Dolphins and continuing his strong play and MVP push.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Josh%20Allen",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.jeNhGWo1xLnhIHZ9N0SN2A&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T21:23:34Z",
-      "first_seen": "2026-11-22T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
+      "last_seen": "2026-11-22T22:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -387,19 +377,23 @@
     },
     {
       "id": "keeppounding",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 11,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "#KeepPounding",
-      "description": "The Panthers' social media hashtag #KeepPounding is trending as the team faces Green Bay.",
+      "description": "The hashtag Keep Pounding is trending on social media following the Panthers recovering a Green Bay fumble on the opening kickoff.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23KeepPounding",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.ZnOiMRF5bfjAMhtzigMNoAHaEK&pid=15.1",
@@ -408,7 +402,101 @@
       "started_trending": "2026-11-22T21:23:34Z",
       "first_seen": "2026-11-22T21:23:34Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "trevor-lawrence",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Trevor Lawrence",
+      "description": "Trevor Lawrence is trending as football fans discuss his legitimate 2026 NFL MVP case alongside game highlights against the New York Giants.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Trevor%20Lawrence",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.T02d0yFNMwQELEosfwzGxQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T22:23:32Z",
+      "first_seen": "2026-11-22T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "broncos",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Broncos",
+      "description": "The Broncos are trending ahead of their Week 11 game against the Raiders, alongside tributes to former Broncos star linebacker and ESPN broadcaster Tom Jackson, who died at 75.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Broncos",
+      "image_url": "https://ts1.explicit.bing.net/th?id=OIP.-Gs2Cw4FBdxyV7b6jCfo4gHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T22:23:32Z",
+      "first_seen": "2026-11-22T22:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cam-ward",
+      "rank": 14,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-22T21:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -4,
+      "is_new": false,
+      "topic": "Cam Ward",
+      "description": "Cam Ward is trending after scoring three rushing touchdowns and throwing a 59-yard touchdown pass to Carnell Tate during the Titans' game against the Cowboys.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Cam%20Ward",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.XeKR0VzJHBm3wvulAs22tg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T21:23:34Z",
+      "first_seen": "2026-11-22T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-22T22:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -417,7 +505,7 @@
     },
     {
       "id": "naruto",
-      "rank": 13,
+      "rank": 15,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -432,12 +520,16 @@
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": -4,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Naruto",
-      "description": "Naruto is trending online due to recent franchise news, including new merchandise collaborations, mobile game updates, and character strength rankings.",
+      "description": "Naruto is trending following new protein food collaborations, power rankings, and mentions alongside other major manga milestones.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Naruto",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.tCUL0aGifzarDM8DVZvOUwHaLH&pid=15.1",
@@ -446,16 +538,96 @@
       "started_trending": "2026-11-22T19:23:35Z",
       "first_seen": "2026-11-22T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "joe-milton",
+      "rank": 16,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
+      "rank_history": [
+        {
+          "t": "2026-11-22T18:23:45Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-22T19:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-22T20:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-22T21:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "Joe Milton",
+      "description": "Joe Milton III is trending following a game-sealing completion to DeVonta Smith against the Steelers, though he also drew attention for watching his own fumble.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Joe%20Milton",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.sym8bDsEW/q4okvw5ajWTQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T18:23:45Z",
+      "first_seen": "2026-11-22T18:23:45Z",
+      "published": null,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "josh-allen",
+      "rank": 17,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-22T21:23:34Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -6,
+      "is_new": false,
+      "topic": "Josh Allen",
+      "description": "Josh Allen is trending after leading the Bills past the Dolphins for their sixth straight win, despite taking a vicious elbow from Keith Cooper Jr. during the game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Josh%20Allen",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.jeNhGWo1xLnhIHZ9N0SN2A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-22T21:23:34Z",
+      "first_seen": "2026-11-22T21:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "saints",
-      "rank": 14,
+      "rank": 18,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -470,12 +642,16 @@
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": -1,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Saints",
-      "description": "The New Orleans Saints are trending as they look to rebound in an away game against the Chicago Bears.",
+      "description": "The Saints are trending on social media ahead of their Week 11 matchup against the Chicago Bears.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Saints",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.vZEUO2LVI88eKDTviUjjCA&pid=15.1",
@@ -484,76 +660,16 @@
       "started_trending": "2026-11-22T19:23:35Z",
       "first_seen": "2026-11-22T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bucs",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T21:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bucs",
-      "description": "The Tampa Bay Bucs are trending as Baker Mayfield plays through injuries in their matchup against the Detroit Lions.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Bucs",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.pILihofMlaWRKabLij5GJA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T21:23:34Z",
-      "first_seen": "2026-11-22T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ringo",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T21:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ringo",
-      "description": "Ringo Starr is trending following news of a future Beatles reunion with Paul McCartney in Las Vegas and historical retrospectives.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ringo",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.FrlfZ2A_SiG-dBiW37YhDAHaLX&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T21:23:34Z",
-      "first_seen": "2026-11-22T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-22T22:23:32Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "luffy",
-      "rank": 17,
+      "rank": 19,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -568,12 +684,16 @@
         {
           "t": "2026-11-22T21:23:34Z",
           "r": 17
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
+          "r": 19
         }
       ],
-      "rank_change": -10,
+      "rank_change": -12,
       "is_new": false,
       "topic": "Luffy",
-      "description": "Luffy is trending as recent manga chapters of One Piece confirm major lore connections alongside new merchandise releases.",
+      "description": "Luffy is trending following new chapter releases that confirm the legendary Sun God connection in One Piece, alongside new merchandise announcements.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Luffy",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.iZRO4kJ6LAmuX7-24ioyIgHaE7&pid=15.1",
@@ -582,49 +702,7 @@
       "started_trending": "2026-11-22T19:23:35Z",
       "first_seen": "2026-11-22T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "herewego",
-      "rank": 18,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-22T18:23:45Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-22T19:23:35Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-22T20:23:32Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-22T21:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "#HereWeGo",
-      "description": "The phrase #HereWeGo is trending across social media alongside discussions of the Steelers' pregame action and political headlines.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23HereWeGo",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.F6XNxBaLFu0T7mJQ05gUzA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T18:23:45Z",
-      "first_seen": "2026-11-22T18:23:45Z",
-      "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
+      "last_seen": "2026-11-22T22:23:32Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -632,59 +710,33 @@
       "extra": {}
     },
     {
-      "id": "onepride",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-22T21:23:34Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#OnePride",
-      "description": "The Detroit Lions' hashtag #OnePride is trending as fans tune into the live pregame show ahead of their matchup against the Tampa Bay Buccaneers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23OnePride",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.cPQwIo1mOimIbGtrAitc0wHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-22T21:23:34Z",
-      "first_seen": "2026-11-22T21:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kellen-moore",
+      "id": "bucs",
       "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
       "rank_history": [
         {
           "t": "2026-11-22T21:23:34Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-22T22:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kellen Moore",
-      "description": "Saints offensive coordinator Kellen Moore is trending amid increasing pressure regarding the team's offensive struggles and decline.",
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Bucs",
+      "description": "The Bucs are trending following a 31-21 loss to the Detroit Lions in Week 11.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Kellen%20Moore",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.9JiLxAPzgc0PdAX5HYmb2w&pid=15.1",
+      "url": "https://sotwe.com/search/Bucs",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.pILihofMlaWRKabLij5GJA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-22T21:23:34Z",
       "first_seen": "2026-11-22T21:23:34Z",
       "published": null,
-      "last_seen": "2026-11-22T21:23:34Z",
+      "last_seen": "2026-11-22T22:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
