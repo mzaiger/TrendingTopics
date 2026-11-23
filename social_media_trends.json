@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-23T19:25:53Z",
+  "updated": "2026-11-23T20:25:19Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,6 +24,10 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
@@ -38,10 +42,10 @@
       "started_trending": "2026-11-23T17:23:33Z",
       "first_seen": "2026-11-23T17:23:33Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -62,6 +66,10 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 2
         }
       ],
       "rank_change": -1,
@@ -76,18 +84,60 @@
       "started_trending": "2026-11-23T17:23:33Z",
       "first_seen": "2026-11-23T17:23:33Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "swalwell",
+      "rank": 3,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-23T17:23:33Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-23T18:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-23T19:23:38Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 9,
+      "is_new": false,
+      "topic": "Swalwell",
+      "description": "Eric Swalwell is trending after President Trump brought up the lawmaker's alleged Chinese spy scandal while defending Jensen Huang.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Swalwell",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xmbGcMFRCafWyFBwWIfU9wHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T17:23:33Z",
+      "first_seen": "2026-11-23T17:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "x-men",
-      "rank": 3,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "rank": 4,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-23T15:23:42Z",
@@ -120,6 +170,10 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 4
         }
       ],
       "rank_change": -2,
@@ -134,56 +188,18 @@
       "started_trending": "2026-11-23T15:23:42Z",
       "first_seen": "2026-11-23T15:23:42Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "swalwell",
-      "rank": 4,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-23T17:23:33Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-23T18:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-23T19:23:38Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 8,
-      "is_new": false,
-      "topic": "Swalwell",
-      "description": "Eric Swalwell is trending after President Trump brought up the lawmaker's alleged Chinese spy scandal while defending Jensen Huang.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Swalwell",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.xmbGcMFRCafWyFBwWIfU9wHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T17:23:33Z",
-      "first_seen": "2026-11-23T17:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "cyclops",
       "rank": 5,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
         {
           "t": "2026-11-23T14:23:41Z",
@@ -220,9 +236,13 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 5
         }
       ],
-      "rank_change": 5,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Cyclops",
       "description": "Cyclops is trending after the final 'Avengers: Doomsday' trailer revealed his iconic 'X-Men' line and team assembly.",
@@ -234,154 +254,50 @@
       "started_trending": "2026-11-23T14:23:41Z",
       "first_seen": "2026-11-23T14:23:41Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "phil",
+      "id": "brandon-aiyuk",
       "rank": 6,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
-          "t": "2026-11-23T17:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-23T18:23:34Z",
-          "r": 6
-        },
-        {
           "t": "2026-11-23T19:23:38Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
           "r": 6
         }
       ],
-      "rank_change": 0,
+      "rank_change": 6,
       "is_new": false,
-      "topic": "PHIL",
-      "description": "Phil is trending in various local and industry news, including obituaries, CEO updates, and technological retrospectives.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/PHIL",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.z2K9Ga5TrHvI9P0OTdAjrgHaJQ&pid=15.1",
+      "topic": "Brandon Aiyuk",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/Brandon%20Aiyuk",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.K52jigbg09jnNDE/q3dIOQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-23T17:23:33Z",
-      "first_seen": "2026-11-23T17:23:33Z",
+      "started_trending": "2026-11-23T19:23:38Z",
+      "first_seen": "2026-11-23T19:23:38Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bilibili",
-      "rank": 7,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
-      "rank_history": [
-        {
-          "t": "2026-11-23T17:23:33Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-23T18:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-23T19:23:38Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "#bilibili",
-      "description": "Bilibili is trending after the Worlds 2026 final became its most-viewed League of Legends match ever, alongside earnings and target price updates.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23bilibili",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.B3OyV8C3bsboO5YYBOjIXQHaDb&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T17:23:33Z",
-      "first_seen": "2026-11-23T17:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "avengersdoomsday",
-      "rank": 8,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-23T14:23:41Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-23T15:23:42Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-23T15:31:39Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-23T15:49:25Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-23T16:00:18Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-23T16:14:15Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-23T17:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-23T18:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-23T19:23:38Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#AvengersDoomsday",
-      "description": "The final trailer for 'Avengers: Doomsday' is trending on social media, featuring Captain America's son, the Fantastic Four, and the X-Men.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23AvengersDoomsday",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.K9JTpHdMNvCHPJvukF953w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T14:23:41Z",
-      "first_seen": "2026-11-23T14:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "newt",
-      "rank": 9,
+      "rank": 7,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -396,9 +312,13 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 7
         }
       ],
-      "rank_change": 5,
+      "rank_change": 7,
       "is_new": false,
       "topic": "Newt",
       "description": "Newt is trending following scientific research that established the first immortal perivascular cell line from Iberian ribbed newts.",
@@ -410,16 +330,118 @@
       "started_trending": "2026-11-23T17:23:33Z",
       "first_seen": "2026-11-23T17:23:33Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "phil",
+      "rank": 8,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-23T17:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-23T18:23:34Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-23T19:23:38Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 8
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "PHIL",
+      "description": "Phil is trending in various local and industry news, including obituaries, CEO updates, and technological retrospectives.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/PHIL",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.z2K9Ga5TrHvI9P0OTdAjrgHaJQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T17:23:33Z",
+      "first_seen": "2026-11-23T17:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "doomsday",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Doomsday",
+      "description": "The final trailer for Avengers: Doomsday is trending after its release, generating massive excitement across social media with reveals about Steve Rogers, the X-Men, and an epic superhero battle.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Doomsday",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.hR83pPQLePKDwDisRol3bQHaLC&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T20:23:39Z",
+      "first_seen": "2026-11-23T20:23:39Z",
+      "published": null,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "brent-suter",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Brent Suter",
+      "description": "Brent Suter is trending on social media after reports emerged that the Yankees reached a one-year deal with the left-handed reliever.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Brent%20Suter",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.KUU1Egcg2_48oQJepfUtEQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T20:23:39Z",
+      "first_seen": "2026-11-23T20:23:39Z",
+      "published": null,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "thor",
-      "rank": 10,
+      "rank": 11,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -434,9 +456,13 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 11
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Thor",
       "description": "Thor is trending as the final 'Avengers: Doomsday' trailer and recent reports address massive power changes and fan debates.",
@@ -448,18 +474,48 @@
       "started_trending": "2026-11-23T17:23:33Z",
       "first_seen": "2026-11-23T17:23:33Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "morejon",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Morejon",
+      "description": "Adrian Morejon is trending on social media amidst MLB Hot Stove rumors as he rejects a qualifying offer and draws heavy interest from teams like the Yankees.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Morejon",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-23T20:23:39Z",
+      "first_seen": "2026-11-23T20:23:39Z",
+      "published": null,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "woosoxwishlist",
-      "rank": 11,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
+      "rank": 13,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-11-23T15:49:25Z",
@@ -484,9 +540,13 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 13
         }
       ],
-      "rank_change": 4,
+      "rank_change": -2,
       "is_new": false,
       "topic": "#WooSoxWishList",
       "description": "",
@@ -498,48 +558,18 @@
       "started_trending": "2026-11-23T15:49:25Z",
       "first_seen": "2026-11-23T15:49:25Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "brandon-aiyuk",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-23T19:23:38Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Brandon Aiyuk",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Brandon%20Aiyuk",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.K52jigbg09jnNDE/q3dIOQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T19:23:38Z",
-      "first_seen": "2026-11-23T19:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "steve-rogers",
-      "rank": 13,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
+      "rank": 14,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-23T15:23:42Z",
@@ -572,9 +602,13 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 14
         }
       ],
-      "rank_change": -5,
+      "rank_change": -8,
       "is_new": false,
       "topic": "Steve Rogers",
       "description": "Steve Rogers is trending following the final 'Avengers: Doomsday' trailer, which reveals his son and addresses his timeline after 'Avengers: Endgame'.",
@@ -586,106 +620,52 @@
       "started_trending": "2026-11-23T15:23:42Z",
       "first_seen": "2026-11-23T15:23:42Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "peggy",
-      "rank": 14,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-23T15:23:42Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-23T15:31:39Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-23T15:49:25Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-23T16:00:18Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-23T16:14:15Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-23T17:23:33Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-23T18:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-23T19:23:38Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Peggy",
-      "description": "Peggy is trending across multiple stories, including obituaries, historical retrospectives on Peggy Guggenheim, and 'The Gilded Age' updates.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Peggy",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ONXVxGH2ZMFCCiB_HYg3PgHaJF&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T15:23:42Z",
-      "first_seen": "2026-11-23T15:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "spielberg",
+      "id": "scott-galloway",
       "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-23T19:23:38Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
           "r": 15
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Spielberg",
+      "rank_change": 4,
+      "is_new": false,
+      "topic": "Scott Galloway",
       "description": "",
       "description_source": "",
-      "url": "https://sotwe.com/search/Spielberg",
-      "image_url": "https://ts4.explicit.bing.net/th?id=OIP.j75_ZZKp3kV3guLN1ZJ_mQHaFj&pid=15.1",
+      "url": "https://sotwe.com/search/Scott%20Galloway",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.l3sSGhXs-q8rD45XuxtSNgHaHa&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-23T19:23:38Z",
       "first_seen": "2026-11-23T19:23:38Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "endgame",
       "rank": 16,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-23T15:49:25Z",
@@ -710,9 +690,13 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 16
         }
       ],
-      "rank_change": 4,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Endgame",
       "description": "Avengers: Endgame is trending as the final 'Avengers: Doomsday' trailer reveals the price of the movie's time heist and touches on Steve Rogers' timeline.",
@@ -724,114 +708,16 @@
       "started_trending": "2026-11-23T15:49:25Z",
       "first_seen": "2026-11-23T15:49:25Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cnbc",
-      "rank": 17,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-23T17:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-23T18:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-23T19:23:38Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "CNBC",
-      "description": "CNBC is trending after airing President Trump's interview regarding Nvidia's Jensen Huang and reporting on major corporate acquisitions.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/CNBC",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.fQPyuvb89m_Qez8cw0dNIAHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T17:23:33Z",
-      "first_seen": "2026-11-23T17:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "board",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-23T19:23:38Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Board",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Board",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ymm2sAciU5MvU4mvKyDp4QHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T19:23:38Z",
-      "first_seen": "2026-11-23T19:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "scott-galloway",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-23T19:23:38Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Scott Galloway",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Scott%20Galloway",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.l3sSGhXs-q8rD45XuxtSNgHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T19:23:38Z",
-      "first_seen": "2026-11-23T19:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "loki",
-      "rank": 20,
+      "rank": 17,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -842,9 +728,13 @@
         {
           "t": "2026-11-23T19:23:38Z",
           "r": 20
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 17
         }
       ],
-      "rank_change": -3,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Loki",
       "description": "Loki is trending as fans question his absence from the latest 'Avengers: Doomsday' trailer while a realistic Hot Toys figure points to a bigger role for TVA Loki.",
@@ -856,10 +746,132 @@
       "started_trending": "2026-11-23T18:23:34Z",
       "first_seen": "2026-11-23T18:23:34Z",
       "published": null,
-      "last_seen": "2026-11-23T19:23:38Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "teryl-austin",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Teryl Austin",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/Teryl%20Austin",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-23T20:23:39Z",
+      "first_seen": "2026-11-23T20:23:39Z",
+      "published": null,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fang-fang",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Fang Fang",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/Fang%20Fang",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.8Ms7CIg3qpu2J0J4U6s7cwHaJ4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T20:23:39Z",
+      "first_seen": "2026-11-23T20:23:39Z",
+      "published": null,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "peggy",
+      "rank": 20,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-23T15:23:42Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-23T15:31:39Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-23T16:00:18Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-23T16:14:15Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-23T17:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-23T18:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-23T19:23:38Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-23T20:23:39Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -15,
+      "is_new": false,
+      "topic": "Peggy",
+      "description": "Peggy is trending across multiple stories, including obituaries, historical retrospectives on Peggy Guggenheim, and 'The Gilded Age' updates.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Peggy",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ONXVxGH2ZMFCCiB_HYg3PgHaJF&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T15:23:42Z",
+      "first_seen": "2026-11-23T15:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-23T20:23:39Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     }
