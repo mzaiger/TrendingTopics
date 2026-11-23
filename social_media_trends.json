@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-23T15:34:13Z",
+  "updated": "2026-11-23T15:52:03Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,16 +10,20 @@
     {
       "id": "jensen-huang",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Jensen Huang",
       "description": "",
       "description_source": "",
@@ -30,7 +34,7 @@
       "started_trending": "2026-11-23T15:31:39Z",
       "first_seen": "2026-11-23T15:31:39Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -50,6 +54,10 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 2
         }
       ],
       "rank_change": -1,
@@ -64,7 +72,7 @@
       "started_trending": "2026-11-23T15:23:42Z",
       "first_seen": "2026-11-23T15:23:42Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -88,6 +96,10 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 3
         }
       ],
       "rank_change": 0,
@@ -102,7 +114,7 @@
       "started_trending": "2026-11-23T14:23:41Z",
       "first_seen": "2026-11-23T14:23:41Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -110,8 +122,38 @@
       "extra": {}
     },
     {
-      "id": "cyclops",
+      "id": "nvidia",
       "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#Nvidia",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23Nvidia",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.gIV55pNcvrnVHLzgqxtyHQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T15:49:25Z",
+      "first_seen": "2026-11-23T15:49:25Z",
+      "published": null,
+      "last_seen": "2026-11-23T15:49:25Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cyclops",
+      "rank": 5,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -126,9 +168,13 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 5
         }
       ],
-      "rank_change": 6,
+      "rank_change": 5,
       "is_new": false,
       "topic": "Cyclops",
       "description": "",
@@ -140,7 +186,7 @@
       "started_trending": "2026-11-23T14:23:41Z",
       "first_seen": "2026-11-23T14:23:41Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -148,8 +194,46 @@
       "extra": {}
     },
     {
+      "id": "peggy",
+      "rank": 6,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-23T15:23:42Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-23T15:31:39Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "peggy",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/peggy",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ONXVxGH2ZMFCCiB_HYg3PgHaJF&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T15:23:42Z",
+      "first_seen": "2026-11-23T15:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-23T15:49:25Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "good-monday",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -180,9 +264,13 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 7
         }
       ],
-      "rank_change": -4,
+      "rank_change": -6,
       "is_new": false,
       "topic": "Good Monday",
       "description": "Social media users are discussing the start of the week with various regional forecasts, local events, and sports overreactions.",
@@ -194,7 +282,7 @@
       "started_trending": "2026-11-23T10:23:33Z",
       "first_seen": "2026-11-23T10:23:33Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -202,42 +290,8 @@
       "extra": {}
     },
     {
-      "id": "ceo-of-nvidia",
-      "rank": 6,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-23T15:23:42Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-23T15:31:39Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "CEO of Nvidia",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/CEO%20of%20Nvidia",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.QjQZ3VVVRFEgO-38IFUUBQHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T15:23:42Z",
-      "first_seen": "2026-11-23T15:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "paul-goldschmidt",
-      "rank": 7,
+      "rank": 8,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -248,21 +302,25 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 8
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Paul Goldschmidt",
       "description": "",
       "description_source": "",
       "url": "https://sotwe.com/search/Paul%20Goldschmidt",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.HfdCMlJpUPzBWk173rg7_wHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-23T15:23:42Z",
       "first_seen": "2026-11-23T15:23:42Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -271,7 +329,7 @@
     },
     {
       "id": "steve-rogers",
-      "rank": 8,
+      "rank": 9,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -282,9 +340,13 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 9
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Steve Rogers",
       "description": "",
@@ -296,41 +358,7 @@
       "started_trending": "2026-11-23T15:23:42Z",
       "first_seen": "2026-11-23T15:23:42Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "peggy",
-      "rank": 9,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-23T15:23:42Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-23T15:31:39Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "peggy",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/peggy",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-23T15:23:42Z",
-      "first_seen": "2026-11-23T15:23:42Z",
-      "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -350,6 +378,10 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 10
         }
       ],
       "rank_change": 0,
@@ -358,13 +390,13 @@
       "description": "",
       "description_source": "",
       "url": "https://sotwe.com/search/%23IDontWantToOverreactBUT",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.AYWLepjlthpEho4mL1le7Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-23T15:23:42Z",
       "first_seen": "2026-11-23T15:23:42Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -396,6 +428,10 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 11
         }
       ],
       "rank_change": -8,
@@ -410,7 +446,7 @@
       "started_trending": "2026-11-23T12:23:36Z",
       "first_seen": "2026-11-23T12:23:36Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -430,6 +466,10 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 12
         }
       ],
       "rank_change": 1,
@@ -438,13 +478,51 @@
       "description": "",
       "description_source": "",
       "url": "https://sotwe.com/search/Goldy",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.blJSkuX0vnHZWcVNpD0GlAHaLH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
       "started_trending": "2026-11-23T15:23:42Z",
       "first_seen": "2026-11-23T15:23:42Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "james-marsden",
+      "rank": 13,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
+      "rank_history": [
+        {
+          "t": "2026-11-23T15:23:42Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-23T15:31:39Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "James Marsden",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/James%20Marsden",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.mD95bz7L5RAViTpavX6fUgHaJ4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T15:23:42Z",
+      "first_seen": "2026-11-23T15:23:42Z",
+      "published": null,
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -453,7 +531,7 @@
     },
     {
       "id": "mondaymotivation",
-      "rank": 13,
+      "rank": 14,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -480,9 +558,13 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 14
         }
       ],
-      "rank_change": -10,
+      "rank_change": -11,
       "is_new": false,
       "topic": "#MondayMotivation",
       "description": "",
@@ -494,7 +576,7 @@
       "started_trending": "2026-11-23T11:23:45Z",
       "first_seen": "2026-11-23T11:23:45Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -502,33 +584,29 @@
       "extra": {}
     },
     {
-      "id": "james-marsden",
-      "rank": 14,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "id": "woosoxwishlist",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-23T15:23:42Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-23T15:31:39Z",
-          "r": 14
+          "t": "2026-11-23T15:49:25Z",
+          "r": 15
         }
       ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "James Marsden",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#WooSoxWishList",
       "description": "",
       "description_source": "",
-      "url": "https://sotwe.com/search/James%20Marsden",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-23T15:23:42Z",
-      "first_seen": "2026-11-23T15:23:42Z",
+      "url": "https://sotwe.com/search/%23WooSoxWishList",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.pM5JNHnt5IqNLawBDCHl5AHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T15:49:25Z",
+      "first_seen": "2026-11-23T15:49:25Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -537,7 +615,7 @@
     },
     {
       "id": "happy-thanksgiving",
-      "rank": 15,
+      "rank": 16,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -556,9 +634,13 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 16
         }
       ],
-      "rank_change": -8,
+      "rank_change": -9,
       "is_new": false,
       "topic": "Happy Thanksgiving",
       "description": "People on social media are sharing early holiday wishes and discussing travel outlooks and closures ahead of Thanksgiving.",
@@ -570,7 +652,7 @@
       "started_trending": "2026-11-23T13:23:33Z",
       "first_seen": "2026-11-23T13:23:33Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -579,7 +661,7 @@
     },
     {
       "id": "he-s-back",
-      "rank": 16,
+      "rank": 17,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -594,9 +676,13 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 17
         }
       ],
-      "rank_change": 1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "HE'S BACK",
       "description": "",
@@ -608,7 +694,7 @@
       "started_trending": "2026-11-23T14:23:41Z",
       "first_seen": "2026-11-23T14:23:41Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -616,8 +702,42 @@
       "extra": {}
     },
     {
+      "id": "bucky",
+      "rank": 18,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-23T15:31:39Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "bucky",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/bucky",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.KzzczWTZYcg4UkzCLWuqIAHaNK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-23T15:31:39Z",
+      "first_seen": "2026-11-23T15:31:39Z",
+      "published": null,
+      "last_seen": "2026-11-23T15:49:25Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "zscaler",
-      "rank": 17,
+      "rank": 19,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -640,9 +760,13 @@
         {
           "t": "2026-11-23T15:31:39Z",
           "r": 17
+        },
+        {
+          "t": "2026-11-23T15:49:25Z",
+          "r": 19
         }
       ],
-      "rank_change": -10,
+      "rank_change": -12,
       "is_new": false,
       "topic": "Zscaler",
       "description": "Social media is buzzing over a massive $44 billion cybersecurity deal as CrowdStrike acquires Zscaler amid tech outages.",
@@ -654,7 +778,7 @@
       "started_trending": "2026-11-23T12:23:36Z",
       "first_seen": "2026-11-23T12:23:36Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -662,108 +786,32 @@
       "extra": {}
     },
     {
-      "id": "nvidia-board",
-      "rank": 18,
-      "previous_rank": 19,
-      "rank_4h_ago": 19,
-      "rank_history": [
-        {
-          "t": "2026-11-23T14:23:41Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-23T15:23:42Z",
-          "r": 19
-        },
-        {
-          "t": "2026-11-23T15:31:39Z",
-          "r": 18
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "NVIDIA Board",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/NVIDIA%20Board",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.pM7bdYezcExwMSl9B1iobw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T14:23:41Z",
-      "first_seen": "2026-11-23T14:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bucky",
-      "rank": 19,
+      "id": "endgame",
+      "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-23T15:31:39Z",
-          "r": 19
+          "t": "2026-11-23T15:49:25Z",
+          "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "bucky",
+      "topic": "Endgame",
       "description": "",
       "description_source": "",
-      "url": "https://sotwe.com/search/bucky",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.KzzczWTZYcg4UkzCLWuqIAHaNK&pid=15.1",
+      "url": "https://sotwe.com/search/Endgame",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.j4hka58bWo-Mf0-gI-Ph9AHaJ4&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-23T15:31:39Z",
-      "first_seen": "2026-11-23T15:31:39Z",
+      "started_trending": "2026-11-23T15:49:25Z",
+      "first_seen": "2026-11-23T15:49:25Z",
       "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
+      "last_seen": "2026-11-23T15:49:25Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ceo-and-board-director",
-      "rank": 20,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-23T14:23:41Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-23T15:23:42Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-23T15:31:39Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "CEO and Board Director",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/CEO%20and%20Board%20Director",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.mMpDi_yAZIhMzq7iOYoxRwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-23T14:23:41Z",
-      "first_seen": "2026-11-23T14:23:41Z",
-      "published": null,
-      "last_seen": "2026-11-23T15:31:39Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
