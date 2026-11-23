@@ -403,15 +403,22 @@ def _call_model(model: str, prompt: str, api_key: str) -> Optional[dict[int, dic
         if r.status_code >= 500:
             time.sleep(2 ** attempt * 3)
             continue
+
         try:
-            raw = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+            response = r.json()
+            raw = response["candidates"][0]["content"]["parts"][0]["text"]
         except (KeyError, IndexError, ValueError, TypeError) as e:
-            warn(f"  {model}: unreadable response ({e})")   # e.g. blocked by safety filters
+            warn(f"  {model}: RESPONSE ERROR: {e}")
+            warn(f"  {model}: HTTP STATUS: {r.status_code}")
+            warn(f"  {model}: FULL RESPONSE: {json.dumps(response if 'response' in locals() else r.text, indent=2)[:4000]}")
             return None
+
         out = _parse_topics(raw)
         if out is None:
-            warn(f"  {model}: reply wasn't the expected JSON")
+            warn(f"  {model}: JSON PARSE FAILED")
+            warn(f"  {model}: RAW GEMINI TEXT: {raw[:4000]}")
         return out
+
     return None
 
 
