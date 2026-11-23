@@ -401,6 +401,8 @@ def _call_model(model: str, prompt: str, api_key: str) -> Optional[dict[int, dic
         if 400 <= r.status_code < 500:
             raise ModelUnavailable(f"{r.status_code} {r.reason}: {r.text[:150]}")
         if r.status_code >= 500:
+            warn(f"  {model}: HTTP {r.status_code} SERVER ERROR")
+            warn(f"  {model}: RESPONSE: {r.text[:4000]}")
             time.sleep(2 ** attempt * 3)
             continue
 
