@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-24T04:25:16Z",
+  "updated": "2026-11-24T05:25:26Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-24T04:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Bengals",
-      "description": "The Cincinnati Bengals are trending after falling 22-20 to the Washington Commanders in a closely contested matchup.",
+      "description": "The Cincinnati Bengals are trending after a narrow 22-20 loss to the Washington Commanders on Monday Night Football.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Bengals",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.AVpxVxa0EXcyvAv4IWuKZw&pid=15.1",
@@ -38,7 +42,41 @@
       "started_trending": "2026-11-24T02:23:39Z",
       "first_seen": "2026-11-24T02:23:39Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jayden-daniels",
+      "rank": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
+      "rank_history": [
+        {
+          "t": "2026-11-24T04:23:32Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Jayden Daniels",
+      "description": "Commanders quarterback Jayden Daniels is trending after leading his team to a dramatic last-minute victory over the Cincinnati Bengals.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jayden%20Daniels",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.fTrj/W0tLRZIuwFOJCpJWg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T04:23:32Z",
+      "first_seen": "2026-11-24T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-24T05:23:38Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -47,7 +85,7 @@
     },
     {
       "id": "dan-quinn",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -58,12 +96,16 @@
         {
           "t": "2026-11-24T04:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 3
         }
       ],
-      "rank_change": 15,
+      "rank_change": 14,
       "is_new": false,
       "topic": "Dan Quinn",
-      "description": "Washington Commanders head coach Dan Quinn is trending on social media as fans and analysts discuss the team's performance and coaching decisions following recent games.",
+      "description": "Washington Commanders head coach Dan Quinn is trending following his team's narrow win against the Cincinnati Bengals on Monday night.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Dan%20Quinn",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.zpr_kfD-PNO_NQNXBVgM5gHaEK&pid=15.1",
@@ -72,110 +114,16 @@
       "started_trending": "2026-11-24T03:23:46Z",
       "first_seen": "2026-11-24T03:23:46Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "jayden-daniels",
-      "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 3
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Jayden Daniels",
-      "description": "Washington Commanders quarterback Jayden Daniels is trending following a hard-fought Monday night game against the Bengals that featured tight-window plays, rainy weather, and a hand injury.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jayden%20Daniels",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.fTrj/W0tLRZIuwFOJCpJWg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T04:23:32Z",
-      "first_seen": "2026-11-24T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "antonio-williams",
-      "rank": 4,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 4
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Antonio Williams",
-      "description": "Rookie Antonio Williams is trending on social media as fantasy football players weigh him for waiver wire picks and starting lineups following recent games.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Antonio%20Williams",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.WjXXZclfAQFkJ34YgDJKXg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T04:23:32Z",
-      "first_seen": "2026-11-24T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "joe-burrow",
-      "rank": 5,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-24T03:23:46Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Joe Burrow",
-      "description": "Cincinnati Bengals quarterback Joe Burrow is trending on social media alongside headlines about his relationship with model Olivia Ponton and his pursuit of an MVP and Super Bowl.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Joe%20Burrow",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.x4WpaeAeW8xjiImsRQmg/Q&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T03:23:46Z",
-      "first_seen": "2026-11-24T03:23:46Z",
-      "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "raisehail",
-      "rank": 6,
+      "rank": 4,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -194,12 +142,16 @@
         {
           "t": "2026-11-24T04:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 4
         }
       ],
-      "rank_change": -2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "#RaiseHail",
-      "description": "Washington fans are using the hashtag #RaiseHail on social media as Alexander Ovechkin attends the Monday Night Football matchup against the Cincinnati Bengals to fire up the crowd.",
+      "description": "The hashtag is trending as fans celebrate the Washington Commanders' victory over the Cincinnati Bengals on Monday night.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23RaiseHail",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.aZNYHP62G8TNiddM5haocg&pid=15.1",
@@ -208,28 +160,96 @@
       "started_trending": "2026-11-24T01:23:48Z",
       "first_seen": "2026-11-24T01:23:48Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "antonio-williams",
+      "rank": 5,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-24T04:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 5
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Antonio Williams",
+      "description": "Antonio Williams is trending after making a clutch 42-yard catch during the Washington Commanders' game-winning drive against the Bengals.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Antonio%20Williams",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.WjXXZclfAQFkJ34YgDJKXg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T04:23:32Z",
+      "first_seen": "2026-11-24T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "burrow",
+      "rank": 6,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 6
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Burrow",
+      "description": "Joe Burrow is trending after the Bengals' loss to the Commanders and following a controversial hit he received during the game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Burrow",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.x4WpaeAeW8xjiImsRQmg/Q&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T05:23:38Z",
+      "first_seen": "2026-11-24T05:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "zac-taylor",
       "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-11-24T04:23:32Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Zac Taylor",
-      "description": "Cincinnati Bengals head coach Zac Taylor is trending on social media as fans discuss his collaborative coaching staff and support from his family.",
+      "description": "Bengals head coach Zac Taylor is trending following his team's 22-20 loss to the Washington Commanders on Monday night.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Zac%20Taylor",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.58D08PgidX8pEkHK2tU_DwHaE8&pid=15.1",
@@ -238,16 +258,50 @@
       "started_trending": "2026-11-24T04:23:32Z",
       "first_seen": "2026-11-24T04:23:32Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "al-golden",
+      "rank": 8,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-24T04:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Al Golden",
+      "description": "The term is trending as social media users discuss the Cincinnati Bengals' missed opportunities during their 22-20 loss to the Commanders.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Al%20Golden",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.9dK1GmGcwKSsJFeKFV80UAHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T04:23:32Z",
+      "first_seen": "2026-11-24T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "diggs",
-      "rank": 8,
+      "rank": 9,
       "previous_rank": 20,
       "rank_4h_ago": 20,
       "rank_history": [
@@ -262,12 +316,16 @@
         {
           "t": "2026-11-24T04:23:32Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 9
         }
       ],
-      "rank_change": 12,
+      "rank_change": 11,
       "is_new": false,
       "topic": "Diggs",
-      "description": "Wide receiver Stefon Diggs is trending on social media after a heated sideline meltdown during the Commanders' game against the Bengals on Monday Night Football.",
+      "description": "Stefon Diggs is trending after he was seen having a heated sideline outburst during the Commanders' game against the Bengals.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Diggs",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.3IgRoePW9JAyrVFu0dqDAw&pid=15.1",
@@ -276,16 +334,16 @@
       "started_trending": "2026-11-24T02:23:39Z",
       "first_seen": "2026-11-24T02:23:39Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "cinvswas",
-      "rank": 9,
+      "rank": 10,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -300,12 +358,16 @@
         {
           "t": "2026-11-24T04:23:32Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 10
         }
       ],
-      "rank_change": 4,
+      "rank_change": 3,
       "is_new": false,
       "topic": "#CINvsWAS",
-      "description": "Social media users are following the #CINvsWAS matchup as the Cincinnati Bengals face the Washington Commanders on Monday Night Football.",
+      "description": "This hashtag is trending as fans discuss the Monday Night Football matchup between the Cincinnati Bengals and the Washington Commanders.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23CINvsWAS",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.R8JPSKZLqlYVg4gyPJ8Obg&pid=15.1",
@@ -314,7 +376,41 @@
       "started_trending": "2026-11-24T02:23:39Z",
       "first_seen": "2026-11-24T02:23:39Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "drew-stevens",
+      "rank": 11,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-24T04:23:32Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "Drew Stevens",
+      "description": "Kicker Drew Stevens is trending after successfully hitting the game-winning field goal to secure a 22-20 victory for the Commanders over the Bengals.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Drew%20Stevens",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.lyfWBkgJ72zvWHEDWWyClgHaFJ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T04:23:32Z",
+      "first_seen": "2026-11-24T04:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-24T05:23:38Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -322,20 +418,54 @@
       "extra": {}
     },
     {
-      "id": "mcpherson",
-      "rank": 10,
+      "id": "nfc-east",
+      "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 10
+          "t": "2026-11-24T05:23:38Z",
+          "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
+      "topic": "NFC East",
+      "description": "The NFC East is trending as the Washington Commanders' recent win over the Bengals keeps their division hopes alive.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/NFC%20East",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-24T05:23:38Z",
+      "first_seen": "2026-11-24T05:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "mcpherson",
+      "rank": 13,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-24T04:23:32Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 13
+        }
+      ],
+      "rank_change": -3,
+      "is_new": false,
       "topic": "McPherson",
-      "description": "Kicker Evan McPherson is trending on social media after scoring points for the Bengals with key field goals against the Commanders.",
+      "description": "Evan McPherson is trending after his late 56-yard field goal briefly gave the Bengals a lead before the team ultimately lost to the Commanders.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/McPherson",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.ZV0PqqQpqWvk/ETEKyvJbw&pid=15.1",
@@ -344,46 +474,16 @@
       "started_trending": "2026-11-24T04:23:32Z",
       "first_seen": "2026-11-24T04:23:32Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "al-golden",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Al Golden",
-      "description": "The material does not provide a clear explanation for why Al Golden is currently trending on social media.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Al%20Golden",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.9dK1GmGcwKSsJFeKFV80UAHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T04:23:32Z",
-      "first_seen": "2026-11-24T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "whodey",
-      "rank": 12,
+      "rank": 14,
       "previous_rank": 14,
       "rank_4h_ago": 14,
       "rank_history": [
@@ -398,12 +498,16 @@
         {
           "t": "2026-11-24T04:23:32Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 14
         }
       ],
-      "rank_change": 2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "#WhoDey",
-      "description": "Bengals fans are using the hashtag #WhoDey on social media to celebrate game highlights, touchdowns, and impressive plays by players like Tee Higgins and Ja'Marr Chase.",
+      "description": "This hashtag is trending as fans share highlights and discuss recent performances by the Cincinnati Bengals.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23WhoDey",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.AVpxVxa0EXcyvAv4IWuKZw&pid=15.1",
@@ -412,28 +516,62 @@
       "started_trending": "2026-11-24T02:23:39Z",
       "first_seen": "2026-11-24T02:23:39Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "httc",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#HTTC",
+      "description": "The hashtag is trending in relation to a graduation ceremony held at the Jinja tourism and hospitality college.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23HTTC",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-24T05:23:38Z",
+      "first_seen": "2026-11-24T05:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "chase-brown",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
       "rank_history": [
         {
           "t": "2026-11-24T04:23:32Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "Chase Brown",
-      "description": "Chase Brown is trending on social media as fantasy football managers and sports bettors analyze his prop bets and performance within the Bengals' offense.",
+      "description": "Running back Chase Brown is trending following his performance in the Bengals' loss to the Commanders, which has drawn criticism from fantasy football analysts.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Chase%20Brown",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.c0XdSzsn1Bsd25Ij8djulgHaE8&pid=15.1",
@@ -442,7 +580,37 @@
       "started_trending": "2026-11-24T04:23:32Z",
       "first_seen": "2026-11-24T04:23:32Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "redskins",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Redskins",
+      "description": "The term is trending after NFL Commissioner Roger Goodell mistakenly referred to the Washington Commanders by their former name during an event.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Redskins",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-24T05:23:38Z",
+      "first_seen": "2026-11-24T05:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-24T05:23:38Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -450,33 +618,29 @@
       "extra": {}
     },
     {
-      "id": "tee-higgins",
-      "rank": 14,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "id": "trevor-rogers",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-24T03:23:46Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 14
+          "t": "2026-11-24T05:23:38Z",
+          "r": 18
         }
       ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Tee Higgins",
-      "description": "Cincinnati Bengals wide receiver Tee Higgins is trending on social media after skipping designer labels to wear a Fiona the Hippo sweatshirt and scoring a touchdown against the Commanders.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Trevor Rogers",
+      "description": "Left-handed pitcher Trevor Rogers is trending after signing a five-year, $120 million contract with the Chicago Cubs.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Tee%20Higgins",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.E65OjxVZq3hdSWz8IPiHiAHaHa&pid=15.1",
+      "url": "https://sotwe.com/search/Trevor%20Rogers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.sLw36xRaxOxGkeh9X2O0gw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-24T03:23:46Z",
-      "first_seen": "2026-11-24T03:23:46Z",
+      "started_trending": "2026-11-24T05:23:38Z",
+      "first_seen": "2026-11-24T05:23:38Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
+      "last_seen": "2026-11-24T05:23:38Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -485,7 +649,7 @@
     },
     {
       "id": "blough",
-      "rank": 15,
+      "rank": 19,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -500,12 +664,16 @@
         {
           "t": "2026-11-24T04:23:32Z",
           "r": 15
+        },
+        {
+          "t": "2026-11-24T05:23:38Z",
+          "r": 19
         }
       ],
-      "rank_change": -11,
+      "rank_change": -15,
       "is_new": false,
       "topic": "Blough",
-      "description": "The material provided does not make clear why Blough is currently a trending topic on social media.",
+      "description": "The provided material does not contain enough information to explain why this topic is trending.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Blough",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.dsKDCwasiH53mZ3DJhdumgHaEK&pid=15.1",
@@ -514,177 +682,37 @@
       "started_trending": "2026-11-24T02:23:39Z",
       "first_seen": "2026-11-24T02:23:39Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-24T05:23:38Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "money-mac",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Money Mac",
-      "description": "Kicker Evan McPherson, nicknamed Money Mac, is trending following the Bengals' game against the Commanders where he put points on the board.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Money%20Mac",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.ZV0PqqQpqWvk/ETEKyvJbw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T04:23:32Z",
-      "first_seen": "2026-11-24T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "drew-stevens",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Drew Stevens",
-      "description": "Drew Stevens is trending after kicking crucial field goals for Washington, including a 25-yard kick and a 41-yard field goal in the fourth quarter against the Bengals.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Drew%20Stevens",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.lyfWBkgJ72zvWHEDWWyClgHaFJ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T04:23:32Z",
-      "first_seen": "2026-11-24T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "wweraw",
-      "rank": 18,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-24T00:23:32Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-24T01:23:48Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-24T02:23:39Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-24T03:23:46Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -17,
-      "is_new": false,
-      "topic": "#WWERaw",
-      "description": "Fans are reacting to the latest episode of WWE Raw on social media, which featured Seth Rollins returning to join Team USA at Survivor Series and CM Punk walking out.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23WWERaw",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.m4DqfiJn403Q6r9gGlzv4wHaDt&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T00:23:32Z",
-      "first_seen": "2026-11-24T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "myles-murphy",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T04:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Myles Murphy",
-      "description": "Myles Murphy is trending on social media as sports analysts discuss the Cincinnati Bengals' roster decisions and future draft needs regarding their rising pass rushers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Myles%20Murphy",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xYN_QjoK2liz7goTgSe6mQHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T04:23:32Z",
-      "first_seen": "2026-11-24T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "colbie-young",
+      "id": "httr",
       "rank": 20,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-24T03:23:46Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-24T04:23:32Z",
+          "t": "2026-11-24T05:23:38Z",
           "r": 20
         }
       ],
-      "rank_change": -13,
-      "is_new": false,
-      "topic": "Colbie Young",
-      "description": "Colbie Young is trending on social media after scoring his first career NFL touchdown on a four-yard pass from Joe Burrow during the Monday Night Football game against the Commanders.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Colbie%20Young",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.zPAEe36JucQ1KWML4azCEAHaD0&pid=15.1",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#HTTR",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23HTTR",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.BtuG7djXkzoj30N8T6a5/g&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-24T03:23:46Z",
-      "first_seen": "2026-11-24T03:23:46Z",
+      "started_trending": "2026-11-24T05:23:38Z",
+      "first_seen": "2026-11-24T05:23:38Z",
       "published": null,
-      "last_seen": "2026-11-24T04:23:32Z",
+      "last_seen": "2026-11-24T05:23:38Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
