@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-24T19:25:45Z",
+  "updated": "2026-11-24T20:27:33Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,8 +10,8 @@
     {
       "id": "happy-thanksgiving",
       "rank": 1,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
           "t": "2026-11-24T15:23:35Z",
@@ -32,12 +32,16 @@
         {
           "t": "2026-11-24T19:23:37Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 1
         }
       ],
-      "rank_change": 13,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Happy Thanksgiving",
-      "description": "Various organizations and public figures are sharing Thanksgiving greetings and announcing office closures for the holiday.",
+      "description": "Various organizations, politicians, and universities are sharing Thanksgiving greetings and well-wishes across social media.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Happy%20Thanksgiving",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.LTAsKjxxPRwX0bJV3zqd3w&pid=15.1",
@@ -46,16 +50,88 @@
       "started_trending": "2026-11-24T15:23:35Z",
       "first_seen": "2026-11-24T15:23:35Z",
       "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "code-red",
+      "rank": 2,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-24T17:23:35Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-24T18:23:38Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-24T19:23:37Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "Code Red",
+      "description": "Microsoft has declared an internal 'Code Red' to address the most disruptive service outage in the company's history.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Code%20Red",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.0mojEEE9OoxB8yfijD//qQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T17:23:35Z",
+      "first_seen": "2026-11-24T17:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "collin-chandler",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Collin Chandler",
+      "description": "Former Kentucky guard Collin Chandler is gaining attention for his standout performance, including a 24-point game in BYU's recent win over Washington.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Collin%20Chandler",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-24T20:23:40Z",
+      "first_seen": "2026-11-24T20:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "cubs",
-      "rank": 2,
+      "rank": 4,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -78,12 +154,16 @@
         {
           "t": "2026-11-24T19:23:37Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 4
         }
       ],
-      "rank_change": -1,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Cubs",
-      "description": "The Chicago Cubs are trending after reportedly signing Japanese slugger Teruaki Sato to a six-year, $120 million contract.",
+      "description": "The Chicago Cubs are trending after reportedly signing Japanese baseball star Teruaki Sato to a major contract.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Cubs",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.ZA7CjdbME4x28Wt149xeZQHaFS&pid=15.1",
@@ -92,56 +172,18 @@
       "started_trending": "2026-11-24T15:23:35Z",
       "first_seen": "2026-11-24T15:23:35Z",
       "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "code-red",
-      "rank": 3,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-24T17:23:35Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-24T18:23:38Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 10,
-      "is_new": false,
-      "topic": "Code Red",
-      "description": "Microsoft has declared an internal 'Code Red' to prioritize service health following a historic 24-hour global outage of its M365 platform.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Code%20Red",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.0mojEEE9OoxB8yfijD//qQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T17:23:35Z",
-      "first_seen": "2026-11-24T17:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "trev-alberts",
-      "rank": 4,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "rank": 5,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-11-24T15:23:35Z",
@@ -162,12 +204,16 @@
         {
           "t": "2026-11-24T19:23:37Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 5
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Trev Alberts",
-      "description": "The University of Michigan has reportedly rescinded its offer to hire Trev Alberts as athletic director, potentially facing a large buyout.",
+      "description": "The University of Michigan has reversed its decision to hire Trev Alberts as athletic director, potentially facing a significant buyout fee.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Trev%20Alberts",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.LbTvQ9UqWYYpHci7bebWQA&pid=15.1",
@@ -176,157 +222,19 @@
       "started_trending": "2026-11-24T15:23:35Z",
       "first_seen": "2026-11-24T15:23:35Z",
       "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "peralta",
-      "rank": 5,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-24T16:23:36Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-24T17:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-24T18:23:38Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 5
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "Peralta",
-      "description": "The Baltimore Orioles have reportedly signed pitcher Freddy Peralta to a five-year, $125 million contract.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Peralta",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP._uNuC-zxJRZQXo1jqVGl7QHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T16:23:36Z",
-      "first_seen": "2026-11-24T16:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "sato",
-      "rank": 6,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-24T15:23:35Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-24T16:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-24T17:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-24T18:23:38Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Sato",
-      "description": "Japanese slugger Teruaki Sato is trending after signing a massive six-year, $120 million deal with the Chicago Cubs.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Sato",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Aag32e9Q_k0WVuEOTDcpkgHaDk&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T15:23:35Z",
-      "first_seen": "2026-11-24T15:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tidal",
-      "rank": 7,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-24T15:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-24T16:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-24T17:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-24T18:23:38Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 7
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Tidal",
-      "description": "Music streaming service Tidal has announced it will begin banning and removing AI-generated music from its platform starting next month.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Tidal",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.TAAnNFCibScZ2I_QQtGw4AHaD4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T15:23:35Z",
-      "first_seen": "2026-11-24T15:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "pope-francis",
-      "rank": 8,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "rank": 6,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
-        {
-          "t": "2026-11-24T14:23:37Z",
-          "r": 9
-        },
         {
           "t": "2026-11-24T15:23:35Z",
           "r": 12
@@ -346,12 +254,16 @@
         {
           "t": "2026-11-24T19:23:37Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 6
         }
       ],
-      "rank_change": 4,
+      "rank_change": 10,
       "is_new": false,
       "topic": "Pope Francis",
-      "description": "Excerpts from Pope Francis' private diary have been published, revealing his personal accounts of spiritual struggles and encounters with the devil.",
+      "description": "Excerpts from Pope Francis's private diary have been published, revealing his spiritual struggles and accounts of encounters with the devil.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Pope%20Francis",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.rsOEqydNR82OurG8_AIzYgHaJ4&pid=15.1",
@@ -360,18 +272,174 @@
       "started_trending": "2026-11-24T13:23:35Z",
       "first_seen": "2026-11-24T13:23:35Z",
       "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "peralta",
+      "rank": 7,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-24T16:23:36Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-24T17:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-24T18:23:38Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-24T19:23:37Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 7
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Peralta",
+      "description": "The Baltimore Orioles have reportedly agreed to a five-year, $125 million contract with pitcher Freddy Peralta.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Peralta",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP._uNuC-zxJRZQXo1jqVGl7QHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T16:23:36Z",
+      "first_seen": "2026-11-24T16:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gyokeres",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Gyokeres",
+      "description": "Arsenal striker Viktor Gyokeres is trending as fans and media question his limited playing time under manager Mikel Arteta.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Gyokeres",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-24T20:23:40Z",
+      "first_seen": "2026-11-24T20:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tiktokdown",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#tiktokdown",
+      "description": "TikTok is trending after thousands of users reported service outages and error messages on the platform.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23tiktokdown",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.4mNw3Ou8zN8QMDCG9AUT4A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T20:23:40Z",
+      "first_seen": "2026-11-24T20:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sato",
+      "rank": 10,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
+      "rank_history": [
+        {
+          "t": "2026-11-24T15:23:35Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-24T16:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-24T17:23:35Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-24T18:23:38Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-24T19:23:37Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -8,
+      "is_new": false,
+      "topic": "Sato",
+      "description": "Japanese baseball slugger Teruaki Sato has signed a six-year, $120 million contract with the Chicago Cubs.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Sato",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Aag32e9Q_k0WVuEOTDcpkgHaDk&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T15:23:35Z",
+      "first_seen": "2026-11-24T15:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "seiya",
-      "rank": 9,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "rank": 11,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-11-24T15:23:35Z",
@@ -392,12 +460,16 @@
         {
           "t": "2026-11-24T19:23:37Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 11
         }
       ],
-      "rank_change": 2,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Seiya",
-      "description": "Following the Cubs' signing of Teruaki Sato, discussions are circulating regarding the future of Seiya Suzuki and potential interest from other MLB teams.",
+      "description": "The Chicago Cubs' signing of Teruaki Sato has sparked speculation about the future of outfielder Seiya Suzuki and potential interest from other teams.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Seiya",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.WcSXFVGiKLzIgQQHSufWaAHaLG&pid=15.1",
@@ -406,58 +478,304 @@
       "started_trending": "2026-11-24T15:23:35Z",
       "first_seen": "2026-11-24T15:23:35Z",
       "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "bubic",
-      "rank": 10,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "id": "freedom-and-feathers",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Freedom and Feathers",
+      "description": "President Trump participated in the annual White House tradition of pardoning two turkeys, named Freedom and Feathers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Freedom%20and%20Feathers",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.LKm1OduOhGCgW8QNj0ED1w&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T20:23:40Z",
+      "first_seen": "2026-11-24T20:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tidal",
+      "rank": 13,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-24T15:23:35Z",
+          "r": 9
+        },
+        {
           "t": "2026-11-24T16:23:36Z",
-          "r": 13
+          "r": 8
         },
         {
           "t": "2026-11-24T17:23:35Z",
-          "r": 10
+          "r": 6
         },
         {
           "t": "2026-11-24T18:23:38Z",
-          "r": 12
+          "r": 7
         },
         {
           "t": "2026-11-24T19:23:37Z",
-          "r": 10
+          "r": 7
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 13
         }
       ],
-      "rank_change": 3,
+      "rank_change": -5,
       "is_new": false,
-      "topic": "Bubic",
-      "description": "The Cleveland Guardians have reportedly signed former All-Star pitcher Kris Bubic to a one-year, $17.5 million contract.",
+      "topic": "Tidal",
+      "description": "Music streaming service Tidal has announced it will begin banning and removing AI-generated music from its platform.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Bubic",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.rNldpdbbRCR7Xtmi0IaMsAHaEK&pid=15.1",
+      "url": "https://sotwe.com/search/Tidal",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.TAAnNFCibScZ2I_QQtGw4AHaD4&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-24T16:23:36Z",
-      "first_seen": "2026-11-24T16:23:36Z",
+      "started_trending": "2026-11-24T15:23:35Z",
+      "first_seen": "2026-11-24T15:23:35Z",
       "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "giuliani",
+      "rank": 14,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-24T19:23:37Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 14
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Giuliani",
+      "description": "President Trump is awarding the Presidential Medal of Freedom to former New York City Mayor Rudy Giuliani.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Giuliani",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.7OPFLVeMY5gTIdq6pD1h_AHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T19:23:37Z",
+      "first_seen": "2026-11-24T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "indycar",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "IndyCar",
+      "description": "IndyCar has announced it will return to Kansas Speedway in May 2027 as part of a joint race weekend with NASCAR.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/IndyCar",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-24T20:23:40Z",
+      "first_seen": "2026-11-24T20:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "taira",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Taira",
+      "description": "The Toronto Blue Jays have reportedly signed Japanese pitcher Kaima Taira to a five-year, $80 million contract.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Taira",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.WJOHjMJGJGtB73U8fLYnKg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T20:23:40Z",
+      "first_seen": "2026-11-24T20:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "boston-city-council",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Boston City Council",
+      "description": "A Founding Father impersonator was arrested in Boston on outstanding warrants while dressed in full colonial-era attire.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Boston%20City%20Council",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP._6qeOFpZUV0M4rUIhP2mVQHaFS&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T20:23:40Z",
+      "first_seen": "2026-11-24T20:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "blanche",
+      "rank": 18,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-24T19:23:37Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 0,
+      "is_new": false,
+      "topic": "Blanche",
+      "description": "Attorney General Todd Blanche is facing scrutiny for his responses regarding the ongoing investigation into Nvidia and CEO Jensen Huang.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Blanche",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.zlpFEIhC3CsVAzpanVp47AHaJ4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T19:23:37Z",
+      "first_seen": "2026-11-24T19:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ansem",
+      "rank": 19,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-24T15:23:35Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-24T16:23:36Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-24T17:23:35Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-24T18:23:38Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-24T19:23:37Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 19
+        }
+      ],
+      "rank_change": -9,
+      "is_new": false,
+      "topic": "Ansem",
+      "description": "Crypto trader Ansem is trending after his wallet was reportedly hacked, leading to a significant sell-off and crash in the value of his meme coin.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Ansem",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.W9u2WSbAjQ08QHxtveMyrwHaHR&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T11:23:37Z",
+      "first_seen": "2026-11-24T11:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-24T20:23:40Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "stayselcaday",
-      "rank": 11,
+      "rank": 20,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -476,9 +794,13 @@
         {
           "t": "2026-11-24T19:23:37Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-24T20:23:40Z",
+          "r": 20
         }
       ],
-      "rank_change": 7,
+      "rank_change": -2,
       "is_new": false,
       "topic": "#stayselcaday",
       "description": "",
@@ -490,332 +812,10 @@
       "started_trending": "2026-11-24T16:23:36Z",
       "first_seen": "2026-11-24T16:23:36Z",
       "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "giuliani",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Giuliani",
-      "description": "President Trump is awarding the Presidential Medal of Freedom to former New York City Mayor Rudy Giuliani.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Giuliani",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.7OPFLVeMY5gTIdq6pD1h_AHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T19:23:37Z",
-      "first_seen": "2026-11-24T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ha-seong-kim",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ha-Seong Kim",
-      "description": "The Detroit Tigers have reportedly signed veteran infielder Ha-Seong Kim to a one-year, $5 million contract.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ha-Seong%20Kim",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.evNXn2w/xCd424gs26hjwQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T19:23:37Z",
-      "first_seen": "2026-11-24T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "phillies",
-      "rank": 14,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-24T15:23:35Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-24T16:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-24T17:23:35Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-24T18:23:38Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Phillies",
-      "description": "The Philadelphia Phillies are trending after failing to sign Japanese star Teruaki Sato, leading to speculation about their next offseason moves.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Phillies",
-      "image_url": "https://ts1.explicit.bing.net/th?id=OIF.TgpFo0aIbFWo5WLIhHdQUw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T15:23:35Z",
-      "first_seen": "2026-11-24T15:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
+      "last_seen": "2026-11-24T20:23:40Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ansem",
-      "rank": 15,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-24T14:23:37Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-24T15:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-24T16:23:36Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-24T17:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-24T18:23:38Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Ansem",
-      "description": "Crypto trader Ansem is trending after his wallet was reportedly hacked, resulting in a $2.57 million loss and a crash in his associated meme coin.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ansem",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.W9u2WSbAjQ08QHxtveMyrwHaHR&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T11:23:37Z",
-      "first_seen": "2026-11-24T11:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "orioles",
-      "rank": 16,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-24T16:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-24T17:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-24T18:23:38Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 16
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Orioles",
-      "description": "The Baltimore Orioles are trending after reportedly securing a major five-year, $125 million deal with pitcher Freddy Peralta.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Orioles",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.qoZa3n1RdPcxyk_cNYA16QHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T16:23:36Z",
-      "first_seen": "2026-11-24T16:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "csc-academic-all-district",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "CSC Academic All-District",
-      "description": "Multiple collegiate athletes from various universities have been named to the CSC Academic All-District team for their performance in sports and academics.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/CSC%20Academic%20All-District",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0KB9OFCUQt43kUogEPeAZQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T19:23:37Z",
-      "first_seen": "2026-11-24T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "blanche",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Blanche",
-      "description": "Attorney General Todd Blanche is facing questions regarding a Department of Justice investigation into Nvidia CEO Jensen Huang.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Blanche",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.zlpFEIhC3CsVAzpanVp47AHaJ4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T19:23:37Z",
-      "first_seen": "2026-11-24T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "donte",
-      "rank": 19,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-24T18:23:38Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Donte",
-      "description": "Minnesota Timberwolves guard Donte DiVincenzo has been cleared for basketball activities seven months after suffering an Achilles injury.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Donte",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.CT6TlZUNPklzkWyuEH7RqQHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T18:23:38Z",
-      "first_seen": "2026-11-24T18:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rogers",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rogers",
-      "description": "The Chicago Cubs have reportedly signed pitcher Trevor Rogers to a five-year, $120 million contract as part of their rotation rebuild.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rogers",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIF./xKNj96sBkRZAtb3G7YmGQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T19:23:37Z",
-      "first_seen": "2026-11-24T19:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-24T19:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
