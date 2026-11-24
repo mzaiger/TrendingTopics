@@ -1,22 +1,48 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-24T21:25:45Z",
+  "updated": "2026-11-24T22:25:34Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "happy-thanksgiving",
+      "id": "vini",
       "rank": 1,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-24T16:23:36Z",
-          "r": 11
-        },
+          "t": "2026-11-24T22:23:40Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Vini",
+      "description": "Jose Mourinho and Thibaut Courtois have addressed Vinicius Junior's recent form and struggles at Real Madrid, while social media buzzes with music and news.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Vini",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-24T22:23:40Z",
+      "first_seen": "2026-11-24T22:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-thanksgiving",
+      "rank": 2,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
         {
           "t": "2026-11-24T17:23:35Z",
           "r": 9
@@ -36,12 +62,16 @@
         {
           "t": "2026-11-24T21:23:38Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 2
         }
       ],
-      "rank_change": 8,
+      "rank_change": 3,
       "is_new": false,
       "topic": "Happy Thanksgiving",
-      "description": "Organizations and groups across social media are sharing messages celebrating the Thanksgiving holiday.",
+      "description": "Users across social media are sharing holiday greetings and celebrating Thanksgiving as unions, universities, and city offices announce seasonal closures and events.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Happy%20Thanksgiving",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.LTAsKjxxPRwX0bJV3zqd3w&pid=15.1",
@@ -50,28 +80,156 @@
       "started_trending": "2026-11-24T15:23:35Z",
       "first_seen": "2026-11-24T15:23:35Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "arsenal",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Arsenal",
+      "description": "Arsenal faces Borussia Dortmund in the UEFA Champions League, with confirmed lineups and live streams generating heavy sports discussion online.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Arsenal",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.HwPGth0ip31te/1kXnSpOA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T22:23:40Z",
+      "first_seen": "2026-11-24T22:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "real-madrid",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Real Madrid",
+      "description": "Real Madrid defeated PSV Eindhoven 5-1 in the Champions League, sparked by a magnificent comeback and a remarkable volley.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Real%20Madrid",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.bjKJp73wBd0gvxG5kYDBrg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T22:23:40Z",
+      "first_seen": "2026-11-24T22:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bellingham",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bellingham",
+      "description": "Jude Bellingham sparked a Real Madrid comeback with a remarkable volley against PSV, amid discussions surrounding his injury status and a building closure.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bellingham",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.sXKzwqBYCQFIX69FXmSreQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T22:23:40Z",
+      "first_seen": "2026-11-24T22:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "essence",
+      "rank": 6,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-24T21:23:38Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 6
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Essence",
+      "description": "Organizers announced that the Essence Festival will not return to New Orleans in 2027 following months of failed negotiations.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Essence",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.jnzvEQWkGUcrfwUrIVwdMAHaI3&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T21:23:38Z",
+      "first_seen": "2026-11-24T21:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "tzolis",
-      "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 7,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-24T21:23:38Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 7
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -5,
+      "is_new": false,
       "topic": "Tzolis",
-      "description": "Social media is discussing upcoming match odds and team lineups as Arsenal prepares to face Borussia Dortmund.",
+      "description": "Christos Tzolis drew attention for his performance and need to improve his end product during Arsenal's 1-1 draw against Borussia Dortmund.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Tzolis",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.HwPGth0ip31te/1kXnSpOA&pid=15.1",
@@ -80,16 +238,16 @@
       "started_trending": "2026-11-24T21:23:38Z",
       "first_seen": "2026-11-24T21:23:38Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "collin-chandler",
-      "rank": 3,
+      "rank": 8,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -100,12 +258,16 @@
         {
           "t": "2026-11-24T21:23:38Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 8
         }
       ],
-      "rank_change": 0,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Collin Chandler",
-      "description": "BYU guard Collin Chandler is trending after scoring 24 points to help lead his team to a comeback win against Washington.",
+      "description": "Collin Chandler scored a career-high 24 points to help rally unbeaten BYU past Washington 83-77, fueling All-American level praise online.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Collin%20Chandler",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.M1aP8qlLnCrZxEChyTioRw&pid=15.1",
@@ -114,18 +276,18 @@
       "started_trending": "2026-11-24T20:23:40Z",
       "first_seen": "2026-11-24T20:23:40Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "code-red",
-      "rank": 4,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "rank": 9,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-24T17:23:35Z",
@@ -146,12 +308,16 @@
         {
           "t": "2026-11-24T21:23:38Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 9
         }
       ],
-      "rank_change": 9,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Code Red",
-      "description": "Microsoft has reportedly declared a 'Code Red' following the most disruptive service outage in the company's history.",
+      "description": "Microsoft declared a 'Code Red' following the most historic and disruptive service outage in the company's history.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Code%20Red",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.0mojEEE9OoxB8yfijD//qQ&pid=15.1",
@@ -160,126 +326,76 @@
       "started_trending": "2026-11-24T17:23:35Z",
       "first_seen": "2026-11-24T17:23:35Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "essence",
-      "rank": 5,
+      "id": "mbappe",
+      "rank": 10,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 5
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Essence",
-      "description": "Festival leaders confirmed that the Essence Festival will not return to New Orleans after months of failed negotiations.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Essence",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.jnzvEQWkGUcrfwUrIVwdMAHaI3&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T21:23:38Z",
-      "first_seen": "2026-11-24T21:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "valverde",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Valverde",
-      "description": "Real Madrid and PSV Eindhoven are drawing attention on social media ahead of their Champions League match.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Valverde",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.bjKJp73wBd0gvxG5kYDBrg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T21:23:38Z",
-      "first_seen": "2026-11-24T21:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "pope-francis",
-      "rank": 7,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-24T16:23:36Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-24T17:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-24T18:23:38Z",
+          "t": "2026-11-24T22:23:40Z",
           "r": 10
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-24T20:23:40Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 7
         }
       ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Pope Francis",
-      "description": "Excerpts from Pope Francis's private diary reveal spiritual struggles, encounters with the devil, and a deep mystical side.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mbappe",
+      "description": "Kylian Mbappé made Champions League history again, drawing comparisons to Lionel Messi as Real Madrid secured a major victory.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Pope%20Francis",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.rsOEqydNR82OurG8_AIzYgHaJ4&pid=15.1",
+      "url": "https://sotwe.com/search/Mbappe",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.ONhaC_jA9G-5SVgDVY9HsQHaEK&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-24T13:23:35Z",
-      "first_seen": "2026-11-24T13:23:35Z",
+      "started_trending": "2026-11-24T22:23:40Z",
+      "first_seen": "2026-11-24T22:23:40Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "dortmund",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Dortmund",
+      "description": "Borussia Dortmund prepares for a high-stakes UEFA Champions League match against Arsenal, drawing massive attention from football fans.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Dortmund",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-24T22:23:40Z",
+      "first_seen": "2026-11-24T22:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gyokeres",
-      "rank": 8,
+      "rank": 12,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -290,12 +406,16 @@
         {
           "t": "2026-11-24T21:23:38Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 12
         }
       ],
-      "rank_change": 0,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Gyokeres",
-      "description": "Arsenal striker Viktor Gyokeres is a major topic of discussion as team news confirms his starting spot against Dortmund.",
+      "description": "Viktor Gyokeres went from hero to villain after scoring a thunderbolt for Arsenal before Dortmund fought back to secure a 1-1 draw.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Gyokeres",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.3oGFOtcmFtbuu4KrVQXZEAHaE8&pid=15.1",
@@ -304,37 +424,71 @@
       "started_trending": "2026-11-24T20:23:40Z",
       "first_seen": "2026-11-24T20:23:40Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "alberts",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "unclassified",
+      "rank": 13,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
       "rank_history": [
         {
           "t": "2026-11-24T21:23:38Z",
-          "r": 9
+          "r": 18
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Alberts",
-      "description": "Michigan has reversed course on hiring Trev Alberts as athletic director, leaving the school facing a potential multi-million dollar buyout.",
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Unclassified",
+      "description": "U.S. spy agencies including the CIA and ODNI suffered a cybersecurity breach impacting some unclassified information, according to reports.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Alberts",
-      "image_url": "https://ts3.explicit.bing.net/th?id=OIF.tnO4b0Zu01doK3AAqPOTuw&pid=15.1",
+      "url": "https://sotwe.com/search/Unclassified",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.d-Nfq9YbCAKkApPIEPuV-wHaE4&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-24T21:23:38Z",
       "first_seen": "2026-11-24T21:23:38Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stuffing",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Stuffing",
+      "description": "Marilyn Monroe's handwritten stuffing recipe sold for $16,000, while social media and fans discuss traditional Thanksgiving sides and game day food.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Stuffing",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF./p2TDefh0jWdPdhXBi4fyg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T22:23:40Z",
+      "first_seen": "2026-11-24T22:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T22:23:40Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -342,20 +496,58 @@
       "extra": {}
     },
     {
+      "id": "ford-pinto",
+      "rank": 15,
+      "previous_rank": 13,
+      "rank_4h_ago": 13,
+      "rank_history": [
+        {
+          "t": "2026-11-24T21:23:38Z",
+          "r": 13
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 15
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "Ford Pinto",
+      "description": "The provided material does not contain enough clear information to explain why this topic is currently trending.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Ford%20Pinto",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.wJjl_PDdAbzHCNkpiVe2UAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-24T21:23:38Z",
+      "first_seen": "2026-11-24T21:23:38Z",
+      "published": null,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "dai-dai-ames",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-11-24T21:23:38Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -6,
+      "is_new": false,
       "topic": "Dai Dai Ames",
-      "description": "College basketball fans are following updates and betting odds as Tennessee prepares to face Maryland in the Players Era 16.",
+      "description": "Dai Dai Ames and the Maryland Terrapins face the Tennessee Volunteers in a high-stakes matchup during the Players Era 16 tournament.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Dai%20Dai%20Ames",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.s5OdX_p9VurVWovJ_gd8EQHaE8&pid=15.1",
@@ -364,7 +556,37 @@
       "started_trending": "2026-11-24T21:23:38Z",
       "first_seen": "2026-11-24T21:23:38Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "konate",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Konate",
+      "description": "Real Madrid prepared for a Champions League clash against PSV Eindhoven with confirmed lineups, as fans reacted to past matches and club valuations.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Konate",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-24T22:23:40Z",
+      "first_seen": "2026-11-24T22:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-24T22:23:40Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -373,7 +595,7 @@
     },
     {
       "id": "tiktokdown",
-      "rank": 11,
+      "rank": 18,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -384,12 +606,16 @@
         {
           "t": "2026-11-24T21:23:38Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 18
         }
       ],
-      "rank_change": -2,
+      "rank_change": -9,
       "is_new": false,
       "topic": "#tiktokdown",
-      "description": "Tens of thousands of users reported a brief TikTok outage, experiencing disruptions and error messages while trying to access the app.",
+      "description": "Tens of thousands of users reported problems accessing TikTok across the U.S. as a major outage disrupted app services.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23tiktokdown",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.4mNw3Ou8zN8QMDCG9AUT4A&pid=15.1",
@@ -398,182 +624,66 @@
       "started_trending": "2026-11-24T20:23:40Z",
       "first_seen": "2026-11-24T20:23:40Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "iowa",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "id": "valverde",
+      "rank": 19,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-24T21:23:38Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Iowa",
-      "description": "Social media is reacting to the US Army's planned detonation of an ammunition cache in Iowa, which has raised concerns over toxic lead dust.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Iowa",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.HpTYXLmNthsrw2FbIeqgdw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T21:23:38Z",
-      "first_seen": "2026-11-24T21:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "ford-pinto",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Ford Pinto",
-      "description": "The material does not make the description clear.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Ford%20Pinto",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.wJjl_PDdAbzHCNkpiVe2UAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T21:23:38Z",
-      "first_seen": "2026-11-24T21:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "fede",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Fede",
-      "description": "Real Madrid is trending as predicted lineups are released for their upcoming Champions League match against PSV Eindhoven.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Fede",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.bjKJp73wBd0gvxG5kYDBrg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T21:23:38Z",
-      "first_seen": "2026-11-24T21:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "freedom-and-feathers",
-      "rank": 15,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-24T20:23:40Z",
-          "r": 12
+          "r": 6
         },
         {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 15
+          "t": "2026-11-24T22:23:40Z",
+          "r": 19
         }
       ],
-      "rank_change": -3,
+      "rank_change": -13,
       "is_new": false,
-      "topic": "Freedom and Feathers",
-      "description": "President Trump pardoned two turkeys named Freedom and Feathers during the annual White House Thanksgiving tradition.",
+      "topic": "Valverde",
+      "description": "Real Madrid secured a dominant 5-1 victory over PSV Eindhoven in the Champions League, led by a strong second-half performance.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Freedom%20and%20Feathers",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.LKm1OduOhGCgW8QNj0ED1w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T20:23:40Z",
-      "first_seen": "2026-11-24T20:23:40Z",
-      "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "diomande",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Diomande",
-      "description": "Diomande is drawing attention after being featured in Real Madrid's surprising starting lineup against PSV Eindhoven.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Diomande",
+      "url": "https://sotwe.com/search/Valverde",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.bjKJp73wBd0gvxG5kYDBrg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-24T21:23:38Z",
       "first_seen": "2026-11-24T21:23:38Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "guler",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-24T21:23:38Z",
           "r": 17
+        },
+        {
+          "t": "2026-11-24T22:23:40Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -3,
+      "is_new": false,
       "topic": "Guler",
-      "description": "Arda Güler is trending following reports of a decisive request made to Mourinho and his status for Real Madrid's clash against PSV.",
+      "description": "Arda Güler made a decisive request to Mourinho amid signs of rebellion at Real Madrid, drawing massive interest from football fans.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Guler",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.2mVa3nv689-9YtmYSzNzdQHaEK&pid=15.1",
@@ -582,120 +692,10 @@
       "started_trending": "2026-11-24T21:23:38Z",
       "first_seen": "2026-11-24T21:23:38Z",
       "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "unclassified",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Unclassified",
-      "description": "US intelligence agencies, including the CIA and ODNI, have suffered a cybersecurity breach affecting unclassified information systems.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Unclassified",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.d-Nfq9YbCAKkApPIEPuV-wHaE4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T21:23:38Z",
-      "first_seen": "2026-11-24T21:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rudy-giuliani",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rudy Giuliani",
-      "description": "Former New York City Mayor Rudy Giuliani has been awarded the Presidential Medal of Freedom by President Trump.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rudy%20Giuliani",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.IzoTYHFx5QR6GgLmTInjkw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T21:23:38Z",
-      "first_seen": "2026-11-24T21:23:38Z",
-      "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "cubs",
-      "rank": 20,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-24T16:23:36Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-24T17:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-24T18:23:38Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-24T19:23:37Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-24T20:23:40Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-24T21:23:38Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -19,
-      "is_new": false,
-      "topic": "Cubs",
-      "description": "The Chicago Cubs are making waves on social media following reports of a blockbuster signing of Japanese star Teruaki Sato.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Cubs",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.ZA7CjdbME4x28Wt149xeZQHaFS&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-24T15:23:35Z",
-      "first_seen": "2026-11-24T15:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-24T21:23:38Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-24T22:23:40Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
