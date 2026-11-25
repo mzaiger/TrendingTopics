@@ -1,15 +1,45 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-25T18:25:59Z",
+  "updated": "2026-11-25T19:25:27Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
   "count": 20,
   "items": [
     {
-      "id": "thanksgiving",
+      "id": "aaron-rodgers",
       "rank": 1,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 1
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Aaron Rodgers",
+      "description": "Quarterback Aaron Rodgers is trending following his shocking benching by the Pittsburgh Steelers, sparking heavy discussion about his future.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Aaron%20Rodgers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.x5MMlccsnCL7gFku1cjBOw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "thanksgiving",
+      "rank": 2,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -28,12 +58,16 @@
         {
           "t": "2026-11-25T18:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": 0,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Thanksgiving",
-      "description": "Thanksgiving is trending as discussions cover etiquette, holiday travel storms, NFL previews, and a Native American dispute over the holiday in a Massachusetts town.",
+      "description": "Thanksgiving is trending as severe storm forecasts threaten holiday travel on both coasts with heavy rain and flooding, alongside local disputes and community reflections.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Thanksgiving",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.opTxcpryKSmFUujroUMkLQ&pid=15.1",
@@ -42,23 +76,125 @@
       "started_trending": "2026-11-25T15:23:33Z",
       "first_seen": "2026-11-25T15:23:33Z",
       "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "packers",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Packers",
+      "description": "The Green Bay Packers are trending ahead of their high-profile Thanksgiving Eve matchup against the Los Angeles Rams.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Packers",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.IU7xjxJEalCxFVAtihX1/w&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "steelers",
+      "rank": 4,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-25T15:23:33Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-25T16:23:35Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-25T17:23:40Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-25T18:23:32Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Steelers",
+      "description": "The Pittsburgh Steelers are trending after benching quarterback Aaron Rodgers in favor of elevating Mason Rudolph during a crucial stretch of the season.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Steelers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.WJ9MbOoPOpr1NVL0jq2uwA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T15:23:33Z",
+      "first_seen": "2026-11-25T15:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pat-mcafee",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pat McAfee",
+      "description": "Pat McAfee is trending after benched Steelers quarterback Aaron Rodgers appeared on his show to deliver scathing public comments about coach Mike McCarthy.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Pat%20McAfee",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.EqJlKV8v6EYa-6u1DWMDjQHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "usaid",
-      "rank": 2,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "rank": 6,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-11-25T12:23:37Z",
-          "r": 13
-        },
         {
           "t": "2026-11-25T13:23:45Z",
           "r": 5
@@ -82,12 +218,16 @@
         {
           "t": "2026-11-25T18:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 6
         }
       ],
-      "rank_change": 3,
+      "rank_change": -2,
       "is_new": false,
       "topic": "USAID",
-      "description": "USAID is trending as newly released files reveal agency involvement with social media monitoring, while global funding cuts create an existential crisis for civil society.",
+      "description": "USAID is trending after newly released files revealed government involvement and playbooks for monitoring online speech and tracking social media users.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/USAID",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.wECkaGG39BfHd3Jk7Pp0cgHaCN&pid=15.1",
@@ -96,23 +236,19 @@
       "started_trending": "2026-11-25T12:23:37Z",
       "first_seen": "2026-11-25T12:23:37Z",
       "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "iowa",
-      "rank": 3,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "rank": 7,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-11-25T12:23:37Z",
-          "r": 9
-        },
         {
           "t": "2026-11-25T13:23:45Z",
           "r": 11
@@ -136,12 +272,16 @@
         {
           "t": "2026-11-25T18:23:32Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": 8,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Iowa",
-      "description": "Iowa is trending after the U.S. Army conducted a controlled detonation of a lead azide explosives stockpile, raising health concerns over a potential lead dust plume.",
+      "description": "Iowa is trending after the U.S. Army detonated a massive stockpile of lead azide explosives, raising health and environmental concerns about the resulting plume.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Iowa",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP.AiLgzSRXizvX0lIU5L976gHaIF&pid=15.1",
@@ -150,83 +290,183 @@
       "started_trending": "2026-11-25T12:23:37Z",
       "first_seen": "2026-11-25T12:23:37Z",
       "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "rodgers",
-      "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "id": "mike-tomlin",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-25T12:23:37Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-25T13:23:45Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-25T14:23:36Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-25T15:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-25T16:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-25T17:23:40Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 4
+          "t": "2026-11-25T19:23:35Z",
+          "r": 8
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Rodgers",
-      "description": "Aaron Rodgers is trending following his shocking benching by the Steelers in favor of Mason Rudolph, after which he was reportedly excused from team facilities.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Mike Tomlin",
+      "description": "Mike Tomlin is trending amid rumors and discussions surrounding the Pittsburgh Steelers following the struggles of the team and coach Mike McCarthy.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rodgers",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.Hua2ZZhUCrvutQmEukqQtQ&pid=15.1",
+      "url": "https://sotwe.com/search/Mike%20Tomlin",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.u_-9AdJ8cwuVMekRjFTwdgHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-25T07:23:34Z",
-      "first_seen": "2026-11-25T07:23:34Z",
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "arod",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "ARod",
+      "description": "Alex Rodriguez is trending following recent media coverage of his luxury outings, past business bids, and discussions involving sports analysts connecting him to Aaron Rodgers.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/ARod",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.JUsHfT9bOL2_SBhn6qISqAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "green-bay",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Green Bay",
+      "description": "Green Bay is trending as fans prepare for the Packers' upcoming Thanksgiving Eve game against the Los Angeles Rams.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Green%20Bay",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.IU7xjxJEalCxFVAtihX1/w&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "rooney",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Rooney",
+      "description": "Wayne Rooney is trending as his appearance on the reality TV show I'm a Celebrity generates major headlines and discussions about his personal life.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Rooney",
+      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.BBIp8Ce1yC9bdepWGAigXQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aj-hawk",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "AJ Hawk",
+      "description": "AJ Hawk is trending after discussing former teammate Aaron Rodgers' recent Steelers benching on the Pat McAfee Show.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/AJ%20Hawk",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.bRs7VTV2qGTrCaQFLIEnaQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "xreal-aura",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 13,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-25T18:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 13
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -8,
+      "is_new": false,
       "topic": "Xreal Aura",
-      "description": "",
-      "description_source": "",
+      "description": "The Xreal Aura is trending as tech reviewers discuss the smart glasses and compare them to available alternatives in the market.",
+      "description_source": "gemini",
       "url": "https://sotwe.com/search/Xreal%20Aura",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.xyi8qaVitfGLIh6zEnvWSg&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -234,7 +474,67 @@
       "started_trending": "2026-11-25T18:23:32Z",
       "first_seen": "2026-11-25T18:23:32Z",
       "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jayda",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jayda",
+      "description": "The material provided does not make this topic clear.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jayda",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.-herZMouH7h41Mcr281cBwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "herewego",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#HereWeGo",
+      "description": "The phrase Here We Go is trending alongside sports reports involving the SEC, Manchester United, and Steelers wide receiver DK Metcalf.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23HereWeGo",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.cWku7eJBLJCF9FENzJ8nyQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -243,20 +543,24 @@
     },
     {
       "id": "bohm",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 16,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
         {
           "t": "2026-11-25T18:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 16
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -10,
+      "is_new": false,
       "topic": "Bohm",
-      "description": "",
-      "description_source": "",
+      "description": "Free agent infielder Alec Bohm is trending after reportedly reaching a two-year, $20 million deal with the Kansas City Royals.",
+      "description_source": "gemini",
       "url": "https://sotwe.com/search/Bohm",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.DasPlxwZRLEyRRaf0cHGvw&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -264,175 +568,7 @@
       "started_trending": "2026-11-25T18:23:32Z",
       "first_seen": "2026-11-25T18:23:32Z",
       "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "steelers",
-      "rank": 7,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-25T15:23:33Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-25T16:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-25T17:23:40Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Steelers",
-      "description": "The Steelers are trending following their shocking decision to bench quarterback Aaron Rodgers in favor of Mason Rudolph amid ongoing team fallout and questions.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Steelers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.WJ9MbOoPOpr1NVL0jq2uwA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T15:23:33Z",
-      "first_seen": "2026-11-25T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mccarthy",
-      "rank": 8,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-25T17:23:40Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "McCarthy",
-      "description": "Mike McCarthy is trending following reports of his disagreements with Aaron Rodgers and his role in informing the Steelers team of the quarterback's shocking benching.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/McCarthy",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.d3AGABP3j9TtyFxcSGaR2AHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T17:23:40Z",
-      "first_seen": "2026-11-25T17:23:40Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "spain",
-      "rank": 9,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-25T12:23:37Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-25T13:23:45Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-25T14:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-25T15:23:33Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-25T16:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-25T17:23:40Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": -3,
-      "is_new": false,
-      "topic": "Spain",
-      "description": "Spain is trending following the arrival of Kilmar Ábrego García, a Salvadoran national who voluntarily left the United States after a mistaken deportation case.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Spain",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.I3OBwCNDozQDyRZNUlx9WA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T07:23:34Z",
-      "first_seen": "2026-11-25T07:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 10,
-      "volume": "10hr trend",
-      "volume_value": 10,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rudolph",
-      "rank": 10,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-25T16:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-25T17:23:40Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 10
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Rudolph",
-      "description": "Mason Rudolph is trending as the Steelers tap him to take over at quarterback following the stunning benching of Aaron Rodgers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rudolph",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.hONFbE_r6ORQ9xsjwKMUsQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T16:23:35Z",
-      "first_seen": "2026-11-25T16:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
+      "last_seen": "2026-11-25T19:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -440,8 +576,72 @@
       "extra": {}
     },
     {
+      "id": "marquette",
+      "rank": 17,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-25T18:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": -5,
+      "is_new": false,
+      "topic": "Marquette",
+      "description": "Marquette is trending following their game against Virginia at the Battle 4 Atlantis tournament, which was delayed by a ballroom roof leak.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Marquette",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.RC5coD9pOtQ8aG1wj9-3-gHaE1&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T18:23:32Z",
+      "first_seen": "2026-11-25T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "pat-freiermuth",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Pat Freiermuth",
+      "description": "Pat Freiermuth is trending after benched quarterback Aaron Rodgers revealed he learned about his benching from teammate Pat Freiermuth rather than coaches.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Pat%20Freiermuth",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.1iUH6WHE3wHrHD4LAzA7JA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-25T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "east-palestine",
-      "rank": 11,
+      "rank": 19,
       "previous_rank": 13,
       "rank_4h_ago": 13,
       "rank_history": [
@@ -452,12 +652,16 @@
         {
           "t": "2026-11-25T18:23:32Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-25T19:23:35Z",
+          "r": 19
         }
       ],
-      "rank_change": 2,
+      "rank_change": -6,
       "is_new": false,
       "topic": "East Palestine",
-      "description": "East Palestine is trending as headlines revisit the causes of the tragic train wreck and subsequent hazardous material concerns.",
+      "description": "The material provided does not make this topic clear.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/East%20Palestine",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.kxhcLvKI1uTdk5/SCHR3zw&pid=15.1",
@@ -466,169 +670,7 @@
       "started_trending": "2026-11-25T17:23:40Z",
       "first_seen": "2026-11-25T17:23:40Z",
       "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "marquette",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Marquette",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Marquette",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.RC5coD9pOtQ8aG1wj9-3-gHaE1&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T18:23:32Z",
-      "first_seen": "2026-11-25T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "starmind",
-      "rank": 13,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-11-25T17:23:40Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "Starmind",
-      "description": "Starmind is trending after the FCC conditionally approved SpaceX to launch up to 1 million satellites to power orbital data centers and AI plans.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Starmind",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.mSzWciCdhfJvSMt1br_e3wHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T17:23:40Z",
-      "first_seen": "2026-11-25T17:23:40Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "luma",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "LUMA",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/LUMA",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.1KM8IpWHZ5nuHbOQ8V93mwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T18:23:32Z",
-      "first_seen": "2026-11-25T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "virginia",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Virginia",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Virginia",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.Lamq47kykN2ZYPFFcwZ02AHaFI&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T18:23:32Z",
-      "first_seen": "2026-11-25T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "tomlin",
-      "rank": 16,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-25T16:23:35Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-25T17:23:40Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Tomlin",
-      "description": "Mike Tomlin is trending as he embraces the Sunday Night Football spotlight and navigates the team's ongoing quarterback and staffing challenges.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Tomlin",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.82H6fNme/sSngOqhoq5j7w&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T16:23:35Z",
-      "first_seen": "2026-11-25T16:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
+      "last_seen": "2026-11-25T19:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -636,135 +678,29 @@
       "extra": {}
     },
     {
-      "id": "the-fcc",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "The FCC",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/The%20FCC",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.SynstaYGg12ArlR4Z8ALOAHaE0&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T18:23:32Z",
-      "first_seen": "2026-11-25T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mubb",
-      "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#mubb",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23mubb",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.7MB1jv1W6CtVa1gvwO9HgwHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T18:23:32Z",
-      "first_seen": "2026-11-25T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lun-selcaday",
-      "rank": 19,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-25T15:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-25T16:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-25T17:23:40Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-25T18:23:32Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "#lunéselcaday",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23lun%C3%A9selcaday",
-      "image_url": "https://ts2.explicit.bing.net/th?id=OIP.TCg6MiVss6GMME3D8XIRGQHaI4&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T15:23:33Z",
-      "first_seen": "2026-11-25T15:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "royals",
+      "id": "brandon-aiyuk",
       "rank": 20,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-25T17:23:40Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-25T18:23:32Z",
+          "t": "2026-11-25T19:23:35Z",
           "r": 20
         }
       ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Royals",
-      "description": "The Royals are trending after agreeing to a two-year, $20 million contract with free-agent infielder Alec Bohm.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Brandon Aiyuk",
+      "description": "Brandon Aiyuk is trending after visiting the Washington Commanders and reportedly signing with their practice squad following his release from the 49ers.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Royals",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Sqj3v8ykertwno6ftBrqpwHaFj&pid=15.1",
+      "url": "https://sotwe.com/search/Brandon%20Aiyuk",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.WnJQDrcF9j0uakuu3KgxVw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-25T17:23:40Z",
-      "first_seen": "2026-11-25T17:23:40Z",
+      "started_trending": "2026-11-25T19:23:35Z",
+      "first_seen": "2026-11-25T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-25T18:23:32Z",
+      "last_seen": "2026-11-25T19:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
