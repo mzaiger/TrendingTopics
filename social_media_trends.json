@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-26T02:25:08Z",
+  "updated": "2026-11-26T03:25:09Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,13 +10,9 @@
     {
       "id": "thanksgiving",
       "rank": 1,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
-        {
-          "t": "2026-11-25T20:23:34Z",
-          "r": 4
-        },
         {
           "t": "2026-11-25T21:23:39Z",
           "r": 4
@@ -40,12 +36,16 @@
         {
           "t": "2026-11-26T02:23:33Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 1
         }
       ],
-      "rank_change": 3,
+      "rank_change": 2,
       "is_new": false,
       "topic": "Thanksgiving",
-      "description": "The annual Macy's Thanksgiving Day Parade has been postponed until Saturday due to severe weather. Meanwhile, political figures and NFL teams are preparing for the holiday.",
+      "description": "The Macy’s Thanksgiving Day Parade has been postponed due to a nor’easter, marking the first time weather has forced such a delay.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Thanksgiving",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.opTxcpryKSmFUujroUMkLQ&pid=15.1",
@@ -54,53 +54,57 @@
       "started_trending": "2026-11-25T15:23:33Z",
       "first_seen": "2026-11-25T15:23:33Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "tucker-kraft",
+      "id": "christian-watson",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
       "rank_history": [
         {
+          "t": "2026-11-26T01:23:35Z",
+          "r": 12
+        },
+        {
           "t": "2026-11-26T02:23:33Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
           "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Tucker Kraft",
-      "description": "Packers tight end Tucker Kraft is trending following a fumble during the game against the Rams. His performance has become a point of discussion for fantasy football managers.",
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Christian Watson",
+      "description": "Green Bay Packers wide receiver Christian Watson is trending after catching a touchdown pass from Jordan Love and suffering a hit that led to an ejection.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Tucker%20Kraft",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.fouUEmeMtJ4u8QFjOo1fHwHaE8&pid=15.1",
+      "url": "https://sotwe.com/search/Christian%20Watson",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.OoYylMiC7RqVBR1KXwBMegAAAA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T02:23:33Z",
-      "first_seen": "2026-11-26T02:23:33Z",
+      "started_trending": "2026-11-26T01:23:35Z",
+      "first_seen": "2026-11-26T01:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "packers",
       "rank": 3,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
       "rank_history": [
-        {
-          "t": "2026-11-25T20:23:34Z",
-          "r": 3
-        },
         {
           "t": "2026-11-25T21:23:39Z",
           "r": 3
@@ -124,12 +128,16 @@
         {
           "t": "2026-11-26T02:23:33Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": 0,
+      "rank_change": 1,
       "is_new": false,
       "topic": "Packers",
-      "description": "The Green Bay Packers are trending as they face the Los Angeles Rams in a Week 12 matchup. Fans are closely following the team's roster updates and game coverage.",
+      "description": "The Green Bay Packers are trending due to their Week 12 matchup against the Los Angeles Rams, which featured a notable player ejection.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Packers",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.IU7xjxJEalCxFVAtihX1/w&pid=15.1",
@@ -138,45 +146,109 @@
       "started_trending": "2026-11-25T19:23:35Z",
       "first_seen": "2026-11-25T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "rams",
+      "id": "tucker-kraft",
       "rank": 4,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
-          "t": "2026-11-26T00:23:39Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-26T01:23:35Z",
-          "r": 6
-        },
-        {
           "t": "2026-11-26T02:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
           "r": 4
         }
       ],
-      "rank_change": 6,
+      "rank_change": -2,
       "is_new": false,
-      "topic": "Rams",
-      "description": "The Los Angeles Rams are trending due to their historic Thanksgiving Eve game against the Green Bay Packers. The team is also honoring their legendary Fearsome Foursome.",
+      "topic": "Tucker Kraft",
+      "description": "Packers tight end Tucker Kraft is trending following a fumble during the game against the Rams and ongoing discussions regarding his fantasy football value.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rams",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.MuZZTWHfv2CVHWW7C8PQugHaE7&pid=15.1",
+      "url": "https://sotwe.com/search/Tucker%20Kraft",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.fouUEmeMtJ4u8QFjOo1fHwHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T00:23:39Z",
-      "first_seen": "2026-11-26T00:23:39Z",
+      "started_trending": "2026-11-26T02:23:33Z",
+      "first_seen": "2026-11-26T02:23:33Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aewdynamite",
+      "rank": 5,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-26T02:23:33Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "#AEWDynamite",
+      "description": "AEW Dynamite is trending ahead of its Thanksgiving Eve episode, which features an appearance by MJF and the start of the Continental Classic.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23AEWDynamite",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.kgUwAcLQ27XX3P/mKzUqcA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T02:23:33Z",
+      "first_seen": "2026-11-26T02:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "survivor51",
+      "rank": 6,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-26T02:23:33Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "#Survivor51",
+      "description": "Survivor 51 is trending as fans discuss the latest episode, where contestant Sharonda took control of the game following a major mistake by Carter.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23Survivor51",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.4acHCsyzGL9wDGRBOlAwPQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T02:23:33Z",
+      "first_seen": "2026-11-26T02:23:33Z",
+      "published": null,
+      "last_seen": "2026-11-26T03:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -185,7 +257,7 @@
     },
     {
       "id": "rodgers",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -196,12 +268,16 @@
         {
           "t": "2026-11-26T02:23:33Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": -3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Rodgers",
-      "description": "Quarterback Aaron Rodgers has been released by the Steelers following a controversial interview where he criticized coach Mike McCarthy. He was benched prior to his departure.",
+      "description": "Quarterback Aaron Rodgers has been released by the Steelers after giving an explosive interview criticizing head coach Mike McCarthy.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Rodgers",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.ACo0hFe6UYj94b2Q2JSRsQHaE8&pid=15.1",
@@ -210,16 +286,54 @@
       "started_trending": "2026-11-26T01:23:35Z",
       "first_seen": "2026-11-26T01:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gbvslar",
+      "rank": 8,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-26T01:23:35Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-26T02:23:33Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 8
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "#GBvsLAR",
+      "description": "The NFL Week 12 game between the Green Bay Packers and the Los Angeles Rams is trending as fans look for predictions and fantasy football data.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23GBvsLAR",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.qpcEAZ-NwMDBbORG2S0v_gHaLH&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T01:23:35Z",
+      "first_seen": "2026-11-26T01:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "mccarthy",
-      "rank": 6,
+      "rank": 9,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -238,12 +352,16 @@
         {
           "t": "2026-11-26T02:23:33Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 9
         }
       ],
-      "rank_change": -5,
+      "rank_change": -8,
       "is_new": false,
       "topic": "McCarthy",
-      "description": "Steelers coach Mike McCarthy is under scrutiny after quarterback Aaron Rodgers publicly criticized his leadership. Reports suggest other players have corroborated the quarterback's claims about team disarray.",
+      "description": "Steelers head coach Mike McCarthy is trending after being publicly criticized by Aaron Rodgers, who reportedly accused him of falling asleep in meetings.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/McCarthy",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.I6phePxkQLTj0itjjXhfvQ&pid=15.1",
@@ -252,185 +370,71 @@
       "started_trending": "2026-11-25T23:23:33Z",
       "first_seen": "2026-11-25T23:23:33Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "survivor51",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T02:23:33Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#Survivor51",
-      "description": "Fans are actively discussing the latest developments and predictions for the upcoming finale of Survivor 51. Viewers are speculating on which contestants remain in the competition.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23Survivor51",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.4acHCsyzGL9wDGRBOlAwPQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T02:23:33Z",
-      "first_seen": "2026-11-26T02:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aewdynamite",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T02:23:33Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#AEWDynamite",
-      "description": "AEW Dynamite is trending as fans anticipate the Thanksgiving Eve episode. The broadcast features the start of the Continental Classic and appearances by stars like MJF.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23AEWDynamite",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.kgUwAcLQ27XX3P/mKzUqcA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T02:23:33Z",
-      "first_seen": "2026-11-26T02:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "christian-watson",
-      "rank": 9,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-26T01:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-26T02:23:33Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Christian Watson",
-      "description": "Packers wide receiver Christian Watson is trending after suffering a thigh injury during the opening play of the game against the Rams.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Christian%20Watson",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.OoYylMiC7RqVBR1KXwBMegAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T01:23:35Z",
-      "first_seen": "2026-11-26T01:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "steelers",
+      "id": "jordan-love",
       "rank": 10,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 14,
+      "rank_4h_ago": 14,
       "rank_history": [
         {
-          "t": "2026-11-25T20:23:34Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-25T21:23:39Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-25T22:23:41Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-25T23:23:33Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-26T00:23:39Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-26T01:23:35Z",
-          "r": 5
-        },
-        {
           "t": "2026-11-26T02:23:33Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
           "r": 10
         }
       ],
-      "rank_change": -8,
+      "rank_change": 4,
       "is_new": false,
-      "topic": "Steelers",
-      "description": "The Pittsburgh Steelers are in the spotlight following the release of quarterback Aaron Rodgers. The team is also preparing for their upcoming game against the Denver Broncos.",
+      "topic": "Jordan Love",
+      "description": "Packers quarterback Jordan Love is trending after throwing a touchdown pass to Christian Watson during the Week 12 game against the Rams.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Steelers",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.WJ9MbOoPOpr1NVL0jq2uwA&pid=15.1",
+      "url": "https://sotwe.com/search/Jordan%20Love",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.cDoUVPJ18ZTEcqKCqp7QVAHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-25T15:23:33Z",
-      "first_seen": "2026-11-25T15:23:33Z",
+      "started_trending": "2026-11-26T02:23:33Z",
+      "first_seen": "2026-11-26T02:23:33Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "rockies",
+      "id": "kinchens",
       "rank": 11,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-26T02:23:33Z",
+          "t": "2026-11-26T03:23:35Z",
           "r": 11
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Rockies",
-      "description": "The Colorado Rockies are trending after signing pitcher David Peterson to a two-year deal. The team continues to make significant moves to overhaul their pitching rotation.",
+      "topic": "Kinchens",
+      "description": "Rams defensive back Kamren Kinchens was ejected from the game against the Packers following a hit on wide receiver Christian Watson.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rockies",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.xDd27BV8tj2U-wy9I-KJ6gHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T02:23:33Z",
-      "first_seen": "2026-11-26T02:23:33Z",
+      "url": "https://sotwe.com/search/Kinchens",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-26T03:23:35Z",
+      "first_seen": "2026-11-26T03:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
+      "last_seen": "2026-11-26T03:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -450,6 +454,10 @@
         {
           "t": "2026-11-26T02:23:33Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 12
         }
       ],
       "rank_change": -2,
@@ -464,10 +472,10 @@
       "started_trending": "2026-11-26T01:23:35Z",
       "first_seen": "2026-11-26T01:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -484,12 +492,16 @@
         {
           "t": "2026-11-26T02:23:33Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 13
         }
       ],
       "rank_change": -2,
       "is_new": false,
       "topic": "Denny",
-      "description": "Denny's is trending after posting a public message welcoming Nvidia CEO Jensen Huang back to their restaurant. The gesture has sparked widespread social media commentary and mockery.",
+      "description": "Denny's is trending after posting a statement celebrating Nvidia CEO Jensen Huang, which has drawn significant mockery on social media.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Denny",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.ebjaOzQiJj00y0txmCMbnAHaFk&pid=15.1",
@@ -498,37 +510,37 @@
       "started_trending": "2026-11-26T01:23:35Z",
       "first_seen": "2026-11-26T01:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "jordan-love",
+      "id": "jaden-mcdaniels",
       "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-26T02:23:33Z",
+          "t": "2026-11-26T03:23:35Z",
           "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Jordan Love",
-      "description": "Packers quarterback Jordan Love is trending for his performance against the Rams, including a touchdown pass to Christian Watson. He remains a key player for fantasy football rosters.",
+      "topic": "Jaden McDaniels",
+      "description": "Timberwolves player Jaden McDaniels is trending following a strong 32-point performance and ahead of a game against the Thunder.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Jordan%20Love",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.cDoUVPJ18ZTEcqKCqp7QVAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T02:23:33Z",
-      "first_seen": "2026-11-26T02:23:33Z",
+      "url": "https://sotwe.com/search/Jaden%20McDaniels",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-26T03:23:35Z",
+      "first_seen": "2026-11-26T03:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
+      "last_seen": "2026-11-26T03:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -536,79 +548,59 @@
       "extra": {}
     },
     {
-      "id": "duran-duran",
+      "id": "nixon",
       "rank": 15,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-25T22:23:41Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-25T23:23:33Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-26T00:23:39Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-26T01:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-26T02:23:33Z",
+          "t": "2026-11-26T03:23:35Z",
           "r": 15
         }
       ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Duran Duran",
-      "description": "The music world is mourning the death of Andy Taylor, the longtime guitarist for Duran Duran. He passed away at age 65 following a battle with prostate cancer.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Nixon",
+      "description": "Nixon is trending due to a top-25 high school football game result and the recruitment of Texas athlete Kara Nixon to the Lady Griz basketball team.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Duran%20Duran",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.3C1mu-UvgqL56C_KibId2AHaFz&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-25T22:23:41Z",
-      "first_seen": "2026-11-25T22:23:41Z",
+      "url": "https://sotwe.com/search/Nixon",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-26T03:23:35Z",
+      "first_seen": "2026-11-26T03:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "gbvslar",
+      "id": "micah",
       "rank": 16,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-26T01:23:35Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-26T02:23:33Z",
+          "t": "2026-11-26T03:23:35Z",
           "r": 16
         }
       ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "#GBvsLAR",
-      "description": "The Week 12 NFL matchup between the Green Bay Packers and the Los Angeles Rams is a major topic of conversation among football fans and fantasy analysts.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Micah",
+      "description": "Micah Parsons is trending after returning from a torn ACL to play for the Green Bay Packers in their game against the Rams.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23GBvsLAR",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.qpcEAZ-NwMDBbORG2S0v_gHaLH&pid=15.1",
+      "url": "https://sotwe.com/search/Micah",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.E_ijmnzxt0ntcivM2cHuwAHaKX&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T01:23:35Z",
-      "first_seen": "2026-11-26T01:23:35Z",
+      "started_trending": "2026-11-26T03:23:35Z",
+      "first_seen": "2026-11-26T03:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
+      "last_seen": "2026-11-26T03:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -618,18 +610,22 @@
     {
       "id": "stafford",
       "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
       "rank_history": [
         {
           "t": "2026-11-26T02:23:33Z",
           "r": 17
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
+          "r": 17
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Stafford",
-      "description": "Rams quarterback Matthew Stafford is trending for his play against the Packers. Additionally, his wife Kelly Stafford is receiving attention for her recent comments regarding the NFL.",
+      "description": "Rams quarterback Matthew Stafford is trending after a notable connection with Konata Mumpfield during the game against the Packers.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Stafford",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.QnP4Hq-Qjkrt5fu2D3x9_gHaE8&pid=15.1",
@@ -638,67 +634,91 @@
       "started_trending": "2026-11-26T02:23:33Z",
       "first_seen": "2026-11-26T02:23:33Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "kyren-williams",
+      "id": "steelers",
       "rank": 18,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
+          "t": "2026-11-25T21:23:39Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-25T22:23:41Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-25T23:23:33Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-26T00:23:39Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-26T01:23:35Z",
+          "r": 5
+        },
+        {
           "t": "2026-11-26T02:23:33Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-26T03:23:35Z",
           "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kyren Williams",
-      "description": "Rams running back Kyren Williams is trending after scoring a touchdown against the Packers. He has been managing a turf toe injury throughout the past month.",
+      "rank_change": -16,
+      "is_new": false,
+      "topic": "Steelers",
+      "description": "The Pittsburgh Steelers are trending following the release of Aaron Rodgers and reports of internal disarray involving head coach Mike McCarthy.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Kyren%20Williams",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.1gxN_mAi3s_FzjeyGva0ZQHaE8&pid=15.1",
+      "url": "https://sotwe.com/search/Steelers",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.WJ9MbOoPOpr1NVL0jq2uwA&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T02:23:33Z",
-      "first_seen": "2026-11-26T02:23:33Z",
+      "started_trending": "2026-11-25T15:23:33Z",
+      "first_seen": "2026-11-25T15:23:33Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 12,
+      "volume": "12hr trend",
+      "volume_value": 12,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "sharonda",
+      "id": "jose-alvarado",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-26T02:23:33Z",
+          "t": "2026-11-26T03:23:35Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Sharonda",
-      "description": "Survivor 51 contestant Sharonda is a subject of intense fan speculation as viewers discuss the latest episode and potential eliminations.",
+      "topic": "Jose Alvarado",
+      "description": "New York Knicks player Jose Alvarado is trending after scoring 21 points in a win that extended the team's winning streak.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Sharonda",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.uS-BKZtSTCk55wPluAVT6QHaLH&pid=15.1",
+      "url": "https://sotwe.com/search/Jose%20Alvarado",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.eK6S8dIL0mwPNUijXlJtrw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T02:23:33Z",
-      "first_seen": "2026-11-26T02:23:33Z",
+      "started_trending": "2026-11-26T03:23:35Z",
+      "first_seen": "2026-11-26T03:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
+      "last_seen": "2026-11-26T03:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -706,36 +726,36 @@
       "extra": {}
     },
     {
-      "id": "bron",
+      "id": "rockies",
       "rank": 20,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
       "rank_history": [
         {
-          "t": "2026-11-26T01:23:35Z",
-          "r": 7
+          "t": "2026-11-26T02:23:33Z",
+          "r": 11
         },
         {
-          "t": "2026-11-26T02:23:33Z",
+          "t": "2026-11-26T03:23:35Z",
           "r": 20
         }
       ],
-      "rank_change": -13,
+      "rank_change": -9,
       "is_new": false,
-      "topic": "Bron",
-      "description": "LeBron James is trending after recording his first triple-double for the 76ers in a win against the Heat. He is also involved in a legal dispute over an AI-generated advertisement.",
+      "topic": "Rockies",
+      "description": "The Colorado Rockies are trending after signing pitchers David Peterson and Patrick Sandoval to multi-year contracts.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Bron",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.X3OaS2xgmh60owB5jw2HhwHaGL&pid=15.1",
+      "url": "https://sotwe.com/search/Rockies",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.xDd27BV8tj2U-wy9I-KJ6gHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T01:23:35Z",
-      "first_seen": "2026-11-26T01:23:35Z",
+      "started_trending": "2026-11-26T02:23:33Z",
+      "first_seen": "2026-11-26T02:23:33Z",
       "published": null,
-      "last_seen": "2026-11-26T02:23:33Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-26T03:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     }
