@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-26T15:25:17Z",
+  "updated": "2026-11-26T16:25:03Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -10,18 +10,22 @@
     {
       "id": "thanksgiving",
       "rank": 1,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 1,
+      "rank_4h_ago": 1,
       "rank_history": [
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 1
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Thanksgiving",
-      "description": "Thanksgiving is trending as powerful storms disrupt holiday travel and traditions, including a canceled parade and rescheduled events, while shoppers check holiday store hours.",
+      "description": "People are discussing Thanksgiving across social media amid holiday events, local parades, and previews for upcoming NFL games.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Thanksgiving",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.Ub9ehFx5CkA4cqwp83NXXA&pid=15.1",
@@ -30,7 +34,7 @@
       "started_trending": "2026-11-26T15:23:37Z",
       "first_seen": "2026-11-26T15:23:37Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
+      "last_seen": "2026-11-26T16:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -40,8 +44,8 @@
     {
       "id": "thankful",
       "rank": 2,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-11-26T11:23:35Z",
@@ -62,12 +66,16 @@
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 2
         }
       ],
-      "rank_change": 14,
+      "rank_change": 7,
       "is_new": false,
       "topic": "Thankful",
-      "description": "Social media users are discussing what they are thankful for this Thanksgiving holiday, with sports fans and local communities sharing expressions of gratitude.",
+      "description": "Social media users are sharing thoughts on what they are thankful for this holiday season, including sports teams and local news.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Thankful",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.0mE4PxwwlanyS2492XbfZw&pid=15.1",
@@ -76,7 +84,7 @@
       "started_trending": "2026-11-26T11:23:35Z",
       "first_seen": "2026-11-26T11:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
+      "last_seen": "2026-11-26T16:23:34Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -86,13 +94,9 @@
     {
       "id": "turkey-day",
       "rank": 3,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
-        {
-          "t": "2026-11-26T10:23:32Z",
-          "r": 10
-        },
         {
           "t": "2026-11-26T11:23:35Z",
           "r": 12
@@ -112,12 +116,16 @@
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 3
         }
       ],
-      "rank_change": 9,
+      "rank_change": 4,
       "is_new": false,
       "topic": "Turkey Day",
-      "description": "Turkey Day is trending as holiday traditions face disruptions from winter weather, including canceled football games and runners participating in Thanksgiving races.",
+      "description": "Turkey Day is trending as users discuss holiday traditions, charity runs, and winter weather cancellations affecting Thanksgiving football games.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Turkey%20Day",
       "image_url": "https://ts4.mm.bing.net/th?id=OIP._W7flxEkFM5ElscJ7zVPYwHaE8&pid=15.1",
@@ -126,16 +134,92 @@
       "started_trending": "2026-11-26T10:23:32Z",
       "first_seen": "2026-11-26T10:23:32Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 5,
-      "volume": "5hr trend",
-      "volume_value": 5,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 6,
+      "volume": "6hr trend",
+      "volume_value": 6,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "go-bills",
+      "rank": 4,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Go Bills",
+      "description": "Fans are sharing updates and predictions as the Kansas City Chiefs prepare to face the Buffalo Bills.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Go%20Bills",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.8Bi-t6tiz7HAYSbCkrAFiwHaGI&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T16:23:34Z",
+      "first_seen": "2026-11-26T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "grateful",
+      "rank": 5,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-26T12:23:32Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-26T13:23:44Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-26T14:23:36Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-26T15:23:37Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "Grateful",
+      "description": "Social media users are expressing gratitude this Thanksgiving, with deputies, community members, and writers sharing what they appreciate.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Grateful",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.6ZKcLrhi_Ql-vWR3PPystgHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T12:23:32Z",
+      "first_seen": "2026-11-26T12:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "feliz-d-a-de-acci-n-de-gracias",
-      "rank": 4,
+      "rank": 6,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -154,12 +238,16 @@
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": 2,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Feliz Día de Acción de Gracias",
-      "description": "Social media users are celebrating Feliz Día de Acción de Gracias with holiday greetings, open threads, and reflections on Thanksgiving shopping and good news.",
+      "description": "Social media users are posting holiday greetings and Thanksgiving discussions in Spanish.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Feliz%20D%C3%ADa%20de%20Acci%C3%B3n%20de%20Gracias",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.nHgceiCRAX0CUHC98h-iLAHaFF&pid=15.1",
@@ -168,16 +256,54 @@
       "started_trending": "2026-11-26T12:23:32Z",
       "first_seen": "2026-11-26T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "go-lions",
+      "rank": 7,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-26T14:23:36Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-26T15:23:37Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 10,
+      "is_new": false,
+      "topic": "Go Lions",
+      "description": "Fans are sharing excitement, playlists, and predictions as the Detroit Lions prepare to play the Chicago Bears.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Go%20Lions",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.MfphS/1fmfpm8GdCHx1P4A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T14:23:36Z",
+      "first_seen": "2026-11-26T14:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gratitude",
-      "rank": 5,
+      "rank": 8,
       "previous_rank": 18,
       "rank_4h_ago": 18,
       "rank_history": [
@@ -196,12 +322,16 @@
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": 13,
+      "rank_change": 10,
       "is_new": false,
       "topic": "#Gratitude",
-      "description": "Social media users are sharing posts under #Gratitude to express thanks, give back to their communities, and reflect on the true meaning of the holiday.",
+      "description": "Users are sharing reflections on gratitude, giving thanks, and community sharing for the holiday.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23Gratitude",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.0mE4PxwwlanyS2492XbfZw&pid=15.1",
@@ -210,92 +340,16 @@
       "started_trending": "2026-11-26T12:23:32Z",
       "first_seen": "2026-11-26T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "grateful",
-      "rank": 6,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
-      "rank_history": [
-        {
-          "t": "2026-11-26T12:23:32Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-26T13:23:44Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-26T14:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 6
-        }
-      ],
-      "rank_change": 10,
-      "is_new": false,
-      "topic": "Grateful",
-      "description": "People across social media are sharing what they are grateful for this Thanksgiving, ranging from family, friends, and community service to personal reflections.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Grateful",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.6ZKcLrhi_Ql-vWR3PPystgHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T12:23:32Z",
-      "first_seen": "2026-11-26T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "foolinloveep15",
-      "rank": 7,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-26T14:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 7
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "#FoolInLoveEP15",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23FoolInLoveEP15",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.3iEVqbhy2K1MwMSoaTIBrQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T14:23:36Z",
-      "first_seen": "2026-11-26T14:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gobble-gobble",
-      "rank": 8,
+      "rank": 9,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
@@ -314,12 +368,16 @@
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 9
         }
       ],
-      "rank_change": 7,
+      "rank_change": 6,
       "is_new": false,
       "topic": "Gobble Gobble",
-      "description": "Gobble Gobble is trending on social media alongside Thanksgiving memes, turkey-themed school mascots, holiday races, and sports events.",
+      "description": "Social media users are discussing holiday events, mascot themes, and local sports results tied to Thanksgiving.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Gobble%20Gobble",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.WBHQyP-LeGkFVrP_eb1q-wHaE8&pid=15.1",
@@ -328,16 +386,148 @@
       "started_trending": "2026-11-26T12:23:32Z",
       "first_seen": "2026-11-26T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "go-birds",
+      "rank": 10,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 10
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Go Birds",
+      "description": "Social media users are discussing various bird-related topics on Thanksgiving, from holiday hunts and bird counts to wild turkeys in local neighborhoods.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Go%20Birds",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0KZa8B5WUwpfB-o4sdRbYwHaCx&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T16:23:34Z",
+      "first_seen": "2026-11-26T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "betrpicks",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#BetrPicks",
+      "description": "Users on social media are sharing promo codes and betting tips for the Thanksgiving Eve NFL matchup between the Green Bay Packers and Los Angeles Rams.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23BetrPicks",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-26T16:23:34Z",
+      "first_seen": "2026-11-26T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "foolinloveep15",
+      "rank": 12,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
+      "rank_history": [
+        {
+          "t": "2026-11-26T14:23:36Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-26T15:23:37Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": -7,
+      "is_new": false,
+      "topic": "#FoolInLoveEP15",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23FoolInLoveEP15",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.3iEVqbhy2K1MwMSoaTIBrQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T14:23:36Z",
+      "first_seen": "2026-11-26T14:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "givethanks",
+      "rank": 13,
+      "previous_rank": 15,
+      "rank_4h_ago": 15,
+      "rank_history": [
+        {
+          "t": "2026-11-26T15:23:37Z",
+          "r": 15
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 13
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "#GiveThanks",
+      "description": "Social media users are sharing messages of thanks, solidarity, and reflections on global hardships during the holiday season.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23GiveThanks",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.iKv2hiSZgVRPW8_CABpyIgHaH0&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T15:23:37Z",
+      "first_seen": "2026-11-26T15:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "babybrightxperthsanta",
-      "rank": 9,
+      "rank": 14,
       "previous_rank": 11,
       "rank_4h_ago": 11,
       "rank_history": [
@@ -348,9 +538,13 @@
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 14
         }
       ],
-      "rank_change": 2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "#BabybrightxPerthSanta",
       "description": "",
@@ -362,7 +556,7 @@
       "started_trending": "2026-11-26T14:23:36Z",
       "first_seen": "2026-11-26T14:23:36Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
+      "last_seen": "2026-11-26T16:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -371,7 +565,7 @@
     },
     {
       "id": "so-much-for-love",
-      "rank": 10,
+      "rank": 15,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -382,12 +576,16 @@
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 15
         }
       ],
-      "rank_change": -3,
+      "rank_change": -8,
       "is_new": false,
       "topic": "SO MUCH FOR LOVE",
-      "description": "Social media users are sharing heartfelt stories this Thanksgiving, ranging from community love for a North Texas delivery driver to team appreciation for the Detroit Lions.",
+      "description": "Users are sharing heartwarming stories and cultural appreciations, from viral door-dash drivers to football fans celebrating Thanksgiving.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/SO%20MUCH%20FOR%20LOVE",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.DFac4xy7FywYkfsnW-NQSgHaLH&pid=15.1",
@@ -396,7 +594,7 @@
       "started_trending": "2026-11-26T14:23:36Z",
       "first_seen": "2026-11-26T14:23:36Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
+      "last_seen": "2026-11-26T16:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -404,42 +602,102 @@
       "extra": {}
     },
     {
-      "id": "go-lions",
-      "rank": 11,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
+      "id": "larry-hagman",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-26T14:23:36Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 11
+          "t": "2026-11-26T16:23:34Z",
+          "r": 16
         }
       ],
-      "rank_change": 6,
-      "is_new": false,
-      "topic": "Go Lions",
-      "description": "The Lions are trending ahead of their big game against the Bears, with fans tracking injury reports, betting odds, and streaming information.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Larry Hagman",
+      "description": "Social media users are discussing past television tragedies and memories involving Dallas star Patrick Duffy and his co-stars.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Go%20Lions",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.MfphS/1fmfpm8GdCHx1P4A&pid=15.1",
+      "url": "https://sotwe.com/search/Larry%20Hagman",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Q4nhxehFVKmctdFhUA55QQHaJQ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T14:23:36Z",
-      "first_seen": "2026-11-26T14:23:36Z",
+      "started_trending": "2026-11-26T16:23:34Z",
+      "first_seen": "2026-11-26T16:23:34Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bears-ml",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bears ML",
+      "description": "Bettors and fans on social media are sharing moneyline predictions, prop bets, and same-game parlays for the Chicago Bears versus Detroit Lions Thanksgiving game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bears%20ML",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.slS2Hn7OFW6Heo3HXqj67g&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T16:23:34Z",
+      "first_seen": "2026-11-26T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "meek",
+      "rank": 18,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
+      "rank_history": [
+        {
+          "t": "2026-11-26T15:23:37Z",
+          "r": 19
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Meek",
+      "description": "Social media users are discussing sports coverage, including a sold-out homecoming show featuring Meek Mill and recent basketball and soccer team recaps.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Meek",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.6xujkZFJLemQshZdZzJWOQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T15:23:37Z",
+      "first_seen": "2026-11-26T15:23:37Z",
+      "published": null,
+      "last_seen": "2026-11-26T16:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "perthsanta-bbb-glow-moment",
-      "rank": 12,
+      "rank": 19,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -450,9 +708,13 @@
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 12
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 19
         }
       ],
-      "rank_change": -2,
+      "rank_change": -9,
       "is_new": false,
       "topic": "PERTHSANTA BBB GLOW MOMENT",
       "description": "",
@@ -464,7 +726,7 @@
       "started_trending": "2026-11-26T14:23:36Z",
       "first_seen": "2026-11-26T14:23:36Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
+      "last_seen": "2026-11-26T16:23:34Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -472,110 +734,24 @@
       "extra": {}
     },
     {
-      "id": "my-snapchat",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "My Snapchat",
-      "description": "The material does not make the description clear for this topic.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/My%20Snapchat",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.E-3uCznNzbFbhj3bneZOygHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T15:23:37Z",
-      "first_seen": "2026-11-26T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "topic",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#停止为姚润昊支付嫖资",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23%E5%81%9C%E6%AD%A2%E4%B8%BA%E5%A7%9A%E6%B6%A6%E6%98%8A%E6%94%AF%E4%BB%98%E5%AB%96%E8%B5%84",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.DlRxwScR898TE4vtdpFZ8AHaJ3&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T15:23:37Z",
-      "first_seen": "2026-11-26T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "givethanks",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#GiveThanks",
-      "description": "Social media users are using #GiveThanks to share messages of faith, community solidarity, and appreciation for the blessings in their lives.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23GiveThanks",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.iKv2hiSZgVRPW8_CABpyIgHaH0&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T15:23:37Z",
-      "first_seen": "2026-11-26T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "box-c",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 20,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
       "rank_history": [
         {
           "t": "2026-11-26T15:23:37Z",
           "r": 16
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 20
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -4,
+      "is_new": false,
       "topic": "Box C",
-      "description": "Sports fans are checking game box scores and updates on social media, including matchups between the Chicago Blackhawks and Seattle Kraken as well as Oregon and Texas Tech.",
+      "description": "Users are discussing various topics online, ranging from college basketball box scores between the Oregon Ducks and Texas Tech Red Raiders to scientific research on batteries.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Box%20C",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.8oECn2OFdtg0Iq2S8r5R4w&pid=15.1",
@@ -584,151 +760,7 @@
       "started_trending": "2026-11-26T15:23:37Z",
       "first_seen": "2026-11-26T15:23:37Z",
       "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "good-thursday",
-      "rank": 17,
-      "previous_rank": 3,
-      "rank_4h_ago": 3,
-      "rank_history": [
-        {
-          "t": "2026-11-26T11:23:35Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-26T12:23:32Z",
-          "r": 3
-        },
-        {
-          "t": "2026-11-26T13:23:44Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-26T14:23:36Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -14,
-      "is_new": false,
-      "topic": "Good Thursday",
-      "description": "Good Thursday is trending as people celebrate Thanksgiving Day with holiday schedules, NFL football betting picks, and special television broadcasts.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Good%20Thursday",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.EAaGzhWr2uATETxMIYJsWQHaMj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T11:23:35Z",
-      "first_seen": "2026-11-26T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "god-for-his",
-      "rank": 18,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-26T13:23:44Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-26T14:23:36Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "God for His",
-      "description": "Social media users are sharing messages of faith and gratitude, expressing thanks to God and reflecting on the true meaning of the Thanksgiving holiday.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/God%20for%20His",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.HOnYz43bpdiUx5tpb00sBwHaKY&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T13:23:44Z",
-      "first_seen": "2026-11-26T13:23:44Z",
-      "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "meek",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 19
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Meek",
-      "description": "Meek is trending on social media following discussion of Chelsea's defense, high school basketball recaps, and Meek Mill's sold-out homecoming show featuring guest artists.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Meek",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.6xujkZFJLemQshZdZzJWOQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T15:23:37Z",
-      "first_seen": "2026-11-26T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "barney",
-      "rank": 20,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 20
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Barney",
-      "description": "Barney is trending on social media as users look back at wild secrets and historical mishaps from the Macy’s Thanksgiving Day Parade, alongside local community obituaries.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Barney",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.j6PpHhN_8Nxg8jyIk2DKmAHaJ1&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T15:23:37Z",
-      "first_seen": "2026-11-26T15:23:37Z",
-      "published": null,
-      "last_seen": "2026-11-26T15:23:37Z",
+      "last_seen": "2026-11-26T16:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
