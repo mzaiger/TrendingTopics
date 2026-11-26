@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-26T18:25:32Z",
+  "updated": "2026-11-26T19:25:16Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -28,12 +28,16 @@
         {
           "t": "2026-11-26T18:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Thanksgiving",
-      "description": "Americans are celebrating Thanksgiving today, with many sharing gratitude, looking for open restaurants, or following holiday sports and parade news.",
+      "description": "Thanksgiving is trending as social media discusses holiday parades shifting to live TV, NFL schedules, and open store hours.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Thanksgiving",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.Ub9ehFx5CkA4cqwp83NXXA&pid=15.1",
@@ -42,18 +46,82 @@
       "started_trending": "2026-11-26T15:23:37Z",
       "first_seen": "2026-11-26T15:23:37Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "loveland",
+      "rank": 2,
+      "previous_rank": 4,
+      "rank_4h_ago": 4,
+      "rank_history": [
+        {
+          "t": "2026-11-26T18:23:32Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Loveland",
+      "description": "Chicago Bears tight end Colston Loveland is trending after being ruled out against the Lions due to a knee injury.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Loveland",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.1gd7RRVi1sbK8ndWIdVEXQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T18:23:32Z",
+      "first_seen": "2026-11-26T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bears",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Bears",
+      "description": "The Chicago Bears are trending on social media due to their Thanksgiving matchup against the Detroit Lions.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bears",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.Wh5rtrCoaUAUxGBdoSoVFAHaGa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T19:23:35Z",
+      "first_seen": "2026-11-26T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "thankful",
-      "rank": 2,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "rank": 4,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-11-26T13:23:44Z",
@@ -78,12 +146,16 @@
         {
           "t": "2026-11-26T18:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 4
         }
       ],
-      "rank_change": 2,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Thankful",
-      "description": "As the nation celebrates Thanksgiving, many are sharing reflections on what they are thankful for this year.",
+      "description": "People on social media are sharing their personal reflections and thoughts on what they are thankful for this holiday season.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Thankful",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.0mE4PxwwlanyS2492XbfZw&pid=15.1",
@@ -92,37 +164,37 @@
       "started_trending": "2026-11-26T11:23:35Z",
       "first_seen": "2026-11-26T11:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 8,
+      "volume": "8hr trend",
+      "volume_value": 8,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "lions",
-      "rank": 3,
+      "id": "gibbs",
+      "rank": 5,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 3
+          "t": "2026-11-26T19:23:35Z",
+          "r": 5
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Lions",
-      "description": "The Detroit Lions are trending as they prepare for their traditional Thanksgiving Day game against the Chicago Bears.",
+      "topic": "Gibbs",
+      "description": "Detroit Lions running back Jahmyr Gibbs is trending after scoring early against the Chicago Bears and breaking a long-standing record.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Lions",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.ZOfv9HiMI1W9pDSE4Vht4g&pid=15.1",
+      "url": "https://sotwe.com/search/Gibbs",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.rqArQrfV6skiclcxFpYpRwHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T18:23:32Z",
-      "first_seen": "2026-11-26T18:23:32Z",
+      "started_trending": "2026-11-26T19:23:35Z",
+      "first_seen": "2026-11-26T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
+      "last_seen": "2026-11-26T19:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -130,29 +202,29 @@
       "extra": {}
     },
     {
-      "id": "loveland",
-      "rank": 4,
+      "id": "goff",
+      "rank": 6,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 4
+          "t": "2026-11-26T19:23:35Z",
+          "r": 6
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Loveland",
-      "description": "Tight end Colston Loveland is a popular target for fantasy football players and bettors ahead of the NFL Thanksgiving games.",
+      "topic": "Goff",
+      "description": "Detroit Lions quarterback Jared Goff is trending as he leads his team in the Thanksgiving game against the Chicago Bears.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Loveland",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.1gd7RRVi1sbK8ndWIdVEXQ&pid=15.1",
+      "url": "https://sotwe.com/search/Goff",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Qk2Bw-i3G78DT5Pn0wS3ewHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T18:23:32Z",
-      "first_seen": "2026-11-26T18:23:32Z",
+      "started_trending": "2026-11-26T19:23:35Z",
+      "first_seen": "2026-11-26T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
+      "last_seen": "2026-11-26T19:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -161,7 +233,7 @@
     },
     {
       "id": "turkey",
-      "rank": 5,
+      "rank": 7,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -172,12 +244,16 @@
         {
           "t": "2026-11-26T18:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": -2,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Turkey",
-      "description": "The turkey is the central theme of Thanksgiving, appearing in holiday programming, local charity runs, and traditional feasts across the country.",
+      "description": "Turkey is trending on social media alongside holiday radio specials, turkey trots, and news reports regarding food safety concerns.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Turkey",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.l4ehMNdErdpYvIED3tfE4wHaDs&pid=15.1",
@@ -186,118 +262,32 @@
       "started_trending": "2026-11-26T17:23:34Z",
       "first_seen": "2026-11-26T17:23:34Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "amon-ra",
-      "rank": 6,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 6
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Amon Ra",
-      "description": "Detroit Lions wide receiver Amon-Ra St. Brown is in the spotlight as he prepares for a high-stakes Thanksgiving matchup against the Chicago Bears.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Amon%20Ra",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.htZG6sDllBR5W8DaPZLMVw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T18:23:32Z",
-      "first_seen": "2026-11-26T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "onepride",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 7
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#OnePride",
-      "description": "Fans are using the hashtag to discuss the Detroit Lions' recent performance and their upcoming Thanksgiving game against the Chicago Bears.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23OnePride",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.7cFibvihX_vm-C9cfmDYdAHaEo&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T18:23:32Z",
-      "first_seen": "2026-11-26T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "derrick-moore",
-      "rank": 8,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Derrick Moore",
-      "description": "Detroit Lions player Derrick Moore is gaining attention for his emerging performance as a pass-rush force.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Derrick%20Moore",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.SkD4YzGWw405obTKBPuCwQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T18:23:32Z",
-      "first_seen": "2026-11-26T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "chivsdet",
-      "rank": 9,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 8,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-11-26T18:23:32Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 8
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 1,
+      "is_new": false,
       "topic": "#CHIvsDET",
-      "description": "Fans are discussing the NFL Thanksgiving Day matchup between the Chicago Bears and the Detroit Lions.",
+      "description": "The hashtag #CHIvsDET is trending as fans discuss the Thanksgiving Day game between the Chicago Bears and Detroit Lions.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23CHIvsDET",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.MfphS/1fmfpm8GdCHx1P4A&pid=15.1",
@@ -306,281 +296,109 @@
       "started_trending": "2026-11-26T18:23:32Z",
       "first_seen": "2026-11-26T18:23:32Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "grateful",
-      "rank": 10,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
+      "id": "derrick-moore",
+      "rank": 9,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
-          "t": "2026-11-26T13:23:44Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-26T14:23:36Z",
+          "t": "2026-11-26T18:23:32Z",
           "r": 8
         },
         {
-          "t": "2026-11-26T15:23:37Z",
+          "t": "2026-11-26T19:23:35Z",
+          "r": 9
+        }
+      ],
+      "rank_change": -1,
+      "is_new": false,
+      "topic": "Derrick Moore",
+      "description": "Derrick Moore is trending on social media after forcing a crucial fumble with a Peanut Punch during the Lions and Bears game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Derrick%20Moore",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.SkD4YzGWw405obTKBPuCwQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T18:23:32Z",
+      "first_seen": "2026-11-26T18:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "amon-ra",
+      "rank": 10,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-26T18:23:32Z",
           "r": 6
         },
         {
-          "t": "2026-11-26T16:23:34Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-26T17:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-26T18:23:32Z",
+          "t": "2026-11-26T19:23:35Z",
           "r": 10
         }
       ],
-      "rank_change": 0,
+      "rank_change": -4,
       "is_new": false,
-      "topic": "Grateful",
-      "description": "People across the country are sharing personal reflections and expressing what they are grateful for this Thanksgiving.",
+      "topic": "Amon Ra",
+      "description": "Detroit Lions wide receiver Amon-Ra St. Brown is trending following key catches and a viral celebration during the game against Chicago.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Grateful",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.6ZKcLrhi_Ql-vWR3PPystgHaE7&pid=15.1",
+      "url": "https://sotwe.com/search/Amon%20Ra",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.htZG6sDllBR5W8DaPZLMVw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T12:23:32Z",
-      "first_seen": "2026-11-26T12:23:32Z",
+      "started_trending": "2026-11-26T18:23:32Z",
+      "first_seen": "2026-11-26T18:23:32Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "go-bills",
+      "id": "onepride",
       "rank": 11,
-      "previous_rank": 4,
-      "rank_4h_ago": 4,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
-        {
-          "t": "2026-11-26T16:23:34Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-26T17:23:34Z",
-          "r": 5
-        },
         {
           "t": "2026-11-26T18:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Go Bills",
-      "description": "The Buffalo Bills are trending as fans and analysts look ahead to their upcoming game against the Kansas City Chiefs.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Go%20Bills",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.8Bi-t6tiz7HAYSbCkrAFiwHaGI&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T16:23:34Z",
-      "first_seen": "2026-11-26T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "go-birds",
-      "rank": 12,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-26T16:23:34Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-26T17:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -2,
-      "is_new": false,
-      "topic": "Go Birds",
-      "description": "The term is being used in discussions regarding the Philadelphia Eagles and various sports-related Thanksgiving content.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Go%20Birds",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0KZa8B5WUwpfB-o4sdRbYwHaCx&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T16:23:34Z",
-      "first_seen": "2026-11-26T16:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gobble-gobble",
-      "rank": 13,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-26T13:23:44Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-26T14:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-26T16:23:34Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-26T17:23:34Z",
           "r": 7
         },
         {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Gobble Gobble",
-      "description": "The phrase is trending as a festive greeting for Thanksgiving and in reference to local Turkey Trot charity races.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Gobble%20Gobble",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.WBHQyP-LeGkFVrP_eb1q-wHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T12:23:32Z",
-      "first_seen": "2026-11-26T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "clark-phillips",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Clark Phillips",
-      "description": "Clark Phillips is being discussed in the context of NFL injury reports and player updates ahead of the Thanksgiving games.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Clark%20Phillips",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.qR4bxA2z1GkOb2AcvHTewA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T18:23:32Z",
-      "first_seen": "2026-11-26T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bear-down",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bear Down",
-      "description": "The phrase is trending due to a severe Thanksgiving nor'easter impacting Connecticut and weather-related delays for the Macy's Thanksgiving Day Parade.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Bear%20Down",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.DlPCbMy958qd1Y8qu2NTXA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T18:23:32Z",
-      "first_seen": "2026-11-26T18:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "betrpicks",
-      "rank": 16,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-26T16:23:34Z",
+          "t": "2026-11-26T19:23:35Z",
           "r": 11
-        },
-        {
-          "t": "2026-11-26T17:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 16
         }
       ],
-      "rank_change": -5,
+      "rank_change": -4,
       "is_new": false,
-      "topic": "#BetrPicks",
-      "description": "The hashtag is trending as sports bettors look for promotional codes and bonuses for NFL Thanksgiving Day games.",
+      "topic": "#OnePride",
+      "description": "The hashtag #OnePride is trending as Detroit Lions fans celebrate and share updates during their game against the Chicago Bears.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23BetrPicks",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.fgxERseAEIGxDmgvuzbJxAHaD0&pid=15.1",
+      "url": "https://sotwe.com/search/%23OnePride",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.7cFibvihX_vm-C9cfmDYdAHaEo&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T16:23:34Z",
-      "first_seen": "2026-11-26T16:23:34Z",
+      "started_trending": "2026-11-26T18:23:32Z",
+      "first_seen": "2026-11-26T18:23:32Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
+      "last_seen": "2026-11-26T19:23:35Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -588,79 +406,59 @@
       "extra": {}
     },
     {
-      "id": "feliz-d-a-de-acci-n-de-gracias",
-      "rank": 17,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
-      "rank_history": [
-        {
-          "t": "2026-11-26T13:23:44Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-26T14:23:36Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-26T16:23:34Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-26T17:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -12,
-      "is_new": false,
-      "topic": "Feliz Día de Acción de Gracias",
-      "description": "Spanish speakers are using the phrase to share holiday greetings and celebrate Thanksgiving Day.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Feliz%20D%C3%ADa%20de%20Acci%C3%B3n%20de%20Gracias",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.nHgceiCRAX0CUHC98h-iLAHaFF&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T12:23:32Z",
-      "first_seen": "2026-11-26T12:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "nationaldogshow",
-      "rank": 18,
+      "id": "ben-johnson",
+      "rank": 12,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-26T18:23:32Z",
-          "r": 18
+          "t": "2026-11-26T19:23:35Z",
+          "r": 12
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#NationalDogShow",
-      "description": "The National Dog Show is trending as viewers prepare to watch the annual competition during the Thanksgiving holiday.",
+      "topic": "Ben Johnson",
+      "description": "Ben Johnson is trending on social media amid coverage of his matchup against Amon-Ra St. Brown and his history with the Lions.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23NationalDogShow",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.JogVfjwEZFCJxth6qW6BtA&pid=15.1",
+      "url": "https://sotwe.com/search/Ben%20Johnson",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.i6xXfYwi8vowvDRuOZ-4ygHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T18:23:32Z",
-      "first_seen": "2026-11-26T18:23:32Z",
+      "started_trending": "2026-11-26T19:23:35Z",
+      "first_seen": "2026-11-26T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "swift",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Swift",
+      "description": "Taylor Swift is trending on social media as users discuss fantasy football updates and look back at her holidays with Travis Kelce.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Swift",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.vDH4cB3NRXMtgJAjKRnPMQHaLj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T19:23:35Z",
+      "first_seen": "2026-11-26T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-26T19:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -669,19 +467,23 @@
     },
     {
       "id": "caleb-williams",
-      "rank": 19,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 14,
+      "previous_rank": 19,
+      "rank_4h_ago": 19,
       "rank_history": [
         {
           "t": "2026-11-26T18:23:32Z",
           "r": 19
+        },
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 14
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 5,
+      "is_new": false,
       "topic": "Caleb Williams",
-      "description": "Chicago Bears quarterback Caleb Williams is the focus of intense interest ahead of his first Thanksgiving game.",
+      "description": "Chicago Bears quarterback Caleb Williams is trending as he plays in a high-profile Thanksgiving matchup against the Detroit Lions.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Caleb%20Williams",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.MLvWdpDBW8nLBmRQh3R1Pw&pid=15.1",
@@ -690,7 +492,37 @@
       "started_trending": "2026-11-26T18:23:32Z",
       "first_seen": "2026-11-26T18:23:32Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "stephen-carlson",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Stephen Carlson",
+      "description": "Stephen Carlson and other roster updates are trending as fans follow injury reports and game updates from the Bears-Lions matchup.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Stephen%20Carlson",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.FIB79zswXOACx_Xmz7WFbgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T19:23:35Z",
+      "first_seen": "2026-11-26T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-26T19:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -698,52 +530,188 @@
       "extra": {}
     },
     {
-      "id": "gratitude",
-      "rank": 20,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "id": "macy",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Macy",
+      "description": "Macy's is trending because the Thanksgiving Day Parade was postponed to Saturday for the first time in history due to a severe storm.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Macy",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.7h3GwZzWmGFhJzCXRWre8A&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T19:23:35Z",
+      "first_seen": "2026-11-26T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sam-roush",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sam Roush",
+      "description": "Sam Roush is trending alongside fantasy football lineup debates and injury updates for tight end Colston Loveland during Thanksgiving football.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Sam%20Roush",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.alULJsTdQS03EHDZvRvyOA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T19:23:35Z",
+      "first_seen": "2026-11-26T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "grateful",
+      "rank": 18,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
       "rank_history": [
         {
           "t": "2026-11-26T13:23:44Z",
-          "r": 12
+          "r": 10
         },
         {
           "t": "2026-11-26T14:23:36Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-26T15:23:37Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-26T16:23:34Z",
           "r": 8
         },
         {
+          "t": "2026-11-26T15:23:37Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 5
+        },
+        {
           "t": "2026-11-26T17:23:34Z",
-          "r": 12
+          "r": 4
         },
         {
           "t": "2026-11-26T18:23:32Z",
-          "r": 20
+          "r": 10
+        },
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 18
         }
       ],
-      "rank_change": -8,
+      "rank_change": -10,
       "is_new": false,
-      "topic": "#Gratitude",
-      "description": "Social media users are sharing messages of appreciation and reflection to mark the Thanksgiving holiday.",
+      "topic": "Grateful",
+      "description": "Social media users are sharing what they are grateful for this Thanksgiving, including family, friends, and community support.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23Gratitude",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.0mE4PxwwlanyS2492XbfZw&pid=15.1",
+      "url": "https://sotwe.com/search/Grateful",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.6ZKcLrhi_Ql-vWR3PPystgHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-26T12:23:32Z",
       "first_seen": "2026-11-26T12:23:32Z",
       "published": null,
-      "last_seen": "2026-11-26T18:23:32Z",
-      "hours_trending": 6,
-      "volume": "6hr trend",
-      "volume_value": 6,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 7,
+      "volume": "7hr trend",
+      "volume_value": 7,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "juice-scruggs",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Juice Scruggs",
+      "description": "Juice Scruggs is trending following NFL roster updates and discussions regarding his role in strengthening the Lions.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Juice%20Scruggs",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.7vmZYKCj4kbUnLlzQQo8Iw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T19:23:35Z",
+      "first_seen": "2026-11-26T19:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "go-birds",
+      "rank": 20,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-26T16:23:34Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-26T17:23:34Z",
+          "r": 9
+        },
+        {
+          "t": "2026-11-26T18:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-26T19:23:35Z",
+          "r": 20
+        }
+      ],
+      "rank_change": -10,
+      "is_new": false,
+      "topic": "Go Birds",
+      "description": "Go Birds is trending on social media as local sports fans and publications share holiday reflections and final game matchups.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Go%20Birds",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0KZa8B5WUwpfB-o4sdRbYwHaCx&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T16:23:34Z",
+      "first_seen": "2026-11-26T16:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-26T19:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     }
