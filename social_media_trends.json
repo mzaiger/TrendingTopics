@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-27T00:24:49Z",
+  "updated": "2026-11-27T01:25:16Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -36,12 +36,16 @@
         {
           "t": "2026-11-27T00:23:32Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 1
         }
       ],
       "rank_change": 0,
       "is_new": false,
       "topic": "Thanksgiving",
-      "description": "Severe storms across the US have disrupted holiday travel and forced Thanksgiving parade cancellations, while NFL matchups and holiday store hours dominate festive news.",
+      "description": "Severe storms across the US have disrupted travel and forced the cancellation of Thanksgiving parades, while store holiday hours and Thanksgiving messages from political figures draw attention on social media.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Thanksgiving",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.Ub9ehFx5CkA4cqwp83NXXA&pid=15.1",
@@ -50,10 +54,10 @@
       "started_trending": "2026-11-26T15:23:37Z",
       "first_seen": "2026-11-26T15:23:37Z",
       "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -70,12 +74,16 @@
         {
           "t": "2026-11-27T00:23:32Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 2
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Joe Milton",
-      "description": "Joe Milton is drawing major attention on social media after stepping in as the starting quarterback for the Eagles against the Cowboys on Thanksgiving, highlighted by an impressive 50-yard touchdown pass to DeVonta Smith.",
+      "description": "Philadelphia Eagles quarterback Joe Milton is generating significant social media buzz following his impressive performance and multiple touchdown passes against the Dallas Cowboys on Thanksgiving.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Joe%20Milton",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.sym8bDsEW/q4okvw5ajWTQ&pid=15.1",
@@ -84,7 +92,37 @@
       "started_trending": "2026-11-26T23:23:35Z",
       "first_seen": "2026-11-26T23:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cowboys",
+      "rank": 3,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 3
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cowboys",
+      "description": "The Dallas Cowboys are trending on social media during their Thanksgiving matchup against the Philadelphia Eagles, featuring a halftime performance by Miranda Lambert and key game-day plays.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Cowboys",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.DvOOcuuWsPOmhFEt51pjlg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -92,33 +130,67 @@
       "extra": {}
     },
     {
-      "id": "eagles",
-      "rank": 3,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "id": "smitty",
+      "rank": 4,
+      "previous_rank": 9,
+      "rank_4h_ago": 9,
       "rank_history": [
         {
           "t": "2026-11-26T23:23:35Z",
-          "r": 5
+          "r": 9
         },
         {
           "t": "2026-11-27T00:23:32Z",
-          "r": 3
+          "r": 9
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 4
         }
       ],
-      "rank_change": 2,
+      "rank_change": 5,
       "is_new": false,
-      "topic": "Eagles",
-      "description": "The Philadelphia Eagles are trending due to their Thanksgiving matchup against the Dallas Cowboys, featuring key injuries such as Cooper DeJean's concussion and intense on-field action.",
+      "topic": "Smitty",
+      "description": "Smitty is trending due to mentions in soap opera spoilers for Beyond the Gates, alongside news of a Canadian restaurant opening and an obituary.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Eagles",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.C7QT8uEIQ9AWz8bhBq7wQQ&pid=15.1",
+      "url": "https://sotwe.com/search/Smitty",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.3WsErEH1RB-QdxEDF6LhBAHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-26T23:23:35Z",
       "first_seen": "2026-11-26T23:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "aubrey",
+      "rank": 5,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 5
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Aubrey",
+      "description": "Dallas Cowboys kicker Brandon Aubrey is drawing attention on social media after a 59-yard field goal and a notable kickoff against the Philadelphia Eagles.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Aubrey",
+      "image_url": "https://ts3.explicit.bing.net/th?id=OIP.Y807oKpQ6lZ1G86tm4Jm0QHaGV&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -126,8 +198,84 @@
       "extra": {}
     },
     {
+      "id": "phivsdal",
+      "rank": 6,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-26T23:23:35Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-27T00:23:32Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 11,
+      "is_new": false,
+      "topic": "#PHIvsDAL",
+      "description": "NFL fans are heavily reacting online to the Thanksgiving matchup between the Eagles and Cowboys, particularly focusing on standout plays and Joe Milton's performance.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/%23PHIvsDAL",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.MAoWRoOJhYC0GolWBAtwyA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T23:23:35Z",
+      "first_seen": "2026-11-26T23:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "devonta-smith",
+      "rank": 7,
+      "previous_rank": 20,
+      "rank_4h_ago": 20,
+      "rank_history": [
+        {
+          "t": "2026-11-26T23:23:35Z",
+          "r": 20
+        },
+        {
+          "t": "2026-11-27T00:23:32Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 13,
+      "is_new": false,
+      "topic": "Devonta Smith",
+      "description": "Philadelphia Eagles wide receiver DeVonta Smith is trending on social media after catching multiple touchdown passes from Joe Milton during the Thanksgiving game against the Cowboys.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Devonta%20Smith",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.bIACajmlnA96v3iEtAYmwgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-26T23:23:35Z",
+      "first_seen": "2026-11-26T23:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "bears",
-      "rank": 4,
+      "rank": 8,
       "previous_rank": 3,
       "rank_4h_ago": 3,
       "rank_history": [
@@ -154,12 +302,16 @@
         {
           "t": "2026-11-27T00:23:32Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 8
         }
       ],
-      "rank_change": -1,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Bears",
-      "description": "The Chicago Bears are trending after securing a thrilling, dramatic comeback win over the Detroit Lions on Thanksgiving, propelled by late heroics from Caleb Williams and Rome Odunze to move into first place in the NFC North.",
+      "description": "The Chicago Bears are trending after securing a dramatic, last-minute Thanksgiving comeback win over the Detroit Lions to move into first place in the NFC North.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Bears",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.Wh5rtrCoaUAUxGBdoSoVFAHaGa&pid=15.1",
@@ -168,16 +320,46 @@
       "started_trending": "2026-11-26T19:23:35Z",
       "first_seen": "2026-11-26T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tom-brady",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Tom Brady",
+      "description": "Tom Brady is generating social media discussion after publicly weighing in on Aaron Rodgers' critical remarks regarding Mike McCarthy and Bill Belichick.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Tom%20Brady",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.PDZB7zpUhqtJhfKvph6SqQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "gibbs",
-      "rank": 5,
+      "rank": 10,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -204,12 +386,16 @@
         {
           "t": "2026-11-27T00:23:32Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 10
         }
       ],
-      "rank_change": 3,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Gibbs",
-      "description": "Jahmyr Gibbs is generating online buzz after a historic performance against the Bears where he surpassed Barry Sanders by recording 53 rushing touchdowns before turning 25, alongside a massive fantasy football output.",
+      "description": "Detroit Lions running back Jahmyr Gibbs is trending after achieving a historic milestone and a massive fantasy football performance despite a narrow loss to the Bears.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Gibbs",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.rqArQrfV6skiclcxFpYpRwHaE8&pid=15.1",
@@ -218,16 +404,140 @@
       "started_trending": "2026-11-26T19:23:35Z",
       "first_seen": "2026-11-26T19:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "bazooka-joe",
+      "rank": 11,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-27T00:23:32Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 1,
+      "is_new": false,
+      "topic": "Bazooka Joe",
+      "description": "Joe Milton, nicknamed Bazooka Joe in recent highlights, is trending online for his powerful deep-ball touchdown passes for the Eagles against the Cowboys.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Bazooka%20Joe",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.v5Jcu14rLvF1LjJV/IhYdA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T00:23:32Z",
+      "first_seen": "2026-11-27T00:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "sirianni",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Sirianni",
+      "description": "Philadelphia Eagles head coach Nick Sirianni is trending on social media following heated sideline interactions with players like Saquon Barkley during the Thanksgiving game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Sirianni",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.spI9kxK0pE7k7QVps7vE1AAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lions",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Lions",
+      "description": "The Detroit Lions are trending after suffering a heartbreaking, last-second Thanksgiving loss to the Chicago Bears that dropped them from the top of the division.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Lions",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.U4bfmSDpglpEXxl6VRT7DA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "going-for-2",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Going for 2",
+      "description": "Social media is discussing late-game strategy decisions, including a notable choice by Dan Quinn to kick a field goal instead of going for a fourth-down conversion.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Going%20for%202",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.zVbGmMly2r_RYK83FjcEAgHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "caleb",
-      "rank": 6,
+      "rank": 15,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -250,12 +560,16 @@
         {
           "t": "2026-11-27T00:23:32Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 15
         }
       ],
-      "rank_change": 0,
+      "rank_change": -9,
       "is_new": false,
       "topic": "Caleb",
-      "description": "Chicago Bears quarterback Caleb Williams is trending on social media after leading an instant-classic Thanksgiving comeback win over the Lions, followed by news that he underwent X-rays and is being monitored on the injury watch.",
+      "description": "Chicago Bears quarterback Caleb Williams is trending after leading a dramatic Thanksgiving comeback win over the Lions and subsequently undergoing X-rays.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Caleb",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.MLvWdpDBW8nLBmRQh3R1Pw&pid=15.1",
@@ -264,28 +578,92 @@
       "started_trending": "2026-11-26T20:23:32Z",
       "first_seen": "2026-11-26T20:23:32Z",
       "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "jalen",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Jalen",
+      "description": "Eagles quarterback Jalen Hurts is trending after updates revealed he is expected to miss the rest of the season due to blood clots in his lungs.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Jalen",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.N/Ojs6C1h22o6TLpe3loIA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "schotty",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 17
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Schotty",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/Schotty",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.VCfdTKN0b8Dr8Bx09gtzkwHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
+      "published": null,
+      "last_seen": "2026-11-27T01:23:32Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "miranda-lambert",
-      "rank": 7,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 18,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
       "rank_history": [
         {
           "t": "2026-11-27T00:23:32Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-27T01:23:32Z",
+          "r": 18
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -11,
+      "is_new": false,
       "topic": "Miranda Lambert",
-      "description": "Miranda Lambert is trending after headlining the Dallas Cowboys Thanksgiving Day halftime show, treating the crowd to a spectacular medley of her hit songs and a full-circle performance moment.",
+      "description": "Miranda Lambert is receiving major social media attention for her crowd-pleasing halftime show performance during the Thanksgiving game between the Dallas Cowboys and Philadelphia Eagles.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Miranda%20Lambert",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.xt7g5AGHokr0Gd9L4OJZCg&pid=15.1",
@@ -294,367 +672,7 @@
       "started_trending": "2026-11-27T00:23:32Z",
       "first_seen": "2026-11-27T00:23:32Z",
       "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dan-campbell",
-      "rank": 8,
-      "previous_rank": 11,
-      "rank_4h_ago": 11,
-      "rank_history": [
-        {
-          "t": "2026-11-26T20:23:32Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-26T21:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-26T22:23:36Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-26T23:23:35Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Dan Campbell",
-      "description": "Detroit Lions coach Dan Campbell is facing heavy discussion after a trademark fourth-down gamble backfired during their Thanksgiving game, paving the way for a stunning comeback victory by the Chicago Bears.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Dan%20Campbell",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ILXXuUrG9LWGWUHTJwu7-QHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T20:23:32Z",
-      "first_seen": "2026-11-26T20:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "smitty",
-      "rank": 9,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-26T23:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 0,
-      "is_new": false,
-      "topic": "Smitty",
-      "description": "Smitty is trending as social media users react to a viral 50-yard touchdown pass from Joe Milton to DeVonta Smith, alongside unrelated local business and television spoiler headlines.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Smitty",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.3WsErEH1RB-QdxEDF6LhBAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T23:23:35Z",
-      "first_seen": "2026-11-26T23:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "phivsdal",
-      "rank": 10,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-26T23:23:35Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 10
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "#PHIvsDAL",
-      "description": "The hashtag #PHIvsDAL is trending as football fans on social media follow live updates, player arrivals like CeeDee Lamb, and standout Thanksgiving plays during the Eagles and Cowboys matchup.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23PHIvsDAL",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.MAoWRoOJhYC0GolWBAtwyA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T23:23:35Z",
-      "first_seen": "2026-11-26T23:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "devonta-smith",
-      "rank": 11,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-11-26T23:23:35Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 11
-        }
-      ],
-      "rank_change": 9,
-      "is_new": false,
-      "topic": "Devonta Smith",
-      "description": "DeVonta Smith is trending after catching a reported 50-yard touchdown pass from quarterback Joe Milton during the Eagles' Thanksgiving game against the Cowboys.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Devonta%20Smith",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.bIACajmlnA96v3iEtAYmwgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T23:23:35Z",
-      "first_seen": "2026-11-26T23:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bazooka-joe",
-      "rank": 12,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 12
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Bazooka Joe",
-      "description": "Joe Milton is drawing heavy social media attention under the nickname Bazooka Joe as he steps up from the practice squad to start at quarterback for the Eagles on Thanksgiving, highlighted by a massive 50-yard touchdown throw.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Bazooka%20Joe",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.v5Jcu14rLvF1LjJV/IhYdA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T00:23:32Z",
-      "first_seen": "2026-11-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "javonte",
-      "rank": 13,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 13
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Javonte",
-      "description": "Javonte Williams is trending after scoring three touchdowns in the first half alone to extend the Dallas Cowboys' lead over the Philadelphia Eagles on Thanksgiving.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Javonte",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.jXjGGeJzw6iQT4awfjJTEQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T00:23:32Z",
-      "first_seen": "2026-11-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "thankful",
-      "rank": 14,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-26T19:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-26T20:23:32Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-26T21:23:35Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-26T22:23:36Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-26T23:23:35Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -7,
-      "is_new": false,
-      "topic": "Thankful",
-      "description": "Social media users are sharing their personal holiday lists, articles, and reflections on what they are thankful for this Thanksgiving season.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Thankful",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.0mE4PxwwlanyS2492XbfZw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T11:23:35Z",
-      "first_seen": "2026-11-26T11:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 12,
-      "volume": "12hr trend",
-      "volume_value": 12,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "saquon",
-      "rank": 15,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-26T23:23:35Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 15
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "Saquon",
-      "description": "Saquon Barkley is generating concern after sustaining a stinger injury that left him questionable to return during the Eagles' Thanksgiving game against the Cowboys.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Saquon",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.U6S9wfXraxwVuf9SXVovPQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T23:23:35Z",
-      "first_seen": "2026-11-26T23:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "george-pickens",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "George Pickens",
-      "description": "George Pickens is trending following a dropped pass on a potential 63-yard touchdown launch from Dak Prescott during the Cowboys' game against the Eagles.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/George%20Pickens",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.SKKhUrvnDgXaxI5kGHKdhQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T00:23:32Z",
-      "first_seen": "2026-11-27T00:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "beardown",
-      "rank": 17,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-26T22:23:36Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-26T23:23:35Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "#BearDown",
-      "description": "The hashtag #BearDown is trending as NFL fans react with excitement to the Chicago Bears' stunning Thanksgiving comeback win over the Detroit Lions.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23BearDown",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.0acuS5GE8-iV4ARdOWvwtwHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T22:23:36Z",
-      "first_seen": "2026-11-26T22:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
+      "last_seen": "2026-11-27T01:23:32Z",
       "hours_trending": 1,
       "volume": "1hr trend",
       "volume_value": 1,
@@ -662,67 +680,29 @@
       "extra": {}
     },
     {
-      "id": "rome-odunze",
-      "rank": 18,
-      "previous_rank": 8,
-      "rank_4h_ago": 8,
-      "rank_history": [
-        {
-          "t": "2026-11-26T22:23:36Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-26T23:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-27T00:23:32Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -10,
-      "is_new": false,
-      "topic": "Rome Odunze",
-      "description": "Rome Odunze is trending after catching a game-winning, 41-yard touchdown pass from Caleb Williams with just three seconds left to secure a thrilling 39-35 Thanksgiving victory over the Lions.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rome%20Odunze",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.raGAteRSE/mqHa5oqF0atw&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-26T22:23:36Z",
-      "first_seen": "2026-11-26T22:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "turkey",
+      "id": "pickens",
       "rank": 19,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-27T00:23:32Z",
+          "t": "2026-11-27T01:23:32Z",
           "r": 19
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Turkey",
-      "description": "Turkey is trending across social media and news outlets due to annual Thanksgiving Turkey Trot 5K attendance records, safety warnings regarding turkey fryers, and a food safety report on Salmonella found in ground turkey.",
+      "topic": "Pickens",
+      "description": "George Pickens is trending after hauling in a long pass from Dak Prescott during the Thanksgiving game against the Philadelphia Eagles.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Turkey",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.W9ezwm2LATC6sOs1pDwF_AHaLH&pid=15.1",
+      "url": "https://sotwe.com/search/Pickens",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.3jkmINavU5XmokJu96vQiQHaE7&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-27T00:23:32Z",
-      "first_seen": "2026-11-27T00:23:32Z",
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
+      "last_seen": "2026-11-27T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -730,33 +710,29 @@
       "extra": {}
     },
     {
-      "id": "turpin",
+      "id": "barkley",
       "rank": 20,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-26T23:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-27T00:23:32Z",
+          "t": "2026-11-27T01:23:32Z",
           "r": 20
         }
       ],
-      "rank_change": -8,
-      "is_new": false,
-      "topic": "Turpin",
-      "description": "KaVontae Turpin is trending after using his speed to burn the Eagles for a 31-yard touchdown reception from Dak Prescott during the Cowboys' Thanksgiving game.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Barkley",
+      "description": "Philadelphia Eagles running back Saquon Barkley is trending after being sidelined and listed as questionable to return due to a stinger sustained against the Cowboys.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Turpin",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.c2NzfepB81vHRiO9VRNOyw&pid=15.1",
+      "url": "https://sotwe.com/search/Barkley",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIF.bbdbJTxwvrsC6bLVDc4tFg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-26T23:23:35Z",
-      "first_seen": "2026-11-26T23:23:35Z",
+      "started_trending": "2026-11-27T01:23:32Z",
+      "first_seen": "2026-11-27T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-27T00:23:32Z",
+      "last_seen": "2026-11-27T01:23:32Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
