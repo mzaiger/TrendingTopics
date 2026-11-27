@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-27T04:25:11Z",
+  "updated": "2026-11-27T05:25:03Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -28,12 +28,16 @@
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 1
         }
       ],
       "rank_change": 2,
       "is_new": false,
       "topic": "Cowboys",
-      "description": "The Dallas Cowboys are trending after suffering a historic 39-38 comeback loss to the Philadelphia Eagles on Thanksgiving.",
+      "description": "The Dallas Cowboys are trending after suffering a historic 39-38 Thanksgiving loss to the Philadelphia Eagles, blowing a late lead in a stunning comeback.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Cowboys",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.DvOOcuuWsPOmhFEt51pjlg&pid=15.1",
@@ -42,54 +46,16 @@
       "started_trending": "2026-11-27T01:23:32Z",
       "first_seen": "2026-11-27T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "josh-allen",
-      "rank": 2,
-      "previous_rank": 18,
-      "rank_4h_ago": 18,
-      "rank_history": [
-        {
-          "t": "2026-11-27T02:23:35Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-27T03:23:34Z",
-          "r": 8
-        },
-        {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 2
-        }
-      ],
-      "rank_change": 16,
-      "is_new": false,
-      "topic": "Josh Allen",
-      "description": "Josh Allen and the Buffalo Bills are trending as they renew their high-profile rivalry against the Kansas City Chiefs.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Josh%20Allen",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.-wdISsuQaSHOngYDjTyP9wHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T02:23:35Z",
-      "first_seen": "2026-11-27T02:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "chiefs",
-      "rank": 3,
+      "rank": 2,
       "previous_rank": 6,
       "rank_4h_ago": 6,
       "rank_history": [
@@ -104,12 +70,16 @@
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 2
         }
       ],
-      "rank_change": 3,
+      "rank_change": 4,
       "is_new": false,
       "topic": "Chiefs",
-      "description": "The Kansas City Chiefs are trending following their Thanksgiving matchup against the Buffalo Bills.",
+      "description": "The Kansas City Chiefs are trending following a heartbreaking 13-10 loss to the Buffalo Bills on Thanksgiving night.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Chiefs",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.FfQCyAsPZivmfME/5StdGg&pid=15.1",
@@ -118,7 +88,7 @@
       "started_trending": "2026-11-27T02:23:35Z",
       "first_seen": "2026-11-27T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
+      "last_seen": "2026-11-27T05:23:34Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -126,8 +96,84 @@
       "extra": {}
     },
     {
-      "id": "joe-milton",
+      "id": "josh-allen",
+      "rank": 3,
+      "previous_rank": 18,
+      "rank_4h_ago": 18,
+      "rank_history": [
+        {
+          "t": "2026-11-27T02:23:35Z",
+          "r": 18
+        },
+        {
+          "t": "2026-11-27T03:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-27T04:23:36Z",
+          "r": 2
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 3
+        }
+      ],
+      "rank_change": 15,
+      "is_new": false,
+      "topic": "Josh Allen",
+      "description": "Josh Allen and the Buffalo Bills survived a rainy Thanksgiving matchup against the Kansas City Chiefs, securing a 13-10 victory.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Josh%20Allen",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.-wdISsuQaSHOngYDjTyP9wHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T02:23:35Z",
+      "first_seen": "2026-11-27T02:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "butker",
       "rank": 4,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
+      "rank_history": [
+        {
+          "t": "2026-11-27T04:23:36Z",
+          "r": 6
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 4
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Butker",
+      "description": "Harrison Butker is facing questions about his future with the Kansas City Chiefs after missing his eighth field goal of the season in a Thanksgiving loss to the Bills.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Butker",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.Nh9X2l9hs2Swd/f/CxpYTw&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T04:23:36Z",
+      "first_seen": "2026-11-27T04:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "joe-milton",
+      "rank": 5,
       "previous_rank": 2,
       "rank_4h_ago": 2,
       "rank_history": [
@@ -154,12 +200,16 @@
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 5
         }
       ],
-      "rank_change": -2,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Joe Milton",
-      "description": "Joe Milton is trending after leading the Philadelphia Eagles to a stunning, historic comeback victory over the Dallas Cowboys.",
+      "description": "Joe Milton led the Philadelphia Eagles in a miraculous, historic Thanksgiving comeback to shock the Dallas Cowboys 39-38.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Joe%20Milton",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.sym8bDsEW/q4okvw5ajWTQ&pid=15.1",
@@ -168,7 +218,7 @@
       "started_trending": "2026-11-26T23:23:35Z",
       "first_seen": "2026-11-26T23:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
+      "last_seen": "2026-11-27T05:23:34Z",
       "hours_trending": 5,
       "volume": "5hr trend",
       "volume_value": 5,
@@ -177,19 +227,23 @@
     },
     {
       "id": "eagles",
-      "rank": 5,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 6,
+      "previous_rank": 5,
+      "rank_4h_ago": 5,
       "rank_history": [
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 6
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "Eagles",
-      "description": "The Philadelphia Eagles are trending after pulling off a historic 21-point comeback victory to defeat the Dallas Cowboys 39-38 on Thanksgiving.",
+      "description": "The Philadelphia Eagles pulled off the biggest comeback on Thanksgiving in NFL history, stunning the Dallas Cowboys 39-38.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Eagles",
       "image_url": "https://ts3.mm.bing.net/th?id=OIF.kKHOoFBpNusOFMlXHqFlkA&pid=15.1",
@@ -198,7 +252,7 @@
       "started_trending": "2026-11-27T04:23:36Z",
       "first_seen": "2026-11-27T04:23:36Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
+      "last_seen": "2026-11-27T05:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -206,29 +260,29 @@
       "extra": {}
     },
     {
-      "id": "butker",
-      "rank": 6,
+      "id": "tyler-bass",
+      "rank": 7,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 6
+          "t": "2026-11-27T05:23:34Z",
+          "r": 7
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Butker",
-      "description": "Harrison Butker is trending following his crucial field goal efforts for the Chiefs during their Thanksgiving game against the Bills.",
+      "topic": "Tyler Bass",
+      "description": "Tyler Bass kicked a walk-off 57-yard field goal to lift the Buffalo Bills to a 13-10 victory over the Kansas City Chiefs on Thanksgiving.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Butker",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.Nh9X2l9hs2Swd/f/CxpYTw&pid=15.1",
+      "url": "https://sotwe.com/search/Tyler%20Bass",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.mfFxMPCaBObw5/BeCFXUAw&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-27T04:23:36Z",
-      "first_seen": "2026-11-27T04:23:36Z",
+      "started_trending": "2026-11-27T05:23:34Z",
+      "first_seen": "2026-11-27T05:23:34Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
+      "last_seen": "2026-11-27T05:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -237,7 +291,7 @@
     },
     {
       "id": "jerry",
-      "rank": 7,
+      "rank": 8,
       "previous_rank": 4,
       "rank_4h_ago": 4,
       "rank_history": [
@@ -252,12 +306,16 @@
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 8
         }
       ],
-      "rank_change": -3,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Jerry",
-      "description": "Jerry Jones is trending after facing intense scrutiny and taking accountability following the Cowboys' historic Thanksgiving collapse against the Eagles.",
+      "description": "Dallas Cowboys owner Jerry Jones called the team's historic Thanksgiving collapse against the Philadelphia Eagles a bitter disappointment.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Jerry",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.TVo37_IDLph-nJ3ief82FAHaE8&pid=15.1",
@@ -266,7 +324,7 @@
       "started_trending": "2026-11-27T02:23:35Z",
       "first_seen": "2026-11-27T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
+      "last_seen": "2026-11-27T05:23:34Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -274,8 +332,42 @@
       "extra": {}
     },
     {
+      "id": "mahomes",
+      "rank": 9,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-27T04:23:36Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 9
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Mahomes",
+      "description": "Patrick Mahomes and the Kansas City Chiefs are trending following their Thanksgiving Day matchup against the Buffalo Bills.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Mahomes",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xrHpLVyrlOAPVjrY23x5CQHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T04:23:36Z",
+      "first_seen": "2026-11-27T04:23:36Z",
+      "published": null,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "goo-goo-dolls",
-      "rank": 8,
+      "rank": 10,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -286,12 +378,16 @@
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 8
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 10
         }
       ],
-      "rank_change": -3,
+      "rank_change": -5,
       "is_new": false,
       "topic": "Goo Goo Dolls",
-      "description": "The Goo Goo Dolls are trending after being bumped from their scheduled Thanksgiving Day halftime show by NBC during the Bills-Chiefs broadcast.",
+      "description": "The Goo Goo Dolls are trending on social media after NBC bumped their Thanksgiving Day halftime show during the Bills-Chiefs broadcast.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Goo%20Goo%20Dolls",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.wHWA754nHBqE_H07XmBEPAHaF7&pid=15.1",
@@ -300,62 +396,32 @@
       "started_trending": "2026-11-27T03:23:34Z",
       "first_seen": "2026-11-27T03:23:34Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "buffalo",
-      "rank": 9,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-27T03:23:34Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 9
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Buffalo",
-      "description": "Buffalo is trending as the Bills take on the Kansas City Chiefs in a major Thanksgiving football matchup.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Buffalo",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Xt7aYXVg55a4X2xCWD_EmgHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T03:23:34Z",
-      "first_seen": "2026-11-27T03:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "kcvsbuf",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "rank": 11,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
       "rank_history": [
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 11
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": -1,
+      "is_new": false,
       "topic": "#KCvsBUF",
-      "description": "The hashtag #KCvsBUF is trending as fans and the NFL community share live updates and reactions to the Thanksgiving Day matchup between the Chiefs and Bills.",
+      "description": "Fans on social media are celebrating the 2026 Thanksgiving Day NFL matchup between the Buffalo Bills and Kansas City Chiefs.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23KCvsBUF",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.FfQCyAsPZivmfME/5StdGg&pid=15.1",
@@ -364,7 +430,37 @@
       "started_trending": "2026-11-27T04:23:36Z",
       "first_seen": "2026-11-27T04:23:36Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "andy-reid",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Andy Reid",
+      "description": "Chiefs coach Andy Reid addressed Harrison Butker's kicking struggles and provided injury updates following the team's Thanksgiving loss to the Bills.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Andy%20Reid",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Xb8Rnbhp8br6RCVU0NlQ6QHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T05:23:34Z",
+      "first_seen": "2026-11-27T05:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-27T05:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -373,7 +469,7 @@
     },
     {
       "id": "tom-brady",
-      "rank": 11,
+      "rank": 13,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -392,12 +488,16 @@
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 13
         }
       ],
-      "rank_change": -2,
+      "rank_change": -4,
       "is_new": false,
       "topic": "Tom Brady",
-      "description": "Tom Brady is trending after publicly weighing in on the Aaron Rodgers and Mike McCarthy situation, stating that nobody wins when family feuds.",
+      "description": "Tom Brady weighed in on Aaron Rodgers' recent comments about Mike McCarthy, stating that nobody wins when family feuds.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Tom%20Brady",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.PDZB7zpUhqtJhfKvph6SqQHaE8&pid=15.1",
@@ -406,37 +506,101 @@
       "started_trending": "2026-11-27T01:23:32Z",
       "first_seen": "2026-11-27T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "mahomes",
-      "rank": 12,
+      "id": "rice",
+      "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 12
+          "t": "2026-11-27T05:23:34Z",
+          "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Mahomes",
-      "description": "Patrick Mahomes is trending as he leads the Kansas City Chiefs in their Thanksgiving clash against the Buffalo Bills.",
+      "topic": "Rice",
+      "description": "Rashee Rice is trending as football fans discuss an overturned catch during the Chiefs-Bills Thanksgiving game.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mahomes",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.xrHpLVyrlOAPVjrY23x5CQHaE8&pid=15.1",
+      "url": "https://sotwe.com/search/Rice",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.GEjVBBdyAQVs_jG_6crWKQHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T05:23:34Z",
+      "first_seen": "2026-11-27T05:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "kelce",
+      "rank": 15,
+      "previous_rank": 17,
+      "rank_4h_ago": 17,
+      "rank_history": [
+        {
+          "t": "2026-11-27T04:23:36Z",
+          "r": 17
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 15
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "Kelce",
+      "description": "Travis Kelce is trending after playing through a hard hit to the back during the Chiefs' Thanksgiving game against the Bills.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Kelce",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Fdw0xugVwECsg4XDntVmQQHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
       "started_trending": "2026-11-27T04:23:36Z",
       "first_seen": "2026-11-27T04:23:36Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "james-cook",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "James Cook",
+      "description": "James Cook made NFL history and opened the scoring with his 11th touchdown of 2026 during the Thanksgiving game against the Chiefs.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/James%20Cook",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.4rCug_x3-jzyBDTokiBCsAHaDt&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T05:23:34Z",
+      "first_seen": "2026-11-27T05:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-27T05:23:34Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -445,7 +609,7 @@
     },
     {
       "id": "go-birds",
-      "rank": 13,
+      "rank": 17,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -460,12 +624,16 @@
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 17
         }
       ],
-      "rank_change": -5,
+      "rank_change": -9,
       "is_new": false,
       "topic": "Go Birds",
-      "description": "The phrase 'Go Birds' is trending on social media as fans celebrate the Philadelphia Eagles' dramatic Thanksgiving comeback win over the Cowboys.",
+      "description": "The Philadelphia Eagles' stunning Thanksgiving comeback win over the Cowboys left prominent figures like Jason Kelce and Caitlin Clark reacting on social media.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Go%20Birds",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.C7QT8uEIQ9AWz8bhBq7wQQ&pid=15.1",
@@ -474,7 +642,7 @@
       "started_trending": "2026-11-27T02:23:35Z",
       "first_seen": "2026-11-27T02:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
+      "last_seen": "2026-11-27T05:23:34Z",
       "hours_trending": 2,
       "volume": "2hr trend",
       "volume_value": 2,
@@ -482,8 +650,68 @@
       "extra": {}
     },
     {
+      "id": "louisville",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Louisville",
+      "description": "Louisville is trending after holding off St. John's in a dramatic Rick Pitino reunion college basketball game.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Louisville",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.flpjMuW28--bXNKB_LLRZAHaD4&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T05:23:34Z",
+      "first_seen": "2026-11-27T05:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "the-nfl",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "The NFL",
+      "description": "The NFL Thanksgiving tripleheader delivered instant classics as the Bears, Eagles, and Bills secured victories on social media.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/The%20NFL",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.ftxcq13xPKraVkNXfR0AaQHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T05:23:34Z",
+      "first_seen": "2026-11-27T05:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
       "id": "schotty",
-      "rank": 14,
+      "rank": 20,
       "previous_rank": 17,
       "rank_4h_ago": 17,
       "rank_history": [
@@ -502,12 +730,16 @@
         {
           "t": "2026-11-27T04:23:36Z",
           "r": 14
+        },
+        {
+          "t": "2026-11-27T05:23:34Z",
+          "r": 20
         }
       ],
-      "rank_change": 3,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Schotty",
-      "description": "Cowboys coach Brian Schottenheimer is trending following the team's historic Thanksgiving collapse against the Eagles.",
+      "description": "Brian Schottenheimer and the Dallas Cowboys face intense scrutiny following their historic Thanksgiving collapse against the Philadelphia Eagles.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Schotty",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.VCfdTKN0b8Dr8Bx09gtzkwHaEK&pid=15.1",
@@ -516,206 +748,10 @@
       "started_trending": "2026-11-27T01:23:32Z",
       "first_seen": "2026-11-27T01:23:32Z",
       "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "rashee-rice",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Rashee Rice",
-      "description": "Rashee Rice is trending as football fans check their fantasy football rankings and review his recent performance and contract status with the Chiefs.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Rashee%20Rice",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.bADEkN3A_1wCkx0-5ipMhQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T04:23:36Z",
-      "first_seen": "2026-11-27T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "collinsworth",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Collinsworth",
-      "description": "Broadcaster Collinsworth is trending as fans discuss the announcing crew for the Thanksgiving Day game between the Chiefs and Bills.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Collinsworth",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.3RelbuX78GiTfEP9SCbpGg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T04:23:36Z",
-      "first_seen": "2026-11-27T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "kelce",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Kelce",
-      "description": "Travis Kelce is trending after scoring a touchdown in his 100th regular season home game and staying in the Chiefs' Thanksgiving game following a hard hit.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Kelce",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.Fdw0xugVwECsg4XDntVmQQHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T04:23:36Z",
-      "first_seen": "2026-11-27T04:23:36Z",
-      "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "iris",
-      "rank": 18,
-      "previous_rank": 14,
-      "rank_4h_ago": 14,
-      "rank_history": [
-        {
-          "t": "2026-11-27T03:23:34Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Iris",
-      "description": "Iris is trending across recent news covering AI power struggles, award-winning films, and community center openings.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Iris",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.sXfiaZfP21qBjTx-71GP7wHaED&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T03:23:34Z",
-      "first_seen": "2026-11-27T03:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "mike-tomlin",
-      "rank": 19,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-27T03:23:34Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Mike Tomlin",
-      "description": "Mike Tomlin is trending after bluntly describing the ongoing situation surrounding Aaron Rodgers and Mike McCarthy in Pittsburgh as a 'dumpster fire.'",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Mike%20Tomlin",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.u_-9AdJ8cwuVMekRjFTwdgHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T03:23:34Z",
-      "first_seen": "2026-11-27T03:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "brian-schottenheimer",
-      "rank": 20,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-27T02:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-27T03:23:34Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-27T04:23:36Z",
-          "r": 20
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Brian Schottenheimer",
-      "description": "Brian Schottenheimer is trending after taking the blame for the Dallas Cowboys' historic 21-point collapse against the Philadelphia Eagles.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Brian%20Schottenheimer",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.fAAa0MfYB-I7VTG3nHv-sAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T02:23:35Z",
-      "first_seen": "2026-11-27T02:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T04:23:36Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-27T05:23:34Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     }
