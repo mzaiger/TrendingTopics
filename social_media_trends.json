@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-27T13:27:44Z",
+  "updated": "2026-11-27T14:25:28Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -24,12 +24,16 @@
         {
           "t": "2026-11-27T13:23:40Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Black Friday",
-      "description": "Shoppers are searching for holiday bargains as major retailers roll out popular Black Friday deals and discounts on electronics, toys, and appliances.",
+      "description": "Shoppers are tracking major holiday discounts and store hours as retailers like Walmart, Target, Lowe's, and Best Buy kick off their Black Friday sales.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Black%20Friday",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.UlHnUWTtTHWOrOuJdHjVwwHaE7&pid=15.1",
@@ -38,29 +42,33 @@
       "started_trending": "2026-11-27T11:23:43Z",
       "first_seen": "2026-11-27T11:23:43Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "good-friday",
       "rank": 2,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 2,
+      "rank_4h_ago": 2,
       "rank_history": [
         {
           "t": "2026-11-27T13:23:40Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 2
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Good Friday",
-      "description": "",
-      "description_source": "",
+      "description": "The material does not provide enough clear information to explain why this topic is trending.",
+      "description_source": "gemini",
       "url": "https://sotwe.com/search/Good%20Friday",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.xuJP97yluNtl8aCzVSr5Qw&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -68,7 +76,7 @@
       "started_trending": "2026-11-27T13:23:40Z",
       "first_seen": "2026-11-27T13:23:40Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
+      "last_seen": "2026-11-27T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -78,19 +86,23 @@
     {
       "id": "cloud-one",
       "rank": 3,
-      "previous_rank": null,
-      "rank_4h_ago": null,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-11-27T13:23:40Z",
           "r": 3
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": null,
-      "is_new": true,
+      "rank_change": 0,
+      "is_new": false,
       "topic": "Cloud One",
-      "description": "",
-      "description_source": "",
+      "description": "Reports reveal that hackers have reportedly breached the U.S. Air Force's flagship Cloud One computing platform, prompting investigations.",
+      "description_source": "gemini",
       "url": "https://sotwe.com/search/Cloud%20One",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.86Jau7om3Zv9deG-KQLaYwHaEx&pid=15.1",
       "image_source": "duckduckgo_thumb",
@@ -98,7 +110,7 @@
       "started_trending": "2026-11-27T13:23:40Z",
       "first_seen": "2026-11-27T13:23:40Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
+      "last_seen": "2026-11-27T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -106,46 +118,8 @@
       "extra": {}
     },
     {
-      "id": "red-friday",
-      "rank": 4,
-      "previous_rank": 7,
-      "rank_4h_ago": 7,
-      "rank_history": [
-        {
-          "t": "2026-11-27T11:23:43Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-27T12:23:35Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 4
-        }
-      ],
-      "rank_change": 3,
-      "is_new": false,
-      "topic": "RED Friday",
-      "description": "Shoppers and retailers are discussing Red Friday wellness discounts and shipping capacity impacts following the Thanksgiving holiday shopping rush.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/RED%20Friday",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.UlHnUWTtTHWOrOuJdHjVwwHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T11:23:43Z",
-      "first_seen": "2026-11-27T11:23:43Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
       "id": "evafarmsight",
-      "rank": 5,
+      "rank": 4,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -164,9 +138,13 @@
         {
           "t": "2026-11-27T13:23:40Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 4
         }
       ],
-      "rank_change": 3,
+      "rank_change": 4,
       "is_new": false,
       "topic": "EvaFarmSight",
       "description": "",
@@ -178,7 +156,7 @@
       "started_trending": "2026-11-27T10:23:40Z",
       "first_seen": "2026-11-27T10:23:40Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
+      "last_seen": "2026-11-27T14:23:35Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -186,8 +164,272 @@
       "extra": {}
     },
     {
-      "id": "percyjackson",
+      "id": "red-friday",
+      "rank": 5,
+      "previous_rank": 7,
+      "rank_4h_ago": 7,
+      "rank_history": [
+        {
+          "t": "2026-11-27T11:23:43Z",
+          "r": 7
+        },
+        {
+          "t": "2026-11-27T12:23:35Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-27T13:23:40Z",
+          "r": 4
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 5
+        }
+      ],
+      "rank_change": 2,
+      "is_new": false,
+      "topic": "RED Friday",
+      "description": "The Philadelphia Phillies are trending as they launch their holiday shopping season with a 'Red Friday' sale at Citizens Bank Park.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/RED%20Friday",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.UlHnUWTtTHWOrOuJdHjVwwHaE7&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T11:23:43Z",
+      "first_seen": "2026-11-27T11:23:43Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "victory-friday",
       "rank": 6,
+      "previous_rank": 11,
+      "rank_4h_ago": 11,
+      "rank_history": [
+        {
+          "t": "2026-11-27T13:23:40Z",
+          "r": 11
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Victory Friday",
+      "description": "The material does not provide enough clear information to explain why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Victory%20Friday",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.uq5PymJQZx_wGqirjTm5JAHaEJ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T13:23:40Z",
+      "first_seen": "2026-11-27T13:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "remember-everyone-deployed",
+      "rank": 7,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-27T13:23:40Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 7
+        }
+      ],
+      "rank_change": 3,
+      "is_new": false,
+      "topic": "Remember Everyone Deployed",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/Remember%20Everyone%20Deployed",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.CiVNm4A4pZ70HwFQTypZHQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T13:23:40Z",
+      "first_seen": "2026-11-27T13:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "u-s-air-force",
+      "rank": 8,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 8
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "U.S. Air Force",
+      "description": "The U.S. Air Force is making headlines after hackers reportedly breached its flagship Cloud One computing platform, drawing attention from Cyber Command.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/U.S.%20Air%20Force",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.kSqBly1W11SZJckdv86iWAHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T14:23:35Z",
+      "first_seen": "2026-11-27T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fridayfeeling",
+      "rank": 9,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 9
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#FridayFeeling",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23FridayFeeling",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.roWugHtOP8UOGMzjU-mT3gHaHa&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T14:23:35Z",
+      "first_seen": "2026-11-27T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "fridayvibes",
+      "rank": 10,
+      "previous_rank": 8,
+      "rank_4h_ago": 8,
+      "rank_history": [
+        {
+          "t": "2026-11-27T13:23:40Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 10
+        }
+      ],
+      "rank_change": -2,
+      "is_new": false,
+      "topic": "#FridayVibes",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23FridayVibes",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.CdYo3nJLdO-qZ3Cg0fugJAAAAA&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T13:23:40Z",
+      "first_seen": "2026-11-27T13:23:40Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gimme-shelter",
+      "rank": 11,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 11
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Gimme Shelter",
+      "description": "The material does not provide enough clear information to explain why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Gimme%20Shelter",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.l7jbVPEw_mhDkPUMfWT5VAHaFe&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T14:23:35Z",
+      "first_seen": "2026-11-27T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "cyber-monday",
+      "rank": 12,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 12
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Cyber Monday",
+      "description": "Shoppers and retailers are preparing for upcoming Cyber Week and Cyber Monday discounts following Black Friday sales events.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Cyber%20Monday",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.L8FcbgX4k1EunaFa4RXnsgHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T14:23:35Z",
+      "first_seen": "2026-11-27T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "percyjackson",
+      "rank": 13,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -206,12 +448,16 @@
         {
           "t": "2026-11-27T13:23:40Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 13
         }
       ],
-      "rank_change": -5,
+      "rank_change": -12,
       "is_new": false,
       "topic": "#PercyJackson",
-      "description": "The latest episodes of Percy Jackson and the Olympians are trending as fans react to a brutal character death and the introduction of new cast members.",
+      "description": "Social media is discussing the latest episodes of Percy Jackson and the Olympians Season 3, specifically focusing on a brutal and tragic character death.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/%23PercyJackson",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.vC1l10dMgpXpyXpxaR0Nug&pid=15.1",
@@ -220,7 +466,7 @@
       "started_trending": "2026-11-27T10:23:40Z",
       "first_seen": "2026-11-27T10:23:40Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
+      "last_seen": "2026-11-27T14:23:35Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -228,29 +474,29 @@
       "extra": {}
     },
     {
-      "id": "us-air-force",
-      "rank": 7,
+      "id": "cyber-command",
+      "rank": 14,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 7
+          "t": "2026-11-27T14:23:35Z",
+          "r": 14
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "US Air Force",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/US%20Air%20Force",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.-MoY9i6wPY1oDsEu_cB_XwHaFK&pid=15.1",
+      "topic": "Cyber Command",
+      "description": "Cyber Command has reportedly been called in to investigate a breach of the U.S. Air Force's Cloud One computing platform.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Cyber%20Command",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.QXihU67Vpq4JV6yd-6b2KwHaEh&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-27T13:23:40Z",
-      "first_seen": "2026-11-27T13:23:40Z",
+      "started_trending": "2026-11-27T14:23:35Z",
+      "first_seen": "2026-11-27T14:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
+      "last_seen": "2026-11-27T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -258,29 +504,59 @@
       "extra": {}
     },
     {
-      "id": "fridayvibes",
-      "rank": 8,
+      "id": "fursuitfriday",
+      "rank": 15,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 8
+          "t": "2026-11-27T14:23:35Z",
+          "r": 15
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "#FridayVibes",
+      "topic": "#FursuitFriday",
       "description": "",
       "description_source": "",
-      "url": "https://sotwe.com/search/%23FridayVibes",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.CdYo3nJLdO-qZ3Cg0fugJAAAAA&pid=15.1",
+      "url": "https://sotwe.com/search/%23FursuitFriday",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.7qkNoWvpk16MmeRElOEdKgHaE8&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-27T13:23:40Z",
-      "first_seen": "2026-11-27T13:23:40Z",
+      "started_trending": "2026-11-27T14:23:35Z",
+      "first_seen": "2026-11-27T14:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "happy-friyay",
+      "rank": 16,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 16
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Happy Friyay",
+      "description": "The material does not provide enough clear information to explain why this topic is trending.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Happy%20Friyay",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.4acJcqODNSSqrHT1HtODowHaEK&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T14:23:35Z",
+      "first_seen": "2026-11-27T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
@@ -289,7 +565,7 @@
     },
     {
       "id": "bianca",
-      "rank": 9,
+      "rank": 17,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -308,12 +584,16 @@
         {
           "t": "2026-11-27T13:23:40Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-27T14:23:35Z",
+          "r": 17
         }
       ],
-      "rank_change": -4,
+      "rank_change": -12,
       "is_new": false,
       "topic": "Bianca",
-      "description": "Kanye West and Bianca Censori are reportedly planning a second wedding in December, marking a major step in their relationship.",
+      "description": "Viewers and cast members are reacting on social media to Bianca's tragic death and big book changes in the latest episode of Percy Jackson.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Bianca",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.azWrvHGrD6fbl_-nzYJTmAHaKX&pid=15.1",
@@ -322,420 +602,104 @@
       "started_trending": "2026-11-27T10:23:40Z",
       "first_seen": "2026-11-27T10:23:40Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
+      "last_seen": "2026-11-27T14:23:35Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "remember-everyone-deployed",
-      "rank": 10,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 10
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Remember Everyone Deployed",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Remember%20Everyone%20Deployed",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.CiVNm4A4pZ70HwFQTypZHQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T13:23:40Z",
-      "first_seen": "2026-11-27T13:23:40Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "victory-friday",
-      "rank": 11,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 11
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Victory Friday",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Victory%20Friday",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.uq5PymJQZx_wGqirjTm5JAHaEJ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T13:23:40Z",
-      "first_seen": "2026-11-27T13:23:40Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "chiefs",
-      "rank": 12,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
-      "rank_history": [
-        {
-          "t": "2026-11-27T08:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-27T09:23:35Z",
-          "r": 1
-        },
-        {
-          "t": "2026-11-27T10:23:40Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-27T11:23:43Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-27T12:23:35Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 12
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Chiefs",
-      "description": "The Kansas City Chiefs are making headlines following a narrow 13-10 loss to the Buffalo Bills in Week 12.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Chiefs",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIF.FfQCyAsPZivmfME/5StdGg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T02:23:35Z",
-      "first_seen": "2026-11-27T02:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 11,
-      "volume": "11hr trend",
-      "volume_value": 11,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "bills",
-      "rank": 13,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
-      "rank_history": [
-        {
-          "t": "2026-11-27T09:23:35Z",
-          "r": 2
-        },
-        {
-          "t": "2026-11-27T10:23:40Z",
-          "r": 4
-        },
-        {
-          "t": "2026-11-27T11:23:43Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-27T12:23:35Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 13
-        }
-      ],
-      "rank_change": -11,
-      "is_new": false,
-      "topic": "Bills",
-      "description": "The Buffalo Bills defeated the Kansas City Chiefs 13-10 after a game-winning 57-yard field goal by Tyler Bass in rainy conditions.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Bills",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.kfvzhpEm56xqWokjTM9PiAHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T09:23:35Z",
-      "first_seen": "2026-11-27T09:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "imthanfulforyou",
-      "rank": 14,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 14
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "#ImThanfulForYou",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23ImThanfulForYou",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.HZuckjISHyh-q-IkogW4bQHaET&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T13:23:40Z",
-      "first_seen": "2026-11-27T13:23:40Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "motogp",
-      "rank": 15,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 15
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "MotoGP",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/MotoGP",
-      "image_url": "",
-      "image_source": "",
-      "image_verified": false,
-      "started_trending": "2026-11-27T13:23:40Z",
-      "first_seen": "2026-11-27T13:23:40Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "goai",
-      "rank": 16,
-      "previous_rank": 17,
-      "rank_4h_ago": 17,
-      "rank_history": [
-        {
-          "t": "2026-11-27T12:23:35Z",
-          "r": 17
-        },
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 16
-        }
-      ],
-      "rank_change": 1,
-      "is_new": false,
-      "topic": "$GOAI",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%24GOAI",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.Y42_7FYD-g3JSC3nYpuX9QHaKU&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T12:23:35Z",
-      "first_seen": "2026-11-27T12:23:35Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "buffalo",
-      "rank": 17,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 17
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "Buffalo",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/Buffalo",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.MPRUnzCQXAe67BhZIl8LxAHaE7&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T13:23:40Z",
-      "first_seen": "2026-11-27T13:23:40Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "akilah",
       "rank": 18,
-      "previous_rank": 9,
-      "rank_4h_ago": 9,
-      "rank_history": [
-        {
-          "t": "2026-11-27T11:23:43Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-27T12:23:35Z",
-          "r": 9
-        },
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 18
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "akilah",
-      "description": "The material does not contain enough information to provide a clear description for this topic.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/akilah",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.sKgQIq2Z7Rzk6aS6t0NW6QHaHa&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-27T11:23:43Z",
-      "first_seen": "2026-11-27T11:23:43Z",
-      "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "aphrodite",
-      "rank": 19,
       "previous_rank": 15,
       "rank_4h_ago": 15,
       "rank_history": [
         {
-          "t": "2026-11-27T10:23:40Z",
+          "t": "2026-11-27T13:23:40Z",
           "r": 15
         },
         {
-          "t": "2026-11-27T11:23:43Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-27T12:23:35Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-27T13:23:40Z",
-          "r": 19
+          "t": "2026-11-27T14:23:35Z",
+          "r": 18
         }
       ],
-      "rank_change": -4,
+      "rank_change": -3,
       "is_new": false,
-      "topic": "Aphrodite",
-      "description": "Aphrodite is trending following the latest episode of Percy Jackson and the Olympians covering the Junkyard of the Gods.",
+      "topic": "MotoGP",
+      "description": "Marc Marquez has stunned the sports world by announcing a shock retirement from MotoGP following his eighth world title.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Aphrodite",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.PL0sN3tgveNak3AH2hiWxgHaHa&pid=15.1",
+      "url": "https://sotwe.com/search/MotoGP",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIF.NQU4lWrvfNOCDCsnBe2dWg&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-27T10:23:40Z",
-      "first_seen": "2026-11-27T10:23:40Z",
+      "started_trending": "2026-11-27T13:23:40Z",
+      "first_seen": "2026-11-27T13:23:40Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "butker",
-      "rank": 20,
-      "previous_rank": 5,
-      "rank_4h_ago": 5,
+      "id": "adobe",
+      "rank": 19,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-27T08:23:35Z",
-          "r": 4
-        },
+          "t": "2026-11-27T14:23:35Z",
+          "r": 19
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Adobe",
+      "description": "Adobe is trending after predicting massive AI shopping traffic surges and recording billions in holiday buy now, pay later sales.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Adobe",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ZztV5ULkLdX0NlWLA8j4YgHaFj&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-27T14:23:35Z",
+      "first_seen": "2026-11-27T14:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "annabeth",
+      "rank": 20,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
         {
-          "t": "2026-11-27T09:23:35Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-27T10:23:40Z",
-          "r": 7
-        },
-        {
-          "t": "2026-11-27T11:23:43Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-27T12:23:35Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-27T13:23:40Z",
+          "t": "2026-11-27T14:23:35Z",
           "r": 20
         }
       ],
-      "rank_change": -15,
-      "is_new": false,
-      "topic": "Butker",
-      "description": "Chiefs kicker Harrison Butker is facing scrutiny after missing a costly field goal in a narrow loss to the Buffalo Bills.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "annabeth",
+      "description": "Fans are discussing Annabeth's vision and the intense new episodes of Percy Jackson and the Olympians Season 3.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Butker",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIF.Nh9X2l9hs2Swd/f/CxpYTw&pid=15.1",
+      "url": "https://sotwe.com/search/annabeth",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIF.vC1l10dMgpXpyXpxaR0Nug&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-27T04:23:36Z",
-      "first_seen": "2026-11-27T04:23:36Z",
+      "started_trending": "2026-11-27T14:23:35Z",
+      "first_seen": "2026-11-27T14:23:35Z",
       "published": null,
-      "last_seen": "2026-11-27T13:23:40Z",
-      "hours_trending": 9,
-      "volume": "9hr trend",
-      "volume_value": 9,
+      "last_seen": "2026-11-27T14:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     }
