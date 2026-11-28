@@ -1,7 +1,7 @@
 {
   "source": "social_media",
   "label": "Social Media",
-  "updated": "2026-11-28T08:24:52Z",
+  "updated": "2026-11-28T09:25:10Z",
   "region": "United States",
   "source_url": "Apify actor ()",
   "rank_basis": "platform_rank",
@@ -28,12 +28,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 1
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 1
         }
       ],
       "rank_change": 1,
       "is_new": false,
       "topic": "Luka",
-      "description": "Luka Dončić is trending after a heated postgame incident where a fan shoved him following a loss to the San Antonio Spurs.",
+      "description": "Luka Dončić is trending after being shoved by a fan during a heated postgame confrontation following the Lakers' loss to the Spurs in San Antonio.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Luka",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.osAG5aySh_oZIB0nEc_KqwHaFa&pid=15.1",
@@ -42,7 +46,49 @@
       "started_trending": "2026-11-28T05:23:33Z",
       "first_seen": "2026-11-28T05:23:33Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "gmmtvstarlympics2026",
+      "rank": 2,
+      "previous_rank": 10,
+      "rank_4h_ago": 10,
+      "rank_history": [
+        {
+          "t": "2026-11-28T06:23:31Z",
+          "r": 10
+        },
+        {
+          "t": "2026-11-28T07:23:31Z",
+          "r": 5
+        },
+        {
+          "t": "2026-11-28T08:23:34Z",
+          "r": 3
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 2
+        }
+      ],
+      "rank_change": 8,
+      "is_new": false,
+      "topic": "#GMMTVStarlympics2026",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23GMMTVStarlympics2026",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.OQ75hNNvUWMnbmYSivzjJg&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-28T06:23:31Z",
+      "first_seen": "2026-11-28T06:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-28T09:23:35Z",
       "hours_trending": 3,
       "volume": "3hr trend",
       "volume_value": 3,
@@ -51,7 +97,7 @@
     },
     {
       "id": "lakers",
-      "rank": 2,
+      "rank": 3,
       "previous_rank": 1,
       "rank_4h_ago": 1,
       "rank_history": [
@@ -70,12 +116,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 2
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 3
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Lakers",
-      "description": "The Los Angeles Lakers are trending following a 99-96 loss to the San Antonio Spurs, which eliminated them from the NBA Cup knockout round.",
+      "description": "The Lakers are trending following a 99-96 loss to the Spurs, during which San Antonio erased a 20-point deficit to eliminate Los Angeles in NBA Cup action.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Lakers",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.UwSzIWNx4vc6j5ikxuaS0gHaFj&pid=15.1",
@@ -84,56 +134,18 @@
       "started_trending": "2026-11-28T05:23:33Z",
       "first_seen": "2026-11-28T05:23:33Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gmmtvstarlympics2026",
-      "rank": 3,
-      "previous_rank": 10,
-      "rank_4h_ago": 10,
-      "rank_history": [
-        {
-          "t": "2026-11-28T06:23:31Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-28T07:23:31Z",
-          "r": 5
-        },
-        {
-          "t": "2026-11-28T08:23:34Z",
-          "r": 3
-        }
-      ],
-      "rank_change": 7,
-      "is_new": false,
-      "topic": "#GMMTVStarlympics2026",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/%23GMMTVStarlympics2026",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.OQ75hNNvUWMnbmYSivzjJg&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-28T06:23:31Z",
-      "first_seen": "2026-11-28T06:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "spurs",
       "rank": 4,
-      "previous_rank": 2,
-      "rank_4h_ago": 2,
+      "previous_rank": 3,
+      "rank_4h_ago": 3,
       "rank_history": [
         {
           "t": "2026-11-28T04:23:32Z",
@@ -154,12 +166,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 4
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 4
         }
       ],
-      "rank_change": -2,
+      "rank_change": -1,
       "is_new": false,
       "topic": "Spurs",
-      "description": "The San Antonio Spurs are trending after erasing a 20-point deficit to defeat the Los Angeles Lakers 99-96 and advance in the NBA Cup.",
+      "description": "The Spurs are trending after erasing a 20-point deficit to defeat the Lakers 99-96 in NBA Cup action and advance to the knockout round as a wild card.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Spurs",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.Pyhih5iKPbOqL0Je6HV/Iw&pid=15.1",
@@ -168,10 +184,10 @@
       "started_trending": "2026-11-28T04:23:32Z",
       "first_seen": "2026-11-28T04:23:32Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
@@ -196,12 +212,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 5
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 5
         }
       ],
       "rank_change": -1,
       "is_new": false,
       "topic": "Mark Pope",
-      "description": "Kentucky basketball coach Mark Pope is facing heavy scrutiny and fan backlash following a stunning overtime home loss to Wichita State.",
+      "description": "Mark Pope is trending after being booed off the floor at Rupp Arena as Kentucky suffered a stunning overtime loss to Wichita State.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Mark%20Pope",
       "image_url": "https://ts1.mm.bing.net/th?id=OIF.EKsSC0XmqhBKZr7GP6mrRQ&pid=15.1",
@@ -210,16 +230,54 @@
       "started_trending": "2026-11-28T05:23:33Z",
       "first_seen": "2026-11-28T05:23:33Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "perthsanta-domiia-famignite",
+      "rank": 6,
+      "previous_rank": 12,
+      "rank_4h_ago": 12,
+      "rank_history": [
+        {
+          "t": "2026-11-28T07:23:31Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-28T08:23:34Z",
+          "r": 8
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 6
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "PERTHSANTA DOMIIA FAMIGNITE",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/PERTHSANTA%20DOMIIA%20FAMIGNITE",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.0wVbE_TJicgI6VUJaUXFMwHaE8&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-28T07:23:31Z",
+      "first_seen": "2026-11-28T07:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wemby",
-      "rank": 6,
+      "rank": 7,
       "previous_rank": 5,
       "rank_4h_ago": 5,
       "rank_history": [
@@ -238,12 +296,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 6
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 7
         }
       ],
-      "rank_change": -1,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Wemby",
-      "description": "San Antonio Spurs star Victor Wembanyama is trending following a high-profile MVP showdown against Luka Dončić and the Los Angeles Lakers.",
+      "description": "Wemby is trending following a matchup against Luka Dončić and the Lakers in a showdown between early MVP frontrunners.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Wemby",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.qFWPGshRudrMhURz0hvx2A&pid=15.1",
@@ -252,16 +314,16 @@
       "started_trending": "2026-11-28T05:23:33Z",
       "first_seen": "2026-11-28T05:23:33Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "kessler",
-      "rank": 7,
+      "rank": 8,
       "previous_rank": 8,
       "rank_4h_ago": 8,
       "rank_history": [
@@ -280,12 +342,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 7
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 8
         }
       ],
-      "rank_change": 1,
+      "rank_change": 0,
       "is_new": false,
       "topic": "Kessler",
-      "description": "Walker Kessler is trending after Luka Dončić revealed he pushed the Lakers front office to acquire the Utah Jazz center.",
+      "description": "Walker Kessler is trending after Luka Dončić revealed he asked the Lakers front office to acquire the center in a trade.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Kessler",
       "image_url": "https://ts2.mm.bing.net/th?id=OIF.YY2uaCmMpWKW8sb1Mi4gCQ&pid=15.1",
@@ -294,57 +360,19 @@
       "started_trending": "2026-11-28T05:23:33Z",
       "first_seen": "2026-11-28T05:23:33Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "perthsanta-domiia-famignite",
-      "rank": 8,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-28T07:23:31Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-28T08:23:34Z",
-          "r": 8
-        }
-      ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "PERTHSANTA DOMIIA FAMIGNITE",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/PERTHSANTA%20DOMIIA%20FAMIGNITE",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.0wVbE_TJicgI6VUJaUXFMwHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-28T07:23:31Z",
-      "first_seen": "2026-11-28T07:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 4,
+      "volume": "4hr trend",
+      "volume_value": 4,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "bronson-reed",
       "rank": 9,
-      "previous_rank": 1,
-      "rank_4h_ago": 1,
+      "previous_rank": 6,
+      "rank_4h_ago": 6,
       "rank_history": [
-        {
-          "t": "2026-11-28T03:23:35Z",
-          "r": 1
-        },
         {
           "t": "2026-11-28T04:23:32Z",
           "r": 1
@@ -364,12 +392,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 9
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 9
         }
       ],
-      "rank_change": -8,
+      "rank_change": -3,
       "is_new": false,
       "topic": "Bronson Reed",
-      "description": "WWE star Bronson Reed, also known as Jermaine Haley, has tragically died at the age of 38 due to medical complications.",
+      "description": "Bronson Reed is trending following the tragic news that the WWE star, also known as Jermaine Haley, has died at age 38 due to medical complications.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Bronson%20Reed",
       "image_url": "https://ts2.mm.bing.net/th?id=OIP.GZ4vRlU-4FMs4N7ftDQyeQHaE8&pid=15.1",
@@ -378,16 +410,92 @@
       "started_trending": "2026-11-28T00:23:33Z",
       "first_seen": "2026-11-28T00:23:33Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 8,
-      "volume": "8hr trend",
-      "volume_value": 8,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 9,
+      "volume": "9hr trend",
+      "volume_value": 9,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "joong-dunk-jaidee-sports-day",
+      "rank": 10,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-28T08:23:34Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 10
+        }
+      ],
+      "rank_change": 6,
+      "is_new": false,
+      "topic": "JOONG DUNK JAIDEE SPORTS DAY",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/JOONG%20DUNK%20JAIDEE%20SPORTS%20DAY",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIF.FqJHBa0kne8PwFnzCeLbhQ&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-28T08:23:34Z",
+      "first_seen": "2026-11-28T08:23:34Z",
+      "published": null,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 1,
+      "volume": "1hr trend",
+      "volume_value": 1,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "tupac",
+      "rank": 11,
+      "previous_rank": 16,
+      "rank_4h_ago": 16,
+      "rank_history": [
+        {
+          "t": "2026-11-28T06:23:31Z",
+          "r": 16
+        },
+        {
+          "t": "2026-11-28T07:23:31Z",
+          "r": 14
+        },
+        {
+          "t": "2026-11-28T08:23:34Z",
+          "r": 12
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 11
+        }
+      ],
+      "rank_change": 5,
+      "is_new": false,
+      "topic": "Tupac",
+      "description": "Tupac is trending on social media as media outlets release and discuss a newly revealed, explosive 30-year-old interview conducted by Angie Martinez.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Tupac",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.GBTbyymzN2uG-YkvlF6l2AHaHU&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-28T06:23:31Z",
+      "first_seen": "2026-11-28T06:23:31Z",
+      "published": null,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 3,
+      "volume": "3hr trend",
+      "volume_value": 3,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "creighton",
-      "rank": 10,
+      "rank": 12,
       "previous_rank": 10,
       "rank_4h_ago": 10,
       "rank_history": [
@@ -398,12 +506,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 10
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 12
         }
       ],
-      "rank_change": 0,
+      "rank_change": -2,
       "is_new": false,
       "topic": "Creighton",
-      "description": "Creighton is trending after securing a stunning 97-89 overtime victory against No. 25 Gonzaga.",
+      "description": "Creighton is trending after securing a thrilling 97-89 overtime victory against No. 25 Gonzaga.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Creighton",
       "image_url": "https://ts3.mm.bing.net/th?id=OIP.CCKDM75eBbElCAdQoH4WggHaD2&pid=15.1",
@@ -412,16 +524,106 @@
       "started_trending": "2026-11-28T07:23:31Z",
       "first_seen": "2026-11-28T07:23:31Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 2,
+      "volume": "2hr trend",
+      "volume_value": 2,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "ppp-family-fighting",
+      "rank": 13,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 13
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "PPP FAMILY FIGHTING",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/PPP%20FAMILY%20FIGHTING",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.-0UIq8GK2Ndf84U4MbLgXQHaFP&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-28T09:23:35Z",
+      "first_seen": "2026-11-28T09:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "williamest-wesley-race-on",
+      "rank": 14,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 14
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "WILLIAMEST WESLEY RACE ON",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/WILLIAMEST%20WESLEY%20RACE%20ON",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.oPoENeaICS5ca3lTTKKgBQHaKp&pid=15.1",
+      "image_source": "duckduckgo_thumb",
+      "image_verified": true,
+      "started_trending": "2026-11-28T09:23:35Z",
+      "first_seen": "2026-11-28T09:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "chuy",
+      "rank": 15,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 15
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "Chuy",
+      "description": "Chuy is trending as Chuy Corona beams with pride after his son shines for Mexico at the U-17 World Cup.",
+      "description_source": "gemini",
+      "url": "https://sotwe.com/search/Chuy",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-28T09:23:35Z",
+      "first_seen": "2026-11-28T09:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "reaves",
-      "rank": 11,
+      "rank": 16,
       "previous_rank": 7,
       "rank_4h_ago": 7,
       "rank_history": [
@@ -444,12 +646,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 11
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 16
         }
       ],
-      "rank_change": -4,
+      "rank_change": -9,
       "is_new": false,
       "topic": "Reaves",
-      "description": "Austin Reaves is trending after returning to the Los Angeles Lakers lineup against the San Antonio Spurs following a five-game absence due to a heel bruise.",
+      "description": "Austin Reaves is trending after returning to the Lakers lineup against the Spurs following a five-game absence due to a heel bruise.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Reaves",
       "image_url": "https://ts4.mm.bing.net/th?id=OIF.qAFYrWNstSOusicuCqoRzw&pid=15.1",
@@ -458,54 +664,76 @@
       "started_trending": "2026-11-28T04:23:32Z",
       "first_seen": "2026-11-28T04:23:32Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 5,
+      "volume": "5hr trend",
+      "volume_value": 5,
       "volume_unit": "hours",
       "extra": {}
     },
     {
-      "id": "tupac",
-      "rank": 12,
-      "previous_rank": 16,
-      "rank_4h_ago": 16,
+      "id": "wlfi",
+      "rank": 17,
+      "previous_rank": null,
+      "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-28T06:23:31Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-28T07:23:31Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-28T08:23:34Z",
-          "r": 12
+          "t": "2026-11-28T09:23:35Z",
+          "r": 17
         }
       ],
-      "rank_change": 4,
-      "is_new": false,
-      "topic": "Tupac",
-      "description": "Tupac Shakur is trending after Angie Martinez released an explosive final interview with the late rap icon that she kept hidden for 30 years.",
+      "rank_change": null,
+      "is_new": true,
+      "topic": "WLFI",
+      "description": "WLFI is trending after World Liberty Financial's token plunged 59% in 24 hours amid accusations and calls for delisting from Justin Sun.",
       "description_source": "gemini",
-      "url": "https://sotwe.com/search/Tupac",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.GBTbyymzN2uG-YkvlF6l2AHaHU&pid=15.1",
+      "url": "https://sotwe.com/search/WLFI",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.BoM1wo7vNA3YmptLZm0xsgHaHZ&pid=15.1",
       "image_source": "duckduckgo_thumb",
       "image_verified": true,
-      "started_trending": "2026-11-28T06:23:31Z",
-      "first_seen": "2026-11-28T06:23:31Z",
+      "started_trending": "2026-11-28T09:23:35Z",
+      "first_seen": "2026-11-28T09:23:35Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 2,
-      "volume": "2hr trend",
-      "volume_value": 2,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
+      "volume_unit": "hours",
+      "extra": {}
+    },
+    {
+      "id": "lingorm1stfanconinmacao",
+      "rank": 18,
+      "previous_rank": null,
+      "rank_4h_ago": null,
+      "rank_history": [
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 18
+        }
+      ],
+      "rank_change": null,
+      "is_new": true,
+      "topic": "#LingOrm1stFanconInMacao",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/%23LingOrm1stFanconInMacao",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-28T09:23:35Z",
+      "first_seen": "2026-11-28T09:23:35Z",
+      "published": null,
+      "last_seen": "2026-11-28T09:23:35Z",
+      "hours_trending": 0,
+      "volume": "<1hr trend",
+      "volume_value": 0,
       "volume_unit": "hours",
       "extra": {}
     },
     {
       "id": "wichita-state",
-      "rank": 13,
+      "rank": 19,
       "previous_rank": 9,
       "rank_4h_ago": 9,
       "rank_history": [
@@ -524,12 +752,16 @@
         {
           "t": "2026-11-28T08:23:34Z",
           "r": 13
+        },
+        {
+          "t": "2026-11-28T09:23:35Z",
+          "r": 19
         }
       ],
-      "rank_change": -4,
+      "rank_change": -10,
       "is_new": false,
       "topic": "Wichita State",
-      "description": "Wichita State is trending after pulling off a stunning 73-71 overtime upset win against Kentucky at Rupp Arena.",
+      "description": "Wichita State is trending after pulling off a stunning 73-71 overtime victory over Kentucky at Rupp Arena.",
       "description_source": "gemini",
       "url": "https://sotwe.com/search/Wichita%20State",
       "image_url": "https://ts1.mm.bing.net/th?id=OIP.GRxply2mxKLAvsDP720hWwHaMy&pid=15.1",
@@ -538,87 +770,7 @@
       "started_trending": "2026-11-28T05:23:33Z",
       "first_seen": "2026-11-28T05:23:33Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "gonzaga",
-      "rank": 14,
-      "previous_rank": 13,
-      "rank_4h_ago": 13,
-      "rank_history": [
-        {
-          "t": "2026-11-28T07:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-28T08:23:34Z",
-          "r": 14
-        }
-      ],
-      "rank_change": -1,
-      "is_new": false,
-      "topic": "Gonzaga",
-      "description": "Gonzaga is trending following a tough 97-89 overtime loss to Creighton after being outscored late in the game.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Gonzaga",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.U5-_uYGOVlP4ZlTRiMLJnwHaEK&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-28T07:23:31Z",
-      "first_seen": "2026-11-28T07:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "elko",
-      "rank": 15,
-      "previous_rank": 6,
-      "rank_4h_ago": 6,
-      "rank_history": [
-        {
-          "t": "2026-11-28T04:23:32Z",
-          "r": 6
-        },
-        {
-          "t": "2026-11-28T05:23:33Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-28T06:23:31Z",
-          "r": 13
-        },
-        {
-          "t": "2026-11-28T07:23:31Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-28T08:23:34Z",
-          "r": 15
-        }
-      ],
-      "rank_change": -9,
-      "is_new": false,
-      "topic": "Elko",
-      "description": "Texas A&M coach Mike Elko is facing immense pressure after a 4-8 season concluded with a 16-6 loss to rival Texas.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Elko",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.0vdBmkRDceSKVO77blDDPQAAAA&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-28T04:23:32Z",
-      "first_seen": "2026-11-28T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
+      "last_seen": "2026-11-28T09:23:35Z",
       "hours_trending": 4,
       "volume": "4hr trend",
       "volume_value": 4,
@@ -626,181 +778,29 @@
       "extra": {}
     },
     {
-      "id": "joong-dunk-jaidee-sports-day",
-      "rank": 16,
-      "previous_rank": null,
-      "rank_4h_ago": null,
-      "rank_history": [
-        {
-          "t": "2026-11-28T08:23:34Z",
-          "r": 16
-        }
-      ],
-      "rank_change": null,
-      "is_new": true,
-      "topic": "JOONG DUNK JAIDEE SPORTS DAY",
-      "description": "",
-      "description_source": "",
-      "url": "https://sotwe.com/search/JOONG%20DUNK%20JAIDEE%20SPORTS%20DAY",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIF.FqJHBa0kne8PwFnzCeLbhQ&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-28T08:23:34Z",
-      "first_seen": "2026-11-28T08:23:34Z",
-      "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 0,
-      "volume": "<1hr trend",
-      "volume_value": 0,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "lakeshow",
-      "rank": 17,
-      "previous_rank": 12,
-      "rank_4h_ago": 12,
-      "rank_history": [
-        {
-          "t": "2026-11-28T04:23:32Z",
-          "r": 12
-        },
-        {
-          "t": "2026-11-28T05:23:33Z",
-          "r": 10
-        },
-        {
-          "t": "2026-11-28T06:23:31Z",
-          "r": 11
-        },
-        {
-          "t": "2026-11-28T07:23:31Z",
-          "r": 16
-        },
-        {
-          "t": "2026-11-28T08:23:34Z",
-          "r": 17
-        }
-      ],
-      "rank_change": -5,
-      "is_new": false,
-      "topic": "#LakeShow",
-      "description": "The material does not make a description clear for #LakeShow.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/%23LakeShow",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.n1lTfeuRiktvlWq0or5FlQHaFj&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-28T04:23:32Z",
-      "first_seen": "2026-11-28T04:23:32Z",
-      "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 4,
-      "volume": "4hr trend",
-      "volume_value": 4,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "oba-femi",
-      "rank": 18,
-      "previous_rank": 20,
-      "rank_4h_ago": 20,
-      "rank_history": [
-        {
-          "t": "2026-11-28T07:23:31Z",
-          "r": 20
-        },
-        {
-          "t": "2026-11-28T08:23:34Z",
-          "r": 18
-        }
-      ],
-      "rank_change": 2,
-      "is_new": false,
-      "topic": "Oba Femi",
-      "description": "Oba Femi is trending after being featured in WWE star Bronson Reed's final segment at Crown Jewel before Reed's untimely passing.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Oba%20Femi",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.-KexRrFEgM2zgKIXf4-4FAHaFP&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-28T07:23:31Z",
-      "first_seen": "2026-11-28T07:23:31Z",
-      "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 1,
-      "volume": "1hr trend",
-      "volume_value": 1,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "carter-bryant",
-      "rank": 19,
-      "previous_rank": 15,
-      "rank_4h_ago": 15,
-      "rank_history": [
-        {
-          "t": "2026-11-28T05:23:33Z",
-          "r": 15
-        },
-        {
-          "t": "2026-11-28T06:23:31Z",
-          "r": 14
-        },
-        {
-          "t": "2026-11-28T07:23:31Z",
-          "r": 18
-        },
-        {
-          "t": "2026-11-28T08:23:34Z",
-          "r": 19
-        }
-      ],
-      "rank_change": -4,
-      "is_new": false,
-      "topic": "Carter Bryant",
-      "description": "Carter Bryant is trending following his performance for the San Antonio Spurs in their dramatic comeback win over the Los Angeles Lakers.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Carter%20Bryant",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.62hJPgFqOxDy0o0p0ZUSnAHaE8&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-28T05:23:33Z",
-      "first_seen": "2026-11-28T05:23:33Z",
-      "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
-      "hours_trending": 3,
-      "volume": "3hr trend",
-      "volume_value": 3,
-      "volume_unit": "hours",
-      "extra": {}
-    },
-    {
-      "id": "dampier",
+      "id": "lingorm-born-to-fly-fancon",
       "rank": 20,
       "previous_rank": null,
       "rank_4h_ago": null,
       "rank_history": [
         {
-          "t": "2026-11-28T08:23:34Z",
+          "t": "2026-11-28T09:23:35Z",
           "r": 20
         }
       ],
       "rank_change": null,
       "is_new": true,
-      "topic": "Dampier",
-      "description": "Utah quarterback Devon Dampier is generating Heisman buzz after leading No. 2 Utah to a 52-point blowout win and a 12-0 undefeated regular season.",
-      "description_source": "gemini",
-      "url": "https://sotwe.com/search/Dampier",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIF.tGZTg2v0b8n0rBsFA7Qn8A&pid=15.1",
-      "image_source": "duckduckgo_thumb",
-      "image_verified": true,
-      "started_trending": "2026-11-28T08:23:34Z",
-      "first_seen": "2026-11-28T08:23:34Z",
+      "topic": "LINGORM BORN TO FLY FANCON",
+      "description": "",
+      "description_source": "",
+      "url": "https://sotwe.com/search/LINGORM%20BORN%20TO%20FLY%20FANCON",
+      "image_url": "",
+      "image_source": "",
+      "image_verified": false,
+      "started_trending": "2026-11-28T09:23:35Z",
+      "first_seen": "2026-11-28T09:23:35Z",
       "published": null,
-      "last_seen": "2026-11-28T08:23:34Z",
+      "last_seen": "2026-11-28T09:23:35Z",
       "hours_trending": 0,
       "volume": "<1hr trend",
       "volume_value": 0,
